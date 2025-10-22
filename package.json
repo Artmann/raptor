@@ -3,15 +3,32 @@
   "version": "0.1.0",
   "description": "An embedding database that stores text indexes",
   "type": "module",
-  "main": "src/index.ts",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "dev": "bun run src/index.ts",
-    "test": "vitest",
-    "test:ui": "vitest --ui"
+    "test": "vitest run",
+    "test:ui": "vitest --ui",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit",
+    "build": "rolldown --config rolldown.config.ts && tsc --emitDeclarationOnly --declaration --outDir dist"
   },
   "devDependencies": {
+    "@rolldown/node": "^0.15.3",
     "@types/bun": "latest",
     "@vitest/ui": "^2.1.8",
+    "rolldown": "^0.15.3",
     "vitest": "^2.1.8"
   },
   "peerDependencies": {
