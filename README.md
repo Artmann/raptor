@@ -23,23 +23,27 @@ Raptor includes a command-line interface for storing and searching embeddings.
 ### Commands
 
 **Store a text embedding:**
+
 ```bash
 raptor store <key> <text> [--storePath path]
 ```
 
 **Retrieve an embedding by key:**
+
 ```bash
 raptor get <key> [--storePath path]
 ```
 
 **Search for similar embeddings:**
+
 ```bash
 raptor search <query> [--limit 10] [--minSimilarity 0] [--storePath path]
 ```
 
 ### Options
 
-- `-s, --storePath` - Path to the embeddings store file (default: ./data/embeddings.jsonl)
+- `-s, --storePath` - Path to the embeddings store file (default:
+  ./data/embeddings.jsonl)
 - `-l, --limit` - Maximum number of results to return (default: 10)
 - `-m, --minSimilarity` - Minimum similarity threshold 0-1 (default: 0)
 
@@ -64,27 +68,30 @@ raptor store key1 "Some text" --storePath ./custom/path.jsonl
 ## Programmatic Usage
 
 ```typescript
-import { EmbeddingEngine } from "./src/index";
+import { EmbeddingEngine } from './src/index'
 
 const engine = new EmbeddingEngine({
-  storePath: "./data/embeddings.jsonl",
-});
+  storePath: './data/embeddings.jsonl'
+})
 
 // Store text with embeddings
-await engine.store("doc1", "The quick brown fox jumps over the lazy dog");
-await engine.store("doc2", "Machine learning is a subset of artificial intelligence");
+await engine.store('doc1', 'The quick brown fox jumps over the lazy dog')
+await engine.store(
+  'doc2',
+  'Machine learning is a subset of artificial intelligence'
+)
 
 // Retrieve embeddings by key
-const entry = await engine.get("doc1");
+const entry = await engine.get('doc1')
 if (entry) {
-  console.log(entry.text);
-  console.log(entry.embedding);
+  console.log(entry.text)
+  console.log(entry.embedding)
 }
 
 // Search for similar texts
-const results = await engine.search("artificial intelligence", 5);
+const results = await engine.search('artificial intelligence', 5)
 for (const result of results) {
-  console.log(`[${result.similarity.toFixed(4)}] ${result.entry.text}`);
+  console.log(`[${result.similarity.toFixed(4)}] ${result.entry.text}`)
 }
 ```
 
@@ -133,7 +140,8 @@ Retrieve an embedding entry by key.
 - `key` - Unique identifier for the entry
 - Returns the most recent entry with the given key, or `null` if not found
 
-**Note:** If a key is stored multiple times, the most recent entry (based on timestamp) is returned.
+**Note:** If a key is stored multiple times, the most recent entry (based on
+timestamp) is returned.
 
 #### `search(query: string, limit?: number, minSimilarity?: number): Promise<SearchResult[]>`
 
@@ -145,15 +153,18 @@ Search for similar embeddings using cosine similarity.
 - Returns array of results sorted by similarity (highest first)
 
 **SearchResult** structure:
+
 ```typescript
 {
-  entry: EmbeddingEntry;  // The matching entry
-  similarity: number;     // Cosine similarity score (1 = identical, 0 = orthogonal, -1 = opposite)
+  entry: EmbeddingEntry // The matching entry
+  similarity: number // Cosine similarity score (1 = identical, 0 = orthogonal, -1 = opposite)
 }
 ```
 
 **How it works:**
+
 1. Generates an embedding for the query text
-2. Compares the query embedding against all stored embeddings using cosine similarity
+2. Compares the query embedding against all stored embeddings using cosine
+   similarity
 3. Returns the most similar results above the minimum threshold
 4. Automatically deduplicates by key (uses most recent entry)

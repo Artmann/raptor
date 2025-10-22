@@ -1,72 +1,72 @@
-import { describe, it, expect, beforeEach, afterEach } from "vitest";
-import { EmbeddingEngine } from "./engine";
-import { readFile, unlink, mkdir } from "node:fs/promises";
-import { existsSync } from "node:fs";
-import { dirname } from "node:path";
+import { describe, it, expect, beforeEach, afterEach } from 'vitest'
+import { EmbeddingEngine } from './engine'
+import { readFile, unlink, mkdir } from 'node:fs/promises'
+import { existsSync } from 'node:fs'
+import { dirname } from 'node:path'
 
-describe("EmbeddingEngine", () => {
-  const testStorePath = "./test-data/test-embeddings.jsonl";
-  let engine: EmbeddingEngine;
+describe('EmbeddingEngine', () => {
+  const testStorePath = './test-data/test-embeddings.jsonl'
+  let engine: EmbeddingEngine
 
   beforeEach(async () => {
     // Create test directory if it doesn't exist
-    const dir = dirname(testStorePath);
+    const dir = dirname(testStorePath)
     if (!existsSync(dir)) {
-      await mkdir(dir, { recursive: true });
+      await mkdir(dir, { recursive: true })
     }
 
     engine = new EmbeddingEngine({
-      storePath: testStorePath,
-    });
-  });
+      storePath: testStorePath
+    })
+  })
 
   afterEach(async () => {
     // Clean up test file
     try {
       if (existsSync(testStorePath)) {
-        await unlink(testStorePath);
+        await unlink(testStorePath)
       }
     } catch (error) {
       // Ignore errors if file doesn't exist
     }
-  });
+  })
 
-  describe("store", () => {
-    it("should store a single text entry", async () => {
-      await engine.store("doc1", "Hello world");
+  describe('store', () => {
+    it('should store a single text entry', async () => {
+      await engine.store('doc1', 'Hello world')
 
-      const content = await readFile(testStorePath, "utf-8");
-      const lines = content.trim().split("\n");
+      const content = await readFile(testStorePath, 'utf-8')
+      const lines = content.trim().split('\n')
 
-      expect(lines.length).toBe(1);
+      expect(lines.length).toBe(1)
 
-      const entry = JSON.parse(lines[0]);
-      expect(entry.key).toBe("doc1");
-      expect(entry.text).toBe("Hello world");
-      expect(entry.embedding).toBeInstanceOf(Array);
-      expect(entry.embedding.length).toBe(384);
-      expect(entry.timestamp).toBeTypeOf("number");
-    });
+      const entry = JSON.parse(lines[0])
+      expect(entry.key).toBe('doc1')
+      expect(entry.text).toBe('Hello world')
+      expect(entry.embedding).toBeInstanceOf(Array)
+      expect(entry.embedding.length).toBe(384)
+      expect(entry.timestamp).toBeTypeOf('number')
+    })
 
-    it("should store multiple text entries in append-only format", async () => {
-      await engine.store("doc1", "The quick brown fox");
-      await engine.store("doc2", "Machine learning is powerful");
-      await engine.store("doc3", "Bun is fast");
+    it('should store multiple text entries in append-only format', async () => {
+      await engine.store('doc1', 'The quick brown fox')
+      await engine.store('doc2', 'Machine learning is powerful')
+      await engine.store('doc3', 'Bun is fast')
 
-      const content = await readFile(testStorePath, "utf-8");
+      const content = await readFile(testStorePath, 'utf-8')
 
       // Verify file format with inline snapshot
       // Remove timestamps and embeddings for stable snapshot
-      const lines = content.trim().split("\n");
-      const sanitized = lines.map(line => {
-        const entry = JSON.parse(line);
+      const lines = content.trim().split('\n')
+      const sanitized = lines.map((line) => {
+        const entry = JSON.parse(line)
         return {
           key: entry.key,
           text: entry.text,
           embeddingLength: entry.embedding.length,
-          hasTimestamp: typeof entry.timestamp === "number"
-        };
-      });
+          hasTimestamp: typeof entry.timestamp === 'number'
+        }
+      })
 
       expect(sanitized).toMatchInlineSnapshot(`
         [
@@ -89,26 +89,28 @@ describe("EmbeddingEngine", () => {
             "text": "Bun is fast",
           },
         ]
-      `);
-    });
+      `)
+    })
 
-    it("should verify actual file content structure", async () => {
-      await engine.store("test1", "First document");
-      await engine.store("test2", "Second document");
+    it('should verify actual file content structure', async () => {
+      await engine.store('test1', 'First document')
+      await engine.store('test2', 'Second document')
 
-      const content = await readFile(testStorePath, "utf-8");
-      const lines = content.trim().split("\n");
+      const content = await readFile(testStorePath, 'utf-8')
+      const lines = content.trim().split('\n')
 
       // Parse each line to verify it's valid JSON
-      const entries = lines.map(line => JSON.parse(line));
+      const entries = lines.map((line) => JSON.parse(line))
 
       // Create a snapshot-friendly version
-      const snapshot = entries.map(entry => ({
+      const snapshot = entries.map((entry) => ({
         key: entry.key,
         text: entry.text,
-        embeddingFirstThree: entry.embedding.slice(0, 3).map((n: number) => n.toFixed(4)),
-        embeddingLength: entry.embedding.length,
-      }));
+        embeddingFirstThree: entry.embedding
+          .slice(0, 3)
+          .map((n: number) => n.toFixed(4)),
+        embeddingLength: entry.embedding.length
+      }))
 
       expect(snapshot).toMatchInlineSnapshot(`
         [
@@ -133,101 +135,106 @@ describe("EmbeddingEngine", () => {
             "text": "Second document",
           },
         ]
-      `);
-    });
+      `)
+    })
 
-    it("should append entries with same key", async () => {
-      await engine.store("doc1", "Original text");
-      await engine.store("doc1", "Updated text");
+    it('should append entries with same key', async () => {
+      await engine.store('doc1', 'Original text')
+      await engine.store('doc1', 'Updated text')
 
-      const content = await readFile(testStorePath, "utf-8");
-      const lines = content.trim().split("\n");
+      const content = await readFile(testStorePath, 'utf-8')
+      const lines = content.trim().split('\n')
 
-      expect(lines.length).toBe(2);
+      expect(lines.length).toBe(2)
 
-      const entries = lines.map(line => JSON.parse(line));
-      expect(entries[0].text).toBe("Original text");
-      expect(entries[1].text).toBe("Updated text");
-      expect(entries[0].key).toBe("doc1");
-      expect(entries[1].key).toBe("doc1");
-    });
-  });
+      const entries = lines.map((line) => JSON.parse(line))
+      expect(entries[0].text).toBe('Original text')
+      expect(entries[1].text).toBe('Updated text')
+      expect(entries[0].key).toBe('doc1')
+      expect(entries[1].key).toBe('doc1')
+    })
+  })
 
-  describe("get", () => {
-    it("should retrieve stored entry by key", async () => {
-      await engine.store("doc1", "Test content");
+  describe('get', () => {
+    it('should retrieve stored entry by key', async () => {
+      await engine.store('doc1', 'Test content')
 
-      const entry = await engine.get("doc1");
+      const entry = await engine.get('doc1')
 
-      expect(entry).not.toBeNull();
-      expect(entry?.key).toBe("doc1");
-      expect(entry?.text).toBe("Test content");
-    });
+      expect(entry).not.toBeNull()
+      expect(entry?.key).toBe('doc1')
+      expect(entry?.text).toBe('Test content')
+    })
 
-    it("should return null for non-existent key", async () => {
-      const entry = await engine.get("nonexistent");
-      expect(entry).toBeNull();
-    });
+    it('should return null for non-existent key', async () => {
+      const entry = await engine.get('nonexistent')
+      expect(entry).toBeNull()
+    })
 
-    it("should return most recent entry for duplicate keys", async () => {
-      await engine.store("doc1", "First version");
-      await new Promise(resolve => setTimeout(resolve, 10)); // Ensure different timestamps
-      await engine.store("doc1", "Second version");
+    it('should return most recent entry for duplicate keys', async () => {
+      await engine.store('doc1', 'First version')
+      await new Promise((resolve) => setTimeout(resolve, 10)) // Ensure different timestamps
+      await engine.store('doc1', 'Second version')
 
-      const entry = await engine.get("doc1");
+      const entry = await engine.get('doc1')
 
-      expect(entry?.text).toBe("Second version");
-    });
-  });
+      expect(entry?.text).toBe('Second version')
+    })
+  })
 
-  describe("search", () => {
+  describe('search', () => {
     beforeEach(async () => {
-      await engine.store("doc1", "The quick brown fox jumps over the lazy dog");
-      await engine.store("doc2", "Machine learning is a subset of artificial intelligence");
-      await engine.store("doc3", "Bun is a fast JavaScript runtime");
-    });
+      await engine.store('doc1', 'The quick brown fox jumps over the lazy dog')
+      await engine.store(
+        'doc2',
+        'Machine learning is a subset of artificial intelligence'
+      )
+      await engine.store('doc3', 'Bun is a fast JavaScript runtime')
+    })
 
-    it("should find similar entries", async () => {
-      const results = await engine.search("artificial intelligence", 5);
+    it('should find similar entries', async () => {
+      const results = await engine.search('artificial intelligence', 5)
 
-      expect(results.length).toBeGreaterThan(0);
-      expect(results[0].entry.key).toBeDefined();
-      expect(results[0].similarity).toBeTypeOf("number");
-      expect(results[0].similarity).toBeGreaterThanOrEqual(-1);
-      expect(results[0].similarity).toBeLessThanOrEqual(1);
-    });
+      expect(results.length).toBeGreaterThan(0)
+      expect(results[0].entry.key).toBeDefined()
+      expect(results[0].similarity).toBeTypeOf('number')
+      expect(results[0].similarity).toBeGreaterThanOrEqual(-1)
+      expect(results[0].similarity).toBeLessThanOrEqual(1)
+    })
 
-    it("should sort results by similarity", async () => {
-      const results = await engine.search("machine learning AI", 3);
+    it('should sort results by similarity', async () => {
+      const results = await engine.search('machine learning AI', 3)
 
       // Verify results are sorted in descending order
       for (let i = 1; i < results.length; i++) {
-        expect(results[i - 1].similarity).toBeGreaterThanOrEqual(results[i].similarity);
+        expect(results[i - 1].similarity).toBeGreaterThanOrEqual(
+          results[i].similarity
+        )
       }
-    });
+    })
 
-    it("should respect limit parameter", async () => {
-      const results = await engine.search("test query", 2);
+    it('should respect limit parameter', async () => {
+      const results = await engine.search('test query', 2)
 
-      expect(results.length).toBeLessThanOrEqual(2);
-    });
+      expect(results.length).toBeLessThanOrEqual(2)
+    })
 
-    it("should respect minSimilarity threshold", async () => {
-      const results = await engine.search("test", 10, 0.5);
+    it('should respect minSimilarity threshold', async () => {
+      const results = await engine.search('test', 10, 0.5)
 
       for (const result of results) {
-        expect(result.similarity).toBeGreaterThanOrEqual(0.5);
+        expect(result.similarity).toBeGreaterThanOrEqual(0.5)
       }
-    });
+    })
 
-    it("should return empty array when no file exists", async () => {
+    it('should return empty array when no file exists', async () => {
       const newEngine = new EmbeddingEngine({
-        storePath: "./test-data/nonexistent.jsonl",
-      });
+        storePath: './test-data/nonexistent.jsonl'
+      })
 
-      const results = await newEngine.search("test", 5);
+      const results = await newEngine.search('test', 5)
 
-      expect(results).toEqual([]);
-    });
-  });
-});
+      expect(results).toEqual([])
+    })
+  })
+})

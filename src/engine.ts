@@ -1,12 +1,12 @@
-import { appendFile, mkdir } from "node:fs/promises";
-import { dirname } from "node:path";
-import type { EngineOptions, EmbeddingEntry, SearchResult } from "./types";
+import { appendFile, mkdir } from 'node:fs/promises'
+import { dirname } from 'node:path'
+import type { EngineOptions, EmbeddingEntry, SearchResult } from './types'
 
 export class EmbeddingEngine {
-  private storePath: string;
+  private storePath: string
 
   constructor(options: EngineOptions) {
-    this.storePath = options.storePath;
+    this.storePath = options.storePath
   }
 
   /**
@@ -16,17 +16,19 @@ export class EmbeddingEngine {
   private async generateEmbedding(text: string): Promise<number[]> {
     // Placeholder: Generate a simple hash-based embedding
     // In production, replace this with actual embedding API call
-    const normalized = text.toLowerCase().trim();
-    const embedding: number[] = new Array(384).fill(0);
+    const normalized = text.toLowerCase().trim()
+    const embedding: number[] = new Array(384).fill(0)
 
     for (let i = 0; i < normalized.length; i++) {
-      const charCode = normalized.charCodeAt(i);
-      embedding[i % 384] += charCode;
+      const charCode = normalized.charCodeAt(i)
+      embedding[i % 384] += charCode
     }
 
     // Normalize the embedding
-    const magnitude = Math.sqrt(embedding.reduce((sum, val) => sum + val * val, 0));
-    return embedding.map(val => val / magnitude);
+    const magnitude = Math.sqrt(
+      embedding.reduce((sum, val) => sum + val * val, 0)
+    )
+    return embedding.map((val) => val / magnitude)
   }
 
   /**
@@ -37,27 +39,27 @@ export class EmbeddingEngine {
    */
   private cosineSimilarity(a: number[], b: number[]): number {
     if (a.length !== b.length) {
-      throw new Error("Embeddings must have the same dimensions");
+      throw new Error('Embeddings must have the same dimensions')
     }
 
-    let dotProduct = 0;
-    let magnitudeA = 0;
-    let magnitudeB = 0;
+    let dotProduct = 0
+    let magnitudeA = 0
+    let magnitudeB = 0
 
     for (let i = 0; i < a.length; i++) {
-      dotProduct += a[i] * b[i];
-      magnitudeA += a[i] * a[i];
-      magnitudeB += b[i] * b[i];
+      dotProduct += a[i] * b[i]
+      magnitudeA += a[i] * a[i]
+      magnitudeB += b[i] * b[i]
     }
 
-    magnitudeA = Math.sqrt(magnitudeA);
-    magnitudeB = Math.sqrt(magnitudeB);
+    magnitudeA = Math.sqrt(magnitudeA)
+    magnitudeB = Math.sqrt(magnitudeB)
 
     if (magnitudeA === 0 || magnitudeB === 0) {
-      return 0;
+      return 0
     }
 
-    return dotProduct / (magnitudeA * magnitudeB);
+    return dotProduct / (magnitudeA * magnitudeB)
   }
 
   /**
@@ -67,23 +69,23 @@ export class EmbeddingEngine {
    */
   async store(key: string, text: string): Promise<void> {
     // Generate embedding
-    const embedding = await this.generateEmbedding(text);
+    const embedding = await this.generateEmbedding(text)
 
     // Create entry
     const entry: EmbeddingEntry = {
       key,
       text,
       embedding,
-      timestamp: Date.now(),
-    };
+      timestamp: Date.now()
+    }
 
     // Ensure directory exists
-    const dir = dirname(this.storePath);
-    await mkdir(dir, { recursive: true });
+    const dir = dirname(this.storePath)
+    await mkdir(dir, { recursive: true })
 
     // Append to file in JSONL format (one JSON object per line)
-    const line = JSON.stringify(entry) + "\n";
-    await appendFile(this.storePath, line, "utf-8");
+    const line = JSON.stringify(entry) + '\n'
+    await appendFile(this.storePath, line, 'utf-8')
   }
 
   /**
@@ -94,44 +96,44 @@ export class EmbeddingEngine {
   async get(key: string): Promise<EmbeddingEntry | null> {
     try {
       // Check if file exists using Bun's file API
-      const file = Bun.file(this.storePath);
-      const fileExists = await file.exists();
+      const file = Bun.file(this.storePath)
+      const fileExists = await file.exists()
 
       if (!fileExists) {
-        return null;
+        return null
       }
 
       // Read file content
-      const content = await file.text();
+      const content = await file.text()
 
       if (!content.trim()) {
-        return null;
+        return null
       }
 
       // Parse JSONL and find matching entries
-      const lines = content.trim().split("\n");
-      let latestEntry: EmbeddingEntry | null = null;
+      const lines = content.trim().split('\n')
+      let latestEntry: EmbeddingEntry | null = null
 
       // Iterate through all lines to find the most recent entry with the key
       for (const line of lines) {
         try {
-          const entry = JSON.parse(line) as EmbeddingEntry;
+          const entry = JSON.parse(line) as EmbeddingEntry
           if (entry.key === key) {
             // Keep the most recent entry (later entries override earlier ones)
             if (!latestEntry || entry.timestamp > latestEntry.timestamp) {
-              latestEntry = entry;
+              latestEntry = entry
             }
           }
         } catch (parseError) {
           // Skip malformed lines
-          continue;
+          continue
         }
       }
 
-      return latestEntry;
+      return latestEntry
     } catch (error) {
       // Return null if file doesn't exist or other errors
-      return null;
+      return null
     }
   }
 
@@ -149,63 +151,66 @@ export class EmbeddingEngine {
   ): Promise<SearchResult[]> {
     try {
       // Generate embedding for the query
-      const queryEmbedding = await this.generateEmbedding(query);
+      const queryEmbedding = await this.generateEmbedding(query)
 
       // Check if file exists
-      const file = Bun.file(this.storePath);
-      const fileExists = await file.exists();
+      const file = Bun.file(this.storePath)
+      const fileExists = await file.exists()
 
       if (!fileExists) {
-        return [];
+        return []
       }
 
       // Read file content
-      const content = await file.text();
+      const content = await file.text()
 
       if (!content.trim()) {
-        return [];
+        return []
       }
 
       // Parse all entries and deduplicate by key (keep most recent)
-      const lines = content.trim().split("\n");
-      const entriesMap = new Map<string, EmbeddingEntry>();
+      const lines = content.trim().split('\n')
+      const entriesMap = new Map<string, EmbeddingEntry>()
 
       for (const line of lines) {
         try {
-          const entry = JSON.parse(line) as EmbeddingEntry;
-          const existing = entriesMap.get(entry.key);
+          const entry = JSON.parse(line) as EmbeddingEntry
+          const existing = entriesMap.get(entry.key)
 
           // Keep the most recent entry for each key
           if (!existing || entry.timestamp > existing.timestamp) {
-            entriesMap.set(entry.key, entry);
+            entriesMap.set(entry.key, entry)
           }
         } catch (parseError) {
           // Skip malformed lines
-          continue;
+          continue
         }
       }
 
       // Calculate similarity for each unique entry
-      const results: SearchResult[] = [];
+      const results: SearchResult[] = []
 
       for (const entry of entriesMap.values()) {
-        const similarity = this.cosineSimilarity(queryEmbedding, entry.embedding);
+        const similarity = this.cosineSimilarity(
+          queryEmbedding,
+          entry.embedding
+        )
 
         // Only include results above the minimum similarity threshold
         if (similarity >= minSimilarity) {
           results.push({
             entry,
-            similarity,
-          });
+            similarity
+          })
         }
       }
 
       // Sort by similarity (highest first) and limit results
-      results.sort((a, b) => b.similarity - a.similarity);
-      return results.slice(0, limit);
+      results.sort((a, b) => b.similarity - a.similarity)
+      return results.slice(0, limit)
     } catch (error) {
       // Return empty array on errors
-      return [];
+      return []
     }
   }
 }
