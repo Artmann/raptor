@@ -1,8 +1,9 @@
 import { EmbeddingModel, FlagEmbedding } from 'fastembed'
-import { appendFile, mkdir } from 'node:fs/promises'
+import { appendFile, mkdir, open } from 'node:fs/promises'
 import { dirname } from 'node:path'
 
 import type { EngineOptions, EmbeddingEntry, SearchResult } from './types'
+import invariant from 'tiny-invariant'
 
 export class EmbeddingEngine {
   private storePath: string
@@ -13,50 +14,85 @@ export class EmbeddingEngine {
 
   /**
    * Retrieves an embedding entry by key
+   * Reads the file in reverse order in chunks for efficiency
    * @param key - Unique identifier for the entry
    * @returns The embedding entry, or null if not found
    */
   async get(key: string): Promise<EmbeddingEntry | null> {
+    invariant(key, 'Key must be provided.')
+
+    let fileHandle
+
     try {
-      // Check if file exists using Bun's file API
-      const file = Bun.file(this.storePath)
-      const fileExists = await file.exists()
+      fileHandle = await open(this.storePath, 'r')
+      
+      const stats = await fileHandle.stat()
+      const fileSize = stats.size
 
-      if (!fileExists) {
+      if (fileSize === 0) {
         return null
       }
 
-      // Read file content
-      const content = await file.text()
+      const chunkSize = 64 * 1024 // 64KB chunks
+      
+      let position = fileSize
+      let remainingBuffer = ''
 
-      if (!content.trim()) {
-        return null
-      }
+      while (position > 0) {
+        const currentChunkSize = Math.min(chunkSize, position)
+      
+        position -= currentChunkSize
 
-      // Parse JSONL and find matching entries
-      const lines = content.trim().split('\n')
-      let latestEntry: EmbeddingEntry | null = null
+      
+        const buffer = Buffer.allocUnsafe(currentChunkSize)
+      
+        await fileHandle.read(buffer, 0, currentChunkSize, position)
+      
+        const chunk = buffer.toString('utf-8')
 
-      // Iterate through all lines to find the most recent entry with the key
-      for (const line of lines) {
-        try {
-          const entry = JSON.parse(line) as EmbeddingEntry
-          if (entry.key === key) {
-            // Keep the most recent entry (later entries override earlier ones)
-            if (!latestEntry || entry.timestamp > latestEntry.timestamp) {
-              latestEntry = entry
-            }
+        const combined = chunk + remainingBuffer
+        const lines = combined.split('\n')
+
+        remainingBuffer = lines.shift() || ''
+
+        for (let i = lines.length - 1; i >= 0; i--) {
+          const line = lines[i].trim()
+        
+          if (!line) {
+            continue
           }
-        } catch (parseError) {
-          // Skip malformed lines
-          continue
+
+          try {
+            const entry = JSON.parse(line) as EmbeddingEntry
+          
+            if (entry.key === key) {
+              return entry
+            }
+          } catch (parseError) {
+            continue
+          }
         }
       }
 
-      return latestEntry
-    } catch (error) {
-      // Return null if file doesn't exist or other errors
+      if (remainingBuffer.trim()) {
+        try {
+          const entry = JSON.parse(remainingBuffer.trim()) as EmbeddingEntry
+      
+          if (entry.key === key) {
+            return entry
+          }
+        } catch (parseError) {
+          // Skip malformed line
+        }
+      }
+
       return null
+    } catch (error) {
+      return null
+    } finally {
+      if (fileHandle) {
+        await fileHandle.close()
+      }
     }
   }
 
@@ -114,10 +150,12 @@ export class EmbeddingEngine {
       const results: SearchResult[] = []
 
       for (const entry of entriesMap.values()) {
-        const similarity = this.cosineSimilarity(
-          queryEmbedding,
-          entry.embedding
-        )
+        // Ensure embedding is an array (convert from object if needed)
+        const embedding = Array.isArray(entry.embedding)
+          ? entry.embedding
+          : Object.values(entry.embedding)
+
+        const similarity = this.cosineSimilarity(queryEmbedding, embedding)
 
         // Only include results above the minimum similarity threshold
         if (similarity >= minSimilarity) {
@@ -204,7 +242,8 @@ export class EmbeddingEngine {
     const embeddings = embeddingModel.embed([text])
 
     for await (const batch of embeddings) {
-      return batch[0]
+      // Convert Float32Array to regular array for proper JSON serialization
+      return Array.from(batch[0])
     }
 
     return []

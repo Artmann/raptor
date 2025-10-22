@@ -44,7 +44,7 @@ describe('EmbeddingEngine', () => {
       expect(entry.key).toBe('doc1')
       expect(entry.text).toBe('Hello world')
       expect(entry.embedding).toBeInstanceOf(Array)
-      expect(entry.embedding.length).toBe(384)
+      expect(entry.embedding.length).toBe(768)
       expect(entry.timestamp).toBeTypeOf('number')
     })
 
@@ -71,19 +71,19 @@ describe('EmbeddingEngine', () => {
       expect(sanitized).toMatchInlineSnapshot(`
         [
           {
-            "embeddingLength": 384,
+            "embeddingLength": 768,
             "hasTimestamp": true,
             "key": "doc1",
             "text": "The quick brown fox",
           },
           {
-            "embeddingLength": 384,
+            "embeddingLength": 768,
             "hasTimestamp": true,
             "key": "doc2",
             "text": "Machine learning is powerful",
           },
           {
-            "embeddingLength": 384,
+            "embeddingLength": 768,
             "hasTimestamp": true,
             "key": "doc3",
             "text": "Bun is fast",
@@ -116,21 +116,21 @@ describe('EmbeddingEngine', () => {
         [
           {
             "embeddingFirstThree": [
-              "0.0513",
-              "0.0685",
-              "0.0856",
+              "-0.0288",
+              "0.0249",
+              "0.0017",
             ],
-            "embeddingLength": 384,
+            "embeddingLength": 768,
             "key": "test1",
             "text": "First document",
           },
           {
             "embeddingFirstThree": [
-              "0.0513",
-              "0.0771",
-              "0.0856",
+              "-0.0151",
+              "0.0165",
+              "-0.0090",
             ],
-            "embeddingLength": 384,
+            "embeddingLength": 768,
             "key": "test2",
             "text": "Second document",
           },
@@ -190,10 +190,12 @@ describe('EmbeddingEngine', () => {
         'Machine learning is a subset of artificial intelligence'
       )
       await engine.store('doc3', 'Bun is a fast JavaScript runtime')
+      // Small delay to ensure file is flushed
+      await new Promise((resolve) => setTimeout(resolve, 50))
     })
 
     it('should find similar entries', async () => {
-      const results = await engine.search('artificial intelligence', 5)
+      const results = await engine.search('machine learning')
 
       expect(results.length).toBeGreaterThan(0)
       expect(results[0].entry.key).toBeDefined()
