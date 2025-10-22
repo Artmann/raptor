@@ -1,8 +1,9 @@
-node_modules/
+coverage/
 data/
+dist/
+node_modules/
 test-data/
+
+*.jsonl
 *.log
 .DS_Store
-dist/
-*.jsonl
-coverage/

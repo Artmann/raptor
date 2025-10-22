@@ -1,5 +1,7 @@
+import { embed, openai } from 'modelfusion'
 import { appendFile, mkdir } from 'node:fs/promises'
 import { dirname } from 'node:path'
+
 import type { EngineOptions, EmbeddingEntry, SearchResult } from './types'
 
 export class EmbeddingEngine {
@@ -7,85 +9,6 @@ export class EmbeddingEngine {
 
   constructor(options: EngineOptions) {
     this.storePath = options.storePath
-  }
-
-  /**
-   * Generates a simple embedding from text
-   * In production, this would call an actual embedding API (OpenAI, Cohere, etc.)
-   */
-  private async generateEmbedding(text: string): Promise<number[]> {
-    // Placeholder: Generate a simple hash-based embedding
-    // In production, replace this with actual embedding API call
-    const normalized = text.toLowerCase().trim()
-    const embedding: number[] = new Array(384).fill(0)
-
-    for (let i = 0; i < normalized.length; i++) {
-      const charCode = normalized.charCodeAt(i)
-      embedding[i % 384] += charCode
-    }
-
-    // Normalize the embedding
-    const magnitude = Math.sqrt(
-      embedding.reduce((sum, val) => sum + val * val, 0)
-    )
-    return embedding.map((val) => val / magnitude)
-  }
-
-  /**
-   * Calculates cosine similarity between two embeddings
-   * @param a - First embedding vector
-   * @param b - Second embedding vector
-   * @returns Cosine similarity score between -1 and 1 (1 = identical, -1 = opposite)
-   */
-  private cosineSimilarity(a: number[], b: number[]): number {
-    if (a.length !== b.length) {
-      throw new Error('Embeddings must have the same dimensions')
-    }
-
-    let dotProduct = 0
-    let magnitudeA = 0
-    let magnitudeB = 0
-
-    for (let i = 0; i < a.length; i++) {
-      dotProduct += a[i] * b[i]
-      magnitudeA += a[i] * a[i]
-      magnitudeB += b[i] * b[i]
-    }
-
-    magnitudeA = Math.sqrt(magnitudeA)
-    magnitudeB = Math.sqrt(magnitudeB)
-
-    if (magnitudeA === 0 || magnitudeB === 0) {
-      return 0
-    }
-
-    return dotProduct / (magnitudeA * magnitudeB)
-  }
-
-  /**
-   * Stores a text embedding in the append-only file
-   * @param key - Unique identifier for this entry
-   * @param text - Text to embed and store
-   */
-  async store(key: string, text: string): Promise<void> {
-    // Generate embedding
-    const embedding = await this.generateEmbedding(text)
-
-    // Create entry
-    const entry: EmbeddingEntry = {
-      key,
-      text,
-      embedding,
-      timestamp: Date.now()
-    }
-
-    // Ensure directory exists
-    const dir = dirname(this.storePath)
-    await mkdir(dir, { recursive: true })
-
-    // Append to file in JSONL format (one JSON object per line)
-    const line = JSON.stringify(entry) + '\n'
-    await appendFile(this.storePath, line, 'utf-8')
   }
 
   /**
@@ -212,5 +135,73 @@ export class EmbeddingEngine {
       // Return empty array on errors
       return []
     }
+  }
+
+  /**
+   * Stores a text embedding in the append-only file
+   * @param key - Unique identifier for this entry
+   * @param text - Text to embed and store
+   */
+  async store(key: string, text: string): Promise<void> {
+    const embedding = await this.generateEmbedding(text)
+
+    const entry: EmbeddingEntry = {
+      key,
+      text,
+      embedding,
+      timestamp: Date.now()
+    }
+
+    const dir = dirname(this.storePath)
+
+    await mkdir(dir, { recursive: true })
+
+    const line = JSON.stringify(entry) + '\n'
+
+    await appendFile(this.storePath, line, 'utf-8')
+  }
+
+  /**
+   * Calculates cosine similarity between two embeddings
+   * @param a - First embedding vector
+   * @param b - Second embedding vector
+   * @returns Cosine similarity score between -1 and 1 (1 = identical, -1 = opposite)
+   */
+  private cosineSimilarity(a: number[], b: number[]): number {
+    if (a.length !== b.length) {
+      throw new Error('Embeddings must have the same dimensions')
+    }
+
+    let dotProduct = 0
+    let magnitudeA = 0
+    let magnitudeB = 0
+
+    for (let i = 0; i < a.length; i++) {
+      dotProduct += a[i] * b[i]
+      magnitudeA += a[i] * a[i]
+      magnitudeB += b[i] * b[i]
+    }
+
+    magnitudeA = Math.sqrt(magnitudeA)
+    magnitudeB = Math.sqrt(magnitudeB)
+
+    if (magnitudeA === 0 || magnitudeB === 0) {
+      return 0
+    }
+
+    return dotProduct / (magnitudeA * magnitudeB)
+  }
+
+  /**
+   * Generates a simple embedding from text
+   * In production, this would call an actual embedding API (OpenAI, Cohere, etc.)
+   */
+  private async generateEmbedding(text: string): Promise<number[]> {
+    const embedding = await embed({
+      model: openai.TextEmbedder({ model: 'text-embedding-ada-002' }),
+      value: text
+    })
+
+    return embedding
   }
 }
