@@ -1,0 +1,17 @@
+{
+  "name": "raptor",
+  "version": "0.1.0",
+  "description": "An embedding database that stores text indexes",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "bun run src/index.ts",
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
