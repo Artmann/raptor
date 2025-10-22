@@ -1,7 +1,10 @@
 import { defineConfig } from "rolldown";
 
 export default defineConfig({
-  input: "src/index.ts",
+  input: {
+    index: "src/index.ts",
+    cli: "src/cli.ts",
+  },
   output: [
     {
       dir: "dist",
@@ -14,5 +17,5 @@ export default defineConfig({
       entryFileNames: "[name].js",
     },
   ],
-  external: ["node:fs/promises", "node:path", "node:fs"],
+  external: ["node:fs/promises", "node:path", "node:fs", "cleye"],
 });

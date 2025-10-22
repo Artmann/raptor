@@ -16,7 +16,52 @@ An embedding database that stores text indexes in an append-only file format.
 bun install
 ```
 
-## Usage
+## CLI Usage
+
+Raptor includes a command-line interface for storing and searching embeddings.
+
+### Commands
+
+**Store a text embedding:**
+```bash
+raptor store <key> <text> [--storePath path]
+```
+
+**Retrieve an embedding by key:**
+```bash
+raptor get <key> [--storePath path]
+```
+
+**Search for similar embeddings:**
+```bash
+raptor search <query> [--limit 10] [--minSimilarity 0] [--storePath path]
+```
+
+### Options
+
+- `-s, --storePath` - Path to the embeddings store file (default: ./data/embeddings.jsonl)
+- `-l, --limit` - Maximum number of results to return (default: 10)
+- `-m, --minSimilarity` - Minimum similarity threshold 0-1 (default: 0)
+
+### Examples
+
+```bash
+# Store some documents
+raptor store doc1 "The quick brown fox jumps over the lazy dog"
+raptor store doc2 "Machine learning is a subset of artificial intelligence"
+raptor store doc3 "Bun is a fast JavaScript runtime"
+
+# Retrieve a specific document
+raptor get doc1
+
+# Search for similar documents
+raptor search "artificial intelligence" --limit 5
+
+# Use a custom storage path
+raptor store key1 "Some text" --storePath ./custom/path.jsonl
+```
+
+## Programmatic Usage
 
 ```typescript
 import { EmbeddingEngine } from "./src/index";
