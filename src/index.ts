@@ -1,2 +1,2 @@
 export { EmbeddingEngine } from "./engine";
-export type { EmbeddingEntry, StoreOptions, EngineOptions } from "./types";
+export type { EmbeddingEntry, SearchResult, StoreOptions, EngineOptions } from "./types";

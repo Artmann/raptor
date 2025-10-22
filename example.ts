@@ -34,6 +34,34 @@ async function main() {
   }
 
   console.log(`\nNon-existent key: ${notFound === null ? "null (not found)" : "found"}`);
+
+  // Search for similar embeddings
+  console.log("\n" + "=".repeat(50));
+  console.log("Searching for similar texts...\n");
+
+  const query1 = "animals and dogs";
+  console.log(`Query: "${query1}"`);
+  const results1 = await engine.search(query1, 3);
+  console.log(`Found ${results1.length} results:`);
+  for (const result of results1) {
+    console.log(`  - [${result.similarity.toFixed(4)}] ${result.entry.key}: ${result.entry.text}`);
+  }
+
+  const query2 = "artificial intelligence and computers";
+  console.log(`\nQuery: "${query2}"`);
+  const results2 = await engine.search(query2, 3);
+  console.log(`Found ${results2.length} results:`);
+  for (const result of results2) {
+    console.log(`  - [${result.similarity.toFixed(4)}] ${result.entry.key}: ${result.entry.text}`);
+  }
+
+  const query3 = "fast performance runtime";
+  console.log(`\nQuery: "${query3}"`);
+  const results3 = await engine.search(query3, 3);
+  console.log(`Found ${results3.length} results:`);
+  for (const result of results3) {
+    console.log(`  - [${result.similarity.toFixed(4)}] ${result.entry.key}: ${result.entry.text}`);
+  }
 }
 
 main().catch(console.error);

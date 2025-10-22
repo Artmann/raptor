@@ -1,6 +1,6 @@
 import { appendFile, mkdir } from "node:fs/promises";
 import { dirname } from "node:path";
-import type { EngineOptions, EmbeddingEntry } from "./types";
+import type { EngineOptions, EmbeddingEntry, SearchResult } from "./types";
 
 export class EmbeddingEngine {
   private storePath: string;
@@ -27,6 +27,37 @@ export class EmbeddingEngine {
     // Normalize the embedding
     const magnitude = Math.sqrt(embedding.reduce((sum, val) => sum + val * val, 0));
     return embedding.map(val => val / magnitude);
+  }
+
+  /**
+   * Calculates cosine similarity between two embeddings
+   * @param a - First embedding vector
+   * @param b - Second embedding vector
+   * @returns Cosine similarity score between -1 and 1 (1 = identical, -1 = opposite)
+   */
+  private cosineSimilarity(a: number[], b: number[]): number {
+    if (a.length !== b.length) {
+      throw new Error("Embeddings must have the same dimensions");
+    }
+
+    let dotProduct = 0;
+    let magnitudeA = 0;
+    let magnitudeB = 0;
+
+    for (let i = 0; i < a.length; i++) {
+      dotProduct += a[i] * b[i];
+      magnitudeA += a[i] * a[i];
+      magnitudeB += b[i] * b[i];
+    }
+
+    magnitudeA = Math.sqrt(magnitudeA);
+    magnitudeB = Math.sqrt(magnitudeB);
+
+    if (magnitudeA === 0 || magnitudeB === 0) {
+      return 0;
+    }
+
+    return dotProduct / (magnitudeA * magnitudeB);
   }
 
   /**
@@ -101,6 +132,80 @@ export class EmbeddingEngine {
     } catch (error) {
       // Return null if file doesn't exist or other errors
       return null;
+    }
+  }
+
+  /**
+   * Searches for similar embeddings using cosine similarity
+   * @param query - Text query to search for
+   * @param limit - Maximum number of results to return (default: 10)
+   * @param minSimilarity - Minimum similarity threshold (default: 0, range: -1 to 1)
+   * @returns Array of search results sorted by similarity (highest first)
+   */
+  async search(
+    query: string,
+    limit: number = 10,
+    minSimilarity: number = 0
+  ): Promise<SearchResult[]> {
+    try {
+      // Generate embedding for the query
+      const queryEmbedding = await this.generateEmbedding(query);
+
+      // Check if file exists
+      const file = Bun.file(this.storePath);
+      const fileExists = await file.exists();
+
+      if (!fileExists) {
+        return [];
+      }
+
+      // Read file content
+      const content = await file.text();
+
+      if (!content.trim()) {
+        return [];
+      }
+
+      // Parse all entries and deduplicate by key (keep most recent)
+      const lines = content.trim().split("\n");
+      const entriesMap = new Map<string, EmbeddingEntry>();
+
+      for (const line of lines) {
+        try {
+          const entry = JSON.parse(line) as EmbeddingEntry;
+          const existing = entriesMap.get(entry.key);
+
+          // Keep the most recent entry for each key
+          if (!existing || entry.timestamp > existing.timestamp) {
+            entriesMap.set(entry.key, entry);
+          }
+        } catch (parseError) {
+          // Skip malformed lines
+          continue;
+        }
+      }
+
+      // Calculate similarity for each unique entry
+      const results: SearchResult[] = [];
+
+      for (const entry of entriesMap.values()) {
+        const similarity = this.cosineSimilarity(queryEmbedding, entry.embedding);
+
+        // Only include results above the minimum similarity threshold
+        if (similarity >= minSimilarity) {
+          results.push({
+            entry,
+            similarity,
+          });
+        }
+      }
+
+      // Sort by similarity (highest first) and limit results
+      results.sort((a, b) => b.similarity - a.similarity);
+      return results.slice(0, limit);
+    } catch (error) {
+      // Return empty array on errors
+      return [];
     }
   }
 }

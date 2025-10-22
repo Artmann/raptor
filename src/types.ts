@@ -5,6 +5,11 @@ export interface EmbeddingEntry {
   timestamp: number;
 }
 
+export interface SearchResult {
+  entry: EmbeddingEntry;
+  similarity: number;
+}
+
 export interface StoreOptions {
   storePath?: string;
 }
