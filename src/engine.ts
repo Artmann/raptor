@@ -54,4 +54,53 @@ export class EmbeddingEngine {
     const line = JSON.stringify(entry) + "\n";
     await appendFile(this.storePath, line, "utf-8");
   }
+
+  /**
+   * Retrieves an embedding entry by key
+   * @param key - Unique identifier for the entry
+   * @returns The embedding entry, or null if not found
+   */
+  async get(key: string): Promise<EmbeddingEntry | null> {
+    try {
+      // Check if file exists using Bun's file API
+      const file = Bun.file(this.storePath);
+      const fileExists = await file.exists();
+
+      if (!fileExists) {
+        return null;
+      }
+
+      // Read file content
+      const content = await file.text();
+
+      if (!content.trim()) {
+        return null;
+      }
+
+      // Parse JSONL and find matching entries
+      const lines = content.trim().split("\n");
+      let latestEntry: EmbeddingEntry | null = null;
+
+      // Iterate through all lines to find the most recent entry with the key
+      for (const line of lines) {
+        try {
+          const entry = JSON.parse(line) as EmbeddingEntry;
+          if (entry.key === key) {
+            // Keep the most recent entry (later entries override earlier ones)
+            if (!latestEntry || entry.timestamp > latestEntry.timestamp) {
+              latestEntry = entry;
+            }
+          }
+        } catch (parseError) {
+          // Skip malformed lines
+          continue;
+        }
+      }
+
+      return latestEntry;
+    } catch (error) {
+      // Return null if file doesn't exist or other errors
+      return null;
+    }
+  }
 }

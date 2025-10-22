@@ -26,6 +26,13 @@ const engine = new EmbeddingEngine({
 
 // Store text with embeddings
 await engine.store("doc1", "Your text here");
+
+// Retrieve embeddings by key
+const entry = await engine.get("doc1");
+if (entry) {
+  console.log(entry.text);
+  console.log(entry.embedding);
+}
 ```
 
 ## Example
@@ -65,3 +72,12 @@ Store a text embedding.
 
 - `key` - Unique identifier for the entry
 - `text` - Text to embed and store
+
+#### `get(key: string): Promise<EmbeddingEntry | null>`
+
+Retrieve an embedding entry by key.
+
+- `key` - Unique identifier for the entry
+- Returns the most recent entry with the given key, or `null` if not found
+
+**Note:** If a key is stored multiple times, the most recent entry (based on timestamp) is returned.
