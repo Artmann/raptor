@@ -6,10 +6,13 @@
   "main": "src/index.ts",
   "scripts": {
     "dev": "bun run src/index.ts",
-    "test": "bun test"
+    "test": "vitest",
+    "test:ui": "vitest --ui"
   },
   "devDependencies": {
-    "@types/bun": "latest"
+    "@types/bun": "latest",
+    "@vitest/ui": "^2.1.8",
+    "vitest": "^2.1.8"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
