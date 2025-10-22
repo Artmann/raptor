@@ -1,6 +1,7 @@
 coverage/
 data/
 dist/
+local_cache/
 node_modules/
 test-data/
 

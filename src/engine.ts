@@ -1,4 +1,4 @@
-import { embed, openai } from 'modelfusion'
+import { EmbeddingModel, FlagEmbedding } from 'fastembed'
 import { appendFile, mkdir } from 'node:fs/promises'
 import { dirname } from 'node:path'
 
@@ -197,11 +197,16 @@ export class EmbeddingEngine {
    * In production, this would call an actual embedding API (OpenAI, Cohere, etc.)
    */
   private async generateEmbedding(text: string): Promise<number[]> {
-    const embedding = await embed({
-      model: openai.TextEmbedder({ model: 'text-embedding-ada-002' }),
-      value: text
+    const embeddingModel = await FlagEmbedding.init({
+      model: EmbeddingModel.BGEBaseEN
     })
 
-    return embedding
+    const embeddings = embeddingModel.embed([text])
+
+    for await (const batch of embeddings) {
+      return batch[0]
+    }
+
+    return []
   }
 }

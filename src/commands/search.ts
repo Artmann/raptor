@@ -1,5 +1,6 @@
 import { command } from 'cleye'
 import { EmbeddingEngine } from '../engine'
+import { sharedFlags, searchFlags } from './flags'
 
 export const search = command(
   {
@@ -7,24 +8,8 @@ export const search = command(
     description: 'Search for similar embeddings using a query',
     parameters: ['<query>'],
     flags: {
-      storePath: {
-        type: String,
-        description: 'Path to the embeddings store file',
-        default: './data/embeddings.jsonl',
-        alias: 's'
-      },
-      limit: {
-        type: Number,
-        description: 'Maximum number of results to return',
-        default: 10,
-        alias: 'l'
-      },
-      minSimilarity: {
-        type: Number,
-        description: 'Minimum similarity threshold (0-1)',
-        default: 0,
-        alias: 'm'
-      }
+      ...sharedFlags,
+      ...searchFlags
     }
   },
   async (argv) => {
