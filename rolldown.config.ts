@@ -17,5 +17,13 @@ export default defineConfig({
       entryFileNames: '[name].js'
     }
   ],
-  external: ['node:fs/promises', 'node:path', 'node:fs', 'cleye']
+  external: [
+    'node:fs/promises',
+    'node:path',
+    'node:fs',
+    'node:url',
+    'cleye',
+    'fastembed',
+    'tiny-invariant'
+  ]
 })

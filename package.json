@@ -42,7 +42,7 @@
     "raptor": "./dist/cli.js"
   },
   "scripts": {
-    "build": "rolldown --config rolldown.config.ts && tsc --emitDeclarationOnly --declaration --outDir dist",
+    "build": "rolldown --config rolldown.config.ts && tsc --project tsconfig.build.json",
     "cli": "bun src/cli.ts",
     "dev": "bun run src/index.ts",
     "format": "prettier --write .",
