@@ -6,9 +6,10 @@ An embedding database that stores text indexes in an append-only file format.
 
 - Simple key-value storage for text embeddings
 - Semantic search using cosine similarity
-- Append-only file format (JSONL)
+- Binary append-only file format (.raptor)
 - Built for Bun runtime
 - TypeScript support
+- ~50% smaller file size vs JSONL format
 
 ## Installation
 
@@ -43,7 +44,7 @@ raptor search <query> [--limit 10] [--minSimilarity 0] [--storePath path]
 ### Options
 
 - `-s, --storePath` - Path to the embeddings store file (default:
-  ./data/embeddings.jsonl)
+  ./database.raptor)
 - `-l, --limit` - Maximum number of results to return (default: 10)
 - `-m, --minSimilarity` - Minimum similarity threshold 0-1 (default: 0)
 
@@ -62,7 +63,7 @@ raptor get doc1
 raptor search "artificial intelligence" --limit 5
 
 # Use a custom storage path
-raptor store key1 "Some text" --storePath ./custom/path.jsonl
+raptor store key1 "Some text" --storePath ./custom/path.raptor
 ```
 
 ## Programmatic Usage
@@ -71,7 +72,7 @@ raptor store key1 "Some text" --storePath ./custom/path.jsonl
 import { EmbeddingEngine } from './src/index'
 
 const engine = new EmbeddingEngine({
-  storePath: './data/embeddings.jsonl'
+  storePath: './database.raptor'
 })
 
 // Store text with embeddings
@@ -105,16 +106,32 @@ bun run example.ts
 
 ## Storage Format
 
-Embeddings are stored in JSONL format (JSON Lines), with each line containing:
+Embeddings are stored in a compact binary format (.raptor files) with the
+following structure:
 
-```json
-{
-  "key": "doc1",
-  "text": "original text",
-  "embedding": [0.1, 0.2, ...],
-  "timestamp": 1234567890
-}
-```
+**Header (16 bytes):**
+
+- Magic bytes: "EMBD" (4 bytes)
+- Version: 1 (2 bytes, uint16)
+- Embedding dimension: e.g., 768 for BGE-Base-EN (4 bytes, uint32)
+- Reserved: 6 bytes for future use
+
+**Records (variable length):**
+
+- Key length (2 bytes, uint16)
+- Key (UTF-8 encoded, variable length)
+- Embedding vector (dimension × 4 bytes, float32 array)
+- Record length footer (4 bytes, uint32)
+
+The append-only format means duplicate keys can exist. The latest value (closest
+to end of file) is used when reading.
+
+**Benefits:**
+
+- ~50% smaller than JSONL format
+- Faster parsing (no JSON decode)
+- Efficient reverse reading for deduplication
+- Single-file storage
 
 ## API
 

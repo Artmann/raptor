@@ -1,31 +1,57 @@
 import { EmbeddingModel, FlagEmbedding } from 'fastembed'
-import { appendFile, mkdir } from 'node:fs/promises'
+import { existsSync } from 'node:fs'
+import { mkdir } from 'node:fs/promises'
 import { dirname } from 'node:path'
-
-import type { EngineOptions, EmbeddingEntry, SearchResult } from './types'
-import { EmbeddingFileReader } from './embedding-file-reader'
 import invariant from 'tiny-invariant'
+
+import { BinaryFileReader } from './binary-file-reader'
+import { writeHeader, writeRecord } from './binary-format'
 import { CandidateSet } from './candidate-set'
+import type { EmbeddingEntry, EngineOptions, SearchResult } from './types'
 
 export class EmbeddingEngine {
+  private fileReader: BinaryFileReader
   private storePath: string
-  private fileReader: EmbeddingFileReader
 
   constructor(options: EngineOptions) {
     this.storePath = options.storePath
-    this.fileReader = new EmbeddingFileReader(options.storePath)
+    this.fileReader = new BinaryFileReader(options.storePath)
+  }
+
+  /**
+   * Generates embedding from text using FastEmbed BGE-Base-EN model
+   * @param text - Text to embed
+   * @returns 768-dimensional embedding vector
+   */
+  async generateEmbedding(text: string): Promise<number[]> {
+    const embeddingModel = await FlagEmbedding.init({
+      model: EmbeddingModel.BGEBaseEN
+    })
+
+    const embeddings = embeddingModel.embed([text])
+
+    for await (const batch of embeddings) {
+      // Convert Float32Array to regular array
+      return Array.from(batch[0])
+    }
+
+    return []
   }
 
   /**
    * Retrieves an embedding entry by key
-   * Reads the file in reverse order in chunks for efficiency
+   * Reads the file in reverse order for efficiency (most recent first)
    * @param key - Unique identifier for the entry
    * @returns The embedding entry, or null if not found
    */
   async get(key: string): Promise<EmbeddingEntry | null> {
     invariant(key, 'Key must be provided.')
 
-    for await (const entry of this.fileReader.iterateEmbeddings()) {
+    if (!existsSync(this.storePath)) {
+      return null
+    }
+
+    for await (const entry of this.fileReader.entries()) {
       if (entry.key === key) {
         return entry
       }
@@ -53,11 +79,14 @@ export class EmbeddingEngine {
       'minSimilarity must be between 0 and 1.'
     )
 
-    const queryEmbedding = await this.generateEmbedding(query)
+    if (!existsSync(this.storePath)) {
+      return []
+    }
 
+    const queryEmbedding = await this.generateEmbedding(query)
     const candidateSet = new CandidateSet(limit)
 
-    for await (const entry of this.fileReader.iterateEmbeddings()) {
+    for await (const entry of this.fileReader.entries()) {
       const similarity = this.cosineSimilarity(queryEmbedding, entry.embedding)
 
       if (similarity < minSimilarity) {
@@ -76,27 +105,25 @@ export class EmbeddingEngine {
   }
 
   /**
-   * Stores a text embedding in the append-only file
+   * Stores a text embedding in the binary append-only file
+   * Creates header on first write
    * @param key - Unique identifier for this entry
    * @param text - Text to embed and store
    */
   async store(key: string, text: string): Promise<void> {
     const embedding = await this.generateEmbedding(text)
-
-    const entry: EmbeddingEntry = {
-      key,
-      text,
-      embedding,
-      timestamp: Date.now()
-    }
+    const embeddingFloat32 = new Float32Array(embedding)
 
     const dir = dirname(this.storePath)
-
     await mkdir(dir, { recursive: true })
 
-    const line = JSON.stringify(entry) + '\n'
+    // Write header if file doesn't exist
+    if (!existsSync(this.storePath)) {
+      await writeHeader(this.storePath, embedding.length)
+    }
 
-    await appendFile(this.storePath, line, 'utf-8')
+    // Append record
+    await writeRecord(this.storePath, key, embeddingFloat32)
   }
 
   /**
@@ -128,24 +155,5 @@ export class EmbeddingEngine {
     }
 
     return dotProduct / (magnitudeA * magnitudeB)
-  }
-
-  /**
-   * Generates a simple embedding from text
-   * In production, this would call an actual embedding API (OpenAI, Cohere, etc.)
-   */
-  private async generateEmbedding(text: string): Promise<number[]> {
-    const embeddingModel = await FlagEmbedding.init({
-      model: EmbeddingModel.BGEBaseEN
-    })
-
-    const embeddings = embeddingModel.embed([text])
-
-    for await (const batch of embeddings) {
-      // Convert Float32Array to regular array for proper JSON serialization
-      return Array.from(batch[0])
-    }
-
-    return []
   }
 }
