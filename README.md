@@ -1,5 +1,11 @@
 # Raptor
 
+[![CI](https://img.shields.io/github/actions/workflow/status/artmann/raptor/ci.yml?branch=main&label=CI&logo=github)](https://github.com/artmann/raptor/actions/workflows/ci.yml)
+[![npm version](https://img.shields.io/npm/v/raptor.svg?logo=npm)](https://www.npmjs.com/package/raptor)
+[![npm downloads](https://img.shields.io/npm/dm/raptor.svg)](https://www.npmjs.com/package/raptor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg?logo=typescript)](https://www.typescriptlang.org/)
+
 > A lightweight semantic search database with text embeddings for Node.js and
 > Bun
 
