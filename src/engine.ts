@@ -1,15 +1,18 @@
 import { EmbeddingModel, FlagEmbedding } from 'fastembed'
-import { appendFile, mkdir, open } from 'node:fs/promises'
+import { appendFile, mkdir } from 'node:fs/promises'
 import { dirname } from 'node:path'
 
 import type { EngineOptions, EmbeddingEntry, SearchResult } from './types'
+import { EmbeddingFileReader } from './embedding-file-reader'
 import invariant from 'tiny-invariant'
 
 export class EmbeddingEngine {
   private storePath: string
+  private fileReader: EmbeddingFileReader
 
   constructor(options: EngineOptions) {
     this.storePath = options.storePath
+    this.fileReader = new EmbeddingFileReader(options.storePath)
   }
 
   /**
@@ -21,79 +24,13 @@ export class EmbeddingEngine {
   async get(key: string): Promise<EmbeddingEntry | null> {
     invariant(key, 'Key must be provided.')
 
-    let fileHandle
-
-    try {
-      fileHandle = await open(this.storePath, 'r')
-      
-      const stats = await fileHandle.stat()
-      const fileSize = stats.size
-
-      if (fileSize === 0) {
-        return null
-      }
-
-      const chunkSize = 64 * 1024 // 64KB chunks
-      
-      let position = fileSize
-      let remainingBuffer = ''
-
-      while (position > 0) {
-        const currentChunkSize = Math.min(chunkSize, position)
-      
-        position -= currentChunkSize
-
-      
-        const buffer = Buffer.allocUnsafe(currentChunkSize)
-      
-        await fileHandle.read(buffer, 0, currentChunkSize, position)
-      
-        const chunk = buffer.toString('utf-8')
-
-        const combined = chunk + remainingBuffer
-        const lines = combined.split('\n')
-
-        remainingBuffer = lines.shift() || ''
-
-        for (let i = lines.length - 1; i >= 0; i--) {
-          const line = lines[i].trim()
-        
-          if (!line) {
-            continue
-          }
-
-          try {
-            const entry = JSON.parse(line) as EmbeddingEntry
-          
-            if (entry.key === key) {
-              return entry
-            }
-          } catch (parseError) {
-            continue
-          }
-        }
-      }
-
-      if (remainingBuffer.trim()) {
-        try {
-          const entry = JSON.parse(remainingBuffer.trim()) as EmbeddingEntry
-      
-          if (entry.key === key) {
-            return entry
-          }
-        } catch (parseError) {
-          // Skip malformed line
-        }
-      }
-
-      return null
-    } catch (error) {
-      return null
-    } finally {
-      if (fileHandle) {
-        await fileHandle.close()
+    for await (const entry of this.fileReader.iterateEmbeddings()) {
+      if (entry.key === key) {
+        return entry
       }
     }
+
+    return null
   }
 
   /**
@@ -112,62 +49,50 @@ export class EmbeddingEngine {
       // Generate embedding for the query
       const queryEmbedding = await this.generateEmbedding(query)
 
-      // Check if file exists
-      const file = Bun.file(this.storePath)
-      const fileExists = await file.exists()
-
-      if (!fileExists) {
-        return []
-      }
-
-      // Read file content
-      const content = await file.text()
-
-      if (!content.trim()) {
-        return []
-      }
-
-      // Parse all entries and deduplicate by key (keep most recent)
-      const lines = content.trim().split('\n')
+      // Deduplicate entries by key (keep most recent) and calculate similarities
       const entriesMap = new Map<string, EmbeddingEntry>()
-
-      for (const line of lines) {
-        try {
-          const entry = JSON.parse(line) as EmbeddingEntry
-          const existing = entriesMap.get(entry.key)
-
-          // Keep the most recent entry for each key
-          if (!existing || entry.timestamp > existing.timestamp) {
-            entriesMap.set(entry.key, entry)
-          }
-        } catch (parseError) {
-          // Skip malformed lines
-          continue
-        }
-      }
-
-      // Calculate similarity for each unique entry
       const results: SearchResult[] = []
 
-      for (const entry of entriesMap.values()) {
-        // Ensure embedding is an array (convert from object if needed)
-        const embedding = Array.isArray(entry.embedding)
-          ? entry.embedding
-          : Object.values(entry.embedding)
+      for await (const entry of this.fileReader.iterateEmbeddings()) {
+        const existing = entriesMap.get(entry.key)
 
-        const similarity = this.cosineSimilarity(queryEmbedding, embedding)
+        // Keep the most recent entry for each key
+        if (!existing || entry.timestamp > existing.timestamp) {
+          entriesMap.set(entry.key, entry)
 
-        // Only include results above the minimum similarity threshold
-        if (similarity >= minSimilarity) {
-          results.push({
-            entry,
-            similarity
-          })
+          // Remove old result if it exists
+          if (existing) {
+            const oldIndex = results.findIndex((r) => {
+              return r.entry.key === entry.key
+            })
+
+            if (oldIndex !== -1) {
+              results.splice(oldIndex, 1)
+            }
+          }
+
+          // Ensure embedding is an array (convert from object if needed)
+          const embedding = Array.isArray(entry.embedding)
+            ? entry.embedding
+            : Object.values(entry.embedding)
+
+          const similarity = this.cosineSimilarity(queryEmbedding, embedding)
+
+          // Only include results above the minimum similarity threshold
+          if (similarity >= minSimilarity) {
+            results.push({
+              entry,
+              similarity
+            })
+          }
         }
       }
 
       // Sort by similarity (highest first) and limit results
-      results.sort((a, b) => b.similarity - a.similarity)
+      results.sort((a, b) => {
+        return b.similarity - a.similarity
+      })
+
       return results.slice(0, limit)
     } catch (error) {
       // Return empty array on errors
