@@ -1,7 +1,21 @@
 {
   "name": "raptor",
   "version": "0.1.0",
-  "description": "An embedding database that stores text indexes",
+  "description": "Lightweight semantic search database with text embeddings for Node.js and Bun",
+  "author": "Christoffer Artmann <artgaard@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "embeddings",
+    "semantic-search",
+    "vector-database",
+    "bun",
+    "nodejs",
+    "rag",
+    "nlp",
+    "machine-learning",
+    "text-search",
+    "cosine-similarity"
+  ],
   "type": "module",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
