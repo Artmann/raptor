@@ -96,12 +96,22 @@ for (const result of results) {
 }
 ```
 
-## Example
+## Examples
 
-Run the example:
+See the [examples/](examples/) directory for practical use cases:
+
+- **Document Search / RAG** - Semantic search over documentation chunks
+- **FAQ Bot** - Match user questions to FAQs with confidence thresholds
+- **Code Snippet Library** - Search code by natural language descriptions
+- **Content Recommendation** - "More like this" functionality
+
+Each example is self-contained and runnable:
 
 ```bash
-bun run example.ts
+bun run examples/01-document-search.ts
+bun run examples/02-faq-bot.ts
+bun run examples/03-code-snippets.ts
+bun run examples/04-content-recommendation.ts
 ```
 
 ## Storage Format
