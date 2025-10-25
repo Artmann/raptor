@@ -49,7 +49,7 @@ export class EmbeddingFileReader {
         const combined = chunk + remainingBuffer
         const lines = combined.split('\n')
 
-        remainingBuffer = lines.shift() || ''
+        remainingBuffer = lines.shift() ?? ''
 
         for (let i = lines.length - 1; i >= 0; i--) {
           const line = lines[i].trim()
@@ -65,7 +65,7 @@ export class EmbeddingFileReader {
               seenKeys.add(entry.key)
               yield entry
             }
-          } catch (parseError) {
+          } catch {
             continue
           }
         }
@@ -79,11 +79,11 @@ export class EmbeddingFileReader {
             seenKeys.add(entry.key)
             yield entry
           }
-        } catch (parseError) {
+        } catch {
           // Skip malformed line
         }
       }
-    } catch (error) {
+    } catch {
       // File doesn't exist or other error, yield nothing
       return
     } finally {

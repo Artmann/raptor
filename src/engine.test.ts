@@ -26,7 +26,7 @@ describe('EmbeddingEngine', () => {
       if (existsSync(testStorePath)) {
         await unlink(testStorePath)
       }
-    } catch (error) {
+    } catch {
       // Ignore errors if file doesn't exist
     }
   })

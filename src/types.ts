@@ -17,3 +17,9 @@ export interface StoreOptions {
 export interface EngineOptions {
   storePath: string
 }
+
+export interface PackageJson {
+  name: string
+  version: string
+  description: string
+}
