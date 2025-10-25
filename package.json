@@ -4,6 +4,14 @@
   "description": "Lightweight semantic search database with text embeddings for Node.js and Bun",
   "author": "Christoffer Artmann <artgaard@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artmann/raptor.git"
+  },
+  "homepage": "https://github.com/artmann/raptor#readme",
+  "bugs": {
+    "url": "https://github.com/artmann/raptor/issues"
+  },
   "keywords": [
     "embeddings",
     "semantic-search",

@@ -13,7 +13,7 @@ get started with development.
 ### Clone and Install
 
 ```bash
-git clone https://github.com/yourusername/raptor.git
+git clone https://github.com/artmann/raptor.git
 cd raptor
 bun install
 ```
@@ -316,7 +316,7 @@ rm -rf local_cache/
 
 ## Need Help?
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/raptor/issues)
+- **Issues**: [GitHub Issues](https://github.com/artmann/raptor/issues)
 - **Documentation**: See [CLAUDE.md](CLAUDE.md) for detailed technical docs
 
 ## License
