@@ -21,7 +21,7 @@
   },
   "scripts": {
     "build": "rolldown --config rolldown.config.ts && tsc --emitDeclarationOnly --declaration --outDir dist",
-    "cli": "tsx src/cli.ts",
+    "cli": "bun src/cli.ts",
     "dev": "bun run src/index.ts",
     "format": "prettier --write .",
     "test:ui": "vitest --ui",

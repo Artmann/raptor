@@ -198,7 +198,7 @@ describe('EmbeddingEngine', () => {
       const results = await engine.search('machine learning')
 
       expect(results.length).toBeGreaterThan(0)
-      expect(results[0].entry.key).toBeDefined()
+      expect(results[0].key).toBeDefined()
       expect(results[0].similarity).toBeTypeOf('number')
       expect(results[0].similarity).toBeGreaterThanOrEqual(-1)
       expect(results[0].similarity).toBeLessThanOrEqual(1)
@@ -222,10 +222,10 @@ describe('EmbeddingEngine', () => {
     })
 
     it('should respect minSimilarity threshold', async () => {
-      const results = await engine.search('test', 10, 0.5)
+      const results = await engine.search('test', 10, 0.7)
 
       for (const result of results) {
-        expect(result.similarity).toBeGreaterThanOrEqual(0.5)
+        expect(result.similarity).toBeGreaterThanOrEqual(0.7)
       }
     })
 
@@ -234,7 +234,7 @@ describe('EmbeddingEngine', () => {
         storePath: './test-data/nonexistent.jsonl'
       })
 
-      const results = await newEngine.search('test', 5)
+      const results = await newEngine.search('test', 5, 0.1)
 
       expect(results).toEqual([])
     })

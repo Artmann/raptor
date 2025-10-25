@@ -6,7 +6,7 @@ export interface EmbeddingEntry {
 }
 
 export interface SearchResult {
-  entry: EmbeddingEntry
+  key: string
   similarity: number
 }
 

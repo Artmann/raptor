@@ -5,6 +5,7 @@ import { dirname } from 'node:path'
 import type { EngineOptions, EmbeddingEntry, SearchResult } from './types'
 import { EmbeddingFileReader } from './embedding-file-reader'
 import invariant from 'tiny-invariant'
+import { CandidateSet } from './candidate-set'
 
 export class EmbeddingEngine {
   private storePath: string
@@ -43,61 +44,35 @@ export class EmbeddingEngine {
   async search(
     query: string,
     limit: number = 10,
-    minSimilarity: number = 0
+    minSimilarity: number = 0.5
   ): Promise<SearchResult[]> {
-    try {
-      // Generate embedding for the query
-      const queryEmbedding = await this.generateEmbedding(query)
+    invariant(query, 'Query text must be provided.')
+    invariant(limit > 0, 'Limit must be a positive integer.')
+    invariant(
+      minSimilarity >= 0 && minSimilarity <= 1,
+      'minSimilarity must be between 0 and 1.'
+    )
 
-      // Deduplicate entries by key (keep most recent) and calculate similarities
-      const entriesMap = new Map<string, EmbeddingEntry>()
-      const results: SearchResult[] = []
+    const queryEmbedding = await this.generateEmbedding(query)
 
-      for await (const entry of this.fileReader.iterateEmbeddings()) {
-        const existing = entriesMap.get(entry.key)
+    const candidateSet = new CandidateSet(limit)
 
-        // Keep the most recent entry for each key
-        if (!existing || entry.timestamp > existing.timestamp) {
-          entriesMap.set(entry.key, entry)
+    for await (const entry of this.fileReader.iterateEmbeddings()) {
+      const similarity = this.cosineSimilarity(queryEmbedding, entry.embedding)
 
-          // Remove old result if it exists
-          if (existing) {
-            const oldIndex = results.findIndex((r) => {
-              return r.entry.key === entry.key
-            })
-
-            if (oldIndex !== -1) {
-              results.splice(oldIndex, 1)
-            }
-          }
-
-          // Ensure embedding is an array (convert from object if needed)
-          const embedding = Array.isArray(entry.embedding)
-            ? entry.embedding
-            : Object.values(entry.embedding)
-
-          const similarity = this.cosineSimilarity(queryEmbedding, embedding)
-
-          // Only include results above the minimum similarity threshold
-          if (similarity >= minSimilarity) {
-            results.push({
-              entry,
-              similarity
-            })
-          }
-        }
+      if (similarity < minSimilarity) {
+        continue
       }
 
-      // Sort by similarity (highest first) and limit results
-      results.sort((a, b) => {
-        return b.similarity - a.similarity
-      })
-
-      return results.slice(0, limit)
-    } catch (error) {
-      // Return empty array on errors
-      return []
+      candidateSet.add(entry.key, similarity)
     }
+
+    const results: SearchResult[] = candidateSet.getEntries().map((entry) => ({
+      key: entry.key,
+      similarity: entry.value
+    }))
+
+    return results
   }
 
   /**

@@ -29,9 +29,7 @@ export const search = command(
     } else {
       console.log(`Found ${results.length} result(s):\n`)
       for (const result of results) {
-        console.log(
-          `[${result.similarity.toFixed(4)}] ${result.entry.key}: ${result.entry.text}`
-        )
+        console.log(`${result.key}: ${result.similarity.toFixed(6)}`)
       }
     }
   }
