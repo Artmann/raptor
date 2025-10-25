@@ -9,12 +9,14 @@ export default defineConfig({
     {
       dir: 'dist',
       format: 'esm',
-      entryFileNames: '[name].mjs'
+      entryFileNames: '[name].mjs',
+      chunkFileNames: '[name]-[hash].mjs'
     },
     {
       dir: 'dist',
       format: 'cjs',
-      entryFileNames: '[name].js'
+      entryFileNames: '[name].cjs',
+      chunkFileNames: '[name]-[hash].cjs'
     }
   ],
   external: [

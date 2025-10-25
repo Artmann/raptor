@@ -25,13 +25,13 @@
     "cosine-similarity"
   ],
   "type": "module",
-  "main": "./dist/index.js",
+  "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "exports": {
     ".": {
       "import": "./dist/index.mjs",
-      "require": "./dist/index.js",
+      "require": "./dist/index.cjs",
       "types": "./dist/index.d.ts"
     }
   },
@@ -39,7 +39,7 @@
     "dist"
   ],
   "bin": {
-    "raptor": "./dist/cli.js"
+    "raptor": "./dist/cli.mjs"
   },
   "scripts": {
     "build": "rolldown --config rolldown.config.ts && tsc --project tsconfig.build.json",
