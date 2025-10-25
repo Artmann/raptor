@@ -50,10 +50,8 @@ async function main() {
   console.log('🔍 Document Search Example\n')
   console.log('📚 Storing documentation chunks...')
 
-  // Store all documentation chunks
-  for (const doc of docs) {
-    await engine.store(doc.key, doc.text)
-  }
+  // Store all documentation chunks in batch
+  await engine.storeMany(docs)
 
   console.log(`✓ Stored ${docs.length} documentation chunks\n`)
 

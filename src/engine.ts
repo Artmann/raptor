@@ -5,7 +5,7 @@ import { dirname } from 'node:path'
 import invariant from 'tiny-invariant'
 
 import { BinaryFileReader } from './binary-file-reader'
-import { writeHeader, writeRecord } from './binary-format'
+import { writeHeader, writeRecord, writeRecords } from './binary-format'
 import { CandidateSet } from './candidate-set'
 import type { EmbeddingEntry, EngineOptions, SearchResult } from './types'
 
@@ -124,6 +124,56 @@ export class EmbeddingEngine {
 
     // Append record
     await writeRecord(this.storePath, key, embeddingFloat32)
+  }
+
+  /**
+   * Stores multiple text embeddings in batch
+   * More efficient than calling store() multiple times
+   * Generates embeddings in a single batch and writes all records at once
+   * @param items - Array of {key, text} objects to store
+   */
+  async storeMany(items: Array<{ key: string; text: string }>): Promise<void> {
+    invariant(items.length > 0, 'Items array must not be empty.')
+
+    // Extract all texts for batch embedding
+    const texts = items.map((item) => item.text)
+
+    // Generate embeddings in batch
+    const embeddingModel = await FlagEmbedding.init({
+      model: EmbeddingModel.BGEBaseEN
+    })
+
+    const embeddings = embeddingModel.embed(texts)
+    const embeddingsList: number[][] = []
+
+    for await (const batch of embeddings) {
+      for (let i = 0; i < batch.length; i++) {
+        embeddingsList.push(Array.from(batch[i]))
+      }
+    }
+
+    // Ensure we got the right number of embeddings
+    invariant(
+      embeddingsList.length === items.length,
+      'Number of embeddings must match number of items.'
+    )
+
+    const dir = dirname(this.storePath)
+    await mkdir(dir, { recursive: true })
+
+    // Write header if file doesn't exist
+    if (!existsSync(this.storePath)) {
+      await writeHeader(this.storePath, embeddingsList[0].length)
+    }
+
+    // Prepare records for batch write
+    const records = items.map((item, index) => ({
+      key: item.key,
+      embedding: new Float32Array(embeddingsList[index])
+    }))
+
+    // Write all records at once
+    await writeRecords(this.storePath, records)
   }
 
   /**

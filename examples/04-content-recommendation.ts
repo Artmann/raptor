@@ -90,11 +90,13 @@ async function main() {
   console.log('🎯 Content Recommendation Example\n')
   console.log('📝 Indexing blog posts...')
 
-  // Store combined title + description for better semantic matching
-  for (const post of blogPosts) {
-    const text = `${post.title}. ${post.description}`
-    await engine.store(post.id, text)
-  }
+  // Store combined title + description in batch for better semantic matching
+  await engine.storeMany(
+    blogPosts.map((post) => ({
+      key: post.id,
+      text: `${post.title}. ${post.description}`
+    }))
+  )
 
   console.log(`✓ Indexed ${blogPosts.length} blog posts\n`)
 

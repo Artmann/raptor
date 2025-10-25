@@ -128,6 +128,64 @@ export async function writeRecord(
   await appendFile(filePath, uint8View)
 }
 
+export async function writeRecords(
+  filePath: string,
+  records: Array<{ key: string; embedding: Float32Array }>
+): Promise<void> {
+  if (records.length === 0) {
+    return
+  }
+
+  // Calculate total buffer size needed
+  let totalSize = 0
+  const recordBuffers: Uint8Array[] = []
+
+  for (const record of records) {
+    const keyBytes = new TextEncoder().encode(record.key)
+    const keyLength = keyBytes.length
+    const dimension = record.embedding.length
+    const recordLength = calculateRecordLength(keyLength, dimension)
+
+    // Create buffer for this record
+    const buffer = new ArrayBuffer(recordLength)
+    const view = new DataView(buffer)
+    const uint8View = new Uint8Array(buffer)
+
+    let offset = 0
+
+    // Write key length (uint16, little-endian)
+    view.setUint16(offset, keyLength, true)
+    offset += 2
+
+    // Write key bytes
+    uint8View.set(keyBytes, offset)
+    offset += keyLength
+
+    // Write embedding (float32 array, little-endian)
+    for (let i = 0; i < dimension; i++) {
+      view.setFloat32(offset, record.embedding[i], true)
+      offset += 4
+    }
+
+    // Write record length footer (uint32, little-endian)
+    view.setUint32(offset, recordLength, true)
+
+    recordBuffers.push(uint8View)
+    totalSize += recordLength
+  }
+
+  // Concatenate all buffers into one
+  const combinedBuffer = new Uint8Array(totalSize)
+  let position = 0
+  for (const buffer of recordBuffers) {
+    combinedBuffer.set(buffer, position)
+    position += buffer.length
+  }
+
+  // Single append operation
+  await appendFile(filePath, combinedBuffer)
+}
+
 export async function readRecordForward(
   filePath: string,
   dimension: number,
