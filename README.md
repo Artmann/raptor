@@ -1,197 +1,226 @@
 # Raptor
 
-An embedding database that stores text indexes in an append-only file format.
+> A lightweight semantic search database with text embeddings for Node.js and
+> Bun
 
-## Features
+Raptor lets you build semantic search into your applications with just a few
+lines of code. Store text, search by meaning, and find similar content—perfect
+for RAG systems, chatbots, and recommendation engines.
 
-- Simple key-value storage for text embeddings
-- Semantic search using cosine similarity
-- Binary append-only file format (.raptor)
-- Built for Bun runtime
-- TypeScript support
-- ~50% smaller file size vs JSONL format
+## What is Raptor?
+
+Raptor is an embedding database that automatically converts text into vector
+embeddings and stores them in an efficient binary format. Instead of searching
+by exact keywords, you can search by semantic similarity—finding documents that
+mean the same thing, even if they use different words.
+
+**Example:** Search for "how to reset password" and find results like "forgot my
+login credentials" or "change account password".
+
+## Why Raptor?
+
+- **Simple API** - No complex setup, just store and search
+- **Semantic Search** - Find content by meaning, not just keywords
+- **Fast & Efficient** - Binary storage format ~50% smaller than JSON
+- **Zero Dependencies** - Embeddings generated locally, no API keys needed
+- **Works Everywhere** - Compatible with Node.js and Bun
+- **Built for RAG** - Perfect for Retrieval Augmented Generation systems
+
+## Use Cases
+
+- **FAQ Bots** - Match user questions to answers by meaning
+- **Document Search** - Semantic search over documentation or knowledge bases
+- **Code Search** - Find code snippets by describing what they do
+- **Content Recommendations** - "More like this" functionality
+- **RAG Systems** - Retrieve relevant context for LLM prompts
 
 ## Installation
 
 ```bash
-bun install
+# Using npm
+npm install raptor
+
+# Using bun
+bun add raptor
 ```
 
-## CLI Usage
+## Quick Start
 
-Raptor includes a command-line interface for storing and searching embeddings.
+### Programmatic API
+
+```typescript
+import { EmbeddingEngine } from 'raptor'
+
+const engine = new EmbeddingEngine({
+  storePath: './my-database.raptor'
+})
+
+// Store documents
+await engine.storeMany([
+  { key: 'doc1', text: 'How to reset your password' },
+  { key: 'doc2', text: 'Machine learning basics' },
+  { key: 'doc3', text: 'Getting started with Bun' }
+])
+
+// Search by meaning
+const results = await engine.search('forgot my password', 5)
+console.log(results[0].key) // 'doc1' - matched by meaning!
+console.log(results[0].similarity) // 0.87 - high similarity score
+```
+
+### Command Line Interface
+
+```bash
+# Store documents
+raptor store doc1 "How to reset your password"
+raptor store doc2 "Machine learning basics"
+
+# Search by meaning
+raptor search "forgot my password" --limit 5
+
+# Retrieve by key
+raptor get doc1
+```
+
+## Examples
+
+See the [examples/](examples/) directory for complete, runnable examples:
+
+| Example                    | Description                                             | Run                                             |
+| -------------------------- | ------------------------------------------------------- | ----------------------------------------------- |
+| **Document Search / RAG**  | Semantic search over documentation chunks               | `bun run examples/01-document-search.ts`        |
+| **FAQ Bot**                | Match user questions to FAQs with confidence thresholds | `bun run examples/02-faq-bot.ts`                |
+| **Code Snippet Library**   | Search code by natural language descriptions            | `bun run examples/03-code-snippets.ts`          |
+| **Content Recommendation** | "More like this" functionality                          | `bun run examples/04-content-recommendation.ts` |
+
+## API Reference
+
+### `EmbeddingEngine`
+
+#### `constructor(options)`
+
+Create a new embedding engine.
+
+```typescript
+const engine = new EmbeddingEngine({
+  storePath: './database.raptor' // Path to storage file
+})
+```
+
+#### `store(key, text)`
+
+Store a single text entry with auto-generated embedding.
+
+```typescript
+await engine.store('doc1', 'The quick brown fox')
+```
+
+#### `storeMany(items)`
+
+Store multiple entries in batch (faster than multiple `store()` calls).
+
+```typescript
+await engine.storeMany([
+  { key: 'doc1', text: 'First document' },
+  { key: 'doc2', text: 'Second document' }
+])
+```
+
+#### `search(query, limit?, minSimilarity?)`
+
+Search for semantically similar entries.
+
+```typescript
+const results = await engine.search(
+  'artificial intelligence', // query text
+  10, // max results (default: 10)
+  0.7 // min similarity 0-1 (default: 0)
+)
+
+// Results are sorted by similarity (highest first)
+results.forEach((result) => {
+  console.log(result.key) // Document key
+  console.log(result.similarity) // Similarity score 0-1
+})
+```
+
+#### `get(key)`
+
+Retrieve a specific entry by key.
+
+```typescript
+const entry = await engine.get('doc1')
+if (entry) {
+  console.log(entry.key) // 'doc1'
+  console.log(entry.embedding) // [0.1, 0.2, ...] (768 dimensions)
+}
+```
+
+## CLI Reference
 
 ### Commands
 
-**Store a text embedding:**
-
 ```bash
+# Store text
 raptor store <key> <text> [--storePath path]
-```
 
-**Retrieve an embedding by key:**
-
-```bash
-raptor get <key> [--storePath path]
-```
-
-**Search for similar embeddings:**
-
-```bash
+# Search for similar text
 raptor search <query> [--limit 10] [--minSimilarity 0] [--storePath path]
+
+# Get by key
+raptor get <key> [--storePath path]
 ```
 
 ### Options
 
-- `-s, --storePath` - Path to the embeddings store file (default:
-  ./database.raptor)
-- `-l, --limit` - Maximum number of results to return (default: 10)
+- `-s, --storePath` - Path to database file (default: `./database.raptor`)
+- `-l, --limit` - Maximum results to return (default: 10)
 - `-m, --minSimilarity` - Minimum similarity threshold 0-1 (default: 0)
 
 ### Examples
 
 ```bash
-# Store some documents
+# Store documents
 raptor store doc1 "The quick brown fox jumps over the lazy dog"
 raptor store doc2 "Machine learning is a subset of artificial intelligence"
 raptor store doc3 "Bun is a fast JavaScript runtime"
 
-# Retrieve a specific document
-raptor get doc1
+# Search with default settings
+raptor search "artificial intelligence"
 
-# Search for similar documents
-raptor search "artificial intelligence" --limit 5
+# Search with custom limit and threshold
+raptor search "AI and ML" --limit 3 --minSimilarity 0.7
 
-# Use a custom storage path
-raptor store key1 "Some text" --storePath ./custom/path.raptor
+# Use custom database path
+raptor store key1 "Some text" --storePath ./data/custom.raptor
 ```
 
-## Programmatic Usage
+## How It Works
 
-```typescript
-import { EmbeddingEngine } from './src/index'
+1. **Text → Embeddings**: Raptor uses the BGE-Base-EN model to convert text into
+   768-dimensional vector embeddings
+2. **Storage**: Embeddings are stored in an efficient binary format (.raptor
+   files)
+3. **Search**: When you search, Raptor compares your query embedding against all
+   stored embeddings using cosine similarity
+4. **Results**: Returns the most similar results ranked by similarity score
 
-const engine = new EmbeddingEngine({
-  storePath: './database.raptor'
-})
+**Embedding Model**:
+[BAAI/bge-base-en](https://huggingface.co/BAAI/bge-base-en-v1.5) (768
+dimensions)
 
-// Store text with embeddings
-await engine.store('doc1', 'The quick brown fox jumps over the lazy dog')
-await engine.store(
-  'doc2',
-  'Machine learning is a subset of artificial intelligence'
-)
+## Performance
 
-// Retrieve embeddings by key
-const entry = await engine.get('doc1')
-if (entry) {
-  console.log(entry.text)
-  console.log(entry.embedding)
-}
+- **Batch operations**: Use `storeMany()` for faster bulk inserts
+- **Memory efficient**: Reads file in 64KB chunks, handles large databases
+- **Fast search**: Cosine similarity comparison across all embeddings
+- **Deduplication**: Latest entry automatically used for duplicate keys
 
-// Search for similar texts
-const results = await engine.search('artificial intelligence', 5)
-for (const result of results) {
-  console.log(`[${result.similarity.toFixed(4)}] ${result.entry.text}`)
-}
-```
+## Contributing
 
-## Examples
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for
+development setup, architecture details, and guidelines.
 
-See the [examples/](examples/) directory for practical use cases:
+## License
 
-- **Document Search / RAG** - Semantic search over documentation chunks
-- **FAQ Bot** - Match user questions to FAQs with confidence thresholds
-- **Code Snippet Library** - Search code by natural language descriptions
-- **Content Recommendation** - "More like this" functionality
-
-Each example is self-contained and runnable:
-
-```bash
-bun run examples/01-document-search.ts
-bun run examples/02-faq-bot.ts
-bun run examples/03-code-snippets.ts
-bun run examples/04-content-recommendation.ts
-```
-
-## Storage Format
-
-Embeddings are stored in a compact binary format (.raptor files) with the
-following structure:
-
-**Header (16 bytes):**
-
-- Magic bytes: "EMBD" (4 bytes)
-- Version: 1 (2 bytes, uint16)
-- Embedding dimension: e.g., 768 for BGE-Base-EN (4 bytes, uint32)
-- Reserved: 6 bytes for future use
-
-**Records (variable length):**
-
-- Key length (2 bytes, uint16)
-- Key (UTF-8 encoded, variable length)
-- Embedding vector (dimension × 4 bytes, float32 array)
-- Record length footer (4 bytes, uint32)
-
-The append-only format means duplicate keys can exist. The latest value (closest
-to end of file) is used when reading.
-
-**Benefits:**
-
-- ~50% smaller than JSONL format
-- Faster parsing (no JSON decode)
-- Efficient reverse reading for deduplication
-- Single-file storage
-
-## API
-
-### `EmbeddingEngine`
-
-#### `constructor(options: EngineOptions)`
-
-Create a new embedding engine.
-
-- `options.storePath` - Path to the append-only storage file
-
-#### `store(key: string, text: string): Promise<void>`
-
-Store a text embedding.
-
-- `key` - Unique identifier for the entry
-- `text` - Text to embed and store
-
-#### `get(key: string): Promise<EmbeddingEntry | null>`
-
-Retrieve an embedding entry by key.
-
-- `key` - Unique identifier for the entry
-- Returns the most recent entry with the given key, or `null` if not found
-
-**Note:** If a key is stored multiple times, the most recent entry (based on
-timestamp) is returned.
-
-#### `search(query: string, limit?: number, minSimilarity?: number): Promise<SearchResult[]>`
-
-Search for similar embeddings using cosine similarity.
-
-- `query` - Text query to search for
-- `limit` - Maximum number of results to return (default: 10)
-- `minSimilarity` - Minimum similarity threshold, range -1 to 1 (default: 0)
-- Returns array of results sorted by similarity (highest first)
-
-**SearchResult** structure:
-
-```typescript
-{
-  entry: EmbeddingEntry // The matching entry
-  similarity: number // Cosine similarity score (1 = identical, 0 = orthogonal, -1 = opposite)
-}
-```
-
-**How it works:**
-
-1. Generates an embedding for the query text
-2. Compares the query embedding against all stored embeddings using cosine
-   similarity
-3. Returns the most similar results above the minimum threshold
-4. Automatically deduplicates by key (uses most recent entry)
+MIT © [Christoffer Artmann](mailto:artgaard@gmail.com)
