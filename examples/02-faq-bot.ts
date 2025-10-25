@@ -74,10 +74,10 @@ async function main() {
   console.log('🤖 FAQ Bot Example\n')
   console.log('📋 Loading FAQ database...')
 
-  // Store all FAQ questions (we search questions, return answers)
-  for (const faq of faqs) {
-    await engine.store(faq.id, faq.question)
-  }
+  // Store all FAQ questions in batch (we search questions, return answers)
+  await engine.storeMany(
+    faqs.map((faq) => ({ key: faq.id, text: faq.question }))
+  )
 
   console.log(`✓ Loaded ${faqs.length} FAQs\n`)
 

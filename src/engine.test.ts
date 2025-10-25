@@ -96,6 +96,106 @@ describe('EmbeddingEngine', () => {
     })
   })
 
+  describe('storeMany', () => {
+    it('should store multiple entries in batch', async () => {
+      const items = [
+        { key: 'doc1', text: 'The quick brown fox' },
+        { key: 'doc2', text: 'Machine learning is powerful' },
+        { key: 'doc3', text: 'Bun is fast' }
+      ]
+
+      await engine.storeMany(items)
+
+      // Verify file was created
+      expect(existsSync(testStorePath)).toBe(true)
+
+      // Verify all entries can be retrieved
+      const entry1 = await engine.get('doc1')
+      const entry2 = await engine.get('doc2')
+      const entry3 = await engine.get('doc3')
+
+      expect(entry1?.key).toBe('doc1')
+      expect(entry2?.key).toBe('doc2')
+      expect(entry3?.key).toBe('doc3')
+    })
+
+    it('should create header on first storeMany', async () => {
+      const items = [
+        { key: 'doc1', text: 'Hello world' },
+        { key: 'doc2', text: 'Test content' }
+      ]
+
+      await engine.storeMany(items)
+
+      expect(existsSync(testStorePath)).toBe(true)
+
+      // Verify header was written
+      const header = await readHeader(testStorePath)
+      expect(header.version).toBe(1)
+      expect(header.dimension).toBe(768)
+    })
+
+    it('should generate embeddings for all items', async () => {
+      const items = [
+        { key: 'doc1', text: 'First document' },
+        { key: 'doc2', text: 'Second document' }
+      ]
+
+      await engine.storeMany(items)
+
+      const entry1 = await engine.get('doc1')
+      const entry2 = await engine.get('doc2')
+
+      expect(entry1?.embedding.length).toBe(768)
+      expect(entry2?.embedding.length).toBe(768)
+
+      // Different texts should have different embeddings
+      expect(entry1?.embedding[0]).not.toBe(entry2?.embedding[0])
+    })
+
+    it('should handle single item in array', async () => {
+      const items = [{ key: 'single', text: 'Single item' }]
+
+      await engine.storeMany(items)
+
+      const entry = await engine.get('single')
+      expect(entry?.key).toBe('single')
+    })
+
+    it('should handle UTF-8 keys in batch', async () => {
+      const items = [
+        { key: 'café☕', text: 'Coffee' },
+        { key: '日本語', text: 'Japanese text' }
+      ]
+
+      await engine.storeMany(items)
+
+      const entry1 = await engine.get('café☕')
+      const entry2 = await engine.get('日本語')
+
+      expect(entry1?.key).toBe('café☕')
+      expect(entry2?.key).toBe('日本語')
+    })
+
+    it('should work with search after storeMany', async () => {
+      const items = [
+        { key: 'doc1', text: 'Machine learning is powerful' },
+        { key: 'doc2', text: 'Artificial intelligence applications' },
+        { key: 'doc3', text: 'Cooking recipes and food' }
+      ]
+
+      await engine.storeMany(items)
+
+      // Small delay to ensure file is flushed
+      await new Promise((resolve) => setTimeout(resolve, 50))
+
+      const results = await engine.search('AI and ML', 3)
+
+      expect(results.length).toBeGreaterThan(0)
+      expect(results[0].similarity).toBeGreaterThanOrEqual(0)
+    })
+  })
+
   describe('get', () => {
     it('should retrieve stored entry by key', async () => {
       await engine.store('doc1', 'Test content')

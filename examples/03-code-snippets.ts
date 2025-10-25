@@ -142,11 +142,10 @@ async function main() {
   console.log('💻 Code Snippet Library Example\n')
   console.log('📚 Indexing code snippets...')
 
-  // Store snippet descriptions (not the code itself)
-  for (const snippet of snippets) {
-    // Store the description for semantic search
-    await engine.store(snippet.id, snippet.description)
-  }
+  // Store snippet descriptions in batch (not the code itself)
+  await engine.storeMany(
+    snippets.map((snippet) => ({ key: snippet.id, text: snippet.description }))
+  )
 
   console.log(`✓ Indexed ${snippets.length} code snippets\n`)
 
