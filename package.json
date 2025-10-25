@@ -24,6 +24,7 @@
     "cli": "bun src/cli.ts",
     "dev": "bun run src/index.ts",
     "format": "prettier --write .",
+    "format:check": "prettier --check .",
     "lint": "eslint src/ --ext .ts,.tsx",
     "lint:fix": "eslint src/ --ext .ts,.tsx --fix",
     "lint:check": "eslint src/ --ext .ts,.tsx --max-warnings 0",
