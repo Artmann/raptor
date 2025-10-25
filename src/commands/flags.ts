@@ -2,7 +2,7 @@ export const sharedFlags = {
   storePath: {
     type: String,
     description: 'Path to the embeddings store file',
-    default: './database.jsonl',
+    default: './database.raptor',
     alias: 's'
   }
 } as const

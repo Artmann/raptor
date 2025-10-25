@@ -1,11 +1,12 @@
 import { describe, it, expect, beforeEach, afterEach } from 'vitest'
 import { EmbeddingEngine } from './engine'
-import { readFile, unlink, mkdir } from 'node:fs/promises'
+import { unlink, mkdir, stat } from 'node:fs/promises'
 import { existsSync } from 'node:fs'
 import { dirname } from 'node:path'
+import { readHeader } from './binary-format'
 
 describe('EmbeddingEngine', () => {
-  const testStorePath = './test-data/test-embeddings.jsonl'
+  const testStorePath = './test-data/test-embeddings.raptor'
   let engine: EmbeddingEngine
 
   beforeEach(async () => {
@@ -32,126 +33,66 @@ describe('EmbeddingEngine', () => {
   })
 
   describe('store', () => {
-    it('should store a single text entry', async () => {
+    it('should create binary file with header on first store', async () => {
       await engine.store('doc1', 'Hello world')
 
-      const content = await readFile(testStorePath, 'utf-8')
-      const lines = content.trim().split('\n')
+      expect(existsSync(testStorePath)).toBe(true)
 
-      expect(lines.length).toBe(1)
-
-      const entry = JSON.parse(lines[0])
-      expect(entry.key).toBe('doc1')
-      expect(entry.text).toBe('Hello world')
-      expect(entry.embedding).toBeInstanceOf(Array)
-      expect(entry.embedding.length).toBe(768)
-      expect(entry.timestamp).toBeTypeOf('number')
+      // Verify header was written
+      const header = await readHeader(testStorePath)
+      expect(header.version).toBe(1)
+      expect(header.dimension).toBe(768) // BGE-Base-EN dimension
     })
 
-    it('should store multiple text entries in append-only format', async () => {
+    it('should store entry and retrieve it back', async () => {
+      await engine.store('doc1', 'Hello world')
+
+      const entry = await engine.get('doc1')
+      expect(entry).not.toBeNull()
+      expect(entry?.key).toBe('doc1')
+      expect(entry?.embedding).toBeInstanceOf(Array)
+      expect(entry?.embedding.length).toBe(768)
+    })
+
+    it('should store multiple entries in append-only format', async () => {
       await engine.store('doc1', 'The quick brown fox')
       await engine.store('doc2', 'Machine learning is powerful')
       await engine.store('doc3', 'Bun is fast')
 
-      const content = await readFile(testStorePath, 'utf-8')
+      // Verify file size increased (header + 3 records)
+      const stats = await stat(testStorePath)
+      expect(stats.size).toBeGreaterThan(16) // More than just header
 
-      // Verify file format with inline snapshot
-      // Remove timestamps and embeddings for stable snapshot
-      const lines = content.trim().split('\n')
-      const sanitized = lines.map((line) => {
-        const entry = JSON.parse(line)
-        return {
-          key: entry.key,
-          text: entry.text,
-          embeddingLength: entry.embedding.length,
-          hasTimestamp: typeof entry.timestamp === 'number'
-        }
-      })
+      // Verify we can retrieve all entries
+      const entry1 = await engine.get('doc1')
+      const entry2 = await engine.get('doc2')
+      const entry3 = await engine.get('doc3')
 
-      expect(sanitized).toMatchInlineSnapshot(`
-        [
-          {
-            "embeddingLength": 768,
-            "hasTimestamp": true,
-            "key": "doc1",
-            "text": "The quick brown fox",
-          },
-          {
-            "embeddingLength": 768,
-            "hasTimestamp": true,
-            "key": "doc2",
-            "text": "Machine learning is powerful",
-          },
-          {
-            "embeddingLength": 768,
-            "hasTimestamp": true,
-            "key": "doc3",
-            "text": "Bun is fast",
-          },
-        ]
-      `)
+      expect(entry1?.key).toBe('doc1')
+      expect(entry2?.key).toBe('doc2')
+      expect(entry3?.key).toBe('doc3')
     })
 
-    it('should verify actual file content structure', async () => {
-      await engine.store('test1', 'First document')
-      await engine.store('test2', 'Second document')
-
-      const content = await readFile(testStorePath, 'utf-8')
-      const lines = content.trim().split('\n')
-
-      // Parse each line to verify it's valid JSON
-      const entries = lines.map((line) => JSON.parse(line))
-
-      // Create a snapshot-friendly version
-      const snapshot = entries.map((entry) => ({
-        key: entry.key,
-        text: entry.text,
-        embeddingFirstThree: entry.embedding
-          .slice(0, 3)
-          .map((n: number) => n.toFixed(4)),
-        embeddingLength: entry.embedding.length
-      }))
-
-      expect(snapshot).toMatchInlineSnapshot(`
-        [
-          {
-            "embeddingFirstThree": [
-              "-0.0288",
-              "0.0249",
-              "0.0017",
-            ],
-            "embeddingLength": 768,
-            "key": "test1",
-            "text": "First document",
-          },
-          {
-            "embeddingFirstThree": [
-              "-0.0151",
-              "0.0165",
-              "-0.0090",
-            ],
-            "embeddingLength": 768,
-            "key": "test2",
-            "text": "Second document",
-          },
-        ]
-      `)
-    })
-
-    it('should append entries with same key', async () => {
+    it('should append entries with same key (deduplication happens on read)', async () => {
       await engine.store('doc1', 'Original text')
       await engine.store('doc1', 'Updated text')
 
-      const content = await readFile(testStorePath, 'utf-8')
-      const lines = content.trim().split('\n')
+      // Get should return the latest version
+      const entry = await engine.get('doc1')
+      expect(entry?.key).toBe('doc1')
 
-      expect(lines.length).toBe(2)
+      // File should contain both records (append-only)
+      const stats = await stat(testStorePath)
+      // Header (16) + 2 records, each record is 2 + keyLen + 768*4 + 4
+      const recordSize = 2 + 4 + 768 * 4 + 4 // key "doc1" = 4 bytes
+      expect(stats.size).toBeGreaterThanOrEqual(16 + recordSize * 2)
+    })
 
-      const entries = lines.map((line) => JSON.parse(line))
-      expect(entries[0].text).toBe('Original text')
-      expect(entries[1].text).toBe('Updated text')
-      expect(entries[0].key).toBe('doc1')
-      expect(entries[1].key).toBe('doc1')
+    it('should handle UTF-8 keys correctly', async () => {
+      await engine.store('café☕', 'Coffee text')
+
+      const entry = await engine.get('café☕')
+      expect(entry?.key).toBe('café☕')
     })
   })
 
@@ -163,7 +104,8 @@ describe('EmbeddingEngine', () => {
 
       expect(entry).not.toBeNull()
       expect(entry?.key).toBe('doc1')
-      expect(entry?.text).toBe('Test content')
+      expect(entry?.embedding).toBeInstanceOf(Array)
+      expect(entry?.embedding.length).toBe(768)
     })
 
     it('should return null for non-existent key', async () => {
@@ -172,13 +114,32 @@ describe('EmbeddingEngine', () => {
     })
 
     it('should return most recent entry for duplicate keys', async () => {
-      await engine.store('doc1', 'First version')
-      await new Promise((resolve) => setTimeout(resolve, 10)) // Ensure different timestamps
-      await engine.store('doc1', 'Second version')
+      const text1 = 'First version content here'
+      const text2 = 'Second version completely different text'
+
+      await engine.store('doc1', text1)
+      await engine.store('doc1', text2)
 
       const entry = await engine.get('doc1')
 
-      expect(entry?.text).toBe('Second version')
+      expect(entry).not.toBeNull()
+      expect(entry?.key).toBe('doc1')
+
+      // Verify it's the second version by checking the embedding
+      // (embeddings for different text should be different)
+      const secondEmbedding = await engine.generateEmbedding(text2)
+
+      // Check that retrieved embedding matches the second one
+      expect(entry?.embedding[0]).toBeCloseTo(secondEmbedding[0])
+    })
+
+    it('should handle empty file gracefully', async () => {
+      const newEngine = new EmbeddingEngine({
+        storePath: './test-data/empty.raptor'
+      })
+
+      const entry = await newEngine.get('anykey')
+      expect(entry).toBeNull()
     })
   })
 
@@ -231,12 +192,23 @@ describe('EmbeddingEngine', () => {
 
     it('should return empty array when no file exists', async () => {
       const newEngine = new EmbeddingEngine({
-        storePath: './test-data/nonexistent.jsonl'
+        storePath: './test-data/nonexistent.raptor'
       })
 
       const results = await newEngine.search('test', 5, 0.1)
 
       expect(results).toEqual([])
+    })
+
+    it('should only return latest version of duplicate keys', async () => {
+      await engine.store('dup', 'artificial intelligence AI ML')
+      await engine.store('dup', 'cooking recipes food kitchen')
+
+      const results = await engine.search('machine learning', 10, 0)
+
+      // Should only have one result for 'dup' (the latest version)
+      const dupResults = results.filter((r) => r.key === 'dup')
+      expect(dupResults.length).toBeLessThanOrEqual(1)
     })
   })
 })
