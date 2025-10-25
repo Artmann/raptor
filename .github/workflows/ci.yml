@@ -132,6 +132,14 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-bun-
 
+      - name: Cache FastEmbed models
+        uses: actions/cache@v4
+        with:
+          path: local_cache
+          key: ${{ runner.os }}-fastembed-models-v1
+          restore-keys: |
+            ${{ runner.os }}-fastembed-models-
+
       - name: Install dependencies
         run: bun install --frozen-lockfile
 
