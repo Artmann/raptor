@@ -1,7 +1,6 @@
 # Raptor Benchmark Suite
 
-Comprehensive performance and quality benchmarks for the Raptor embedding
-database.
+Performance benchmarks for the Raptor embedding database.
 
 ## Quick Start
 
@@ -17,43 +16,47 @@ bun run benchmark
 
 ### 1. **Store Operations**
 
-- Bulk insert performance using `storeMany()`
+Measures bulk insert performance using `storeMany()`.
+
+**Metrics:**
+
+- Total duration
 - Throughput (documents/second)
-- Memory consumption
-- Per-document processing time
+- Average time per document
 
 **Dataset sizes:** 100, 500, 1K, 2K documents
 
 ### 2. **Search Operations**
 
+Measures semantic search performance with cold start and warm queries.
+
+**Metrics:**
+
 - Cold start latency (first query)
-- Warm query latency
-- Percentile distribution (P50, P95, P99)
-- Memory usage
+- Average warm query latency
 
 **Dataset sizes:** 100, 500, 1K, 2K, 5K, 10K documents
 
 ### 3. **Get Operations**
 
-- Sequential access patterns
-- Random access patterns
-- Latency comparison
+Measures key-based retrieval performance.
+
+**Metrics:**
+
+- Sequential access average latency
+- Random access average latency
 
 **Dataset sizes:** 100, 500, 1K, 2K, 5K, 10K documents
 
-### 4. **Search Quality**
+### 4. **Scalability Analysis**
 
-- Precision@1, @5, @10
-- Mean Reciprocal Rank (MRR)
-- Relevance scoring using article categories/topics
+Analyzes how performance scales with dataset size.
 
-**Dataset sizes:** 100, 500, 1K, 2K, 5K, 10K documents
+**Metrics:**
 
-### 5. **Scalability Analysis**
-
-- Performance degradation with dataset size
-- Efficiency ratios
-- Scaling characteristics
+- Size ratio (e.g., 2x, 5x)
+- Time ratio
+- Efficiency percentage
 
 ## Sample Data
 
@@ -109,14 +112,16 @@ bun run benchmark/index.ts --quick
 
 ## Output
 
-The benchmark produces detailed console tables showing:
+The benchmark produces GitHub-style markdown tables showing:
 
-- **Store Operations**: Duration, throughput, avg/doc, memory
-- **Search Operations**: Cold/warm latency, percentiles, memory
+- **Store Operations**: Duration, throughput, avg/doc
+- **Search Operations**: Cold start, avg warm latency
 - **Get Operations**: Sequential vs random access times
-- **Search Quality**: Precision scores, MRR
 - **Scalability Analysis**: Efficiency ratios across sizes
 - **Summary**: Key insights and metrics
+
+All tables are formatted with pipe delimiters and can be directly copied into
+documentation.
 
 ## Test Queries
 
@@ -149,8 +154,21 @@ The benchmark suite consists of:
 
 - `benchmark/index.ts` - Main orchestrator
 - `benchmark/suites/` - Individual benchmark implementations
-- `benchmark/utils/` - Helpers for memory tracking, data loading, reporting
+  - `store-benchmark.ts` - Bulk insert tests
+  - `search-benchmark.ts` - Search performance tests
+  - `get-benchmark.ts` - Key retrieval tests
+- `benchmark/utils/` - Helpers for data loading and reporting
 - `benchmark/queries.ts` - Test query definitions
+
+### Timing Methodology
+
+All benchmarks use **total time measurement** rather than individual operation
+timing to:
+
+- Reduce measurement overhead from repeated `performance.now()` calls
+- Provide more stable, less noisy results
+- Better reflect real-world batch usage patterns
+- Calculate accurate throughput metrics
 
 ## Performance Tips
 
