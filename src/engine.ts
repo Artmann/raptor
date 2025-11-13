@@ -25,11 +25,10 @@ export class EmbeddingEngine {
    * @returns Initialized FlagEmbedding model
    */
   private async getOrInitModel(): Promise<FlagEmbedding> {
-    if (!this.embeddingModel) {
-      this.embeddingModel = await FlagEmbedding.init({
-        model: EmbeddingModel.BGEBaseEN
-      })
-    }
+    this.embeddingModel ??= await FlagEmbedding.init({
+      model: EmbeddingModel.BGEBaseEN
+    })
+
     return this.embeddingModel
   }
 
@@ -41,7 +40,7 @@ export class EmbeddingEngine {
   async generateEmbedding(text: string): Promise<number[]> {
     const embeddingModel = await this.getOrInitModel()
 
-    const embeddings = embeddingModel.embed([text])
+    const embeddings = embeddingModel.embed([text], 1024)
 
     for await (const batch of embeddings) {
       // Convert Float32Array to regular array
