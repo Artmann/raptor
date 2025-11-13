@@ -1,4 +1,8 @@
-import { EmbeddingModel, FlagEmbedding } from 'fastembed'
+import {
+  type FeatureExtractionPipeline,
+  env,
+  pipeline
+} from '@xenova/transformers'
 import { existsSync } from 'node:fs'
 import { mkdir } from 'node:fs/promises'
 import { dirname } from 'node:path'
@@ -12,42 +16,43 @@ import type { EmbeddingEntry, EngineOptions, SearchResult } from './types'
 export class EmbeddingEngine {
   private fileReader: BinaryFileReader
   private storePath: string
-  private embeddingModel?: FlagEmbedding
+  private extractor?: FeatureExtractionPipeline
 
   constructor(options: EngineOptions) {
     this.storePath = options.storePath
     this.fileReader = new BinaryFileReader(options.storePath)
+
+    env.cacheDir = './.cache'
   }
 
   /**
    * Gets or initializes the embedding model
    * Caches the model instance to avoid repeated initialization overhead
-   * @returns Initialized FlagEmbedding model
+   * @returns Initialized feature extraction pipeline
    */
-  private async getOrInitModel(): Promise<FlagEmbedding> {
-    this.embeddingModel ??= await FlagEmbedding.init({
-      model: EmbeddingModel.BGEBaseEN
-    })
+  private async getOrInitModel(): Promise<FeatureExtractionPipeline> {
+    this.extractor ??= await pipeline(
+      'feature-extraction',
+      'Xenova/bge-small-en-v1.5'
+    )
 
-    return this.embeddingModel
+    return this.extractor
   }
 
   /**
-   * Generates embedding from text using FastEmbed BGE-Base-EN model
+   * Generates embedding from text using Transformers.js bge-small-en-v1.5 model
    * @param text - Text to embed
-   * @returns 768-dimensional embedding vector
+   * @returns 384-dimensional embedding vector (normalized)
    */
   async generateEmbedding(text: string): Promise<number[]> {
-    const embeddingModel = await this.getOrInitModel()
+    const extractor = await this.getOrInitModel()
 
-    const embeddings = embeddingModel.embed([text], 1024)
+    const output = await extractor(text, {
+      pooling: 'mean',
+      normalize: true
+    })
 
-    for await (const batch of embeddings) {
-      // Convert Float32Array to regular array
-      return Array.from(batch[0])
-    }
-
-    return []
+    return Array.from(output.data) as number[]
   }
 
   /**
@@ -147,19 +152,27 @@ export class EmbeddingEngine {
   async storeMany(items: Array<{ key: string; text: string }>): Promise<void> {
     invariant(items.length > 0, 'Items array must not be empty.')
 
-    // Extract all texts for batch embedding
     const texts = items.map((item) => item.text)
 
-    // Generate embeddings in batch using cached model
-    const embeddingModel = await this.getOrInitModel()
+    const extractor = await this.getOrInitModel()
 
-    const embeddings = embeddingModel.embed(texts)
+    const output = await extractor(texts, {
+      pooling: 'mean',
+      normalize: true
+    })
+
+    const batchSize = output.dims[0]
+    const embeddingDim = output.dims[1]
+
     const embeddingsList: number[][] = []
 
-    for await (const batch of embeddings) {
-      for (let i = 0; i < batch.length; i++) {
-        embeddingsList.push(Array.from(batch[i]))
-      }
+    for (let i = 0; i < batchSize; i++) {
+      const start = i * embeddingDim
+      const end = start + embeddingDim
+
+      const data = Array.from(output.data) as number[]
+
+      embeddingsList.push(data.slice(start, end))
     }
 
     // Ensure we got the right number of embeddings
@@ -182,7 +195,6 @@ export class EmbeddingEngine {
       embedding: new Float32Array(embeddingsList[index])
     }))
 
-    // Write all records at once
     await writeRecords(this.storePath, records)
   }
 
@@ -222,6 +234,6 @@ export class EmbeddingEngine {
    * Call this when you're done using the engine to free up memory
    */
   dispose(): void {
-    this.embeddingModel = undefined
+    this.extractor = undefined
   }
 }

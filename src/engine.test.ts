@@ -41,7 +41,7 @@ describe('EmbeddingEngine', () => {
       // Verify header was written
       const header = await readHeader(testStorePath)
       expect(header.version).toBe(1)
-      expect(header.dimension).toBe(768) // BGE-Base-EN dimension
+      expect(header.dimension).toBe(384) // bge-small-en-v1.5 dimension
     })
 
     it('should store entry and retrieve it back', async () => {
@@ -51,7 +51,7 @@ describe('EmbeddingEngine', () => {
       expect(entry).not.toBeNull()
       expect(entry?.key).toBe('doc1')
       expect(entry?.embedding).toBeInstanceOf(Array)
-      expect(entry?.embedding.length).toBe(768)
+      expect(entry?.embedding.length).toBe(384)
     })
 
     it('should store multiple entries in append-only format', async () => {
@@ -83,8 +83,8 @@ describe('EmbeddingEngine', () => {
 
       // File should contain both records (append-only)
       const stats = await stat(testStorePath)
-      // Header (16) + 2 records, each record is 2 + keyLen + 768*4 + 4
-      const recordSize = 2 + 4 + 768 * 4 + 4 // key "doc1" = 4 bytes
+      // Header (16) + 2 records, each record is 2 + keyLen + 384*4 + 4
+      const recordSize = 2 + 4 + 384 * 4 + 4 // key "doc1" = 4 bytes
       expect(stats.size).toBeGreaterThanOrEqual(16 + recordSize * 2)
     })
 
@@ -132,7 +132,7 @@ describe('EmbeddingEngine', () => {
       // Verify header was written
       const header = await readHeader(testStorePath)
       expect(header.version).toBe(1)
-      expect(header.dimension).toBe(768)
+      expect(header.dimension).toBe(384)
     })
 
     it('should generate embeddings for all items', async () => {
@@ -146,8 +146,8 @@ describe('EmbeddingEngine', () => {
       const entry1 = await engine.get('doc1')
       const entry2 = await engine.get('doc2')
 
-      expect(entry1?.embedding.length).toBe(768)
-      expect(entry2?.embedding.length).toBe(768)
+      expect(entry1?.embedding.length).toBe(384)
+      expect(entry2?.embedding.length).toBe(384)
 
       // Different texts should have different embeddings
       expect(entry1?.embedding[0]).not.toBe(entry2?.embedding[0])
@@ -205,7 +205,7 @@ describe('EmbeddingEngine', () => {
       expect(entry).not.toBeNull()
       expect(entry?.key).toBe('doc1')
       expect(entry?.embedding).toBeInstanceOf(Array)
-      expect(entry?.embedding.length).toBe(768)
+      expect(entry?.embedding.length).toBe(384)
     })
 
     it('should return null for non-existent key', async () => {
