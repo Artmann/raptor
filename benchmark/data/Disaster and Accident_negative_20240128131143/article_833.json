@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "0f929c1adc3b502a25ea07d2077b8019fc321685",
+    "url": "https://vnexplorer.net/freezing-rain-expected-to-hit-parts-of-n-b-n-s-ahead-of-the-weekend-s697640.html",
+    "site_full": "vnexplorer.net",
+    "site": "vnexplorer.net",
+    "site_section": "https://vnexplorer.net/latest",
+    "site_categories": ["health", "cold_and_flu"],
+    "section_title": "Latest breaking 24h news around the world - VNExplorer",
+    "title": "Freezing rain expected to hit parts of N.B., N.S. ahead of the weekend",
+    "title_full": "Freezing rain expected to hit parts of N.B., N.S. ahead of the weekend",
+    "published": "2023-12-29T01:07:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17KOee.img",
+    "performance_score": 0,
+    "domain_rank": 45352,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0f929c1adc3b502a25ea07d2077b8019fc321685",
+  "url": "https://vnexplorer.net/freezing-rain-expected-to-hit-parts-of-n-b-n-s-ahead-of-the-weekend-s697640.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "VNExplorer",
+  "published": "2023-12-29T01:07:00.000+02:00",
+  "title": "Freezing rain expected to hit parts of N.B., N.S. ahead of the weekend",
+  "text": "Environment Canada has issued warnings in parts of New Brunswick and special weather statements in parts of Nova Scotia ahead of a system expected to bring freezing rain to the region.\nEnvironment Canada has issued warnings and statements in parts of New Brunswick and Nova Scotia ahead of a system expected to bring freezing rain to the region.\nMost of southern New Brunswick can expect a mix of freezing rain and rain overnight Thursday into Friday morning in western areas, lasting into the afternoon in eastern areas.\nThe precipitation will then change to snow Friday afternoon.\nFreezing rain warnings are issued when rain falling in sub-zero temperatures creates ice build-up and icy surfaces.\n“Surfaces such as highways, roads, walkways and parking lots may become icy and slippery,” the warning said. “Poor weather conditions may contribute to transportation delays.”\nIn Nova Scotia, special weather statements were issued along parts of northern mainland Nova Scotia and western Cape Breton.\nFreezing rain is expected to begin Friday morning in mainland Nova Scotia, lasting about four hours before changing to rain. In Cape Breton, the freezing rain is expected to begin Friday afternoon before changing to snow.\nMore on Canada\n“The risk of freezing rain is higher over high terrain,” the statement noted.\nEnvironment Canada’s warnings and statements come on the heels of significant wind storms in the region.\nPowerful winds battered New Brunswick and Nova Scotia early last week, and officials said more than 100,000 people woke up in New Brunswick last Tuesday morning without power.\nThe power outages persisted into the holidays, with more than 500 New Brunswick Power customers waking up Christmas morning in the dark.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Weather", "Disaster and Accident", "Environment"],
+  "external_links": [
+    "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17KOee.img",
+    "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17KOee.img"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "environment canada",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [
+      {
+        "name": "new brunswick",
+        "sentiment": "none"
+      },
+      {
+        "name": "n.b.",
+        "sentiment": "none"
+      },
+      {
+        "name": "n.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "nova scotia",
+        "sentiment": "none"
+      },
+      {
+        "name": "cape breton",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:18:03.486+02:00",
+  "updated": "2023-12-29T01:18:03.486+02:00"
+}

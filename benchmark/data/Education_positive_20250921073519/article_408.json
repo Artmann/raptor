@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "8e5a866c3f98976ccca96a18dde81baa822fe2fe",
+    "url": "https://www.elcolombiano.com/opinion/columnistas/rosana-arismendi-mejia-celulas-en-el-microscopio-FL29226074",
+    "site_full": "www.elcolombiano.com",
+    "site": "elcolombiano.com",
+    "site_section": "https://www.elcolombiano.com/espana",
+    "site_categories": ["media", "top_news_co", "top_news_ve", "top_news"],
+    "section_title": "España",
+    "site_title": "El Colombiano | noticias de Medellín, Antioquia, Colombia y el mundo.",
+    "title": "Células en el microscopio",
+    "title_full": "Células en el microscopio",
+    "published": "2025-09-18T06:27:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CO",
+    "main_image": "https://estaticos.elcolombiano.com/binrepository/520x254/0c0/1200d675/none/11101/FVFC/columnistaselcolombiano-520px-25_48808683_20250917225008.jpg",
+    "performance_score": 0,
+    "domain_rank": 15264,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8e5a866c3f98976ccca96a18dde81baa822fe2fe",
+  "url": "https://www.elcolombiano.com/opinion/columnistas/rosana-arismendi-mejia-celulas-en-el-microscopio-FL29226074",
+  "ord_in_thread": 0,
+  "author": "Invitado",
+  "published": "2025-09-18T06:27:00.000+03:00",
+  "title": "Células en el microscopio",
+  "text": "Nunca se me va a olvidar lo que sentí cuando vi células en el microscopio por primera vez. Eran de una hoja de una de las plantas que crecían en los jardines de mi colegio, y, aunque en esa oportunidad fue la profe la que hizo el delgadisísimo corte del tejido y lo montó en el portaobjetos —eso es todo un arte que medioaprendí después—, asomarme al objetivo y ver las paredes celulares, los núcleos y los cloroplastos fue suficiente para sentir lo que ahora llaman el “estado de flow”. Fue como un gozo, casi infantil, que tiene qué ver mucho con el asombro. Y que he sentido todas las otras veces en las que en mi vida he descubierto, aprendido o experimentado algo nuevo. Lo sentí, por ejemplo, en mis clases de bioquímica y geometría en la universidad; o justo la semana pasada, cuando conocí “en persona” a los estorninos comunes, las aves que forman las famosas murmuraciones en el cielo. También es lo que siento cuando, en Parque Explora, donde trabajo, interactúo con una experiencia nueva del museo o veo las cosas maravillosas que hacen los profes y los estudiantes con quienes cocreamos. Tener esos momentos de descubrir algo por primera vez, acompañados de esa dicha de aprender, debería ser una posibilidad al alcance de todo el mundo. Y aunque podría pensarse que esto ya sucede, la realidad indica lo contrario, especialmente en el contexto de la educación. El desinterés y la desmotivación por lo que se aprende en la escuela son unas de las (múltiples) causas del ausentismo y la deserción escolar, por lo que es importante que en los procesos de transformación educativa también se aborden como asuntos prioritarios. Despertar lo que Jorge Wagensberg llamaba el gozo intelectual, es definitivamente uno de los caminos. Y combinar la educación con el aprendizaje de las ciencias puede ser una potente fórmula para lograrlo. Lo sé, porque soy producto de esta mezcla. Y porque, además, todos los días veo sus efectos en las personas con las que interactuamos en Explora. Las ciencias dan método, expanden la capacidad de asombro y de comprender el mundo, ayudan a desarrollar pensamiento sistémico y estratégico, enseñan a hacer buenas preguntas. Por su parte, la educación fomenta la curiosidad, da una ética, una forma de ser y habitar(se), un pensamiento crítico, un sentido de sociedad. ¿Cómo no hacer uso, entonces, de la maravillosa combinación ciencias-educación para permitir que estudiantes, docentes, directivos, familias y comunidades sientan el gozo que produce (y permite) aprender? Hoy más que nunca necesitamos aprendizajes significativos y duraderos, que nos transformen como personas y como sociedad. Necesitamos más momentos de ver células en el microscopio por primera vez, que con sus destellos de dicha abran nuevos caminos para descubrir. De estos y otros temas que me inspiran, conmueven o atraviesan (como ecología, arte, género o liderazgo) escribiré en este espacio mensual, al que llego contenta y con gratitud por El Colombiano y mis compañeras de Juntas Somos Más. Y por Juliana Restrepo, mi amiga y colega, a quien tengo el honor de recibirle la batuta de esta columna, que es otro momento de primera vez para mí. ¡Qué alegría estar aquí y seguir conversando en el camino!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Education", "Human Interest"],
+  "topics": [
+    "Science and Technology->natural science",
+    "Science and Technology->biology",
+    "Science and Technology->scientific research",
+    "Education->school",
+    "Education->students",
+    "Education->primary education"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Parque Explora",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_co", "top_news_ve", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:17:30.159+03:00",
+  "updated": "2025-09-19T09:05:43.000+03:00"
+}

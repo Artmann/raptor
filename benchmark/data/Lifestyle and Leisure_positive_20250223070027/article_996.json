@@ -1,0 +1,110 @@
+{
+  "thread": {
+    "uuid": "f1878d313c32d393c4b08f860b4d781b3fddbc97",
+    "url": "https://gostanford.com:443/news/2025/01/23/beach-volleyball-releases-2025-schedule",
+    "site_full": "gostanford.com",
+    "site": "gostanford.com",
+    "site_section": "https://gostanford.com/rss",
+    "site_categories": ["education", "distance_learning"],
+    "section_title": "",
+    "title": "Beach Volleyball Releases 2025 Schedule",
+    "title_full": "Beach Volleyball Releases 2025 Schedule",
+    "published": "2025-01-24T00:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gostanford.com/imgproxy/BdtUDCbYNjI81sV_p2kabQ0Rv33OsZteXOoQUZNv4t4/rs:fit:1980:0:0/g:ce/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3N0YW5mb3JkLXByb2QvMjAyNS8wMS8yMy9LeldEdFZURzZVTk5iRXVoVGthYWQwaDl6NzgwbjJDQWtJNnU3U0RwLmpwZw.jpg",
+    "performance_score": 0,
+    "domain_rank": 28314,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f1878d313c32d393c4b08f860b4d781b3fddbc97",
+  "url": "https://gostanford.com:443/news/2025/01/23/beach-volleyball-releases-2025-schedule",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2025-01-24T00:00:00.000+02:00",
+  "title": "Beach Volleyball Releases 2025 Schedule",
+  "text": "STANFORD, Calif. — Head coach Andrew Fuller has announced Stanford beach volleyball's 2025 schedule. The Cardinal hosts 17 home matches and will meet 15 of the 2024 final ranking's top-20 teams throughout its 2025 regular-season scheduling.\nThe Cardinal’s 2025 campaign is its first as a member of the Mountain Pacific Sports Federation. The MPSF kicks off its inaugural season sponsoring beach volleyball with seven members– Stanford, California, Oregon, Grand Canyon, USC, UCLA and Washington.\nFor the fourth consecutive season, Stanford opens its campaign at the Duke Kahanamoku Beach Classic, hosted by the University of Hawai'i at Queen's Beach in Honolulu, Hawaii. Stanford will meet six top-20 programs at the event scheduled to run from Feb. 20-22– host Hawai’i, 2024 NCAA Champion USC, UCLA, LMU, TCU and Arizona State.\nThe Cardinal then heads to The Farm for 12 straight matches. Stanford first hosts its annual Battle of the Bay tournament from Feb. 28-March 1, welcoming Sacramento State, Saint Mary’s, Pacific and Santa Clara to The Farm for a two-day round-robin style event.\nStanford then plays host to its six fellow MPSF members in the first-ever MPSF Mid-Season Rumble March 7-8. The event, televised by B1G+, features two days of competition with each school playing four matches against conference foes in preparation for postseason action. The Cardinal are slated to meet Oregon and UCLA on March 7 and USC and California on March 8.\nThe Cardinal wraps up its home stand by welcoming Saint Mary’s, Utah, and Texas A&M- Corpus Christi to The Farm for two jam-packed days of action, March 14-15. Stanford will play all three opponents over the two days, taking on Utah and Texas A&M-Corpus Christi on March 14 and battling the Gaels and Islanders (for a second time) on March 15.\nAfter breaking for finals week, Stanford hits the road for 12 of its next 13 matches. The Cardinal first travels to Baton Rouge, La. to compete in the Death Volley Invitational hosted by LSU March 28-29. While in Louisiana, Stanford is scheduled to take on the host Tigers, Texas, Florida State and TCU.\nStanford returns to host a midweek match with the University of San Francisco, April 2. The Cardinal then heads back on the road to participate in the Best of the West tournament in Laguna Beach, Calif. April 4-5. Stanford is scheduled to take on USC, North Florida, Washington and host Long Beach State while in Southern California.\nThe Cardinal finishes its road regular-season scheduling April 11-12, competing at Cal Poly’s Center of Effort Challenge. Stanford meets the host Mustangs, Florida State and USC during the two-day competition in San Luis Obispo, Calif.\nStanford wraps up the regular season at home, hosting Santa Clara and California April 18 and Washington and UC Davis April 19. The Cardinal’s matchup with UC Davis is Senior Day on The Farm and will celebrate the collegiate careers of Camdyn Doucet, Emma Morris, Emmy Sharp, Serena Turner, Taylor Wilson and Avi Vetter.\nThe Cardinal's postseason begins in Huntington Beach, Calif. for the first-ever MPSF Beach Volleyball Championship Tournament April 23-25.\nThe program will look to return to the NCAA Championship tournament for the fifth straight season, held this year in Huntington Beach, Calif. The national championship tournament features the nation's top 16 teams in a single-elimination tournament.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Lifestyle and Leisure", "Human Interest"],
+  "topics": [
+    "Sport->sports coaching",
+    "Sport->sport event",
+    "Lifestyle and Leisure->exercise and fitness",
+    "Lifestyle and Leisure->outdoor recreational activities"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Andrew Fuller",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Mary",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Stanford",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Mountain Pacific Sports Federation",
+        "sentiment": "none"
+      },
+      {
+        "name": "University of Hawai'i",
+        "sentiment": "none"
+      },
+      {
+        "name": "UCLA",
+        "sentiment": "none"
+      },
+      {
+        "name": "USC",
+        "sentiment": "none"
+      },
+      {
+        "name": "LMU",
+        "sentiment": "none"
+      },
+      {
+        "name": "TCU",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:45:37.732+02:00",
+  "updated": "2025-01-24T00:45:37.732+02:00"
+}

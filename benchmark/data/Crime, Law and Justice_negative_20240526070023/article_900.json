@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "3c55c97e8ce1109d911b12b73c39191500fe5c49",
+    "url": "https://wjla.com/news/local/southwest-dc-crime-attempted-armed-carjacking-dc-police-searching-for-suspects-sw-dc-crime-auto-theft-gun-possession-weapon",
+    "site_full": "wjla.com",
+    "site": "wjla.com",
+    "site_section": "https://wjla.com",
+    "site_categories": ["media"],
+    "section_title": "chevron-right",
+    "title": "chevron-right",
+    "title_full": "chevron-right",
+    "published": "2024-04-25T20:25:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://wjla.com/resources/media/c1c9c678-b77f-4dec-b827-217623812b98-large16x9_SWDCATTEMPTEDARMEDROBBERY.jpg",
+    "performance_score": 0,
+    "domain_rank": 5487,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3c55c97e8ce1109d911b12b73c39191500fe5c49",
+  "url": "https://wjla.com/news/local/southwest-dc-crime-attempted-armed-carjacking-dc-police-searching-for-suspects-sw-dc-crime-auto-theft-gun-possession-weapon",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "7News Staff",
+  "published": "2024-04-25T20:25:00.000+03:00",
+  "title": "chevron-right",
+  "text": "WASHINGTON (7News) — D.C. police are asking for the community’s help to identify three suspects in connection with an attempted armed carjacking in Southwest Wednesday, April 24. Officials said a man was delivering food in the 1100 block of 4th Street, Southwest around 11:50 p.m. when three people approached as he was returning to his vehicle. One of the suspects showed a handgun, pointed it at the man and demanded his car keys. The man was able to get away from the suspects, according to officials. READ MORE | [DC officers respond to call for alleged NW stabbing, 2 dogs fatally shot](https://wjla.com/news/local/dog-shot-killed-washington-dc-officer-shooting-northwest-false-call-several-gun-unleashed-stabbing-report-11th-street-metropolitan-police-department-proof-investigation#) One of the suspects used the butt of the gun to break the man’s car window before they fled on foot, officials said. The suspects were captured on surveillance and can be seen in the photo below: Anyone with information is urged to call 202-727-9099 or text a tip to 50411.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Disaster and Accident", "Politics"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "southwest",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "d.c.",
+        "sentiment": "none"
+      },
+      {
+        "name": "southwest",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:43:16.314+03:00",
+  "updated": "2024-04-26T05:54:10.874+03:00"
+}

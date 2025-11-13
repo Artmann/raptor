@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "f565b85552af4633ba4838266aa2a1947260d0d3",
+    "url": "https://www.telemundopr.com/noticias/puerto-rico/chick-fil-a-de-plaza-del-sol-dara-gratis-su-famoso-sandwich-de-pollo/2684311",
+    "site_full": "www.telemundopr.com",
+    "site": "telemundopr.com",
+    "site_section": "https://www.telemundopr.com",
+    "site_categories": ["tech"],
+    "section_title": "Telemundo Puerto Rico—Noticias Locales y Reportes del Tiempo",
+    "title": "Chick-fil-A de Plaza del Sol dará gratis su famoso sándwich de pollo",
+    "title_full": "Chick-fil-A de Plaza del Sol dará gratis su famoso sándwich de pollo",
+    "published": "2025-01-23T23:13:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 107811,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f565b85552af4633ba4838266aa2a1947260d0d3",
+  "url": "https://www.telemundopr.com/noticias/puerto-rico/chick-fil-a-de-plaza-del-sol-dara-gratis-su-famoso-sandwich-de-pollo/2684311",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@Telemundopr",
+  "published": "2025-01-23T23:13:00.000+02:00",
+  "title": "Chick-fil-A de Plaza del Sol dará gratis su famoso sándwich de pollo",
+  "text": "Los amantes del sándwich de pollo de Chick-fil-A tienen una cita este próximo viernes, 31 de enero.\nDurante un periodo especial de dos horas, de 6:00 p.m. a 8:00 p.m., el restaurante en Plaza del Sol estará ofreciendo su icónico sándwich de pollo de manera gratuita a través de su servi-carro.\nPara participar, los clientes solo deben pasar por el servi-carro y mencionar la promoción. No se requiere realizar ninguna compra para disfrutar de la oferta.\nEs importante tener en cuenta que cada vehículo podrá recibir un máximo de tres sándwiches y estos se entregarán tal como vienen, sin modificaciones ni acompañamientos adicionales.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": [
+    "Lifestyle and Leisure",
+    "Human Interest",
+    "Arts, Culture and Entertainment"
+  ],
+  "topics": [
+    "Lifestyle and Leisure->organic food",
+    "Lifestyle and Leisure->party",
+    "Arts, Culture and Entertainment->festive event (culture)",
+    "Arts, Culture and Entertainment->culture"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1121001126180811%2F&show_text=false&width=267&t=0",
+    "https://www.facebook.com/plugins/video.php",
+    "https://facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1121001126180811%2F&show_text=false&width=267&t=0"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:31:26.471+02:00",
+  "updated": "2025-01-24T00:31:26.471+02:00"
+}

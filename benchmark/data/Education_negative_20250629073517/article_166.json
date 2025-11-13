@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "40d6815cb9fef3e34ce71012252a24b72c7de2a3",
+    "url": "https://zimbabwe.shafaqna.com/EN/AL/1935505",
+    "site_full": "zimbabwe.shafaqna.com",
+    "site": "shafaqna.com",
+    "site_section": "https://zimbabwe.shafaqna.com/",
+    "site_categories": ["top_news_iq", "top_news"],
+    "section_title": "\r\n\t\tZimbabwe News (News Reader)\t",
+    "site_title": "Zimbabwe News (News Reader)",
+    "title": "University of Zimbabwe dismisses striking lecturers",
+    "title_full": "University of Zimbabwe dismisses striking lecturers",
+    "published": "2025-06-25T19:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "ZW",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 29623,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "40d6815cb9fef3e34ce71012252a24b72c7de2a3",
+  "url": "https://zimbabwe.shafaqna.com/EN/AL/1935505",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-25T19:00:00.000+03:00",
+  "title": "University of Zimbabwe dismisses striking lecturers",
+  "text": "newzimbabwe - 3 hours ago University of Zimbabwe dismisses striking lecturers By Thandiwe Garusa THE University of Zimbabwe (UZ)’s administration has fired four leaders of the ongoing lecturers’ strike. The strike has reached day 71, with lecturers demanding an upward review of their salaries to US$2,250 from the current US$230. The four dismissed are Association of University Teachers (AUT) leaders: Munyaradzi Chamburuka (President), Bornface Mwakorera (Secretary-General), Justin Tandire (Organising Secretary), and The post University of Zimbabwe dismisses striking lecturers appeared first on NewZimbabwe.com.\nRead on the original site",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Politics"],
+  "topics": [
+    "Education->teachers",
+    "Education->students",
+    "Education->college and university",
+    "Social Issue->discrimination",
+    "Social Issue->social problem",
+    "Social Issue->social services",
+    "Politics->education policy",
+    "Politics->civil and public service",
+    "Politics->government"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://newzimbabwe.com/university-of-zimbabwe-dismisses-striking-lecturers/",
+    "https://www.newzimbabwe.com/university-of-zimbabwe-dismisses-striking-lecturers/",
+    "https://newzimbabwe.com/university-of-zimbabwe-dismisses-striking-lecturers"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Munyaradzi Chamburuka",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bornface Mwakorera",
+        "sentiment": "none"
+      },
+      {
+        "name": "Justin Tandire",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "University of Zimbabwe",
+        "sentiment": "positive",
+        "tickers": []
+      },
+      {
+        "name": "Association of University Teachers",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_iq", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T09:17:53.293+03:00",
+  "updated": "2025-06-27T07:06:46.000+00:00"
+}

@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "e3474c4d3e4be8db0572c7960398ec9cbb849ca5",
+    "url": "https://cn.cointelegraph.com/news/diversified-energy-crypto-mine-abandonment-pennsylvania",
+    "site_full": "cn.cointelegraph.com",
+    "site": "cointelegraph.com",
+    "site_section": "https://cn.cointelegraph.com/feed",
+    "site_categories": [],
+    "section_title": "",
+    "site_title": "Cointelegraph: Bitcoin, Ethereum, Crypto News &amp; Price Indexes",
+    "title": "加密货币矿企遗弃宾夕法尼亚矿场，因未能封堵气井受到抨击",
+    "title_full": "加密货币矿企遗弃宾夕法尼亚矿场，因未能封堵气井受到抨击",
+    "published": "2025-05-08T03:20:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-05/0196aab9-69d4-7dce-829a-ecf2873c1543",
+    "performance_score": 0,
+    "domain_rank": 1281,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e3474c4d3e4be8db0572c7960398ec9cbb849ca5",
+  "url": "https://cn.cointelegraph.com/news/diversified-energy-crypto-mine-abandonment-pennsylvania",
+  "ord_in_thread": 0,
+  "author": "Amin Haqshanas",
+  "published": "2025-05-08T03:20:00.000+03:00",
+  "title": "加密货币矿企遗弃宾夕法尼亚矿场，因未能封堵气井受到抨击",
+  "text": "据报道，加密货币矿企Diversified Energy悄然撤离了位于宾夕法尼亚州埃尔克县的一处天然气供能的加密货币挖矿场地，留下未封堵的气井和监管违规问题。\n据《伊利时报新闻》报道，这处名为Longhorn Pad A的场地在闲置近10年后于2022年重新启用，当时Diversified开始利用该地为加密货币挖矿计算机的发电机组供能。\n报道称，该项目在未获得宾夕法尼亚州环境保护部（DEP）空气质量许可的情况下就开始运营。\n虽然该公司后来在2023年12月获得了许可，但2025年3月的检查显示，Diversified已经拆除了挖矿基础设施。\n空置的金属棚和缺失的生产设备导致DEP发出了正式的弃井违规通知。据报道，Diversified否认场地被遗弃，称可能会恢复天然气生产。\n然而，DEP和环保倡议者表示，该公司未能履行其义务。根据2021年的协议，Diversified承诺在Longhorn A和其他13口气井运营寿命结束时将其封堵，但据报道该公司尚未履行这一义务。\nCointelegraph已就此事联系Diversified寻求置评。\n商业模式受到审查\n环保人士长期以来一直对Diversified的商业模式表示担忧。该模式涉及收购老化的低产气井，在缺乏充分退役计划的情况下榨取剩余价值。\n封堵单个气井的成本可能超过10万美元，而宾夕法尼亚州已有超过35万口废弃和遗弃的气井，使得形势特别严峻。\n2022年的一份报告将该公司的做法称为\"注定让阿巴拉契亚地区失败的商业模式\"，并警告称纳税人可能要为数千口未封堵的气井买单。\nDiversified最近在一项单独的法律和解中同意在2034年前封堵3000口气井，但仍面临监管审查，包括美国众议院能源和商务委员会的调查。\nLonghorn场地所在地霍顿镇的官员表示，他们没有收到公司的任何最新消息。\n当地主管PJ Piccirillo向《伊利时报新闻》表示，发电机和储罐被移除时没有任何通知。他说：\"我们只知道这处地产似乎已被遗弃。\"\n美国各城市应对加密货币挖矿\n4月25日，阿肯色州维洛尼亚市规划委员会在居民反对后，一致否决了在市区范围内建立加密货币挖矿设施的提议。\n今年1月，阿肯色州立法者提出一项法案，将禁止在该州任何美军设施30英里范围内进行加密货币挖矿运营。\n阿肯色州对加密货币矿企的反对，反映了美国各地方政府对加密货币挖矿项目日益严格审查的广泛趋势。\n2024年10月，德克萨斯州格兰伯里的一群居民对Marathon Digital提起诉讼，称其挖矿设施产生了过多噪音。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Environment", "Economy, Business and Finance"],
+  "topics": [
+    "Environment->hazardous materials",
+    "Environment->environmental pollution",
+    "Environment->energy resources",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->energy and resource"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:55:57.526+03:00",
+  "updated": "2025-05-08T02:00:25.000+00:00"
+}

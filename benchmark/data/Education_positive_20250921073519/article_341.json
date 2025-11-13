@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "a316fe6065b62590edaed6da5fca8d4b6a663b18",
+    "url": "https://www.csuohio.edu/news/video-vikesfest-and-convocation-smashing-success",
+    "site_full": "www.csuohio.edu",
+    "site": "csuohio.edu",
+    "site_section": "https://www.csuohio.edu/news",
+    "site_categories": [
+      "graduate_school",
+      "college_administration",
+      "education",
+      "distance_learning",
+      "7_12_education"
+    ],
+    "section_title": "News | Cleveland State University",
+    "site_title": "Cleveland State University Home | Cleveland State University",
+    "title": "[Video] VikesFEST and Convocation a Smashing Success | Cleveland State University",
+    "title_full": "[Video] VikesFEST and Convocation a Smashing Success | Cleveland State University",
+    "published": "2025-09-17T13:36:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 28598,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a316fe6065b62590edaed6da5fca8d4b6a663b18",
+  "url": "https://www.csuohio.edu/news/video-vikesfest-and-convocation-smashing-success",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-17T13:36:00.000+03:00",
+  "title": "[Video] VikesFEST and Convocation a Smashing Success | Cleveland State University",
+  "text": "[Video] VikesFEST and Convocation a Smashing Success Published on Wed, 09/17/2025 - 10:36 Cleveland State University students and their families officially kicked off the fall semester with convocation and VikesFEST amid much pomp and circumstance.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education"],
+  "topics": [
+    "Education->students",
+    "Education->social learning",
+    "Education->college and university"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Cleveland State University",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:09:37.294+03:00",
+  "updated": "2025-09-18T08:34:59.000+03:00"
+}

@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "360d0fc0dc459a533c9b98972e2de6cd85ed3e37",
+    "url": "https://www.thesouthafrican.com/news/mpox-cases-rise-as-vaccine-arrives-in-the-country",
+    "site_full": "www.thesouthafrican.com",
+    "site": "thesouthafrican.com",
+    "site_section": "https://www.thesouthafrican.com/news/",
+    "site_categories": ["media", "rugby", "sports"],
+    "section_title": null,
+    "title": "Mpox cases rise as vaccine arrives in the country",
+    "title_full": "Mpox cases rise as vaccine arrives in the country",
+    "published": "2024-06-21T11:18:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ZA",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 11289,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "360d0fc0dc459a533c9b98972e2de6cd85ed3e37",
+  "url": "https://www.thesouthafrican.com/news/mpox-cases-rise-as-vaccine-arrives-in-the-country",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Nozibusiso Mazibuko",
+  "published": "2024-06-21T11:18:00.000+03:00",
+  "title": "Mpox cases rise as vaccine arrives in the country",
+  "text": "The country received its first shipment of the Mpox vaccine on Thursday , marking a significant step in the fight against the viral disease. The Department of Health announced its intention to secure additional treatments to ensure preparedness for any potential increase in cases.\nMpox current situation and case distribution Six new laboratory-confirmed cases of Mpox, previously known as monkeypox, have emerged, raising the total number of infections from seven to thirteen . The spread of these cases is geographically varied: seven cases have been confirmed in KwaZulu-Natal, five in Gauteng, and one in the Western Cape. This rise in cases has prompted health authorities to emphasise the importance of immediate clinical evaluation for anyone exhibiting symptoms or having had physical contact with confirmed cases.\nNational Health spokesperson Foster Mohale highlighted the department’s strategy to manage the outbreak, stating, “All mild cases will continue to be managed with supportive treatment aimed at handling complications such as fever, pneumonia, and skin infections.”\nPrevention and symptoms The Department of Health is urging the public to remain vigilant and adhere to preventive measures.\nMohale stressed, “Hand hygiene is one of the most effective ways to protect oneself from getting sick and preventing disease transmission. We remind everyone to wash their hands regularly with soap and water, or use an alcohol-based hand sanitizer, especially before eating, touching your face, and after using the bathroom.”\nMohale also outlined the common symptoms of Mpox, which include a rash lasting two to four weeks, fever, headache, muscle aches, back pain, low energy, and swollen glands.\nThe rash, often painful, can manifest as blisters or sores and may appear on the face, palms, soles of the feet, and groin.\nCall to action and next steps The Department of Health continues to encourage individuals of all genders, ages, and sexual orientations to seek medical evaluation if they suspect they have symptoms of Mpox or have had contact with known cases. Moreover, Mohale underscored the treatable and preventable nature of the disease, urging timely medical intervention.\nAs the health department works to contain the outbreak and manage current cases, securing more vaccine doses remains a priority to safeguard public health. Additionally, the arrival of the vaccine is a critical development, providing a necessary tool in the ongoing efforts to control the spread of Mpox. The health authorities remain vigilant, prepared to escalate their response should the situation demand it.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Health"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.citizen.co.za/lifestyle/health/south-africa-receives-first-mpox-treatment-amid-rising-cases/",
+    "https://www.ewn.co.za/2024/06/21/confirmed-mpox-cases-in-sa-rises-to-13",
+    "https://citizen.co.za/lifestyle/health/south-africa-receives-first-mpox-treatment-amid-rising-cases/",
+    "https://www.citizen.co.za/lifestyle/health/south-africa-receives-first-mpox-treatment-amid-rising-cases",
+    "https://ewn.co.za/2024/06/21/confirmed-mpox-cases-in-sa-rises-to-13"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "foster mohale",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "natal",
+        "sentiment": "none"
+      },
+      {
+        "name": "department of health",
+        "sentiment": "none"
+      },
+      {
+        "name": "kwazulu",
+        "sentiment": "none"
+      },
+      {
+        "name": "national health",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "gauteng",
+        "sentiment": "none"
+      },
+      {
+        "name": "mpox",
+        "sentiment": "none"
+      },
+      {
+        "name": "western cape",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-21T11:45:21.270+03:00",
+  "updated": "2024-06-21T16:56:40.932+03:00"
+}

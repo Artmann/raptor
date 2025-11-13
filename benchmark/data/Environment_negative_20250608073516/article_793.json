@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "eaad9f66bd66889f591834426e5ee66507e772a2",
+    "url": "https://www.standard.net.au/story/8961626/algal-bloom-issue-hits-curdies-river-in-peterborough-again",
+    "site_full": "www.standard.net.au",
+    "site": "standard.net.au",
+    "site_section": "https://news.google.com/search?q=again%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "Warrnambool news, sport and weather | The Standard | Warrnambool, VIC",
+    "title": "Algal bloom issue hits Curdies River in Peterborough again",
+    "title_full": "Algal bloom issue hits Curdies River in Peterborough again",
+    "published": "2025-05-08T05:11:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://www.standard.net.au/images/transform/v1/crop/frm/134792786/a30cafa2-f45f-48c2-9e07-4a40a115e292.jpg/r0_420_5929_3533_w1200_h630_fmax.jpg",
+    "performance_score": 0,
+    "domain_rank": 50886,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "eaad9f66bd66889f591834426e5ee66507e772a2",
+  "url": "https://www.standard.net.au/story/8961626/algal-bloom-issue-hits-curdies-river-in-peterborough-again",
+  "ord_in_thread": 0,
+  "author": "Jessica Greenan",
+  "published": "2025-05-08T05:11:00.000+03:00",
+  "title": "Algal bloom issue hits Curdies River in Peterborough again",
+  "text": "Many hundreds of fish are dead as another algal bloom chokes the troubled Curdies River in Peterborough.\nThe Corangamite Catchment Management Authority confirmed the fish death event happened in the estuary and upstream area in mid-March.\nA member of the public reported the incident to the Environmental Protection Authority.\nWhile the exact number of dead fish couldn't be counted due to a large number of birds feeding on them, following the report, local anglers also saw many hundreds of dead fish further upstream.\nA water quality assessment by Wannon Water initially indicated low dissolved oxygen and a dinoflagellate - a type of algae that can produce toxins - bloom was the likely cause.\nThe Great Ocean Road Coast and Parks Authority has installed signs warning people to avoid contact with the water.\nMore recent monitoring from mid-April showed a different algae class known as Raphidophytes had bloomed. Several species of it can cause toxic blooms, but it's not known whether the one present is toxic.\nTroubled waters\nThe Curdies River and its tributaries have a long history of fish kills and algal blooms due to high nutrient inputs from the catchment.\nThe estuary has a wide, shallow embayment that limits flushing, and has been prone to experiencing blue-green algae blooms.\nThis year's blooms were not caused by blue-green algae.\nHowever, the past summer has been the fourth warmest on record in Victoria since 1910. Above average temperatures coupled with below average rainfall have made conditions challenging for aquatic life.\nIn fact, freshwater flow in the Curdies River in March was the lowest recorded all summer.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->ecosystem",
+    "Environment->water pollution",
+    "Environment->endangered species"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Peterboro",
+        "sentiment": "none"
+      },
+      {
+        "name": "Curdies",
+        "sentiment": "none"
+      },
+      {
+        "name": "Great Ocean Road Coast",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Corangamite Catchment Management Authority",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Environmental Protection Authority",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Parks Authority",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:11:55.400+03:00",
+  "updated": "2025-05-08T03:16:05.000+00:00"
+}

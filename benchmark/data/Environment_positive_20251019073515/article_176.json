@@ -1,0 +1,126 @@
+{
+  "thread": {
+    "uuid": "8f4dbfd52304ef3f0598ad966a71833582038dec",
+    "url": "https://www.hastingstribune.com/ap/business/svante-recibe-el-premio-nobel-de-qu-mica-validando-tecnolog-a-de-estructura-metalorg-nica/article_c3ed06e5-692a-557a-a2f4-6b5e85b29373.html",
+    "site_full": "www.hastingstribune.com",
+    "site": "hastingstribune.com",
+    "site_section": "https://hastingstribune.com/search",
+    "site_categories": ["media"],
+    "section_title": "Search | hastingstribune.com",
+    "site_title": "hastingstribune.com | Your life. Your news.",
+    "title": "Svante recibe el Premio Nobel de Química, validando tecnología de estructura metalorgánica fundamental para la captura comercial de carbono | Business | hastingstribune.com",
+    "title_full": "Svante recibe el Premio Nobel de Química, validando tecnología de estructura metalorgánica fundamental para la captura comercial de carbono | Business | hastingstribune.com",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/assets/v3/editorial/c/05/c05cdaf7-2c01-5fff-b514-7522a5d633d4/68f0c7149b656.image.jpg?crop=1765%2C927%2C0%2C123&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 249465,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8f4dbfd52304ef3f0598ad966a71833582038dec",
+  "url": "https://www.hastingstribune.com/ap/business/svante-recibe-el-premio-nobel-de-qu-mica-validando-tecnolog-a-de-estructura-metalorg-nica/article_c3ed06e5-692a-557a-a2f4-6b5e85b29373.html",
+  "ord_in_thread": 0,
+  "author": "Business Wire",
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "Svante recibe el Premio Nobel de Química, validando tecnología de estructura metalorgánica fundamental para la captura comercial de carbono | Business | hastingstribune.com",
+  "text": "BURNABY, Columbia Británica--(BUSINESS WIRE)--oct. 16, 2025--\nSvante, líder en tecnología de filtros de captura y eliminación de carbono basados en sorbentes sólidos, celebró la semana pasada el anuncio del Premio Nobel de Química 2025, que distinguió a los científicos Susumu Kitagawa, Richard Robson y Omar Yaghi por su trabajo pionero en el campo de las estructuras metalorgánicas (MOF). La Real Academia Sueca de Ciencias otorgó el premio por el desarrollo de MOF, destacando su enorme potencial y su arquitectura molecular única, que crea materiales espaciosos y porosos capaces de capturar y almacenar sustancias específicas, incluido el dióxido de carbono.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Environment"],
+  "topics": [
+    "Science and Technology->scientific research",
+    "Science and Technology->chemistry",
+    "Environment->energy saving",
+    "Environment->climate change",
+    "Environment->environmental clean-up"
+  ],
+  "ai_allow": false,
+  "has_canonical": true,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Svante",
+        "sentiment": "none"
+      },
+      {
+        "name": "Susumu Kitagawa",
+        "sentiment": "none"
+      },
+      {
+        "name": "Richard Robson",
+        "sentiment": "none"
+      },
+      {
+        "name": "Omar Yaghi",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Real Academia Sueca de Ciencias",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "MOF",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": ["Hastings"],
+      "state": ["Pennsylvania", "Oklahoma", "Nebraska"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:53:56.159+03:00",
+  "updated": "2025-10-16T14:06:27.000+03:00"
+}

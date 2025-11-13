@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "ae72412cf4341977afd333569922a6982d67ffd8",
+    "url": "https://www.digitaljournal.com/tech-science/be-careful-what-you-click-rise-in-scam-messages/article",
+    "site_full": "www.digitaljournal.com",
+    "site": "digitaljournal.com",
+    "site_section": "https://www.digitaljournal.com/tech-science",
+    "site_categories": ["media"],
+    "section_title": "Tech &amp; Science Archives - Digital Journal",
+    "title": "Be careful what you click: Rise in scam messages - Digital Journal",
+    "title_full": "Be careful what you click: Rise in scam messages - Digital Journal",
+    "published": "2024-04-25T23:14:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.digitaljournal.com/wp-content/uploads/2021/06/Tim-Sandle-Laptop.jpg",
+    "performance_score": 0,
+    "domain_rank": 1504,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ae72412cf4341977afd333569922a6982d67ffd8",
+  "url": "https://www.digitaljournal.com/tech-science/be-careful-what-you-click-rise-in-scam-messages/article",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Dr. Tim Sandle",
+  "published": "2024-04-25T23:14:00.000+03:00",
+  "title": "Be careful what you click: Rise in scam messages - Digital Journal",
+  "text": "Laptops are useful, but bring with them privacy and security concerns. — Photo: © Tim Sandle. In this increasing digital landscape, hackers are constantly finding new ways to exploit unsuspecting individuals, so you could be in greater danger than you think. A recent dangerous text message scam is completely draining victims’ bank accounts.\nOne of the most common tools cybercriminals use to breach your data are pop-ups, those small windows that appear while browsing a website. These are often disguised as legitimate messages from trusted entities like banks or phone carriers, which aim for your personal information.\nJason Mountford, researcher and writer at Compare Banks , tells Digital Journal to never click the words “Yes,” “No,” “Agree,” or “OK” in a pop-up, as you could be downloading spyware, a malicious software that can obtain all your usernames, passwords, and credit card numbers.\nThe only way to get rid of those pop-ups is by hitting the red X or closing your browser.\nThere are some red flags that can help you identify potential threats, such as the urgency of the messages, unusual payment requests, and requests to download apps.\nTo reduce the risk of falling victim to these types of scams, Mountford recommends following these tips 4 tips:\nInstall Ad-Blockers\nIf you do not want to see any more pop-ups, one of the best solutions is to install an ad-blocker on your browser. Ad-blockers will remove the vast majority of pop-ups, along with other types of annoying ads.\n“Ad-blocking extensions are easy to install and are one of the best ways to avoid intrusive, interruptive, or repetitive ads while also getting faster page speeds” says Mountford.\nImprove Your Digital Habits\nUsers are constantly exposed to all types of dangers on the internet, so exercising extra caution while browsing should be a must.\n“Avoid clicking on suspicious links and double-check them if necessary, even if you think they come from a reliable source. Hackers often create links that resemble official ones to lure users into clicking them,” warns Mountford.\nUse Strong Passwords\nThe simpler the password, the easier it is for hackers to obtain. Users should keep their eyes open for any unusual activity within their online accounts.\n“Change your passwords every three months. The ideal password should be at least 16 characters long and consist of a random combination of mixed-case letters, numbers, and symbols,’’ recommends Mountford.\nUpdate Your System Regularly\nEach system update tends to include security patches to ensure user safety and fix potential issues.\nMountford explains: “These patches commonly include solutions for vulnerabilities that are exploited by spyware and other malicious programs. Updating your system can be key to avoiding an attack. Also, ensure to download and use your web browser’s latest, most secure version”.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Science and Technology", "Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.aura.com/learn/text-message-scams",
+    "https://www.comparebanks.co.uk/",
+    "https://www.nebrcentre.co.uk/what-techniques-do-hackers-use-to-steal-information/#:~:text=These%20methods%20include%20phishing%2C%20fake,attacks%20or%20access%20your%20accounts.",
+    "https://www.comparebanks.co.uk",
+    "https://aura.com/learn/text-message-scams",
+    "https://nebrcentre.co.uk/what-techniques-do-hackers-use-to-steal-information/#:~:text=These%20methods%20include%20phishing%2C%20fake,attacks%20or%20access%20your%20accounts.",
+    "https://comparebanks.co.uk/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "tim sandle",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "jason mountford",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "digital journal",
+        "sentiment": "none"
+      },
+      {
+        "name": "compare banks",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:47:19.801+03:00",
+  "updated": "2024-04-26T06:49:18.814+03:00"
+}

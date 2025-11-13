@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "65f5ac0130120f93eff3060e6a73d0074118f0f6",
+    "url": "https://www.conchovalleyhomepage.com/news/nature-and-wildlife/did-the-inland-fisheries-stockings-this-spring-work-in-san-angelo/",
+    "site_full": "www.conchovalleyhomepage.com",
+    "site": "conchovalleyhomepage.com",
+    "site_section": "https://news.google.com/search?q=this%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "San Angelo News & Weather | San Angelo, TX | KLST, KSAN - ConchoValleyHomepage.com",
+    "title": "Inland Fisheries confirms successful fish stocking in San Angelo",
+    "title_full": "Inland Fisheries confirms successful fish stocking in San Angelo",
+    "published": "2025-10-16T16:18:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.conchovalleyhomepage.com/wp-content/uploads/sites/83/2025/10/564532220_1263462402485384_813942019759604628_n.jpg?w=1280",
+    "performance_score": 0,
+    "domain_rank": 162477,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "65f5ac0130120f93eff3060e6a73d0074118f0f6",
+  "url": "https://www.conchovalleyhomepage.com/news/nature-and-wildlife/did-the-inland-fisheries-stockings-this-spring-work-in-san-angelo/",
+  "ord_in_thread": 0,
+  "author": "Shawn Torres",
+  "published": "2025-10-16T16:18:00.000+03:00",
+  "title": "Inland Fisheries confirms successful fish stocking in San Angelo",
+  "text": "SAN ANGELO, Texas (Concho Valley Homepage) — Inland Fisheries San Angelo District stocked the O.C. Fisher Reservoir during the spring, but they ran a test on Oct. 15 on the Largemouth Bass and prey species populations to see if their efforts worked.\nThe Inland Fisheries San Angelo District announced they sampled the fish populations through a social media post.\n“Good news San Angelo anglers!,” said the social media post. “We sampled the Largemouth Bass and prey species populations at O. C. Fisher Reservoir this morning; our results indicate that our stockings this spring were successful.”\nThe social media post reported that the prey base in the reservoir, primarily Bluegill Sunfish and Gizzard Shad are in “great shape.” They collected Bluegill fish which ranged from two to five inches with the majority measuring four inches. They also collected Gizzard Shad which were abundant and ranged from five to eight inches. The majority measured six to seven inches, ideal eating size for Largemouth Bass and other predators.\nIn the spring The Inland Fisheries San Angelo District also stocked Pure Florida Largemouth Bass. These fish have the proven genetics to reach trophy size in Texas waters reported the social media post.\n“The fish we collected today ranged in size from 7 to 11 inches and were in excellent shape,” said the social post. “Otoliths were removed from a few individuals to check for age, confirming that these fish were the ones stocked 5 months ago.”\nThe Inland Fisheries San Angelo District says these fish are growing fast will make for some excellent fishing opportunities in the near future. They predict legal-sized fish by the spring.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->natural resources", "Environment->water"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.facebook.com/share/p/19vFdzePDP/",
+    "https://facebook.com/share/p/19vFdzePDP/",
+    "https://www.facebook.com/share/p/19vFdzePDP"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "District",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Concho Valley Homepage",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["San Angelo", "Santel"],
+      "state": ["Texas"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:41:45.758+03:00",
+  "updated": "2025-10-16T16:51:10.000+03:00"
+}

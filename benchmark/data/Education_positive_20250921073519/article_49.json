@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "379df63c1de1266cd3f4f3e70c15dcc186631cec",
+    "url": "https://www.lvpnews.com/20250918/shs-starts-the-school-year-strong/",
+    "site_full": "www.lvpnews.com",
+    "site": "lvpnews.com",
+    "site_section": "https://lvpnews.com/salisbury-press",
+    "site_categories": [],
+    "section_title": "Salisbury Press &#8211; Lehigh Valley Press",
+    "site_title": "Lehigh Valley Press",
+    "title": "SHS starts the school year strong - Lehigh Valley Press",
+    "title_full": "SHS starts the school year strong - Lehigh Valley Press",
+    "published": "2025-09-18T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.lvpnews.com/wp-content/themes/ltn/images/lvp_share_logo.jpg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "379df63c1de1266cd3f4f3e70c15dcc186631cec",
+  "url": "https://www.lvpnews.com/20250918/shs-starts-the-school-year-strong/",
+  "ord_in_thread": 0,
+  "author": "<p>BY ELLIE SCHNEIDER</p><p>Special to The Press</p>",
+  "published": "2025-09-18T03:00:00.000+03:00",
+  "title": "SHS starts the school year strong - Lehigh Valley Press",
+  "text": "SHS starts the school year strong\nBY ELLIE SCHNEIDER\nSpecial to The Press\nSalisbury High School’s 2025–2026 school year is already off to a busy and exciting start, with classes, clubs and athletics beginning strong. Students and staff have jumped back into the swing of things.\nOne of the highlights so far has been the return of Media Management, one of the courses offered at Salisbury. This class has officially launched its daily Morning Impacts, where students share important announcements, school news, weather updates and sports highlights with the Salisbury community.\nThese broadcasts not only provide useful information but also give students valuable experience in media production, public speaking and journalism. Anyone interested can check out the videos on YouTube by visiting @salisburyimpact9724.\nSalisbury also offers a wide variety of clubs, giving students opportunities to get involved, explore their interests and connect with others. Organizations such as STARS, Key Club, National Honor Society, Spanish Club and many others are already making big plans for the year ahead.\nKey Club, which has hosted past fundraisers selling Wawa hoagie cards, has decided to switch things up this year. Instead, they are selling coupon books, providing families and community members with new ways to save money while supporting the club. Anyone interested in purchasing one of these books can reach out to bfrick@salisburysd.org for more information.\nOther groups have also begun their fundraising efforts. National Honor Society held a Chipotle fundraiser Sept. 6, which turned out to be a huge success. During the event, 25% of all sales were donated back to the organization. These funds are essential to helping the club sponsor and organize community-centered events, such as a holiday gift-wrapping event to take place this winter.\nLooking ahead, one of the most anticipated events of the fall is the annual Homecoming dance. This year’s theme, “Under the Lanterns,” is inspired by the magical lantern scene from Disney’s “Tangled.” The dance will be held Oct. 11 in the auxiliary gym. Doors will open 7 p.m. and the event will conclude 10 p.m. Tickets for the dance will go on sale next week and more details will be announced soon.\nWith so many activities already in motion, it is clear the 2025–2026 school year at Salisbury High School will be exciting.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": [
+    "Education->teachers",
+    "Education->students",
+    "Education->school",
+    "Human Interest->graduation",
+    "Social Issue->communities",
+    "Social Issue->children",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "ELLIE SCHNEIDER",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Lehigh Valley Press",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Dorneyville", "Allentown"],
+      "state": ["Pennsylvania"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:39:59.986+03:00",
+  "updated": "2025-09-18T07:52:39.000+03:00"
+}

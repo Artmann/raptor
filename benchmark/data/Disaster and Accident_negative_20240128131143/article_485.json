@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "3abb7467994a5ffabe65a624cf3f8108be9d3bcf",
+    "url": "https://www.fox5ny.com/news/manhattan-businesses-steam-leak",
+    "site_full": "www.fox5ny.com",
+    "site": "fox5ny.com",
+    "site_section": "https://fox5ny.com/tag/us/ny/",
+    "site_categories": ["media"],
+    "section_title": "New York",
+    "title": "Manhattan businesses hit hard by unexpected steam leak",
+    "title_full": "Manhattan businesses hit hard by unexpected steam leak",
+    "published": "2023-12-29T00:23:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/12/1280/720/snapshot-2023-12-28T172143.277.jpg?ve=1&amp;tl=1",
+    "performance_score": 0,
+    "domain_rank": 7880,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3abb7467994a5ffabe65a624cf3f8108be9d3bcf",
+  "url": "https://www.fox5ny.com/news/manhattan-businesses-steam-leak",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Antwan Lewis",
+  "published": "2023-12-29T00:23:00.000+02:00",
+  "title": "Manhattan businesses hit hard by unexpected steam leak",
+  "text": "MANHATTAN - The build-up to New Year&apos;s Eve is usually one of the busiest periods for Ambassador Wines and Spirits, but that&apos;s not the case right now. The store is at the corner of East 54th and 2nd Avenue, right in the middle of the cleanup of Wednesday&apos;s steam leak. \"We stand to lose a very large sum of money and after COVID and all the hits we've taken, it just keeps coming. It's difficult.\" — Shop owner Leonard Phillips 2nd Avenue and the lower 50&apos;s streets remain blocked off. Part of the perimeter was established Wednesday morning. Around 2 a.m., Con Ed officials say steam started spewing from a pipe near E 52nd and 2nd Avenue. Crews quickly cordoned off the area blocks in each direction amidst fears of asbestos contamination. Officials say air quality tests came back negative, but the cleanup is expected to take days. Inside Louie&apos;s Chicken, there were more employees than customers for the second straight day. \"Walking traffic is now zero because of what's going on with the city warning people to stay away and obviously people are.\" — Store owner Tom Citro Philips understands why the area is closed, but as a small business owner, he&apos;s just hoping it reopens soon. \"We don&apos;t know how long it&apos;s going to be. If I can get a Friday, Saturday we&apos;re ok. But if we&apos;re going to lose the weekend, it&apos;s well over $100,000 for me,\" Phillips said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Disaster and Accident",
+    "Human Interest"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "leonard phillips",
+        "sentiment": "none"
+      },
+      {
+        "name": "tom cit",
+        "sentiment": "none"
+      },
+      {
+        "name": "louie&apos;s chicken",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "manhattan",
+        "sentiment": "none"
+      },
+      {
+        "name": "manhattan",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:41:15.357+02:00",
+  "updated": "2023-12-29T00:41:15.357+02:00"
+}

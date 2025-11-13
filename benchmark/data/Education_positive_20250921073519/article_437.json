@@ -1,0 +1,118 @@
+{
+  "thread": {
+    "uuid": "ab16e52be93f6a9fdbf0613d29fe2490dc23b98c",
+    "url": "https://www.prensa.com/contenido-de-marcas/la-universidad-de-panama-presenta-a-los-graduados-de-su-facultad-de-derecho-y-ciencias-politicas/",
+    "site_full": "www.prensa.com",
+    "site": "prensa.com",
+    "site_section": "https://www.prensa.com",
+    "site_categories": ["media"],
+    "section_title": "La Prensa Panamá | Noticias de Panamá e Internacionales",
+    "site_title": "La Prensa Panamá | Noticias de Panamá e Internacionales",
+    "title": "La Universidad de Panamá presenta a los graduados de su Facultad de Derecho y Ciencias Políticas",
+    "title_full": "La Universidad de Panamá presenta a los graduados de su Facultad de Derecho y Ciencias Políticas",
+    "published": "2025-09-18T07:50:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PA",
+    "main_image": "https://www.prensa.com/resizer/v2/OHTI3OSZRFAFTGZFIF4446UM2Q.png?auth=1a7b1102cc119631499e151c9c2519e32b42839175652f1a6b0c172971420345&amp;width=1200",
+    "performance_score": 0,
+    "domain_rank": 43676,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ab16e52be93f6a9fdbf0613d29fe2490dc23b98c",
+  "url": "https://www.prensa.com/contenido-de-marcas/la-universidad-de-panama-presenta-a-los-graduados-de-su-facultad-de-derecho-y-ciencias-politicas/",
+  "ord_in_thread": 0,
+  "author": "@prensacom",
+  "published": "2025-09-18T07:50:00.000+03:00",
+  "title": "La Universidad de Panamá presenta a los graduados de su Facultad de Derecho y Ciencias Políticas",
+  "text": "La Universidad de Panamá se enorgullece al presentar a los graduados en su Facultad de Derecho y Ciencias Políticas Promoción 2024 - 2025\nAutoridades\nPuestos de Honor\nCapítulo de Honor\nLicenciados(as) en Derecho y Ciencias Políticas\nTécnico Operario en Sistema Penal Acusatorio\nTécnico Superior en Criminalística\nMaestría en Derecho con Énfasis en Derecho Procesal\nNo aparecen en la foto\nTécnico Superior en Criminalística:\nGaray Carrillo, Marisela Akemy\nVega Sandoval, Dayana Isabel",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": [
+    "Education->college and university",
+    "Education->teachers",
+    "Education->students",
+    "Human Interest->graduation",
+    "Social Issue->demographics",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Marisela Akemy\nVega Sandoval",
+        "sentiment": "none"
+      },
+      {
+        "name": "Garay Carrillo",
+        "sentiment": "none"
+      },
+      {
+        "name": "Dayana Isabel",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Criminalística",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Universidad de Panamá",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:20:49.219+03:00",
+  "updated": "2025-09-18T08:25:10.000+03:00"
+}

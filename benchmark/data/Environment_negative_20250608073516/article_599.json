@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "e3407bfd25121c0466562b19c6c2db6f1a9bdc16",
+    "url": "https://ny1.com/nyc/all-boroughs/news/2025/05/07/advocates-call-for-end-to-e-vehicles-in-city-parks",
+    "site_full": "ny1.com",
+    "site": "ny1.com",
+    "site_section": "http://www.ny1.com/services/contentfeed.nyc%7call-boroughs%7cnews.landing.rss",
+    "site_categories": ["media"],
+    "section_title": "NYC Headlines | Spectrum News NY1",
+    "site_title": "Spectrum News NY1 | New York City",
+    "title": "Advocates call for end to e-vehicles in city parks",
+    "title_full": "Advocates call for end to e-vehicles in city parks",
+    "published": "2025-05-08T03:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://s7d2.scene7.com/is/image/TWCNews/(LOUIS)_PKG_Mn_Ban_E-Bikes_Rally_CLEAN",
+    "performance_score": 0,
+    "domain_rank": 5090,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e3407bfd25121c0466562b19c6c2db6f1a9bdc16",
+  "url": "https://ny1.com/nyc/all-boroughs/news/2025/05/07/advocates-call-for-end-to-e-vehicles-in-city-parks",
+  "ord_in_thread": 0,
+  "author": "Louis Finley",
+  "published": "2025-05-08T03:30:00.000+03:00",
+  "title": "Advocates call for end to e-vehicles in city parks",
+  "text": "Once a sanctuary from the city’s chaos, some New Yorkers claim parks have become danger zones amid a pilot program allowing e-bikes and e-scooters into green spaces.\nThe debate hit a high on Wednesday when dozens gathered near Central Park's entrance to demand the city end its pilot allowing legal the micromobility devices on park drives and greenways, saying the initiative is a threat to pedestrian safety.\nWhat You Need To Know Dozens rallied at Central Park calling for an end to a city e-vehicle pilot program allowing legal e-bikes and scooters onto park drives\nThe pilot began in June 2023 and is scheduled to run through May 31, 2025\nOpponents of the pilot program said e-vehicle users behave recklessly and have struck numerous pedestrians in parks Many in attendance said they had personally been struck or nearly hit by e-vehicles.\n“They speed, they look at their phone, they fly through red lights. They’re going to weave no matter what lane they’re in,” said Janet Schroeder, director of the NYC E-Vehicle Safety Alliance.\nThe pilot, which began in June 2023 and is scheduled to run through May 31, 2025, allows for e-bikes and e-scooters under 100 pounds to use park paths. Other motorized vehicles remain prohibited.\nCritics of the program described it is a “dangerous experiment” Wednesday and urged lawmakers to take action.\n“We don’t want e-bikes in the park because they’re not bicycles. They’re much heavier. They do much more damage,” said Schroeder.\nA bill under review by the City Council would ban e-vehicles from city parks altogether.\nIn response to growing safety concerns, a spokesperson for the parks department said in part: “We are continuing to gain insights and test new methods for how electric micromobility can be safely managed for the benefit of all park users, and how to prevent heavier vehicles like mopeds from being operated in parks.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Social Issue", "Environment", "Health"],
+  "topics": [
+    "Social Issue->communities",
+    "Social Issue->public housing",
+    "Social Issue->social problem",
+    "Environment->parks",
+    "Environment->sustainability",
+    "Environment->environmental pollution",
+    "Health->public health",
+    "Health->government health care",
+    "Health->health care approach"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Janet Schroeder",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Central Park",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "NYC E-Vehicle Safety Alliance",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:04:41.597+03:00",
+  "updated": "2025-05-11T18:43:12.627+03:00"
+}

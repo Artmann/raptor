@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "ec94678c41ad6ef1c97e32a2ee6e60f903d036e4",
+    "url": "https://www.suedtirolnews.it/politik/wildbachverbauung-erhoeht-hochwasserschutz-im-sextnerbach",
+    "site_full": "www.suedtirolnews.it",
+    "site": "suedtirolnews.it",
+    "site_section": "https://www.suedtirolnews.it/feed",
+    "site_categories": ["media", "top_news_it", "top_news"],
+    "section_title": "Südtirol News",
+    "site_title": "Südtirol News - Nachrichten aus Südtirol, Italien und der Welt",
+    "title": "Wildbachverbauung erhöht Hochwasserschutz im Sextnerbach",
+    "title_full": "Wildbachverbauung erhöht Hochwasserschutz im Sextnerbach",
+    "published": "2025-10-16T13:03:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://media.stncdn.it/960x720/2025/10/sperresextnerbach2-1.jpg",
+    "performance_score": 0,
+    "domain_rank": 67624,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ec94678c41ad6ef1c97e32a2ee6e60f903d036e4",
+  "url": "https://www.suedtirolnews.it/politik/wildbachverbauung-erhoeht-hochwasserschutz-im-sextnerbach",
+  "ord_in_thread": 0,
+  "author": "Ivd",
+  "published": "2025-10-16T13:03:00.000+03:00",
+  "title": "Wildbachverbauung erhöht Hochwasserschutz im Sextnerbach",
+  "text": "Von: Ivd\nSexten – Der Sextnerbach entspringt am Kreuzbergpass und fließt in nordwestlicher Richtung durch das gleichnamige Sextnertal. Das Landesamt für Wildbach- und Lawinenverbauung Ost in der Agentur für Bevölkerungsschutz hat oberhalb der Fraktion Moos in Sexten eine neue Rückhaltesperre am Sextnerbach errichtet. “Ziel des Projektes ist es, den Hochwasserschutz für die Ortschaften Moos und Sexten deutlich zu verbessern”, unterstreicht der Direktor des Landesamtes für Wildbach- und Lawinenverbauung Ost Sandro Gius.\n“Die Sperre liegt in einer tief eingeschnittenen Schlucht und weist bei einer Breite von 28 Metern eine Nutzhöhe von acht Metern auf”, berichtet Bauleiter Martin Moser. Durch die Errichtung dieser Sperre hat der Bautrupp mit Vorarbeiter Edmund Messner den Hochwasserschutz für die talseitig gelegenen Ortschaften bereits stark verbessert. Oberhalb der Ortschaft Moos ist ein Hochwasser-Laminierungsbecken in Planung, es soll bei Starkregen Wasser aufnehmen und kontrolliert abgeben. Die genaue Ausgestaltung der Maßnahme wird derzeit geprüft. Die Filtersperre spielt dabei eine wichtige Rolle im Betrieb.\nDie Baukosten für das fertiggestellte Rückhaltebecken betragen rund eine Million Euro. Finanziert wurde das Projekt über den Europäischen Fonds für regionale Entwicklung (EFRE).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->water", "Environment->conservation"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Edmund Messner",
+        "sentiment": "none"
+      },
+      {
+        "name": "Martin Moser",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sandro Gius",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Sextnerbach",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Landesamtes für Wildbach-",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_it", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:27:07.615+03:00",
+  "updated": "2025-10-17T14:10:36.000+03:00"
+}

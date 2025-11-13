@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "57bf652e139f11a15a82815559df2dae866c50b1",
+    "url": "https://www.tmj4.com/news/local-news/deputies-police-searching-fox-brook-park-for-missing-brookfield-man",
+    "site_full": "www.tmj4.com",
+    "site": "tmj4.com",
+    "site_section": "https://www.tmj4.com",
+    "site_categories": ["media"],
+    "section_title": "Milwaukee, Wisconsin News, Weather, Sports and Traffic | TMJ4 News WTMJ-TV",
+    "title": "Found safe: Deputies, police searching Fox Brook Park for missing Brookfield man",
+    "title_full": "Found safe: Deputies, police searching Fox Brook Park for missing Brookfield man",
+    "published": "2023-12-29T21:54:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ewscripps.brightspotcdn.com/dims4/default/523a9c5/2147483647/strip/true/crop/770x404+0+14/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F8f%2F0a%2Fb74c81da4b73a2ed8ba313cff8a0%2Fmissing-thomas-hayden-2.jpg",
+    "performance_score": 0,
+    "domain_rank": 11593,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "57bf652e139f11a15a82815559df2dae866c50b1",
+  "url": "https://www.tmj4.com/news/local-news/deputies-police-searching-fox-brook-park-for-missing-brookfield-man",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2023-12-29T21:54:00.000+02:00",
+  "title": "Found safe: Deputies, police searching Fox Brook Park for missing Brookfield man",
+  "text": "UPDATE: Thomas Hayden has been found safe.\n__\nThe Waukesha County Sheriff's Office is searching Fox Brook Park for a missing Brookfield man.\nAccording to the City of Brookfield Police Department, Thomas Hayden, 67, was last seen Wednesday, Dec. 27. He was reported to be at his home in the area of Riverbirch Drive in Brookfield. It is believed he left on foot, but no information on what direction he left in. His personal items, including his cell phone, wallet, and vehicle were left at his home.\nHayden is described as 6'3\" and 170 pounds.\nVolunteers are coordinating a search for Hayden beginning at 1 p.m. Friday.\nDrones, K9 units, and foot patrols have been utilized to search the area around Hayden's home. Police say vehicle patrols have also been used to search parks, thoroughfares, and area business lots.\nPolice are now asking all businesses and residents in the area of Riverbirch Drive to check any surveillance footage for any images or footage that may have captured Hayden.\nIf anyone has any ideas as to where Mr. Hayden may have gone or may be, please contact the City of Brookfield Police Department at (262) 446-5070.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Human Interest",
+    "Disaster and Accident",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "fox brook park",
+        "sentiment": "negative"
+      },
+      {
+        "name": "thomas hayden",
+        "sentiment": "negative"
+      },
+      {
+        "name": "fox",
+        "sentiment": "negative"
+      },
+      {
+        "name": "hayden",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "waukesha county sheriff's office",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "city of brookfield police department",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "brookfield",
+        "sentiment": "none"
+      },
+      {
+        "name": "brook park",
+        "sentiment": "none"
+      },
+      {
+        "name": "riverbirch drive",
+        "sentiment": "none"
+      },
+      {
+        "name": "brookfiel",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T23:36:18.531+02:00",
+  "updated": "2023-12-29T23:36:18.531+02:00"
+}

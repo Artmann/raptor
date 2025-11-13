@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "61726991b509817d5de95e49ab9f6432784be5f1",
+    "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2179910",
+    "site_full": "www.pib.gov.in",
+    "site": "pib.gov.in",
+    "site_section": "https://pib.gov.in/rssmain.aspx?modid=6&lang=1&regid=3",
+    "site_categories": [],
+    "section_title": "Press Information Bureau ",
+    "site_title": "Press Information Bureau",
+    "title": "Union Environment Minister Shri Bhupender Yadav represents India at the G20 Environment Ministers' Meeting at Cape Town, South Africa",
+    "title_full": "Union Environment Minister Shri Bhupender Yadav represents India at the G20 Environment Ministers' Meeting at Cape Town, South Africa",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 17693,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "61726991b509817d5de95e49ab9f6432784be5f1",
+  "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2179910",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "Union Environment Minister Shri Bhupender Yadav represents India at the G20 Environment Ministers' Meeting at Cape Town, South Africa",
+  "text": "Extending gratitude to the Republic of South Africa for leadering efforts for advancing the theme ‘Solidarity, Equality, Sustainability’, Union Minister for Environment, Forest and Climate Change, Shri Bhupender Yadav, delivered India's statement at the G20 Environment Ministers’ Meeting, in Cape Town, South Africa today. The Minister called on the delegates to tread the path of building a world united in purpose, equal in right and resources, committed to the planet.\nIn his address, Shri Yadav expressed satisfaction that as Paris Agreement completes 10 years, all countries came together to determine their NDCs, work towards them, and in many cases, like India, started attaining their goals even before the designated timelines.\nReaffirming the gathering that India is always a part of the solution, the Minister urged that the G20 must act as a bridge between ambition and implementation, ensuring that every nation’s contribution is respected and every nation’s capacity is enhanced. “We must reaffirm the principles of ‘Common but differentiated responsibilities and Respective Capabilities’. Finance to developing countries to meet the vital environmental challenges needs to be honoured as an onerous duty rather than a mere promise because equality is not a privilege – it is a right”, he added.\nShri Yadav reminded that Prime Minister, Shri Narendra Modi, in his address last year at the G20 Summit, highlighted the relevance of going ‘back to the basics’ and the importance of integrating it with our ‘march to the future’. “Ecosystem-based solutions and futuristic technologies must converge to create a sustainable future. Knowledge sharing, capacity building, technology co-development and transfer will play a significant role in attaining sustainability”, he stated.\nThe Minister advocated a ‘whole-of-the-society’ approach and ‘pro-planet lifestyle choices’ of individuals shall be most relevant for achieving meaningful and tangible outcomes. “We sincerely appreciate and fully support the people-centric, holistic, integrated and collaborative approach proposed by the South African Presidency”, he concluded.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment", "Politics"],
+  "topics": [
+    "Environment->sustainability",
+    "Politics->international relations",
+    "Politics->environmental policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Shri Bhupender Yadav",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Shri Yadav",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Republic of",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:23:03.613+03:00",
+  "updated": "2025-10-16T14:32:26.000+03:00"
+}

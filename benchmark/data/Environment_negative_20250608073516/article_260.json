@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "155f4b8529c30059713d2fe0cc0ced12cfd96c1f",
+    "url": "https://www.nbcdfw.com/news/local/coyote-shot-and-killed-after-aggressive-encounter-at-reverchon-park/3835525",
+    "site_full": "www.nbcdfw.com",
+    "site": "nbcdfw.com",
+    "site_section": "https://news.google.com/search?q=after%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["tech"],
+    "section_title": "Google News - Search",
+    "site_title": "NBC 5 DFW &#8211; Dallas Fort-Worth news, weather, breaking news",
+    "title": "Coyote shot and killed after aggressive encounter at Reverchon Park",
+    "title_full": "Coyote shot and killed after aggressive encounter at Reverchon Park",
+    "published": "2025-05-08T01:08:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.nbcdfw.com/2025/05/39464831321-1080pnbcstations.jpg?quality=85&#038;strip=all&#038;resize=1200%2C675",
+    "performance_score": 0,
+    "domain_rank": 3877,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "155f4b8529c30059713d2fe0cc0ced12cfd96c1f",
+  "url": "https://www.nbcdfw.com/news/local/coyote-shot-and-killed-after-aggressive-encounter-at-reverchon-park/3835525",
+  "ord_in_thread": 0,
+  "author": "Maria Guerrero",
+  "published": "2025-05-08T01:08:00.000+03:00",
+  "title": "Coyote shot and killed after aggressive encounter at Reverchon Park",
+  "text": "Skip to content\nMain Navigation\nSearch\nSearch for:\nLocal\nWeather\nNBC DFW 24/7\nResponds\nInvestigations\nSports\nEntertainment\nNewsletters\nWatch 24/7\nCreate profile / Log in\nDashboard\nEmail preferences\nSign out\nTrending\nHalley's meteors 🌠\nWatch: NBC 5 at 7 a.m. 💻\nNBCDFW app 📲\nGood News newsletter 🙂\nExpand\nLocal\nThe latest news from around North Texas.\nClose Menu\nCreate profile / Log in\nDashboard\nSearch for:\nLocal\nLone Star Politics\nWake Up to Something Good\nCarter In The Classroom\nTexas News\nU.S. & World\nWeather\nWeather Connection\nWeather Alerts\nTraffic\nSports Connection\nInvestigations\nNBC 5 Responds\nSubmit a consumer complaint\nVideo\nEntertainment\nTexas Today\nNBC 5 TV Schedule\nSubmit Photos or Videos\nCommunity\nOur News Standards\nSubmit a Consumer Complaint\nSubmit Photos and Video\nTV Schedule\nOur Apps\nContests\nNewsletters\nCozi TV\nFollow Us\nFacebook\nInstagram\nTikTok\nContact Us",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Environment", "Human Interest"],
+  "topics": [
+    "Crime, Law and Justice->animal abuse",
+    "Environment->sustainability",
+    "Environment->parks",
+    "Environment->animal"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "North",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "NBC",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "NBC",
+            "exchange": "FRA"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:58:21.631+03:00",
+  "updated": "2025-05-08T00:04:17.000+00:00"
+}

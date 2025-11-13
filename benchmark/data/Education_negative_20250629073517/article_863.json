@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "99f51178f1db5d237364da8fb6032c3c9542fc54",
+    "url": "https://www.masslive.com/education/2025/06/mass-school-cracks-down-after-chickenpox-surge-unvaccinated-students-denied-return.html",
+    "site_full": "www.masslive.com",
+    "site": "masslive.com",
+    "site_section": "https://news.google.com/search?q=down%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media", "sports"],
+    "section_title": "Google News - Search",
+    "site_title": "Massachusetts Local News, Breaking News, Sports and Weather",
+    "title": "Mass. school cracks down after chickenpox surge: Unvaccinated students denied return",
+    "title_full": "Mass. school cracks down after chickenpox surge: Unvaccinated students denied return",
+    "published": "2025-06-26T15:07:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.masslive.com/resizer/v2/KNB43DUKM5A6PLYOM6VRL2JYGE.JPG?auth=1d650e2e3864339f0c69ac9f6f70fe114bc4642cce58fafb10218c9ba4fe4d76&amp;width=1280&amp;quality=90",
+    "performance_score": 0,
+    "domain_rank": 2976,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "99f51178f1db5d237364da8fb6032c3c9542fc54",
+  "url": "https://www.masslive.com/education/2025/06/mass-school-cracks-down-after-chickenpox-surge-unvaccinated-students-denied-return.html",
+  "ord_in_thread": 0,
+  "author": "Heather Morrison | hmorrison@masslive.com",
+  "published": "2025-06-26T15:07:00.000+03:00",
+  "title": "Mass. school cracks down after chickenpox surge: Unvaccinated students denied return",
+  "text": "Unvaccinated students won’t be allowed to return to school in the fall at Newton public schools after a recent chickenpox surge.\nA series of cases of chicken pox last week brought to light that nearly 200 students didn’t have the proper vaccines or documentation for exemption, according to a letter from Superintendent Anna Nolin to the school committee.\nSince 2020, 182 students at Newton Public Schools “were allowed to matriculate to school during COVID conditions without the immunizations required in MA to attend public school, and they still remain in our district attending school with improper vaccination,” the letter stated.\nThe former superintendent was able to waive vaccine requirements, Nolin said. However, she is reinstating them.\nThe types of missing immunizations range, although there are 42 students who are not fully immunized for measles. Personalized details will be shared with each family.\nFamilies have also been offered to have nurses come to their homes to provide the needed vaccines.\n“In short, there is no barrier in Newton for any family to be vaccinated according to the law,” the superintendent wrote.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Education"],
+  "topics": [
+    "Health->health care approach",
+    "Health->health facility",
+    "Health->communicable disease",
+    "Education->students",
+    "Education->educational grading",
+    "Education->school"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://drive.google.com/file/d/1g1cGDULE6EoSRX4-5h896WL1fufSs0df/view",
+    "https://www.drive.google.com/file/d/1g1cGDULE6EoSRX4-5h896WL1fufSs0df/view"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Anna Nolin",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Newton Public Schools",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T15:21:08.347+03:00",
+  "updated": "2025-06-26T12:27:28.000+00:00"
+}

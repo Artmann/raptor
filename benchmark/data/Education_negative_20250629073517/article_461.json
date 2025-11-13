@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "6d685afc0a4f82dd2f47ca780a7ffa4b19ffd08a",
+    "url": "https://www.stuttgarter-zeitung.de/inhalt.konstanz-streit-um-vegetarisches-schulessen-gericht-weist-beschwerden-zurueck.e374a3e8-a549-4e12-a98f-44f44acdac9f.html",
+    "site_full": "www.stuttgarter-zeitung.de",
+    "site": "stuttgarter-zeitung.de",
+    "site_section": "https://www.stuttgarter-zeitung.de/schlagzeilen.rss.feed",
+    "site_categories": ["media", "top_news_de", "top_news"],
+    "section_title": "Stuttgarter Zeitung - Schlagzeilen",
+    "site_title": "Aktuelle Nachrichten",
+    "title": "Konstanz: Streit um vegetarisches Schulessen: Gericht weist Beschwerden zurück - Baden-Württemberg",
+    "title_full": "Konstanz: Streit um vegetarisches Schulessen: Gericht weist Beschwerden zurück - Baden-Württemberg",
+    "published": "2025-06-26T11:44:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.stuttgarter-zeitung.de/media.media.be9d89ef-98ab-4454-9a36-1d2d3efa4d09.original1024.jpg",
+    "performance_score": 1,
+    "domain_rank": 7327,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 11,
+        "comments": 11,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6d685afc0a4f82dd2f47ca780a7ffa4b19ffd08a",
+  "url": "https://www.stuttgarter-zeitung.de/inhalt.konstanz-streit-um-vegetarisches-schulessen-gericht-weist-beschwerden-zurueck.e374a3e8-a549-4e12-a98f-44f44acdac9f.html",
+  "ord_in_thread": 0,
+  "author": "red/epd",
+  "published": "2025-06-26T11:44:00.000+03:00",
+  "title": "Konstanz: Streit um vegetarisches Schulessen: Gericht weist Beschwerden zurück - Baden-Württemberg",
+  "text": "Streit um vegetarisches Schulessen: Gericht weist Beschwerden zurück 26.06.2025 - 10:42 Uhr An einer Schule im Raum Konstanz wird häufig vegetarisches Schulessen angeboten (Symbolbild). Foto: dpa/Hauke-Christian Dittrich",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Social Issue", "Education"],
+  "topics": [
+    "Social Issue->discrimination",
+    "Social Issue->social problem",
+    "Education->students",
+    "Education->school",
+    "Education->curriculum"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "dpa",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T12:13:47.593+03:00",
+  "updated": "2025-06-27T10:12:22.000+00:00"
+}

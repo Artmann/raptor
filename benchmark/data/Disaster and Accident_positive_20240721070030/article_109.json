@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "2be61ed9c4b564ce9992b7fa93bf83ef5a500f55",
+    "url": "https://www.nbcsandiego.com/news/local/southern-california-coordination-center-wildfires/3546036",
+    "site_full": "www.nbcsandiego.com",
+    "site": "nbcsandiego.com",
+    "site_section": "http://www.nbcsandiego.com/news/local/?rss=y&embedThumb=y&summary=y",
+    "site_categories": ["tech"],
+    "section_title": "Local &#8211; NBC 7 San Diego",
+    "title": "SoCal Coordination Center uses artificial intelligence to help respond to wildfires",
+    "title_full": "SoCal Coordination Center uses artificial intelligence to help respond to wildfires – NBC 7 San Diego",
+    "published": "2024-06-21T06:55:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.nbcsandiego.com/2024/06/SOUTHOPS.png?resize=1200%2C675&#038;quality=85&#038;strip=all",
+    "performance_score": 0,
+    "domain_rank": 5223,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2be61ed9c4b564ce9992b7fa93bf83ef5a500f55",
+  "url": "https://www.nbcsandiego.com/news/local/southern-california-coordination-center-wildfires/3546036",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Brooke Martell - Meteorologist",
+  "published": "2024-06-21T06:55:00.000+03:00",
+  "title": "SoCal Coordination Center uses artificial intelligence to help respond to wildfires",
+  "text": "NBC Universal, Inc. Thursday marked the first official day of summer, but it's also a time of the year when we move into peak wildfire season.\nAt the Southern California Coordination Center in Riverside County, multiple agencies coordinate and manage resources that respond to wildfires across California.\nJennifer Ricci, the southern region chief staff of operations, says this joint intelligence operation between Cal Fire and the U.S. Forest Service sends wildfire resources to the southern half of the state. Her counterpart, David Raphael, works as the deputy geographic area coordinate center manager.\n\"From Sacramento to the Mexican border, north-south, from the ocean to the Arizona, Nevada border,\" Ricci said.\n The center is divided into multiple categories, sending resources from all over the state to current or emerging incidents. At the aircraft floor, it's a mix of old and new technology. Computers, a board of a map and markers are the tools of the trade.\n\"It works because of the way the dispatches go,\" Ricci said. \"You’re just moving it. You’re grabbing these. Putting them there because it’s just immediate.”\nDuring a wildfire, immediate response is pertinent and relies on organization. Ricci showed and described to NBC 7 on Thursday how the dozers, strike team and other resources with wheels are kept track of. The system for keeping track of these resources previously relied on index cards, but recently, they switched to a computerized system.\nLocal\nThings to Do in San Diego 6 hours ago Things to do this weekend: San Diego Beer Weekend, San Diego Smooth Jazz Festival and more San Diego 11 hours ago 12-year-old San Diegan beats leukemia with the help of music \"It’s really easy for us to get that snapshot of the kind, the type, the agency supporting this,\" Ricci said.\nIn the intel operations center, information is digested from multiple sources to monitor emerging and existing incidents.\n“From cameras, from unmanned aerial systems, from boots on the ground,\" Ricci said.\nAnd now, new technology.\n”We’ve worked with UCSD, and they assisted us with this array of cameras and working AI into it,\" Ricci said.\nThrough AlertCalifornia , the coordination center can detect any anomaly that is detected don't on those cameras whether it be fire, smoke or something else.\n\"This has assisted us in getting resources to the fire long before we even receive a 911 call, and there have been times where this has detected a legitimate fire, we’ve started a response, those responding units have been able to get there, mitigate and a 911 call has never generated,\" Ricci said.\nIt's a quick response that Ricci says has kept the state close to its goal of keeping 95% of wildland fires at 10 acres or less.\n”As valuable as it is, we still have multiple people on the ground, validating, supporting and the ones that are actually out there taking the action,\" Ricci said.\nIn addition to Cal Fire and U.S. Forest Service, several other agencies are part of the Southern California Coordination Center, including Cal OES, U.S. Fish & Wildlife Service, U.S. Dept. of the Interior Bureau of Land Management, U.S. Dept. of the Interior Bureau of Indian Affairs and National Park Service.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Disaster and Accident",
+    "Environment"
+  ],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "ricci",
+        "sentiment": "none"
+      },
+      {
+        "name": "david raphael",
+        "sentiment": "none"
+      },
+      {
+        "name": "jennifer ricci",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "socal coordination center",
+        "sentiment": "negative"
+      },
+      {
+        "name": "nbc universal, inc",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "the southern california coordination center",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s. forest service",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "sacramento",
+        "sentiment": "none"
+      },
+      {
+        "name": "riverside county",
+        "sentiment": "none"
+      },
+      {
+        "name": "california",
+        "sentiment": "none"
+      },
+      {
+        "name": "arizona",
+        "sentiment": "none"
+      },
+      {
+        "name": "nevada",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-21T07:26:56.072+03:00",
+  "updated": "2024-06-21T07:26:56.072+03:00"
+}

@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "9bd1b464bbb082201a1e703ec3a6d9395161f7c5",
+    "url": "https://www.abc4.com/news/wasatch-front/utah-father-son-rescue-creek",
+    "site_full": "www.abc4.com",
+    "site": "abc4.com",
+    "site_section": "https://www.abc4.com/news/top-stories/feed",
+    "site_categories": ["shopping", "tech", "3d_graphics"],
+    "section_title": "Utah's Top Stories Today | Salt Lake City, UT",
+    "title": "Father and 9-year-old son rescued after being swept away in Utah creek",
+    "title_full": "Father and 9-year-old son rescued after being swept away in Utah creek",
+    "published": "2024-06-24T17:19:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.abc4.com/wp-content/uploads/sites/4/2017/04/C9LgjGjVoAEg3KJ_1491966125223_19623278_ver1.0-e1676607848333.jpg?w=1280",
+    "performance_score": 0,
+    "domain_rank": 9034,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9bd1b464bbb082201a1e703ec3a6d9395161f7c5",
+  "url": "https://www.abc4.com/news/wasatch-front/utah-father-son-rescue-creek",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Derick Fox",
+  "published": "2024-06-24T17:19:00.000+03:00",
+  "title": "Father and 9-year-old son rescued after being swept away in Utah creek",
+  "text": "by: Derick Fox\nPosted: Jun 24, 2024 / 08:19 AM MDT\nUpdated: Jun 24, 2024 / 08:19 AM MDT\nFile photo/KTVX by: Derick Fox\nPosted: Jun 24, 2024 / 08:19 AM MDT\nUpdated: Jun 24, 2024 / 08:19 AM MDT\nSHARE\nSALT LAKE CITY ( ABC4 ) — A father and his 9-year-old son are safe after a harrowing moment at Little Cottonwood Creek on Sunday, June 23.\nThe Unified Police Department told ABC4.com that the two were near the creek when the 9-year-old was swept away by the water. The boy was able to grab onto a log, where he held on, waiting to be rescued.\nThe boy’s father jumped into the creek after him, however, Unified Police said the fast-moving waters swept him away as well.\nSalt Lake City police arrest 20 people along Jordan River Trail using undercover officers A responding officer with the Unified Police Department was able to get a rescue rope to the 9-year-old and pulled him safely to shore. The father was reportedly able to safely get out of the water on his own.\nBoth were treated at the scene and released.\n‘Significant danger’ at the water’s edge The Utah Department of Natural Resources said the state’s rivers and streams could become “raging torrents” as the winter’s snowpack continues to melt downstream. Data from the United States Geological Survey shows that Little Cottonwood Canyon is running well over its average from late July to March when the runoff isn’t as strong.\nWhile the water is a welcoming sight for the state’s supply, the high levels could provide a significant danger for those who get too close to the water’s edge.\n“We urge everyone to stay away from river and stream banks until the runoff subsides, as this is the safest thing you can do for yourself, your family, and even your pets,” DNR officials warn.\nDNR recommends keeping a close eye on family members and pets near water during the runoff season when the water is higher. Officials recommend wearing a personal floating device as a safety precaution, even if you don’t plan on entering the water. It is also crucial to stay aware of weather conditions as water levels may rise quickly and without warning during storms or periods of heavy rain.\nUtah Treasure Hunt 2024 narrows down location with first set of hints If someone does fall into the water, DNR recommends not jumping in after them but instead throwing them something that could help keep them afloat and calling 911.\nShould you fall into a fast-moving river or stream yourself, the Forest Service of the U.S. Department of Agriculture offered some important water safety tips that could save your life, such as not trying to stand up in the water.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://waterdata.usgs.gov/monitoring-location/10168000/#parameterCode=00065&period=P365D&showMedian=false&compare=true",
+    "https://www.waterdata.usgs.gov/monitoring-location/10168000/#parameterCode=00065&period=P365D&showMedian=false&compare=true"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "utah department of natural resources",
+        "sentiment": "none"
+      },
+      {
+        "name": "unified police",
+        "sentiment": "none"
+      },
+      {
+        "name": "unified police department",
+        "sentiment": "none"
+      },
+      {
+        "name": "united states geological survey",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "utah",
+        "sentiment": "none"
+      },
+      {
+        "name": "cottonwood canyon",
+        "sentiment": "none"
+      },
+      {
+        "name": "cottonwood creek",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-24T17:51:05.470+03:00",
+  "updated": "2024-06-24T17:58:18.553+03:00"
+}

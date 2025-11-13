@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "5dd11bc88a582d6fb78c400bd44edcba6914ddaf",
+    "url": "https://www.cbsnews.com/colorado/news/colorado-bureau-investigation-issues-endangered-missing-alert-2-children-sterling/",
+    "site_full": "www.cbsnews.com",
+    "site": "cbsnews.com",
+    "site_section": "https://www.cbsnews.com/colorado",
+    "site_categories": ["media", "television", "entertainment"],
+    "section_title": "CBS Colorado - Breaking News, Sports, First Alert Weather &amp; Community Journalism",
+    "title": "Colorado Bureau of Investigation issues Endangered Missing Alert for 2 children out of Sterling - CBS Colorado",
+    "title_full": "Colorado Bureau of Investigation issues Endangered Missing Alert for 2 children out of Sterling - CBS Colorado",
+    "published": "2023-12-28T22:04:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/12/28/0d2aa163-5c91-4349-9f39-dbde05da1e58/thumbnail/1200x630/96c6279e09899d09de83dc7222512934/missing-kids.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
+    "performance_score": 0,
+    "domain_rank": 187,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 14
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5dd11bc88a582d6fb78c400bd44edcba6914ddaf",
+  "url": "https://www.cbsnews.com/colorado/news/colorado-bureau-investigation-issues-endangered-missing-alert-2-children-sterling/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Kasey Richardson",
+  "published": "2023-12-28T22:04:00.000+02:00",
+  "title": "Colorado Bureau of Investigation issues Endangered Missing Alert for 2 children out of Sterling - CBS Colorado",
+  "text": "Colorado Bureau of Investigation issued an Endangered Missing Alert for two children who were reportedly abducted by their mother out of Sterling.\nAccording to the agency, they are looking for two children who were reportedly last seen Wednesday afternoon around 1:30 p.m. near the intersection of Platte Street and King Court in Sterling.\nCBI issued an update nearly an hour after the alert was issued that the children were found and thanked the help from the public.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Human Interest"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "zuryah thalacker",
+        "sentiment": "none"
+      },
+      {
+        "name": "ansom thalacker",
+        "sentiment": "none"
+      },
+      {
+        "name": "ansome",
+        "sentiment": "none"
+      },
+      {
+        "name": "justina lambert",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cbs colorado colorado bureau of investigation",
+        "sentiment": "negative"
+      },
+      {
+        "name": "colorado bureau of investigation issues endangered missing alert",
+        "sentiment": "negative"
+      },
+      {
+        "name": "nissan murano",
+        "sentiment": "none"
+      },
+      {
+        "name": "cbi",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "zuryah",
+        "sentiment": "none"
+      },
+      {
+        "name": "california",
+        "sentiment": "none"
+      },
+      {
+        "name": "platte street",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:10:24.206+02:00",
+  "updated": "2023-12-29T07:23:56.749+02:00"
+}

@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "93432ff27bba5869bdca8316a1d69846a311669a",
+    "url": "https://pakistan.shafaqna.com/EN/249626",
+    "site_full": "pakistan.shafaqna.com",
+    "site": "shafaqna.com",
+    "site_section": "https://pakistan.shafaqna.com/feed",
+    "site_categories": ["media"],
+    "section_title": "Pakistan Shia News Agency",
+    "title": "SBP aims prompt, fair complaint resolution via its ‘Sunwai’ portal",
+    "title_full": "SBP aims prompt, fair complaint resolution via its ‘Sunwai’ portal",
+    "published": "2023-12-29T14:08:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "UA",
+    "main_image": "https://pakistan.shafaqna.com/wp-content/uploads/2023/12/Sunwai-portal-.webp",
+    "performance_score": 0,
+    "domain_rank": 30331,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "93432ff27bba5869bdca8316a1d69846a311669a",
+  "url": "https://pakistan.shafaqna.com/EN/249626",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Tauqeer Abbas",
+  "published": "2023-12-29T14:08:00.000+02:00",
+  "title": "SBP aims prompt, fair complaint resolution via its ‘Sunwai’ portal",
+  "text": "In order to ensure prompt and fair redressal of complaints, the State Bank of Pakistan (SBP) Friday launched its “Sunwai” customer service portal and mobile application — a move aimed at ensuring expedited resolution of their grievances.\nAs per the SBP, the porta is to serve as a one-window operation for banking customers enabling them to register their complaints against Banks, Microfinance Banks (MFBs), and Development Financial Institutions (DFIs).\nMoreover, the portal will allow customers to lodge their complaints related to any banking product or service, including Roshan Digital Accounts (RDA).\nThe move is aimed at strengthening the banking sector’s efficiency and fairness in complaints handling and to address the issues faced by banking customers in complaints lodgment, the SBP’s press release said.\nRegistered users can lodge complaints at their convenience in either English or Urdu languages. Each complaint is assigned a unique tracking number which is communicated to users via SMS and email.\nAlso, banks have been advised to ensure prompt and fair resolution of complaints well within turnaround times (TATs) as prescribed by SBP, which expects the complaint service portal and app to contribute significantly towards strengthening consumer trust in the banking industry.\nSource: The News",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "state bank of pakistan",
+        "sentiment": "negative"
+      },
+      {
+        "name": "microfinance banks",
+        "sentiment": "none"
+      },
+      {
+        "name": "roshan digital",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "urdu",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T21:21:38.361+02:00",
+  "updated": "2023-12-29T21:21:38.361+02:00"
+}

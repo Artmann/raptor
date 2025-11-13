@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "66298be8db17eb3ee1492bda50744446f426cd13",
+    "url": "https://article.wn.com/view/2025/05/08/Uh_Oh_Theres_a_Problem_With_Psyches_Propulsion_System",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/there\\",
+    "site_categories": ["media"],
+    "section_title": "There\\",
+    "site_title": "World News",
+    "title": "Uh Oh, There's a Problem With Psyche's Propulsion System - Worldnews.com",
+    "title_full": "Uh Oh, There's a Problem With Psyche's Propulsion System - Worldnews.com",
+    "published": "2025-05-08T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4256,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "66298be8db17eb3ee1492bda50744446f426cd13",
+  "url": "https://article.wn.com/view/2025/05/08/Uh_Oh_Theres_a_Problem_With_Psyches_Propulsion_System",
+  "ord_in_thread": 0,
+  "author": "System",
+  "published": "2025-05-08T03:00:00.000+03:00",
+  "title": "Uh Oh, There's a Problem With Psyche's Propulsion System - Worldnews.com",
+  "text": "NASA’s Psyche mission is on its way to explore a metal-rich asteroid in the asteroid belt between Mars and Jupiter. All was going well since its launch in October 2023 until nasa announced a decrease in fuel pressure...\nread full story\nNASA’s Psyche mission is on its way to explore a metal-rich asteroid in the asteroid belt between Mars and Jupiter. All was going well since its launch in October 2023 until nasa announced a decrease in fuel pressure...\nread full story",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Science and Technology", "Social Issue", "Environment"],
+  "topics": [
+    "Science and Technology->astronomy",
+    "Science and Technology->scientific exploration",
+    "Science and Technology->scientific research",
+    "Social Issue->mankind",
+    "Environment->energy resources",
+    "Environment->natural resources",
+    "Environment->sustainability"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.universetoday.com/articles/uh-oh-theres-a-problem-with-psyches-propulsion-system",
+    "https://universetoday.com/articles/uh-oh-theres-a-problem-with-psyches-propulsion-system"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Mars",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "NASA",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:06:18.387+03:00",
+  "updated": "2025-05-08T01:15:34.000+00:00"
+}

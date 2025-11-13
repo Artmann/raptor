@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "cf6b09c1ad7390d16e5ea5b4c850353e4ff71976",
+    "url": "https://www.bastillepost.com/global/article/5285695-chinas-three-north-shelterbelt-forest-program-wins-fao-award-for-achievement",
+    "site_full": "www.bastillepost.com",
+    "site": "bastillepost.com",
+    "site_section": "https://www.bastillepost.com/global",
+    "site_categories": ["media", "travel", "japan", "top_news_hk", "top_news"],
+    "section_title": "Bastillepost",
+    "site_title": "巴士的報",
+    "title": "China's Three-North Shelterbelt Forest Program wins FAO Award for Achievement",
+    "title_full": "China's Three-North Shelterbelt Forest Program wins FAO Award for Achievement",
+    "published": "2025-10-16T12:05:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "HK",
+    "main_image": "https://image.bastillepost.com/640x/wp-content/uploads/global/2025/10/8449276_1760607888002_a_FB.jpg",
+    "performance_score": 0,
+    "domain_rank": 96560,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cf6b09c1ad7390d16e5ea5b4c850353e4ff71976",
+  "url": "https://www.bastillepost.com/global/article/5285695-chinas-three-north-shelterbelt-forest-program-wins-fao-award-for-achievement",
+  "ord_in_thread": 0,
+  "author": "Bastillepost",
+  "published": "2025-10-16T12:05:00.000+03:00",
+  "title": "China's Three-North Shelterbelt Forest Program wins FAO Award for Achievement",
+  "text": "China's Three-North Shelterbelt Forest Program won the Food and Agriculture Organization (FAO) Award for Achievement for its outstanding contributions to agricultural production, food security, poverty alleviation and income growth, said the National Forestry and Grassland Administration (NFGA).\nThe FAO award was presented at the UN agency's 80th anniversary celebration in Rome, Italy, on Wednesday.\nIt signifies the international community's high recognition of China's achievements in ecological governance and innovative forestry practices, and highlights China's leading role in promoting global sustainable development, according to the NFGA.\nThe Three-North Shelterbelt Forest Program is also known as the \"Green Great Wall\". This world's largest afforestation program was launched in 1978 to tackle desertification in northwest, north, and northeast China, spanning 13 provinces, and is expected to be completed by 2050.\nIn regions covered by the Three-North Shelterbelt Forest Program, the forest coverage ratio has risen from 5.05 percent in 1977 to 13.84 percent today, creating a vast green barrier in northern China.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->conservation", "Environment->nature"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "National Forestry and Grassland Administration",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "UN",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_hk", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:13:25.370+03:00",
+  "updated": "2025-10-17T15:07:33.000+03:00"
+}

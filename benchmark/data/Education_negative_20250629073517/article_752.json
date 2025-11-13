@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "7261918c0148eb4255756fe61cd47f8a5af456ef",
+    "url": "https://www.salamanca24horas.com/ciudad-rodrigo/exigen-junta-mantener-maestro-apoyo_1_2799883.html",
+    "site_full": "www.salamanca24horas.com",
+    "site": "salamanca24horas.com",
+    "site_section": "https://salamanca24horas.com",
+    "site_categories": ["media"],
+    "section_title": "Salamanca24horas: noticias al día, la gaceta de hoy en Salamanca",
+    "site_title": "Diario Noticias Salamanca 24 Horas",
+    "title": "Exigen a la Junta mantener el maestro de apoyo en Infantil en el CEIP San Francisco de Ciudad Rodrigo",
+    "title_full": "Exigen a la Junta mantener el maestro de apoyo en Infantil en el CEIP San Francisco de Ciudad Rodrigo",
+    "published": "2025-06-26T12:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://static.salamanca24horas.com/clip/65c7211b-f206-422a-9cc5-d5a5e1cbfc62_facebook-aspect-ratio_default_0.jpg",
+    "performance_score": 0,
+    "domain_rank": 127638,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7261918c0148eb4255756fe61cd47f8a5af456ef",
+  "url": "https://www.salamanca24horas.com/ciudad-rodrigo/exigen-junta-mantener-maestro-apoyo_1_2799883.html",
+  "ord_in_thread": 0,
+  "author": "S24H",
+  "published": "2025-06-26T12:32:00.000+03:00",
+  "title": "Exigen a la Junta mantener el maestro de apoyo en Infantil en el CEIP San Francisco de Ciudad Rodrigo",
+  "text": "Exigen a la Junta mantener el maestro de apoyo en Infantil en el CEIP San Francisco de Ciudad Rodrigo\nFernando Pablos defiende en las Cortes la necesidad de conservar cinco docentes en el centro, pese al descenso de matrículas, para garantizar la calidad educativa en zonas rurales\nEl PSOE de Salamanca ha registrado una iniciativa en las Cortes de Castilla y León para exigir a la Junta que rectifique y anule la supresión de dos plazas de maestro en el colegio San Francisco de Ciudad Rodrigo, medida comunicada recientemente por la Inspección Educativa.\nEl procurador socialista Fernando Pablos, firmante de la propuesta, respalda la postura de la comunidad educativa del centro, que acepta la pérdida de un docente por la reducción de matrícula en 3 años, pero rechaza de forma contundente la eliminación de la segunda plaza, correspondiente al maestro de apoyo en Educación Infantil.\nTanto el AMPA como las familias consideran este puesto esencial para garantizar una atención de calidad en una etapa tan delicada del desarrollo. Pablos subraya que el criterio de la Junta, que impide contar con maestro de apoyo cuando solo hay una línea, perjudica especialmente a las zonas rurales, donde esta situación es habitual.\nLa iniciativa socialista destaca además que la baja natalidad y la despoblación no deben conllevar una merma de recursos educativos, sino al contrario: deben compensarse con medidas que promuevan la igualdad y la cohesión territorial.\nPor ello, el PSOE exige que durante el próximo curso se mantengan al menos cinco de las seis plazas actuales, destinando una al apoyo en Infantil, y recuerda que “aunque solo exista un aula, esta necesita apoyo, sea en un pueblo o en una ciudad”.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Education", "Politics", "Social Issue"],
+  "topics": [
+    "Education->early childhood education",
+    "Education->teachers",
+    "Education->state school",
+    "Politics->government",
+    "Politics->local government and authority",
+    "Politics->education policy",
+    "Social Issue->social services",
+    "Social Issue->children"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Fernando Pablos",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "de Ciudad Rodrigo",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Junta",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "PSOE",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:28:10.168+03:00",
+  "updated": "2025-06-26T11:32:25.000+00:00"
+}

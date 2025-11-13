@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "2e96228407f8358b326c6579a5597f62766052cf",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5087947",
+    "site_full": "news.ltn.com.tw",
+    "site": "ltn.com.tw",
+    "site_section": "https://www.ltn.com.tw",
+    "site_categories": [
+      "media",
+      "top_news_hk",
+      "top_news_nz",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "自由時報電子報",
+    "site_title": null,
+    "title": "中國廣州暨南大學學歷不採認 台生可返台參加轉學考",
+    "title_full": "中國廣州暨南大學學歷不採認 台生可返台參加轉學考",
+    "published": "2025-06-26T13:51:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://img.ltn.com.tw/Upload/news/600/2025/06/26/5087947_1_1.jpg",
+    "performance_score": 0,
+    "domain_rank": 7409,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2e96228407f8358b326c6579a5597f62766052cf",
+  "url": "https://news.ltn.com.tw/news/life/breakingnews/5087947",
+  "ord_in_thread": 0,
+  "author": "自由時報電子報",
+  "published": "2025-06-26T13:51:00.000+03:00",
+  "title": "中國廣州暨南大學學歷不採認 台生可返台參加轉學考",
+  "text": "中國廣州暨南大學學歷不採認 台生可返台參加轉學考\n中國廣州暨南大學學歷自今年6月20公告起不予採認，現就讀廣州暨南大學的我國學生可返台報考轉學考。（記者林曉雲翻攝）\n〔記者林曉雲／台北報導〕中國廣州暨南大學學歷自今（2025）年6月20日起公告不予採認，教育部今（26）日說明，學生現於廣州暨南大學就讀，欲轉學回台就讀大學，可依同等學力規定，於寒暑假期間，向我國各大學報考學士班轉學考試。\n中國華僑大學、廣州暨南大學及北京華文學院，由中國共產黨中央統戰部直接管轄，肩負包括對付台灣的統戰任務，不是一般大學，教育部明文禁止我國大學及高中職與該3校交流合作，中國華僑大學和北京華文學院的學歷原本就不採認，廣州暨南大學學歷則自今年6月20日公告起不予採認。\n教育部委託中興大學辦理「中國大學學歷甄試網」指，廣州暨南大學自2019年起改由中國統戰部管轄，考量台灣學生學習場域不應該有特定政治目的，並為確保學生在正常的學術環境中學習，故自認可名冊中移除該校，6月20日起入學該校者，所獲學歷將不予採認；現已入學學生或畢業學生如符合規定仍可申請採認。\n現讀廣州暨南大學的我國學生，可參加我國大學的學士班轉學考試，由各校單獨招生，如果在學期中返台，擬申請課程旁聽、隨班附讀等學習銜接需求，因不涉學位取得，依各校規定辦理。\n此外，回國學分抵免部分， 依大學法第28條第1項規定，國內學校應訂定轉學與學分抵免等相關規定，有關學分抵免由各校自訂，現於廣州暨南大學就讀之學生所持學分，轉入國內學校之後，須依各校學則辦理。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->students",
+    "Education->college and university",
+    "Education->educational grading",
+    "Social Issue->social problem",
+    "Social Issue->social services",
+    "Social Issue->immigration"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_hk", "top_news_nz", "top_news_tw", "top_news"],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:01:26.419+03:00",
+  "updated": "2025-06-27T11:12:05.000+00:00"
+}

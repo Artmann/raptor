@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "ee37f9e861897647449226fe44b2c580173f78d0",
+    "url": "https://www.europapress.es/andalucia/noticia-acertante-sorihuela-guadalimar-jaen-premiado-mas-millon-euros-primitiva-20250123230603.html",
+    "site_full": "www.europapress.es",
+    "site": "europapress.es",
+    "site_section": "https://www.europapress.es/noticias/",
+    "site_categories": ["media", "top_news_es", "top_news_pe", "top_news"],
+    "section_title": "\r\n\t Últimas Noticias - EUROPA PRESS\r\n",
+    "title": "Un acertante de Sorihuela de Guadalimar (Jaén), premiado con más de un millón de euros en la Primitiva",
+    "title_full": "Un acertante de Sorihuela de Guadalimar (Jaén), premiado con más de un millón de euros en la Primitiva",
+    "published": "2025-01-24T00:06:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://img.europapress.es/fotoweb/fotonoticia_20250123230603_1200.jpg",
+    "performance_score": 0,
+    "domain_rank": 2616,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ee37f9e861897647449226fe44b2c580173f78d0",
+  "url": "https://www.europapress.es/andalucia/noticia-acertante-sorihuela-guadalimar-jaen-premiado-mas-millon-euros-primitiva-20250123230603.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Europa Press Andalucía",
+  "published": "2025-01-24T00:06:00.000+02:00",
+  "title": "Un acertante de Sorihuela de Guadalimar (Jaén), premiado con más de un millón de euros en la Primitiva",
+  "text": "SORIHUELA DE GUADALIMAR (JAÉN), 23 (EUROPA PRESS) Un acertante de Sorihuela de Guadalimar (Jaén), recibirá 1.317.534,76 euros por un premio de primera categoría --seis aciertos-- en el sorteo de la Primitiva celebrado este jueves, según la información facilitada a Europa Press por Loterías y Apuestas del Estado.\nEl boleto, sellado en el despacho receptor número 41.420 de la localidad jiennense, situado en la avenida Juan Carlos I, 66; corresponde al único acertante de primera categoría en el sorteo del jueves que ha caído en el territorio andaluz.\nLa combinación ganadora ha sido la formada por los números 15, 02, 12, 26, 19 y 41, con el 42 como complementario y el 4 como reintegro. La recaudación del sorteo ha ascendido a 11.773.175,00 euros.\nLeer más acerca de:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Human Interest",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Economy, Business and Finance->financial and economic news",
+    "Human Interest->award and prize",
+    "Lifestyle and Leisure->gaming and lottery"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Juan Carlos I",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "JAÉN",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Europa Press",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Jaén",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:11:27.701+02:00",
+  "updated": "2025-01-24T00:11:27.701+02:00"
+}

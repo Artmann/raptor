@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "2ddb70e6764f73b3cdda5e7f2a05f2b0b93b5bfb",
+    "url": "https://www.archyde.com/a-man-found-in-the-landing-gear-of-a-plane-at-orly/",
+    "site_full": "www.archyde.com",
+    "site": "archyde.com",
+    "site_section": "https://www.archyde.com/feed",
+    "site_categories": ["media"],
+    "section_title": "Archyde",
+    "title": "A man found in the landing gear of a plane at Orly",
+    "title_full": "A man found in the landing gear of a plane at Orly",
+    "published": "2023-12-29T00:52:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.lemde.fr/2023/08/18/0/39/946/631/1440/960/60/0/da24910_1692360248941-000-sapa970425421580.jpg",
+    "performance_score": 0,
+    "domain_rank": 18781,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2ddb70e6764f73b3cdda5e7f2a05f2b0b93b5bfb",
+  "url": "https://www.archyde.com/a-man-found-in-the-landing-gear-of-a-plane-at-orly/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "archyde",
+  "published": "2023-12-29T00:52:00.000+02:00",
+  "title": "A man found in the landing gear of a plane at Orly",
+  "text": "2023-12-28 17:57:47\nA young man in “severe hypothermia” was discovered Thursday, December 28 late in the morning at Orly airport in the landing gear of an Air Algérie flight arriving from Oran, Agence France-Presse learned from the Créteil prosecutor’s office. This is a person without identity documents and whose age is estimated between 20 and 30 years old, he said.\nThe man was transported in serious condition to Henri-Mondor hospital in Créteil, according to the prosecution, which specified that the air transport gendarmerie (GTA) was in charge of the investigation.\nEarlier Thursday, an airport source explained that the young man was “alive but in absolute emergency because of severe hypothermia”. The GTA has confirmed a “seriously injured person” at Orly, without further details immediately.\nA mortality rate of 77%\nSeveral cases of stowaways hidden in the landing gear of planes, unheated or pressurized spaces, have marked the news in recent years. In April, the body of a man was found at Amsterdam-Schiphol upon the arrival of a plane from Toronto (Canada), but apparently had previously passed through Nigeria. Four months earlier, two stowaways, also dead, were discovered hidden in the storage space of the landing gear of a plane coming from Santiago de Chile to Bogota.\nAt the cruising altitude of commercial aircraft, 12 kilometers, the air temperature plunges below −50°C, while the lack of oxygen can be fatal.\nAccording to global statistics from the American Civil Aviation Authority (FAA) cited in January 2022 by the New York Times, between 1947 and 2021, 132 people attempted to travel clandestinely by hiding in airplane landing gears. One hundred and two of them died, a mortality rate of 77%, according to the same source.\n1703803929\n#man #landing #gear #plane #Orly",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Disaster and Accident", "Human Interest"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "henri-mondor",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "air algérie",
+        "sentiment": "none"
+      },
+      {
+        "name": "agence france-presse",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "orly",
+        "sentiment": "none"
+      },
+      {
+        "name": "canada",
+        "sentiment": "none"
+      },
+      {
+        "name": "oran",
+        "sentiment": "none"
+      },
+      {
+        "name": "amsterdam",
+        "sentiment": "none"
+      },
+      {
+        "name": "schiphol",
+        "sentiment": "none"
+      },
+      {
+        "name": "créteil",
+        "sentiment": "none"
+      },
+      {
+        "name": "toronto",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:58:08.285+02:00",
+  "updated": "2023-12-29T00:58:08.285+02:00"
+}

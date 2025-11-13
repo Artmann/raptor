@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "864623557b07b82270228e5ecea39b6ce6874dfe",
+    "url": "https://gothamist.com/news/it-was-a-rough-june-cember-at-nyc-schools-heres-why",
+    "site_full": "gothamist.com",
+    "site": "gothamist.com",
+    "site_section": "https://news.google.com/search?q=at%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "Gothamist: New York City Local News, Food, Arts &amp; Events",
+    "title": "It was a rough 'June-cember' at NYC schools. Here's why. - Gothamist",
+    "title_full": "It was a rough 'June-cember' at NYC schools. Here's why. - Gothamist",
+    "published": "2025-06-26T13:37:42.722+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://api-prod.gothamist.com/images/352054/fill-1200x650|format-webp|webpquality-85/",
+    "performance_score": 0,
+    "domain_rank": 3188,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "864623557b07b82270228e5ecea39b6ce6874dfe",
+  "url": "https://gothamist.com/news/it-was-a-rough-june-cember-at-nyc-schools-heres-why",
+  "ord_in_thread": 0,
+  "author": "Jessica Gould",
+  "published": "2025-06-26T13:37:42.722+03:00",
+  "title": "It was a rough 'June-cember' at NYC schools. Here's why. - Gothamist",
+  "text": "Advertisements\nAdvertising Space – “Top”: $100 per month\nHolidays, heat, a barrage of field trips, standardized testing and fears over immigration enforcement could be to blame. Advertisements\nAdvertising Space – “Middle”: $75 per month",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->school",
+    "Education->students",
+    "Education->upper secondary education",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.nydailynews.com/2025/02/04/adams-attempts-to-downplay-fears-nyc-immigrant-children-are-skipping-school/",
+    "https://www.chalkbeat.org/newyork/2024/11/04/new-york-plans-to-end-regents-exam-requirement-by-2027-2028-school-year/#:~:text=Sign%20up%20for%20Chalkbeat%20New,timeline%20state%20officials%20unveiled%20Monday.",
+    "https://www.chalkbeat.org/newyork/2025/06/03/principals-frustrated-over-last-minute-pivot-to-remote-for-school-staff-on-clerical-day/",
+    "https://nydailynews.com/2025/02/04/adams-attempts-to-downplay-fears-nyc-immigrant-children-are-skipping-school/",
+    "https://chalkbeat.org/newyork/2024/11/04/new-york-plans-to-end-regents-exam-requirement-by-2027-2028-school-year/#:~:text=Sign%20up%20for%20Chalkbeat%20New,timeline%20state%20officials%20unveiled%20Monday.",
+    "https://www.chalkbeat.org/newyork/2025/06/03/principals-frustrated-over-last-minute-pivot-to-remote-for-school-staff-on-clerical-day",
+    "https://chalkbeat.org/newyork/2025/06/03/principals-frustrated-over-last-minute-pivot-to-remote-for-school-staff-on-clerical-day/",
+    "https://www.nydailynews.com/2025/02/04/adams-attempts-to-downplay-fears-nyc-immigrant-children-are-skipping-school"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "864623557b07b82270228e5ecea39b6ce6874dfe",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T13:37:42.722+03:00",
+  "updated": "2025-06-26T15:02:32.355+03:00"
+}

@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "f0685bb5b170c5db284410304bfba20b19972a61",
+    "url": "https://www.wect.com/video/2025/05/07/scheduled-water-outage-support-blake-farms-pender-county-2",
+    "site_full": "www.wect.com",
+    "site": "wect.com",
+    "site_section": "https://news.google.com/search?q=in%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "WECT TV6: News and Weather for Wilmington, NC",
+    "title": "Scheduled water outage to support Blake Farms in Pender County",
+    "title_full": "Scheduled water outage to support Blake Farms in Pender County",
+    "published": "2025-05-08T01:06:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-wect-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F05-07-2025%2Ft_4bc2d92b824d466788b431a94d326447_name_MGN_1280x960_90712C00_XQWUI.jpg?auth=135e8c0173ab06320d6a018fe10c57beb7413ffa13bebd57f0a334cf68dec212&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 17694,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f0685bb5b170c5db284410304bfba20b19972a61",
+  "url": "https://www.wect.com/video/2025/05/07/scheduled-water-outage-support-blake-farms-pender-county-2",
+  "ord_in_thread": 0,
+  "author": "@wectnews",
+  "published": "2025-05-08T01:06:00.000+03:00",
+  "title": "Scheduled water outage to support Blake Farms in Pender County",
+  "text": "Updated: 54 minutes ago\n“This poses serious safety risks, including fire, battery explosions and toxic fumes.\"\nUpdated: 1 hour ago\nCustomers have been experiencing periods of low pressure and outages after a water main break.\nUpdated: 3 hours ago\nThe fourth annual Bryson’s Buddies Games will be held next week in honor of a New Hanover High School student who lost his life to suicide.\nUpdated: 4 hours ago\nHe is currently being held without bond at the NHSO Detention Center.\nUpdated: 4 hours ago\nNorth Carolina was found to rank No. 5 behind California, Florida, Texas, and New York in domestic visitation.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue"],
+  "topics": [
+    "Environment->water",
+    "Environment->environmental pollution",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Bryson",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Pender County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "NHSO Detention Center",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:28:40.237+03:00",
+  "updated": "2025-05-07T23:31:51.000+00:00"
+}

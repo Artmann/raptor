@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "8eb747f0fb6374484ebc5888cd9355e2213a3bf3",
+    "url": "https://article.wn.com/view/2025/01/23/Chargers_Joey_Bosa_named_to_Pro_Bowl_replacing_injured_teamm_d",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/football",
+    "site_categories": ["media"],
+    "section_title": "World News - Football",
+    "title": "Chargers' Joey Bosa named to Pro Bowl, replacing injured teammate Khalil Mack - Worldnews.com",
+    "title_full": "Chargers' Joey Bosa named to Pro Bowl, replacing injured teammate Khalil Mack - Worldnews.com",
+    "published": "2025-01-23T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3682,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8eb747f0fb6374484ebc5888cd9355e2213a3bf3",
+  "url": "https://article.wn.com/view/2025/01/23/Chargers_Joey_Bosa_named_to_Pro_Bowl_replacing_injured_teamm_d",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2025-01-23T02:00:00.000+02:00",
+  "title": "Chargers' Joey Bosa named to Pro Bowl, replacing injured teammate Khalil Mack - Worldnews.com",
+  "text": "Joey Bosa was named Thursday by the NFL to replace fellow Chargers outside linebacker Khalil Mack for the 2025 Pro Bowl Games next month in Orlando, Florida. Mack was unable to participate because of an unspecified injury, the Chargers said in an email announcing Bosa’s selection. Bosa was selected for the fifth time in",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->american football",
+    "Human Interest->award and prize",
+    "Lifestyle and Leisure->game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Joey Bosa",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Mack",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "NFL",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Chargers",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:11:18.268+02:00",
+  "updated": "2025-01-24T00:11:18.268+02:00"
+}

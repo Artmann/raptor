@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "e14b1309f9b1e197414f91bb59e6bfa334a840bc",
+    "url": "https://www.ksjbam.com/2025/10/16/south-dakota-farm-thriving-with-high-tunnel-farming/",
+    "site_full": "www.ksjbam.com",
+    "site": "ksjbam.com",
+    "site_section": "https://news.google.com/search?q=am%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "KSJB AM 600",
+    "title": "South Dakota Farm Thriving with High Tunnel Farming",
+    "title_full": "South Dakota Farm Thriving with High Tunnel Farming",
+    "published": "2025-10-16T16:06:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2956/files/2025/10/high-tunnel.jpg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e14b1309f9b1e197414f91bb59e6bfa334a840bc",
+  "url": "https://www.ksjbam.com/2025/10/16/south-dakota-farm-thriving-with-high-tunnel-farming/",
+  "ord_in_thread": 0,
+  "author": "Ryan King",
+  "published": "2025-10-16T16:06:00.000+03:00",
+  "title": "South Dakota Farm Thriving with High Tunnel Farming",
+  "text": "Cedar Creek Gardens, located in southwest South Dakota, stays productive long after most farms shut down for the winter thanks to its use of plastic-covered high tunnels.\nThe tunnels trap solar heat, allowing crops like tomatoes, peppers, onions, kale, and lettuce to grow directly in the soil even during freezing weather. What began as a small family project in the early 2000s has grown into one of the largest specialty farms west of the Missouri River.\nThe tunnels extend the growing season by several months, improve crop quality, and increase profits—one tunnel of tomato plants can bring in over $20,000 per season. Support from the USDA’s Natural Resources Conservation Service helps farmers install tunnels through cost-sharing programs that promote soil conservation and water efficiency.\nPhoto Credit: The USDA",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment", "Lifestyle and Leisure"],
+  "topics": [
+    "Environment->flowers and plants",
+    "Environment->nature",
+    "Environment->sustainability",
+    "Lifestyle and Leisure->hobby"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Cedar Creek Gardens",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "USDA",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Jamestown"],
+      "state": ["North Dakota"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:14:01.859+03:00",
+  "updated": "2025-10-16T16:28:56.000+03:00"
+}

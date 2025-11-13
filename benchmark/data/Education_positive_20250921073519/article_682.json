@@ -1,0 +1,118 @@
+{
+  "thread": {
+    "uuid": "122ea5fbb5456943dc69fe0a55d30bda02784d7b",
+    "url": "https://www.ktvb.com/article/news/education/idaho-launches-new-special-education-programs-aid-families-educators/277-3698f29b-e8c3-48bf-a2dd-3fbd84c9286a",
+    "site_full": "www.ktvb.com",
+    "site": "ktvb.com",
+    "site_section": "https://ktvb.com/watch",
+    "site_categories": ["society", "travel", "by_us_locale", "dating"],
+    "section_title": "Watch | KTVB Live and On-Demand Videos | Boise, Idaho | ktvb.com",
+    "site_title": "Boise&#x27;s Leading Local News: Weather, Traffic, Sports and more | Boise, Idaho | ktvb.com",
+    "title": "Idaho launches mentorship for special education families | ktvb.com",
+    "title_full": "Idaho launches mentorship for special education families | ktvb.com",
+    "published": "2025-09-18T01:14:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.ktvb.com/assets/KTVB/images/30021584-5547-4b1e-bd6f-c10b45e0efd3/20250918T041727/30021584-5547-4b1e-bd6f-c10b45e0efd3_1140x641.jpg",
+    "performance_score": 0,
+    "domain_rank": 32427,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "122ea5fbb5456943dc69fe0a55d30bda02784d7b",
+  "url": "https://www.ktvb.com/article/news/education/idaho-launches-new-special-education-programs-aid-families-educators/277-3698f29b-e8c3-48bf-a2dd-3fbd84c9286a",
+  "ord_in_thread": 0,
+  "author": "Abby Davis",
+  "published": "2025-09-18T01:14:00.000+03:00",
+  "title": "Idaho launches mentorship for special education families | ktvb.com",
+  "text": "BOISE, Idaho — With more kids entering special education, the Idaho Department of Education wants to make life easier for families and educators.\n\"The number one thing that I am asked about K-12 everywhere in the state is we need more support,\" said Debbie Critchfield, superintendent of public instruction.\nAt the center of these efforts is a pilot mentorship program in Ponderay that pairs families new to special education with experienced advocates, she said. The initiative, developed in partnership with Idaho Parents Unlimited, aims to reduce the isolation many parents feel when first entering the special education system.\n\"Parents often feel very alone and feel as though they don't have someone that has their back,\" Critchfield said. \"It should not be adversarial. Everyone is there for the kid, and when that breaks down, we've got to do something.\"\nAngela Lindig, whose daughter received special education services, understands the challenges firsthand. As the executive director of Idaho Parents Unlimited, Lindig said she helps other families navigate the complex special education system.\n\"So many parents ... our nature is, oh, I don't want somebody else to have to try to figure all that out,\" she said. \"And so, it really moved me into this role here, which we help families navigate systems.\"\nThe mentorship program represents just one part of the state's broader strategy to address mounting pressures in special education. Critchfield said educators are seeing more challenging student behaviors, particularly since the pandemic.\nFruitland paraprofessional Marcie Dickinson supports the efforts.\n\"Actual in time training, where you see, this is what can happen, this is how we should react to it. Definitely, I think it would be better,\" she said.\nCritchfield said they hope to have professional development in place by next fall, though officials have not set a timeline for expanding the pilot mentorship program statewide.\nThe changes come as Critchfield pushes lawmakers for increased special education funding ahead of the next legislative session. She recently requested $50 million in special education grants to help districts bridge the gap between actual costs and state and federal funding.\n\"In the last couple of years, we hear our school leaders come and say, Boy, our costs are really growing in some of these areas. The federal government is where they've always been, but the state needs to come in in greater ways for students,\" she said.\nCritchfield said the financial pressure has intensified with Idaho's decision to cut Medicaid reimbursement rates by 4% this month. Since Medicaid helps cover costs for nursing and specialized services in schools, the reduction means districts and families will need to make up the difference.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->school",
+    "Education->educational grading",
+    "Education->parents group",
+    "Social Issue->disabilities",
+    "Social Issue->social services",
+    "Social Issue->family"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Debbie Critchfield",
+        "sentiment": "none"
+      },
+      {
+        "name": "Angela Lindig",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "BOISE",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Idaho Department of Education",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "122ea5fbb5456943dc69fe0a55d30bda02784d7b",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Idaho City",
+        "Caldwell",
+        "Meridian",
+        "Banks",
+        "Riverside",
+        "Boise",
+        "Nampa",
+        "Eagle"
+      ],
+      "state": ["Idaho"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:50:42.176+03:00",
+  "updated": "2025-09-18T08:55:38.000+03:00"
+}

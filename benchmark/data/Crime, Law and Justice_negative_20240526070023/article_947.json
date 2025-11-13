@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "ee088685248cff663e137c179e72364bbbf1bddb",
+    "url": "https://www.cbc.ca/news/canada/edmonton/alberta-bill-gives-cabinet-power-to-remove-municipal-councillors-change-or-repeal-bylaws-1.7185346",
+    "site_full": "www.cbc.ca",
+    "site": "cbc.ca",
+    "site_section": "https://automotive.einnews.com:443/live_feed",
+    "site_categories": ["media", "top_news"],
+    "section_title": "Live Feed Wire - Automotive Industry Today - EIN Presswire",
+    "title": "Alberta bill gives cabinet power to remove municipal councillors, change or repeal bylaws | CBC News",
+    "title_full": "Alberta bill gives cabinet power to remove municipal councillors, change or repeal bylaws | CBC News",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://i.cbc.ca/1.7185373.1714080318!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ric-mciver.jpg",
+    "performance_score": 0,
+    "domain_rank": 325,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ee088685248cff663e137c179e72364bbbf1bddb",
+  "url": "https://www.cbc.ca/news/canada/edmonton/alberta-bill-gives-cabinet-power-to-remove-municipal-councillors-change-or-repeal-bylaws-1.7185346",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Michelle Bellefontaine",
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "Alberta bill gives cabinet power to remove municipal councillors, change or repeal bylaws | CBC News",
+  "text": "[Edmonton](/news/canada/edmonton)·New Bill 20 also enables creation of municipal parties in Edmonton and Calgary A new bill would give the Alberta government more power over municipalities including granting cabinet the power to remove councillors from office, and forcing councils to repeal bylaws it doesn't like. Bill 20, the Municipal Affairs Statutes Amendment, was tabled in the legislature Thursday afternoon. The bill would allow the creation of municipal political parties, but it comes in the form of a pilot project only affecting Edmonton in Calgary. Bill 20 goes much further by proposing many other changes to the Local Authorities Election Act and the Municipal Government Act to reinforce the province's authority over municipalities. If passed, the bill would allow cabinet to call a public referendum on the fate of a municipal councillor, or go as far as to unilaterally remove them from office if it is deemed in the public interest. There are no legislative guardrails or limits for when that can happen but the decision can be appealed to the Court of King's Bench. Municipal Affairs Minister Ric McIver insisted that provision would be rarely used. \"First of all, I hope it never has to happen. But second of all, if it does, then it will be incumbent upon cabinet to have a really good explanation for the public,\" he told reporters at a news conference prior to the bill's introduction. \"I think the public will judge cabinet kindly or harshly depending upon the facts and the circumstances around when this decision is made.\" Cabinet has had the power to force municipal councils to amend or repeal land-use bylaws and statutory plans for 30 years. Bill 20 extends that power to all bylaws passed by councils. McIver said the current amendment power has never been used so the public shouldn't worry about the government having an \"itchy trigger finger.\" Cabinet would also gain the ability to tell municipalities what to do in protecting public health and safety, although the government already exercised that authority in 2022 when it prohibited cities and towns from passing or extending their own masking bylaws. Other measures proposed in Bill 20 include: - Allowing unions and corporations to make donations of up to $5,000 to municipal candidates, a measure that was outlawed for provincial candidates in 2015. - Banning the use of electronic voting machines like tabulators in municipal elections. - Limiting the practice of vouching only to confirming someone's address, not their identity and age as currently allowed. - Giving the municipal affairs minister the power to validate recall petitions, not a municipality's CAO who reports directly to council. This was something requested by smaller municipalities. - Allowing the province to make regulations to postpone elections in the case of an emergency or natural disaster such as a wildfire. - Making orientation training mandatory for councillors. - Giving municipalities the power to require criminal record checks for candidates. However, this provision is not mandatory. - Exempt non-profit subsidized affordable housing from paying property taxes. - Prohibiting municipalities from holding more public hearings than legally required. This measure prevents municipal councils from purposefully delaying initiatives. - Municipalities will be limited in how they can ask developers for non-statutory studies. Municipal political parties would not be allowed to have the same name or formal affiliations with provincial or federal parties. If the bill is passed, the province plans to develop regulations by consulting with municipalities in the upcoming months. The next province-wide municipal elections are scheduled to take place in October 2025.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Politics"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "bill",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "court of king",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "alberta",
+        "sentiment": "none"
+      },
+      {
+        "name": "edmonton",
+        "sentiment": "none"
+      },
+      {
+        "name": "calgary",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:47:02.434+03:00",
+  "updated": "2024-04-26T01:22:26.659+03:00"
+}

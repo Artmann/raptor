@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "bbf831f005b841158351d114e152c6ffc2b7187b",
+    "url": "https://kaluga.aif.ru/society/details/v-kaluge-poyavitsya-shkola-dlya-yunyh-yuristov",
+    "site_full": "kaluga.aif.ru",
+    "site": "aif.ru",
+    "site_section": "https://kaluga.aif.ru/news",
+    "site_categories": ["media", "top_news_ru", "top_news"],
+    "section_title": "Последние новости Калуги и Калужской области на | АиФ-Калуга",
+    "site_title": "АиФ Калуга : объясняем, что происходит | новости, комментарии, истории, ответы на вопросы, инструкции",
+    "title": "В Калуге появится школа для юных юристов | АиФ Калуга",
+    "title_full": "В Калуге появится школа для юных юристов | АиФ Калуга",
+    "published": "2025-09-18T05:10:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://aif-s3.aif.ru/images/043/188/58250cc2db9d5764395f8cd558e46fc7.webp",
+    "performance_score": 0,
+    "domain_rank": 3948,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bbf831f005b841158351d114e152c6ffc2b7187b",
+  "url": "https://kaluga.aif.ru/society/details/v-kaluge-poyavitsya-shkola-dlya-yunyh-yuristov",
+  "ord_in_thread": 0,
+  "author": "@aifonline",
+  "published": "2025-09-18T05:10:00.000+03:00",
+  "title": "В Калуге появится школа для юных юристов | АиФ Калуга",
+  "text": "Расположится она школа на базе Калужского дома юристов. Ее учениками могут стать школьник 10 и 11 классов.\nКак сообщают в региональном минобре, занятия для ребят будут проводить ведущие практики и руководители правоохранительных органов Калужской области. Обучение будет бесплатным. Поступление в школу осуществляется по результатам собеседования с конкурсной комиссией.\nСобеседование состоится 23 сентября в 16:00 в главном корпусе КГУ в зале импрессионистов. Более подробную информацию об этом можно посмотреть в соцсетях министерства образования.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->upper secondary education",
+    "Education->school",
+    "Education->students",
+    "Social Issue->children",
+    "Social Issue->demographics",
+    "Social Issue->social services",
+    "Human Interest->graduation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ru", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:12:15.386+03:00",
+  "updated": "2025-09-19T09:05:59.000+03:00"
+}

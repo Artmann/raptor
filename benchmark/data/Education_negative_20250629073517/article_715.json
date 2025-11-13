@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "ebfcf97327811312fcbe937f41b397509ed91d8f",
+    "url": "https://article.wn.com/view/2025/06/26/Forcing_schools_to_enrol_SEN_pupils_unacceptable",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/europe",
+    "site_categories": ["media"],
+    "section_title": "World News - Europe",
+    "site_title": "World News",
+    "title": "Forcing schools to enrol SEN pupils 'unacceptable' - Worldnews.com",
+    "title_full": "Forcing schools to enrol SEN pupils 'unacceptable' - Worldnews.com",
+    "published": "2025-06-26T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3835,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ebfcf97327811312fcbe937f41b397509ed91d8f",
+  "url": "https://article.wn.com/view/2025/06/26/Forcing_schools_to_enrol_SEN_pupils_unacceptable",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T03:00:00.000+03:00",
+  "title": "Forcing schools to enrol SEN pupils 'unacceptable' - Worldnews.com",
+  "text": "A new autism watchdog says schools are worried they may not be able to meet the needs of SEN pupils. read full story",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->school",
+    "Education->teachers",
+    "Education->students",
+    "Social Issue->social services",
+    "Social Issue->disabilities",
+    "Human Interest->human mishap"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.bbc.com/news/articles/c78nelv35zdo",
+    "https://bbc.com/news/articles/c78nelv35zdo"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:17:30.407+03:00",
+  "updated": "2025-06-26T11:21:37.000+00:00"
+}

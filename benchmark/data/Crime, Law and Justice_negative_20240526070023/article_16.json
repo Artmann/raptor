@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "434c655d355786ef4f4c39b38955b8ab75f8e692",
+    "url": "https://lwn.net/Articles/971081",
+    "site_full": "lwn.net",
+    "site": "lwn.net",
+    "site_section": "https://lwn.net/headlines/Comments",
+    "site_categories": ["unix", "tech"],
+    "section_title": "LWN.net comments",
+    "title": "GitHub comments used to distribute malware (BleepingComputer)",
+    "title_full": "GitHub comments used to distribute malware (BleepingComputer)",
+    "published": "2024-04-25T17:02:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3734,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "434c655d355786ef4f4c39b38955b8ab75f8e692",
+  "url": "https://lwn.net/Articles/971081",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Karellen",
+  "published": "2024-04-25T17:02:00.000+03:00",
+  "title": "GitHub comments used to distribute malware (BleepingComputer)",
+  "text": "GitHub comments used to distribute malware (BleepingComputer)\nGitHub comments used to distribute malware (BleepingComputer)Posted Apr 25, 2024 9:02 UTC (Thu) by Karellen (subscriber, #67644)\nIn reply to:\n[GitHub comments used to distribute malware (BleepingComputer)](/Articles/971079/)by taladar\nParent article:\n[GitHub comments used to distribute malware (BleepingComputer)](/Articles/971008/)\nIf people can't access the \"post a comment\" UI for a repo, how are they going to upload a file associated with a comment to it?\n(\nLog into post comments)\nGitHub comments used to distribute malware (BleepingComputer)\nPosted Apr 25, 2024 9:08 UTC (Thu) by NAR (subscriber, #1313)\n[\n[Link](/Articles/971082/)]\nExactly, how are they going to upload e.g. a screenshot for a comment? Which is really useful for GUIs...\nGitHub comments used to distribute malware (BleepingComputer)\nPosted Apr 25, 2024 10:00 UTC (Thu) by sidcha (subscriber, #153938)\n[\n[Link](/Articles/971085/)]\nThey (attacker) would just use another project that allows comments.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Science and Technology"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "karellen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "nar",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:01:23.890+03:00",
+  "updated": "2024-04-26T00:01:23.890+03:00"
+}

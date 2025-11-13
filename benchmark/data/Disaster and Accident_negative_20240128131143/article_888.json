@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "b359010f7b8d19b2aa63b42c95d3ebe546bfa74e",
+    "url": "https://www.dailyexcelsior.com/dense-fog-forces-diversion-of-nearly-60-flights-at-delhi-airport-in-three-days/",
+    "site_full": "www.dailyexcelsior.com",
+    "site": "dailyexcelsior.com",
+    "site_section": "https://dailyexcelsior.com/national-news",
+    "site_categories": ["media", "education", "business"],
+    "section_title": "National News | India | Politics | Business | Trending News - Daily Excelsior",
+    "title": "Dense fog forces diversion of nearly 60 flights at Delhi airport in three days - DailyExcelsior",
+    "title_full": "Dense fog forces diversion of nearly 60 flights at Delhi airport in three days - DailyExcelsior",
+    "published": "2023-12-28T18:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2023/12/Delhi-Airport.jpg",
+    "performance_score": 0,
+    "domain_rank": 37704,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b359010f7b8d19b2aa63b42c95d3ebe546bfa74e",
+  "url": "https://www.dailyexcelsior.com/dense-fog-forces-diversion-of-nearly-60-flights-at-delhi-airport-in-three-days/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Daily Excelsior",
+  "published": "2023-12-28T18:30:00.000+02:00",
+  "title": "Dense fog forces diversion of nearly 60 flights at Delhi airport in three days - DailyExcelsior",
+  "text": "NEW DELHI, Dec 28 : Flight operations continued to be impacted by dense fog at the Delhi airport for the third day on Thursday, with nearly 60 flights getting diverted and scores getting delayed during this period. Airport sources said a total of 58 flights, the majority of them operated by domestic carriers, were diverted due to bad weather between 0000 hours of December 25 to 0600 hours of December 28. Most of the flights had to be diverted, as the pilots were not trained to operate flights in low visibility conditions, the sources claimed. As many as 13 flights of IndiGo were diverted while 10 flights each of Air India and SpiceJet were diverted during the period. Among others, 5 flights of Vistara, 3 flights of Akasa Air and 2 flights of Alliance Air were diverted at the Delhi airport. The flights were diverted to Jaipur, Lucknow and Indore, among other airports. On Wednesday, Delhi airport issued a fog alert on social media platform X. “While landing and takeoffs continue at Delhi Airport, flights that are not CAT III compliant may get affected. “Passengers are requested to contact the airline concerned for updated flight information. Any inconvenience caused is deeply regretted,” it had said. Similar alerts were issued on Tuesday also. CAT III pertains to flight operations in low visibility conditions. The Delhi airport is the country’s largest airport and handles more than 1,300 flights daily. In the past few days, the national capital has been witnessing dense fog, especially in the early morning hours. (PTI)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Weather", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "spicejet",
+        "sentiment": "none"
+      },
+      {
+        "name": "akasa air",
+        "sentiment": "none"
+      },
+      {
+        "name": "air india",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "delhi",
+        "sentiment": "none"
+      },
+      {
+        "name": "new delhi",
+        "sentiment": "none"
+      },
+      {
+        "name": "lucknow",
+        "sentiment": "none"
+      },
+      {
+        "name": "vistara",
+        "sentiment": "none"
+      },
+      {
+        "name": "jaipur",
+        "sentiment": "none"
+      },
+      {
+        "name": "indore",
+        "sentiment": "none"
+      },
+      {
+        "name": "delhi airport",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:24:47.139+02:00",
+  "updated": "2023-12-29T01:24:47.139+02:00"
+}

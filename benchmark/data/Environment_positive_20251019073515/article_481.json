@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "55955ce32aeff64166730bd06c7efa6deccf39ed",
+    "url": "https://vlad.aif.ru/society/v-oblasti-vpervye-za-dolgoe-vremya-ne-bylo-krupnyh-lesnyh-pozharov",
+    "site_full": "vlad.aif.ru",
+    "site": "aif.ru",
+    "site_section": "https://vlad.aif.ru",
+    "site_categories": ["media", "top_news_ru", "top_news"],
+    "section_title": "Новости и события дня во Владимире и Владимирской области на | vlad.aif.ru",
+    "site_title": "Новости и события дня во Владимире и Владимирской области на | vlad.aif.ru",
+    "title": "В области впервые за долгое время не было крупных лесных пожаров | АиФ Владимир",
+    "title_full": "В области впервые за долгое время не было крупных лесных пожаров | АиФ Владимир",
+    "published": "2025-10-16T08:50:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://aif-s3.aif.ru/images/043/564/1349b23f5ccf3a632867ec0f2b9ea703.webp",
+    "performance_score": 0,
+    "domain_rank": 3948,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "55955ce32aeff64166730bd06c7efa6deccf39ed",
+  "url": "https://vlad.aif.ru/society/v-oblasti-vpervye-za-dolgoe-vremya-ne-bylo-krupnyh-lesnyh-pozharov",
+  "ord_in_thread": 0,
+  "author": "@aifonline",
+  "published": "2025-10-16T08:50:00.000+03:00",
+  "title": "В области впервые за долгое время не было крупных лесных пожаров | АиФ Владимир",
+  "text": "Владимирская область успешно завершила пожароопасный сезон 2025 года. Главный итог – ни одного крупного лесного пожара не допущено. Сезон, начавшийся 1 апреля, официально завершился 15 октября.\nВсего за этот период в лесах региона было зарегистрировано 36 возгораний, что значительно меньше, чем в прошлом году (в 2024 году их было 77). Общая площадь, пройденная огнем, составила всего 19,59 гектара, сообщили в областном правительстве.\nДля контроля за ситуацией власти задействовали передовые технологии. 60 видеокамер системы «Лесохранитель» с программой «Пожарный сторож» следили за лесами. Использовались самолеты и вертолеты Владимирской авиабазы, а также 34 беспилотника для патрулирования. Мобильные группы лесхоза регулярно объезжали леса по 245 маршрутам.\nБлагодаря поддержке губернатора Александра Авдеева, в этом году лесничества получили дополнительное оснащение – 13 единиц новой лесопатрульной техники на сумму 20,3 миллиона рублей.\nВласти также активно боролись с нарушителями. За сезон было составлено 232 протокола об административных правонарушениях. Общая сумма штрафов превысила 1,4 миллиона рублей, из них 406 тысяч рублей — за нарушение правил пожарной безопасности в лесах.\nОперативные новости и интересные материалы — в наших соцсетях Вконтакте и ОК.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->nature", "Environment->sustainability"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://avo.ru/-/krupnyh-lesnyh-pozarov-vo-vladimirskoj-oblasti-v-2025-godu-ne-dopuseno?redirect=%2Fweb%2Fguest%2Fnovosti",
+    "https://ok.ru/aif.novostivladimira",
+    "https://vk.com/vlad_aif?from=groups",
+    "https://vk.com/vlad_aif",
+    "https://www.avo.ru/-/krupnyh-lesnyh-pozarov-vo-vladimirskoj-oblasti-v-2025-godu-ne-dopuseno?redirect=%2Fweb%2Fguest%2Fnovosti",
+    "https://www.ok.ru/aif.novostivladimira",
+    "https://www.vk.com/vlad_aif?from=groups",
+    "https://avo.ru/-/krupnyh-lesnyh-pozarov-vo-vladimirskoj-oblasti-v-2025-godu-ne-dopuseno"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ru", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:55:43.010+03:00",
+  "updated": "2025-10-17T15:05:46.000+03:00"
+}

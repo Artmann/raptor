@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "c0f236ce805e857ca23370a7cdbbc4a3f1f99ddf",
+    "url": "https://finance.sina.com.cn/jjxw/2025-06-19/doc-infaqrft3931969.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "https://finance.sina.cn",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪财经_金融信息服务商",
+    "site_title": null,
+    "title": "亚太主要股指午间全线下跌，韩国综合指数跌0.27%|韩国_新浪财经_新浪网",
+    "title_full": "亚太主要股指午间全线下跌，韩国综合指数跌0.27%|韩国_新浪财经_新浪网",
+    "published": "2025-06-19T06:39:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c0f236ce805e857ca23370a7cdbbc4a3f1f99ddf",
+  "url": "https://finance.sina.com.cn/jjxw/2025-06-19/doc-infaqrft3931969.shtml",
+  "ord_in_thread": 0,
+  "author": "澎湃新闻",
+  "published": "2025-06-19T06:39:00.000+03:00",
+  "title": "亚太主要股指午间全线下跌，韩国综合指数跌0.27%|韩国_新浪财经_新浪网",
+  "text": "6月19日，截至11:30，亚太主要股指全线下跌。\n日经225指数跌0.63%报38639.84点，成分股多数下跌，其中20只个股涨幅超1%，71只个股跌幅超1%。权重股方面，索尼跌2.8%，东京电子跌1.86%，基恩士跌1.66%，丰田汽车跌1.58%。涨幅方面，任天堂涨1.09%，刷新历史新高，软银集团涨0.83%，三菱重工涨0.74%，软银公司涨0.09%。\n韩国综合指数跌0.27%报2964.13点，成分股多数下跌，其中111只个股涨幅超1%，218只个股跌幅超1%。权重股方面，斗山能源跌2.13%，现代摩比斯跌2%，赛尔群跌1.42%，KB金融集团跌1.21%。涨幅方面，Kakao涨9.06%，NaverCorp涨4.11%，浦项制铁涨0.77%，KSOE涨0.68%。\n澳洲标普200指数跌0.03%报8528.6点。新西兰标普50指数跌0.3%报12586.66点。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Social Issue"],
+  "topics": [
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->market and exchange"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_hk", "top_news_sg", "top_news_tw", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:40:03.779+03:00",
+  "updated": "2025-06-20T05:05:57.000+00:00"
+}

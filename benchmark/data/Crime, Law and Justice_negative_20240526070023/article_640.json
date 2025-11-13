@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "ee529726fb720ead22fcf878323bb97da1b5b20c",
+    "url": "https://www.marca.com/en/mlb/new-york-yankees/2024/04/25/662ac79bca4741650d8b45e1.html",
+    "site_full": "www.marca.com",
+    "site": "marca.com",
+    "site_section": "https://www.marca.com/en/?intcmp=botonportada&amp;s_kw=portada",
+    "site_categories": ["world_soccer", "sports"],
+    "section_title": "MARCA - Sports News Today &amp; Live Sports in English",
+    "title": "Umpire who wrongfully ejected Aaron Boone might face consequences after his blunder call | Marca",
+    "title_full": "Umpire who wrongfully ejected Aaron Boone might face consequences after his blunder call | Marca",
+    "published": "2024-04-25T23:14:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://phantom-marca.unidadeditorial.es/160cbf2e7f9c072182bfc1b8fa3908ef/resize/1200/f/webp/assets/multimedia/imagenes/2024/04/25/17140795409673.jpg",
+    "performance_score": 0,
+    "domain_rank": 1767,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ee529726fb720ead22fcf878323bb97da1b5b20c",
+  "url": "https://www.marca.com/en/mlb/new-york-yankees/2024/04/25/662ac79bca4741650d8b45e1.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "LW",
+  "published": "2024-04-25T23:14:00.000+03:00",
+  "title": "Umpire who wrongfully ejected Aaron Boone might face consequences after his blunder call | Marca",
+  "text": "Last Monday, Yankees manager Aaron Boone got ejected in a pretty unusual way during that day's game against the Oakland Athletics after a fan shouted and talked trash to home umpire Hunter Wendelstedt, who thought it was the Yankees skipper who said it and ejected him.\nUnderstandably, Boone was not pleased with this turn of events . It's a situation that could have happened to anyone, and it's unfortunate that Wendelstedt might face consequences for a mistake that wasn't his fault.\nAs Mark W. Sanchez of The New York Post reports, Major League Baseball was less than pleased with Wendelstedt's handling of the situation. While he may not face immediate penalties, the incident could have long-term implications for his career, potentially affecting future assignments and opportunities.\nWendelstedt might face consequences after all SNY revealed on Wednesday that MLB conducts thorough evaluations of every umpire's performance. These assessments, used to determine playoff assignments and All-Star selections, ensure a fair and balanced approach. Unfortunately, Wendelstedt's alleged poor performance may result in missed opportunities.\nThere has been a growing concern about the performance of umpires since the start of the season. Fans, players, and coaches alike have been vocal about questionable calls and poor performances from notable umpires such as Angel Hernández.\nWhile umpires are expected to make some mistakes, the frequency of such errors this season has raised concerns and put these officials under a microscope.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Human Interest", "Sport"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://twitter.com/USER_ID/status/1782457399254593959",
+    "https://twitter.com/USER_ID/status/1782994331709952302",
+    "https://www.twitter.com/USER_ID/status/1782457399254593959",
+    "https://www.twitter.com/USER_ID/status/1782994331709952302"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "aaron boone",
+        "sentiment": "negative"
+      },
+      {
+        "name": "wendelstedt",
+        "sentiment": "none"
+      },
+      {
+        "name": "mark w. sanchez",
+        "sentiment": "none"
+      },
+      {
+        "name": "hunter wendelstedt",
+        "sentiment": "none"
+      },
+      {
+        "name": "boone",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "yankees",
+        "sentiment": "negative"
+      },
+      {
+        "name": "oakland athletics",
+        "sentiment": "none"
+      },
+      {
+        "name": "mlb",
+        "sentiment": "none"
+      },
+      {
+        "name": "new york post",
+        "sentiment": "none"
+      },
+      {
+        "name": "major league baseball",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:28:08.182+03:00",
+  "updated": "2024-04-26T00:28:08.182+03:00"
+}

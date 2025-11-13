@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "9ae23273fa72634fdca1f3a26451bdb9f2cca202",
+    "url": "https://www.exitosanoticias.pe/mundo/alerta-mundial-tierra-perdera-su-oxigeno-mil-millones-anos-advierte-nasa-n150664",
+    "site_full": "www.exitosanoticias.pe",
+    "site": "exitosanoticias.pe",
+    "site_section": "https://www.exitosanoticias.pe",
+    "site_categories": ["top_news_pe", "top_news"],
+    "section_title": "Exitosa Noticias - Noticias del Perú y el Mundo | Radio | Tv en vivo | Podcast",
+    "site_title": "Exitosa Noticias - Noticias del Perú y el Mundo | Radio | Tv en vivo | Podcast",
+    "title": "Alerta mundial: La Tierra perderá su oxígeno en mil millones de años, advierte la NASA - Exitosa Noticias",
+    "title_full": "Alerta mundial: La Tierra perderá su oxígeno en mil millones de años, advierte la NASA - Exitosa Noticias",
+    "published": "2025-05-08T03:21:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PE",
+    "main_image": "https://statics.exitosanoticias.pe/2025/05/681bfa074e43d.png",
+    "performance_score": 0,
+    "domain_rank": 177957,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9ae23273fa72634fdca1f3a26451bdb9f2cca202",
+  "url": "https://www.exitosanoticias.pe/mundo/alerta-mundial-tierra-perdera-su-oxigeno-mil-millones-anos-advierte-nasa-n150664",
+  "ord_in_thread": 0,
+  "author": "Sourtech",
+  "published": "2025-05-08T03:21:00.000+03:00",
+  "title": "Alerta mundial: La Tierra perderá su oxígeno en mil millones de años, advierte la NASA - Exitosa Noticias",
+  "text": "07/05/2025 / Exitosa Noticias / Mundo / Actualizado al 07/05/2025\nUn estudio científico de largo alcance, realizado por investigadores de la NASA en colaboración con la Universidad de Toho en Japón, ha proyectado un escenario preocupante para el futuro de la atmósfera terrestre.\nSegún simulaciones llevadas a cabo por Kazumi Ozaki y Christopher Reinhard, dentro de aproximadamente mil millones de años, el planeta dejará de ser habitable para formas de vida complejas debido a una pérdida progresiva e irreversible del oxígeno en la atmósfera.\nEl fenómeno está vinculado al incremento gradual de la luminosidad del Sol, un proceso natural en la evolución de las estrellas como la nuestra. Este aumento de energía afectará el equilibrio químico de la atmósfera terrestre, alterando los niveles de gases clave como el dióxido de carbono (CO₂), necesario para la fotosíntesis.\nCuando el CO₂ descienda a niveles críticamente bajos, las plantas no podrán seguir produciendo oxígeno. Como resultado, la atmósfera rica en oxígeno que actualmente sustenta la vida animal y humana desaparecerá, dando paso a una atmósfera similar a la de la Tierra primitiva, habitada solo por microorganismos anaeróbicos.\n¿Cómo ocurrirá el proceso de desoxigenación?\nSegún el modelo presentado, este proceso no será súbito, sino gradual. La disminución de CO₂ y la consiguiente interrupción de la fotosíntesis desencadenarán un ciclo de retroalimentación que hará cada vez más difícil la recuperación del oxígeno.\nLos primeros indicios de esta transformación podrían comenzar a observarse en unos pocos miles de años, con un incremento del metano atmosférico y un progresivo deterioro de la capa de ozono.\nLa atmósfera se volverá menos protectora contra la radiación solar, y el entorno terrestre se volverá hostil para la vida tal como la conocemos. Este lento cambio culminará con una Tierra árida y rocosa, similar a Marte o Venus, sin posibilidad de mantener ecosistemas complejos.\n¿Qué implicancias tiene para la búsqueda de vida en otros planetas?\nEl estudio también tiene importantes implicancias para la astrobiología. Tradicionalmente, la presencia de oxígeno se ha considerado un indicador fundamental de habitabilidad en otros mundos.\nSin embargo, los autores del estudio advierten que este gas puede estar presente solo durante ciertas fases del desarrollo planetario. Por tanto, su ausencia no debe interpretarse como una señal definitiva de que no hay vida.\nEste nuevo enfoque podría redefinir los criterios utilizados para identificar exoplanetas potencialmente habitables, ampliando el espectro de mundos que podrían albergar vida, aunque no cuenten con atmósferas similares a la de la Tierra actual.\nEl modelo presentado por NASA y la Universidad de Toho revela que la habitabilidad planetaria tiene un límite temporal definido. A medida que el Sol evoluciona, las condiciones químicas que permiten la vida compleja en la Tierra desaparecerán, transformando radicalmente el planeta.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Environment", "Science and Technology", "Social Issue"],
+  "topics": [
+    "Environment->climate change",
+    "Environment->sustainability",
+    "Environment->environmental pollution",
+    "Science and Technology->scientific research",
+    "Science and Technology->natural science",
+    "Social Issue->mankind",
+    "Social Issue->social condition",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.nasa.gov/",
+    "https://nasa.gov/",
+    "https://www.nasa.gov"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Christopher Reinhard",
+        "sentiment": "none"
+      },
+      {
+        "name": "Kazumi Ozaki",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Universidad de Toho",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "NASA",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:15:32.128+03:00",
+  "updated": "2025-05-08T02:21:25.000+00:00"
+}

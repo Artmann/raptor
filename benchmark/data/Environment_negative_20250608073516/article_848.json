@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "635206bfe748dbd2a623a3c207f168b59ac75356",
+    "url": "https://abc13.com/post/3-houston-area-facilities-violated-pollution-laws-are-seeking-new-permits-epa-says/16351958",
+    "site_full": "abc13.com",
+    "site": "abc13.com",
+    "site_section": "https://abc13.com/photos",
+    "site_categories": ["media", "television", "entertainment"],
+    "section_title": "ABC13 News Photo Galleries | News Pictures - ABC13 Houston",
+    "site_title": "ABC13 Houston news, weather and traffic - Latest Texas news and weather",
+    "title": "3 Houston-area facilities that violated pollution laws are seeking new permits, EPA says",
+    "title_full": "3 Houston-area facilities that violated pollution laws are seeking new permits, EPA says",
+    "published": "2025-05-08T05:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.abcotvs.com/dip/images/16352951_050725-ktrk-power-lines-img.png?w=1600",
+    "performance_score": 0,
+    "domain_rank": 4569,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "635206bfe748dbd2a623a3c207f168b59ac75356",
+  "url": "https://abc13.com/post/3-houston-area-facilities-violated-pollution-laws-are-seeking-new-permits-epa-says/16351958",
+  "ord_in_thread": 0,
+  "author": "@ABC13Houston",
+  "published": "2025-05-08T05:32:00.000+03:00",
+  "title": "3 Houston-area facilities that violated pollution laws are seeking new permits, EPA says",
+  "text": "HOUSTON, Texas (KTRK) -- Houston is the so-called energy capital of the world, and our oil and gas refineries fuel part of the city's economy.\nEPA data shows three of those refineries are in trouble with federal law and in fact, some even have a history of violating federal pollution laws.\nOil and gas refineries are a major part of the Houston area's economy, a source of thousands of jobs.\nBut they can also be a source of air pollution - which is why places like the Chevron Refining Facility in Pasadena are required to have what's called a Title 5 permit from the Texas Commission on Environmental Quality.\nRecent data from the EPA shows they've violated the Clean Air Act 12 times and the Clean Water Act 7 times in the last three years.\nAir Alliance Houston, which is a nonprofit, says those numbers are high.\n\"I wouldn't say its normal. We see it happen. I want to say this. It's possible that accidents do happen. What is concerning is that when its repetitive and it's the same thing,\" Inyang Uwak, Air Alliance Houston policy director, said.\nLast month, the public was invited to a hearing with the TCEQ for the facility's permit renewal. While many were in support citing the charitable work the company does, some voiced their concerns. Like Juan Flores, who is also with Air Alliance and lives in Galena Park.\n\"We're asking them to invest more and for them to be able to protect the neighborhoods from access pollution that's affecting us,\" Uwak said.\nIn a statement to ABC13, a spokesperson with Chevron sent a statement that reads:\n\"Chevron Pasadena Refinery submitted an application for the renewal of its Title V Air Permit, which consolidates all applicable air requirements into a single permit. This permit is part of the Federal Clean Air Act and is administered by the Texas Commission on Environmental Quality (TCEQ). Title V covers and regulates major sources of air pollution to ensure compliance with all applicable air quality standards. TCEQ implements a rigorous review, including a review of the permitted facility's compliance profile, as part of the permit renewal process. Our refinery personnel are committed to ensuring compliance with regulations and minimizing impact on the community. When Chevron purchased the Pasadena Refinery in May 2019, there were multiple outstanding compliance issues at the site. Since then, Chevron has made significant investments to improve safety, reliability, and environmental performance. Emissions from routine operations have been reduced more than 50 percent. Chevron Pasadena has engaged community members about our application and regularly meets with local community groups to share information about our progress and operations, including how we continue to invest in our commitment to operating safely. We will continue to engage with the community and the Texas Commission on Environmental Quality (TCEQ) through the permit renewal process.\"\nThey didn't specifically address the violations since taking over. Nearby, Lyondell Basell's Houston refinery is also seeking to renew their permit.\nEPA data shows they, too, have had several violations.\nAccording to the EPA, in the last three years, there were 4 with the Clean Water Act and 3 with the Resource Conservation and Recovery Act.\nA spokesperson sent ABC13 a statement that reads:\n\"We are aware of this report, and we properly report emission events according to state and federal law based on permitting and operational requirements. The Title V permit renewal we seek is required under the Clean Air Act and allows the site to complete the safe shutdown of our crude oil refining operations as we evaluate future options for the site.\"\nAir Alliance Houston says, while there's no simple fix to the problem, they urge companies to address the issues so violations don't repeat.\n\"When they do have violations, they do what they ought to do, and they do conduct that recourse analysis and then take the corrective action,\" Uwak said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue"],
+  "topics": [
+    "Environment->energy resources",
+    "Environment->environmental pollution",
+    "Environment->sustainability",
+    "Social Issue->social condition",
+    "Social Issue->social problem",
+    "Social Issue->communities"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "HOUSTON",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "KTRK",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "EPA",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "635206bfe748dbd2a623a3c207f168b59ac75356",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:29:18.922+03:00",
+  "updated": "2025-05-08T03:32:15.000+00:00"
+}

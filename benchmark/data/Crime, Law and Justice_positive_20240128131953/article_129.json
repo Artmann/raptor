@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "4e71129e24b7efac5909d8bcbf0a241687274fa9",
+    "url": "https://www.aol.com/tallahassee-police-arrested-six-armed-233020577.html",
+    "site_full": "www.aol.com",
+    "site": "aol.com",
+    "site_section": "https://news.google.com/rss/search?pz=1&cf=all&hl=en-US&q=crime&cf=all&gl=US&ceid=US:en",
+    "site_categories": ["media"],
+    "section_title": "\"crime\" - Google News",
+    "title": "Tallahassee police say they arrested six armed suspects before a crime could unfold - AOL",
+    "title_full": "Tallahassee police say they arrested six armed suspects before a crime could unfold - AOL",
+    "published": "2023-12-29T01:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.zenfs.com/en/aol_gannett_aggregated_707/eea686fe9ecfcf7a7915c448aa98cadc",
+    "performance_score": 0,
+    "domain_rank": 170,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4e71129e24b7efac5909d8bcbf0a241687274fa9",
+  "url": "https://www.aol.com/tallahassee-police-arrested-six-armed-233020577.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "AOL Staff",
+  "published": "2023-12-29T01:30:00.000+02:00",
+  "title": "Tallahassee police say they arrested six armed suspects before a crime could unfold - AOL",
+  "text": "Tallahassee police say they arrested six armed suspects before a crime could unfold\nThe Tallahassee Police Department says it arrested six armed suspects in an effort to reduce the number of guns on the streets and to stop a crime before it could happen.\nOfficers received a call Dec. 22 that a suspect flashed a firearm and they immediately began \"searching for known groups engaged in active feuds and planning violent acts against each other,\" according to a news release.\nTPD's helicopter unit, which is a joint task force with the Leon County's Sheriff Office, helped locate a car in the 1600 block of Baldwin Park Drive that was associated with one of the groups.\nOfficers watched as five men wearing ski masks climbed into the car, prompting them to initiate a traffic stop near Roberts Avenue and Mabry Street, according to the release.\nTwo of the men ran from the car; one was carrying a semi-automatic firearm.\n\"Fortunately, the suspect tripped and lost control of the firearm,\" TPD said. \"He was quickly taken into custody without further incident.\"\nThe driver took off in the car as the two who ran away were arrested.\nHe was later stopped at the corner of Yulee and Plant Streets, according to the news release. He and two other people in the car, who also were armed, took off on foot before they too were stopped and arrested. One suspect managed to escape.\nFive days later, two more suspects were arrested as a result of another traffic stop.\nCharges for the six, whose names were not released, were not immediately available.\n\"This operation exemplifies the dedication of TPD to proactively combat gun violence within our community,\" TPD said. \"This remains an ongoing investigation, and there could be more arrests and additional charges in the future.\"\nElena Barrera can be reached at . Follow her on X\n@elenabarreraaa.\nThis article originally appeared on Tallahassee Democrat:\nTallahassee Police: Six armed men arrested 'planning violent acts'",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Politics", "Human Interest", "Crime, Law and Justice"],
+  "external_links": [
+    "https://twitter.com/elenabarreraaa",
+    "https://www.tallahassee.com/story/news/local/2023/12/28/tallahassee-police-six-armed-men-arrested-planning-violent-acts/72052268007/",
+    "https://www.twitter.com/elenabarreraaa",
+    "https://www.tallahassee.com/story/news/local/2023/12/28/tallahassee-police-six-armed-men-arrested-planning-violent-acts/72052268007",
+    "https://tallahassee.com/story/news/local/2023/12/28/tallahassee-police-six-armed-men-arrested-planning-violent-acts/72052268007/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "aol",
+        "sentiment": "negative"
+      },
+      {
+        "name": "police department",
+        "sentiment": "none"
+      },
+      {
+        "name": "leon county's sheriff office",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "tallahassee",
+        "sentiment": "none"
+      },
+      {
+        "name": "mabry street",
+        "sentiment": "none"
+      },
+      {
+        "name": "baldwin park drive",
+        "sentiment": "none"
+      },
+      {
+        "name": "roberts avenue",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T02:30:31.476+02:00",
+  "updated": "2023-12-29T02:30:31.476+02:00"
+}

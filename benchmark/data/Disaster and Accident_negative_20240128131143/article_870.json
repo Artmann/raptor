@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "b3f085b6c54d12a4b4a2799ebdfa7c7a708e5542",
+    "url": "https://www.newsmax.com/newsfront/boeing-737-max-inspections/2023/12/28/id/1147541/",
+    "site_full": "www.newsmax.com",
+    "site": "newsmax.com",
+    "site_section": "https://www.newsmax.com/rss/newsfront/16/",
+    "site_categories": ["media", "law_government_and_politics", "politics"],
+    "section_title": "Newsmax - Newsfront",
+    "title": "Boeing Urges 737 MAX Inspections for Possible Loose Bolt",
+    "title_full": "Boeing Urges 737 MAX Inspections for Possible Loose Bolt",
+    "published": "2023-12-29T00:04:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=dc20183f-81f6-4de9-966f-5fbf181af62b&amp;SiteName=Newsmax",
+    "performance_score": 0,
+    "domain_rank": 2197,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b3f085b6c54d12a4b4a2799ebdfa7c7a708e5542",
+  "url": "https://www.newsmax.com/newsfront/boeing-737-max-inspections/2023/12/28/id/1147541/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@newsmax",
+  "published": "2023-12-29T00:04:00.000+02:00",
+  "title": "Boeing Urges 737 MAX Inspections for Possible Loose Bolt",
+  "text": "Thursday, 28 December 2023 06:12 PM EST Airplane maker Boeing is urging airlines to inspect 737 MAX airplanes for a possible loose bolt in the rudder control system, the Federal Aviation Administration (FAA) said on Thursday. The FAA said it was closely monitoring Boeing 737 MAX targeted inspections and will consider additional action based on any further discovery of loose or missing hardware. Boeing recommended inspections after an international operator discovered a bolt with a missing nut while performing routine maintenance on a mechanism in the rudder-control linkage, the FAA said. Boeing discovered an additional undelivered aircraft with a nut not properly tightened, the agency said. \"The issue identified on the particular airplane has been remedied,\" Boeing said. \"Out of an abundance of caution, we are recommending operators inspect their 737 MAX airplanes and inform us of any findings. We informed the FAA and our customers and will continue to keep them aware of the progress.\" The planemaker has recommended that airlines inspect their MAXs within two weeks, but delivered 737 MAX planes can continue to fly safely, Boeing said. Production and delivery of the MAX will continue. The issue does not affect older-model 737 Next Generation planes, Boeing said. Boeing shares were down 1% in midday trade. United Airlines American Airlines, two major domestic customers of the MAX, each said it did not expect inspections to have an impact on operations. Southwest Airlines, a U.S. carrier that solely flies the 737 NG and MAX, did not immediately respond to a request for comment. The FAA said Boeing had issued a message urging operators of newer single-aisle airplanes to inspect specific tie rods that control rudder movement for possible loose hardware. The rudder controls the position of an aircraft's nose while in flight. The inspections involve taking off an access panel and validating that the hardware had been properly installed, Boeing said. The process should take two hours, and Boeing is inspecting undelivered 737 MAX aircraft before handing them over to customers. \"The FAA will remain in contact with Boeing and the airlines while the inspections are under way,\" the agency said, asking airlines to answer if any loose hardware has been detected previously and provide details on how quickly these inspections can be completed. Any issue involving a rudder that is not working properly would likely be identified in a pre-flight check, as flight crews routinely examine the rudder system before an aircraft pushes back from the gate, Boeing said. The inspections will help the FAA determine how prevalent the problem is and whether it is a sign of a larger lapse in production quality that requires the regulator to take further action, said Anthony Brickhouse, an air safety expert at Embry-Riddle Aeronautical University. \"Airlines need to take it seriously,\" he said. \"But as a member of the flying public, I don't see this as an issue to be concerned about.\" The 737 MAX was grounded for 20 months worldwide after two fatal crashes in 2018 and 2019 killed 346 people in Ethiopia and Indonesia. Boeing is still awaiting certification of its smaller 737 MAX 7 and larger MAX 10. The FAA has carefully scrutinized the MAX. The FAA in 2021 said it was tracking all 737 MAX airplanes using satellite data. © 2023 Thomson/Reuters. All rights reserved. Receive breaking news and original analysis - sent right to your inbox. Interest-Based Advertising | Do not sell or share my personal information Newsmax, Moneynews, Newsmax Health, and Independent. American. are registered trademarks of Newsmax Media, Inc. Newsmax TV, and Newsmax World are trademarks of Newsmax Media, Inc.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "boeing",
+        "sentiment": "negative"
+      },
+      {
+        "name": "federal aviation administration",
+        "sentiment": "none"
+      },
+      {
+        "name": "faa",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:21:32.491+02:00",
+  "updated": "2023-12-29T02:48:14.837+02:00"
+}

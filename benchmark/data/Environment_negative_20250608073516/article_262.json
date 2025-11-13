@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "e33f79dd6312f44065cca686db25bf1814384455",
+    "url": "https://flipboard.com/topic/alberniclayoquot/-/a-wM0DzDsLQnmdlaDk8ljakw%3Aa%3A3413409792-%2F0",
+    "site_full": "flipboard.com",
+    "site": "flipboard.com",
+    "site_section": "https://flipboard.com/topic/alberniclayoquot",
+    "site_categories": ["family_and_parenting", "eldercare"],
+    "section_title": "Discover More in Alberni-Clayoquot on Flipboard",
+    "site_title": "Flipboard: Your Social Magazine",
+    "title": "Watch: Injured dolphin dies despite rescue efforts off North Vancouver shore | Flipboard",
+    "title_full": "Watch: Injured dolphin dies despite rescue efforts off North Vancouver shore | Flipboard",
+    "published": "2025-05-08T00:38:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.vmcdn.ca/f/files/glaciermedia/images/dolphindead.jpg;w=1200;h=800;mode=crop",
+    "performance_score": 0,
+    "domain_rank": 1243,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e33f79dd6312f44065cca686db25bf1814384455",
+  "url": "https://flipboard.com/topic/alberniclayoquot/-/a-wM0DzDsLQnmdlaDk8ljakw%3Aa%3A3413409792-%2F0",
+  "ord_in_thread": 0,
+  "author": "nsnews.com - Alanna Kelly, Nick Laba",
+  "published": "2025-05-08T00:38:00.000+03:00",
+  "title": "Watch: Injured dolphin dies despite rescue efforts off North Vancouver shore | Flipboard",
+  "text": "Watch: Injured dolphin dies despite rescue efforts off North Vancouver shore A Pacific white-sided dolphin named Pickles has sadly died, despite the efforts of expert rescuers to save the marine mammal. On Tuesday morning, …\nnsnews.com - Alanna Kelly, Nick Laba • 2h",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Health"],
+  "topics": [
+    "Environment->ecosystem",
+    "Environment->animal",
+    "Environment->endangered species",
+    "Social Issue->social problem",
+    "Social Issue->mankind",
+    "Health->injury",
+    "Health->emergency care",
+    "Health->public health"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Alanna Kelly",
+        "sentiment": "none"
+      },
+      {
+        "name": "Nick Laba",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:58:26.699+03:00",
+  "updated": "2025-05-08T00:11:45.000+00:00"
+}

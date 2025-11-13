@@ -1,0 +1,140 @@
+{
+  "thread": {
+    "uuid": "81e4db83533c2400b25118cf9b7a69ca3114c77e",
+    "url": "https://www.corriereromagna.it/cattolica/la-rinascita-dello-storione-dell-adriatico-4900-esemplari-reintrodotti-un-fossile-vivente-che-non-si-arrende-IF1689684",
+    "site_full": "www.corriereromagna.it",
+    "site": "corriereromagna.it",
+    "site_section": "https://www.corriereromagna.it/rss/home.xml",
+    "site_categories": ["media"],
+    "section_title": "Romagna News: le ultime Notizie | CorriereRomagna",
+    "site_title": "Romagna News: le ultime Notizie | CorriereRomagna",
+    "title": "La rinascita dello storione dell'Adriatico: 4.900 esemplari reintrodotti, un fossile vivente che non si arrende",
+    "title_full": "La rinascita dello storione dell'Adriatico: 4.900 esemplari reintrodotti, un fossile vivente che non si arrende",
+    "published": "2025-10-16T12:51:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://www.corriereromagna.it/binrepository/580x432/0c6/580d420/none/11807/SCHT/storioni-vasca_2099689_20251016111721.jpg",
+    "performance_score": 0,
+    "domain_rank": 78295,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "81e4db83533c2400b25118cf9b7a69ca3114c77e",
+  "url": "https://www.corriereromagna.it/cattolica/la-rinascita-dello-storione-dell-adriatico-4900-esemplari-reintrodotti-un-fossile-vivente-che-non-si-arrende-IF1689684",
+  "ord_in_thread": 0,
+  "author": "redaccion",
+  "published": "2025-10-16T12:51:00.000+03:00",
+  "title": "La rinascita dello storione dell'Adriatico: 4.900 esemplari reintrodotti, un fossile vivente che non si arrende",
+  "text": "CATTOLICA. Fiumi interrotti da oltre 700 sbarramenti nel bacino del Po, acque inquinate, perdita di habitat e bracconaggio. È questo scenario che ha causato la scomparsa dai fiumi italiani dello storione cobice (Acipenser naccarii), antico pesce del bacino padano, anche conosciuto come storione dell’Adriatico. Un vero e proprio fossile vivente, un tempo diffuso in tutto il Nord Italia e in Romagna, che sta tornando a popolare gli habitat fluviali solo grazie alle reintroduzioni in natura e ai corridoi ecologici che i ricercatori riescono a sviluppare. Una vera e propria inversione di rotta verso l’estinzione: in 10 anni sono stati reintrodotti 4.900 esemplari nell’area meridionale del Delta del Po (fiume Reno, Bevano, Savio, nella laguna Pialassa della Baiona), permettendo a questa specie di riconquistare habitat perduti.\nProtagonisti del progetto l’Acquario di Cattolica e il parco Oltremare di Riccione, del gruppo Costa Edutainment, grazie alla collaborazione con il Parco Ticino e l’Università di Bologna (Dipartimento di Scienze mediche veterinarie presso il centro universitario Produzioni ittiche di Cesenatico) che guida il progetto e i protocolli scientifici, con il team del professore Oliviero Mordenti.\nDi questo e di altri interessanti progetti, si è parlato al 1° Convegno Nazionale dell’Unione Italiana Giardini Zoologici e Acquari UIZA ad Assisi, che ha riunito la comunità scientifica intorno agli ultimi studi di conservazione di alcune specie animali a rischio estinzione.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->endangered species",
+    "Environment->animal",
+    "Environment->water pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Savio",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Delta del Po",
+        "sentiment": "none"
+      },
+      {
+        "name": "Nord Italia",
+        "sentiment": "none"
+      },
+      {
+        "name": "fiume Reno",
+        "sentiment": "none"
+      },
+      {
+        "name": "Adriatico",
+        "sentiment": "none"
+      },
+      {
+        "name": "Riccione",
+        "sentiment": "none"
+      },
+      {
+        "name": "Romagna",
+        "sentiment": "none"
+      },
+      {
+        "name": "Baiona",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bevano",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Università di Bologna",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Costa Edutainment",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:23:35.845+03:00",
+  "updated": "2025-10-16T14:32:35.000+03:00"
+}

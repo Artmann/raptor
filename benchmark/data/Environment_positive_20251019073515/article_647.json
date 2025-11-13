@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "10c00ceeccb9930912ecee47bb39860207f3d61b",
+    "url": "https://www.newsbreak.com/monticello-times-1593291/4295228482043-xcel-proposes-statewide-battery-network-to-boost-grid-reliability",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://local.newsbreak.com/monticello-times-1593291",
+    "site_categories": ["under_construction"],
+    "section_title": "Monticello Times&#x27;s Home Page | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Xcel proposes statewide battery network to boost grid reliability - NewsBreak",
+    "title_full": "Xcel proposes statewide battery network to boost grid reliability - NewsBreak",
+    "published": "2025-10-16T10:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/245Iz5_15hyfWzi00",
+    "performance_score": 0,
+    "domain_rank": 2819,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "10c00ceeccb9930912ecee47bb39860207f3d61b",
+  "url": "https://www.newsbreak.com/monticello-times-1593291/4295228482043-xcel-proposes-statewide-battery-network-to-boost-grid-reliability",
+  "ord_in_thread": 0,
+  "author": "Lauren Flaum",
+  "published": "2025-10-16T10:00:00.000+03:00",
+  "title": "Xcel proposes statewide battery network to boost grid reliability - NewsBreak",
+  "text": "By Lauren Flaum ,\n5 hours ago\nMONTICELLO — Xcel Energy is proposing a first-of-its-kind project to build a battery storage network across Minnesota — a move company officials say will strengthen grid reliability, meet growing electricity demand, and advance the state’s clean energy goals.\nThe initiative, called Capacity*Connect, would install up to 200 megawatts of distributed battery storage at local business, industrial, and nonprofit sites by 2028. That’s enough to power roughly 100,000 homes for several hours during peak demand, depending on battery size and usage.\nWorking with Sparkfund, a Washington, D.C.-based distributed energy company, Xcel plans to place the batteries at strategic points on the grid where they can store energy when it’s cheap and release it when demand spikes. The approach is designed to help meet growing community needs while keeping the system reliable and efficient.\n“We’re focused on supporting economic growth and the needs of our communities by building out and modernizing our energy grid,” said Ryan Long, president of Xcel Energy-Minnesota, North Dakota and South Dakota.\nThe batteries would become part of Xcel’s broader operations across the Upper Midwest, storing low-cost energy from renewables and dispatching it when needed most — such as during heat waves or cold snaps.\n“By storing energy when it’s cheap, delivering it when it’s needed most, and placing assets where they maximize grid value, Xcel Energy is delivering reliable energy to customers today and building a grid that is ready for tomorrow,” said Pier LaFarge, Sparkfund CEO.\nXcel officials said the plan is still in its early stages and must first be approved by the Minnesota Public Utilities Commission. If approved, the company would begin identifying ideal battery locations based on safety, capacity, and areas where electricity use is growing fastest.\nPotential host sites — businesses, nonprofits, or industrial facilities — would then be evaluated for available land, zoning, equity considerations, and community interest in hosting a battery.\nThe distributed batteries will not directly interact with the Monticello Nuclear Generating Plant, Xcel said, but they will operate as part of the larger grid that serves all customers.\n“In general, we expect that distributed batteries will contribute to maintaining a reliable electricity grid for all customers, including those in the Monticello area,” an Xcel spokesperson said.\nXcel is also planning to build larger-scale battery storage at the Sherco Energy Hub in Becker through a separate project. The smaller distributed systems under Capacity*Connect would complement those larger efforts, providing flexibility and local reliability benefits.\nMonticello, already home to one of Xcel’s most important power sources, remains a key part of the company’s network. The city’s nuclear plant, paired with future distributed storage, could help ensure steady service as Wright County’s population and industry continue to grow.\nThe initiative also aligns with Monticello’s broader sustainability goals, including renewable energy adoption and grid modernization — priorities reflected in city planning efforts and the region’s expanding mix of residential, industrial, and technology-driven development.\nAs Xcel seeks regulatory approval for the proposal, officials say distributed batteries could become another tool to balance local power needs while keeping the lights on across Minnesota — including right here in Monticello.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->energy resources", "Environment->sustainability"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=245Iz5_15hyfWzi00",
+    "https://img.particlenews.com/image.php?url=245Iz5_15hyfWzi00",
+    "https://apg04.newzware.com/ss70v2/ecm/common/template.jsp?skin=svh&init=start&initEdition=MCT",
+    "https://img.particlenews.com/image.php",
+    "https://www.img.particlenews.com/image.php?url=245Iz5_15hyfWzi00",
+    "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=245Iz5_15hyfWzi00",
+    "https://apg04.newzware.com/ss70v2/ecm/common/template.jsp",
+    "https://www.apg04.newzware.com/ss70v2/ecm/common/template.jsp?skin=svh&init=start&initEdition=MCT"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Lauren Flaum",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Ryan Long",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "D.C.",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Xcel Energy-Minnesota",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "10c00ceeccb9930912ecee47bb39860207f3d61b",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:36:59.695+03:00",
+  "updated": "2025-10-16T15:47:54.000+03:00"
+}

@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "c32c58925fb2ee6cce3428d551b81ede7f12f3d1",
+    "url": "https://www.atlantico.net/o-morrazo/cangas-cae-mapa-bueu-moana_1_20250508-3517459.html",
+    "site_full": "www.atlantico.net",
+    "site": "atlantico.net",
+    "site_section": "https://www.atlantico.net/rss",
+    "site_categories": ["education", "business"],
+    "section_title": "",
+    "site_title": "Atlántico | Diario de Vigo y su área metropolitana",
+    "title": "Cangas se cae del mapa y Bueu y Moaña logran 5 Banderas Azules",
+    "title_full": "Cangas se cae del mapa y Bueu y Moaña logran 5 Banderas Azules",
+    "published": "2025-05-08T03:40:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://static.laregion.es/clip/e2e42cdd-d425-42ff-851d-9c233460f7b6_facebook-aspect-ratio_default_0.jpg",
+    "performance_score": 0,
+    "domain_rank": 86866,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c32c58925fb2ee6cce3428d551b81ede7f12f3d1",
+  "url": "https://www.atlantico.net/o-morrazo/cangas-cae-mapa-bueu-moana_1_20250508-3517459.html",
+  "ord_in_thread": 0,
+  "author": "Silvia Rueda",
+  "published": "2025-05-08T03:40:00.000+03:00",
+  "title": "Cangas se cae del mapa y Bueu y Moaña logran 5 Banderas Azules",
+  "text": "Cangas se cae del mapa y Bueu y Moaña logran 5 Banderas Azules\nEl tripartito renunció a las cuatro que pedía a principios de año, mientras los concellos vecinos sí apostaron por el distintivo\nCangas era el municipio de la comarca de\nO Morrazo con mayor número de Banderas Azules, pero esto ya es cosa del pasado. Pese a que cuenta con casi cuatro decenas de playas, este año ni siquiera aparece en el mapa de la Asociación de Educación Ambiental y del Consumidor (Adeac), organismo que otorga estos distintivos de reconocimiento internacional. El motivo es sencillo, el gobierno local decidió el pasado mes de marzo renunciar a las cuatro que había pedido a principios de año y lo hizo antes de tiempo. Es decir, sin esperar a que la Adeac hiciese pública su decisión y después valorar si izaban las banderas o no. Sin embargo, sí garantizó que existiría servicio de socorrismo en Rodeira, Areabrava, Nerga, Liméns y Menduíña, eso sí a través de una empresa externa.\nSegún las bases de licitación por un valor estimado del contrato 467.618,33 euros, 188.606,06 euros (IVA incluido) para una anualidad, cuyo plazo para presentar ofertas termina hoy, tendrá un horario de 13:00 a 20:00 horas, una hora menos que en años atrás. A la espera de conocer qué empresas optan a la adjudicación, también queda por determinar qué otros servicios tendrán los arenales de Cangas este verano, ya que desde el ejecutivo local se comprometieron a que la renuncia a las Banderas no supondría una carencia en servicios, sino una optimización de los mismos. En el reparto de la Adeac que la Xunta hizo público en el día de ayer, Cangas solo obtiene el reconocimiento azul para el Puerto deportivo del Real Club Náutico de Rodeira.\nPor el contrario, Moaña si vuelve a renovar su Bandera para la playa de O Con. En el caso de Bueu, también se ha hecho con los distintivos para los arenales de Area de Bon, Lagos, Lapamán y Portomaior. El gobierno local ya había decidido no solicitar el sello para la playa de la Banda do Río, que sí consiguió en 2024, porque la calidad del agua en la última analítica no había dado excelente. También reciben distintivo de Centro Azul el Aula de Natureza de Cabo Udra, el Centro de interpretación do litoral de Agrelo y el Estaleiro de Purro.\nContenido patrocinado",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue"],
+  "topics": [
+    "Environment->sustainability",
+    "Environment->conservation",
+    "Environment->parks",
+    "Social Issue->communities"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Rodeira",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:13:30.111+03:00",
+  "updated": "2025-05-08T02:17:46.000+00:00"
+}

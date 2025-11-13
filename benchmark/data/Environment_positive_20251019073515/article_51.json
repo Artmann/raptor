@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "70ff127c23ec1dcd216dadad91fe63ab674a6938",
+    "url": "https://jornal.unicamp.br/noticias/2025/10/13/pesquisa-da-unicamp-cria-filtros-sustentaveis-que-removem-poluentes-da-agua/",
+    "site_full": "jornal.unicamp.br",
+    "site": "unicamp.br",
+    "site_section": "https://olhardigital.com.br/rss",
+    "site_categories": [],
+    "section_title": "Olhar Digital",
+    "site_title": "Jornal da Unicamp",
+    "title": "Pesquisa da Unicamp cria filtros sustentáveis que removem poluentes da água",
+    "title_full": "Pesquisa da Unicamp cria filtros sustentáveis que removem poluentes da água",
+    "published": "2025-10-13T20:37:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BR",
+    "main_image": "https://jornal.unicamp.br/wp-content/uploads/sites/32/2025/10/VP_20251013_agua-pura_Capa.jpg",
+    "performance_score": 0,
+    "domain_rank": 10053,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "70ff127c23ec1dcd216dadad91fe63ab674a6938",
+  "url": "https://jornal.unicamp.br/noticias/2025/10/13/pesquisa-da-unicamp-cria-filtros-sustentaveis-que-removem-poluentes-da-agua/",
+  "ord_in_thread": 0,
+  "author": "raquel",
+  "published": "2025-10-13T20:37:00.000+03:00",
+  "title": "Pesquisa da Unicamp cria filtros sustentáveis que removem poluentes da água",
+  "text": "Pesquisadores da Faculdade de Engenharia Química (FEQ) da Unicamp estão desenvolvendo filtros biodegradáveis e sustentáveis capazes de remover substâncias tóxicas da água, entre elas resíduos de medicamentos e outros contaminantes que não são eliminados pelos sistemas convencionais de tratamento.\nA tecnologia combina materiais orgânicos com nanotubos de carbono — estruturas minúsculas, milhares de vezes mais finas que um fio de cabelo — que funcionam como um “ímã químico”, atraindo e retendo os poluentes sem gerar resíduos tóxicos.\nNos testes realizados em laboratório, os filtros eliminaram até 98% das impurezas presentes na água. “Os poluentes mais comuns nas águas são os resíduos farmacêuticos, como analgésicos e antibióticos. Mesmo em pequenas concentrações, eles se acumulam e podem afetar a saúde humana e o meio ambiente”, explica a professora Melissa Gurgel, do programa de pós-graduação da FEQ.\nPara tornar o processo ainda mais sustentável, a equipe decidiu utilizar resíduos naturais como matéria-prima. Entre os materiais testados estão a casca de tucumã — fruto típico da Amazônia —, o tronco da bananeira, a casca de café e a proteína extraída do bicho-da-seda. Esses compostos são transformados em biocarvões, que servem como base para o processo de adsorção, no qual as moléculas dos poluentes ficam “presas” na superfície do filtro.\nAlém dos medicamentos, os pesquisadores também investigam a presença crescente de superbactérias resistentes a antibióticos, já encontradas até mesmo em amostras de água potável.\n“Com o tempo, essas bactérias podem se tornar imunes aos antibióticos. Ou seja, o remédio que tem efeito hoje pode não funcionar no futuro”, alerta a professora Heloisa de Sá Costa, também da FEQ.\nDe acordo com o pesquisador Thiago, integrante do grupo, o uso de biocarvões a partir de resíduos naturais representa “uma solução ecológica e acessível para o tratamento da água, com potencial para aplicação em larga escala”.\nO projeto também abre caminho para o tratamento de efluentes industriais, conhecidos por conter poluentes de difícil remoção. A combinação entre nanotecnologia e materiais orgânicos pode oferecer uma alternativa sustentável e de baixo custo para o tratamento de grandes volumes de água, sem causar novos danos ambientais.\nAinda em fase de testes, a pesquisa representa um avanço significativo rumo a um tratamento de água mais ecológico e eficiente, com potencial de reduzir os impactos da poluição na saúde humana e no meio ambiente.\nSegundo os pesquisadores, a próxima etapa será levar os testes do laboratório para os rios e corpos d’água naturais.\nAssista ao programa:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "portuguese",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Environment"],
+  "topics": [
+    "Science and Technology->scientific research",
+    "Science and Technology->natural science",
+    "Science and Technology->chemistry",
+    "Environment->sustainability",
+    "Environment->water pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:25:15.908+03:00",
+  "updated": "2025-10-16T14:03:02.000+03:00"
+}

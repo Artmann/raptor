@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "0457b0ce984b4025468d0ea29856c31a0c31b600",
+    "url": "https://www.forbes.com.au/news/innovation/openai-is-set-to-launch-a-chatgpt-for-teens/",
+    "site_full": "www.forbes.com.au",
+    "site": "forbes.com.au",
+    "site_section": "https://news.google.com/search?q=we%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [],
+    "section_title": "Google News - Search",
+    "site_title": "Forbes Australia",
+    "title": "OpenAI is set to launch a ChatGPT for teens",
+    "title_full": "OpenAI is set to launch a ChatGPT for teens",
+    "published": "2025-09-18T07:47:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://www.forbes.com.au/wp-content/uploads/2025/08/960x0-2025-08-08T083605.314.jpg",
+    "performance_score": 0,
+    "domain_rank": 100268,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0457b0ce984b4025468d0ea29856c31a0c31b600",
+  "url": "https://www.forbes.com.au/news/innovation/openai-is-set-to-launch-a-chatgpt-for-teens/",
+  "ord_in_thread": 0,
+  "author": "Anastasia Santoreneos",
+  "published": "2025-09-18T07:47:00.000+03:00",
+  "title": "OpenAI is set to launch a ChatGPT for teens",
+  "text": "The generative AI platform says it’s rolling out a new set of protections to keep under 18s ‘safe’, including parental control features.\nKey Takeaways\n- OpenAI says it’s developing a ‘long-term system’ to understand whether someone is over or under 18 .\n- It is building a ChatGPT for users under 18 years old, with ‘age-appropriate policies’.\n- Some of those policies will include blocking graphic sexual content, not engaging in flirtatious talk if asked or discussions around self-harm and suicide.\n- While it hasn’t developed those controls yet, one feature, parental control, will be available by the end of the month.\nKey background\nOpenAI has revealed that over the past two weeks, it’s been expanding conversations with experts and advocacy groups with a view to improve safety for its users, and is now looking to develop a ChatGPT version suitable for teens.\nIt will build an algorithm to determine whether a user is over or under 18, and tailor its ChatGPT system accordingly with ‘age-appropriate policies’, including blocking graphic sexual content, not engaging in flirtatious discussions or discussions around suicide and self-harm, even creatively. In some cases, it may even involve law enforcement.\nWhile these protections aren’t available yet – and we don’t know when they will be – OpenAI says it’s launching a parental control system that will be available by the end of the month. This will allow parents to link their account with their teen’s (minimum age 13) and manage which features to disable. They’ll also receive notifications when their teen is a ‘moment of acute distress’. There’ll even be blackout hours where a teen cannot use the program.\nCrucial quote(s)\n“It is extremely important to us, and to society, that the right to privacy in the use of AI is protected… We are advocating for this with policymakers,” OpenAI co-founder and chief executive officer, Sam Altman, said.\n“We prioritise safety ahead of privacy and freedom for teens; this is a new and powerful technology, and we believe minors need significant protection… We realise that these principles are in conflict and not everyone will agree with how we are resolving that conflict. These are difficult decisions, but after talking with experts, this is what we think is best and want to be transparent in our intentions.”\nBig number\n72% of US teens have tried an AI companion at least once, according to a study by Common Sense Media found. And in this context, a ‘companion’ is an AI chatbot designed for users to have personal conversations with, not an AI assistant. And more than half (52%) of teens (those aged 13-17) say they’re regular users. In fact, 13% chat with them daily, and 21% chat a few times a week.\nTangent\nWorldwide spending on AI is forecast to total nearly $1.5 trillion in 2025, according to Gartner, a business and technology insights company. By 2026, that number is expected to surpass $2 trillion, with the majority of money spent on integrating generative AI into products like smartphones and PC.\n“The forecast assumes continued investment in AI infrastructure expansion, as major hyperscalers continue to increase investments in data centres with AI-optimised hardware and GPUs to scale their services,” said John-David Lovelock, Distinguished VP Analyst at Gartner.\n“The AI investment landscape is also expanding beyond traditional US tech giants, including Chinese companies and new AI cloud providers. Furthermore, venture capital investment in AI providers is providing additional tailwinds for AI spending.”\nLook back on the week that was with hand-picked articles from Australia and around the world. Sign up to the Forbes Australia newsletter here or become a member here.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Education", "Social Issue"],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific innovation",
+    "Education->students",
+    "Education->parents group",
+    "Education->online and remote learning",
+    "Social Issue->teenagers",
+    "Social Issue->children",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.gartner.com/en/experts/john-lovelock",
+    "https://techcrunch.com/2025/07/21/72-of-u-s-teens-have-used-ai-companions-study-finds/",
+    "https://gartner.com/en/experts/john-lovelock",
+    "https://www.techcrunch.com/2025/07/21/72-of-u-s-teens-have-used-ai-companions-study-finds/",
+    "https://techcrunch.com/2025/07/21/72-of-u-s-teens-have-used-ai-companions-study-finds"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:53:33.786+03:00",
+  "updated": "2025-09-18T07:57:42.000+03:00"
+}

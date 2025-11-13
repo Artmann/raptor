@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "557b8bdbf0b3fdb415b2d2709278c11bab126a6c",
+    "url": "https://www.capecod.com/cape-wide-news/operation-safe-ride-in-effect-for-new-years-eve-2/",
+    "site_full": "www.capecod.com",
+    "site": "capecod.com",
+    "site_section": "http://www.capecod.com/feed/",
+    "site_categories": ["media"],
+    "section_title": "CapeCod.com",
+    "title": "Operation safe ride in effect for New Year’s eve",
+    "title_full": "Operation safe ride in effect for New Year’s eve",
+    "published": "2023-12-29T08:23:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.capecod.com/wp-content/uploads/cwn_operationsaferide_twc122917.jpg",
+    "performance_score": 0,
+    "domain_rank": 99155,
+    "domain_rank_updated": "2023-12-26T12:06:35.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "557b8bdbf0b3fdb415b2d2709278c11bab126a6c",
+  "url": "https://www.capecod.com/cape-wide-news/operation-safe-ride-in-effect-for-new-years-eve-2/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Cape Wide News",
+  "published": "2023-12-29T08:23:00.000+02:00",
+  "title": "Operation safe ride in effect for New Year’s eve",
+  "text": "PROVINCETOWN – Now in its 11th year, OPERATION SAFERIDE provides free and sober rides home on New Year’s Eve. Operation Safe Ride provides citizens and visitors a free and sober ride home starting at 10pm on Sunday, December 31st until 4am on Monday, January 1st, 2024. This outreach service is designed specifically to limit impaired drivers on our roadways and to work in partnership with public safety to keep our community roadways safe. Anyone who needs a safe and sober ride home on New Year’s Eve from a licensed liquor establishment to a residence in the Towns of Provincetown or Truro can simply call one of our designated community-partnership taxi companies for a free and sober ride home. The service runs from 10 PM-2 AM and will be an on-call basis; after 2:00 AM until 4:00 AM if the caller makes a reservation in advance of 2:00 AM their ride home would still be free. For a destination in Provincetown please call Pride Taxi at 508-487-3400 or Cape Cab at 508-TAXICAB. For all destinations in Truro, please call Cape Cab at 508-TAXICAB.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Crime, Law and Justice", "Social Issue"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "truro",
+        "sentiment": "none"
+      },
+      {
+        "name": "provincetown",
+        "sentiment": "none"
+      },
+      {
+        "name": "cape cab",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T08:51:17.028+02:00",
+  "updated": "2023-12-29T10:18:06.539+02:00"
+}

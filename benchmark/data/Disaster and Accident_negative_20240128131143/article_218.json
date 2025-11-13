@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "920ab702a275aa40ee1bf055441c75f5f31c9fba",
+    "url": "https://www.gloucestertimes.com/news/2-3-magnitude-earthquake-reported-off-rockport-coast/article_397d100a-a4e0-11ee-9681-83e83e132c99.html",
+    "site_full": "www.gloucestertimes.com",
+    "site": "gloucestertimes.com",
+    "site_section": "https://www.salemnews.com",
+    "site_categories": ["shopping", "business"],
+    "section_title": "salemnews.com",
+    "title": "2.3 magnitude earthquake reported off Rockport coast | News | gloucestertimes.com",
+    "title_full": "2.3 magnitude earthquake reported off Rockport coast | News | gloucestertimes.com",
+    "published": "2023-12-28T07:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/09cba638-d48d-11ed-9329-d74ff747ab4f.jpg?crop=99%2C99%2C204%2C0&amp;resize=200%2C200&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 40944,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "920ab702a275aa40ee1bf055441c75f5f31c9fba",
+  "url": "https://www.gloucestertimes.com/news/2-3-magnitude-earthquake-reported-off-rockport-coast/article_397d100a-a4e0-11ee-9681-83e83e132c99.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Stephen Hagan | Staff Writer",
+  "published": "2023-12-28T07:00:00.000+02:00",
+  "title": "2.3 magnitude earthquake reported off Rockport coast | News | gloucestertimes.com",
+  "text": "ROCKPORT — An earthquake with a magnitude of 2.3 was recorded Tuesday off the coast of Rockport, according to the United States Geological Survey. The earthquake was reported at 6:24 p.m. and was about 33.6 miles (54 kilometers) east of Rockport. On Wednesday morning, Rockport police reported they had not received any reports of damage or injuries resulting from the earthquake. In addition, other earthquakes were also reported in New England — a second one with a magnitude of 1.8 was about .6 miles (1 kilometer) south of Boxborough and a third with a magnitude of 2.1 was reported 3.1 miles (5 kilometers) north northwest off the coast of Nantucket. In spite of the report, many in town did not experience any affects from the earthquake. Select Board Vice-Chair Ross Brackett, who also owns and operates Brothers Brew Coffee Shop at 27 Main St., said neither he nor his customers knew an earthquake had been recorded off Rockport’s coast. “I didn’t hear anything about it,” he said. “My customers didn’t say anything about it either.” Reports of earthquakes were also observed in several New England communities, including in Peabody, Erving and also off the coast of Edgartown on Martha’s Vineyard, according to the USGS. A major earthquake with a magnitude of 5.9, considered the largest in Massachusetts history, took place on Nov. 18, 1755, at about 4:30 a.m. The epicenter was believed to have been offshore, about 24 miles east of Cape Ann, according to the science website Cape Ann Weather. This earthquake is thought to have created the first recorded tsunami in U.S. history. Observers in the Leeward Islands nearly 1,000 miles south of Cape Ann reported at the time that receding of water followed by a large wave lifted several boats ashore and left scores of fish floundering on the beach. Stephen Hagan may be contacted at 978-675-2708, or [shagan@gloucestertimes.com](mailto:shagan@gloucestertimes.com).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Disaster and Accident", "Human Interest"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "ross brackett",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "united states geological survey",
+        "sentiment": "none"
+      },
+      {
+        "name": "brothers brew coffee shop",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "rockport",
+        "sentiment": "none"
+      },
+      {
+        "name": "rockport",
+        "sentiment": "none"
+      },
+      {
+        "name": "new england",
+        "sentiment": "none"
+      },
+      {
+        "name": "nantucket",
+        "sentiment": "none"
+      },
+      {
+        "name": "boxborough",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:20:07.153+02:00",
+  "updated": "2023-12-29T00:20:07.153+02:00"
+}

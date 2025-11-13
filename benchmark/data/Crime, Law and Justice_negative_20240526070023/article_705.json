@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "cf1a3fe084c987038c2612b33bbaf3e1cfddcebd",
+    "url": "https://www.cbsnews.com/chicago/news/suburban-chicago-high-school-district-probe-sex-abuse-claims",
+    "site_full": "www.cbsnews.com",
+    "site": "cbsnews.com",
+    "site_section": "https://www.cbsnews.com/local/",
+    "site_categories": ["media", "top_news"],
+    "section_title": "CBS Local - Your local news and live free 24/7 streaming news",
+    "title": "Suburban Chicago high school district to launch independent probe of handling of sex abuse claims - CBS Chicago",
+    "title_full": "Suburban Chicago high school district to launch independent probe of handling of sex abuse claims - CBS Chicago",
+    "published": "2024-04-26T00:28:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/03/22/e88b70be-f4ba-4cd6-bfad-e4e81f9d60ca/thumbnail/1200x630/aca805e1f6e996ef26c1c2873c72ec22/fenton-high-school.png?v=63c131a0051f3823d92b0d1dffb5e0e4",
+    "performance_score": 0,
+    "domain_rank": 188,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cf1a3fe084c987038c2612b33bbaf3e1cfddcebd",
+  "url": "https://www.cbsnews.com/chicago/news/suburban-chicago-high-school-district-probe-sex-abuse-claims",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Chicago",
+  "published": "2024-04-26T00:28:00.000+03:00",
+  "title": "Suburban Chicago high school district to launch independent probe of handling of sex abuse claims - CBS Chicago",
+  "text": "BENSENVILLE, Ill. (CBS) -- Fenton Community High School District in Bensenville voted this week to bring on a third-party firm for an independent review of actions taken by the district after a former employee was accused of sexual misconduct.The district said it is initiating a request for proposal process, and will cast the net wide in soliciting proposals from vendors and firms.The district said the review will \"provide an objective and impartial assessment of the school district's handling of the current situation, and will include an unbiased evaluation of the adequacy of procedures, compliance with policies and regulations, and the appropriateness of disciplinary actions taken.\"Meanwhile, the district has partnered with the YWCA for trauma-based and small-group counseling in the wake of the allegations. The district has also partnered with Be Sure Counseling, a group of retired law enforcement officers who provide education to students, parents, and staff on child safety issues.At the center of the allegations spurring the review is an ex-staff member at Fenton High School accused of having inappropriate relationships with students dating back over a decade.Last month, police documents on the former staff member were leaked on social media, laying out sexual abuse allegations between a high school teacher and students. The staff member was first on administrative leave after the document was leaked, and has since been fired.In the wake of the allegations, a March 20 school board meeting became heated. Numerous parents and students spoke, including one young woman who said she was a survivor of abuse by the staff member.\"I pray that none of your daughters have not, and do not, suffer the karma from your atrocious in this predator's behavior,\" she told the board at the March 20 meeting.A timeline by School District Supt. James Ongtengco was later issued detailing all the tips they received involving the staffer – and how they were handled. The timeline revealed the accusations dated back to 2011 – during which time the employee received a disciplinary letter for allegedly sending inappropriate text messages to a student in their class.Bensenville Village President Frank DeSimone has issued a letter calling for the resignation of Supt. Ongtengco, and anyone who knew of the allegations and failed to take action.On March 29, Ongtengco was placed on administrative leave. Fenton High School Principal Samuel Bentsen was placed in the role on an interim basis.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Education", "Human Interest"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "fenton community high school district",
+        "sentiment": "negative"
+      },
+      {
+        "name": "cbs",
+        "sentiment": "negative"
+      },
+      {
+        "name": "ywca",
+        "sentiment": "none"
+      },
+      {
+        "name": "fenton high school",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "chicago",
+        "sentiment": "none"
+      },
+      {
+        "name": "ill.",
+        "sentiment": "none"
+      },
+      {
+        "name": "bensenville",
+        "sentiment": "none"
+      },
+      {
+        "name": "chicago bensenville",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:31:27.908+03:00",
+  "updated": "2024-04-26T01:20:50.631+03:00"
+}

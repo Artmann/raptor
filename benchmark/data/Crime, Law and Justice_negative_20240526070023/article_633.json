@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "9eb27141de38892e5ae878f5af915a19fea0350e",
+    "url": "https://www.nsnews.com/national-news/opposition-bc-united-seeks-to-prevent-convicted-dangerous-offenders-from-name-changes-8655151",
+    "site_full": "www.nsnews.com",
+    "site": "nsnews.com",
+    "site_section": "https://www.nsnews.com/rss",
+    "site_categories": ["media"],
+    "section_title": "North Shore News: nsnews",
+    "title": "Opposition BC United seeks to prevent convicted dangerous offenders from name changes",
+    "title_full": "Opposition BC United seeks to prevent convicted dangerous offenders from name changes",
+    "published": "2024-04-26T00:20:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2024/04/20240425160436-d3e4857d07beaedc68f61446a2282047b48b6fab052c15065a03474c24f8b70a.jpg;w=650;h=418;mode=crop",
+    "performance_score": 0,
+    "domain_rank": 29872,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9eb27141de38892e5ae878f5af915a19fea0350e",
+  "url": "https://www.nsnews.com/national-news/opposition-bc-united-seeks-to-prevent-convicted-dangerous-offenders-from-name-changes-8655151",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Canadian Press",
+  "published": "2024-04-26T00:20:00.000+03:00",
+  "title": "Opposition BC United seeks to prevent convicted dangerous offenders from name changes",
+  "text": "VICTORIA — Opposition BC United Leader Kevin Falcon says he wants to prevent people convicted of dangerous criminal offences from legally changing their names. Falcon has tabled a private member's bill in the legislature to amend the British Columbia Name Act after learning convicted child-killer Allan Schoenborn was recently permitted to legally change his name. Schoenborn was found not criminally responsible because of a mental disorder for the 2008 killings of his three children in Merritt, B.C., and has changed his name, but his new identity has not been made public. Falcon says the NDP government has the power under the Name Act to prevent name changes, but did not do that with Schoenborn, who has been held at the Forensic Psychiatric Hospital in Coquitlam, B.C., since 2010. Falcon says the Opposition's Name Amendment Act, if passed, would automatically prevent people designated as a dangerous or long-term offender under the Criminal Code from filing applications to change their name. Premier David Eby said earlier he will look at the current name-change legislation because people should not be able to evade responsibility for criminal offences by changing their names. This report by The Canadian Press was first published April 25, 2024. The Canadian Press",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Politics", "Social Issue", "Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "kevin falcon",
+        "sentiment": "negative"
+      },
+      {
+        "name": "schoenborn",
+        "sentiment": "none"
+      },
+      {
+        "name": "david eby",
+        "sentiment": "none"
+      },
+      {
+        "name": "allan schoenborn",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "bc united",
+        "sentiment": "negative"
+      },
+      {
+        "name": "forensic psychiatric hospital",
+        "sentiment": "none"
+      },
+      {
+        "name": "ndp",
+        "sentiment": "none"
+      },
+      {
+        "name": "falcon",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "merritt",
+        "sentiment": "none"
+      },
+      {
+        "name": "coquitlam",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:27:50.860+03:00",
+  "updated": "2024-04-26T02:53:12.108+03:00"
+}

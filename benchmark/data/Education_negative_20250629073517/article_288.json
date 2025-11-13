@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "73a9e83999dfad2941f40ed15042a0c342b66de7",
+    "url": "https://life.ru/p/1764842",
+    "site_full": "life.ru",
+    "site": "life.ru",
+    "site_section": "https://life.ru/xml/feed.xml",
+    "site_categories": ["media", "top_news_ru", "top_news"],
+    "section_title": "«Life.ru» — информационный портал",
+    "site_title": "«Life.ru» — информационный портал",
+    "title": "В России не оценили новые правила допуска к работе для выпускников-медиков",
+    "title_full": "В России не оценили новые правила допуска к работе для выпускников-медиков",
+    "published": "2025-06-26T10:19:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://static.life.ru/publications/2025/6/26/692192141847.0604.webp",
+    "performance_score": 0,
+    "domain_rank": 7176,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "73a9e83999dfad2941f40ed15042a0c342b66de7",
+  "url": "https://life.ru/p/1764842",
+  "ord_in_thread": 0,
+  "author": "Борис Эльфанд",
+  "published": "2025-06-26T10:19:00.000+03:00",
+  "title": "В России не оценили новые правила допуска к работе для выпускников-медиков",
+  "text": "В России не оценили новые правила допуска к работе для выпускников-медиков\nВрач Гальперин не поддержал идею ограничить работу выпускников-медиков без стажа\nВрач. Обложка © freepik\nПредложение Минздрава ограничить в работе медиков, только закончивших профильные вузы и не имеющих соответствующего стажа, позволят российским медицинским учреждениям с острым кадровым дефицитом обойтись без повышения зарплат. Об этом заявил глава Лиги защиты врачей, физиотерапевт Семён Гальперин.\n«Не приходится рассчитывать на повышение зарплат в районах, где не хватает врачей. Минздрав решил пойти другим путём. Понятно, что предложение ведомства основано на отсутствии средств», — отметил собеседник «Ридуса».\nПо его словам, Минздрав не уточняет, что будет с выпускниками медвузов, которые проходили обучение на коммерческой основе. Обяжут ли их набирать стаж госклиниках для получения аккредитации? Врач подчеркнул, что если обяжут, то у системы платного медицинского образования могут возникнуть проблемы, потому что обучение стоит очень дорого, а в госучреждениях заработать потраченную сумму достаточно проблематично.\nНапомним, ранее Минздрав захотел лишить выпускников медвузов права работать без трёх лет стажа в госклиниках. Согласно законопроекту, пройти аккредитацию смогут только те специалисты, которые после учёбы за счёт государства отработали минимум три года в медучреждениях, принимающих по ОМС.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Education", "Politics", "Social Issue"],
+  "topics": [
+    "Education->students",
+    "Education->educational grading",
+    "Education->teachers",
+    "Politics->education policy",
+    "Politics->civil rights",
+    "Politics->government",
+    "Social Issue->social problem",
+    "Social Issue->discrimination",
+    "Social Issue->ageism"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://ru.freepik.com/free-photo/cheerful-young-doctor-with-tablet-hall_1867976.htm",
+    "https://www.ridus.ru/vrach-galperin-novye-pravila-minzdrava-ostavyat-medikov-bez-povysheniya-zarplat-650283.html",
+    "https://ridus.ru/vrach-galperin-novye-pravila-minzdrava-ostavyat-medikov-bez-povysheniya-zarplat-650283.html",
+    "https://www.ru.freepik.com/free-photo/cheerful-young-doctor-with-tablet-hall_1867976.htm"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ru", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T10:29:49.678+03:00",
+  "updated": "2025-06-27T08:07:25.000+00:00"
+}

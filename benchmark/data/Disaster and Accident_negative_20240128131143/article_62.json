@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "3f68f9ca1c6bc9094ff71838e4428582f2aa7f0c",
+    "url": "https://breaking911.com/5-million-blenders-sold-at-costco-target-and-walmart-recalled-because-blades-are-breaking-off/",
+    "site_full": "breaking911.com",
+    "site": "breaking911.com",
+    "site_section": "https://breaking911.com/feed/",
+    "site_categories": ["media"],
+    "section_title": "Breaking911",
+    "title": "5 Million Blenders Sold at Costco, Target and Walmart Recalled Because Blades Are Breaking Off",
+    "title_full": "5 Million Blenders Sold at Costco, Target and Walmart Recalled Because Blades Are Breaking Off",
+    "published": "2023-12-28T22:59:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://breaking911.com/wp-content/uploads/2019/10/Recall-MGN-1024x576.jpg",
+    "performance_score": 0,
+    "domain_rank": 68364,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3f68f9ca1c6bc9094ff71838e4428582f2aa7f0c",
+  "url": "https://breaking911.com/5-million-blenders-sold-at-costco-target-and-walmart-recalled-because-blades-are-breaking-off/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "B911",
+  "published": "2023-12-28T22:59:00.000+02:00",
+  "title": "5 Million Blenders Sold at Costco, Target and Walmart Recalled Because Blades Are Breaking Off",
+  "text": "BlendJet Inc. has recalled 4.8 million of portable blenders. The recalled blenders can overheat or catch fire and the blender blades can break off, posing fire and laceration hazards to consumers.\nThis recall involves BlendJet 2 Portable Blenders sold in a variety of colors and designs. Serial numbers are printed on the bottom of the base along with “blendjet2” and “The Original Portable Blender.”\nThe blenders measure approximately 9.5 inches in height and 3 inches wide and weigh approximately 1.5 pounds. Units where the first 4 digits of the serial number are between 5201-5542 and are subject to the recall must be identified through the use of the “Is my BlendJet 2 Recalled?” tool located at\nwww.blendjet.com/safetyandrecall.\nConsumers should immediately stop using the recalled blenders and contact BlendJet for a free replacement of the BlendJet 2 base unit. Consumers will need to remove and cut the rubber seal from the base of their recalled blender into three or more pieces and upload or email a photo showing the serial number on the bottom of the unit and its rubber seal in pieces to BlendJet at\nhttp://www.blendjet.com/safetyandrecall or [[email protected]](/cdn-cgi/l/email-protection#fd8e9c9b988984bd9f91989399979889d39e9290) to receive a free replacement base. Consumers can identify whether they have a recalled unit by entering the serial number of their unit into the “Is my BlendJet 2 Recalled?” tool located at www.blendjet.com/safetyandrecall, or by calling BlendJet toll-free number at 844-334-0562.\nThe firm has received approximately 329 reports of the blades breaking while in use, and an additional 17 reports of overheating or fires resulting in property damage claims of approximately $150,000. The firm has received about 49 reports of minor burns and one report of a laceration injury.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Disaster and Accident"],
+  "external_links": [
+    "https://blendjet.com/safetyandrecall",
+    "http://www.blendjet.com/safetyandrecall",
+    "http://blendjet.com/safetyandrecall",
+    "https://www.blendjet.com/safetyandrecall"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "walmart",
+        "sentiment": "negative"
+      },
+      {
+        "name": "costco",
+        "sentiment": "negative"
+      },
+      {
+        "name": "blendjet inc.",
+        "sentiment": "negative"
+      },
+      {
+        "name": "blendjet",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:05:44.353+02:00",
+  "updated": "2023-12-29T00:05:44.353+02:00"
+}

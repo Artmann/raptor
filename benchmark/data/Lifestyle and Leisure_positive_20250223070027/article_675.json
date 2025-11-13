@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "289634828b992619e99cc09960632f6c5c71033f",
+    "url": "https://www.enidnews.com/sports/plainsmen-swimmers-win-confernce-girls-2nd/article_3abe1918-d9d8-11ef-ab76-af5c3d26e7c0.html",
+    "site_full": "www.enidnews.com",
+    "site": "enidnews.com",
+    "site_section": "http://www.enidnews.com/search/?q=&t=article&l=100&d=&d1=&d2=&s=start_time&sd=desc&nsa=eedition&c[]=sports,sports/*&f=rss",
+    "site_categories": ["uncategorized"],
+    "section_title": "www.enidnews.com - RSS Results in sports,sports/* of type article",
+    "title": "Plainsmen swimmers win confernce; girls 2nd",
+    "title_full": "Plainsmen swimmers win confernce; girls 2nd",
+    "published": "2025-01-24T00:20:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/assets/v3/editorial/c/68/c6850380-6977-11ee-9fef-477b07e8b3d8/6528b82a46fe1.image.jpg?crop=203%2C203%2C39%2C0&amp;resize=200%2C200&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 34391,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "289634828b992619e99cc09960632f6c5c71033f",
+  "url": "https://www.enidnews.com/sports/plainsmen-swimmers-win-confernce-girls-2nd/article_3abe1918-d9d8-11ef-ab76-af5c3d26e7c0.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Bruce Campbell | Enid News & Eagle",
+  "published": "2025-01-24T00:20:00.000+02:00",
+  "title": "Plainsmen swimmers win confernce; girls 2nd",
+  "text": "EDMOND, Okla. — Taylor Higbee won four gold medals and Hudson Plummer three as the Enid Plainsmen reclaimed the Oklahoma Big Seven Conference swimming championships Thursday, Jan. 23, 2025, at the Mitch Park YMCA.\nEnid’s girls, seeking their 10th straight conference title, were second to Ponca City.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->swimming",
+    "Human Interest->record and achievement",
+    "Lifestyle and Leisure->game",
+    "Lifestyle and Leisure->exercise and fitness"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Taylor Higbee",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Hudson Plummer",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Enid",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:31:09.834+02:00",
+  "updated": "2025-01-24T00:31:09.834+02:00"
+}

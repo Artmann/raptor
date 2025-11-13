@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "2539ec2bc0033901e178aed15a6fb1b2094c7443",
+    "url": "https://www.dutchnews.nl/2023/12/amsterdams-murder-rate-falls-to-just-11-in-2023/",
+    "site_full": "www.dutchnews.nl",
+    "site": "dutchnews.nl",
+    "site_section": "https://www.dutchnews.nl/feed",
+    "site_categories": ["media"],
+    "section_title": "DutchNews.nl",
+    "title": "Amsterdam’s murder rate falls to just 11 in 2023",
+    "title_full": "Amsterdam’s murder rate falls to just 11 in 2023",
+    "published": "2023-12-29T12:04:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NL",
+    "main_image": "https://www.dutchnews.nl/wpcms/wp-content/uploads/2023/10/Depositphotos_367878010_L.jpg",
+    "performance_score": 0,
+    "domain_rank": 6658,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2539ec2bc0033901e178aed15a6fb1b2094c7443",
+  "url": "https://www.dutchnews.nl/2023/12/amsterdams-murder-rate-falls-to-just-11-in-2023/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Robin Pascoe",
+  "published": "2023-12-29T12:04:00.000+02:00",
+  "title": "Amsterdam’s murder rate falls to just 11 in 2023",
+  "text": "Amsterdam’s murder rate falls to just 11 in 2023\nThe number of murders in Amsterdam fell to a low of 11 this year, or fewer than one a month.\nJust two of the 11 were gang-related and several of the others were carried out by men with psychiatric problems, the\nParool reported on Friday.\nThe number of murders in the Dutch capital has hovered between 10 and 20 for the past few years. The highest number of violent deaths this century was in 2000 when 52 people were killed. Last year, the murder total was 12.\nFour of this year’s killings were down to guns, four to stabbings and two people were beaten to death. The cause of death in the final one has yet to be confirmed. Nine victims were men and two were women.\nLocal police chief Frank Paauw said earlier he is concerned about the number of violent incidents involving psychiatric patients. They were responsible for three murders this year and several other serious attacks.\nWhile crime-related deaths fell, there was a surge in the number of attacks on private homes and businesses using explosives. In the Netherlands as a whole there have been almost 700 this year, compared with 228 in 2022, the Parool said.\n ",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Social Issue", "Human Interest", "Crime, Law and Justice"],
+  "external_links": [
+    "https://parool.nl/amsterdam/dit-waren-de-geweldsdoden-in-2023-opnieuw-een-laagterecord-voor-regio-amsterdam~b6ef45ed/",
+    "https://www.parool.nl/amsterdam/dit-waren-de-geweldsdoden-in-2023-opnieuw-een-laagterecord-voor-regio-amsterdam~b6ef45ed/",
+    "https://www.parool.nl/amsterdam/dit-waren-de-geweldsdoden-in-2023-opnieuw-een-laagterecord-voor-regio-amsterdam~b6ef45ed"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "frank paauw",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "parool",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "amsterdam",
+        "sentiment": "none"
+      },
+      {
+        "name": "netherlands",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T14:02:01.955+02:00",
+  "updated": "2023-12-29T14:02:01.955+02:00"
+}

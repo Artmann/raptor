@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "01228fa177615ff0e94e8176bf5f437f420ac8c6",
+    "url": "https://nebraska.tv/news/local/york-truck-stop-employee-charged-with-stealing-7860-from-safe-remains-at-large",
+    "site_full": "nebraska.tv",
+    "site": "nebraska.tv",
+    "site_section": "https://nebraska.tv",
+    "site_categories": ["media"],
+    "section_title": "chevron-right",
+    "title": "chevron-right",
+    "title_full": "chevron-right",
+    "published": "2024-04-25T22:04:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://nebraska.tv/resources/media/265cdb83-9c11-4c86-b7b8-e48eb48ae723-large16x9_FlashingPoliceLights.jpg?1605844246173",
+    "performance_score": 0,
+    "domain_rank": 64340,
+    "domain_rank_updated": "2024-04-23T13:07:55.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "01228fa177615ff0e94e8176bf5f437f420ac8c6",
+  "url": "https://nebraska.tv/news/local/york-truck-stop-employee-charged-with-stealing-7860-from-safe-remains-at-large",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NTV News",
+  "published": "2024-04-25T22:04:00.000+03:00",
+  "title": "chevron-right",
+  "text": "YORK COUNTY, Neb. — A man has been charged with stealing thousands of dollars from a safe at a York truck stop. Ted Mann, 49, is charged in York County Court with theft by shoplifting (more than $5,000). According to an arrest affidavit, on Sunday, a York Police officer responded to Petro Travel Station, 4700 S. Lincoln Ave. in York, after the store’s manager reported an employee, Mann, took money from a safe. The affidavit said the manager told the officer Mann was seen on surveillance footage entering the business around 1 p.m. Saturday and taking $7,860 in cash, most of which was $20 and $100 bills. The manger told the officer Mann was scheduled to work on Sunday but did not show up. The affidavit said officers attempted to locate Mann at Super 8 Hotel, 4112 S. Lincoln Ave., but were unable to find him. Court records said the hotel registration listed a Kansas address, while his vehicle has an Arizona license plate. The Petro manager told police Mann transferred in from Tennessee. A warrant for Mann’s arrest was issued Wednesday. He has yet to be arrested. Updates will be posted as they become available.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "mann",
+        "sentiment": "none"
+      },
+      {
+        "name": "ted mann",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "petro travel station",
+        "sentiment": "none"
+      },
+      {
+        "name": "york police",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "neb.",
+        "sentiment": "none"
+      },
+      {
+        "name": "york",
+        "sentiment": "none"
+      },
+      {
+        "name": "york county court",
+        "sentiment": "none"
+      },
+      {
+        "name": "tennessee",
+        "sentiment": "none"
+      },
+      {
+        "name": "kansas",
+        "sentiment": "none"
+      },
+      {
+        "name": "s. lincoln ave.",
+        "sentiment": "none"
+      },
+      {
+        "name": "arizona",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:47:36.265+03:00",
+  "updated": "2024-04-26T00:47:36.265+03:00"
+}

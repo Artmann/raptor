@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "fbe254bdf5f2da2d19b69663a24630ace9d19a10",
+    "url": "https://www.lesoleil.com/actualites/education/2025/06/26/une-coalition-formee-contre-les-restrictions-budgetaires-en-education-OAGUA7JQJVGCDLCDAHKO4PWOO4",
+    "site_full": "www.lesoleil.com",
+    "site": "lesoleil.com",
+    "site_section": "https://lesoleil.com/vivre",
+    "site_categories": ["media"],
+    "section_title": "Vivre | Le Soleil",
+    "site_title": "Le Soleil | Le média coopératif des gens de Québec",
+    "title": "Une coalition formée contre les restrictions budgétaires en éducation",
+    "title_full": "Une coalition formée contre les restrictions budgétaires en éducation",
+    "published": "2025-06-26T16:01:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://lescoopsdelinformation-le-soleil-prod.web.arc-cdn.net/resizer/v2/Q4HOOSEFBNGWBKMBPLUT3XU5BM.jpeg?smart=true&amp;auth=bfa6386da77f7b068280d6af61d725ece38fcde3e5ef8cac75aa14094a5793dd&amp;width=657&amp;height=438",
+    "performance_score": 0,
+    "domain_rank": 28260,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fbe254bdf5f2da2d19b69663a24630ace9d19a10",
+  "url": "https://www.lesoleil.com/actualites/education/2025/06/26/une-coalition-formee-contre-les-restrictions-budgetaires-en-education-OAGUA7JQJVGCDLCDAHKO4PWOO4",
+  "ord_in_thread": 0,
+  "author": "Lia Lévesque, La Presse Canadienne",
+  "published": "2025-06-26T16:01:00.000+03:00",
+  "title": "Une coalition formée contre les restrictions budgétaires en éducation",
+  "text": "La commande gouvernementale passée aux directions d’écoles est de réduire leurs dépenses de 570 millions de dollars.\nBien que le ministre de l’Éducation, Bernard Drainville, leur ait demandé d’affecter le moins possible les services directs aux élèves, ces groupes soutiennent que cela sera impossible, vu l’ampleur des réductions demandées.\n«Ce qui se passe présentement en éducation est inadmissible et c’est pourquoi les différents acteurs se mobilisent. On coupe des postes, des mesures essentielles aux apprentissages et au bien-être des élèves. Le réseau doit être soutenu à la hauteur des ambitions des Québécois. C’est de notre avenir qu’il s’agit», a affirmé Nicolas Prévost, président de la Fédération québécoise des directions d’établissement d’enseignement.\nJusqu’ici, les voix s’étaient fait entendre séparément contre les restrictions budgétaires, mais, cette fois, les groupes concernés ont formé une coalition, un mouvement baptisé «Ensemble, unis pour l’école».\nLa Centrale des syndicats du Québec (CSQ), qui représente 125 000 membres dans le milieu de l’éducation, en fait aussi partie, tout comme le Regroupement des comités de parents autonomes du Québec.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": ["Education", "Politics", "Social Issue"],
+  "topics": [
+    "Education->school",
+    "Education->educational grading",
+    "Education->state school",
+    "Politics->education policy",
+    "Politics->government policy",
+    "Politics->political development",
+    "Social Issue->social services",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T16:29:43.783+03:00",
+  "updated": "2025-06-26T13:34:55.000+00:00"
+}

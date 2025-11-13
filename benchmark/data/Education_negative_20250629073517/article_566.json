@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "1d782927be8c81b5e888d10adca96abdd6c51c6b",
+    "url": "https://www.welt.de/vermischtes/article256308854/Baden-Wuerttemberg-Drei-Tage-nur-vegetarische-Kost-in-der-Schule-Gericht-weist-Beschwerden-zurueck.html",
+    "site_full": "www.welt.de",
+    "site": "welt.de",
+    "site_section": "https://www.welt.de/",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "section_title": "WELT - Aktuelle Nachrichten, News, Hintergründe &amp; Videos",
+    "site_title": "WELT - Aktuelle Nachrichten, News, Hintergründe &amp; Videos",
+    "title": "Baden-Württemberg: Drei Tage nur vegetarische Kost in der Schule - Gericht weist Beschwerden zurück - WELT",
+    "title_full": "Baden-Württemberg: Drei Tage nur vegetarische Kost in der Schule - Gericht weist Beschwerden zurück - WELT",
+    "published": "2025-06-26T12:56:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://images.welt.de/685d090d83e6637b573fccd0/11b95cb85a8d4c2c943ae52be0e641c5-master/ci16x9-w1200/anne-frank-realschule-in-muenchen-2024",
+    "performance_score": 8,
+    "domain_rank": 960,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 311,
+        "comments": 478,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1d782927be8c81b5e888d10adca96abdd6c51c6b",
+  "url": "https://www.welt.de/vermischtes/article256308854/Baden-Wuerttemberg-Drei-Tage-nur-vegetarische-Kost-in-der-Schule-Gericht-weist-Beschwerden-zurueck.html",
+  "ord_in_thread": 0,
+  "author": "@welt",
+  "published": "2025-06-26T12:56:00.000+03:00",
+  "title": "Baden-Württemberg: Drei Tage nur vegetarische Kost in der Schule - Gericht weist Beschwerden zurück - WELT",
+  "text": "Eltern stören sich daran, dass an einer Schule im Raum Konstanz an drei Tagen nur vegetarische oder vegane Kost angeboten wird – es gibt nur einen Tag mit Fleisch oder Fisch. Doch ein Gericht weist ihre Beschwerde ab.\n0 Anzeige Fleischgerichte werden an einer Schule im Raum Konstanz weiterhin die Ausnahme bleiben. Der Verwaltungsgerichtshof Baden-Württemberg (VGH) in Mannheim hat Beschwerden zum überwiegend vegetarischen Schulessen als unzulässig zurückgewiesen, wie der VGH am Donnerstag mitteilte. Der Beschluss sei unanfechtbar. Die Eltern hatten sich gegen ein vorausgegangenes Urteil des Verwaltungsgerichts Freiburg gewandt.\nDie Eltern hatten sich daran gestört, dass das Schulessen, das von Montag bis Donnerstag angeboten wird, an drei Tagen aus vegetarischer oder veganer Kost besteht. Nur an jeweils einem Tag werde ein Fleisch- oder Fischangebot bereitgehalten. Die Eltern befürchten eine Mangelernährung ihrer Tochter.\nAnzeige Lesen Sie auch\nWeltplus Artikel Gerichtsverhandlung in Berlin Die Regenbogen-Flagge im Schulhort – und die Sorgen der Eltern eines Mädchens",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->school",
+    "Education->students",
+    "Education->parents group",
+    "Social Issue->demographics",
+    "Social Issue->diversity, equity and inclusion",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_de", "top_news_ch", "top_news_at", "top_news"],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T13:04:17.739+03:00",
+  "updated": "2025-06-27T10:08:23.000+00:00"
+}

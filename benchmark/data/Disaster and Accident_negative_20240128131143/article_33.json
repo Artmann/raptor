@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "e4084189e573b1bf5190871870ffc6433122264f",
+    "url": "https://www.cbc.ca/news/canada/saskatchewan/crews-respond-to-major-fire-north-of-regina-1.7070517",
+    "site_full": "www.cbc.ca",
+    "site": "cbc.ca",
+    "site_section": "http://rss.cbc.ca/lineup/canada-saskatchewan.xml",
+    "site_categories": ["media"],
+    "section_title": "",
+    "title": "Fire crews responded to a fire at Wheat City Metal",
+    "title_full": "Fire crews responded to a fire at Wheat City Metal",
+    "published": "2023-12-28T20:39:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://i.cbc.ca/1.7070560.1703797196!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/wheat-city-metals-fire.JPG",
+    "performance_score": 0,
+    "domain_rank": 316,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e4084189e573b1bf5190871870ffc6433122264f",
+  "url": "https://www.cbc.ca/news/canada/saskatchewan/crews-respond-to-major-fire-north-of-regina-1.7070517",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2023-12-28T20:39:00.000+02:00",
+  "title": "Fire crews responded to a fire at Wheat City Metal",
+  "text": "Fire crews responded to a fire at Wheat City Metals just north of Regina on Thursday afternoon.\nBlack smoke poured out of the site at 2881 Pasqua St. N.\nFire crews say the call came in at 12:46 p.m. CST.\nRegina Fire and Protective Services confirmed in a media release later Thursday that that the fire had been contained and was \"in full control.\"\nThe release said there was no threat to the surrounding area and the air quality was being monitored due to the smoke.\nFour fire trucks are on scene responding to the fire at Wheat City Metals. Crews were called at 12:46 p.m CST to the scene just north of Regina. (Richard Agecoutay/CBC) A large fire erupted at Wheat City Metals in Regina on Thursday afternoon. The fire filled the sky with a cloud of black smoke. (David Houle/RDC) The scrapyard is located close to the Evraz steel plant.\nFire crews were receiving water from a pumper truck located about 150 metres away.\nA fire spokesperson said there were no injuries and that crews could be at the scene for a while.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident",
+    "Crime, Law and Justice",
+    "Environment"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "blac",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "regina",
+        "sentiment": "none"
+      },
+      {
+        "name": "david houle",
+        "sentiment": "none"
+      },
+      {
+        "name": "richard agecoutay",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "wheat city metal fire",
+        "sentiment": "negative"
+      },
+      {
+        "name": "regina fire and protective services",
+        "sentiment": "none"
+      },
+      {
+        "name": "evraz",
+        "sentiment": "none"
+      },
+      {
+        "name": "wheat city metals",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "regina",
+        "sentiment": "none"
+      },
+      {
+        "name": "wheat city metals",
+        "sentiment": "none"
+      },
+      {
+        "name": "pasqua st. n. fire",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:02:27.292+02:00",
+  "updated": "2023-12-29T00:02:27.292+02:00"
+}

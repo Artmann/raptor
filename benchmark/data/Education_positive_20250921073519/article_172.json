@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "32b6125646a540d1caf0c8199cb8cfd6786a7c20",
+    "url": "https://article.wn.com/view/2025/09/18/High_school_roundup_for_Sept_16_2025_Avonworth_too_much_for_/",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/football",
+    "site_categories": ["media"],
+    "section_title": "World News - Football",
+    "site_title": "World News",
+    "title": "High school roundup for Sept. 16, 2025: Avonworth too much for Central Valley in Class ... - Worldnews.com",
+    "title_full": "High school roundup for Sept. 16, 2025: Avonworth too much for Central Valley in Class ... - Worldnews.com",
+    "published": "2025-09-18T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 8219,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "32b6125646a540d1caf0c8199cb8cfd6786a7c20",
+  "url": "https://article.wn.com/view/2025/09/18/High_school_roundup_for_Sept_16_2025_Avonworth_too_much_for_/",
+  "ord_in_thread": 0,
+  "author": "System",
+  "published": "2025-09-18T03:00:00.000+03:00",
+  "title": "High school roundup for Sept. 16, 2025: Avonworth too much for Central Valley in Class ... - Worldnews.com",
+  "text": "Calder Mahan scored a pair of goals to lead Avonworth to a 4-2 victory over Central Valley (5-2, 4-2) in a matchup of contenders in Section 2-2A boys soccer Tuesday. Cody Cwynar had a goal and an assist and Nate Kline also scored for the Antelopes (7-1, 5-1). Allderdice 5, Belle Vernon 1 – Ethan Voight-Cherna scored a...\nread full story",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Education"],
+  "topics": [
+    "Sport->soccer",
+    "Human Interest->graduation",
+    "Education->students",
+    "Education->upper secondary education",
+    "Education->school"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://tribhssn.triblive.com/high-school-roundup-for-sept-16-2025-seneca-valley-blanks-north-allegheny-in-clash-of-boys-soccer-contenders/",
+    "https://www.tribhssn.triblive.com/high-school-roundup-for-sept-16-2025-seneca-valley-blanks-north-allegheny-in-clash-of-boys-soccer-contenders/",
+    "https://tribhssn.triblive.com/high-school-roundup-for-sept-16-2025-seneca-valley-blanks-north-allegheny-in-clash-of-boys-soccer-contenders"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Calder Mahan",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Ethan Voight-Cherna",
+        "sentiment": "none"
+      },
+      {
+        "name": "Cody Cwynar",
+        "sentiment": "none"
+      },
+      {
+        "name": "Nate Kline",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Allderdice",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:51:29.989+03:00",
+  "updated": "2025-09-18T07:58:53.000+03:00"
+}

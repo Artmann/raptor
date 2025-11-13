@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "aae35994839ae9f4019e6393f1a4ed7d888c2cad",
+    "url": "https://www.gmx.net/magazine/regio/niedersachsen/schiff-faehrt-damm-bleibt-stundenlang-stecken-40954764",
+    "site_full": "www.gmx.net",
+    "site": "gmx.net",
+    "site_section": "https://www.gmx.net/magazine/regio",
+    "site_categories": ["tech", "email"],
+    "section_title": "Regionale Nachrichten | GMX",
+    "site_title": "GMX - kostenlose E-Mail-Adresse, FreeMail & Nachrichten",
+    "title": "Schiff fährt auf Damm und bleibt stundenlang stecken",
+    "title_full": "Schiff fährt auf Damm und bleibt stundenlang stecken",
+    "published": "2025-05-08T03:55:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://i0.gmx.net/image/766/40954766,pd=1,f=opengraph/faehre.jpg",
+    "performance_score": 0,
+    "domain_rank": 5686,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "aae35994839ae9f4019e6393f1a4ed7d888c2cad",
+  "url": "https://www.gmx.net/magazine/regio/niedersachsen/schiff-faehrt-damm-bleibt-stundenlang-stecken-40954764",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T03:55:00.000+03:00",
+  "title": "Schiff fährt auf Damm und bleibt stundenlang stecken",
+  "text": "Wittmund - Ein Passagierschiff hat sich nach einem technischen Ausfall auf einem Leitdamm vor Wittmund festgefahren und mehr als neun Stunden lang dort festgesteckt.\nNachdem das Schiff am Mittwochmorgen den Hafen Wittmund-Harlesiel verlassen hatte, fiel die Bordelektrik und dadurch die Ruderanlage aus, wie die Wasserschutzpolizei mitteilte.\nDas Schiff lief demnach auf den knapp einen Kilometer entfernten Damm auf. Ein privater Helfer habe sieben der fünfzehn Fahrgäste vom Schiff gebracht. Die anderen acht sowie drei Besatzungsmitglieder seien an Bord geblieben, hieß es weiter.\nDie Besatzung konnte laut Polizei das Schiff wegen Ebbe nicht befreien und musste daher das nächste Hochwasser abwarten. Am Abend habe das Schiff in den Hafen Wittmund-Harlesiel zurückkehren können. Es soll den Angaben zufolge voraussichtlich am Freitag auf mögliche Schäden untersucht werden und darf so lange nicht mehr fahren. © Deutsche Presse-Agentur",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Environment", "Disaster and Accident"],
+  "topics": [
+    "Environment->water",
+    "Environment->natural resources",
+    "Environment->environmental pollution",
+    "Disaster and Accident->transportation accident and incident"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Deutsche Presse-Agentur",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:10:41.393+03:00",
+  "updated": "2025-05-08T02:15:06.000+00:00"
+}

@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "cb048c8c2d5c3250fa449ad44cb9f17ab6f9071a",
+    "url": "https://morganton.com/news/local/burke-reports-overflow-of-wastewater-at-indian-hills-pump-station/article_ef18519a-a5cb-11ee-915a-4f182c66d0fa.html",
+    "site_full": "morganton.com",
+    "site": "morganton.com",
+    "site_section": "https://asean.einnews.com/live_feed",
+    "site_categories": ["media"],
+    "section_title": "Live Feed Wire - ASEAN News Today - EIN Presswire",
+    "title": "Sewer overflow reported at Indian Hills Pump Station",
+    "title_full": "Sewer overflow reported at Indian Hills Pump Station",
+    "published": "2023-12-28T07:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/morganton.com/content/tncms/assets/v3/editorial/e/92/e924266e-ec10-11eb-8920-c31bc21026cc/60fb560602416.image.jpg?crop=1343%2C705%2C491%2C0&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 72609,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cb048c8c2d5c3250fa449ad44cb9f17ab6f9071a",
+  "url": "https://morganton.com/news/local/burke-reports-overflow-of-wastewater-at-indian-hills-pump-station/article_ef18519a-a5cb-11ee-915a-4f182c66d0fa.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "From Staff Reports news@morganton.com",
+  "published": "2023-12-28T07:00:00.000+02:00",
+  "title": "Sewer overflow reported at Indian Hills Pump Station",
+  "text": "Burke County Government reported on Thursday a sewage spill that happened at its Indian Hills Pump Station. A release from Burke County said the overflow of an estimated 4,000 gallons of untreated wastewater started at around 10 p.m. on Tuesday, Dec. 26, and it was stopped at around 1 p.m. on Wednesday, Dec. 27. The Indian Hills Pump Station is located at 2711 Indian Hills Circle, Hickory. The untreated wastewater was discharged into Drowning Creek in the Catawba River Basin, the release said. The county said the NC Division of Environmental Quality was notified of the event on Wednesday and it is reviewing the matter. The release said several wastewater collection systems across the state were also impacted by the heavy rain event and Burke County is working with the NC Division of Environmental Quality to identify and resolve this issue. People are also reading… State law requires an owner or operator of any wastewater collection or treatment works to issue a press release when an untreated wastewater discharge of 1,000 gallons or more reaches surface waters. For more information, contact Burke County General Services at 828-764-9062.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "nc division of environmental quality",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "indian hills pump station burke county",
+        "sentiment": "none"
+      },
+      {
+        "name": "indian hills circle",
+        "sentiment": "none"
+      },
+      {
+        "name": "burke county",
+        "sentiment": "none"
+      },
+      {
+        "name": "drowning creek",
+        "sentiment": "none"
+      },
+      {
+        "name": "indian hills pump station",
+        "sentiment": "none"
+      },
+      {
+        "name": "catawba river basin",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:39:29.835+02:00",
+  "updated": "2023-12-29T00:39:29.835+02:00"
+}

@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "539953f76ecee5366f2640637912c723bf1d9312",
+    "url": "https://m.farms.com/news/a-friendly-microbial-hitchhiker-could-increase-protein-in-staple-crops-233784.aspx",
+    "site_full": "m.farms.com",
+    "site": "farms.com",
+    "site_section": "https://farms.com",
+    "site_categories": [],
+    "section_title": "Farms.com – Latest agriculture information, farming news, commentary, weather, auctions, markets & new products portal\r\n",
+    "site_title": "Farms.com – Latest agriculture information, farming news, commentary, weather, auctions, markets & new products portal",
+    "title": "A Friendly Microbial Hitchhiker Could Increase Protein in Staple Crops | Farms.com",
+    "title_full": "A Friendly Microbial Hitchhiker Could Increase Protein in Staple Crops | Farms.com",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 132472,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "539953f76ecee5366f2640637912c723bf1d9312",
+  "url": "https://m.farms.com/news/a-friendly-microbial-hitchhiker-could-increase-protein-in-staple-crops-233784.aspx",
+  "ord_in_thread": 0,
+  "author": "Base",
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "A Friendly Microbial Hitchhiker Could Increase Protein in Staple Crops | Farms.com",
+  "text": "By Katie Peikes\nThe Green Revolution of 1950–1970 helped agriculture flourish around the world. Advances in technology enabled farmers to scale up their production, improving the way they watered and fertilized their crops.\nThe technological advancements—particularly in using chemical fertilizers—paved the way for taller plants, richer soils, and greater crop yields. All of these are known as \"above-ground\" traits.\nBut Harsh Bais, a professor of plant biology at the University of Delaware who was named an Innovation Ambassador earlier this year, said plants' \"below-ground\" traits, such as how nutrient-dense they are, have long been overlooked.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Environment"],
+  "topics": [
+    "Science and Technology->biology",
+    "Science and Technology->agricultural technology",
+    "Environment->sustainability"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Katie Peikes",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "University of Delaware",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:38:32.755+03:00",
+  "updated": "2025-10-16T14:03:55.000+03:00"
+}

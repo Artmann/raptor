@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "543bbd7111419a3f6d01d5ab1510f8b21b209105",
+    "url": "https://www.mercedsunstar.com/news/california/fires/article305957871.html",
+    "site_full": "www.mercedsunstar.com",
+    "site": "mercedsunstar.com",
+    "site_section": "https://www.mercedsunstar.com/news/california/fires",
+    "site_categories": ["media"],
+    "section_title": "Latest Merced County CA Wildfire Updates | Merced Sun-Star",
+    "site_title": "Merced &amp; Central California Breaking News &amp; Crime | Merced Sun-Star",
+    "title": "Wildfire breaks out in Amador County, CA | Merced Sun-Star",
+    "title_full": "Wildfire breaks out in Amador County, CA | Merced Sun-Star",
+    "published": "2025-05-08T03:12:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.mcclatchy-wires.com/incoming/svrxpn/picture290003454/alternates/LANDSCAPE_1140/904274ad-cc18-4c6a-b772-fd81b276817c",
+    "performance_score": 0,
+    "domain_rank": 31205,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "543bbd7111419a3f6d01d5ab1510f8b21b209105",
+  "url": "https://www.mercedsunstar.com/news/california/fires/article305957871.html",
+  "ord_in_thread": 0,
+  "author": "CA WILDFIRE BOT",
+  "published": "2025-05-08T03:12:00.000+03:00",
+  "title": "Wildfire breaks out in Amador County, CA | Merced Sun-Star",
+  "text": "Fires\nBreaking: Fiddletown Fire reported in Amador County on May 7\nThe creation of this content included the use of AI based on templates created, reviewed and edited by journalists in the newsroom. Read more on our AI policy here.\nFirst discovered: 4:50 p.m. May 7\nInitial location: Amador County, Calif.\nFire type: Wildfire\nFire name: Fiddletown\nA new wildfire was reported today at 4:50 p.m. in Amador County.\nFiddletown Fire has been burning on private land. At this time, the containment status is unknown and the cause of the fire remains undetermined.\nSource: National Interagency Fire Center\nThis story was originally published May 7, 2025 at 5:12 PM.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": ["Environment->environmental pollution", "Environment->nature"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.sacbee.com/news/nation-world/national/article280707640.html",
+    "https://sacbee.com/news/nation-world/national/article280707640.html"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Amador County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "National Interagency Fire Center",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "543bbd7111419a3f6d01d5ab1510f8b21b209105",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:42:41.003+03:00",
+  "updated": "2025-05-08T02:45:15.000+00:00"
+}

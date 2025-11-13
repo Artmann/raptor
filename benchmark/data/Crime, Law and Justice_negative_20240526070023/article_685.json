@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "e19ea8a68865c70f8d8d3a466d26184d659f9ce5",
+    "url": "https://www.classaction.org/news/class-action-lawsuit-claims-cnn-website-tracks-users-ip-addresses-without-consent",
+    "site_full": "www.classaction.org",
+    "site": "classaction.org",
+    "site_section": "https://www.classaction.org/news/rss",
+    "site_categories": [],
+    "section_title": "ClassAction.org Newswire",
+    "title": "Class Action Lawsuit Claims CNN Website Tracks Users’ IP Addresses Without Consent",
+    "title_full": "Class Action Lawsuit Claims CNN Website Tracks Users’ IP Addresses Without Consent",
+    "published": "2024-04-25T17:15:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.classaction.org/media/og-1200x630.png",
+    "performance_score": 0,
+    "domain_rank": 16107,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e19ea8a68865c70f8d8d3a466d26184d659f9ce5",
+  "url": "https://www.classaction.org/news/class-action-lawsuit-claims-cnn-website-tracks-users-ip-addresses-without-consent",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Corrado Rizzi",
+  "published": "2024-04-25T17:15:00.000+03:00",
+  "title": "Class Action Lawsuit Claims CNN Website Tracks Users’ IP Addresses Without Consent",
+  "text": "[Newswire](/news)Published on April 25, 2024 Class Action Lawsuit Claims CNN Website Tracks Users’ IP Addresses Without Consent Lesh v. Cable News Network, Inc. Filed: March 5, 2024 ◆ [§ 1:24-cv-03132](#embedded-document) CNN faces a class action lawsuit that alleges CNN.com is equipped with several web trackers that secretly collect Calif. visitors’ IP addresses. Cable News Network, Inc.—CNN—faces a proposed class action lawsuit that alleges CNN.com is equipped with several web trackers that secretly collect California visitors’ IP addresses. Want to stay in the loop on class actions that matter to you? Sign up for ClassAction.org’s free weekly newsletter [here](https://www.classaction.org/newsletter-sign-up). The 33-page CNN lawsuit says that the [cable news network’s website](https://www.classaction.org/news/warner-bros.-unlawfully-disclosed-cnn.com-subscriber-data-to-facebook-lawsuit-alleges) includes three [web trackers](https://www.classaction.org/news/buzzfeed-privacy-lawsuit-claims-site-tracks-visitors-ip-addresses-without-consent)—the PubMatic Tracker, Rubicon Tracker and Aniview Tracker—that capture users’ “routing, addressing, or signaling information.” As such, these [trackers](https://www.classaction.org/news/reuters.com-collects-users-ip-addresses-without-consent-class-action-claims) amount to a “ [pen register](https://www.law.cornell.edu/wex/pen_register)”—essentially a device or process that [traces outgoing signals](https://www.classaction.org/news/los-angeles-times-collects-website-visitors-data-without-consent-class-action-claims) from a specific phone or computer—under the California Invasion of Privacy Act, the case contends. According to the complaint, the California law prohibits any person from installing or using a pen register or “trap and trace” device without first obtaining a court order. The trackers installed on CNN.com cause a user’s web browser to transmit to the tracker operators certain [identifying information](https://www.classaction.org/news/businessinsider.com-secretly-collects-visitor-info-via-tracking-software-class-action-says), including their IP address, the suit shares. An IP address contains geographical location data, such as a device’s state, city and zip code, the case notes. The lawsuit alleges CNN uses the IP addresses of website visitors “to serve [targeted advertisements](https://www.classaction.org/news/usnews.com-unlawfully-captures-visitor-data-via-web-tracking-tech-class-action-claims) and conduct website analytics” and to gauge the performance of marketing campaigns and target specific users or groups of users. “At no time prior to the installation and use of the Trackers on Plaintiff’s and [Class Members](https://www.classaction.org/learn/lawsuits-overview#the-class)’ browsers, or prior to the use of the Trackers, did Defendant procure Plaintiff’s and Class Members’ consent for such conduct,” the complaint claims. “Nor did Defendant obtain a court order to install or use the Trackers.” The lawsuit looks to cover all California residents who accessed CNN.com in the state and had their IP address collected by the trackers listed on this page. Are you owed unclaimed settlement money? Check out our class action rebates page full of open [class action settlements](https://www.classaction.org/settlements). Hair Relaxer Lawsuits Women who developed ovarian or uterine cancer after using hair relaxers such as Dark & Lovely and Motions may now have an opportunity to take legal action. Read more here: [Hair Relaxer Cancer Lawsuits ](https://www.classaction.org/hair-straightener-relaxer-cancer-lawsuits) Stay Current Sign Up For Our Newsletter New cases and investigations, settlement deadlines, and news straight to your inbox. Before commenting, please review our [comment policy](/comment-policy).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.law.cornell.edu/wex/pen_register",
+    "https://law.cornell.edu/wex/pen_register"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "lesh",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cnn",
+        "sentiment": "negative"
+      },
+      {
+        "name": "cable news network, inc.",
+        "sentiment": "none"
+      },
+      {
+        "name": "rubicon tracker",
+        "sentiment": "none"
+      },
+      {
+        "name": "cable news network, inc",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "california",
+        "sentiment": "none"
+      },
+      {
+        "name": "calif.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:30:47.494+03:00",
+  "updated": "2024-04-26T06:16:58.384+03:00"
+}

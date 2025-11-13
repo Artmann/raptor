@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "fedd1e53a07dbd51dfa1bc41f803a16927d2929a",
+    "url": "https://technologynews.shafaqna.com/EN/AL/884265",
+    "site_full": "technologynews.shafaqna.com",
+    "site": "shafaqna.com",
+    "site_section": "https://technologynews.shafaqna.com/rss.xml",
+    "site_categories": [
+      "media",
+      "tech",
+      "shareware_freeware",
+      "top_news_iq",
+      "top_news"
+    ],
+    "section_title": "International Technology News | ",
+    "title": "JetBrains launches Junie, a new AI coding agent for its IDEs",
+    "title_full": "JetBrains launches Junie, a new AI coding agent for its IDEs",
+    "published": "2025-01-23T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "VN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 30738,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fedd1e53a07dbd51dfa1bc41f803a16927d2929a",
+  "url": "https://technologynews.shafaqna.com/EN/AL/884265",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2025-01-23T02:00:00.000+02:00",
+  "title": "JetBrains launches Junie, a new AI coding agent for its IDEs",
+  "text": "techcrunch - 14 minutes ago JetBrains launches Junie, a new AI coding agent for its IDEs JetBrains, the company behind coding tools like the IntelliJ IDE for Java and Kotlin (and, indeed, the Kotlin language itself), on Thursday launched Junie, a new AI coding agent. This agent, the company says, will be able to handle routine development tasks for when you want to create new applications — and understand the context [ ] © 2024 TechCrunch. All rights reserved. For personal use only.\nRead on the original site",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->products and services",
+    "Lifestyle and Leisure->game",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://techcrunch.com/2025/01/23/jetbrains-launches-junie-a-new-ai-coding-agent-for-its-ides/",
+    "https://www.techcrunch.com/2025/01/23/jetbrains-launches-junie-a-new-ai-coding-agent-for-its-ides/",
+    "https://techcrunch.com/2025/01/23/jetbrains-launches-junie-a-new-ai-coding-agent-for-its-ides"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Junie",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:26:58.188+02:00",
+  "updated": "2025-01-24T00:26:58.188+02:00"
+}

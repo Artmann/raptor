@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "e4abd25eb603bbca62ed6f008f0dbae722ab63b2",
+    "url": "https://www.thecabin.net/news/conway-partners-with-ua-little-rock-for-cybersecurity-program/article_0e80c8d9-7bb5-560c-8671-eabb46bd6bea.html",
+    "site_full": "www.thecabin.net",
+    "site": "thecabin.net",
+    "site_section": "http://www.thecabin.net/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
+    "site_categories": ["media"],
+    "section_title": "www.thecabin.net - RSS Results in news/local of type article",
+    "site_title": "thecabin.net",
+    "title": "Conway partners with UA Little Rock for cybersecurity program",
+    "title_full": "Conway partners with UA Little Rock for cybersecurity program",
+    "published": "2025-09-10T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/thecabin.net/content/tncms/custom/image/0ca0848c-b52e-11e9-8f78-3fe6b53dc422.jpg?resize=600%2C315",
+    "performance_score": 0,
+    "domain_rank": 550770,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e4abd25eb603bbca62ed6f008f0dbae722ab63b2",
+  "url": "https://www.thecabin.net/news/conway-partners-with-ua-little-rock-for-cybersecurity-program/article_0e80c8d9-7bb5-560c-8671-eabb46bd6bea.html",
+  "ord_in_thread": 0,
+  "author": "JORDAN WOODSON Log Cabin Democrat",
+  "published": "2025-09-10T08:00:00.000+03:00",
+  "title": "Conway partners with UA Little Rock for cybersecurity program",
+  "text": "Conway High School has partnered with UA Little Rock to launch a pilot concurrent cybersecurity course.\nThe pilot course started this school year with 10 students currently enrolled in the program. Going through two introductory courses developed by the Association for Computing Machinery (ACM), students will get three credit hours of lecture with an additional credit hour for a lab.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Economy, Business and Finance", "Social Issue"],
+  "topics": [
+    "Education->upper secondary education",
+    "Education->college and university",
+    "Education->vocational education",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->human resources",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Social Issue->communities",
+    "Social Issue->social networking",
+    "Social Issue->social services"
+  ],
+  "ai_allow": false,
+  "has_canonical": true,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Conway High School",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Association for Computing Machinery",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Conway",
+        "Mount Vernon",
+        "Log Cabin",
+        "Urbana",
+        "Guy",
+        "Greenbrier",
+        "Vilonia"
+      ],
+      "state": ["North Dakota", "Iowa", "Florida", "Arkansas", "Texas"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:31:30.135+03:00",
+  "updated": "2025-09-18T08:45:51.000+03:00"
+}

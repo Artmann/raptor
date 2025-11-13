@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "9e330bfb61aa8f9be0ab6e9a9ae2585c3391b314",
+    "url": "https://www.etnet.com.hk/www/tc/news/categorized_news_detail.php?newsid=ETN350619735&page=1&category=latest",
+    "site_full": "www.etnet.com.hk",
+    "site": "etnet.com.hk",
+    "site_section": "https://etnet.com.hk/www/tc/news/categorized_news.php",
+    "site_categories": ["javascript", "tech"],
+    "section_title": "即時新聞 Stock News - 股票 股市 財經 - etnet 經濟通|香港新聞財經資訊和生活平台",
+    "site_title": "etnet 經濟通|香港新聞財經資訊和生活平台",
+    "title": "藥明康德等2家公司上午11:31異動 - etnet 經濟通|香港新聞財經資訊和生活平台",
+    "title_full": "藥明康德等2家公司上午11:31異動 - etnet 經濟通|香港新聞財經資訊和生活平台",
+    "published": "2025-06-19T06:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "HK",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 36174,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9e330bfb61aa8f9be0ab6e9a9ae2585c3391b314",
+  "url": "https://www.etnet.com.hk/www/tc/news/categorized_news_detail.php?newsid=ETN350619735&page=1&category=latest",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-19T06:32:00.000+03:00",
+  "title": "藥明康德等2家公司上午11:31異動 - etnet 經濟通|香港新聞財經資訊和生活平台",
+  "text": "2家上市公司於11:31am錄得異動紀錄:\n上市公司 現價 變幅 股份狀態 中國生物製藥\n(01177) 4.83元 -2.62% 主動買沽比率48:52，\n暫連跌5日，累計跌幅\n14.51% 藥明康德\n(02359) 72.65元 -3.00% 主動買沽比率40:60，\n暫連跌4日，累計跌幅\n8.85%\n《經濟通通訊社19日專訊》 etnet榮獲HKEX Awards 2024 「最佳證券數據供應商」大獎 ► 查看詳情",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Crime, Law and Justice",
+    "Social Issue"
+  ],
+  "topics": [
+    "Economy, Business and Finance->corporate news and profiles",
+    "Economy, Business and Finance->business reporting and performance",
+    "Economy, Business and Finance->financial service",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:41:17.612+03:00",
+  "updated": "2025-06-19T04:45:24.000+00:00"
+}

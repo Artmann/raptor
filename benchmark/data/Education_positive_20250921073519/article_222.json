@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "b9e2cc078fc5b3de032f7ed5bb248bed04c56ef1",
+    "url": "https://progorod33.ru/news/113689",
+    "site_full": "progorod33.ru",
+    "site": "progorod33.ru",
+    "site_section": "https://progorod33.ru/companies",
+    "site_categories": ["media", "top_news_ru", "top_news"],
+    "section_title": "Новости компаний | Новости Владимира",
+    "site_title": "Новости Владимира",
+    "title": "Во Владимире выбрали лучшие студенческие команды проекта «Первый студенческий»",
+    "title_full": "Во Владимире выбрали лучшие студенческие команды проекта «Первый студенческий»",
+    "published": "2025-09-18T07:45:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 84546,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b9e2cc078fc5b3de032f7ed5bb248bed04c56ef1",
+  "url": "https://progorod33.ru/news/113689",
+  "ord_in_thread": 0,
+  "author": "Виктория Зимина",
+  "published": "2025-09-18T07:45:00.000+03:00",
+  "title": "Во Владимире выбрали лучшие студенческие команды проекта «Первый студенческий»",
+  "text": "Всероссийский проект «Первый студенческий» прошёл во Владимире\n- 07:45 18 сентября\nВиктория Зимина\nВо Владимире прошёл региональный этап всероссийского проекта «Первый студенческий». Участники, успешно преодолевшие заочный тур, собрались в Центре опережающей профессиональной подготовки, чтобы развить лидерские качества, научиться работать в команде и познакомиться с потенциальными работодателями.\nНа мастер-классе по социальному проектированию студенты узнали, как правильно создавать и оформлять свои идеи, а затем представили готовые проекты экспертной комиссии.\nПобедителями стали команды из Мурома, Киржача и Владимира. Особенно символично, что проект объединил молодых людей в год 85-летия системы профессионального образования, которая сегодня становится не просто ступенью в карьере, но и площадкой для смелых социальных инициатив.\nКак отметили организаторы, такие мероприятия помогают студентам учиться договариваться, распределять роли и нести ответственность за свои идеи — ключевые навыки для построения успешного будущего.\nРанее мы писали, что в Муроме открывают педагогический институт.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "positive",
+  "categories": ["Education"],
+  "topics": [
+    "Education->students",
+    "Education->college and university",
+    "Education->social learning"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ru", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:58:13.995+03:00",
+  "updated": "2025-09-19T08:05:28.000+03:00"
+}

@@ -1,0 +1,127 @@
+{
+  "thread": {
+    "uuid": "d3bc3b4944c3bfa05bfeff4d40aaeb2e66cc0023",
+    "url": "https://www.education.gov.gy/en/index.php/media2/external-news/9457-sod-turned-for-440m-company-road-primary-school-at-buxton?tmpl=component&print=1&layout=default&page=",
+    "site_full": "www.education.gov.gy",
+    "site": "education.gov.gy",
+    "site_section": "https://www.education.gov.gy/en/index.php/media2/external-news",
+    "site_categories": [],
+    "section_title": "External News",
+    "site_title": null,
+    "title": "Buxton Primary Sod-Turning \\$440M",
+    "title_full": "Buxton Primary Sod-Turning \\$440M",
+    "published": "2025-09-02T21:24:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GY",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 422000,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d3bc3b4944c3bfa05bfeff4d40aaeb2e66cc0023",
+  "url": "https://www.education.gov.gy/en/index.php/media2/external-news/9457-sod-turned-for-440m-company-road-primary-school-at-buxton?tmpl=component&print=1&layout=default&page=",
+  "ord_in_thread": 0,
+  "author": "Randy Daniels",
+  "published": "2025-09-02T21:24:00.000+03:00",
+  "title": "Buxton Primary Sod-Turning \\$440M",
+  "text": "The Ministry of Education turned the sod for the construction of the new $440 million Company Road Primary School at Buxton, East Coast Demerara.\nDeputy Chief Education Officer, Tiffany Harvey, and Regional Education Officer, Keane Adams, led the simple but significant sod-turning ceremony on Saturday.\nDeputy Chief Education Officer, Tiffany Harvey, and Regional Education Officer, Keane Adams, lead sod-turning ceremony for Company Road Primary School at Buxton on Saturday\nThe modern facility, which will accommodate approximately 300 pupils from the Buxton Company Road catchment area, is being built in response to repeated calls from parents and teachers for a new school, as the existing structure had become overcrowded and deteriorated.\nThe contract for the school’s reconstruction has been awarded to R&J Construction.\nThe President Dr Mohamed Irfaan Ali-led administration has committed to building, expanding and upgrading all the educational infrastructure over the next five years.\nThis initiative forms part of the PPP/C’s broader commitment to modernise Guyana’s education sector through the construction, expansion, and upgrading of schools nationwide, ensuring every child has a safe, modern, and conducive learning environment.\nOver the last five years alone, 45 new primary schools have been built across the country, substantially expanding access to quality education.\nSource : https://dpi.gov.gy/sod-turned-for-440m-company-road-primary-school-at-buxton/",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Education",
+    "Economy, Business and Finance",
+    "Human Interest"
+  ],
+  "topics": [
+    "Education->primary education",
+    "Education->school",
+    "Education->state school",
+    "Economy, Business and Finance->human resources",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->construction and property",
+    "Human Interest->graduation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://dpi.gov.gy/sod-turned-for-440m-company-road-primary-school-at-buxton/",
+    "https://dpi.gov.gy/sod-turned-for-440m-company-road-primary-school-at-buxton",
+    "https://www.dpi.gov.gy/sod-turned-for-440m-company-road-primary-school-at-buxton/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mohamed Irfaan Ali-led",
+        "sentiment": "none"
+      },
+      {
+        "name": "Tiffany Harvey",
+        "sentiment": "none"
+      },
+      {
+        "name": "Keane Adams",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Company Road",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Ministry of Education",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:47:58.054+03:00",
+  "updated": "2025-09-18T08:53:32.000+03:00"
+}

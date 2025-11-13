@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "e010cc056f6834a0f96c3c00e2246f6870fd90cd",
+    "url": "https://www.time.news/latest-update-thousands-flee-central-gaza-as-israeli-forces-advance-on-refugee-camps-bbc-news/",
+    "site_full": "www.time.news",
+    "site": "time.news",
+    "site_section": "https://time.news/2023/02",
+    "site_categories": [],
+    "section_title": "February 2023 - timenews",
+    "title": "Latest update: Thousands flee central Gaza as Israeli forces advance on refugee camps - BBC News - timenews",
+    "title_full": "Latest update: Thousands flee central Gaza as Israeli forces advance on refugee camps - BBC News - timenews",
+    "published": "2023-12-29T00:31:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ichef.bbci.co.uk/news/1024/branded_news/C1E4/production/_132163694_06187bef5cdf1ac79cf145d03541007e033e75260_0_6000_40481000x675.jpg",
+    "performance_score": 0,
+    "domain_rank": 62144,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e010cc056f6834a0f96c3c00e2246f6870fd90cd",
+  "url": "https://www.time.news/latest-update-thousands-flee-central-gaza-as-israeli-forces-advance-on-refugee-camps-bbc-news/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "time news",
+  "published": "2023-12-29T00:31:00.000+02:00",
+  "title": "Latest update: Thousands flee central Gaza as Israeli forces advance on refugee camps - BBC News - timenews",
+  "text": "The UN Warns Thousands Flee Central Gaza Amid Israeli Offensive An estimated 150,000 Palestinians are being forced to flee areas of central Gaza as Israeli forces advance on refugee camps, the UN has reported. Tanks have reportedly reached the eastern outskirts of Bureij camp, while Israel’s military has expanded its ground offensive to target Bureij and nearby Nuseirat and Maghazi camps, according to witnesses and Hamas’s armed wing. The Israeli bombardment also resulted in dozens of deaths across Gaza, with the Hamas-run health ministry reporting more than 21,300 people killed during the 11 weeks of fighting, mostly children and women. The UN Relief and Works Agency for Palestinian Refugees (UNRWA) director in Gaza, Tom White, has reported a surge of people being pushed into the southern Gaza town of Rafah, exacerbating the problem of overcrowded shelters. The health ministry reported that 20 people were killed in an Israeli airstrike on a building in Rafah, which reportedly housed displaced civilians. Israel has called for the evacuation of a strip of land stretching across central Gaza, including Bureij and Nuseirat camps, and has urged residents and displaced people to move southwards to Deir al-Balah. However, the UN warned that the town is already overcrowded, leaving the displaced with “nowhere to go”. Meanwhile, in Israel, thousands of teenagers participated in a march to demand the release of more than 100 hostages still being held by Hamas and other armed groups in Gaza. Negotiations for a temporary pause in the fighting have reportedly been taking place as Hamas insists on discussing a full ceasefire. READ Also: A family that walks on all fours; Answer scientists and doctors | The extraordinary family that walks on all fours at all times The UN has also called on Israel to stop what it described as “unlawful” killings in the occupied West Bank, expressing extreme concern over the use of military tactics and disproportionate force against Palestinians. The ongoing conflict has led to international concern, with calls for a cessation of hostilities and dialogue to resolve the escalating crisis.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["War, Conflict and Unrest", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "tom white",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "un",
+        "sentiment": "negative"
+      },
+      {
+        "name": "bbc news",
+        "sentiment": "negative"
+      },
+      {
+        "name": "unrwa",
+        "sentiment": "none"
+      },
+      {
+        "name": "hamas",
+        "sentiment": "none"
+      },
+      {
+        "name": "un relief and works agency",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "gaza",
+        "sentiment": "none"
+      },
+      {
+        "name": "israel",
+        "sentiment": "none"
+      },
+      {
+        "name": "rafah",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:34:29.191+02:00",
+  "updated": "2023-12-29T00:52:43.917+02:00"
+}

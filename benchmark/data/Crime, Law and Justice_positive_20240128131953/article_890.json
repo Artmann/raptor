@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "097e735a76577bd012825b18262ede5af299f38a",
+    "url": "https://www.foxnews.com/media/chicago-mayor-brandon-johnson-calls-funding-reparations-reduce-violent-crime",
+    "site_full": "www.foxnews.com",
+    "site": "foxnews.com",
+    "site_section": "https://www.foxnews.com/",
+    "site_categories": ["media"],
+    "section_title": "Latest & Breaking News on Fox News",
+    "title": "Chicago Mayor Brandon Johnson calls for reparations funding to reduce violent crime",
+    "title_full": "Chicago Mayor Brandon Johnson calls for reparations funding to reduce violent crime",
+    "published": "2023-12-30T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": null,
+    "performance_score": 5,
+    "domain_rank": 287,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 363,
+        "comments": 294,
+        "shares": 564
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "097e735a76577bd012825b18262ede5af299f38a",
+  "url": "https://www.foxnews.com/media/chicago-mayor-brandon-johnson-calls-funding-reparations-reduce-violent-crime",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2023-12-30T02:00:00.000+02:00",
+  "title": "Chicago Mayor Brandon Johnson calls for reparations funding to reduce violent crime",
+  "text": "Democratic Chicago Mayor Brandon Johnson insisted to CNN that funding for reparations in his new budget will help get to the root of the city’s record violent crime epidemic.\nWhile speaking to network anchor Poppy Harlow on \" CNN This Morning \" Wednesday, Johnson acknowledged the high crime rate in Chicago and declared that the \"full force of government\" is required to solve it, including the city throwing $500,000 at reparations programs.\nHarlow prompted his answer by citing Chicago Police Department statistics revealing that although \"the murder rate is down from 2022,\" \"all other forms of violent crime, Mr. Mayor, are up from a year ago, up 17% overall.\"\nACTIVISTS DEMAND HIGHER PAYMENTS FROM CALIFORNIA REPARATIONS TASK FORCE: '$200 MILLION' PER PERSON\n\"Are Chicagoans going to be safer in 2024?\" the anchor asked.\nJohnson, who has been mayor of the Democrat-run city for about seven months, claimed the solution to the problem lies with a major government response, and the \"full out community safety plan,\" he claimed, \"not only gets at the root causes of violence in the city of Chicago,\" but makes \"critical investments.\"\nHe listed the investments: \"A quarter of a billion dollars to address homelessness, $100 million for violence prevention. We added 80 million more dollars to our youth employment program of which we hired 25,000 young people just this summer. That’s a 20% increase from the previous year.\"\nJohnson also touted his proposal \"to hire 4,000 additional young people this summer,\" adding, \"We have stood up an entire office dedicated to re-entry. So individuals who are returning to our communities who have been incarcerated because of failed policies will have a welcoming space for them.\"\nHe then spoke about city funds being diverted to providing reparations for its African American community. \"I’ve added a half a million dollars for restoration and reparations to address, again, the cycle of violence, which looks like school closings, closing of mental health facilities, of which I’ve invested in now. We’re going to open up two mental health clinics that were closed from two previous administrations ago.\"\nCALIFORNIA REPARATIONS PANELIST BLASTS WHITE MEN AS A ‘DANGER TO SOCIETY’: THEY'RE ‘SHOOTING UP SCHOOLS’\n\"And so, in order for us to build a better, stronger, safer Chicago, it requires investments,\" he reiterated, \"and that’s what this budget has done – a $16.77 billion budget without raising property taxes, and we’re just getting started in the city of Chicago.\"\nJohnson also described being personally affected by the city’s struggles, telling Harlow, \"Look, my wife and I, we’re raising our three children on the West Side of Chicago. It’s a beautiful part of the city. We love it. But it also has been the side of the city of Chicago that has experienced gross disinvestment, from school closings, from lack of transportation, from lack of investments; and so, I wake up every single day in one of the most toughest parts of the city.\"\n\"And so, there is no one in this city that thinks about public safety more than someone like me, who is raising a family on the West Side of Chicago,\" the mayor added.\nJohnson’s reparations plan is the latest in Democratic Party leaders pushing the controversial policy. Gov. Kathy Hochul, D-N.Y., signed a bill this month creating a state commission \"to study the history of slavery in New York state\" and examine its impact on African Americans throughout the state’s history.\nEarlier this year, California's Reparations Task Force proposed Black Californians receive up to $1 million in payment for the state’s treatment of their ancestors.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Politics", "Human Interest", "Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "brandon johnson",
+        "sentiment": "negative"
+      },
+      {
+        "name": "harlow",
+        "sentiment": "none"
+      },
+      {
+        "name": "mayor",
+        "sentiment": "none"
+      },
+      {
+        "name": "johnson",
+        "sentiment": "none"
+      },
+      {
+        "name": "poppy harlow",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cnn",
+        "sentiment": "negative"
+      },
+      {
+        "name": "chicago police department",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "chicago",
+        "sentiment": "none"
+      },
+      {
+        "name": "california",
+        "sentiment": "none"
+      },
+      {
+        "name": "chicag",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-30T02:07:25.596+02:00",
+  "updated": "2023-12-30T02:07:25.596+02:00"
+}

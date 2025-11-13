@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "a4890a106310af6882bbfddadac77d72c51262a8",
+    "url": "https://www.nbd.com.cn/articles/2025-05-08/3867882.html",
+    "site_full": "www.nbd.com.cn",
+    "site": "nbd.com.cn",
+    "site_section": "http://www.nbd.com.cn/",
+    "site_categories": ["media"],
+    "section_title": "每经网 | 新闻决定影响力 |《每日经济新闻》报社旗下网站",
+    "site_title": "每经网 | 新闻决定影响力 |《每日经济新闻》报社旗下网站",
+    "title": "湖南省发布暴雨橙色预警 | 每经网",
+    "title_full": "湖南省发布暴雨橙色预警 | 每经网",
+    "published": "2025-05-08T03:39:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 16449,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a4890a106310af6882bbfddadac77d72c51262a8",
+  "url": "https://www.nbd.com.cn/articles/2025-05-08/3867882.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T03:39:00.000+03:00",
+  "title": "湖南省发布暴雨橙色预警 | 每经网",
+  "text": "每经AI快讯，湖南省气象台2025年5月8日7时31分发布暴雨橙色预警：预计8日8时至9日8时，湘东、湘南大部分地区将出现暴雨，局地大暴雨，并伴有短时强降水、雷雨大风等强对流天气，请加强防范。橙色预警区域：长沙大部分地区、株洲、湘潭大部分地区、益阳北部、岳阳、衡阳、永州大部分地区、郴州。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment"],
+  "topics": [
+    "Weather->weather warning",
+    "Environment->climate change",
+    "Environment->natural resources",
+    "Environment->water"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:55:13.107+03:00",
+  "updated": "2025-05-08T01:59:08.000+00:00"
+}

@@ -1,0 +1,128 @@
+{
+  "thread": {
+    "uuid": "4d3507751971e4a2595bdfe146e8d82cc1e67c10",
+    "url": "https://termolionline.it/2025/09/auguri/la-laurea-di-luna-buonaiuto/",
+    "site_full": "termolionline.it",
+    "site": "termolionline.it",
+    "site_section": "https://termolionline.it",
+    "site_categories": [],
+    "section_title": "TermoliOnLine.it",
+    "site_title": "Home - TermoliOnLine.it",
+    "title": "La laurea di Luna Buonaiuto",
+    "title_full": "La laurea di Luna Buonaiuto",
+    "published": "2025-09-17T21:28:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://termolionline.it/wp-content/uploads/2025/09/Laurea-Luna-Bonaiuto-1-e1758133634556.jpg",
+    "performance_score": 0,
+    "domain_rank": 157213,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4d3507751971e4a2595bdfe146e8d82cc1e67c10",
+  "url": "https://termolionline.it/2025/09/auguri/la-laurea-di-luna-buonaiuto/",
+  "ord_in_thread": 0,
+  "author": "Redazione",
+  "published": "2025-09-17T21:28:00.000+03:00",
+  "title": "La laurea di Luna Buonaiuto",
+  "text": "TERMOLI-VASTO-TORINO. Con immensa gioia e profondo orgoglio, celebriamo il brillante traguardo di Luna Buonaiuto, laureata magistrale in Architettura Costruzione e Città presso il Politecnico di Torino, con il massimo dei voti: 110 con lode e menzione d’onore. La sua tesi, dal titolo “La città visibile. Pianificare nell’incertezza”, è un’opera che unisce rigore accademico e sensibilità urbana, frutto di un percorso condiviso tra Torino e Skopje, sotto la guida della Prof.ssa Isabella Maria Lami, della Prof.ssa Elena Todella e della Prof.ssa Ognen Marina. Un lavoro che riflette la capacità di Luna di affrontare la complessità con intelligenza, visione e profonda consapevolezza del presente. A festeggiarla con emozione ci sono la mamma Teresa Montalbetti, il papà Pino Buonaiuto, e le sorelle Gioia e Azzurra, che hanno accompagnato ogni passo di questo cammino con amore e orgoglio. Luna, hai reso visibile non solo la città, ma anche la forza delle idee, il valore dello studio e la bellezza dell’impegno. Che questo sia solo l’inizio di un percorso luminoso, fatto di progetti che migliorano il mondo e di sogni che si realizzano. Congratulazioni di cuore!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest"],
+  "topics": [
+    "Education->students",
+    "Education->college and university",
+    "Human Interest->graduation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Teresa Montalbetti",
+        "sentiment": "none"
+      },
+      {
+        "name": "Isabella Maria Lami",
+        "sentiment": "none"
+      },
+      {
+        "name": "Pino Buonaiuto",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Torino",
+        "sentiment": "none"
+      },
+      {
+        "name": "Skopje",
+        "sentiment": "none"
+      },
+      {
+        "name": "Luna",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "TERMOLI",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Politecnico di Torino",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:42:36.786+03:00",
+  "updated": "2025-09-18T07:45:56.000+03:00"
+}

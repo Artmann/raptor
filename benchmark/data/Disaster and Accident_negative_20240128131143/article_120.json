@@ -1,0 +1,156 @@
+{
+  "thread": {
+    "uuid": "3713ee749470d3a850f56f4824e9f8fa1d6828db",
+    "url": "https://www.thestar.com.my/sport/football/2023/12/29/soccer-late-rally-fails-to-save-tottenham-in-4-2-loss-at-brighton",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://thestar.com.my/sport/football",
+    "site_categories": ["media"],
+    "section_title": "Football - Sport | The Star",
+    "title": "Football: Soccer-Late rally fails to save Tottenham in 4-2 loss at Brighton | The Star",
+    "title_full": "Football: Soccer-Late rally fails to save Tottenham in 4-2 loss at Brighton | The Star",
+    "published": "2023-12-29T00:03:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://apicms.thestar.com.my/uploads/images/2023/12/29/2462918.jpg",
+    "performance_score": 0,
+    "domain_rank": 2230,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3713ee749470d3a850f56f4824e9f8fa1d6828db",
+  "url": "https://www.thestar.com.my/sport/football/2023/12/29/soccer-late-rally-fails-to-save-tottenham-in-4-2-loss-at-brighton",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NA",
+  "published": "2023-12-29T00:03:00.000+02:00",
+  "title": "Football: Soccer-Late rally fails to save Tottenham in 4-2 loss at Brighton | The Star",
+  "text": "BRIGHTON, England (Reuters) - Tottenham Hotspur's top-four ambitions suffered a blow as they lost 4-2 at Brighton & Hove Albion in the Premier League on Thursday with only a late rally saving them from their heaviest defeat since Ange Postecoglou became manager.\nVictory would have put injury-hit Spurs above Manchester City into fourth spot but they were mauled on the south coast as a Brighton side also missing key players ran riot.\nA powerful early strike by Josh Hinshelwood and Joao Pedro's penalty gave the hosts a deserved 2-0 lead at halftime as Tottenham struggled to deal with Brighton's intensity.\nThe visitors responded in the second half with Richarlison having a goal disallowed but when halftime substitute Pervis Estupinan sent a thunderbolt past Spurs keeper Guglielmo Vicario and Joao Pedro netted a second penalty the game seemed over.\nHowever, when Tottenham's late substitute Alejo Veliz fired home from close range in the 75th minute and Ben Davies scored with a header a miraculous comeback suddenly looked possible.\nMidfielder Pierre-Emile Hojbjerg hit the post for Spurs in stoppage time as Brighton looked nervy but they held on to move into eighth place in the table on 30 points while Tottenham remain fifth on 36, a point behind Manchester City in fourth.\n(Reporting by Martyn Herman; Editing by Ken Ferris)\nOpen Modal ×",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Sport", "Disaster and Accident", "Human Interest"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "joao pedro",
+        "sentiment": "none"
+      },
+      {
+        "name": "richarlison",
+        "sentiment": "none"
+      },
+      {
+        "name": "pervis estupinan",
+        "sentiment": "none"
+      },
+      {
+        "name": "pierre",
+        "sentiment": "none"
+      },
+      {
+        "name": "emile hojbjerg",
+        "sentiment": "none"
+      },
+      {
+        "name": "josh hinshelwood",
+        "sentiment": "none"
+      },
+      {
+        "name": "ange postecoglou",
+        "sentiment": "none"
+      },
+      {
+        "name": "ben davies",
+        "sentiment": "none"
+      },
+      {
+        "name": "guglielmo vicario",
+        "sentiment": "none"
+      },
+      {
+        "name": "alejo veliz",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "reuters",
+        "sentiment": "negative"
+      },
+      {
+        "name": "star",
+        "sentiment": "negative"
+      },
+      {
+        "name": "tottenham",
+        "sentiment": "negative"
+      },
+      {
+        "name": "tottenham hotspur",
+        "sentiment": "negative"
+      },
+      {
+        "name": "brighton & hove albion",
+        "sentiment": "none"
+      },
+      {
+        "name": "premier league",
+        "sentiment": "none"
+      },
+      {
+        "name": "spurs",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "brighton",
+        "sentiment": "none"
+      },
+      {
+        "name": "brighton",
+        "sentiment": "none"
+      },
+      {
+        "name": "england",
+        "sentiment": "none"
+      },
+      {
+        "name": "manchester city",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:09:43.926+02:00",
+  "updated": "2023-12-29T00:09:43.926+02:00"
+}

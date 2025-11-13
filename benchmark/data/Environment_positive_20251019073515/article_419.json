@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "8390310d5cad51cca161aa8a5a363aa314329472",
+    "url": "https://www.europapress.es/cantabria/noticia-medio-ambiente-declara-subproducto-escorias-ferroglobe-podra-aprovecharlas-distintos-usos-20251016133403.html",
+    "site_full": "www.europapress.es",
+    "site": "europapress.es",
+    "site_section": "https://www.europapress.es/noticias/",
+    "site_categories": ["media", "top_news_es", "top_news_pe", "top_news"],
+    "section_title": "\r\n\t Últimas Noticias - EUROPA PRESS\r\n",
+    "site_title": "Europa Press -  Agencia de noticias",
+    "title": "Medio Ambiente declara subproducto a escorias de Ferroglobe que podrá aprovecharlas para distintos usos",
+    "title_full": "Medio Ambiente declara subproducto a escorias de Ferroglobe que podrá aprovecharlas para distintos usos",
+    "published": "2025-10-16T14:34:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://img.europapress.es/fotoweb/fotonoticia_20251016133403_1200.jpg",
+    "performance_score": 0,
+    "domain_rank": 4744,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8390310d5cad51cca161aa8a5a363aa314329472",
+  "url": "https://www.europapress.es/cantabria/noticia-medio-ambiente-declara-subproducto-escorias-ferroglobe-podra-aprovecharlas-distintos-usos-20251016133403.html",
+  "ord_in_thread": 0,
+  "author": "Europa Press Cantabria",
+  "published": "2025-10-16T14:34:00.000+03:00",
+  "title": "Medio Ambiente declara subproducto a escorias de Ferroglobe que podrá aprovecharlas para distintos usos",
+  "text": "SANTANDER 16 Oct. (EUROPA PRESS) -\nEl Gobierno de Cantabria, a través de la Dirección General de Medio Ambiente y Cambio Climático, ha resuelto declarar subproducto a las escorias de ferrosilicomanganeso generadas en el proceso productivo de la fábrica Ferroglobe Spain Metals S.A.U, en su planta de Boo de Guarnizo, en el municipio de El Astillero.\nAsí lo ha avanzado el consejero de Medio Ambiente, Roberto Media, quien ha explicado que esta resolución permitirá a la compañía aprovechar este material de forma segura en distintos usos industriales y de construcción.\nEl consejero ha afirmado que el reconocimiento de estas escorias como subproducto constituye \"un ejemplo práctico\" de cómo la aplicación de la normativa y la colaboración con el tejido industrial permiten \"cerrar el ciclo\" de los recursos, reduciendo las emisiones y el consumo de materias primas, al tiempo que se generan nuevas oportunidades económicas en el marco de la economía circular.\n\"Este reconocimiento supone un impulso para la economía circular, al promover que estos materiales puedan utilizarse directamente y pasen a tener un valor productivo, reduciendo la generación de desechos y el consumo de materias primas naturales\", ha expresado.\nAdemás, según ha informado el Gobierno, el consejero ha explicado que, antes de aprobarse esta resolución, las escorias fueron sometidas a los pertinentes análisis técnicos y sanitarios que acreditan su viabilidad y seguridad.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->environmental pollution",
+    "Environment->waste materials"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Roberto Media",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "EUROPA PRESS",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Ferroglobe Spain Metals S.A.U",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Medio Ambiente",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_es", "top_news_pe", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:43:00.578+03:00",
+  "updated": "2025-10-16T15:02:24.000+03:00"
+}

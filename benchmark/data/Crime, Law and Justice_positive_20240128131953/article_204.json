@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "db4cf510f82b778eb9e7b01af9e9f6747b15a6b5",
+    "url": "https://www.cbsnews.com/boston/news/revere-attempted-robbery-good-samaritan-b-d-furniture-outlet/",
+    "site_full": "www.cbsnews.com",
+    "site": "cbsnews.com",
+    "site_section": "https://cbslocal.com",
+    "site_categories": ["media", "television", "entertainment"],
+    "section_title": "CBS Local - Your local news and live free 24/7 streaming news",
+    "title": "Store owner and friend save employee from knife-wielding suspect in Revere - CBS Boston",
+    "title_full": "Store owner and friend save employee from knife-wielding suspect in Revere - CBS Boston",
+    "published": "2023-12-29T06:14:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/12/29/b064ad18-0d6e-46fe-9cb1-303ccafeacdc/thumbnail/1200x630/2d22cb48170987e139998fb5b2467dbe/creative-clean-11p-20231228-frame-6200.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
+    "performance_score": 0,
+    "domain_rank": 187,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "db4cf510f82b778eb9e7b01af9e9f6747b15a6b5",
+  "url": "https://www.cbsnews.com/boston/news/revere-attempted-robbery-good-samaritan-b-d-furniture-outlet/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "CBS News",
+  "published": "2023-12-29T06:14:00.000+02:00",
+  "title": "Store owner and friend save employee from knife-wielding suspect in Revere - CBS Boston",
+  "text": "REVERE - A man who allegedly tried to rob a furniture store in Revere was arrested Thursday night after police said the store's owner and his friends subdued him, saving a clerk.\nPolice said the unidentified man burst into B.D.'s Furniture Outlet armed with a knife and jumped over the counter towards a young woman working there.\n\"The girl, she was by herself,\" store owner Thaiar Tuffaha told WBZ-TV. \"And with a knife, he threatened her, she's scared away, tried to open the cash register.\"\nTuffaha said he saw all of this unfold on surveillance video in the back of the store. While the man allegedly tried to grab money from the cash register, Tuffaha and two of his friends ran in and tackled him, holding him down until police arrived.\n\"It's the first time happening here, of course it's nerve-wracking,\" said Tuffaha.\nOne of Tuffaha's friends got slashed in the hand by the would be robber and was taken to the hospital for treatment.\n\"Thanks God, thanks God. He got hurt, but that's not the way it should be,\" said Tuffaha. \"Hopefully my friend is OK.\"\nThe suspect was also taken to the hospital. Police said the robbery is still under investigation.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "thaiar tuffaha",
+        "sentiment": "none"
+      },
+      {
+        "name": "tuffaha",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cbs boston revere",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "revere",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T06:27:38.441+02:00",
+  "updated": "2023-12-31T13:23:39.657+02:00"
+}

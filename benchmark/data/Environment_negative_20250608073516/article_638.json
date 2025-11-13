@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "002a76a3eb446d088218617d3e4cae8c21087623",
+    "url": "https://news.myseldon.com/ru/news/index/329166693",
+    "site_full": "news.myseldon.com",
+    "site": "myseldon.com",
+    "site_section": "https://news.myseldon.com/sitemaps/daily/sitemap_news_ru_daily_5.xml",
+    "site_categories": ["media"],
+    "section_title": "",
+    "site_title": null,
+    "title": "Заморозки и дожди в Подмосковье могут испортить атмосферу шашлыков на майских праздниках | Общество | Селдон Новости",
+    "title_full": "Заморозки и дожди в Подмосковье могут испортить атмосферу шашлыков на майских праздниках | Общество | Селдон Новости",
+    "published": "2025-05-08T05:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://storage.myseldon.com/news-pict-bd/BDF501EF786CF49F441ED9F030DF99C7",
+    "performance_score": 0,
+    "domain_rank": 21900,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "002a76a3eb446d088218617d3e4cae8c21087623",
+  "url": "https://news.myseldon.com/ru/news/index/329166693",
+  "ord_in_thread": 0,
+  "author": "@dzerzhinskiy.regions",
+  "published": "2025-05-08T05:00:00.000+03:00",
+  "title": "Заморозки и дожди в Подмосковье могут испортить атмосферу шашлыков на майских праздниках | Общество | Селдон Новости",
+  "text": "Синоптик Ильин : заморозки до -2 градусов ожидаются в Подмосковье 8 мая\nФото: Марат Алиев Праздничные выходные в Подмосковье , в том числе и в Дзержинском , могут испортить неблагоприятные погодные условия. По прогнозам синоптиков, температура воздуха ночью, 8 мая, может опустится до -2 градусов, а 9 мая — до -5 градусов.\nСиноптик прогностического центра «Метео» Александр Ильин предупреждает, что в первую половину наступивших праздников возможны осадки в виде дождя и прохладная погода. Днем столбики термометров не поднимутся выше отметки в +17 градусов. Местами и вовсе остановятся на +8, +10 градусах. Также может образоваться туман.\nВ субботу, 9 мая, будет облачно с прояснениями. Днем возможен небольшой дождь.\n«Температура воздуха в Подмосковье ночью будет колебаться от 0 до +3 градусов, местами будут заморозки до -5 градусов. Днем столбики термометров покажут от +8 до +13 градусов. Ветер западный и северо-западный со скоростью 5-10 метров в секунду», — сообщает Ильин\nВ воскресенье, 11 мая, погода не изменится. Буде также облачно с прояснениями и небольшими дождями. Днем температура воздуха прогреется не больше + 14 градусов.\nРанее синоптики не ждать теплой погоды в Подмосковье до середины мая.\nДанные о правообладателе фото и видеоматериалов взяты с сайта «REGIONS.RU / Дзержинский» , подробнее в Правилах сервиса Источник: REGIONS.RU / Дзержинский Темы: Экология",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment", "Lifestyle and Leisure"],
+  "topics": [
+    "Weather->weather phenomena",
+    "Weather->weather forecast",
+    "Environment->climate change",
+    "Environment->nature",
+    "Lifestyle and Leisure->lifestyle",
+    "Lifestyle and Leisure->holiday",
+    "Lifestyle and Leisure->outdoor recreational activities"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "http://regions.ru/dzerzhinskiy/obschestvo/zamorozki-i-dozhdi-v-podmoskove-mogut-isportit-atmosferu-shashlykov-na-mayskih-prazdnikah",
+    "http://www.regions.ru/dzerzhinskiy/obschestvo/zamorozki-i-dozhdi-v-podmoskove-mogut-isportit-atmosferu-shashlykov-na-mayskih-prazdnikah"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:21:47.358+03:00",
+  "updated": "2025-05-08T02:27:27.000+00:00"
+}

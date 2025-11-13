@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "a182bdf08c8f9f08eed699ce2614c2b0eb4f1f71",
+    "url": "https://robots.net/news/giga-ml-aims-to-revolutionize-llm-deployment-for-enterprises/",
+    "site_full": "robots.net",
+    "site": "robots.net",
+    "site_section": "http://robots.net",
+    "site_categories": ["tech"],
+    "section_title": "Robots.net | Latest Technology News, Guides &amp; Product Reviews",
+    "title": "Giga ML Aims to Revolutionize LLM Deployment for Enterprises | Robots.net",
+    "title_full": "Giga ML Aims to Revolutionize LLM Deployment for Enterprises | Robots.net",
+    "published": "2023-12-28T23:45:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 25543,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a182bdf08c8f9f08eed699ce2614c2b0eb4f1f71",
+  "url": "https://robots.net/news/giga-ml-aims-to-revolutionize-llm-deployment-for-enterprises/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Ophelie Depew",
+  "published": "2023-12-28T23:45:00.000+02:00",
+  "title": "Giga ML Aims to Revolutionize LLM Deployment for Enterprises | Robots.net",
+  "text": "AI technology has been gaining significant traction in recent years, particularly in the form of large language models (LLMs) such as ChatGPT. According to a recent survey of approximately 1,000 enterprise organizations, around 67.2% have identified the adoption of LLMs as a top priority by early 2024. Key Takeaway Giga ML is addressing the challenges of data privacy and customization faced by enterprises in adopting LLMs. Challenges in LLM Deployment Despite the growing interest in LLM adoption, businesses are facing barriers related to customization, flexibility, and the preservation of company knowledge and intellectual property. These challenges have hindered the smooth deployment of LLMs into production environments. Introducing Giga ML In response to these challenges, Varun Vummadi and Esha Manideep Dinne founded Giga ML, a startup focused on developing a platform that enables companies to deploy LLMs on-premise. This approach aims to reduce costs and uphold privacy standards during the deployment process. Giga ML’s Offerings Giga ML provides its own series of LLMs, known as the “X1 series,” designed for tasks such as code generation and addressing common customer queries. The startup claims that these models, built on Meta’s Llama 2, outperform popular LLMs on specific benchmarks, particularly the MT-Bench test set for dialogs. Privacy and Customization Giga ML’s mission is to facilitate the safe and efficient deployment of LLMs on enterprises’ on-premises infrastructure or virtual private clouds. By offering an easy-to-use API, Giga ML simplifies the process of training, fine-tuning, and running LLMs, thereby eliminating associated hassles. Furthermore, Giga ML emphasizes the privacy advantages of running models offline, which is likely to be a compelling factor for many businesses. Predibase, a low-code AI development platform, found that a significant portion of enterprises are hesitant to use commercial LLMs due to concerns about sharing sensitive or proprietary data with vendors. Future Plans Giga ML, backed by approximately $3.74 million in VC funding from investors such as Nexus Venture Partners, Y Combinator, and Liquid 2 Ventures, intends to expand its team and bolster product research and development. The company also aims to support its customer base, which currently includes undisclosed enterprise companies in the finance and healthcare sectors.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Economy, Business and Finance"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "esha manideep dinne",
+        "sentiment": "none"
+      },
+      {
+        "name": "varun vummadi",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:41:49.723+02:00",
+  "updated": "2023-12-29T00:41:49.723+02:00"
+}

@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "a01cb97817f1537d93e9743095560a3b1e45cd23",
+    "url": "https://www.jpost.com/environment-and-climate-change/article-853109",
+    "site_full": "www.jpost.com",
+    "site": "jpost.com",
+    "site_section": "https://news.google.com/search?q=which%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [
+      "media",
+      "law_government_and_politics",
+      "politics",
+      "top_news_ph",
+      "top_news_il",
+      "top_news_au",
+      "top_news_us",
+      "top_news_za",
+      "top_news"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": "The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+    "title": "Drone footage reveals ecological damage after Jerusalem wildfires - The Jerusalem Post",
+    "title_full": "Drone footage reveals ecological damage after Jerusalem wildfires - The Jerusalem Post",
+    "published": "2025-05-08T03:46:31.157+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/661306",
+    "performance_score": 0,
+    "domain_rank": 977,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a01cb97817f1537d93e9743095560a3b1e45cd23",
+  "url": "https://www.jpost.com/environment-and-climate-change/article-853109",
+  "ord_in_thread": 0,
+  "author": "jpost.com",
+  "published": "2025-05-08T03:46:31.157+03:00",
+  "title": "Drone footage reveals ecological damage after Jerusalem wildfires - The Jerusalem Post",
+  "text": "The mass destruction left in the wake of two wildfires in the Jerusalem area was revealed in drone footage taken by Keren Kayemeth LeIsrael–Jewish National Fund (KKL-JNF).\nThe two fires , which swept through the Jerusalem Hills , caused significant damage, the video revealed. The fire concentrated in Canada Park is thought to have burned through approximately 20,000 dunams, including 10,000 dunams of woodlands managed by KKL-JNF. Firefighters try to extinguish a fire which broke out near Moshav Mesilat Zion, April 30, 2025. (credit: NOAM REVKIN FENTON / FLASH 90)\nThe earlier fire burned through 6,000 dunams, 4,000 of which is KKL-JNF-managed forests. Fixing the damage caused by the Jerusalem fires\nNearly two-thirds of the burned areas in both fires were completely consumed in the flames and will require long-term ecological restoration, the organization shared. Emergency responders on the site of the fire in the Jerusalem area on April 30, 2025 (credit: UNITED HATZALAH‏)\nIfat Ovadia-Luski, Chairwoman of KKL-JNF, said: \"In Canada Park, which was planted over decades and was a source of pride for the central region, vast forest areas were burned.\n\"Unfortunately, this has been a year in which we’ve experienced fires across the country, also as a result of the war. We believe in nature’s ability to recover and in KKL-JNF’s capacity to lead an innovative rehabilitation process that will return these beloved natural areas for the benefit of the wider public.\"\nThe Environment and Climate Change portal is produced in cooperation with the Goldman Sonnenfeldt School of Sustainability and Climate Change at Ben-Gurion University of the Negev. The Jerusalem Post maintains all editorial decisions related to the content.\nPioneering climate solutions >",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": ["Environment->environmental pollution", "Environment->ecosystem"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://in.bgu.ac.il/en/sscc/Pages/default.aspx",
+    "https://www.in.bgu.ac.il/en/sscc/Pages/default.aspx"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Keren Kayemeth LeIsrael",
+        "sentiment": "none"
+      },
+      {
+        "name": "NOAM REVKIN FENTON",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ifat Ovadia-Luski",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Hills",
+        "sentiment": "none"
+      },
+      {
+        "name": "Park",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Jerusalem Post",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:46:31.157+03:00",
+  "updated": "2025-05-08T00:51:03.000+00:00"
+}

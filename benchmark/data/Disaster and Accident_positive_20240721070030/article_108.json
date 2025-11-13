@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "7bf0703bc5242ebf171362312f754574c7418e76",
+    "url": "https://www.nzherald.co.nz/hawkes-bay-today/news/bay-view-water-back-to-normal-after-estuary-pipeline-repairs/TWEZKXRHNFGHBHQPDIKWRBRKEQ",
+    "site_full": "www.nzherald.co.nz",
+    "site": "nzherald.co.nz",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": ["science", "geology", "top_news"],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "Bay View water back to normal after estuary pipeline repairs - NZ Herald",
+    "title_full": "Bay View water back to normal after estuary pipeline repairs - NZ Herald",
+    "published": "2024-06-21T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NZ",
+    "main_image": "https://www.nzherald.co.nz/resizer/v2/2N5BQ66HK5CARMJ5QQYIKWVDAY.jpg?auth=ba90b5a9b04c300b7c6d497618743575d8282ac072d1570b519e38b46cfcfa15&amp;width=1200&amp;height=675&amp;quality=70&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 1186,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7bf0703bc5242ebf171362312f754574c7418e76",
+  "url": "https://www.nzherald.co.nz/hawkes-bay-today/news/bay-view-water-back-to-normal-after-estuary-pipeline-repairs/TWEZKXRHNFGHBHQPDIKWRBRKEQ",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Doug Laing",
+  "published": "2024-06-21T03:00:00.000+03:00",
+  "title": "Bay View water back to normal after estuary pipeline repairs - NZ Herald",
+  "text": "Two months of crisis over leaking water supply pipes servicing Bay View on the northern fringes of Napier is over and replacements are now in use.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Environment"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "napier",
+        "sentiment": "none"
+      },
+      {
+        "name": "phil kelsen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "nz herald",
+        "sentiment": "negative"
+      },
+      {
+        "name": "napier city council",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "bay view",
+        "sentiment": "none"
+      },
+      {
+        "name": "te whanganui",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-21T07:24:30.350+03:00",
+  "updated": "2024-06-21T08:51:25.833+03:00"
+}

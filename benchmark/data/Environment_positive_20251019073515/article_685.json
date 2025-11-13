@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "43728115ee1c6469406ebcd34a4d90f04924222b",
+    "url": "https://news.ltn.com.tw/news/Tainan/breakingnews/5213816",
+    "site_full": "news.ltn.com.tw",
+    "site": "ltn.com.tw",
+    "site_section": "https://ltn.com.tw",
+    "site_categories": [
+      "media",
+      "top_news_hk",
+      "top_news_nz",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "自由時報電子報",
+    "site_title": null,
+    "title": "邁向淨零碳排 ! 成大「低碳數位營建聯盟」成立",
+    "title_full": "邁向淨零碳排 ! 成大「低碳數位營建聯盟」成立",
+    "published": "2025-10-16T15:40:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://img.ltn.com.tw/Upload/news/600/2025/10/16/5213816_1_1.jpg",
+    "performance_score": 0,
+    "domain_rank": 12237,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "43728115ee1c6469406ebcd34a4d90f04924222b",
+  "url": "https://news.ltn.com.tw/news/Tainan/breakingnews/5213816",
+  "ord_in_thread": 0,
+  "author": "自由時報電子報",
+  "published": "2025-10-16T15:40:00.000+03:00",
+  "title": "邁向淨零碳排 ! 成大「低碳數位營建聯盟」成立",
+  "text": "邁向淨零碳排 ! 成大「低碳數位營建聯盟」成立\n2025/10/16 20:40 記者洪瑞琴／台南報導由國科會補助、成大結合產學界成立「低碳數位營建聯盟」。（圖由成功大學提供）\n由國科會補助的「低碳數位營建聯盟（LCDCA）」今（16日）正式成立，宣示台灣營建產業在「低碳＋數位」轉型上邁出關鍵一步。\n聯盟由成功大學土木系楊士賢教授與建築系楊詩弘教授共同推動，是非營利的產學合作平台，結合「生命週期評估（LCA）」與「建築資訊模型（BIM）」兩大核心技術，推動低碳建材、綠色工法與數位施工，協助企業朝永續發展與淨零碳排邁進。活動現場也由產官學代表共同簽署合作備忘錄（MOU），宣布攜手打造示範場域與技術落地。\n成大指出，聯盟最大亮點是導入並認證「Green-BIM Object（綠色BIM元件）」，把建築元件的碳足跡與能耗資料整合成「低碳數位孿生」資料庫。這樣一來，從規劃、設計、施工到營運維護，各階段都能用數據說話，協助工程團隊找出碳熱點、比較方案、追蹤目標，實現精準減碳與效能提升。\n聯盟服務內容相當多元，包括Green-BIM認證、碳盤查（ISO 14064-1）、產品碳足跡（ISO 14067）輔導、能源管理（ISO 50001）導入，以及工程設計碳評估與優化等，還會協助企業技術移轉、產學媒合及申請政府補助專案。針對公共工程金質獎的「節能減碳」項目，也提供量化輔導，協助業者強化永續競爭力。\n成大土木系主任王雲哲表示，營建減碳的關鍵在於，以LCA與BIM整合建立具公信力的工程碳足跡基準。LCDCA不只是技術平台，更是跨域協作與價值鏈重塑的推手。成大工學院副院長郭振銘則指出，聯盟整合學研、產業與政策能量，建立低碳材料與工法標準，將帶領上下游共同創造永續價值，提升台灣在國際綠色建設領域的競爭力。\n免費訂閱《自由體育》電子報\n熱門賽事、球星動態不漏接",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chineset",
+  "sentiment": "positive",
+  "categories": ["Environment", "Science and Technology"],
+  "topics": [
+    "Environment->sustainability",
+    "Environment->climate change",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->civil engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_hk", "top_news_nz", "top_news_tw", "top_news"],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:45:44.058+03:00",
+  "updated": "2025-10-17T16:05:36.000+03:00"
+}

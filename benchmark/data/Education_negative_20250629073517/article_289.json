@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "ae3dbb88666ff299a9e74f18cf7f010320415999",
+    "url": "https://www.eldia.com/nota/2025-6-26-4-12-46-nuevo-paro-universitario-en-colegios-y-facultades-la-ciudad",
+    "site_full": "www.eldia.com",
+    "site": "eldia.com",
+    "site_section": "https://www.eldia.com/seccion/quilmes",
+    "site_categories": ["media", "top_news_ar", "top_news"],
+    "section_title": "Diario El Dia de La Plata www.eldia.com",
+    "site_title": "Diario El Dia de La Plata www.eldia.com",
+    "title": "Nuevo paro universitario en colegios y facultades",
+    "title_full": "Nuevo paro universitario en colegios y facultades",
+    "published": "2025-06-26T10:12:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "https://cdn1.eldia.com/685cccb0219b7300146ba494/1750922488113.jpg?cw=600&amp;ch=365",
+    "performance_score": 0,
+    "domain_rank": 42102,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ae3dbb88666ff299a9e74f18cf7f010320415999",
+  "url": "https://www.eldia.com/nota/2025-6-26-4-12-46-nuevo-paro-universitario-en-colegios-y-facultades-la-ciudad",
+  "ord_in_thread": 0,
+  "author": "Diario El Dia de La Plata www.eldia.com",
+  "published": "2025-06-26T10:12:00.000+03:00",
+  "title": "Nuevo paro universitario en colegios y facultades",
+  "text": "El gremio de docentes universitarios realizará hoy y mañana una nueva huelga de actividades en colegios y facultades con la finalidad de exponer la protesta al Gobierno Nacional por la ausencia de una negociación para la recomposición salarial. También se reclama el aumento de las partidas de financiamiento del sistema público de educación superior.\nLa medida de fuerza se complementará con la realización de manifestaciones callejeras en La Plata y otros puntos del país que son sede de universidades públicas.\nEn la Ciudad, los docentes se reunirán a las 17 en Plaza Rocha y marcharán desde allí por el Centro hasta el área de acceso al Colegio Nacional de la UNLP, donde se realizará una olla popular desde las 19.\n“Exigimos salarios docentes y nodocentes dignos, más y mejores becas, más presupuesto para las universidades y el tratamiento y la aprobación de la Ley de Financiamiento Universitario”, se expresó en las últimas horas en forma pública, en un mensaje que circuló en las redes sociales con adhesión de los gremios de docentes, nodocentes y de la federación estudiantil (Fulp).\nCarlos Defeo, titular de Conadu, la central docente a nivel nacional que convoca al paro, indicó que también se prevé una movilización hacia la sede de la secretaría de Educación de la Nación, en la capital federal.\nEl gremialista sostuvo que no hay diálogo entre el Gobierno y los gremios. “La última vez que hablamos fue en octubre”, dijo Defeo en los últimos días, cuando se confirmó la realización del paro de 48 horas.\nLE PUEDE INTERESAR\nActividades: folclore, Inti Raymi\nLE PUEDE INTERESAR\nQuedó un arreglo sin realizar y hay peligro para andar por la vereda\nDe allí para acá, los gremios de docentes y nodocentes realizaron paros en todos los meses que lleva el ciclo académico en las universidades nacionales.\nPor otra parte, presentaron un proyecto ante el Congreso Nacional que plantea el aumento de partidas.\nLas noticias locales nunca fueron tan importantes\nSUSCRIBITE a esta promo especial",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Politics"],
+  "topics": [
+    "Education->college and university",
+    "Education->teachers",
+    "Education->students",
+    "Social Issue->social services",
+    "Social Issue->social problem",
+    "Politics->government",
+    "Politics->political crisis",
+    "Politics->civil rights"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Carlo",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Plaza Rocha",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Gobierno Nacional",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": null,
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T10:30:33.669+03:00",
+  "updated": "2025-06-27T08:06:51.000+00:00"
+}

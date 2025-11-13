@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "f1e61a6c6fb570e9489f98d6e916e7234ee2892b",
+    "url": "https://hk.on.cc/hk/bkn/cnt/news/20251016/bkn-20251016210107279-1016_00822_001.html",
+    "site_full": "hk.on.cc",
+    "site": "on.cc",
+    "site_section": "https://hk.on.cc",
+    "site_categories": ["media", "top_news_hk", "top_news_tw", "top_news"],
+    "section_title": "即時新聞｜中港台｜on.cc東網｜東方傳媒機構",
+    "site_title": null,
+    "title": "復旦團隊研綠色太陽能電池　告別鉛污染",
+    "title_full": "復旦團隊研綠色太陽能電池　告別鉛污染",
+    "published": "2025-10-16T16:01:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "HK",
+    "main_image": "https://hk.on.cc/hk/bkn/cnt/news/20251016/photo/bkn-20251016210107279-1016_00822_001_01b.jpg?20251016122446",
+    "performance_score": 0,
+    "domain_rank": 27724,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f1e61a6c6fb570e9489f98d6e916e7234ee2892b",
+  "url": "https://hk.on.cc/hk/bkn/cnt/news/20251016/bkn-20251016210107279-1016_00822_001.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T16:01:00.000+03:00",
+  "title": "復旦團隊研綠色太陽能電池　告別鉛污染",
+  "text": "復旦團隊研綠色太陽能電池 告別鉛污染\n2025年10月16日 21:01\n東網電視\n更多新聞短片\n錫基鈣鈦礦太陽能電池能實現穩定發電，避免鉛元素帶來的中毒隱患。\n上海復旦大學一項最新科研成果指，校內團隊研發出全生命周期無害的錫基鈣鈦礦太陽能電池，並突破了光電轉換效率的世界紀錄。研究論文周三（15日）已在英國科學學術期刊《自然》線上發表。\n高效率、低成本和易加工的鈣鈦礦太陽能電池，雖是新一代光伏技術熱門方向，但因核心材料含鉛，未能實現真正綠色無害的光伏發電。過去5年，復旦智能材料與未來能源創新學院梁佳青年研究員團隊持續攻關同樣具優異光電特性，但對環境友好的錫元素，建立了完整技術體系，成功製備出綠色環保和轉換高效的錫基鈣鈦礦太陽能電池。\n經第三方權威認證，這一成果光電轉換效率達17.7%，打破了此前16.5%左右的鈣鈦礦光電轉換效率世界紀錄，成為目前錫基鈣鈦礦太陽能電池轉換效率的世界第一。梁佳表示，該技術特別適合在與人類密切接觸的能源領域發揮作用，有望廣泛部署在光伏建築一體化、可穿戴能源器件、汽車車頂、離網清潔供能系統等，下一步希望與相關領域企業合作建設實驗基地，推進產業化。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chineset",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Environment"],
+  "topics": [
+    "Science and Technology->scientific research",
+    "Science and Technology->chemistry",
+    "Environment->energy saving",
+    "Environment->sustainability",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_hk", "top_news_tw", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:08:15.327+03:00",
+  "updated": "2025-10-16T16:18:44.000+03:00"
+}

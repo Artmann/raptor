@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "0c97835d67ef52587449c7b90afcee21acd4ae94",
+    "url": "https://www.fox32chicago.com/news/illinois-state-police-phone-scam",
+    "site_full": "www.fox32chicago.com",
+    "site": "fox32chicago.com",
+    "site_section": "https://www.fox32chicago.com/news",
+    "site_categories": ["media"],
+    "section_title": "News",
+    "title": "Illinois State Police warns public of phone scam",
+    "title_full": "Illinois State Police warns public of phone scam",
+    "published": "2024-04-26T00:07:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images.foxtv.com/static.fox32chicago.com/www.fox32chicago.com/content/uploads/2022/07/1280/720/illinois-state-police.jpg?ve=1&amp;tl=1",
+    "performance_score": 0,
+    "domain_rank": 8581,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0c97835d67ef52587449c7b90afcee21acd4ae94",
+  "url": "https://www.fox32chicago.com/news/illinois-state-police-phone-scam",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "FOX 32 Chicago",
+  "published": "2024-04-26T00:07:00.000+03:00",
+  "title": "Illinois State Police warns public of phone scam",
+  "text": "CHICAGO - The Illinois State Police (ISP) has issued a warning regarding a recent phone scam.\nIndividuals have reported receiving calls from someone pretending to be an ISP investigator, claiming their identity has been stolen. ISP emphasizes that this is a scam and advises the public to be cautious.\nIf individuals receive calls from someone claiming to be an ISP investigator, they are urged to ask for the caller&apos;s name, badge number, and contact information before disconnecting the call. To verify the legitimacy of a caller claiming to be an ISP special agent, individuals can contact one of the seven investigative regions listed on the ISP website .\nIn case personal or financial information has been disclosed to a scam caller or if there are suspicions of identity theft, ISP recommends contacting the three major credit bureaus to place a free security freeze on credit reports. This action can prevent unauthorized individuals from opening credit in the affected person&apos;s name.\nFor further assistance and guidance on identity theft issues, individuals can reach out to the Illinois Attorney General&apos;s Identity Theft Hotline at 1-866-999-5630.\nThree major credit bureaus Equifax Experian TransUnion",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://isp.illinois.gov/",
+    "https://www.equifax.com/personal/credit-report-services/credit-freeze/",
+    "https://www.transunion.com/credit-freeze",
+    "https://www.experian.com/freeze/center.html",
+    "https://isp.illinois.gov",
+    "https://www.isp.illinois.gov/",
+    "https://equifax.com/personal/credit-report-services/credit-freeze/",
+    "https://www.equifax.com/personal/credit-report-services/credit-freeze",
+    "https://transunion.com/credit-freeze",
+    "https://experian.com/freeze/center.html"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "indivi",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "illi",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "illinois state police",
+        "sentiment": "negative"
+      },
+      {
+        "name": "isp",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "chicago",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:10:08.806+03:00",
+  "updated": "2024-04-26T13:20:42.611+03:00"
+}

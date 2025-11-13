@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "b33afeb25c04be5f009a470912056baba2952719",
+    "url": "https://www.tuttosport.com/news/calcio/europa-league/2025/01/23-137782931/baroni_la_lazio_gioca_e_si_diverte_zaccagni_capitano_ma_non_l_unico",
+    "site_full": "www.tuttosport.com",
+    "site": "tuttosport.com",
+    "site_section": "https://www.tuttosport.com/site_map_news.xml",
+    "site_categories": ["world_soccer", "sports"],
+    "section_title": "",
+    "title": "Baroni: \"La Lazio gioca e si diverte. Zaccagni capitano ma non è l'unico\"",
+    "title_full": "Baroni: \"La Lazio gioca e si diverte. Zaccagni capitano ma non è l'unico\"",
+    "published": "2025-01-23T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://cdn.tuttosport.com/images/2025/01/23/221819553-90e2b34d-be70-41af-88a1-ec181408fe13.jpeg",
+    "performance_score": 0,
+    "domain_rank": 18362,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b33afeb25c04be5f009a470912056baba2952719",
+  "url": "https://www.tuttosport.com/news/calcio/europa-league/2025/01/23-137782931/baroni_la_lazio_gioca_e_si_diverte_zaccagni_capitano_ma_non_l_unico",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "La redazione",
+  "published": "2025-01-23T02:00:00.000+02:00",
+  "title": "Baroni: \"La Lazio gioca e si diverte. Zaccagni capitano ma non è l'unico\"",
+  "text": "Baroni: \"La Lazio gioca e si diverte. Zaccagni capitano ma non è l'unico\" Il tecnico dei capitolini è intervenuto ai microfoni di Sky Sport per commentare la vittoria in Europa League contro la Real Sociedad 23.01 .2025 23:31 3 min\nMarco Baroni è intervenuto ai microfoni di Sky Sport per commentare la bella vittoria in Europa League della Lazio contro la Real Sociedad per 3-1 decisa dalle reti di Gila , Zaccagni e Castellanos . Il tecnico dei biancocelesti ha dichiarato: \" Vorrei che non passasse per normale il percorso che stanno facendo questi ragazzi. Sono orgoglioso di loro. La squadra mi stimola continuamente. Sono contento di allenare questa squadra. C’è ancora tanta strada e tanto lavoro ma so di contare su un gruppo che ha fame e che vuole migliorarsi “. Baroni h a poi aggiunto: “ l calcio si gioca con un pallone. Ottenere qualcosa di importante o non ottenerlo passa di lì. Non bisogna mai dare per scontato niente. Il primo deve essere il giocatore a pretendere di più da sé stesso ma non si deve mai mollare perché nel momento in cui penso di avere qualcosa davvero lo puoi perdere “.\nLe parole di Baroni A seguire, Baroni ha poi parlato dell’infortunio di Nuno Tavares : \" Il giocatore sembra si sia fermato nel momento giusto. Però è chiaro che per noi è molto importante, è una risorsa. Ora dobbiamo fare delle verifiche e vediamo un attimino “. Su tutta la rosa: “ Devo dire che dal primo giorno che ho parlato con la squadra, ho detto che non ho mai allenato un club così forte. Prima di tutto bisogna dare convinzione. Questo gruppo mi ha sorpreso per questa forza che ha trovato nel lavoro. Spesso la squadra gioca divertendosi e questa è la cosa più bella. Quando parlo di giocatori emotivi, voglio toccare questo tema. Un giocatore emotivo lo vedi per come si dedica all’interno della squadra. Questo è l’aspetto più importante “. E' arrivato poi un commento sul pressing alto della Lazio : “ Volevamo portare pressione a uomo e quando l’abbiamo fatto abbiamo recuperato palla alta. Specialmente avendo così tanti giocatori offensivi di qualità possiamo farlo. È stato anche fondamentale il ruolo degli attaccanti oggi\" . Baroni ha poi concluso: “ Nei momento difficili si vedono le squadre, questa è una crescita del gruppo. La squadra ha metabolizzato. Io dico sempre che si può perdere nel punteggio ma mai nella prestazione. La squadra ha sempre avuto delle reazioni importanti perché nell’aspetto della prestazione non bisogna uscire sconfitti “.\n© RIPRODUZIONE RISERVATA",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->sport achievement",
+    "Sport->soccer",
+    "Lifestyle and Leisure->game",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Zaccagni",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Marco Baroni",
+        "sentiment": "neutral"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "La Lazio",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Real Sociedad",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sky Sport",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Gila",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:45:34.238+02:00",
+  "updated": "2025-01-24T00:45:34.238+02:00"
+}

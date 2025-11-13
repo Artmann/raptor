@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "b19a5d01da0c96215fb06dfde3f5872498c3d0d4",
+    "url": "https://www.bostonglobe.com/2024/04/25/metro/emerson-college-student-captures-video-protest-arrests",
+    "site_full": "www.bostonglobe.com",
+    "site": "bostonglobe.com",
+    "site_section": "https://bostonglobe.com",
+    "site_categories": ["media"],
+    "section_title": "The Boston Globe",
+    "title": "VIDEO: Emerson student films arrests at Gaza encampment in Boston",
+    "title_full": "VIDEO: Emerson student films arrests at Gaza encampment in Boston",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/7ckRdbiuCzXWuHRm38yjRaAtwcE=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/QFTIFQDNUYJNMPN4KQYRDIALHU.jpg",
+    "performance_score": 0,
+    "domain_rank": 872,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b19a5d01da0c96215fb06dfde3f5872498c3d0d4",
+  "url": "https://www.bostonglobe.com/2024/04/25/metro/emerson-college-student-captures-video-protest-arrests",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Emily Sweeney",
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "VIDEO: Emerson student films arrests at Gaza encampment in Boston",
+  "text": "An Emerson College student captured harrowing video of the moment several police officers swarmed a protester on the ground as they cleared a pro-Palestinian encampment at Boylston Place early Thursday morning. In the video, three police officers can be seen tussling with the person, who apparently was trying to hide in a tent in the Boylston Place alley. Sabrina Lam, a sophomore at Emerson, shot the video from a study room on the fourth floor of the Walker Building on Boylston Street, which is adjacent to the alley where the encampment was located. Lam said students filled every room of the surrounding buildings, watching from above as police clashed with protesters. With their bird’s-eye view, students banged on windows and chanted as police in riot gear forcibly removed the tent encampment from the alley and arrested more than 100 protesters. Advertisement ”The arrests of the students was horrific to watch,” Lam said by phone Thursday morning. “There was not a single time when I saw a student being violent towards an officer or resisting in any distinct way.” Lam said she saw more than 100 officers in “riot gear” enter the alley. ”They had helmets on, they had these baton-looking sticks they were using,” Lam said. “They immediately starting pushing onto the the students.” Lam said she saw officers shove students and push them against the wall. Some students tried to flee the area, she said, but were shoved, seized, and arrested by police. She also said she saw three police officers engaging in “continuous slamming” of one student into the ground after the student tried to hide in a tent. “I noticed one student got dragged out from under a tent and immediately took my phone out to record,” she wrote. “Two police officers dragged the student out and continuously slammed them to the ground ... Towards the end, there were 3 officers on top of the student as they were laying on the ground, not moving. After the student was finally able to get up, they arrested the student.” Advertisement Boston police Sergeant Detective John Boyle, the department’s chief spokesman, said none of the demonstrators taken into custody reported injuries. The Globe shared a copy of the video taken by Lam. “I’ve taken the video and forwarded it to our investigators to look into that,” Boyle said. Police blocked entry and exit from buildings surrounding the alley, including the Two Boylston Place residential building — where Lam said some students hid from arrest — and Walker, where Lam watched from above. After Lam found a way out of Walker through a back exit, she said she and her friends were unable to return to their residential buildings until around 3 a.m., because police had formed a barricade blocking all access to Boylston Street. Some students sat in a line across from the officers and continued chanting, Lam said. Around 4 or 5 a.m., Lam said she went to a precinct in East Boston to await the release of a friend who had been arrested. Nick Stoico of the Globe staff contributed to this report. Emily Sweeney can be reached at [emily.sweeney@globe.com](mailto:emily.sweeney@globe.com). Follow her @emilysweeney and on Instagram @emilysweeney22. Madeline Khaw can be reached at [maddie.khaw@globe.com](mailto:maddie.khaw@globe.com). Follow her @maddiekhaw .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Human Interest", "Social Issue"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "emerson",
+        "sentiment": "negative"
+      },
+      {
+        "name": "lam",
+        "sentiment": "none"
+      },
+      {
+        "name": "sabrina lam",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "boston an emerson college",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "gaza",
+        "sentiment": "none"
+      },
+      {
+        "name": "boylston place",
+        "sentiment": "none"
+      },
+      {
+        "name": "walker building",
+        "sentiment": "none"
+      },
+      {
+        "name": "boylston street",
+        "sentiment": "none"
+      },
+      {
+        "name": "emerson",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:23:34.881+03:00",
+  "updated": "2024-04-26T02:31:20.128+03:00"
+}

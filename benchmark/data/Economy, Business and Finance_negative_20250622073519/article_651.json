@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "3aa1c52fa8cbea0ae94ec00afbee5c9ef948e3dc",
+    "url": "https://www.clickorlando.com/video/news/2025/06/19/melbourne-beach-mayor-censured-for-2nd-time-after-calling-commissioner-an-idiot",
+    "site_full": "www.clickorlando.com",
+    "site": "clickorlando.com",
+    "site_section": "https://news.google.com/search?q=an%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "ClickOrlando l Orlando, Florida News, Local Headlines l WKMG News 6",
+    "title": "Melbourne Beach mayor censured for 2nd time after calling commissioner an idiot",
+    "title_full": "Melbourne Beach mayor censured for 2nd time after calling commissioner an idiot",
+    "published": "2025-06-19T06:41:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/anyclip/fstl-tf/IgE_hpcBDCyytQOcvqvK/1750304490851_1920x1080_thumbnail.jpg?_a=DATAg1eAZAA0",
+    "performance_score": 0,
+    "domain_rank": 5724,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3aa1c52fa8cbea0ae94ec00afbee5c9ef948e3dc",
+  "url": "https://www.clickorlando.com/video/news/2025/06/19/melbourne-beach-mayor-censured-for-2nd-time-after-calling-commissioner-an-idiot",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-19T06:41:00.000+03:00",
+  "title": "Melbourne Beach mayor censured for 2nd time after calling commissioner an idiot",
+  "text": "NEWSMelbourne Beach mayor censured for 2nd time after calling commissioner an idiotPublished: June 18, 2025 at 11:33 PMTags: A local mayor was on the hot seat at Wednesday night’s town commission meeting.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Politics", "Economy, Business and Finance", "Social Issue"],
+  "topics": [
+    "Politics->political process",
+    "Politics->political candidates",
+    "Economy, Business and Finance->corporate governance and csr",
+    "Economy, Business and Finance->business governance",
+    "Social Issue->communities",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Beach",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:39:29.156+03:00",
+  "updated": "2025-06-19T04:43:20.000+00:00"
+}

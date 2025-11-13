@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "7444e67103461545f2019a96d00ac45e92176459",
+    "url": "https://www.si.com/tennis/aryna-sabalenka-incredulous-berlin-open-match-delayed-court-conditions",
+    "site_full": "www.si.com",
+    "site": "si.com",
+    "site_section": "https://www.si.com/tennis",
+    "site_categories": ["sports"],
+    "section_title": "Tennis News, Scores &amp; Analysis | Sports Illustrated",
+    "site_title": "Sports Illustrated",
+    "title": "Aryna Sabalenka Was Incredulous After Match Delayed Due to Court Conditions",
+    "title_full": "Aryna Sabalenka Was Incredulous After Match Delayed Due to Court Conditions",
+    "published": "2025-06-19T06:34:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_774,h_435,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01jy2ynkqb09jrc1mg11.png",
+    "performance_score": 0,
+    "domain_rank": 1241,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7444e67103461545f2019a96d00ac45e92176459",
+  "url": "https://www.si.com/tennis/aryna-sabalenka-incredulous-berlin-open-match-delayed-court-conditions",
+  "ord_in_thread": 0,
+  "author": "Tim Capurso",
+  "published": "2025-06-19T06:34:00.000+03:00",
+  "title": "Aryna Sabalenka Was Incredulous After Match Delayed Due to Court Conditions",
+  "text": "Aryna Sabalenka Was Incredulous After Match Delayed Due to Court Conditions\nWorld No. 1 Aryna Sabalenka's Berlin Open match against Rebeka Masarova was delayed for a strange reason. The match was suspended due to wet grass, as the tournament announced Wednesday.\nAnd Sabalenka couldn't believe it. Evidently, Masarova, who lost a hard-fought first set 2-6 moments before play was suspended, complained that the grass was slippery, prompting a discussion between a tournament official and an incredulous Sabalenka.\n\"You’re stopping the match because she said that side is slippery? ... I just played 2 games on that side!\" Sabalenka exclaimed. Sabalenka then seemed to further plead her case, believing that Masarova, who failed to convert all six first set break point chances, was only requesting for play to be stopped because she was losing the match. Former world No. 1 Andy Roddick, providing analysis on The Tennis Channel, certainly believed that to be the case.\nEither way, Sabalenka's pleas fell on deaf ears. The chair umpire suspended the match, not only due to the court conditions but also due to the waning daylight.\nAnd Sabalenka likely won't be the only one upset with the decision. In officially announcing the suspension of the match until Thursday, the Berlin Open also informed fans that tickets for Wednesday's match would not be valid for the resumption of play on Thursday.\nSabalenka, on the heels of losing the French Open final and her somewhat controversial comments after the match, will look to quickly put this match to bed on Thursday and advance to the quarterfinals at the Berlin Open.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Sport", "Economy, Business and Finance", "Social Issue"],
+  "topics": [
+    "Sport->sports management and ownership",
+    "Sport->sport event",
+    "Sport->tennis",
+    "Economy, Business and Finance->business reporting and performance",
+    "Economy, Business and Finance->tourism and leisure industry",
+    "Economy, Business and Finance->media and entertainment industry",
+    "Social Issue->communities",
+    "Social Issue->women",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://x.com/berlin_tennis/status/1935413473548320847",
+    "https://x.com/TennisChannel/status/1935430295274082513",
+    "https://www.x.com/berlin_tennis/status/1935413473548320847",
+    "https://www.x.com/TennisChannel/status/1935430295274082513"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Rebeka Masarova",
+        "sentiment": "none"
+      },
+      {
+        "name": "Andy Roddick",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sabalenka",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:39:50.701+03:00",
+  "updated": "2025-06-19T04:45:02.000+00:00"
+}

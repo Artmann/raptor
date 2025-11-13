@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "708221d7b128e6f7961d5ac489bf629075517f15",
+    "url": "https://www.telegraphherald.com/news/tri-state/article_c002c72e-a59d-11ee-98a0-570ca8e37424.html",
+    "site_full": "www.telegraphherald.com",
+    "site": "telegraphherald.com",
+    "site_section": "http://thonline.com//search/?q=&t=article&l=500&d=today&d1=&d2=&s=&sd=desc&f=rss",
+    "site_categories": ["social"],
+    "section_title": "www.telegraphherald.com - RSS Results of type article",
+    "title": "Police: 1 hurt in Dubuque crash",
+    "title_full": "Police: 1 hurt in Dubuque crash",
+    "published": "2023-12-28T23:25:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/telegraphherald.com/content/tncms/custom/image/646a89a2-fd9d-11e5-9db5-4b01910bfaa0.jpg?resize=600%2C315",
+    "performance_score": 0,
+    "domain_rank": 35585,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "708221d7b128e6f7961d5ac489bf629075517f15",
+  "url": "https://www.telegraphherald.com/news/tri-state/article_c002c72e-a59d-11ee-98a0-570ca8e37424.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Telegraph Herald",
+  "published": "2023-12-28T23:25:00.000+02:00",
+  "title": "Police: 1 hurt in Dubuque crash",
+  "text": "Police said one person was injured in a single-vehicle crash in Dubuque. Dakes O. Eliam, 59, of Maquoketa, Iowa, was transported by ambulance to UnityPoint Health-Finley Hospital for treatment of his injuries, according to Dubuque police. Current conditions in Dubuque, IA Police said one person was injured in a single-vehicle crash in Dubuque. Dakes O. Eliam, 59, of Maquoketa, Iowa, was transported by ambulance to UnityPoint Health-Finley Hospital for treatment of his injuries, according to Dubuque police. Police reported that Eliam was driving north on U.S. 61 near the U.S. 151 exit at approximately 5:45 a.m. Thursday, when he fell asleep at the wheel. The vehicle left the roadway and struck four poles holding a cable guard rail. Eliam was cited with operation of a motor vehicle with an expired license, failure to provide proof of financial liability and failure to maintain control. {{description}} Email notifications are only sent once a day, and only if there are new matching items. {{description}} Email notifications are only sent once a day, and only if there are new matching items. Sorry, an error occurred. Sign up with Thank you . Your account has been registered, and you are now logged in. Check your email for details. Sign in with Submitting this form below will send a message to your email with a link to change your password. An email message containing instructions on how to reset your password has been sent to the email address listed on your account. No promotional rates found. Thank you. Your gift purchase was successful! Your purchase was successful, and you are now logged in. |Rate:| |Begins:| |Transaction ID:| A receipt was sent to your email.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "maqu",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "dakes o. eliam",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "eliam",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "ia police",
+        "sentiment": "none"
+      },
+      {
+        "name": "unitypoint health",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "dubuque",
+        "sentiment": "none"
+      },
+      {
+        "name": "finley hospital",
+        "sentiment": "none"
+      },
+      {
+        "name": "iowa",
+        "sentiment": "none"
+      },
+      {
+        "name": "maquoketa",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:56:46.389+02:00",
+  "updated": "2023-12-29T03:36:57.541+02:00"
+}

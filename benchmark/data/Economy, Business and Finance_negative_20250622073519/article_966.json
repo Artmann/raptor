@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "70f9cb6d186630df85bf735b1f89f761017bd26f",
+    "url": "https://taiwannews.com.tw/news/6137793",
+    "site_full": "taiwannews.com.tw",
+    "site": "taiwannews.com.tw",
+    "site_section": "https://taiwannews.com.tw",
+    "site_categories": ["top_news_tw", "top_news"],
+    "section_title": "Taiwan News - Voice of the People, Bridge to the World",
+    "site_title": "Taiwan News - Voice of the People, Bridge to the World",
+    "title": "Taiwan's tech trade with US under pressure from Section 232 review | Taiwan News | Jun. 19, 2025 11:38",
+    "title_full": "Taiwan's tech trade with US under pressure from Section 232 review | Taiwan News | Jun. 19, 2025 11:38",
+    "published": "2025-06-19T07:43:40.381+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://image.taiwannews.com.tw/2024%2F12%2F04%2F794bc5e31dd84a169689ea0ca53edc28.jpg",
+    "performance_score": 0,
+    "domain_rank": 6502,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "70f9cb6d186630df85bf735b1f89f761017bd26f",
+  "url": "https://taiwannews.com.tw/news/6137793",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-19T07:43:40.381+03:00",
+  "title": "Taiwan's tech trade with US under pressure from Section 232 review | Taiwan News | Jun. 19, 2025 11:38",
+  "text": "TAIPEI (Taiwan News) — The economics ministry warned Wednesday that up to 80% of Taiwan's exports to the US fall under Section 232 investigations, posing a far greater risk to local industries than looming tariffs.\nWith the 90-day grace period on US tariffs about to expire, the ministry said only 20% of Taiwan’s exports are affected by those measures, per CNA. In contrast, the bulk of technology and electronics exports are covered under Section 232, which the US frames as a national security-related probe.\nAt a forum, MOEA Industrial Development Administration Director-General Chiu Chiu-hui (邱求慧) outlined three major US trade actions: Fentanyl-linked tariffs, Section 232 tariffs, and the so-called “reciprocal tariffs.” Section 232 and reciprocal tariffs do not overlap, Chiu explained, and their impact on Taiwan differs significantly.\nUS Section 232 investigations now cover semiconductors, critical minerals, and pharmaceuticals. The ministry said 78% of Taiwan’s 2024 exports to the US fall under 232-related categories, including high-tech goods like semiconductors and servers.\nChiu said Taiwan’s electronics sector remains globally competitive if tariffs remain in line with peer economies, but traditional industries are more exposed and may require government support. He added that the government has allocated NT$93 billion (US$3.14 billion) to assist the industrial sector, per Business Today.\nTaiwan held its first round of in-person trade talks with the US on May 1. Chiu noted that discussions were constructive and that Taiwan is committed to securing favorable terms for its domestic industries.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Politics", "Social Issue"],
+  "topics": [
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->economy",
+    "Economy, Business and Finance->foreign exchange market",
+    "Politics->economic policy",
+    "Politics->international relations",
+    "Social Issue->social problem",
+    "Social Issue->social condition",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.bis.doc.gov/index.php/other-areas/office-of-technology-evaluation-ote/section-232-investigations",
+    "https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-ensures-national-security-and-economic-resilience-through-section-232-actions-on-processed-critical-minerals-and-derivative-products/",
+    "https://www.cna.com.tw/news/afe/202506180335.aspx",
+    "https://www.businesstoday.com.tw/article/category/183025/post/202506180064/",
+    "https://english.ey.gov.tw/Page/61BF20C3E89B856/fbba9b28-bd8c-4c69-91fc-840bbc269a78",
+    "https://www.english.ey.gov.tw/Page/61BF20C3E89B856/fbba9b28-bd8c-4c69-91fc-840bbc269a78",
+    "https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-ensures-national-security-and-economic-resilience-through-section-232-actions-on-processed-critical-minerals-and-derivative-products",
+    "https://whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-ensures-national-security-and-economic-resilience-through-section-232-actions-on-processed-critical-minerals-and-derivative-products/",
+    "https://bis.doc.gov/index.php/other-areas/office-of-technology-evaluation-ote/section-232-investigations",
+    "https://www.businesstoday.com.tw/article/category/183025/post/202506180064",
+    "https://cna.com.tw/news/afe/202506180335.aspx",
+    "https://businesstoday.com.tw/article/category/183025/post/202506180064/"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Chiu Chiu-hui",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "MOEA Industrial Development Administration",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_tw", "top_news"],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:43:40.381+03:00",
+  "updated": "2025-06-19T04:46:02.000+00:00"
+}

@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "cad34223a55a9a5c38300057ff6b069e51cf1a94",
+    "url": "https://article.wn.com/view/2025/10/16/Mother_Elephant_Helps_Stuck_Calf_Forest_Officer_Shares_Heart/",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/environment",
+    "site_categories": ["media"],
+    "section_title": "World News - Environment",
+    "site_title": "World News",
+    "title": "Mother Elephant Helps Stuck Calf, Forest Officer Shares Heartwarming Video - Worldnews.com",
+    "title_full": "Mother Elephant Helps Stuck Calf, Forest Officer Shares Heartwarming Video - Worldnews.com",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 8219,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cad34223a55a9a5c38300057ff6b069e51cf1a94",
+  "url": "https://article.wn.com/view/2025/10/16/Mother_Elephant_Helps_Stuck_Calf_Forest_Officer_Shares_Heart/",
+  "ord_in_thread": 0,
+  "author": "System",
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "Mother Elephant Helps Stuck Calf, Forest Officer Shares Heartwarming Video - Worldnews.com",
+  "text": "The 17-second video shared by Indian Forest Services (IFS) officer Parveen Kaswan shows a baby elephant stuck roadside, unable to hoist itself up. ......\nread full story\nThe 17-second video shared by Indian Forest Services (IFS) officer Parveen Kaswan shows a baby elephant stuck roadside, unable to hoist itself up. ......\nread full story",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Environment"],
+  "topics": [
+    "Human Interest->human mishap",
+    "Environment->animal",
+    "Environment->nature"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.ndtv.com/offbeat/mother-elephant-helps-stuck-calf-ifs-officer-shares-heartwarming-video-9467027",
+    "https://ndtv.com/offbeat/mother-elephant-helps-stuck-calf-ifs-officer-shares-heartwarming-video-9467027"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Parveen Kaswan",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:35:31.507+03:00",
+  "updated": "2025-10-16T15:47:58.000+03:00"
+}

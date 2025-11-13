@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "3c82c5cadf46858f5c46d9a9cc6794951b85b618",
+    "url": "https://www.morningagclips.com/electronic-soil-called-esoil-enhances-crop-growth/",
+    "site_full": "www.morningagclips.com",
+    "site": "morningagclips.com",
+    "site_section": "http://feeds.feedburner.com/MorningAgClips",
+    "site_categories": ["media"],
+    "section_title": "Morning Ag Clips",
+    "title": "Electronic “Soil” Called eSoil Enhances Crop Growth",
+    "title_full": "Electronic “Soil” Called eSoil Enhances Crop Growth",
+    "published": "2023-12-28T23:50:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.morningagclips.com/wp-content/uploads/2023/12/esoil.jpg",
+    "performance_score": 0,
+    "domain_rank": 65621,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3c82c5cadf46858f5c46d9a9cc6794951b85b618",
+  "url": "https://www.morningagclips.com/electronic-soil-called-esoil-enhances-crop-growth/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Kyle",
+  "published": "2023-12-28T23:50:00.000+02:00",
+  "title": "Electronic “Soil” Called eSoil Enhances Crop Growth",
+  "text": "LINKÖPING, Sweden — Barley seedlings grow on average 50% more when their root system is stimulated electrically through a new cultivation substrate. In a study published in the journal PNAS, researchers from Linköping University have developed an electrically conductive “soil” (eSoil) for soilless cultivation, known as hydroponics.\n“The world population is increasing, and we also have climate change. So it’s clear that we won’t be able to cover the food demands of the planet with only the already existing agricultural methods. But with hydroponics we can grow food also in urban environments in very controlled settings,” says Eleni Stavrinidou, associate professor at the Laboratory of Organic Electronics at Linköping University, and leader of the Electronic Plants group.\nHer research group has now developed an electrically conductive cultivation substrate tailored to hydroponic cultivation which they call eSoil. The Linköping University researchers have shown that barley seedlings grown in the conductive “soil” grew up to 50% more in 15 days when their roots were stimulated electrically.\nHydroponic cultivation means that plants grow without soil, needing only water, nutrients and something their roots can attach to – a substrate. It is a closed system that enables water recirculation so that each seedling gets exactly the nutrients it needs. Therefore, very little water is required and all nutrients remain in the system, which is not possible in traditional cultivation.\nHydroponics also enables vertical cultivation in large towers to maximise space efficiency. Crops already being cultivated in this manner include lettuce, herbs and some vegetables. Grains are not typically grown in hydroponics apart for their use as fodder. In this study the researchers show that barley seedlings can be cultivated using hydroponics and that they have a better growth rate thanks to electrical stimulation.\n“In this way, we can get seedlings to grow faster with less resources. We don’t yet know how it actually works, which biological mechanisms that are involved. What we have found is that seedlings process nitrogen more effectively, but it’s not clear yet how the electrical stimulation impacts this process,” says Eleni Starvrinidou.\nMineral wool is often used as cultivation substrate in hydroponics. Not only is this non-biodegradable, it is also produced with a very energy intensive process. The electronic cultivation substrate eSoil is made of cellulose, the most abundant biopolymer, mixed with a conductive polymer called PEDOT. This combination as such is not new, but this is the first time it has been used for plant cultivation and for creating an interface for plants in this manner.\nPrevious research has used high voltage to stimulate the roots. The advantage of the Linköping researchers’ “soil” is that it has very low energy consumption and no high voltage danger. Eleni Stavrinidou believes that the new study will open the pathway for new research areas to develop further hydroponic cultivation.\n“We can’t say that hydroponics will solve the problem of food security. But it can definitely help particularly in areas with little arable land and with harsh environmental conditions.”\nThe full article can be found in the Proceedings of the National Academy of Sciences\nhere.\n— Linköping University via EurekAlert!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Environment"
+  ],
+  "external_links": [
+    "https://www.pnas.org/doi/10.1073/pnas.2304135120",
+    "https://pnas.org/doi/10.1073/pnas.2304135120"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "eleni stavrinidou",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "pnas",
+        "sentiment": "none"
+      },
+      {
+        "name": "linköping university",
+        "sentiment": "none"
+      },
+      {
+        "name": "electronic plants",
+        "sentiment": "none"
+      },
+      {
+        "name": "laboratory of organic electronics",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "sweden",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:55:30.370+02:00",
+  "updated": "2023-12-29T00:55:30.370+02:00"
+}

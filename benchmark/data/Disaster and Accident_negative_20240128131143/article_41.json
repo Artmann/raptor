@@ -1,0 +1,152 @@
+{
+  "thread": {
+    "uuid": "d6d8ffe4989a4e7afabe16732f22fa01fea6f4fe",
+    "url": "https://www.newsbreak.com/vicksburg-ms/3279878767735-additional-arrest-made-in-2022-homicide",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/vicksburg-ms",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "Vicksburg News, Weather, Safety, Sports | NewsBreak Vicksburg, MS",
+    "title": "Additional arrest made in 2022 homicide",
+    "title_full": "Additional arrest made in 2022 homicide",
+    "published": "2023-12-28T23:45:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/3qxY03_0qSt848q00?type=thumbnail_1600x1200",
+    "performance_score": 0,
+    "domain_rank": 3324,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d6d8ffe4989a4e7afabe16732f22fa01fea6f4fe",
+  "url": "https://www.newsbreak.com/vicksburg-ms/3279878767735-additional-arrest-made-in-2022-homicide",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NewsBreak Original",
+  "published": "2023-12-28T23:45:00.000+02:00",
+  "title": "Additional arrest made in 2022 homicide",
+  "text": "An additional suspect in the 2022 shooting death of Reginald Rogers Jr. was arrested last week following a traffic stop in Vicksburg. According to information provided by the Vicksburg Police Department (VPD), 22-year-old Rosman Daniels Jr., of Vicksburg, was taken into custody following the traffic stop on Halls Ferry Road Fri., Dec. 22. He was sought in the Jan. 26, murder of Rogers, who was killed in his driveway on National Street Daniels was arrested on a warrant requested by the district attorney’s office and was turned over to the Warren County Sheriff’s Office. In February of 2022, police arrested Christopher Henderson Jr. and Jordan Harvey in connection with the shooting. Each man was charged with murder. At that time, VPD Chief of Police Penny Jones said the pair was arrested in Wiggins, where they had been staying, with the assistance of Wiggins police. Henderson, 20 of Vicksburg, and Harvey, 19 of Canton, appeared in Vicksburg Municipal Court on Fri., Feb. 25, 2022. Judge Penny Lawson set each of their bonds at $1,000,000. They were bound over to the Warren County Grand Jury.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident",
+    "Human Interest",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "reginald rogers jr.",
+        "sentiment": "negative"
+      },
+      {
+        "name": "rosman daniels jr.",
+        "sentiment": "none"
+      },
+      {
+        "name": "penny jones",
+        "sentiment": "none"
+      },
+      {
+        "name": "penny lawson",
+        "sentiment": "none"
+      },
+      {
+        "name": "harvey",
+        "sentiment": "none"
+      },
+      {
+        "name": "daniels",
+        "sentiment": "none"
+      },
+      {
+        "name": "wiggins",
+        "sentiment": "none"
+      },
+      {
+        "name": "christopher henderson jr.",
+        "sentiment": "none"
+      },
+      {
+        "name": "henderson",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "vicksburg municipal court",
+        "sentiment": "none"
+      },
+      {
+        "name": "vicksburg police department",
+        "sentiment": "none"
+      },
+      {
+        "name": "rogers",
+        "sentiment": "none"
+      },
+      {
+        "name": "warren county sheriff’s office",
+        "sentiment": "none"
+      },
+      {
+        "name": "halls ferry road",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "jordan harvey",
+        "sentiment": "none"
+      },
+      {
+        "name": "wiggins",
+        "sentiment": "none"
+      },
+      {
+        "name": "vicksburg",
+        "sentiment": "none"
+      },
+      {
+        "name": "warren county grand j",
+        "sentiment": "none"
+      },
+      {
+        "name": "canton",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:03:26.718+02:00",
+  "updated": "2023-12-29T00:03:26.718+02:00"
+}

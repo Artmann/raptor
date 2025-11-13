@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "a846f22271f27f01c07e2c2bfe1cd3caf1635b35",
+    "url": "https://www.ansa.it/canale_legalita_scuola/notizie/2025/06/18/maturita-per-il-73-degli-studenti-e-stata-notte-di-ansia_c7f45955-6adb-4423-a4f9-93f592178901.html",
+    "site_full": "www.ansa.it",
+    "site": "ansa.it",
+    "site_section": "https://ansa.it/canale_legalita_scuola/notizie/index_3.shtml",
+    "site_categories": [
+      "media",
+      "top_news_ch",
+      "top_news_dk",
+      "top_news_it",
+      "top_news"
+    ],
+    "section_title": " Notizie - Ansa.it",
+    "site_title": "Agenzia ANSA: ultime notizie di cronaca, politica e sport - ANSA",
+    "title": "Maturità: per il 73% degli studenti è stata notte di ansia - Notizie - Ansa.it",
+    "title_full": "Maturità: per il 73% degli studenti è stata notte di ansia - Notizie - Ansa.it",
+    "published": "2025-06-18T10:37:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://www.ansa.it/webimages/img_1129x635/2025/6/18/25866a8dea9feb5b77f6935a17d790ea.jpg",
+    "performance_score": 0,
+    "domain_rank": 1970,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a846f22271f27f01c07e2c2bfe1cd3caf1635b35",
+  "url": "https://www.ansa.it/canale_legalita_scuola/notizie/2025/06/18/maturita-per-il-73-degli-studenti-e-stata-notte-di-ansia_c7f45955-6adb-4423-a4f9-93f592178901.html",
+  "ord_in_thread": 0,
+  "author": "ansa.it",
+  "published": "2025-06-18T10:37:00.000+03:00",
+  "title": "Maturità: per il 73% degli studenti è stata notte di ansia - Notizie - Ansa.it",
+  "text": "Un terzo dei maturandi ha scelto di festeggiare, un altro terzo ha ripassato fino a tardi, ma quasi tutti hanno dormito poco.\n A dirlo è un'indagine condotta dal portale Skuola.net, su un campione di 1.000 studenti di quinta superiore: più di 1 su 3 ha deciso di godersi l'attesa, celebrando il momento con amici e compagni; una percentuale più o meno simile si è dedicata a un'ultima sessione di ripasso; mentre il 29% ha provato ad allentare la pressione, passando una serata come tante altre.\n C'è però un elemento che li accomuna quasi tutti: la fatica ad addormentarsi. Colpa dell'ansia da prestazione: il 73% ha raccontato di aver trascorso una notte turbolenta, faticando a prendere sonno, mentre solo il 27% è riuscito ad addormentarsi.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": [
+    "Education->upper secondary education",
+    "Education->educational testing and examinations",
+    "Education->students",
+    "Human Interest->graduation",
+    "Social Issue->social services",
+    "Social Issue->social condition",
+    "Social Issue->teenagers"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_ch", "top_news_dk", "top_news_it", "top_news"],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T13:15:45.099+03:00",
+  "updated": "2025-06-27T11:06:57.000+00:00"
+}

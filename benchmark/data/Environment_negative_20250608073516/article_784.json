@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "c69c419a878a22bed47f336775916f54e42528f9",
+    "url": "https://en.ara.cat/misc/earth-records-its-second-warmest-april-ever-approaching-record-for-2024_1_5372514.html",
+    "site_full": "en.ara.cat",
+    "site": "ara.cat",
+    "site_section": "https://news.google.com/search?q=its%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["top_news_es", "top_news"],
+    "section_title": "Google News - Search",
+    "site_title": "Diari ARA | Notícies i actualitat al diari líder en català",
+    "title": "Earth records its second warmest April ever, approaching a record for 2024",
+    "title_full": "Earth records its second warmest April ever, approaching a record for 2024",
+    "published": "2025-05-08T05:01:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://static1.ara.cat/clip/74eed51b-fd13-4fdf-b176-fccc237799bd_facebook-aspect-ratio_default_0.jpg",
+    "performance_score": 0,
+    "domain_rank": 14237,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c69c419a878a22bed47f336775916f54e42528f9",
+  "url": "https://en.ara.cat/misc/earth-records-its-second-warmest-april-ever-approaching-record-for-2024_1_5372514.html",
+  "ord_in_thread": 0,
+  "author": "Xavi Segura",
+  "published": "2025-05-08T05:01:00.000+03:00",
+  "title": "Earth records its second warmest April ever, approaching a record for 2024",
+  "text": "Earth records its second warmest April ever, approaching a record for 2024\nThe latest Copernicus report also confirms that the global average temperature remains above the fateful 1.5°C.\nBarcelonaThis April was the second warmest on record worldwide. The average monthly global temperature was 14.96°C, just 0.07°C below the record set in April 2024 and 0.6°C above the average for this month in the reference period (1991–2020).\nThis is the conclusion of the monthly report from the European Copernicus programme's climate change service, published Thursday, which also highlights that this April the average temperature was 1.51°C above the estimated average for the pre-industrial period (1850–1900). This is the 21st of the last 22 years in which the global average temperature has exceeded the fateful 1.5°C above pre-industrial levels.\n\"Continuous monitoring of climate developments is an essential tool for understanding and responding to the changes underway in our climate system,\" explains Samantha Burgess, climate strategy lead at the European Centre for Medium-Range Weather Forecasts (ECMW), in the report.\nAs for Europe, this was the sixth warmest April in the entire historical series. The average temperature across the continent was 9.38°C, 1.01°C above the average for the 1991-2020 period. Thermometers were clearly warmer in parts of eastern Europe, western Russia, and Norway, among others. However, towards the southeast of the continent, temperatures were colder than normal.\nOutside of Europe, temperatures have been particularly warm in areas such as eastern Russia, much of central and western Asia, North America, and parts of Antarctica. In contrast, temperatures in parts of South and northeast America and parts of Greenland have been below average.\nThe second warmest April on record, also at sea.\nRegarding sea surface water, the global average temperature was 20.89°C this past month. This makes April the second warmest on record for seas and oceans around the world, just 0.15°C below last year's record-breaking April. Significantly, the record heat levels were set in large areas of the northeast Atlantic. Much of the Mediterranean Sea also saw very warm temperatures, but below the records recorded in March, according to Copernicus data.\nRegarding Arctic sea ice extent, this April was 3% below average, the sixth lowest monthly extent for an April in 47 years of satellite records. This figure comes after four months of record-low monthly values for the time of year. Meanwhile, Antarctic sea ice extent has fallen 10% below average this past month, the tenth lowest figure on record for an April.\nAs for precipitation in Europe, this April it has remained above average in much of the southern part of the continent, particularly in the Alps, where rainfall has caused flooding, landslides and avalanches, as well as heavy snowfall. Elsewhere, rainfall has been abundant and has caused problems in several parts of the Americas, southern Africa, northern Australia, and central and eastern Russia.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Weather", "Social Issue"],
+  "topics": [
+    "Environment->global warming",
+    "Weather->weather statistic",
+    "Social Issue->social problem",
+    "Social Issue->mankind"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Samantha Burgess",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Citigroup",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "C",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:09:45.782+03:00",
+  "updated": "2025-05-08T03:15:54.000+00:00"
+}

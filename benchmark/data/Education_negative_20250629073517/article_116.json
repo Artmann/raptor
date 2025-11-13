@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "1c3addc7e703747ddd40e01be2492b15bd80a362",
+    "url": "https://www.lemanbleu.ch/Scripts/Index.aspx?id=440497",
+    "site_full": "www.lemanbleu.ch",
+    "site": "lemanbleu.ch",
+    "site_section": "http://www.lemanbleu.ch/documents.rdf?idz=31",
+    "site_categories": ["television", "entertainment"],
+    "section_title": "RSS",
+    "site_title": "News. Culture. Débats. Genève.",
+    "title": "Téléphones interdits dans les écoles valaisannes, annonce Darbellay",
+    "title_full": "Téléphones interdits dans les écoles valaisannes, annonce Darbellay",
+    "published": "2025-06-26T08:34:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CH",
+    "main_image": "https://www.lemanbleu.ch/Htdocs/Images/IF_Facebook/puid_6deda789-b585-4e29-b687-a717b0616c24_20250626073450821.jpg",
+    "performance_score": 0,
+    "domain_rank": 139286,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1c3addc7e703747ddd40e01be2492b15bd80a362",
+  "url": "https://www.lemanbleu.ch/Scripts/Index.aspx?id=440497",
+  "ord_in_thread": 0,
+  "author": "www.lemanbleu.ch, Léman Bleu Télévision",
+  "published": "2025-06-26T08:34:00.000+03:00",
+  "title": "Téléphones interdits dans les écoles valaisannes, annonce Darbellay",
+  "text": "Téléphones interdits dans les écoles valaisannes, annonce Darbellay\nChristophe Darbellay estime qu'une interdiction uniforme dans tout le canton soulage les enseignants et les parents (archives).\nPhoto: KEYSTONE/CYRIL ZINGAROLe Valais va interdire les téléphones mobiles dans toutes les écoles du canton, annonce le ministre valaisan de l'éducation Christophe Darbellay jeudi dans la presse. La mesure s'appliquera aussi pendant les pauses.\n'De plus en plus d'enfants présentent des difficultés d'apprentissage et de lecture. Leur capacité à se concentrer diminue', explique le conseiller d'Etat valaisan en charge de l'économie et de la formation dans un entretien diffusé par les journaux alémaniques du groupe Tamedia.\nL'interdiction des téléphones portables va s'appliquer pendant tout le temps passé dans l'enceinte de l'école, y compris les pauses et le temps de midi, précise M. Darbellay. 'Le chemin de l'école est de la responsabilité des parents'.\nLe ministre centriste estime que des règles uniformes dans tout le canton soulagent les enseignants et les parents. 'La pression du groupe est élevée chez les enfants et les adolescents'.\n/ATS",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Politics"],
+  "topics": [
+    "Education->teachers",
+    "Education->school",
+    "Education->students",
+    "Social Issue->social services",
+    "Politics->education policy",
+    "Politics->government",
+    "Politics->civil rights"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T08:46:56.966+03:00",
+  "updated": "2025-06-26T05:57:46.000+00:00"
+}

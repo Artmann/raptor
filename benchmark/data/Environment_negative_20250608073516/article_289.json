@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "8a9830d40af5841ff9df2eb0a6781c520a402d9b",
+    "url": "https://www.excelsior.com.mx/nacional/incendios-forestales-mexico-hidalgo-seis-calor/1714729",
+    "site_full": "www.excelsior.com.mx",
+    "site": "excelsior.com.mx",
+    "site_section": "https://www.excelsior.com.mx/rss.xml",
+    "site_categories": [
+      "travel",
+      "national_parks",
+      "top_news_mx",
+      "top_news_ve",
+      "top_news"
+    ],
+    "section_title": "Excélsior - RSS",
+    "site_title": "Excélsior | El periódico de la vida nacional",
+    "title": "Se reportan seis incendios forestales en Hidalgo",
+    "title_full": "Se reportan seis incendios forestales en Hidalgo",
+    "published": "2025-05-08T01:57:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://www.excelsior.com.mx/media/styles/image1200x630/public/pictures/2025/05/07/3303569.jpg",
+    "performance_score": 0,
+    "domain_rank": 8524,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8a9830d40af5841ff9df2eb0a6781c520a402d9b",
+  "url": "https://www.excelsior.com.mx/nacional/incendios-forestales-mexico-hidalgo-seis-calor/1714729",
+  "ord_in_thread": 0,
+  "author": "j.carlos.segundo",
+  "published": "2025-05-08T01:57:00.000+03:00",
+  "title": "Se reportan seis incendios forestales en Hidalgo",
+  "text": "Seis incendios forestales se reportaron en el estado de Hidalgo durante las últimas 24 horas, de los cuales sólo dos han sido declarados bajo control hasta la tarde del miércoles.\nDe acuerdo con autoridades forestales, se mantienen activos siniestros en la comunidad de Los Romeros, de Santiago Tulantepec; en Cienega Larga, de Omitlán de Juárez, así como en Rancho laurel de Zempoala y en San José, en Epazoyucan\nEn tanto que otro incendio que se reportaba en la localidad de Emiliano Zapata, del municipio de Ajacuba, fue sofocado.\nSe estima que este incendio afectó alrededor de 15 hectáreas, principalmente en los cerros Guajito, La Chichita, Zapata y Peñas Coloradas.\nOtro siniestro que fue controlado se reportaba en la comunidad de Zotitlá, del municipio de Acaxochitlán, el cual también fue declarado bajo control.\nEn los trabajos de sofocación y control del fuego participan combatientes de diversas dependencias como la Comisión Nacional Forestal y Secretaría de Medio Ambiente, además de personal de protección civil y bomberos de los municipios.\nJCS",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Environment", "Social Issue"],
+  "topics": [
+    "Disaster and Accident->fire",
+    "Environment->conservation",
+    "Environment->environmental pollution",
+    "Social Issue->social condition",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Omitlán de Juárez",
+        "sentiment": "none"
+      },
+      {
+        "name": "Zapata",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Secretaría de Medio Ambiente",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Comisión Nacional Forestal",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:06:54.947+03:00",
+  "updated": "2025-05-08T00:12:24.000+00:00"
+}

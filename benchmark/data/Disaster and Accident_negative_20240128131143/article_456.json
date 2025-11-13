@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "014e9a0ed4db9a907a6f52359045cda5f45598b5",
+    "url": "https://www.novinite.com/articles/223222/Storm+Gerrit+Brings+Chaos%3A+Flight+Cancellations+and+Floods+Across+Europe",
+    "site_full": "www.novinite.com",
+    "site": "novinite.com",
+    "site_section": "https://www.novinite.com/services/news_rdf.php",
+    "site_categories": ["media"],
+    "section_title": "Novinite.com (Sofia News Agency)",
+    "title": "Storm Gerrit Brings Chaos: Flight Cancellations and Floods Across Europe",
+    "title_full": "Storm Gerrit Brings Chaos: Flight Cancellations and Floods Across Europe",
+    "published": "2023-12-28T08:25:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BG",
+    "main_image": "https://www.novinite.com/media/images/2023-12/photo_verybig_223222.jpg",
+    "performance_score": 0,
+    "domain_rank": 12505,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "014e9a0ed4db9a907a6f52359045cda5f45598b5",
+  "url": "https://www.novinite.com/articles/223222/Storm+Gerrit+Brings+Chaos%3A+Flight+Cancellations+and+Floods+Across+Europe",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "M3 Web - http://m3web.bg",
+  "published": "2023-12-28T08:25:00.000+02:00",
+  "title": "Storm Gerrit Brings Chaos: Flight Cancellations and Floods Across Europe",
+  "text": "Storm Gerrit Brings Chaos: Flight Cancellations and Floods Across Europe\nWe need your support so Novinite.com can keep delivering news and information about Bulgaria! Thank you!\n[EU](articles/category/150/EU) [» Be a reporter: Write and send your article](reporter) [» Romania and Bulgaria Set to Enter Schengen by Air and Sea in 2024](articles/223219/Romania+and+Bulgaria+Set+to+Enter+Schengen+by+Air+and+Sea+in+2024) [» Romanian Perspective: Netherlands' Shift Advances Bulgaria's Schengen Bid](articles/223187/Romanian+Perspective%3A+Netherlands%27+Shift+Advances+Bulgaria%27s+Schengen+Bid) [» Bulgaria Anticipates Austria's Verdict on Schengen Entry Soon](articles/223171/Bulgaria+Anticipates+Austria%27s+Verdict+on+Schengen+Entry+Soon) [» Netherlands Officially Clears Path for Bulgaria's Schengen Entry After Parliamentary Debate](articles/223163/Netherlands+Officially+Clears+Path+for+Bulgaria%27s+Schengen+Entry+After+Parliamentary+Debate) [» Tragedy Strikes Christmas Market as Falling Tree Claims Life in Belgium](articles/223160/Tragedy+Strikes+Christmas+Market+as+Falling+Tree+Claims+Life+in+Belgium) [» Czech Republic Mourns Victims of Prague University Tragedy](articles/223158/Czech+Republic+Mourns+Victims+of+Prague+University+Tragedy)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Weather", "Human Interest", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "nov",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "eu",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "europe",
+        "sentiment": "none"
+      },
+      {
+        "name": "eu",
+        "sentiment": "none"
+      },
+      {
+        "name": "netherlands",
+        "sentiment": "none"
+      },
+      {
+        "name": "romania",
+        "sentiment": "none"
+      },
+      {
+        "name": "belgium",
+        "sentiment": "none"
+      },
+      {
+        "name": "bulgaria anticipates austria",
+        "sentiment": "none"
+      },
+      {
+        "name": "bulgaria",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:38:59.767+02:00",
+  "updated": "2023-12-29T00:38:59.767+02:00"
+}

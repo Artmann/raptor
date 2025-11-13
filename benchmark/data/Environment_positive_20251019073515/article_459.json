@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "2ce94f43055223f4894d7c081b432aeff788ab6a",
+    "url": "https://www.n-tv.de/regionales/sachsen-anhalt/Sachsen-Anhalt-investiert-acht-Millionen-Euro-in-Klaeranlagen-article26101417.html",
+    "site_full": "www.n-tv.de",
+    "site": "n-tv.de",
+    "site_section": "https://www.n-tv.de",
+    "site_categories": [
+      "world_soccer",
+      "tennis",
+      "sports",
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "section_title": "Nachrichten, aktuelle Schlagzeilen und Videos - n-tv.de",
+    "site_title": "Nachrichten, aktuelle Schlagzeilen und Videos - n-tv.de",
+    "title": "Sachsen-Anhalt: Sachsen-Anhalt investiert acht Millionen Euro in Kläranlagen - n-tv.de",
+    "title_full": "Sachsen-Anhalt: Sachsen-Anhalt investiert acht Millionen Euro in Kläranlagen - n-tv.de",
+    "published": "2025-10-16T14:51:44.699+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.n-tv.de/img/Bilder_dpa_Import/crop26101416/2321327292-cImg_16_9-w1200/Auch-die-Klaranlage-Halle-Nord-im-Bild-bekommt-147.jpg",
+    "performance_score": 0,
+    "domain_rank": 1083,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2ce94f43055223f4894d7c081b432aeff788ab6a",
+  "url": "https://www.n-tv.de/regionales/sachsen-anhalt/Sachsen-Anhalt-investiert-acht-Millionen-Euro-in-Klaeranlagen-article26101417.html",
+  "ord_in_thread": 0,
+  "author": "n-tv NACHRICHTEN",
+  "published": "2025-10-16T14:51:44.699+03:00",
+  "title": "Sachsen-Anhalt: Sachsen-Anhalt investiert acht Millionen Euro in Kläranlagen - n-tv.de",
+  "text": "Das Land fördert Kläranlagen mit mehr als acht Millionen Euro aus einem europäischen Fonds – Ziel ist es, deren Energieverbrauch zu senken. Und es ist noch mehr geplant.\nHalle (dpa/sa) - Das Land Sachsen-Anhalt investiert über acht Millionen Euro in die Steigerung der Energieeffizienz an Kläranlagen. Wie das Landesverwaltungsamt mitteilte, fließt das Geld in neun unterschiedliche Projekte im ganzen Bundesland. Damit soll der Energieverbrauch in den Kläranlagen gesenkt werden.\n\"Mit diesen Investitionen stärken wir nicht nur die kommunale Infrastruktur, sondern leisten auch einen wichtigen Beitrag zum Klimaschutz\", sagt der Präsident des Landesverwaltungsamtes Thomas Pleye. \"Energieeffiziente Kläranlagen sind ein zentraler Baustein für eine nachhaltige Wasserwirtschaft.\"\nGeld kommt aus dem EFRE-Fonds Mit etwa 1,5 Millionen Euro werden Maßnahmen an der Gemeinschaftskläranlage Wittenberg am stärksten bezuschusst. Jeweils rund 1,4 Millionen Euro werden für die Modernisierungen an der Kläranlage Wengelsdorf und der Kläranlage Elster eingesetzt. Auch die Kläranlage Halle-Nord bekommt 147.500 Euro.\nDas Geld kommt aus dem Europäischen Fonds für regionale Entwicklung (EFRE). Dieser soll kommunale Infrastrukturprojekte mit Fokus auf Klimaschutz und Energieeffizienz fördern. Laut einer Sprecherin des Landesverwaltungsamtes sollen in diesem Jahr auch noch weitere Maßnahmen bezuschusst werden.\nQuelle: dpa",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": ["Environment", "Economy, Business and Finance"],
+  "topics": [
+    "Environment->environmental clean-up",
+    "Environment->water pollution",
+    "Environment->sustainability",
+    "Economy, Business and Finance->utilities"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news_ch", "top_news_at", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:51:44.699+03:00",
+  "updated": "2025-10-16T15:08:03.000+03:00"
+}

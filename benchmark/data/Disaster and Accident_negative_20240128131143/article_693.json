@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "f2012842576592a160b5b57b4ed64fe068524d90",
+    "url": "https://www.dailymail.co.uk/news/article-12908209/man-woman-killed-car-ambulance-crash.html",
+    "site_full": "www.dailymail.co.uk",
+    "site": "dailymail.co.uk",
+    "site_section": "http://mailonsunday.co.uk",
+    "site_categories": [],
+    "section_title": "UK Home | Daily Mail Online",
+    "title": "Man and woman killed after crash between car and ambulance transporting elderly patient | Daily Mail Online",
+    "title_full": "Man and woman killed after crash between car and ambulance transporting elderly patient | Daily Mail Online",
+    "published": "2023-12-29T00:48:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://i.dailymail.co.uk/1s/2023/12/28/22/79418645-0-image-a-10_1703803591090.jpg",
+    "performance_score": 0,
+    "domain_rank": 139,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f2012842576592a160b5b57b4ed64fe068524d90",
+  "url": "https://www.dailymail.co.uk/news/article-12908209/man-woman-killed-car-ambulance-crash.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Iwan Stone",
+  "published": "2023-12-29T00:48:00.000+02:00",
+  "title": "Man and woman killed after crash between car and ambulance transporting elderly patient | Daily Mail Online",
+  "text": "A man and a woman have been killed in a crash between a car and a ambulance transporting an elderly patient. Both sustained injuries in the smash on the rural road near Newmarket, Suffolk, at 7.30pm on December 19. The marked transport ambulance had two passengers and a driver, while the blue Volkswagen Golf carried just the driver. Two people in the ambulance, the female driver and male passenger, sustained serious injuries and were taken to Addenbrooke’s Hospital for treatment. The second passenger, a woman, sustained minor injuries while the driver of the Golf also sustained serious injuries. The marked transport ambulance had two passengers and a driver, while the blue Volkswagen Golf carried just the driver. Pictured: File photo Two people in the ambulance, the female driver and male passenger, sustained serious injuries and were taken to Addenbrooke’s Hospital (pictured) for treatment Both sustained injuries in the smash on the rural road (pictured) near Newmarket, Suffolk, at 7.30pm on December 19 The driver of the Golf, who was in her 70s, has since died. One of the passengers in the ambulance, a man in his 90s, has also since died. Fire engines and ambulances attended the incident in mid December alongside police. Police are appealing for witnesses, who can call 101, quoting SC-19122023-302.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Human Interest", "Disaster and Accident", "Health"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "volkswagen",
+        "sentiment": "none"
+      },
+      {
+        "name": "addenbrooke",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "suffolk",
+        "sentiment": "none"
+      },
+      {
+        "name": "newmarket",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:02:28.501+02:00",
+  "updated": "2023-12-29T01:02:28.501+02:00"
+}

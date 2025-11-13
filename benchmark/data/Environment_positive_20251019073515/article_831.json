@@ -1,0 +1,152 @@
+{
+  "thread": {
+    "uuid": "b16404147b3a964d1b371ed24848379d6a3d42dd",
+    "url": "https://www.europapress.es/esandalucia/cordoba/noticia-junta-invierte-cordoba-parque-periurbano-villares-11-millones-modernizacion-20251016151433.html",
+    "site_full": "www.europapress.es",
+    "site": "europapress.es",
+    "site_section": "https://www.europapress.es/noticias/",
+    "site_categories": ["media", "top_news_es", "top_news_pe", "top_news"],
+    "section_title": "\r\n\t Últimas Noticias - EUROPA PRESS\r\n",
+    "site_title": "Europa Press -  Agencia de noticias",
+    "title": "La Junta invierte en Córdoba en el Parque Periurbano Los Villares 1,1 millones para su modernización",
+    "title_full": "La Junta invierte en Córdoba en el Parque Periurbano Los Villares 1,1 millones para su modernización",
+    "published": "2025-10-16T16:14:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://img.europapress.es/fotoweb/fotonoticia_20251016151433_1200.jpg",
+    "performance_score": 0,
+    "domain_rank": 4744,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b16404147b3a964d1b371ed24848379d6a3d42dd",
+  "url": "https://www.europapress.es/esandalucia/cordoba/noticia-junta-invierte-cordoba-parque-periurbano-villares-11-millones-modernizacion-20251016151433.html",
+  "ord_in_thread": 0,
+  "author": "europa press",
+  "published": "2025-10-16T16:14:00.000+03:00",
+  "title": "La Junta invierte en Córdoba en el Parque Periurbano Los Villares 1,1 millones para su modernización",
+  "text": "CÓRDOBA 16 Oct. (EUROPA PRESS) -\nLa consejera de Sostenibilidad y Medio Ambiente de la Junta de Andalucía, Catalina García, ha inaugurado este jueves en el Parque Periurbano Los Villares de Córdoba la intervención de adecuación ejecutada durante los últimos once meses, para su \"recuperación y puesta en valor como uno de los espacios naturales más visitados y queridos por los cordobeses\", al que, entre los trabajos ya ejecutados y en marcha, el Gobierno andaluz ha destinado un total de 1,1 millones de euros.\nDurante el acto, la consejera ha estado acompañada por el alcalde de Córdoba, José María Bellido; el delegado del Gobierno de la Junta en la provincia, Adolfo Molina; el viceconsejero de Sostenibilidad y Medio Ambiente, Sergio Arjona; el director general de Política Forestal y Biodiversidad, Juan Ramón Pérez Valenzuela; el delegado territorial de Sostenibilidad y Medio Ambiente, Rafael Martínez, y el delegado de Sostenibilidad y Medio Ambiente en el Ayuntamiento de Córdoba, Daniel García, así como agentes de Medio Ambiente que operan por la zona, entre otras autoridades.\nEl Parque de Los Villares, con una extensión de 485 hectáreas, combina densos pinares y encinas con matorral mediterráneo y se ha convertido en un símbolo de la relación entre la ciudad de Córdoba y su entorno natural. En él se celebran cada año los tradicionales peroles de San Rafael y es escenario de actividades de educación ambiental, deporte al aire libre y convivencia familiar.\nLas obras se han desarrollado entre octubre de 2024 y agosto de 2025 con un presupuesto de 733.264 euros, cofinanciados por el Fondo Europeo Agrícola de Desarrollo Rural (Feader). Los trabajos han sido dirigidos por la Delegación Territorial de Sostenibilidad y Medio Ambiente en Córdoba y la Agencia de Medio Ambiente y Agua (Amaya), y ejecutados por la empresa pública Tragsa.\nEl proyecto ha permitido renovar en profundidad las infraestructuras de uso público, garantizando su seguridad, accesibilidad y funcionalidad. En total se han repuesto 2.700 metros de talanqueras de madera, elemento clave para guiar a los visitantes y protegerlos en zonas de desnivel.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->sustainability", "Environment->parks"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Juan Ramón Pérez Valenzuela",
+        "sentiment": "none"
+      },
+      {
+        "name": "José María Bellido",
+        "sentiment": "none"
+      },
+      {
+        "name": "Catalina García",
+        "sentiment": "none"
+      },
+      {
+        "name": "Rafael Martínez",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sergio Arjona",
+        "sentiment": "none"
+      },
+      {
+        "name": "Adolfo Molina",
+        "sentiment": "none"
+      },
+      {
+        "name": "Daniel García",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Junta de Anda",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Medio Ambiente",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Ayuntamiento de Córdoba",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Política Forestal",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Gobierno",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_es", "top_news_pe", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:21:27.386+03:00",
+  "updated": "2025-10-17T17:12:55.000+03:00"
+}

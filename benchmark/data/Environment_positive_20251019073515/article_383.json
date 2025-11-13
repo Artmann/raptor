@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "d7399e22af2e5311aa77e9280feaa51d138378cc",
+    "url": "https://article.wn.com/view/2025/10/16/Improved_flood_defences_to_protect_10000_properties/",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/business",
+    "site_categories": ["media"],
+    "section_title": "World News - Business",
+    "site_title": "World News",
+    "title": "Improved flood defences to protect 10,000 properties - Worldnews.com",
+    "title_full": "Improved flood defences to protect 10,000 properties - Worldnews.com",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 8219,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d7399e22af2e5311aa77e9280feaa51d138378cc",
+  "url": "https://article.wn.com/view/2025/10/16/Improved_flood_defences_to_protect_10000_properties/",
+  "ord_in_thread": 0,
+  "author": "System",
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "Improved flood defences to protect 10,000 properties - Worldnews.com",
+  "text": "The Environment Agency is to deliver a major capital maintenance project on the northern (left) bank of the Dutch River, part of the River Don, near Goole. Construction began this month and will take approximately two years to complete. The £17m project will strengthen around 10km of existing...\nread full story",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->water"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.thebusinessdesk.com/yorkshire/news/2145163-improved-flood-defences-to-protect-10000-properties/",
+    "https://thebusinessdesk.com/yorkshire/news/2145163-improved-flood-defences-to-protect-10000-properties/",
+    "https://www.thebusinessdesk.com/yorkshire/news/2145163-improved-flood-defences-to-protect-10000-properties"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Goole",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Environment Agency",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:38:35.462+03:00",
+  "updated": "2025-10-16T14:56:12.000+03:00"
+}

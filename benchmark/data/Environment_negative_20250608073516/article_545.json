@@ -1,0 +1,119 @@
+{
+  "thread": {
+    "uuid": "ef36a26607ce23b12cfd834a8a66bfe8f39ffa9c",
+    "url": "https://moderator.droughtreporter.unl.edu/RSSfeed/ImpactView/60105",
+    "site_full": "moderator.droughtreporter.unl.edu",
+    "site": "unl.edu",
+    "site_section": "http://moderator.droughtreporter.unl.edu/rssfeed",
+    "site_categories": ["social"],
+    "section_title": "US Drought Impact Reporter",
+    "site_title": null,
+    "title": "Hay growth slowed by limited rainfall in Texas' Coastal Bend",
+    "title_full": "Hay growth slowed by limited rainfall in Texas' Coastal Bend",
+    "published": "2025-05-08T02:20:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 964,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ef36a26607ce23b12cfd834a8a66bfe8f39ffa9c",
+  "url": "https://moderator.droughtreporter.unl.edu/RSSfeed/ImpactView/60105",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T02:20:00.000+03:00",
+  "title": "Hay growth slowed by limited rainfall in Texas' Coastal Bend",
+  "text": "Hay growth slowed by limited rainfall in Texas' Coastal Bend\n5/7/2025 6:20:20 PM\nCATEGORIES:\nAgriculture\nPlants & Wildlife\nAFFECTED AREAS:\nAransas County, TX\nAustin County, TX\nBee County, TX\nCalhoun County, TX\nColorado County, TX\nDeWitt County, TX\nFayette County, TX\nGoliad County, TX\nJackson County, TX\nKarnes County, TX\nLavaca County, TX\nMatagorda County, TX\nNueces County, TX\nRefugio County, TX\nSan Patricio County, TX\nVictoria County, TX\nWashington County, TX\nWharton County, TX\nStart Date: 5/6/2025 -\nRain fell over most Coastal Bend counties, with reports ranging from trace amounts up to 3 inches. Drying conditions with warming temperatures and windy days continued to deplete topsoil moisture. Farmers with irrigation began irrigating corn last week. Corn was beginning to silk, and most fields looked good. Weeds became an issue with recent rains, and producers were working to get them under control. Pecan producers were scouting for pecan nut casebearer eggs, and some were applying insecticide accordingly. The first hay cutting was complete, but growth for the next cutting was slowed by limited rainfall. Rangeland and pasture conditions continued to improve, with ample high-quality forage available on most operations, though areas that received little rain remained in poorer condition. Livestock were gaining body condition, and calves were gaining well. AgriLife Today (College Station, Texas), May 6, 2025\nSources\nAgriLife (Texas A&M) . Rangeland conditions vary dramatically across the state - AgriLife (Texas A&M) (TX). Tuesday, May 6, 2025\nhttps://agrilifetoday.tamu.edu/2025/05/06/rangeland-conditions-vary/\n.\n© 2025 National Drought Mitigation Center",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue"],
+  "topics": [
+    "Environment->climate change",
+    "Environment->sustainability",
+    "Environment->flowers and plants",
+    "Social Issue->social condition",
+    "Social Issue->demographics",
+    "Social Issue->communities"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Matagorda County",
+        "sentiment": "none"
+      },
+      {
+        "name": "Fayette County",
+        "sentiment": "none"
+      },
+      {
+        "name": "Aransas County",
+        "sentiment": "none"
+      },
+      {
+        "name": "Karnes County",
+        "sentiment": "none"
+      },
+      {
+        "name": "Nueces County",
+        "sentiment": "none"
+      },
+      {
+        "name": "Lavaca County",
+        "sentiment": "none"
+      },
+      {
+        "name": "Goliad County",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bee County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:46:54.705+03:00",
+  "updated": "2025-05-08T01:52:36.000+00:00"
+}

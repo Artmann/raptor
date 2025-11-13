@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "395e3ee5c807f5b7d3ff8f61f19159e4287df4f7",
+    "url": "https://www.giornaledibrescia.it/italia-e-estero/libro-di-testo-frassinetti-segnaliamo-ad-associazione-editori-ht99ridq",
+    "site_full": "www.giornaledibrescia.it",
+    "site": "giornaledibrescia.it",
+    "site_section": "https://giornaledibrescia.it",
+    "site_categories": ["media", "top_news_it", "top_news"],
+    "section_title": "Giornale di Brescia: notizie e video di Brescia e provincia",
+    "site_title": "Giornale di Brescia: notizie e video di Brescia e provincia",
+    "title": "Libro di testo, Frassinetti:'segnaliamo ad Associazione Editori' | Giornale di Brescia",
+    "title_full": "Libro di testo, Frassinetti:'segnaliamo ad Associazione Editori' | Giornale di Brescia",
+    "published": "2025-06-26T15:36:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://api.gdb.atexcloud.io/image-service/view/acePublic/alias/contentid/1k47w4tmnak43zr3gfq/0/presentazione-progetto-nutripiatto-su-educazione-nutrizionale-per-i-bambini-dai-4-ai-12-anni-sviluppato-per-supportare-le-famiglie-a-seguire-uno-stile-alimentare-bilanciato-basato-sul-modello-della-dieta-mediterranea.webp?f=16%3A9&amp;w=1200",
+    "performance_score": 0,
+    "domain_rank": 59791,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "395e3ee5c807f5b7d3ff8f61f19159e4287df4f7",
+  "url": "https://www.giornaledibrescia.it/italia-e-estero/libro-di-testo-frassinetti-segnaliamo-ad-associazione-editori-ht99ridq",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T15:36:00.000+03:00",
+  "title": "Libro di testo, Frassinetti:'segnaliamo ad Associazione Editori' | Giornale di Brescia",
+  "text": "Libro di testo, Frassinetti:'segnaliamo ad Associazione Editori'\nROMA, 26 GIU - \"Mi ha lasciato esterrefatta apprendere dalla stampa che nel libro di testo \"Trame del tempo, dal Novecento a oggi\" edito da Laterza, siano contenuti attacchi politici a FdI corredati da giudizi faziosi e di parte. Insegnare la storia significa mantenere equilibrio e obiettività nelle tesi esposte dando semmai diverse interpretazioni di un fatto per consentire agli studenti di farsi una propria opinione basata sull'oggettività. Segnaleremo il testo all'Associazione Italiana Editori affinché si svolgano le dovute verifiche e in modo che il testo non venga più adottato nelle scuole\": a renderlo noto è . Paola Frassinetti, sottosegretario all'Istruzione e al merito.\nRiproduzione riservata © Giornale di Brescia\nIscriviti al canale WhatsApp del GdB e resta aggiornato",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": ["Education"],
+  "topics": ["Education->educational grading", "Education->curriculum"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://whatsapp.com/channel/0029VaCjau3BvvsbWtZsh102",
+    "https://www.whatsapp.com/channel/0029VaCjau3BvvsbWtZsh102"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Paola Frassinetti",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Brescia\nIscriviti",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Associazione Editori'\nROMA",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Associazione Italiana Editori",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Laterza",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_it", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T16:18:17.470+03:00",
+  "updated": "2025-06-26T13:22:27.000+00:00"
+}

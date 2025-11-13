@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "a662d1e4bfd8fd7f7d9d2ef52f88d5617ad0d103",
+    "url": "https://toronto.citynews.ca/2024/04/25/jewish-student-sues-toronto-metropolitan-university",
+    "site_full": "toronto.citynews.ca",
+    "site": "citynews.ca",
+    "site_section": "http://www.680news.com/feed/",
+    "site_categories": ["media", "non_standard_content", "adult", "top_news"],
+    "section_title": "CityNews Toronto",
+    "title": "Jewish student sues over ‘toxic, antisemitic working environment’ at Toronto Metropolitan University",
+    "title_full": "Jewish student sues over ‘toxic, antisemitic working environment’ at Toronto Metropolitan University",
+    "published": "2024-04-26T00:14:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2024/04/25/TMU.jpg",
+    "performance_score": 0,
+    "domain_rank": 4694,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a662d1e4bfd8fd7f7d9d2ef52f88d5617ad0d103",
+  "url": "https://toronto.citynews.ca/2024/04/25/jewish-student-sues-toronto-metropolitan-university",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "John Marchesan",
+  "published": "2024-04-26T00:14:00.000+03:00",
+  "title": "Jewish student sues over ‘toxic, antisemitic working environment’ at Toronto Metropolitan University",
+  "text": "Jewish student sues over ‘toxic, antisemitic working environment’ at Toronto Metropolitan University\nPosted April 25, 2024 5:14 pm.\nA Jewish student is suing Toronto Metropolitan University, saying a “toxic, antisemitic learning and working environment” exists at the school since the October 7 attack last year by Hamas on Israel.\nNicole Szweras, identified in a\nstatement of claim filed in Ontario Superior Court on Tuesday, is seeking $1.3 million in damages against the university.\nThe lawsuit claims the university breached its duties of care by violating its own policies with respect to “ongoing and pervasive antisemitism” conduct towards herself and other Jewish students, staff, and faculty at the school which led to a poisoned learning and working environment.\nThe lawsuit goes on to say Szweras was regularly confronted by antisemitic violence-inciting slogans at rallies and protests, and on signs and graffiti throughout TMU and in TMU buildings; that TMU security took no action to prevent or stop other students from intimidating, harassing, and interfering with their ability to protest at an event last November; and that following the Hamas attack on Israel, interactions with student-staff colleagues at work became “cold and unwelcoming,” and that inappropriate political messages were posted within the workplace which made her and Jewish students uncomfortable.\nSzweras was an undergraduate student in the Media Production program at TMU and was employed part-time by the University’s Equipment Distribution Centre before being “wrongfully dismissed” in January 2024.\n“TMU has policies in place that expressly prohibit the conduct that she and other Jewish students have been forced to endure,” said Toronto-based lawyer David Rosenfeld, a member of the Centre for Israel and Jewish Affairs’ Legal Task Force who is leading the legal challenge. “These policies appear to be mere platitudes when it comes to their application to conduct affecting Jewish students. The failure to openly enforce their own policies fans the flames of hate and exclusion on campus.”\nUniversity officials declined to comment on the lawsuit as the matter is before the courts.\n“TMU is proudly diverse and intentionally inclusive and the university works hard to promote an equitable and inclusive university community, free from discrimination and harassment,” they said in a statement to CityNews. “We encourage community members who are impacted by discrimination and harassment to reach out so we can investigate, and to access available supports, such as counselling, security planning or human rights resources.”\nLast November,\na $15 million class action lawsuit was filed against TMU – along with York University, Queen’s University and University of British Columbia – alleging those schools of fostering an antisemitic environment on campus.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Human Interest", "Social Issue"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://assets.nationbuilder.com/cija/pages/77/attachments/original/1714056018/2024_04_23_-_Statement_of_Claim_%28TMU%29.pdf?1714056018",
+    "https://assets.nationbuilder.com/cija/pages/77/attachments/original/1714056018/2024_04_23_-_Statement_of_Claim_%28TMU%29.pdf",
+    "https://www.assets.nationbuilder.com/cija/pages/77/attachments/original/1714056018/2024_04_23_-_Statement_of_Claim_%28TMU%29.pdf?1714056018"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "nicole szweras",
+        "sentiment": "none"
+      },
+      {
+        "name": "szweras",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "toronto metropolitan university jewish",
+        "sentiment": "negative"
+      },
+      {
+        "name": "toronto metropolitan university",
+        "sentiment": "negative"
+      },
+      {
+        "name": "hamas",
+        "sentiment": "none"
+      },
+      {
+        "name": "ontario superior court",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "israel",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:22:20.779+03:00",
+  "updated": "2024-04-26T00:22:20.779+03:00"
+}

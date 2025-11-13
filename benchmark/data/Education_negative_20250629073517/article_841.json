@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "09d9fa1b56ac34a4f9265e9c350e7da9859efde3",
+    "url": "https://www.tips.at/nachrichten/voecklabruck/land-leute/689159-brutales-mobbing-an-der-htl-voecklabruck-gewalt-videos-und-offene-fragen",
+    "site_full": "www.tips.at",
+    "site": "tips.at",
+    "site_section": "https://tips.at/nachrichten",
+    "site_categories": ["non_standard_content", "adult"],
+    "section_title": "Nachrichten aus deiner Region - Tips.at",
+    "site_title": "Nachrichten aus deiner Region | Tips.at",
+    "title": "Brutales Mobbing an der HTL Vöcklabruck: Gewalt, Videos und offene Fragen",
+    "title_full": "Brutales Mobbing an der HTL Vöcklabruck: Gewalt, Videos und offene Fragen",
+    "published": "2025-06-26T13:05:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AT",
+    "main_image": "https://images.tips.at/cache/image/thumbcrop/news/790871/689159/1200x630x0/1750939236.7415-brutales-mobbing-an-der-htl-voecklabruck-gewalt-videos-und-offene-fragen-k8Jkmg.jpg",
+    "performance_score": 0,
+    "domain_rank": 40696,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "09d9fa1b56ac34a4f9265e9c350e7da9859efde3",
+  "url": "https://www.tips.at/nachrichten/voecklabruck/land-leute/689159-brutales-mobbing-an-der-htl-voecklabruck-gewalt-videos-und-offene-fragen",
+  "ord_in_thread": 0,
+  "author": "Online Redaktion",
+  "published": "2025-06-26T13:05:00.000+03:00",
+  "title": "Brutales Mobbing an der HTL Vöcklabruck: Gewalt, Videos und offene Fragen",
+  "text": "VÖCKLABRUCK. Ein schwerer Mobbingfall an der HTL Vöcklabruck sorgt für Entsetzen. Drei Schüler wurden über Monate hinweg gedemütigt, geschlagen – und dabei auch noch gefilmt.\nEin Fall von Gewalt und systematischem Mobbing erschüttert derzeit die HTL Vöcklabruck. Über Monate hinweg sollen vier Schüler mindestens drei Klassenkollegen schikaniert, geschlagen und gedemütigt haben. Das besonders Verstörende: Teile der Übergriffe wurden gefilmt und über soziale Medien verbreitet. Die Schule steht nun unter Druck – nicht nur von Eltern und Öffentlichkeit, sondern auch aus der Politik.\nAufgeflogen ist der Fall erst vor zwei Wochen – durch Zufall. Ein Lehrer beobachtete eine vermeintlich harmlose Rangelei und sprach den beteiligten Schüler an. In einem vertraulichen Gespräch kam schließlich mehr ans Licht: Weitere Schüler litten bereits seit längerer Zeit unter wiederholten Attacken. Direktor Gernot Weissensteiner reagierte sofort, informierte die Polizei und leitete interne Schritte ein.\nGegen die vier mutmaßlichen Täter – alle im Alter zwischen 15 und 16 Jahren – läuft ein Schulausschlussverfahren. Bis zu einer Entscheidung sind sie von der Bildungsdirektion suspendiert worden. Drei betroffene Mitschüler sind derzeit krankgemeldet. Die Ermittlungen der Polizei laufen, Videomaterial wurde sichergestellt. Über den Inhalt der Aufnahmen gibt es offiziell keine Angaben. Medienberichten zufolge soll einer der Burschen sogar aus einem Fenster gestoßen worden sein.\nDirektor Weissensteiner zeigt sich betroffen: „Niemand in der Schule hat zuvor Anzeichen bemerkt. Die Klasse galt als unauffällig.“ Viele Betroffene würden aus Scham schweigen, Mobbing sei oft subtil – und im digitalen Raum schwer zu erkennen. Als Reaktion sollen im Herbst neue Workshops zum Thema „Konfliktkultur“ starten, zudem wird über niederschwelligere Meldekanäle für Schüler nachgedacht.\nWährend sich die Schule um Aufarbeitung bemüht, wird der Fall auch politisch ausgeschlachtet. FPÖ-Landeschef Manfred Haimbuchner fordert in einer Aussendung umgehende Abschiebungen, sollte es sich um ausländische Staatsbürger handeln. Direktor Weissensteiner stellte klar: Drei der vier Verdächtigen sind österreichische Staatsbürger. Herkunft sei kein Thema, entscheidend sei das Verhalten. Die HTL Vöcklabruck will nun Konsequenzen ziehen – nicht nur bei den Tätern, sondern auch im System.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Social Issue", "Crime, Law and Justice", "Education"],
+  "topics": [
+    "Social Issue->bullying",
+    "Social Issue->children",
+    "Social Issue->social problem",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Crime, Law and Justice->assault",
+    "Crime, Law and Justice->law enforcement",
+    "Education->teachers",
+    "Education->students",
+    "Education->state school"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Gernot Weissensteiner",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "VÖCKLABRUCK",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "HTL Vöcklabruck",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T15:11:03.098+03:00",
+  "updated": "2025-06-26T12:22:22.000+00:00"
+}

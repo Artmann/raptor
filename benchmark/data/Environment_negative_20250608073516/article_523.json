@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "373fddd755825241931f8eae29a0280d3cc7d360",
+    "url": "https://www.metro.pr:443/noticias/2025/05/08/medicos-alertan-sobre-riesgo-de-dengue-y-leptospirosis-tras-fuertes-lluvias",
+    "site_full": "www.metro.pr",
+    "site": "metro.pr",
+    "site_section": "https://metro.pr/noticias",
+    "site_categories": ["media"],
+    "section_title": "Noticias - Metro Puerto Rico",
+    "site_title": "Noticias, Deportes y Entretenimiento de Puerto Rico y el Mundo | Metro",
+    "title": "Médicos alertan sobre riesgo de dengue y leptospirosis tras fuertes lluvias",
+    "title_full": "Médicos alertan sobre riesgo de dengue y leptospirosis tras fuertes lluvias",
+    "published": "2025-05-08T03:06:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PR",
+    "main_image": "https://www.metro.pr/resizer/v2/N5JKTTACVVCJDF2GYQE3SRQUFI.jpg?smart=true&amp;auth=9a1e3cb678d10c0727962f2e64e668b07af06e4984de8de8d628694af7d8cfe6&amp;width=1200&amp;height=630",
+    "performance_score": 0,
+    "domain_rank": 60149,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "373fddd755825241931f8eae29a0280d3cc7d360",
+  "url": "https://www.metro.pr:443/noticias/2025/05/08/medicos-alertan-sobre-riesgo-de-dengue-y-leptospirosis-tras-fuertes-lluvias",
+  "ord_in_thread": 0,
+  "author": "@Metro_PR",
+  "published": "2025-05-08T03:06:00.000+03:00",
+  "title": "Médicos alertan sobre riesgo de dengue y leptospirosis tras fuertes lluvias",
+  "text": "El Colegio de Médicos Cirujanos de Puerto Rico alertó este miércoles sobre el riesgo de un aumento en los casos de dengue y leptospirosis en la isla como consecuencia de las recientes lluvias e inundaciones registradas en varios municipios.\n“Tanto el dengue como la leptospirosis son una amenaza grave, incluso mortal si no se atienden a tiempo. Necesitamos la cooperación de todos para evitar situaciones graves”, advirtió el presidente del Colegio, Carlos Díaz Vélez, al destacar la importancia de la prevención como principal herramienta para combatir estas enfermedades.\nPUBLICIDAD\nEl galeno explicó que el dengue es transmitido por el mosquito Aedes aegypti, el cual prolifera en agua estancada. Por ello, hizo un llamado a eliminar recipientes que acumulen agua como neumáticos, botellas, jarrones y cubetas, así como a limpiar desagües, utilizar repelente y proteger puertas y ventanas con mosquiteros.\nSobre la leptospirosis, recordó que esta enfermedad bacteriana se transmite por el contacto con agua contaminada con orina de animales infectados, principalmente ratas.\n“Evitar caminar por áreas inundadas y utilizar ropa protectora es vital para prevenir contagios”, añadió Díaz Vélez.\nEl Colegio de Médicos instó también a intensificar campañas comunitarias, fumigaciones, control de roedores y medidas de higiene personal, incluyendo el lavado de manos y la protección de alimentos y fuentes de agua.\nLa organización médica reafirmó su compromiso de educar a la ciudadanía y trabajar junto a las autoridades para mitigar el impacto de estas amenazas de salud pública.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Health", "Social Issue", "Environment"],
+  "topics": [
+    "Health->medical condition",
+    "Health->communicable disease",
+    "Health->public health",
+    "Social Issue->social services",
+    "Environment->ecosystem",
+    "Environment->environmental pollution",
+    "Environment->water"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Carlos Díaz Vélez",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Colegio",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:37:11.931+03:00",
+  "updated": "2025-05-08T01:42:32.000+00:00"
+}

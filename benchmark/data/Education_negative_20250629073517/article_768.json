@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "64a55b02ec9e4d3d71702ccf6c245002a57384c0",
+    "url": "https://www.aargauerzeitung.ch/aargau/zurzibiet/wuerenlingen-zurueck-auf-anfang-in-der-schule-gibts-nach-hin-und-her-zwischen-schulleitung-und-gemeinderat-doch-bald-wieder-noten-ld.2788842",
+    "site_full": "www.aargauerzeitung.ch",
+    "site": "aargauerzeitung.ch",
+    "site_section": "https://tagblatt.ch/wirtschaft",
+    "site_categories": ["media", "top_news_ch", "top_news"],
+    "section_title": "Ostschweizer Wirtschaft",
+    "site_title": "Aargauer Zeitung | Nachrichten für den Aargau – AZ",
+    "title": "Würenlingen: nach Zoff zwischen Schulleitung und Gemeinderat doch wieder Noten",
+    "title_full": "Würenlingen: nach Zoff zwischen Schulleitung und Gemeinderat doch wieder Noten",
+    "published": "2025-06-26T14:17:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CH",
+    "main_image": "https://chm-images-prd.forward-publishing.io/2023/07/06/ff678694-4b5f-4786-9a23-0522bbd3057e.jpeg?auto=format&amp;s=8353ff8190074bb8ccb8814e124548bd&amp;rect=0%2C188%2C3602%2C2026&amp;w=1200&amp;h=675",
+    "performance_score": 0,
+    "domain_rank": 19710,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "64a55b02ec9e4d3d71702ccf6c245002a57384c0",
+  "url": "https://www.aargauerzeitung.ch/aargau/zurzibiet/wuerenlingen-zurueck-auf-anfang-in-der-schule-gibts-nach-hin-und-her-zwischen-schulleitung-und-gemeinderat-doch-bald-wieder-noten-ld.2788842",
+  "ord_in_thread": 0,
+  "author": "Default Autor",
+  "published": "2025-06-26T14:17:00.000+03:00",
+  "title": "Würenlingen: nach Zoff zwischen Schulleitung und Gemeinderat doch wieder Noten",
+  "text": "Würenlingen\nZurück auf Anfang? In der Schule gibt’s nach Hin und Her zwischen Schulleitung und Gemeinderat doch bald wieder Noten\nVor rund eineinhalb Jahren ersetzte die Schule Würenlingen die Noten durch individuelle Bewertungen. Jetzt rudert sie zurück. Das ist der Grund.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->school",
+    "Education->students",
+    "Education->educational grading",
+    "Social Issue->social condition",
+    "Social Issue->communities",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Würenlingen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ch", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:33:43.132+03:00",
+  "updated": "2025-06-27T12:06:05.000+00:00"
+}

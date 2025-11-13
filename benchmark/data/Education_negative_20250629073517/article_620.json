@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "69c783f445c71282a82dbf25cd5be30977762791",
+    "url": "https://www.extremnews.com/archiv/2025/6/26",
+    "site_full": "www.extremnews.com",
+    "site": "extremnews.com",
+    "site_section": "https://www.extremnews.com/tips-tricks/finanzen",
+    "site_categories": ["tech", "email"],
+    "section_title": "Finanzen — Extremnews — Die etwas anderen Nachrichten",
+    "site_title": "Extremnews — Die etwas anderen Nachrichten",
+    "title": "Extremnews - Die etwas anderen Nachrichten",
+    "title_full": "Extremnews - Die etwas anderen Nachrichten",
+    "published": "2025-06-26T13:28:32.366+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 62527,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "69c783f445c71282a82dbf25cd5be30977762791",
+  "url": "https://www.extremnews.com/archiv/2025/6/26",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T13:28:32.366+03:00",
+  "title": "Extremnews - Die etwas anderen Nachrichten",
+  "text": "Dr. Balzer: „Viele Lehrer von Schülerverhalten gestresst“\n„Die Formulierung im aktuellen Schulbarometer, dass viele Lehrer von Schülerverhalten gestresst seien, verharmlost die tatsächlichen Zustände an deutschen Schulen erheblich und kann so nicht stehenbleiben.“ Mit diesen Worten kommentierte der bildungspolitische AfD-Fraktionssprecher Dr. Rainer Balzer MdL das aktuelle Schulbarometer der Robert-Bosch-Stiftung.\nWeiter lesen …",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->students",
+    "Education->teachers",
+    "Education->school",
+    "Social Issue->social services",
+    "Social Issue->communities",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T13:28:32.366+03:00",
+  "updated": "2025-06-26T10:41:20.000+00:00"
+}

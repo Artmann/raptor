@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "e61f3918aeae0cbb95d09a966f7c3159bb569961",
+    "url": "https://www.newsbreak.com/kens-5-eyewitness-news-524530/4241019695210-austin-community-college-tackles-student-housing-insecurity-with-new-partnership",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://local.newsbreak.com/kens-5-eyewitness-news-524530",
+    "site_categories": ["under_construction"],
+    "section_title": "KENS 5 Eyewitness News&#x27;s Home Page | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Austin Community College tackles student housing insecurity with new partnership - NewsBreak",
+    "title_full": "Austin Community College tackles student housing insecurity with new partnership - NewsBreak",
+    "published": "2025-09-18T06:57:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/3XX1gz_14qLU8Pr00",
+    "performance_score": 0,
+    "domain_rank": 2819,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e61f3918aeae0cbb95d09a966f7c3159bb569961",
+  "url": "https://www.newsbreak.com/kens-5-eyewitness-news-524530/4241019695210-austin-community-college-tackles-student-housing-insecurity-with-new-partnership",
+  "ord_in_thread": 0,
+  "author": "KENS 5 Eyewitness News",
+  "published": "2025-09-18T06:57:00.000+03:00",
+  "title": "Austin Community College tackles student housing insecurity with new partnership - NewsBreak",
+  "text": "48 minutes ago AUSTIN, Texas — Austin Community College is rolling out new support for students struggling to find a place to live, partnering with a housing nonprofit to connect them with more affordable options. According to a recent ACC survey, more than half of the college’s students report experiencing some form... Read full article\nRead in NewsBreak",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->college and university",
+    "Education->vocational education",
+    "Education->students",
+    "Social Issue->children",
+    "Social Issue->social services",
+    "Social Issue->public housing"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "AUSTIN",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Austin Community College",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:46:22.413+03:00",
+  "updated": "2025-09-18T07:53:43.000+03:00"
+}

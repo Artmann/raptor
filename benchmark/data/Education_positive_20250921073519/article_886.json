@@ -1,0 +1,128 @@
+{
+  "thread": {
+    "uuid": "e3b3ce4f2604539450a9f9785a34a533ff98a2f9",
+    "url": "https://neoskosmos.com/en/2025/09/18/news/community/experts-to-gather-in-hobart-for-dementia-forum/",
+    "site_full": "neoskosmos.com",
+    "site": "neoskosmos.com",
+    "site_section": "https://neoskosmos.com/en/feed",
+    "site_categories": ["food", "cuisine_specific", "travel", "greece"],
+    "section_title": "NEOS KOSMOS",
+    "site_title": "Neos Kosmos - Greek News, Culture, Entertainment, Lifestyle and Sport",
+    "title": "Experts to gather in Hobart for dementia forum",
+    "title_full": "Experts to gather in Hobart for dementia forum",
+    "published": "2025-09-18T07:42:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://cdn1.neoskosmos.com/uploads/sites/2/2025/09/Dementiahobart-PRINT_73285.jpg",
+    "performance_score": 0,
+    "domain_rank": 167821,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e3b3ce4f2604539450a9f9785a34a533ff98a2f9",
+  "url": "https://neoskosmos.com/en/2025/09/18/news/community/experts-to-gather-in-hobart-for-dementia-forum/",
+  "ord_in_thread": 0,
+  "author": "Christopher Gogos",
+  "published": "2025-09-18T07:42:00.000+03:00",
+  "title": "Experts to gather in Hobart for dementia forum",
+  "text": "A major community forum on dementia will be held in Hobart next week as part of Dementia Action Week 2025, bringing together researchers, service providers and carers to discuss support for Tasmanians affected by the condition.\nThe event, organised by PRONIA, will take place on Thursday 25 September at Hellenic House in North Hobart.\nIt is the first time a wide group of dementia organisations have joined forces in Tasmania to provide information and resources in one setting.\nDementia is now the leading cause of death in Australia, accounting for nearly 17,400 deaths in 2023 – almost one in ten. More than 425,000 Australians were estimated to be living with the condition in 2024.\nSpeakers at the forum include Professor James Vickers, director of the Wicking Dementia Research and Education Centre at the University of Tasmania, and a panel featuring representatives from Dementia Australia, Care2Serve, and PRONIA.\nClinical neuropsychologist Dr Matthew Staios will chair the discussion and present on brain health and diversity.\nWorkshops and activities across the day will cover topics such as support for carers, culturally responsive dementia services, brain health, wellbeing and music therapy.\nInformation stalls will also be available from organisations including Dementia Support Australia, Community Care Tasmania, the Migrant Resource Centre, and the Independent Living Centre Tasmania.\nPRONIA chief executive Sylvia Hadjiantoniou said dementia affected not only individuals but also families and communities.\n“People need to know what support is available and where to turn,” she said in a media release.\nThe forum runs from 10am to 3pm and is open to the public.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Health", "Education", "Human Interest"],
+  "topics": [
+    "Health->mental health and disorder",
+    "Health->health organisation",
+    "Education->teachers",
+    "Education->social learning",
+    "Education->students",
+    "Human Interest->ceremony"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Matthew Staios",
+        "sentiment": "none"
+      },
+      {
+        "name": "James Vickers",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Tasmania",
+        "sentiment": "none"
+      },
+      {
+        "name": "North",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Wicking Dementia Research and Education Centre",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "University of Tasmania",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Hellenic House",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:14:09.194+03:00",
+  "updated": "2025-09-18T09:23:26.000+03:00"
+}

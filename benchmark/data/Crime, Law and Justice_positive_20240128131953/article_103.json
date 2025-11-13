@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "86886996ad529f92c7ac23f9b827fd9eae80e53f",
+    "url": "https://ruralradio.com/kneb-am/abc_news/nypd-officers-help-rescue-man-who-fell-onto-subway-tracks-abcid6ed0f270/",
+    "site_full": "ruralradio.com",
+    "site": "ruralradio.com",
+    "site_section": "https://ruralradio.com/kneb-am",
+    "site_categories": ["agriculture", "business"],
+    "section_title": "KNEB&#x2d;AM 960 AM &#x2d; 100.3 FM &#x2d; Your trusted voice",
+    "title": "KNEB-AM 960 AM – 100.3 FM - NYPD officers help rescue man who fell onto subway tracks",
+    "title_full": "KNEB-AM 960 AM – 100.3 FM - NYPD officers help rescue man who fell onto subway tracks",
+    "published": "2023-12-29T01:45:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://s3.amazonaws.com/syndication.abcaudio.com/files/2023-12-28/NYPD_BodyCamFootage_122823.jpg",
+    "performance_score": 0,
+    "domain_rank": 72123,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "86886996ad529f92c7ac23f9b827fd9eae80e53f",
+  "url": "https://ruralradio.com/kneb-am/abc_news/nypd-officers-help-rescue-man-who-fell-onto-subway-tracks-abcid6ed0f270/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2023-12-29T01:45:00.000+02:00",
+  "title": "KNEB-AM 960 AM – 100.3 FM - NYPD officers help rescue man who fell onto subway tracks",
+  "text": "(NEW YORK) — Two New York City police officers helped save a man who had fallen onto the subway tracks this week — marking their second dramatic rescue in recent months. The NYPD officers were conducting an inspection at the Carroll Street F/G subway station early Tuesday when they saw a man lose his footing and fall onto the subway tracks, police said. The officers ran toward the 55-year-old man, who was standing up but unable to get back onto the platform and was complaining of pain, body camera footage of the incident released on Wednesday shows. One officer jumped down onto the tracks to help support him while the second officer pulled the man back onto the platform, the footage shows. The second officer then helped pull his colleague back onto the platform. The entire incident took place in just under a minute, based on the body camera. “I fell, I must have slipped off,” the man can be heard telling the officers in the footage. EMS crews transported the man to a local hospital with reports of hip and body pain, police said. The officers were not injured in the incident. The same officers were involved in a rescue at a Brooklyn pier in October, the NYPD said. They responded to a 911 call of a person possibly in the water in Erie Basin on the evening of Oct. 3. Along with the Harbor Unit, the officers rescued a 20-year-old woman who was trapped in the water clinging onto a pier, police said. She was transported to a local hospital in stable condition. Copyright © 2023, ABC Audio. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Crime, Law and Justice", "Human Interest"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "kneb",
+        "sentiment": "negative"
+      },
+      {
+        "name": "ems",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "new york city",
+        "sentiment": "none"
+      },
+      {
+        "name": "new york",
+        "sentiment": "none"
+      },
+      {
+        "name": "carroll street",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:53:45.675+02:00",
+  "updated": "2023-12-29T01:53:45.675+02:00"
+}

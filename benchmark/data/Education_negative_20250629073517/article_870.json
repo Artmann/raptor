@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "3e570e7d2c39dd0a03e9cb7ceeb2e0fd8b4aebb1",
+    "url": "https://www.straitstimes.com/world/at-least-29-students-killed-in-stampede-in-central-african-republic-sources-say",
+    "site_full": "www.straitstimes.com",
+    "site": "straitstimes.com",
+    "site_section": "https://news.google.com/search?q=were%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [
+      "media",
+      "health",
+      "cold_and_flu",
+      "top_news_sg",
+      "top_news_ph",
+      "top_news_my",
+      "top_news"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": "The Straits Times - Breaking news, Singapore news, Asia and world news &amp; multimedia",
+    "title": "At least 29 students killed in stampede in Central African Republic, sources say",
+    "title_full": "At least 29 students killed in stampede in Central African Republic, sources say",
+    "published": "2025-06-26T15:05:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "SG",
+    "main_image": "https://cassette.sphdigital.com.sg/image/straitstimes/27a545fdbc52c9cc3ea47747f1f86aff5421dd9861793799f41c9f3996a2dc4a",
+    "performance_score": 0,
+    "domain_rank": 1321,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3e570e7d2c39dd0a03e9cb7ceeb2e0fd8b4aebb1",
+  "url": "https://www.straitstimes.com/world/at-least-29-students-killed-in-stampede-in-central-african-republic-sources-say",
+  "ord_in_thread": 0,
+  "author": "The Straits Times",
+  "published": "2025-06-26T15:05:00.000+03:00",
+  "title": "At least 29 students killed in stampede in Central African Republic, sources say",
+  "text": "BANGUI - At least 29 students were killed when an electrical explosion triggered panic and a stampede at a high school in Central African Republic's capital on Wednesday, two hospital sources said.\nThe disaster happened as over 5,000 students from six other schools were taking their final exams at the examination centre located in Barthelemy Boganda high school in Bangui, the Education Ministry said.\nA hospital source told Reuters that 29 people were killed and 260 injured.\n\"We were really overwhelmed. It was terrible. Dozens of victims were arriving,\" the source said, recalling the stress his team felt.\nAnother medical source, who put the death toll at 31, said the sound of the explosion made students think the building was going to collapse.\n\"There was panic and some of the students jumped from the first floor,\" he told Reuters, adding that the test takers were roughly 18-22 years old.\nThe Education Ministry said in a statement that a transformer located in the main building of the school exploded after a team from the country's main utility ENERCA restored electricity.\nThe statement also said the incident resulted in \"a number of serious injuries, unfortunately including some fatalities\".\nThe ministry said it would look into how the incident took place and promised to ensure a smooth continuation of the examination session. REUTERS\nJoin ST's Telegram channel and get the latest breaking news delivered to you.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["War, Conflict and Unrest", "Social Issue", "Education"],
+  "topics": [
+    "War, Conflict and Unrest->civil unrest",
+    "Social Issue->discrimination",
+    "Social Issue->children",
+    "Social Issue->social problem",
+    "Education->students",
+    "Education->school",
+    "Education->educational testing and examinations"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://t.me/TheStraitsTimes",
+    "https://www.t.me/TheStraitsTimes"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Education Ministry",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Reuters",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_sg", "top_news_ph", "top_news_my", "top_news"],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T15:24:11.256+03:00",
+  "updated": "2025-06-26T12:30:22.000+00:00"
+}

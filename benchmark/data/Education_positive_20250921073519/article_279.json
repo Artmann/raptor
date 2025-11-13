@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "354f1cc4c7a1bab36c5fcedc7d71fd5f5686a367",
+    "url": "https://www.thenewsenterprise.com/news/state/report-shows-ky-improving-in-education-income-child-well-being/article_7f556e6d-7f9a-5519-906b-a2b5db5d7583.html",
+    "site_full": "www.thenewsenterprise.com",
+    "site": "thenewsenterprise.com",
+    "site_section": "https://www.thenewsenterprise.com/search/?f=rss&amp",
+    "site_categories": ["media"],
+    "section_title": "www.thenewsenterprise.com - RSS Results",
+    "site_title": "thenewsenterprise.com | Serving Hardin County, Kentucky",
+    "title": "Report shows Ky. improving in education, income, child well-being | State News | thenewsenterprise.com",
+    "title_full": "Report shows Ky. improving in education, income, child well-being | State News | thenewsenterprise.com",
+    "published": "2025-09-18T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/thenewsenterprise.com/content/tncms/custom/image/a5fe7714-ac36-11e6-ade4-8b4ed3b5d6b5.png?resize=600%2C315",
+    "performance_score": 0,
+    "domain_rank": 286464,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "354f1cc4c7a1bab36c5fcedc7d71fd5f5686a367",
+  "url": "https://www.thenewsenterprise.com/news/state/report-shows-ky-improving-in-education-income-child-well-being/article_7f556e6d-7f9a-5519-906b-a2b5db5d7583.html",
+  "ord_in_thread": 0,
+  "author": "PAXTON MEDIA GROUP",
+  "published": "2025-09-18T08:00:00.000+03:00",
+  "title": "Report shows Ky. improving in education, income, child well-being | State News | thenewsenterprise.com",
+  "text": "Kentucky is showing measurable progress in education, income and family well-being, according to new data released this month.\nThe state saw gains in several key areas between 2023 and 2024, including healthier birth outcomes, lower childhood poverty, more preschool enrollment, stronger postsecondary participation and rising household incomes, a news release from the Pritchard Committee said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education"],
+  "topics": [
+    "Education->students",
+    "Education->educational grading",
+    "Education->school"
+  ],
+  "ai_allow": false,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Pritchard Committee",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "354f1cc4c7a1bab36c5fcedc7d71fd5f5686a367",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Sonora",
+        "Elizabethtown",
+        "Hardin",
+        "Yelvington",
+        "Francisville",
+        "Hodgenville",
+        "Upton",
+        "Cecilia",
+        "Fort Knox",
+        "Hardyville",
+        "Radcliff",
+        "Vine Grove",
+        "Knottsville",
+        "Rineyville"
+      ],
+      "state": ["Indiana", "Kentucky"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:04:25.790+03:00",
+  "updated": "2025-09-18T08:08:05.000+03:00"
+}

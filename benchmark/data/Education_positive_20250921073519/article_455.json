@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "16080e6cfa307adbf9ffd2307bed18fc9ac37def",
+    "url": "https://calendars.uark.edu/event/idea-jam",
+    "site_full": "calendars.uark.edu",
+    "site": "uark.edu",
+    "site_section": "https://calendars.uark.edu",
+    "site_categories": ["graduate_school", "education"],
+    "section_title": "Campus Calendar - University of Arkansas",
+    "site_title": null,
+    "title": "Idea Jam - University of Arkansas",
+    "title_full": "Idea Jam - University of Arkansas",
+    "published": "2025-09-18T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://localist-images.azureedge.net/photos/36325542286164/huge/77a6d30604ffd0f37b06bc5e7ef0abc2f49e386d.jpg",
+    "performance_score": 0,
+    "domain_rank": 13109,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "16080e6cfa307adbf9ffd2307bed18fc9ac37def",
+  "url": "https://calendars.uark.edu/event/idea-jam",
+  "ord_in_thread": 0,
+  "author": "@localist",
+  "published": "2025-09-18T03:00:00.000+03:00",
+  "title": "Idea Jam - University of Arkansas",
+  "text": "About this Event\nGrab your friends and come out to IdeaJam — a campus-wide event with food, music, games, and prizes!\nTake the mic for a 60-second pitch and compete for cash prizes. Not ready to pitch? No problem — come hang out, cheer on your classmates, and enjoy the fun.\nOpen to all majors and all levels of experience, IdeaJam is your chance to connect, get inspired, and be part of the excitement!\n0 people are interested in this event",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Lifestyle and Leisure"],
+  "topics": [
+    "Education->students",
+    "Education->college and university",
+    "Education->social learning",
+    "Lifestyle and Leisure->party",
+    "Lifestyle and Leisure->hobby"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fuark.us19.list-manage.com%2Ftrack%2Fclick%3Fu%3De3ee96303ab0fbe4c2d6778ae%26id%3D196095da40%26e%3D4b875f859d&data=05%7C02%7CBHoward%40walton.uark.edu%7C16d90accca0945f2e73d08ddea3be951%7C79c742c4e61c4fa5be89a3cb566a80d1%7C0%7C0%7C638924265247050402%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=xdtWCRJDV79s6NtZeYwy9yQYzs03QCgVsgm9JbC5M14%3D&reserved=0",
+    "https://nam11.safelinks.protection.outlook.com/",
+    "https://www.nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fuark.us19.list-manage.com%2Ftrack%2Fclick%3Fu%3De3ee96303ab0fbe4c2d6778ae%26id%3D196095da40%26e%3D4b875f859d&data=05%7C02%7CBHoward%40walton.uark.edu%7C16d90accca0945f2e73d08ddea3be951%7C79c742c4e61c4fa5be89a3cb566a80d1%7C0%7C0%7C638924265247050402%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=xdtWCRJDV79s6NtZeYwy9yQYzs03QCgVsgm9JbC5M14%3D&reserved=0"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Jam - University of Arkansas",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Dell"],
+      "state": ["Arkansas"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:23:29.590+03:00",
+  "updated": "2025-09-18T08:26:01.000+03:00"
+}

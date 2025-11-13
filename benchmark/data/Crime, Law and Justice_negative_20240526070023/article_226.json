@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "a3ae358614465c7c095fbb1481724a7f710d2359",
+    "url": "https://www.wdam.com/2024/04/25/laurel-man-charged-with-child-exploitation-after-investigation-by-attorney-generals-office",
+    "site_full": "www.wdam.com",
+    "site": "wdam.com",
+    "site_section": "https://wdam.com/news",
+    "site_categories": ["media", "television", "entertainment"],
+    "section_title": "News",
+    "title": "Laurel man charged with child exploitation after investigation by Attorney General’s Office",
+    "title_full": "Laurel man charged with child exploitation after investigation by Attorney General’s Office",
+    "published": "2024-04-25T23:09:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-wdam-prod.cdn.arcpublishing.com/resizer/v2/E6AN26YDGFBVHDIVAGFP7YS2LM.jpg?auth=caecce0701d81dc73831c175f8e705f250109ce51de9f72a97d30770d99f4284&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 35635,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a3ae358614465c7c095fbb1481724a7f710d2359",
+  "url": "https://www.wdam.com/2024/04/25/laurel-man-charged-with-child-exploitation-after-investigation-by-attorney-generals-office",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@wdam",
+  "published": "2024-04-25T23:09:00.000+03:00",
+  "title": "Laurel man charged with child exploitation after investigation by Attorney General’s Office",
+  "text": "Laurel man charged with child exploitation after investigation by Attorney General’s Office JONES COUNTY, Miss. (WDAM) - A Laurel man is in the Jones County jail charged with child exploitation after an investigation from the Attorney General’s office, according to online jail records. The Jones County Sheriffs’ Department’s inmate roster showed 42-year-old Nathan Mozingo was booked on Friday, April 19, and remains in the detention center with a $100,000 bond. WDAM 7 reached out to the the Mississippi Attorney General’s Office for details about the case, but a spokesperson could only say that the arrest was “just in the course of our investigative work” and added no additional information could be shared. Mozingo was previously arrested in 2022 for threatening to shoot Jones County deputies and his father. This story will be updated if more information is provided. Want more WDAM 7 news in your inbox? Click [here](https://www.wdam.com/newsletter/) to subscribe to our newsletter. Copyright 2024 WDAM. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "mozingo",
+        "sentiment": "none"
+      },
+      {
+        "name": "nathan mozingo",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "laurel",
+        "sentiment": "negative"
+      },
+      {
+        "name": "attorney general’s office laurel",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "attorney general’s office jones co",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "wdam",
+        "sentiment": "none"
+      },
+      {
+        "name": "jones county sheriffs’ department",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "mississippi",
+        "sentiment": "none"
+      },
+      {
+        "name": "unty",
+        "sentiment": "none"
+      },
+      {
+        "name": "jones county",
+        "sentiment": "none"
+      },
+      {
+        "name": "miss.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:08:58.576+03:00",
+  "updated": "2024-04-26T00:08:58.576+03:00"
+}

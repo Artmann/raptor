@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "5f0f94b6939655ea72784f9f4136a42aa33008de",
+    "url": "https://gazete.hacettepe.edu.tr/en/news_detail/innovative_project_for_a_sustainable_future:_great_success_from_our_students-635",
+    "site_full": "gazete.hacettepe.edu.tr",
+    "site": "hacettepe.edu.tr",
+    "site_section": "https://gazete.hacettepe.edu.tr/en/news",
+    "site_categories": [],
+    "section_title": "Gazette Hacettepe - Haberler",
+    "site_title": "Gazete Hacettepe",
+    "title": "Gazette Hacettepe - Innovative Project for a Sustainable Future: Great Success from Our Students",
+    "title_full": "Gazette Hacettepe - Innovative Project for a Sustainable Future: Great Success from Our Students",
+    "published": "2025-09-17T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "TR",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 22935,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5f0f94b6939655ea72784f9f4136a42aa33008de",
+  "url": "https://gazete.hacettepe.edu.tr/en/news_detail/innovative_project_for_a_sustainable_future:_great_success_from_our_students-635",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-17T03:00:00.000+03:00",
+  "title": "Gazette Hacettepe - Innovative Project for a Sustainable Future: Great Success from Our Students",
+  "text": "Our students Sudenaz Dağlıoğlu (Department of Chemistry), Sıla Çelik (Department of Chemistry), Esmanur İleri (Department of Chemistry), Mihriban Şener (Department of International Relations), and Elif Turan (Turkish Language Teaching) from Gazi University participated in the “Design the Sustainable Future” competition, themed “Biomimicry,” organized by Rönesans Holding, which ranks among the top 10 largest international contracting firms in Europe. Our students won first place in the ‘Innovative Idea and Detail’ category with their project, which focuses on the removal of microplastics from water sources, combining biology and chemistry disciplines, and made us proud. We congratulate our students for achieving this success under the guidance of Assistant Coordinator of the Sustainable Campuses Coordinatiorship and Faculty of Architecture Asst. Prof. Dilara Tüfekçioğlu, and we wish them continued success.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest"],
+  "topics": [
+    "Education->students",
+    "Education->teachers",
+    "Education->vocational education",
+    "Human Interest->record and achievement"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Sudenaz Dağlıoğlu",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Esma",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Dilara Tüfekçioğlu",
+        "sentiment": "none"
+      },
+      {
+        "name": "Elif Turan",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Europe",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Gazi University",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:08:53.946+03:00",
+  "updated": "2025-09-18T09:11:58.000+03:00"
+}

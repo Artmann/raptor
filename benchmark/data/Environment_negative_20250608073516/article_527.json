@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "ba47ecd580183aa4d84f90266851a27faacf1226",
+    "url": "https://flipboard.com/topic/space/-/a-Jnf_6WouRlePNr2dUzNoUw%3Aa%3A3713752859-%2F0",
+    "site_full": "flipboard.com",
+    "site": "flipboard.com",
+    "site_section": "https://flipboard.com/topic/space",
+    "site_categories": ["family_and_parenting", "eldercare"],
+    "section_title": "Space Discoveries, Articles, News, &amp; Stories | Flipboard",
+    "site_title": "Flipboard: Your Social Magazine",
+    "title": "NASA Confirms The Cause And Timetable For Life Ending On Earth With Chilling Toho University Study | Flipboard",
+    "title_full": "NASA Confirms The Cause And Timetable For Life Ending On Earth With Chilling Toho University Study | Flipboard",
+    "published": "2025-05-08T00:05:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://static1.thetravelimages.com/wordpress/wp-content/uploads/2025/05/shutterstock_1925337488.jpg",
+    "performance_score": 0,
+    "domain_rank": 1243,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ba47ecd580183aa4d84f90266851a27faacf1226",
+  "url": "https://flipboard.com/topic/space/-/a-Jnf_6WouRlePNr2dUzNoUw%3Aa%3A3713752859-%2F0",
+  "ord_in_thread": 0,
+  "author": "thetravel.com - Alessandro Passalalpi",
+  "published": "2025-05-08T00:05:00.000+03:00",
+  "title": "NASA Confirms The Cause And Timetable For Life Ending On Earth With Chilling Toho University Study | Flipboard",
+  "text": "NASA Confirms The Cause And Timetable For Life Ending On Earth With Chilling Toho University Study NASA data continues to provide insight into the future. We recently saw NASA images of a part of the US sinking at an alarming rate. Rising sea …\nthetravel.com - Alessandro Passalalpi • 4h",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Science and Technology", "Environment", "Social Issue"],
+  "topics": [
+    "Science and Technology->natural science",
+    "Science and Technology->scientific research",
+    "Science and Technology->astronomy",
+    "Environment->sustainability",
+    "Environment->global warming",
+    "Environment->climate change",
+    "Social Issue->ethics",
+    "Social Issue->social problem",
+    "Social Issue->mankind"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Alessandro Passalalpi",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "NASA",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:40:01.568+03:00",
+  "updated": "2025-05-08T01:49:38.000+00:00"
+}

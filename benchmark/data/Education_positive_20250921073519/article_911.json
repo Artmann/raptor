@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "6a51b27be1cf0f066508fb3522a9e007d34c286f",
+    "url": "https://westconcordmn.net/stories/join-us-for-book-group-at-the-west-concord-library,124948",
+    "site_full": "westconcordmn.net",
+    "site": "westconcordmn.net",
+    "site_section": "https://westconcordmn.net/news",
+    "site_categories": [],
+    "section_title": "News - West Concord Messenger",
+    "site_title": "Home - West Concord Messenger",
+    "title": "Join us for Book Group at the West Concord Library",
+    "title_full": "Join us for Book Group at the West Concord Library",
+    "published": "2025-09-11T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn2.creativecirclemedia.com/mainstreet/original/20250911-163947-97c-Picture1.jpg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6a51b27be1cf0f066508fb3522a9e007d34c286f",
+  "url": "https://westconcordmn.net/stories/join-us-for-book-group-at-the-west-concord-library,124948",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-11T03:00:00.000+03:00",
+  "title": "Join us for Book Group at the West Concord Library",
+  "text": "Join us for Book Group at the West Concord Library\nSaturday, October 4 from 9-10am\nJames by Percival Everett\nPulitzer Prize winning fiction novel for 2025. A brilliant reimagining of Adventures of Huckleberry Finn—both harrowing and satirical—told from the enslaved Jim's point of view.\nWhen Jim overhears that he is about to be sold to a man in New Orleans, separated from his wife and daughter forever, he runs away until he can formulate a plan. Meanwhile, Huck has faked his own death to escape his violent father. As all readers of American literature know, thus begins the dangerous and transcendent journey by raft down the Mississippi River toward the elusive and unreliable promise of the Free States and beyond.\nBrimming with nuanced humor and lacerating observations that have made Everett a literary icon, this brilliant and tender novel radically illuminates Jim's agency, intelligence, and compassion as never before. James is destined to be a major publishing event and a cornerstone of twenty-first-century American literature.\nGenre: Historical Fiction\nFirst Published: March 2024, 303 pages (Hardcover)\nJoin us for Book Group at the West Concord Library\nWednesday, October 15 from 4-5pm\nThe Couple Next Door by Shari Lapena\nYour neighbor told you that she didn't want your six-month-old daughter at the dinner party. Nothing personal, she just couldn't stand her crying.\nYour husband said it would be fine. After all, you only live next door. You'll have the baby monitor and you'll take it in turns to go back every half hour.\nYour daughter was sleeping when you checked on her last. But now, as you race up the stairs in your deathly quiet house, your worst fears are realized. She's gone.\nYou've never had to call the police before. But now they're in your home, and who knows what they'll find there.\nWhat would you be capable of, when pushed past your limit?\nGenre: Mystery Thriller\nFirst Published: July 2016, 308 pages (Hardcover)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest"],
+  "topics": [
+    "Education->students",
+    "Education->teachers",
+    "Education->social learning"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Percival",
+        "sentiment": "none"
+      },
+      {
+        "name": "James",
+        "sentiment": "none"
+      },
+      {
+        "name": "Everett",
+        "sentiment": "none"
+      },
+      {
+        "name": "Huck",
+        "sentiment": "none"
+      },
+      {
+        "name": "Jim",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "6a51b27be1cf0f066508fb3522a9e007d34c286f",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["West Concord"],
+      "state": ["Minnesota"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:16:02.166+03:00",
+  "updated": "2025-09-18T09:20:44.000+03:00"
+}

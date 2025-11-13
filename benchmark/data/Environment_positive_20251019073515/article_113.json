@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "96a334b70acdb158bb7f8a2c733026f4e691e189",
+    "url": "http://news.cyol.com/gb/articles/2025-10/16/content_PbnXbbFx0B.html",
+    "site_full": "news.cyol.com",
+    "site": "cyol.com",
+    "site_section": "http://news.cyol.com/",
+    "site_categories": ["media"],
+    "section_title": "新闻频道",
+    "site_title": null,
+    "title": "\"十四五\"时期北京PM2.5年均浓度下降两成",
+    "title_full": "\"十四五\"时期北京PM2.5年均浓度下降两成",
+    "published": "2025-10-16T13:17:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 25762,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "96a334b70acdb158bb7f8a2c733026f4e691e189",
+  "url": "http://news.cyol.com/gb/articles/2025-10/16/content_PbnXbbFx0B.html",
+  "ord_in_thread": 0,
+  "author": "刘世昕 胡宁",
+  "published": "2025-10-16T13:17:00.000+03:00",
+  "title": "\"十四五\"时期北京PM2.5年均浓度下降两成",
+  "text": "中国青年报客户端讯（中青报·中青网记者张艺）记者从日前举办的“十四五”规划高质量收官系列发布会——“美丽北京”专场发布会上获悉，“十四五”期间，北京市PM2.5年均浓度下降两成，公园总数已达到1100个。未来十年，北京还将新建200个公园。\n“十四五”期间，北京的蓝天成为常态，PM2.5连续四年稳定达到国家二级标准。2024年，PM2.5年均浓度为30.5微克/立方米，相较于2020年，四年时间内下降了19.7%。空气质量优良天数达290天，相当于近10个月都是“好天”，为历年来最多。\n北京市生态环境局局长陈添介绍，2025年前三季度，北京市PM2.5浓度为24.9微克/立方米，同比下降15.0%，优良天数226天，同比增加18天；生态环境质量指数实现稳步提升。\n“十四五”期间，北京市能源结构持续优化，2024年优质能源占全市能源消费的比重已经达到99.7%，为空气质量持续改善提供有力支撑。\n北京市发展改革委副主任来现余介绍，北京市通过推广新能源汽车等各方面措施，努力减少油品的消费。截至目前，全市新能源汽车保有量达到120万辆，比“十三五”末期增加了两倍，每年可减少燃油消费100万吨以上。汽车电动化的潮流带动汽柴油消费量稳步下降，油品占全市能源消费的比重已不足30%。\n陈添表示，截至目前，“十四五”时期生态环境保护规划进展顺利，预计到年底，将超额完成国家要求，实现高质量收官。“十五五”将聚焦绿色发展、污染治理、生态保护、美丽示范、现代治理等方面，将美丽北京建设融入生产生活，让人民群众在绿水青山中享受自然之美、生活之美、文明之美。\n北京市园林绿化局副局长沙海江表示，《北京公园游憩体系专项规划（2024年-2035年）》已经出台，未来公园数量和质量都将升级。沙海江说，未来十年，北京将见缝插针，因地制宜地新建200个公园，同时改造一批老公园。\n【责任编辑：刘世昕 胡宁 编辑：何欣】",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->air pollution", "Environment->parks"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:37:43.984+03:00",
+  "updated": "2025-10-16T14:00:59.000+03:00"
+}

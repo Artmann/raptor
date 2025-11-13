@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "3b2dcc706b610ad3ee3fbcff5c2040a37338951e",
+    "url": "https://www.cbsnews.com/minnesota/news/new-statistics-show-that-crime-is-going-down-in-minneapolis/",
+    "site_full": "www.cbsnews.com",
+    "site": "cbsnews.com",
+    "site_section": "https://www.cbsnews.com/cbslocal",
+    "site_categories": ["media"],
+    "section_title": "CBS Local - Your local news and live free 24/7 streaming news",
+    "title": "New statistics show that crime is going down in Minneapolis - CBS Minnesota",
+    "title_full": "New statistics show that crime is going down in Minneapolis - CBS Minnesota",
+    "published": "2023-12-29T01:12:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/11/22f525cd-5f33-4032-a9b1-03f7daa5967e/thumbnail/1200x630/5ab50c6d9b63076cff6a5a40100b6504/gettyimages-1258762551.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
+    "performance_score": 0,
+    "domain_rank": 187,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3b2dcc706b610ad3ee3fbcff5c2040a37338951e",
+  "url": "https://www.cbsnews.com/minnesota/news/new-statistics-show-that-crime-is-going-down-in-minneapolis/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Beret Leone",
+  "published": "2023-12-29T01:12:00.000+02:00",
+  "title": "New statistics show that crime is going down in Minneapolis - CBS Minnesota",
+  "text": "MINNEAPOLIS — Police say the statistics don't lie, crime is down in Minneapolis.\nAccording to the city's crime dashboard, there are 9% fewer homicides, gun violence is down 24% and car jackings are nearly cut in half.\n\"The trend is going in the right direction,\" Minneapolis Police Chief Brian O'Hara said. \"But it's no where near where it was prior to 2020.\"\nResidents feel it too.\n\"I think an efforts being made, but the jury is still out,\" Kit Hansen said.\n\"We still go that deficient in terms of cop spots not filled there's a massive, massive gulf in terms of trust in between the police department and community. All of that needs to be dealt with quickly and effectively,\" Nick Fixler said.\nWhile overall crime is down, you'll see spikes in crime depending on where you look. For instance, in the 5th Precinct, where Uptown is located, you'll see crime increases in assault and property crime. Even so — Uptown residents WCCO crews spoke with Thursday, say they feel safe in the city.\n\"I think concerns are overblown,\" Stephen Greenfield said.\n\"In general, aside from the car-jacking and stuff, I still feel safe,\" Hansen said. \"I would not consider leaving.\"\nChief O'Hara says while reduction in overall crime is hopeful, it's hard work with a short staff.\n\"Clearly staffing has an effect. It just shows the resiliency and dedication of the people who remain. And the incredible work here that's been done,\" he said. \"But it is absolutely not sustainable.\"\nIn the last three years, he says 40% of the department has left.\n\"I can't understate how urgent this it,\" he said. \"And there is significant, significant challenges for the officers who remain.\"\nO'Hara believes in the last year, his team has laid a good foundation to rebuild the department. Next year, he hopes to reduce the number of serious crimes while rebuilding trust with residents — and in order to do that, he needs more officers.\n\"You can really be a part of very much the most significant changes that are happening in public service, on the ground yourself,\" he said.\nO'Hara says a big part of recruitment and retention within the department is solidifying a contract with the city and the police union. He said he hopes to receive the support to make that happen.\nMore from CBS News A public memorial for slain grocery store employee will be held at the Center for Performing Arts St. Paul carjacking suspect arrested in Wisconsin following chase Minneapolis Mayor Jacob Frey has a new mustache look — and the internet has thoughts Minneapolis Mayor Jacob Frey looks back at \"defining year\" of 2023 In: Minneapolis Police Department Crime Minneapolis Beret Leone Beret Leone is a native Minnesotan who joined the WCCO team as a reporter in September 2022 - and she's thrilled be back home in the Twin Cities! Beret grew up in Chaska and graduated from Bethel University.\nTwitter Facebook",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Crime, Law and Justice", "Social Issue", "Human Interest"],
+  "external_links": [
+    "https://www.facebook.com/beretleonetv/",
+    "https://www.minneapolismn.gov/government/government-data/datasource/crime-dashboard/",
+    "https://twitter.com/grinandberet",
+    "https://www.twitter.com/grinandberet",
+    "https://www.facebook.com/beretleonetv",
+    "https://minneapolismn.gov/government/government-data/datasource/crime-dashboard/",
+    "https://www.minneapolismn.gov/government/government-data/datasource/crime-dashboard",
+    "https://facebook.com/beretleonetv/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "brian o'hara",
+        "sentiment": "none"
+      },
+      {
+        "name": "nick fixler",
+        "sentiment": "none"
+      },
+      {
+        "name": "stephen greenfield",
+        "sentiment": "none"
+      },
+      {
+        "name": "kit hansen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cbs minnesota minneapolis",
+        "sentiment": "negative"
+      },
+      {
+        "name": "wcco",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "minneapolis",
+        "sentiment": "none"
+      },
+      {
+        "name": "uptown",
+        "sentiment": "none"
+      },
+      {
+        "name": "5th precinct",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T02:16:19.998+02:00",
+  "updated": "2023-12-29T02:36:08.567+02:00"
+}

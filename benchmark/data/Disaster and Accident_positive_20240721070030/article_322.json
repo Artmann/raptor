@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "86531b092e12a872b7ca26398e3a4cb3a3f26e5a",
+    "url": "https://abcnews.go.com/US/missing-boy-found-safe-huntington-lake-california-campground/story?id=111324206",
+    "site_full": "abcnews.go.com",
+    "site": "go.com",
+    "site_section": "https://abcnews.go.com/US",
+    "site_categories": ["media"],
+    "section_title": "U.S.  News | Latest National News, Videos &amp; Photos - ABC News - ABC News",
+    "title": "4-year-old found safe after going missing at campground: 'We got lucky' - ABC News",
+    "title_full": "4-year-old found safe after going missing at campground: 'We got lucky' - ABC News",
+    "published": "2024-06-22T00:21:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://i.abcnewsfe.com/a/3678aeda-74d6-4ae0-8db8-0de1f717f30d/boy-found-04-ht-jt-240621_1719001777913_hpMain_16x9.jpg?w=1600",
+    "performance_score": 0,
+    "domain_rank": 143,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "86531b092e12a872b7ca26398e3a4cb3a3f26e5a",
+  "url": "https://abcnews.go.com/US/missing-boy-found-safe-huntington-lake-california-campground/story?id=111324206",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "ABC News",
+  "published": "2024-06-22T00:21:00.000+03:00",
+  "title": "4-year-old found safe after going missing at campground: 'We got lucky' - ABC News",
+  "text": "4-year-old found safe after going missing at campground: 'We got lucky' Christian Ramirez went missing overnight near Huntington Lake in California. A 4-year-old boy was found safe after going missing overnight at a campground in California, authorities said. Christian Ramirez's family reported him missing Thursday shortly before 11 a.m. PT at the Rancheria Campground near Huntington Lake, according to the Fresno County Sheriff's Office. More than 50 sheriff's deputies and volunteers joined in a search for the child that continued overnight. Christian was ultimately found around 8 a.m. PT Friday outside the campground, about a quarter-mile from where he went missing, by members of the Tulare County Search and Rescue Team, authorities said. \"He's tired, he's hungry, but he's alive and he's healthy,\" Lt. Brandon Pursell with the Fresno County Sheriff's Office told [ABC Fresno affiliate KFSN](https://abc30.com/post/missing-4-year-old-boy-huntington-lake-found/14984784/). \"This is overall just a great victory for the sheriff's office, for the kid's family and for our searchers that … spent all night last night out working tirelessly to find this boy.\" The search effort included helicopters, drones, dog teams, boats and a ground search through rough terrain, according to Pursell. The Fresno County Sheriff's Office released footage and photos of the child after he was found and reunited with his parents. He was shown wrapped in a coat and eating a sandwich upon his rescue in a wooded area. Pursell told KFSN it was fortunate the boy was found unharmed, given the location where he went missing. Bears, snakes, waterways and \"slip and fall hazards\" posed potential dangers, he told the station. The child was also wearing only a T-shirt and shorts overnight in the cold, though he was cleared by medical staff to be released to his family and was in \"decent spirits,\" Pursell told the station. \"There's a lot of things that could have gone really, really wrong with this one,\" he told KFSN. \"We got lucky, the family got lucky.\" Pursell told KFSN they were still working to determine exactly what happened but that it appears the child wandered off while the family was camping. \"We believe that it was just an unfortunate event,\" he told the station, adding that no criminality is suspected. Pursell reminded parents to be \"extra diligent\" this summer. \"Kids wander, and especially when you're in wooded areas, near water, we want to remind parents, you have to stay incredibly diligent and watch your children at all times,\" he told KFSN.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Human Interest"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://abc30.com/post/missing-4-year-old-boy-huntington-lake-found/14984784/).",
+    "https://www.abc30.com/post/missing-4-year-old-boy-huntington-lake-found/14984784/)."
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "christian ramirez",
+        "sentiment": "negative"
+      },
+      {
+        "name": "brandon pursell",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "abc news",
+        "sentiment": "negative"
+      },
+      {
+        "name": "abc fresno",
+        "sentiment": "none"
+      },
+      {
+        "name": "kfsn",
+        "sentiment": "none"
+      },
+      {
+        "name": "fresno county sheriff's office",
+        "sentiment": "none"
+      },
+      {
+        "name": "tulare county search and rescue team",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "huntington lake",
+        "sentiment": "none"
+      },
+      {
+        "name": "rancheria campground",
+        "sentiment": "none"
+      },
+      {
+        "name": "california",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-22T01:08:52.571+03:00",
+  "updated": "2024-06-22T01:08:52.571+03:00"
+}

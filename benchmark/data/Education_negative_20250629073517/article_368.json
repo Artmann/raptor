@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "8e61c54ebff8e866306358c003550e50a470f624",
+    "url": "https://www.noen.at/in-ausland/gewalt-ermittlungen-nach-brutalem-mobbingfall-in-schule-479387163",
+    "site_full": "www.noen.at",
+    "site": "noen.at",
+    "site_section": "https://www.noen.at/xml/rss",
+    "site_categories": ["media", "top_news_at", "top_news"],
+    "section_title": "www.noen.at - NÖN.at - Niederösterreichische Nachrichten",
+    "site_title": "N&Ouml;N.at",
+    "title": "Gewalt - Ermittlungen nach brutalem Mobbingfall in Schule - NÖN.at",
+    "title_full": "Gewalt - Ermittlungen nach brutalem Mobbingfall in Schule - NÖN.at",
+    "published": "2025-06-26T11:03:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "AT",
+    "main_image": "https://www.noen.at/image/1920x1080-c-jpg/5911236/63690011487166104_BLD_Online.jpg",
+    "performance_score": 0,
+    "domain_rank": 28060,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8e61c54ebff8e866306358c003550e50a470f624",
+  "url": "https://www.noen.at/in-ausland/gewalt-ermittlungen-nach-brutalem-mobbingfall-in-schule-479387163",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T11:03:00.000+03:00",
+  "title": "Gewalt - Ermittlungen nach brutalem Mobbingfall in Schule - NÖN.at",
+  "text": "Gewalt Ermittlungen nach brutalem Mobbingfall in Schule Erstellt am 26. Juni 2025 | 10:03 AN APA / NÖN.at Die Übergriffe sollen sich über Monate gezogen haben Foto: APA/dpa Werbung E in brutaler Mobbingfall in einer Schule in Vöcklabruck zieht polizeiliche Ermittlungen gegen die mutmaßlichen Täter und voraussichtlich auch Schulverweise nach sich. Laut einem Artikel von \"krone.at\" sei ein 15-Jähriger von fünf 20-jährigen Mitschülern monatelang schikaniert, geschlagen, gewürgt und dabei gefilmt worden. Einmal sei er sogar zum Fenster gedrängt worden und durch dieses zwei Meter in die Tiefe gestürzt. Die \"Krone\" bezieht sich dabei auf eine anonyme Quelle. Polizei und Bildungsdirektion halten sich mit Details bedeckt, bestätigen aber, dass es einen Vorfall gegeben habe. Eine Sprecherin der oberösterreichischen Bildungsdirektion informierte, dass die mutmaßlichen Täter suspendiert worden seien. Am Donnerstag finde in der Schule eine Konferenz statt, in der über den Schulausschluss entschieden werde. Die Schule habe sofort nach Bekanntwerden der Vorwürfe Anzeige bei der Polizei erstattet, betonte sie.\nInhalte werden geladen",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Social Issue", "Education"],
+  "topics": [
+    "Crime, Law and Justice->investigation (criminal)",
+    "Crime, Law and Justice->law enforcement",
+    "Crime, Law and Justice->assault",
+    "Social Issue->bullying",
+    "Social Issue->social problem",
+    "Social Issue->juvenile delinquency",
+    "Education->school",
+    "Education->students",
+    "Education->teachers"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://mocafirst.at/?id=1000007_2000690",
+    "https://mocafirst.at/?id=1000007_2000164",
+    "https://mocafirst.at/?id=1000007_2000239",
+    "https://www.mocafirst.at/?id=1000007_2000690",
+    "https://www.mocafirst.at/?id=1000007_2000164",
+    "https://mocafirst.at/",
+    "https://www.mocafirst.at/?id=1000007_2000239"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Vöcklabruck",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "dpa",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_at", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T11:18:05.800+03:00",
+  "updated": "2025-06-27T09:08:45.000+00:00"
+}

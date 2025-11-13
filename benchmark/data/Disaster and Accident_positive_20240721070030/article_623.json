@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "09153aa39feceef4a3f7c2a5a49c83619aa4daf8",
+    "url": "https://www.staradvertiser.com/2024/06/22/breaking-news/honolulu-firefighters-rescue-hiker-clinging-to-tree-on-trail-cliff",
+    "site_full": "www.staradvertiser.com",
+    "site": "staradvertiser.com",
+    "site_section": "https://www.staradvertiser.com/category/sports/",
+    "site_categories": ["photography", "hobbies_and_interests"],
+    "section_title": "Hawaii Sports News &amp; Columns | Honolulu Star-Advertiser",
+    "title": "Honolulu firefighters rescue hiker clinging to tree on North Shore cliff | Honolulu Star-Advertiser",
+    "title_full": "Honolulu firefighters rescue hiker clinging to tree on North Shore cliff | Honolulu Star-Advertiser",
+    "published": "2024-06-23T01:25:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.staradvertiser.com/wp-content/uploads/2024/06/web1_20220210-web-air-1.jpg",
+    "performance_score": 0,
+    "domain_rank": 6779,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "09153aa39feceef4a3f7c2a5a49c83619aa4daf8",
+  "url": "https://www.staradvertiser.com/2024/06/22/breaking-news/honolulu-firefighters-rescue-hiker-clinging-to-tree-on-trail-cliff",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Star-Advertiser staff",
+  "published": "2024-06-23T01:25:00.000+03:00",
+  "title": "Honolulu firefighters rescue hiker clinging to tree on North Shore cliff | Honolulu Star-Advertiser",
+  "text": "1 Taylor Wily, who played Kamekona in ‘Hawaii Five-0,’ dies at age 56",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Human Interest"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "honolulu star",
+        "sentiment": "negative"
+      },
+      {
+        "name": "honolulu fire department",
+        "sentiment": "none"
+      },
+      {
+        "name": "hfd",
+        "sentiment": "none"
+      },
+      {
+        "name": "air",
+        "sentiment": "none"
+      },
+      {
+        "name": "honolulu emergency medical services",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "sunset beach elementary",
+        "sentiment": "none"
+      },
+      {
+        "name": "honolulu",
+        "sentiment": "none"
+      },
+      {
+        "name": "ehukai pillbox trail",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-23T01:40:08.796+03:00",
+  "updated": "2024-06-23T07:05:34.938+03:00"
+}

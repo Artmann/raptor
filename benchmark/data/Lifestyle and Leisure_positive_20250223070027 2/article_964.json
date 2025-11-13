@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "091a6bd5eaab7c07165a3c4069d7d60abc614ece",
+    "url": "https://www.sunjournal.com/2025/01/23/women-take-a-winter-walk-in-auburn",
+    "site_full": "www.sunjournal.com",
+    "site": "sunjournal.com",
+    "site_section": "https://www.sunjournal.com",
+    "site_categories": ["media"],
+    "section_title": "Lewiston Sun Journal | Central and Western Maine News",
+    "title": "Women take a winter walk in Auburn",
+    "title_full": "Women take a winter walk in Auburn",
+    "published": "2025-01-24T00:17:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 13655,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "091a6bd5eaab7c07165a3c4069d7d60abc614ece",
+  "url": "https://www.sunjournal.com/2025/01/23/women-take-a-winter-walk-in-auburn",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Daryn Slover",
+  "published": "2025-01-24T00:17:00.000+02:00",
+  "title": "Women take a winter walk in Auburn",
+  "text": "Kathleen Henning, left, and Liz Usher hike Thursday along the Blue trail at Mount Apatite in Auburn. The two Auburn residents have been enjoying each other’s company since they met 28 years ago. “The trails here are so beautiful,” said Henning. “We are so lucky to have this park.” Daryn Slover/Sun Journal",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Lifestyle and Leisure", "Human Interest", "Health"],
+  "topics": [
+    "Lifestyle and Leisure->outdoor recreational activities",
+    "Lifestyle and Leisure->lifestyle",
+    "Health->health care approach"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Liz Usher",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Kathleen Henning",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Daryn Slover",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:44:41.309+02:00",
+  "updated": "2025-01-24T00:44:41.309+02:00"
+}

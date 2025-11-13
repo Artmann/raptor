@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "ca8de200fd9bcf3ee6bf080772fb3a9385b4440c",
+    "url": "https://www.arcamax.com/currentnews/newsheadlines/s-3038157",
+    "site_full": "www.arcamax.com",
+    "site": "arcamax.com",
+    "site_section": "https://www.arcamax.com/rss",
+    "site_categories": ["media"],
+    "section_title": "",
+    "title": "New Year's risk? San Jose experiencing 3rd highest COVID wave ever right now, wastewater shows",
+    "title_full": "New Year's risk? San Jose experiencing 3rd highest COVID wave ever right now, wastewater shows",
+    "published": "2023-12-28T07:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://resources.arcamax.com/newspics/268/26810/2681054.gif",
+    "performance_score": 0,
+    "domain_rank": 40653,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ca8de200fd9bcf3ee6bf080772fb3a9385b4440c",
+  "url": "https://www.arcamax.com/currentnews/newsheadlines/s-3038157",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "ArcaMax Publishing, Inc.",
+  "published": "2023-12-28T07:00:00.000+02:00",
+  "title": "New Year's risk? San Jose experiencing 3rd highest COVID wave ever right now, wastewater shows",
+  "text": "As the countdown to 2024 approaches, Dwayne Taylor — the founder of San Jose events company Taylor Productions — is preparing to celebrate. For nearly a decade, he has hosted one of the city’s largest New Year’s parties. And for the first time since 2020, COVID-19 is finally feeling like less of an obstacle.\n“I’ve had it three times, and I’ve also had a lot of really close friends who passed away from COVID,” said Taylor, who suspended the party in 2020 and 2021 before bringing it back last year. “So if I thought for a second that this party would be a problem or a spreader event, I would have canceled it in a heartbeat.”\nDespite the persistent presence of COVID-19 and an ongoing surge — hospitalizations are up, and so is the virus’ presence in wastewater — Taylor is among many Bay Area residents making the same calculus.\nMost are throwing masks and other precautions to the winds, and it’s not just revelers. Nearly four years after the pandemic’s onset, state- and county-level health warnings are less frequent and more tempered than they’ve ever been, mostly reminding people to get vaccinated, and to stay home when sick.\n“I’ve been struggling in terms of communicating to the public that there’s a lot of virus out there, there’s a high chance of getting sick if you don’t take precautions … but at the same time, things are a lot better,” said John Swartzberg, a clinical professor emeritus of infectious diseases and vaccinology at UC Berkeley’s School of Public Health.\nAcross the Bay Area, regions are seeing “high” levels of COVID-19 in their wastewater, including San Leandro, Central Contra Costa, Oakland, San Francisco and Redwood City, according to the WastewasterSCAN dashboard, a national data set based at Stanford University.\n San Jose is experiencing a particularly dramatic surge, with wastewater data showing COVID-19 at a level only seen during the two worst waves of the pandemic. Concentration levels are also higher than they were during the first winter wave in January 2021, when hospitals canceled non-emergency surgeries and procedures to ward off a continued spread.\nSo why aren’t people worried? Unlike the early days of the pandemic, when contracting COVID was deadly business for the elderly and immunocompromised, and risky for everyone else, new infections less frequently equate to hospitalizations and death. Readily available vaccines have usually rendered cases milder, and therapeutics such as Paxlovid can reduce the severity of symptoms.\nEven so, the level of hospitalizations this year is not insignificant, and is much higher than people heading to the emergency room with the flu.\nDespite the reduced risk, COVID is still deadly, contributing to more than 1,000 deaths in California since October 1. Between December 10 through 16, 2,800 people were hospitalized for COVID across the state, and just over 1,000 for the flu.\n...continued swipe to next page « 1 2 » View full story\n©2023 MediaNews Group, Inc. Visit at mercurynews.com. Distributed by Tribune Content Agency, LLC.\nComments Please enable JavaScript to view the comments powered by Disqus. blog comments powered by Disqus Share",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Health", "Social Issue"],
+  "external_links": ["http://disqus.com", "http://www.disqus.com"],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "publi",
+        "sentiment": "positive"
+      },
+      {
+        "name": "taylor",
+        "sentiment": "none"
+      },
+      {
+        "name": "dwayne taylor",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "[news & features",
+        "sentiment": "none"
+      },
+      {
+        "name": "taylor productions",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "san jose",
+        "sentiment": "none"
+      },
+      {
+        "name": "bay area",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:30:07.075+02:00",
+  "updated": "2023-12-29T01:31:14.080+02:00"
+}

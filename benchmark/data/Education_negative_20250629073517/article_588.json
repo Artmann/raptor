@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "d286e723ecbcdb7f8590cb00c1f2b76ebba2b46d",
+    "url": "https://www.enriquedans.com/2025/06/estudiar-informatica-ya-no-es-lo-que-era.html",
+    "site_full": "www.enriquedans.com",
+    "site": "enriquedans.com",
+    "site_section": "https://www.enriquedans.com",
+    "site_categories": ["media"],
+    "section_title": " Enrique Dans",
+    "site_title": "Enrique Dans",
+    "title": "Estudiar informática ya no es lo que era",
+    "title_full": "Estudiar informática ya no es lo que era",
+    "published": "2025-06-26T12:42:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 47973,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d286e723ecbcdb7f8590cb00c1f2b76ebba2b46d",
+  "url": "https://www.enriquedans.com/2025/06/estudiar-informatica-ya-no-es-lo-que-era.html",
+  "ord_in_thread": 0,
+  "author": "@edans",
+  "published": "2025-06-26T12:42:00.000+03:00",
+  "title": "Estudiar informática ya no es lo que era",
+  "text": "Los datos de matriculación en Computer Science de este año en las universidades norteamericanas muestran un frenazo casi total, tan solo un mínimo 0.2% de crecimiento, después de que el número de estudiantes en esa disciplina se cuadruplicase entre los años 2005 y 2023.\nTodo parece apuntar a que estamos ante un cambio de ciclo en la profesión. En la Universidad de Princeton, la matriculación en la carrera podría caer un 25% en solo dos años, y en la de Duke el descenso en la asignatura introductoria ronda ya el 20%, en lo que algunos empiezan ya a considerar como la «computer science bubble» .\nAl otro lado del Atlántico, el panorama no es mucho mejor: el Reino Unido registra el peor mercado laboral para sus graduados desde 2018 , con un 33% menos de ofertas para recién titulados y la inteligencia artificial señalada como principal responsable del problema.\nLa ironía es evidente: las mismas herramientas que los desarrolladores crearon están empezando a difuminar el peldaño de entrada al oficio. Directivos de Alphabet o Microsoft reconocen que los copilots generan cada vez partes más significativas de su código mientras los profesionales se quejan de que ahora se sienten «como los almaceneros» , y los despidos masivos se están convirtiendo ya en una parte del paisaje cada vez más normalizada. Para un joven en formación, «aprender a programar» ya no es una especie de salvavidas, sino que significa ponerse a competir con máquinas que no duermen y nunca se olvidan de un punto y coma.\nEsta percepción ha detonado un intenso debate académico. Un artículo en el prestigioso journal Communications of the ACM se pregunta si debe endurecerse la admisión a los grados de informática o, por el contrario, flexibilizarla para atraer perfiles capaces de orquestar sistemas de IA en lugar de escribir cada línea de código . La cuestión de fondo es redefinir qué significa hoy «estudiar informática» cuando programar es una tarea que se está automatizando de una forma cada vez más acelerada.\nLas cifras no solo hablan de recortes. El AI Index 2025 de Stanford, resumido por IEEE Spectrum , muestra que las ofertas que exigen competencias en inteligencia artificial han vuelto a crecer y ya suponen el 1.8% de todos los anuncios en el mercado estadounidense, frente al 1.4 % en 2023. El AI Jobs Barometer 2025 de PwC concluye que los trabajadores con habilidades como prompt engineering reciben pluses salariales del 56%, mientras las industrias más expuestas a la inteligencia artificial generan tres veces más ingresos por empleado que las más rezagadas. Es decir, se destruye empleo rutinario, pero se crean puestos supuestamente más especializados y mejor pagados.\nTodo apunta, pues, a un doble desplazamiento: las universidades de élite elevarán la exigencia para formar a quienes empujen los límites del desarrollo de la propia inteligencia artificial, desde algoritmos a sistemas distribuidos pasando por seguridad, ética, etc., mientras proliferan programas más aplicados que enseñen a integrar modelos generativos en procesos de negocio, diseñar experiencias de usuario o auditar sistemas autónomos. No habrá menos ingenieros, sino ingenieros diferentes: arquitectos de sistemas híbridos, curadores de datos, diseñadores de interacción y, sobre todo, traductores entre necesidades humanas y capacidades algorítmicas.\nPara los profesionales en activo, la moraleja parece clara: las competencias puramente mecánicas pierden valor a la misma velocidad con la que los modelos se va actualizando y van ganando prestaciones. Ganan peso el pensamiento crítico, la comunicación, la abstracción interdisciplinar y la responsabilidad sobre impactos sociales. El futuro de la ingeniería informática no es la extinción de los humanos, sino la de quienes no aprendan – y como llevo ya muchos años diciendo, desaprendan – con la misma velocidad que sus propias herramientas.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Economy, Business and Finance"],
+  "topics": [
+    "Education->vocational education",
+    "Education->students",
+    "Education->college and university",
+    "Social Issue->demographics",
+    "Social Issue->social services",
+    "Social Issue->social problem",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->human resources"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.theatlantic.com/economy/archive/2025/06/computer-science-bubble-ai/683242/",
+    "https://www.theguardian.com/money/2025/jun/25/uk-university-graduates-toughest-job-market-rise-of-ai",
+    "https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/",
+    "https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html",
+    "https://spectrum.ieee.org/ai-jobs-in-2025",
+    "https://en.wikipedia.org/wiki/Communications_of_the_ACM",
+    "https://www.wsj.com/business/the-biggest-companies-across-america-are-cutting-their-workforces-a0e8739a",
+    "https://hai.stanford.edu/ai-index/2025-ai-index-report",
+    "https://cacm.acm.org/blogcacm/should-universities-raise-or-lower-admission-requirements-for-cs-programs-in-the-age-of-genai/",
+    "https://www.pwc.com/gx/en/issues/artificial-intelligence/job-barometer/2025/report.pdf",
+    "https://www.en.wikipedia.org/wiki/Communications_of_the_ACM",
+    "https://www.hai.stanford.edu/ai-index/2025-ai-index-report",
+    "https://theguardian.com/money/2025/jun/25/uk-university-graduates-toughest-job-market-rise-of-ai",
+    "https://www.techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/",
+    "https://www.cacm.acm.org/blogcacm/should-universities-raise-or-lower-admission-requirements-for-cs-programs-in-the-age-of-genai/",
+    "https://wsj.com/business/the-biggest-companies-across-america-are-cutting-their-workforces-a0e8739a",
+    "https://theatlantic.com/economy/archive/2025/06/computer-science-bubble-ai/683242/",
+    "https://pwc.com/gx/en/issues/artificial-intelligence/job-barometer/2025/report.pdf",
+    "https://nytimes.com/2025/05/25/business/amazon-ai-coders.html",
+    "https://cacm.acm.org/blogcacm/should-universities-raise-or-lower-admission-requirements-for-cs-programs-in-the-age-of-genai",
+    "https://www.spectrum.ieee.org/ai-jobs-in-2025",
+    "https://www.theatlantic.com/economy/archive/2025/06/computer-science-bubble-ai/683242",
+    "https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T13:14:01.308+03:00",
+  "updated": "2025-06-26T10:18:26.000+00:00"
+}

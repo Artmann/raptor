@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "e1b753d1f1563d1c0d8811c08e6e8dba1652c3fe",
+    "url": "https://www.dailygazette.com/news/clifton-park-stabbing-arrests/article_7e6b90b6-0344-11ef-a95c-fb10268eab74.html",
+    "site_full": "www.dailygazette.com",
+    "site": "dailygazette.com",
+    "site_section": "https://dailygazette.com",
+    "site_categories": ["media"],
+    "section_title": "dailygazette.com",
+    "title": "Three charged in February Clifton Park teen's stabbing | News | dailygazette.com",
+    "title_full": "Three charged in February Clifton Park teen's stabbing | News | dailygazette.com",
+    "published": "2024-04-25T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/6/d5/6d5d12e4-6084-11ee-a6e4-db09fac67bca/6519b3f59fa5f.image.jpg?crop=798%2C419%2C0%2C0&amp;resize=798%2C419&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 17621,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e1b753d1f1563d1c0d8811c08e6e8dba1652c3fe",
+  "url": "https://www.dailygazette.com/news/clifton-park-stabbing-arrests/article_7e6b90b6-0344-11ef-a95c-fb10268eab74.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Steven Cook",
+  "published": "2024-04-25T08:00:00.000+03:00",
+  "title": "Three charged in February Clifton Park teen's stabbing | News | dailygazette.com",
+  "text": "CLIFTON PARK — Three people have been charged in connection with the February stabbing of a teen in Clifton Park, Saratoga County Sheriff's officials said. Investigators also arrested the teenage stabbing victim and two others in an earlier robbery and kidnapping case, officials said. That earlier case was the motivation behind the later stabbing, officials said. Arrested in the Feb. 20 stabbing was Coray A. Marrero, 19, of Queens, and two \"adolescent male offenders,\" officials said in a release. The three were charged with first-degree assault and first-degree gang assault. Officials did not name the adolescent offenders. Marrero was also charged with second-degree robbery. The adolescent offenders were arraigned and released to the custody of their guardians. Marrero was arrested April 19 and ordered held on bail, officials said. The stabbing victim, 16, was taken to Albany Medical Center, where he underwent emergency surgery for potentially life-threatening injuries, officials said. Regarding the earlier incident, investigators discovered the stabbing was in retaliation for a robbery that occurred at the Walmart in Halfmoon Feb. 13, a week before the stabbing, officials said. In that incident, a juvenile male was forced into a vehicle and robbed at gunpoint, officials said. The investigation there resulted in the arrest of 20-year-old Tyler J. Reed, 20, of Schenectady, one \"adolescent\" offender and one \"juvenile\" offender, officials said. Officials did not name the adolescent or juvenile, but indicated that one is the Clifton Park stabbing victim. All three face charges of first-degree robbery and second-degree kidnapping, officials said. Reed was charged in late February, arraigned Feb. 28 and ordered held on bail. The adolescent was arraigned and remanded to a secure detention facility in lieu of bail and the juvenile was arraigned and released to a guardian.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "clifton park",
+        "sentiment": "negative"
+      },
+      {
+        "name": "coray a. marrero",
+        "sentiment": "none"
+      },
+      {
+        "name": "marrero",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "clifton park",
+        "sentiment": "none"
+      },
+      {
+        "name": "saratoga county",
+        "sentiment": "none"
+      },
+      {
+        "name": "queens",
+        "sentiment": "none"
+      },
+      {
+        "name": "albany medical center",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:24:45.954+03:00",
+  "updated": "2024-04-26T03:03:09.407+03:00"
+}

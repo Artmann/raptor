@@ -1,0 +1,110 @@
+{
+  "thread": {
+    "uuid": "de6c2bf5ca0562430f4a4e39bce12fef2c5245b2",
+    "url": "https://www.barandbench.com/news/madhya-pradesh-high-court-compassionate-appointment-man-lost-parents-1994",
+    "site_full": "www.barandbench.com",
+    "site": "barandbench.com",
+    "site_section": "https://prod-qt-images.s3.amazonaws.com/production/barandbench/feed.xml",
+    "site_categories": ["law_government_and_politics", "legal_issues"],
+    "section_title": "Barandbench",
+    "title": "Madhya Pradesh High Court orders State to grant compassionate appointment to man who lost parents to accident in 1994",
+    "title_full": "Madhya Pradesh High Court orders State to grant compassionate appointment to man who lost parents to accident in 1994",
+    "published": "2023-12-29T03:20:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://media.assettype.com/barandbench%2F2022-06%2F76362092-ae04-4ef6-8a7a-fd092760c0e9%2F19.jpg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+    "performance_score": 0,
+    "domain_rank": 51547,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "de6c2bf5ca0562430f4a4e39bce12fef2c5245b2",
+  "url": "https://www.barandbench.com/news/madhya-pradesh-high-court-compassionate-appointment-man-lost-parents-1994",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Bar & Bench",
+  "published": "2023-12-29T03:20:00.000+02:00",
+  "title": "Madhya Pradesh High Court orders State to grant compassionate appointment to man who lost parents to accident in 1994",
+  "text": "The Madhya Pradesh High Court recently directed the State government to grant compassionate appointment to a man nearly thirty years after he lost his parents in a road accident [ Rohit Shukla v. The State of Madhya Pradesh ].\nLoading content, please wait... Madhya Pradesh High Court Compassionate Appointment",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Human Interest",
+    "Disaster and Accident",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [
+    "https://images.assettype.com/barandbench/2023-12/994cd073-6839-4218-82a6-5186bfd23bb6/Rohit_Shukla_v__The_State_of_Madhya_Pradesh.pdf",
+    "https://www.images.assettype.com/barandbench/2023-12/994cd073-6839-4218-82a6-5186bfd23bb6/Rohit_Shukla_v__The_State_of_Madhya_Pradesh.pdf"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "rohit shukla",
+        "sentiment": "none"
+      },
+      {
+        "name": "shukla",
+        "sentiment": "none"
+      },
+      {
+        "name": "vinay saraf",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "madhya pradesh high court",
+        "sentiment": "negative"
+      },
+      {
+        "name": "general administration department",
+        "sentiment": "none"
+      },
+      {
+        "name": "water resources department",
+        "sentiment": "none"
+      },
+      {
+        "name": "state of madhya pradesh",
+        "sentiment": "none"
+      },
+      {
+        "name": "court",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T09:27:16.396+02:00",
+  "updated": "2024-01-02T20:28:13.342+02:00"
+}

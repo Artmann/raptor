@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "f35eb44a600e16240bbda895aaaea93e0d6ee44f",
+    "url": "https://article.wn.com/view/2025/10/16/Bay_scallops_in_Virginia_were_extinct_Now_they_re_multiplyin/",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/environment",
+    "site_categories": ["media"],
+    "section_title": "World News - Environment",
+    "site_title": "World News",
+    "title": "Bay scallops in Virginia were extinct. Now, they're 'multiplying exponentially.' - Worldnews.com",
+    "title_full": "Bay scallops in Virginia were extinct. Now, they're 'multiplying exponentially.' - Worldnews.com",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 8219,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f35eb44a600e16240bbda895aaaea93e0d6ee44f",
+  "url": "https://article.wn.com/view/2025/10/16/Bay_scallops_in_Virginia_were_extinct_Now_they_re_multiplyin/",
+  "ord_in_thread": 0,
+  "author": "System",
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "Bay scallops in Virginia were extinct. Now, they're 'multiplying exponentially.' - Worldnews.com",
+  "text": "An “unprecedented resurgence” in bay scallops in Virginia could soon open the door for recreational fishing of the species, said scientists at William & Mary’s Batten School and the Virginia Institute of Marine Science. Until the 1930s, Virginia held a significant chunk of the scallop industry — even hosting the...\nread full story\n\"The next step for us is to review management and regulatory frameworks being used for harvest elsewhere and provide advice to the Virginia Marine Resources Commission to establish rules for Virginia, so that we don’t decimate the population we just restored,\"\nAsk about this article",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->animal", "Environment->conservation"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.dailypress.com/?p=7762025&preview=true&preview_id=7762025",
+    "https://dailypress.com/?p=7762025&preview=true&preview_id=7762025",
+    "https://www.dailypress.com/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Virginia Marine Resources Commission",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Virginia Institute of Marine Science",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "William & Mary’s Batten School",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:58:32.069+03:00",
+  "updated": "2025-10-16T16:05:51.000+03:00"
+}

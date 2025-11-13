@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "ee4e07475fcf677bed229ba402628819cf856623",
+    "url": "https://article.wn.com/view/2025/10/16/Economic_Watch_Chinas_outdoor_boom_turns_trails_into_green_g_m/",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/asia",
+    "site_categories": ["media"],
+    "section_title": "World News - Asia",
+    "site_title": "World News",
+    "title": "Economic Watch: China's outdoor boom turns trails into green gold - Worldnews.com",
+    "title_full": "Economic Watch: China's outdoor boom turns trails into green gold - Worldnews.com",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 8219,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ee4e07475fcf677bed229ba402628819cf856623",
+  "url": "https://article.wn.com/view/2025/10/16/Economic_Watch_Chinas_outdoor_boom_turns_trails_into_green_g_m/",
+  "ord_in_thread": 0,
+  "author": "System",
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "Economic Watch: China's outdoor boom turns trails into green gold - Worldnews.com",
+  "text": "BEIJING, Oct. 16 (Xinhua) -- Ranging from the hiking trails of the Qinghai-Tibet Plateau in western China to coastal camping sites, and from family-friendly forest adventures to recreational fishing, outdoor venues and activities have ignited consumer markets and spawned new industrial frontiers across China. More and...\nread full story\n\"Every step feels like walking through a landscape painting,\"\nAsk about this article",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Lifestyle and Leisure",
+    "Environment"
+  ],
+  "topics": [
+    "Economy, Business and Finance->economy",
+    "Economy, Business and Finance->tourism and leisure industry",
+    "Lifestyle and Leisure->outdoor recreational activities",
+    "Environment->nature",
+    "Environment->sustainability"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.china.org.cn/china/Off_the_Wire/2025-10/16/content_118127611.shtml",
+    "https://china.org.cn/china/Off_the_Wire/2025-10/16/content_118127611.shtml"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Xinhua",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "603888",
+            "exchange": "SHA"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:03:11.182+03:00",
+  "updated": "2025-10-16T15:12:55.000+03:00"
+}

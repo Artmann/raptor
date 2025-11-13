@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "36650224ec8c54d3fa2ece12b9abfa4f18f37f6e",
+    "url": "https://www.thenews.com.pk/print/1202607-pdma-ready-to-cope-with-monsoon-spell-says-minister",
+    "site_full": "www.thenews.com.pk",
+    "site": "thenews.com.pk",
+    "site_section": "https://www.thenews.com.pk",
+    "site_categories": ["media"],
+    "section_title": "The News International: Latest News Breaking, Pakistan News",
+    "title": "PDMA ready to cope with monsoon spell, says minister",
+    "title_full": "PDMA ready to cope with monsoon spell, says minister",
+    "published": "2024-06-22T19:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.thenews.com.pk/assets/uploads/akhbar/2024-06-23/l_1202607_013401_updates.jpg",
+    "performance_score": 0,
+    "domain_rank": 5057,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "36650224ec8c54d3fa2ece12b9abfa4f18f37f6e",
+  "url": "https://www.thenews.com.pk/print/1202607-pdma-ready-to-cope-with-monsoon-spell-says-minister",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Our Correspondent",
+  "published": "2024-06-22T19:00:00.000+03:00",
+  "title": "PDMA ready to cope with monsoon spell, says minister",
+  "text": "LAHORE: Provincial Health Minister and Chairman Cabinet Committee for Disaster Management Khawaja Salman Rafique said that all arrangements have been completed to cope with the monsoon spell....",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Health", "Politics", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "khawaja sa",
+        "sentiment": "negative"
+      },
+      {
+        "name": "ali kathia",
+        "sentiment": "none"
+      },
+      {
+        "name": "kh salman",
+        "sentiment": "none"
+      },
+      {
+        "name": "rafique",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "pdma",
+        "sentiment": "negative"
+      },
+      {
+        "name": "provincial health minister and chairman cabinet committee",
+        "sentiment": "negative"
+      },
+      {
+        "name": "provincial disaster management authority dg irfan",
+        "sentiment": "none"
+      },
+      {
+        "name": "provincial disaster management authority",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "lahore",
+        "sentiment": "none"
+      },
+      {
+        "name": "pakistan",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-22T23:42:10.891+03:00",
+  "updated": "2024-06-23T07:40:57.581+03:00"
+}

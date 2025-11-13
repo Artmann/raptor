@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "66fd8ea9285db8ca78bcecd77d7d1863d508b12f",
+    "url": "https://www.thecourierexpress.com/the_leader_vindicator/news/local/after-7-years-brady-tunnel-project-officially-complete/article_51c5b79d-0e8e-4840-a406-ec1739dbda5d.html",
+    "site_full": "www.thecourierexpress.com",
+    "site": "thecourierexpress.com",
+    "site_section": "https://news.google.com/search?q=after%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "thecourierexpress.com | Your trusted source for local news and more",
+    "title": "After 7 years, Brady Tunnel project officially complete | News | thecourierexpress.com",
+    "title_full": "After 7 years, Brady Tunnel project officially complete | News | thecourierexpress.com",
+    "published": "2025-10-16T14:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/thecourierexpress.com/content/tncms/custom/image/1402da32-6a0e-11ea-839c-db80a785bdc8.jpg?resize=600%2C315",
+    "performance_score": 0,
+    "domain_rank": 331404,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "66fd8ea9285db8ca78bcecd77d7d1863d508b12f",
+  "url": "https://www.thecourierexpress.com/the_leader_vindicator/news/local/after-7-years-brady-tunnel-project-officially-complete/article_51c5b79d-0e8e-4840-a406-ec1739dbda5d.html",
+  "ord_in_thread": 0,
+  "author": "Josh Walzak",
+  "published": "2025-10-16T14:00:00.000+03:00",
+  "title": "After 7 years, Brady Tunnel project officially complete | News | thecourierexpress.com",
+  "text": "BRADY TWP. – After seven years of perseverance, fundraising and construction, the long-awaited Brady Tunnel project has officially come to a close.\nIn early September, the final symbolic act was carried out as the solar light switch was flipped, marking a new era for trail connectivity, safety and community development in the region.\nThe Brady Tunnel, closed for three decades, now serves as a safe and vital link in Armstrong Trails’ 52.5-mile system. The tunnel’s reopening in November 2024 signifies the closure of Pennsylvania’s 60th “Top Ten Trail Gap,” cementing the state’s leadership in trail development and recreation. The tunnel helps create a continuous 100-mile passage (utilizing Armstrong Trails and Redbank Valley Trails) for hikers, cyclists and outdoor enthusiasts while boosting tourism and recreation driven economies.\n“This project shows what can happen when determination, partnerships, and community pride come together,” said Chris Ziegler. “The Brady Tunnel is more than stone, steel and light — it’s a tunnel to the future of Pennsylvania trails.”\nZiegler said that from the very beginning, the Brady Tunnel project was built with a strong commitment to local investment. The construction not only provided safe and reliable infrastructure for trail users but also generated measurable economic benefits for surrounding communities.\nCamber Corp. of Butler County supplied core construction services utilizing Cleveland-Cliffs steel. Francis J. Palo Construction of Clarion County contributed regional construction expertise. Young & Associates of Indiana County provided critical project support. Hey Electric of Butler County ensured that the tunnel’s solar-powered lighting system met modern safety standards while showcasing sustainable energy solutions.\nBy sourcing materials locally and working with regional contractors, the project infused dollars directly back into the communities it serves by supporting local jobs, businesses, and long-term economic stability, Ziegler said.\nZiegler also credited a number of partnerships formed during the long project. Key partners included the Pennsylvania Department of Conservation and Natural Resources; Pennsylvania Department of Transportation; Rails to Trails Conservancy through the Doppelt Family Grant; local, state and federal government officials and township partners; Armstrong Trails volunteers and community advocates.\n“Together, these partners not only fueled construction but also laid the groundwork for future projects by demonstrating the power of partnership between public agencies, private industry, nonprofits, and the community,” Ziegler said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Environment"],
+  "topics": [
+    "Economy, Business and Finance->construction and property",
+    "Economy, Business and Finance->business and market analysis",
+    "Environment->sustainability"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Chris Ziegler",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Redbank Valley Trails",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Brockway",
+        "St. Marys",
+        "Duboistown",
+        "DuBois",
+        "Clearfield",
+        "Weedville",
+        "Reynoldsville"
+      ],
+      "state": ["Pennsylvania"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:29:34.690+03:00",
+  "updated": "2025-10-16T14:42:59.000+03:00"
+}

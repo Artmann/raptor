@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "f683afe61ff284867cb05d3f3ff49f804b3c5e1c",
+    "url": "https://www.gazettelive.co.uk/whats-on/shopping/tesco-expansion-uk-stores-starts-28358340",
+    "site_full": "www.gazettelive.co.uk",
+    "site": "gazettelive.co.uk",
+    "site_section": "http://www.gazettelive.co.uk/news/?service=rss",
+    "site_categories": ["media"],
+    "section_title": "Teesside Live - News",
+    "title": "Tesco in expansion at UK stores and it starts 'from New Year's Day'",
+    "title_full": "Tesco in expansion at UK stores and it starts 'from New Year's Day'",
+    "published": "2023-12-29T02:01:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "https://i2-prod.gazettelive.co.uk/incoming/article18287249.ece/ALTERNATES/s1200/1_RBP_MAI_200715ALDI4319JPG.jpg",
+    "performance_score": 0,
+    "domain_rank": 17509,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f683afe61ff284867cb05d3f3ff49f804b3c5e1c",
+  "url": "https://www.gazettelive.co.uk/whats-on/shopping/tesco-expansion-uk-stores-starts-28358340",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "news@gazettemedia.co.uk (John Rogan-GAZ)",
+  "published": "2023-12-29T02:01:00.000+02:00",
+  "title": "Tesco in expansion at UK stores and it starts 'from New Year's Day'",
+  "text": "Tesco will be starting 2024 with an expansion of its Plant Chef range just in time for Veganuary. The chain is adding a number of extra products to its line of vegan-friendly products. The range will be online and will be rolling out in stores from 1 January, just in time for Veganuary The upgraded range features a whole host of fan favourite 100 per cent plant-based dishes, reports Birmingham Live. It features dishes inspired by food from the USA, India, Asia, and Mexico, including [Tesco](https://www.gazettelive.co.uk/all-about/tesco) Plant Chef Sweet Potato Katsu Style Curry and Tesco Plant Chef 2 Mexican Inspired Bean Burgers. - READ MORE: [GALLERY: Spandau Ballet star Martin Kemp transports fans back to 80s](https://www.gazettelive.co.uk/whats-on/whats-on-news/gallery/gallery-spandau-ballet-star-martin-28357006) - READ MORE: [Punters 'gutted' after much-loved pub announces closure date 'with a heavy heart'](https://www.gazettelive.co.uk/news/teesside-news/punters-gutted-after-much-loved-28353023) A new record was set for Veganuary in 2023, seeing over 700,000 global sign-ups. Plant Chef is not only designed for those already eating a vegan diet, but is also perfect for anyone looking to include more plant-based meals in their weekly routine, with a selection of convenient meals that don’t compromise on taste. The new range features an indulgent Tesco Plant Chef Meat Free Spaghetti Bolognese, which is packed full of lentils, plant protein and mushrooms, in a herby tomato and red wine sauce. And Tesco Plant Chef No-Beef Meatballs which are high in soya protein, with both flavours and seasoning designed to create the perfect addition to a bowl of pasta. The expanded range also brings a taste of other cuisines from around the world, including dishes inspired by food from the USA, India, Asia and Mexico. Indulge in comforting Southern Fried seasoning with the Tesco Plant Chef 2 Meat Free Southern Fried Fillets or add some heat with the Tesco Plant Chef Hot & Spicy No-Chicken Stripsand the Tesco Plant Chef Sweet Potato Katsu Style Curry. Tex Mex lovers can cook up the Tesco Plant Chef 2 Mexican Inspired Bean Burgers, for a dinner high in fibre and packed with veg. The Plant Chef range can help mix up mid-week dinners, with options like Tesco Plant Chef 2 Katsu Style Veggie Crispbakes and Tesco Plant Chef 4 Spicy Bean Burgers that are super-fast to cook. For breaking news in your area direct to your inbox every day, [go here](https://www.gazettelive.co.uk/newsletter-preference-centre/?view=Solus&mailingListId=662aa614-8be5-46b2-a390-4604a39921b4&utm_source=solusarticle) to sign up to our free newsletter",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Social Issue", "Economy, Business and Finance", "Health"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "curry",
+        "sentiment": "none"
+      },
+      {
+        "name": "martin kemp",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "tesco",
+        "sentiment": "negative"
+      },
+      {
+        "name": "mexican inspired bean burgers",
+        "sentiment": "none"
+      },
+      {
+        "name": "tesco plant chef",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "uk",
+        "sentiment": "none"
+      },
+      {
+        "name": "usa",
+        "sentiment": "none"
+      },
+      {
+        "name": "asia",
+        "sentiment": "none"
+      },
+      {
+        "name": "spandau ballet",
+        "sentiment": "none"
+      },
+      {
+        "name": "mexico",
+        "sentiment": "none"
+      },
+      {
+        "name": "india",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T02:31:49.910+02:00",
+  "updated": "2023-12-29T02:46:00.721+02:00"
+}

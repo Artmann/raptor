@@ -1,0 +1,114 @@
+{
+  "thread": {
+    "uuid": "2e8ab2b0872b40b858fc5c710e6dee3ef9a38675",
+    "url": "https://www.diaridetarragona.com/deportes/los-juniors-del-tennis-tarragona-campeones-de-catalunya-BD22740032",
+    "site_full": "www.diaridetarragona.com",
+    "site": "diaridetarragona.com",
+    "site_section": "https://www.diaridetarragona.com/deportes",
+    "site_categories": ["media", "top_news_es", "top_news"],
+    "section_title": "Deportes | Diari de Tarragona",
+    "title": "Los júniors del Tennis Tarragona, campeones de Catalunya",
+    "title_full": "Los júniors del Tennis Tarragona, campeones de Catalunya",
+    "published": "2025-01-24T00:32:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://www.diaridetarragona.com/binrepository/1200x829/0c144/1200d597/none/15017645/XAOQ/tennis-tarragona-juniors_241-2342151_20250123233136.jpg",
+    "performance_score": 0,
+    "domain_rank": 49967,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2e8ab2b0872b40b858fc5c710e6dee3ef9a38675",
+  "url": "https://www.diaridetarragona.com/deportes/los-juniors-del-tennis-tarragona-campeones-de-catalunya-BD22740032",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "francesc joan",
+  "published": "2025-01-24T00:32:00.000+02:00",
+  "title": "Los júniors del Tennis Tarragona, campeones de Catalunya",
+  "text": "El Club Tennis Tarragona ha comenzado de la mejor manera la temporada 2025 después de que su equipo júnior masculino se haya proclamado campeón de Catalunya de la categoría Or.\nLo consiguió en las pistas del Club Tennis Lleida, después de superar en la gran final al conjunto anfitrión en unos disputados duelos que sacaron adelante Izan Bofarull, Christian Santos, Pol Mas, Marc Castellví, Genís Ribas y Alejandro Marco.\nTodos ellos demostraron un magnífico nivel de juego y competitividad en todo el certamen, supervisados por el equipo técnico compuesto por Pedro, Alberto Gil y Marc Mas. Cabe recordar que el CTT ya se hizo en 2024 con el título de Catalunya infantil.\nComentarios",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->tennis",
+    "Human Interest->record and achievement",
+    "Lifestyle and Leisure->club and association"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Christian Santos",
+        "sentiment": "none"
+      },
+      {
+        "name": "Alejandro Marco",
+        "sentiment": "none"
+      },
+      {
+        "name": "Marc Castellví",
+        "sentiment": "none"
+      },
+      {
+        "name": "Izan Bofarull",
+        "sentiment": "none"
+      },
+      {
+        "name": "Alberto Gil",
+        "sentiment": "none"
+      },
+      {
+        "name": "Marc Mas",
+        "sentiment": "none"
+      },
+      {
+        "name": "Pedro",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Club Tennis Tarragona",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Club Tennis",
+        "sentiment": "none"
+      },
+      {
+        "name": "Catalunya",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:37:06.143+02:00",
+  "updated": "2025-01-24T00:37:06.143+02:00"
+}

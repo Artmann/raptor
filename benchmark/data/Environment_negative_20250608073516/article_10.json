@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "217386546b079a800daed72ea446d64fa6209b4c",
+    "url": "https://j.eastday.com/p/1746623919042585",
+    "site_full": "j.eastday.com",
+    "site": "eastday.com",
+    "site_section": "http://news.eastday.com/gd2008/yc/index.html",
+    "site_categories": [],
+    "section_title": "滚动新闻-原创-东方网",
+    "site_title": null,
+    "title": "受\"土台风\"影响，上海明后天将迎强风大雨，陆地最大阵风7-9级",
+    "title_full": "受\"土台风\"影响，上海明后天将迎强风大雨，陆地最大阵风7-9级",
+    "published": "2025-05-08T00:18:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4631,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "217386546b079a800daed72ea446d64fa6209b4c",
+  "url": "https://j.eastday.com/p/1746623919042585",
+  "ord_in_thread": 0,
+  "author": "孔文龙",
+  "published": "2025-05-08T00:18:00.000+03:00",
+  "title": "受\"土台风\"影响，上海明后天将迎强风大雨，陆地最大阵风7-9级",
+  "text": "受“土台风”影响，上海明后天将迎强风大雨，陆地最大阵风7-9级\n2025-05-07 21:18:45\n来源:\n[东方网·纵相新闻]今天（5月7日）上海多云到晴，全市大部分地区气温在22~26℃之间。明天受江淮气旋影响强风加大雨马上来袭。江淮气旋，被称为“土台风”，是指生长在长江中下游及淮河流域区域内，具有明显冷暖锋的气旋系统。它就像一个不停旋转的天气陀螺，是造成江淮地区暴雨的重要天气系统之一。一年四季都可以发生，以春季和初夏两季出现较多。 周四（5月8日）下午到周五上午，上海市将有一次强风和明显降水过程，西部和北部的局部地区暴雨，主要降水时段出现在周四傍晚到周五早晨，周四和周五陆地最大阵风7~9级。（东方网·纵相视频 孔文龙）",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment", "Social Issue"],
+  "topics": [
+    "Weather->weather warning",
+    "Weather->weather phenomena",
+    "Weather->weather forecast",
+    "Environment->climate change",
+    "Environment->natural resources",
+    "Social Issue->mankind",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T00:24:37.870+03:00",
+  "updated": "2025-05-07T21:31:13.000+00:00"
+}

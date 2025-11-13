@@ -1,0 +1,135 @@
+{
+  "thread": {
+    "uuid": "3bbee5be5a0626b9204f09cb7ddc98e1f4571293",
+    "url": "https://www.europapress.es/islas-canarias/noticia-endesa-inaugura-gran-canaria-primera-planta-solar-hibridada-sistema-baterias-litio-espana-20251016150849.html",
+    "site_full": "www.europapress.es",
+    "site": "europapress.es",
+    "site_section": "https://www.europapress.es/islas-canarias",
+    "site_categories": ["media", "top_news_es", "top_news_pe", "top_news"],
+    "section_title": "\r\n\tNoticias de Canarias hoy - EUROPA PRESS\r\n",
+    "site_title": "Europa Press -  Agencia de noticias",
+    "title": "Endesa inaugura en Gran Canaria su primera planta solar hibridada con sistema de baterías de litio en España",
+    "title_full": "Endesa inaugura en Gran Canaria su primera planta solar hibridada con sistema de baterías de litio en España",
+    "published": "2025-10-16T16:08:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://img.europapress.es/fotoweb/fotonoticia_20251016150849_1200.jpg",
+    "performance_score": 0,
+    "domain_rank": 4744,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3bbee5be5a0626b9204f09cb7ddc98e1f4571293",
+  "url": "https://www.europapress.es/islas-canarias/noticia-endesa-inaugura-gran-canaria-primera-planta-solar-hibridada-sistema-baterias-litio-espana-20251016150849.html",
+  "ord_in_thread": 0,
+  "author": "Europa Press Islas Canarias",
+  "published": "2025-10-16T16:08:00.000+03:00",
+  "title": "Endesa inaugura en Gran Canaria su primera planta solar hibridada con sistema de baterías de litio en España",
+  "text": "La instalación cuenta demás con el primer robot de limpieza de paneles solares en seco\nLAS PALMAS DE GRAN CANARIA, 16 Oct. (EUROPA PRESS) -\nEndesa ha inaugurado este jueves en la isla de Gran Canaria la planta solar de El Matorral, la primera hibridada con sistema de baterías de litio que tiene la compañía en España y que se ubica en el interior de la central térmica Barranco de Tirajana.\nSegún ha informado la eléctrica en un comunicado, la inauguración ha corrido de la mano del consejero de Transición Ecológica y Energía de Canarias, Mariano Hernández Zapata, junto al alcalde de San Bartolomé de Tirajana, Marco Aurelio Pérez, y al director de Endesa en Canarias, Pablo Casado.\nDe esta manera, la planta solar de El Matorral cuenta con una potencia instalada de 8,25 MW --el consumo anual medio de unos 3.000 hogares-- y con un sistema de baterías de ión-litio (BESS) de 4,2 MW (megavatios) de potencia capaces de mantener durante dos horas el consumo medio de unos 2.000 hogares.\nEste sistema de baterías constituye un sistema de respaldo eléctrico capaz de mejorar la robustez de la red, gracias a la tecnología grid forming, pionera en España.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->energy saving", "Environment->sustainability"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mariano Hernández Zapata",
+        "sentiment": "none"
+      },
+      {
+        "name": "Marco Aurelio Pérez",
+        "sentiment": "none"
+      },
+      {
+        "name": "Pablo Casado",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Gran Canaria",
+        "sentiment": "none"
+      },
+      {
+        "name": "Canarias",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "EUROPA PRESS",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Endesa",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "ELE",
+            "exchange": "BME"
+          }
+        ]
+      },
+      {
+        "name": "BESS",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_es", "top_news_pe", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:11:28.682+03:00",
+  "updated": "2025-10-17T17:09:58.000+03:00"
+}

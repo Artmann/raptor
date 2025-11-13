@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "f1935f152c04c06bb8421c62a7baffabd16c0285",
+    "url": "https://dunyanews.tv/en/Pakistan/891338-balochistan-cm-orders-suspension-of-salaries-for-absent-teachers",
+    "site_full": "dunyanews.tv",
+    "site": "dunyanews.tv",
+    "site_section": "https://dunyanews.tv/en/world",
+    "site_categories": ["media"],
+    "section_title": "Dunya News: ",
+    "site_title": "Dunya News - Latest News, Pakistan News, World News, Sports News and Videos",
+    "title": "Balochistan CM orders suspension of salaries for absent teachers",
+    "title_full": "Balochistan CM orders suspension of salaries for absent teachers",
+    "published": "2025-06-06T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://img.dunyanews.tv/news/2025/June/06-26-25/news_big_images/891338_98375083.jpg",
+    "performance_score": 0,
+    "domain_rank": 35381,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f1935f152c04c06bb8421c62a7baffabd16c0285",
+  "url": "https://dunyanews.tv/en/Pakistan/891338-balochistan-cm-orders-suspension-of-salaries-for-absent-teachers",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-06T03:00:00.000+03:00",
+  "title": "Balochistan CM orders suspension of salaries for absent teachers",
+  "text": "Balochistan CM orders suspension of salaries for absent teachers\nPakistan\nThe CM further ordered that no employee union or association should be allowed to lock offices.\nQUETTA (Dunya News) – Balochistan Chief Minister Mir Sarfraz Bugti has taken notice of the continuously absent teachers and ordered that their salaries be withheld.\nThe CM has directed the Education Department to provide details of those who have been negligent in performing their duties.\nBugti stated that teachers who remain absent without notice should be issued show-cause notices within a week. If they fail to provide a satisfactory response, new teachers will be hired on a contractual basis in their place.\nThe CM further ordered that no employee union or association should be allowed to lock offices.\nOfficials must conduct field visits to ensure attendance and continuously monitor performance.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education"],
+  "topics": ["Education->state school", "Education->teachers"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mir Sarfraz Bugti",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Balochistan",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T10:43:34.068+03:00",
+  "updated": "2025-06-26T07:46:07.000+00:00"
+}

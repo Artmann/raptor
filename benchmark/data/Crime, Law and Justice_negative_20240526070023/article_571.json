@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "652c71a0cf9f9895f533133457ff6b186279df8f",
+    "url": "https://www.wxyz.com/news/local-news/commerce-man-charged-in-connection-to-clinton-township-explosion",
+    "site_full": "www.wxyz.com",
+    "site": "wxyz.com",
+    "site_section": "http://baseball.einnews.com/live_feed",
+    "site_categories": ["media"],
+    "section_title": "Live Feed Wire - Baseball News Today - EIN Presswire",
+    "title": "Commerce man charged in connection to deadly Clinton Township explosion",
+    "title_full": "Commerce man charged in connection to deadly Clinton Township explosion",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ewscripps.brightspotcdn.com/dims4/default/54fdb84/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2F825%2Fbe88c4e651db4a7dbe102614d7272948%2F8254a7b39a194813b860f5cdd212f7d8%2Fposter_ff0f607f1da14d55961bc21fe394fcf5.jpg",
+    "performance_score": 0,
+    "domain_rank": 7547,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 57,
+        "comments": 6,
+        "shares": 8
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "652c71a0cf9f9895f533133457ff6b186279df8f",
+  "url": "https://www.wxyz.com/news/local-news/commerce-man-charged-in-connection-to-clinton-township-explosion",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Kellen Voss",
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "Commerce man charged in connection to deadly Clinton Township explosion",
+  "text": "MT. CLEMENS, Mich. (WXYZ) — A 31-year-old Commerce man has been charged and arraigned after last month's deadly explosion in a Clinton Twp building. VIDEO: Chopper video shows aftermath of massive fire and explosion in Clinton Township Investigators say that the building, owned and operated by Noor Noel Kestou, exploded because of thousands of cans of Nitrous oxide and butane stored in the building. A 19-year-old man died in that explosion after being struck in the head by a Nitrous oxide canister. The explosion happened in March, with the field investigation on the incident being delayed until this month . The Macomb County Prosecutor says that Kestou has been charged with Involuntary Manslaughter, a 15-year felony. He was arraigned today in District Court, with a bond set at $500,000 cash/surety only. \"Our hearts ache for the family and loved ones of the young man whose life was tragically cut short by this devastating explosion,\" said Macomb County Prosecutor Peter J. Lucido in a release announcing the arraignment. \"We are steadfast in our commitment to pursuing justice and holding the individual accountable for their actions.\" Lucido and other officials will talk to the media about the charges at a press conference tomorrow morning.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "kestou",
+        "sentiment": "none"
+      },
+      {
+        "name": "peter j. lucido",
+        "sentiment": "none"
+      },
+      {
+        "name": "noor noel kestou",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "commerce",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "mich.",
+        "sentiment": "none"
+      },
+      {
+        "name": "mt. clemens",
+        "sentiment": "none"
+      },
+      {
+        "name": "clinton township",
+        "sentiment": "none"
+      },
+      {
+        "name": "macomb county",
+        "sentiment": "none"
+      },
+      {
+        "name": "clinton twp",
+        "sentiment": "none"
+      },
+      {
+        "name": "clinton township investigators",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:25:24.492+03:00",
+  "updated": "2024-04-26T09:32:29.824+03:00"
+}

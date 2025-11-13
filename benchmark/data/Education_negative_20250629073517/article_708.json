@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "2fe5b237b46b1d70e161cf21b134d8e9ba6ea89b",
+    "url": "https://www.abendblatt.de/schleswig-holstein/stormarn/article409348301/social-media-verbot-duerfen-schueler-bald-gar-nichts-mehr.html",
+    "site_full": "www.abendblatt.de",
+    "site": "abendblatt.de",
+    "site_section": "https://abendblatt.de/?cmpscreencustom",
+    "site_categories": ["media", "top_news_de", "top_news"],
+    "section_title": "Nachrichten aus Hamburg und der Welt - Hamburger Abendblatt",
+    "site_title": "Nachrichten aus Hamburg und der Welt - Hamburger Abendblatt",
+    "title": "Stormarn: Social-Media-Verbot - Dürfen Schüler bald gar nichts mehr?",
+    "title_full": "Stormarn: Social-Media-Verbot - Dürfen Schüler bald gar nichts mehr?",
+    "published": "2025-06-26T14:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://img.sparknews.funkemedien.de/409354868/409354868_1750867597_v16_9_1600.jpeg",
+    "performance_score": 0,
+    "domain_rank": 6575,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2fe5b237b46b1d70e161cf21b134d8e9ba6ea89b",
+  "url": "https://www.abendblatt.de/schleswig-holstein/stormarn/article409348301/social-media-verbot-duerfen-schueler-bald-gar-nichts-mehr.html",
+  "ord_in_thread": 0,
+  "author": "Volker Gast",
+  "published": "2025-06-26T14:00:00.000+03:00",
+  "title": "Stormarn: Social-Media-Verbot - Dürfen Schüler bald gar nichts mehr?",
+  "text": "Ahrensburg. Initiative der Bundesbildungsministerin sorgt für Protest aus Stormarn. Schulalltag könnte sich drastisch ändern. Das sind die Fakten.\nTextToSpeechModule\nAhrensburg. Initiative der Bundesbildungsministerin sorgt für Protest aus Stormarn. Schulalltag könnte sich drastisch ändern. Das sind die Fakten.\nKennen Sie schon unsere PLUS-Inhalte?\n Jetzt\nAbendblatt\ntesten",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Politics"],
+  "topics": [
+    "Education->students",
+    "Education->teachers",
+    "Education->school",
+    "Social Issue->teenagers",
+    "Social Issue->social services",
+    "Social Issue->social networking",
+    "Politics->political development",
+    "Politics->education policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Ahrensburg",
+        "sentiment": "none"
+      },
+      {
+        "name": "Stormarn",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:14:05.175+03:00",
+  "updated": "2025-06-27T12:08:00.000+00:00"
+}

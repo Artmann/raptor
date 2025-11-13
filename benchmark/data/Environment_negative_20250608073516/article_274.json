@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "adcc3912d4e5146d94d014e903c69927d30a17d3",
+    "url": "https://regnum.ru/news/3963691",
+    "site_full": "regnum.ru",
+    "site": "regnum.ru",
+    "site_section": "https://regnum.ru/rss",
+    "site_categories": ["media", "top_news_ru", "top_news"],
+    "section_title": "Информационное Агентство REGNUM",
+    "site_title": "Новости России, СНГ и мира - ИА REGNUM",
+    "title": "Жители Дальнереченска пожаловались, что из кранов льется вода цвета чая",
+    "title_full": "Жители Дальнереченска пожаловались, что из кранов льется вода цвета чая",
+    "published": "2025-05-08T01:58:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://regnum.ru/social/article/3963691/t/1746658805/cover.jpg",
+    "performance_score": 0,
+    "domain_rank": 5949,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "adcc3912d4e5146d94d014e903c69927d30a17d3",
+  "url": "https://regnum.ru/news/3963691",
+  "ord_in_thread": 0,
+  "author": "Некачественная вода",
+  "published": "2025-05-08T01:58:00.000+03:00",
+  "title": "Жители Дальнереченска пожаловались, что из кранов льется вода цвета чая",
+  "text": "Жители Дальнереченска Приморского края пожаловались на то, что вода, которая течет в квартирах в смесителях, имеет чайный цвет. Об этом 7 мая сообщил Telegram-канале Amur Mash.Пока вода бежит из крана, кажется, будто она чистая. Если же набрать ее в кружку, то выглядит так, будто там заваренный черный чай.\nОтмечается, что месяц назад в городе уже была подобная проблема с водоснабжением. В деле разбиралась прокуратура. Несмотря на это, история повторяется.\nКак передавало ИА Регнум , в сентябре 2024 года многие жители Кабардино-Балкарии отравились некачественной водой. За медицинской помощью с признаками отравления обратились 212 человек . В 70% жалобы поступали от детей и подростков.\nСреди обращений на прямую линию президенту РФ Владимиру Путину , прошедшей в декабре, вопрос о качестве водопроводной воды был одним из наиболее популярных .\n\",\"author\":\"ИА REGNUM\",\"dateline\":\"Приморский край, Дальневосточный ФО, Дальнереченск\",\"image\":\"https://cdn.regnum.ru/uploads/pictures/news/2022/11/29/regnum_picture_16697496925281_big.jpg\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"ИА REGNUM\",\"telephone\":\"+74956458075\",\"email\":\"info@regnum.ru\",\"image\":\"https://regnum.ru/regnum_logo.png\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://regnum.ru/regnum_logo.png\",\"width\":60,\"height\":60},\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"г. Москва, Партийный переулок, д.1, к. 57, стр.1\",\"postalCode\":\"115093\",\"addressLocality\":\"Москва, Россия\"}}}",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Health"],
+  "topics": [
+    "Environment->water pollution",
+    "Environment->environmental pollution",
+    "Social Issue->communities",
+    "Social Issue->discrimination",
+    "Social Issue->social problem",
+    "Health->public health"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://vk.com/rtrg?p=VK-RTRG-398479-5TeVt",
+    "https://mc.yandex.ru/watch/30593522",
+    "https://www.mc.yandex.ru/watch/30593522",
+    "https://vk.com/rtrg",
+    "https://www.vk.com/rtrg?p=VK-RTRG-398479-5TeVt"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:02:22.994+03:00",
+  "updated": "2025-05-08T00:04:55.000+00:00"
+}

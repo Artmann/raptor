@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "a8110d6e218ea3819233d855b93695ca8e37b041",
+    "url": "https://calendar.duke.edu/show.html?fq=id:CAL-8a00ec8b-979413b9-0198-d329c557-0000023bdemobedework@mysite.edu",
+    "site_full": "calendar.duke.edu",
+    "site": "duke.edu",
+    "site_section": "http://calendar.duke.edu/events/index.rss",
+    "site_categories": ["education"],
+    "section_title": "Duke Event Calendar",
+    "site_title": null,
+    "title": "Advancement and Translation of Sensory Neuroprosthetics with Loren Rieth",
+    "title_full": "Advancement and Translation of Sensory Neuroprosthetics with Loren Rieth",
+    "published": "2025-09-18T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 2350,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a8110d6e218ea3819233d855b93695ca8e37b041",
+  "url": "https://calendar.duke.edu/show.html?fq=id:CAL-8a00ec8b-979413b9-0198-d329c557-0000023bdemobedework@mysite.edu",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T03:00:00.000+03:00",
+  "title": "Advancement and Translation of Sensory Neuroprosthetics with Loren Rieth",
+  "text": "Advancement and Translation of Sensory Neuroprosthetics with Loren Rieth\nand\nDuke Seminars in Neural Engineering Presents \"Advancement and Translation of Sensory Neuroprosthetics\" with Loren Rieth of West Virginia University. Hosted by Warren Grill.\n, , and\nContact:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Health", "Education"],
+  "topics": [
+    "Science and Technology->biomedical science",
+    "Science and Technology->scientific publication",
+    "Science and Technology->medical research",
+    "Health->medical specialisation",
+    "Health->health care approach",
+    "Health->medical profession",
+    "Education->educational testing and examinations",
+    "Education->college and university"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Loren Rieth",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "West Virginia University",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:19:41.702+03:00",
+  "updated": "2025-09-18T09:25:26.000+03:00"
+}

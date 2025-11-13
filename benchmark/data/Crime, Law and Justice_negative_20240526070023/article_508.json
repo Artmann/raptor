@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "2342725e738a8be8a0bfda04da8f9e47acb8b860",
+    "url": "https://www.arcamax.com/currentnews/newsheadlines/s-3219866",
+    "site_full": "www.arcamax.com",
+    "site": "arcamax.com",
+    "site_section": "https://arcamax.com/news",
+    "site_categories": ["media"],
+    "section_title": "News | ArcaMax Publishing",
+    "title": "Supreme Court sounds conflicted over Trump criminal immunity | News & Features | ArcaMax Publishing",
+    "title_full": "Supreme Court sounds conflicted over Trump criminal immunity | News & Features | ArcaMax Publishing",
+    "published": "2024-04-25T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://resources.arcamax.com/newspics/286/28684/2868474.gif",
+    "performance_score": 0,
+    "domain_rank": 40847,
+    "domain_rank_updated": "2024-04-23T13:07:55.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2342725e738a8be8a0bfda04da8f9e47acb8b860",
+  "url": "https://www.arcamax.com/currentnews/newsheadlines/s-3219866",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "ArcaMax Publishing, Inc.",
+  "published": "2024-04-25T08:00:00.000+03:00",
+  "title": "Supreme Court sounds conflicted over Trump criminal immunity | News & Features | ArcaMax Publishing",
+  "text": "Supreme Court sounds conflicted over Trump criminal immunity Published in [News & Features](/currentnews/newsheadlines/) WASHINGTON — The Supreme Court appeared conflicted over how to handle Donald Trump’s claim that his presidency shielded him from federal prosecution during oral arguments Thursday in a case almost certain to shape this year’s presidential campaign. The justices explored the breadth of the criminal case alleging Trump masterminded an effort to overturn the 2020 election, the most high-profile case of the court’s term because it could determine whether he will face trial before the November election. Across nearly three hours, justices on the conservative-controlled court drilled into the arguments on both sides and did not appear to unite around a single decision. As much as the justices seemed to agree there are some actions for which a president could not be charged, they appeared aligned that a president would not have absolute immunity as Trump had argued. They repeatedly mused on complicated constitutional questions and ways to handle the case. Several times justices raised the possibility that they would remand the case to the district court for further decisions on legal questions —an outcome that likely would delay the trial for the former president and current presumed Republican presidential nominee. The justices are set to issue the decision in the case by the conclusion of the court’s term at the end of June. Trump wants the court to overturn a unanimous decision by a three-judge panel of the U.S. Court of Appeals for the District of Columbia Circuit that found Trump did not have immunity from criminal charges and that any criminal immunity that applied to a current president would not apply to a former one. Justices on the liberal wing of the court uniformly pushed back on Trump’s arguments for absolute immunity from prosecution; those on the conservative majority repeatedly questioned how much the precedent set by Trump’s case would be open to abuse in the future. Trump attorney D. John Sauer agreed that former presidents could face prosecution for purely private acts, ones that were not tied to official presidential actions. And Michael Dreeben, attorney on behalf of special counsel John L. “Jack” Smith, said there were some acts so “core” to the president’s powers such as pardons that Congress could not criminalize. “This case has huge implications for the presidency, the future of the presidency and the future of the country, in my view,” Justice Brett M. Kavanaugh said to Dreeben at one point. ...continued ©2024 CQ-Roll Call, Inc., All Rights Reserved. Visit cqrollcall.com. Distributed by Tribune Content Agency, LLC. Comments blog comments powered by Disqus",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": ["http://disqus.com", "http://www.disqus.com"],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "donald trump",
+        "sentiment": "none"
+      },
+      {
+        "name": "trump",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "supreme court",
+        "sentiment": "negative"
+      },
+      {
+        "name": "trump",
+        "sentiment": "negative"
+      },
+      {
+        "name": "| news & features | arcamax publishing supreme court",
+        "sentiment": "negative"
+      },
+      {
+        "name": "[news & features",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:22:39.318+03:00",
+  "updated": "2024-04-26T00:22:39.318+03:00"
+}

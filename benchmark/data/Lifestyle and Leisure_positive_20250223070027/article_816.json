@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "fafd43f275ba074eeb052259cc05e5c09138f09e",
+    "url": "https://sportnews.shafaqna.com/EN/AL/1357519",
+    "site_full": "sportnews.shafaqna.com",
+    "site": "shafaqna.com",
+    "site_section": "https://sportnews.shafaqna.com/rss.xml",
+    "site_categories": ["sports", "top_news_iq", "top_news"],
+    "section_title": "International Sport News | ",
+    "title": "Hodgkinson voted Sunday Times Sportswoman of the Year",
+    "title_full": "Hodgkinson voted Sunday Times Sportswoman of the Year",
+    "published": "2025-01-23T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "VN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 30738,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fafd43f275ba074eeb052259cc05e5c09138f09e",
+  "url": "https://sportnews.shafaqna.com/EN/AL/1357519",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2025-01-23T02:00:00.000+02:00",
+  "title": "Hodgkinson voted Sunday Times Sportswoman of the Year",
+  "text": "BBC - 33 minutes ago Hodgkinson voted Sunday Times Sportswoman of the Year Olympic 800m gold medallist Keely Hodgkinson is voted the 2024 Sunday Times Sportswoman of the Year.\nRead on the original site",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->sports honour",
+    "Sport->olympic games",
+    "Sport->sport achievement",
+    "Human Interest->award and prize",
+    "Lifestyle and Leisure->exercise and fitness"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://bbc.com/sport/athletics/articles/cvgmnxrdpx7o",
+    "https://www.bbc.com/sport/athletics/articles/cvgmnxrdpx7o"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Keely Hodgkinson",
+        "sentiment": "neutral"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "BBC",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:36:04.732+02:00",
+  "updated": "2025-01-24T00:36:04.732+02:00"
+}

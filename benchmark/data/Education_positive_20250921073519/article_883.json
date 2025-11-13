@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "2a0497e38b8083fc78d77b553d4b1eb0dafcff5e",
+    "url": "https://events.tku.edu.tw/MediaDetail.cshtml?sn=34264",
+    "site_full": "events.tku.edu.tw",
+    "site": "tku.edu.tw",
+    "site_section": "https://events.tku.edu.tw/media.cshtml",
+    "site_categories": [],
+    "section_title": " 淡江大小事",
+    "site_title": null,
+    "title": "從競賽到能力檢定 達明機器人助攻產學接軌--媒體報導--淡江大小事 淡江大小事",
+    "title_full": "從競賽到能力檢定 達明機器人助攻產學接軌--媒體報導--淡江大小事 淡江大小事",
+    "published": "2025-09-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 31405,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2a0497e38b8083fc78d77b553d4b1eb0dafcff5e",
+  "url": "https://events.tku.edu.tw/MediaDetail.cshtml?sn=34264",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-16T03:00:00.000+03:00",
+  "title": "從競賽到能力檢定 達明機器人助攻產學接軌--媒體報導--淡江大小事 淡江大小事",
+  "text": "刊登時間 2025-09-16\n 報導來源連結\n由達明（4585）機器人主辦的「第四屆全國智慧製造應用競賽」於南港展覽館圓滿落幕。今年比賽再度聚焦「AI × 產業應用」，吸引全台逾百組隊伍參賽，展現新世代人才如何運用人工智慧解決實際產業痛點，最終由台灣大學電機系與淡江大學分別提出兼具創新與落地價值的方案，脫穎而出。 台灣大學電機系 ─ 渦電流檢測技術，該團隊結合視覺辨識與機械手臂操作，可同時完成工件檢測，大幅縮短檢測時間並降低人力成本。此方案直接回應製造業在檢測效率不足與人力缺口的挑戰，應用領域涵蓋金屬加工與航太產業。 淡江大學 ─ AI 智慧藥局展示（金獎），團隊運用NVIDIA Isaac Sim進行虛實路徑規劃，讓AI辨識藥罐位置並處理藥單資料庫，並搭配藥師複檢，展現藥房自動化與人機協作的潛力。此方案有助於提升醫療藥局效率並降低人為錯誤率，為醫療產業開啟新可能。 目前，全國已有超過50%的高職學校，以及80%以上的大專院校設立「達明機器人AI中心」，成為技職教育推動的重要引擎。 達明機器人表示，未來將持續透過競賽及TM Academy訓練中心深化人才培育，並於今年正式推出「AI 協作型機器人能力檢定」。此檢定涵蓋初級、中級至高級課程，完整模擬真實產業場景，幫助學員循序漸進掌握專業技能。 此外，初階檢定將與全台AI中心合作，讓學生在校園即可取得專業認證，透過實際操作累積實戰經驗，成為能即刻投入產業的優秀人才。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chineset",
+  "sentiment": "positive",
+  "categories": ["Education", "Science and Technology", "Social Issue"],
+  "topics": [
+    "Education->college and university",
+    "Education->vocational education",
+    "Education->students",
+    "Science and Technology->biotechnology",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering",
+    "Social Issue->demographics",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://udn.com/news/story/7241/9008960",
+    "https://www.udn.com/news/story/7241/9008960"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:13:56.068+03:00",
+  "updated": "2025-09-18T09:19:28.000+03:00"
+}

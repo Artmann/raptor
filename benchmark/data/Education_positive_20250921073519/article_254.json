@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "35819dd39e7cc0394632ef6c81352266dbc002f6",
+    "url": "https://www.9news.com/article/news/local/centaurus-marching-warriors-band/73-d1e92e99-873e-47a4-add6-6eec4981de93",
+    "site_full": "www.9news.com",
+    "site": "9news.com",
+    "site_section": "https://news.google.com/search?q=through%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "Denver&#x27;s Leading Local News: Weather, Traffic, Sports and more | Denver, Colorado | 9news.com",
+    "title": "Centaurus High School marching band thrives on parent support | 9news.com",
+    "title_full": "Centaurus High School marching band thrives on parent support | 9news.com",
+    "published": "2025-09-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.9news.com/assets/KUSA/images/cbb8876e-60fe-43d9-b22c-387a2e250b33/20250916T205057/cbb8876e-60fe-43d9-b22c-387a2e250b33_1140x641.jpg",
+    "performance_score": 0,
+    "domain_rank": 13783,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "35819dd39e7cc0394632ef6c81352266dbc002f6",
+  "url": "https://www.9news.com/article/news/local/centaurus-marching-warriors-band/73-d1e92e99-873e-47a4-add6-6eec4981de93",
+  "ord_in_thread": 0,
+  "author": "Byron Reed",
+  "published": "2025-09-16T03:00:00.000+03:00",
+  "title": "Centaurus High School marching band thrives on parent support | 9news.com",
+  "text": "LAFAYETTE, Colo. — High school marching bands across Colorado were preparing for another competitive season with the crucial support of parent volunteers who handle everything from fundraising to equipment management, helping students overcome financial challenges while building lasting communities.\nAt Centaurus High School, the Marching Warriors' 90-member band relies on their parent booster club, which manages a budget of approximately $190,000 while receiving only $2,200 from the school district, said Lori Winslow, president of the Centaurus High School Parent Booster Club.\n\"Marching band is funded half by contributions from the students' families, and then the other half we fundraise through general fundraisers,\" Winslow said.\nThe extensive volunteer effort requires significant manpower.\n\"It'll take anywhere between 25 and 60 volunteers to get the kids on the field\" at any competition, Winslow said.\nBand Director Aaron Vogelsberg credits parent involvement as essential to the program's success.\n\"I take a lot of pride in the Centaurus band boosters,\" Vogelsberg said. \"I feel like we have such a high involvement from our parents to help support their kids on the field because this activity can't exist without the parents' help. If the parents are not there to push equipment, to cook the food, to kind of be the arms and legs of the program, the kids never really see their potential.\"\nThe support extends beyond logistics. Parent volunteer Regina Swanson, whose daughter Ren is a senior in the program, contributes about 130 hours annually helping with props and uniforms and with supervising the color guard.\n\"They're always there for whatever we need, especially if the staff can't get to it,\" said Ren Swanson about the parent volunteers.\nFor Regina Swanson, the time commitment is worthwhile.\n\"Getting to see the kids grow and learn and their interactions and social connections are awesome and their sense of accomplishment at state when they go and put a fantastic product on the field ... it's just awesome,\" she said.\nAt Centaurus, senior Georgia Herrmann noted how the experience builds essential life skills.\n\"I would say a lot of like leadership and team-building stuff really transfers of like having to work together for a lot of stuff,\" she said.\nCentaurus recently completed intensive two-week summer band camps despite challenging weather conditions, including triple-digit temperatures and wildfire smoke affecting Colorado.\nLast year, Centaurus placed fifth at the 5A state finals. As the competitive season approaches, the program demonstrates how community support and dedication can help students overcome resource limitations while building skills that extend far beyond music.\n“That's the ultimate goals that they see these short-term and long-term goals coming to fruition and come true and go, 'You know what? I can be a successful person, and I can use these skills in every facet of my life.' That’s the hope,” Vogelsberg said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Education", "Social Issue"],
+  "topics": [
+    "Human Interest->graduation",
+    "Education->parents group",
+    "Education->school",
+    "Education->students",
+    "Social Issue->parenting",
+    "Social Issue->communities",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Aaron Vogelsberg",
+        "sentiment": "none"
+      },
+      {
+        "name": "Lori Winslow",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Centaurus High School Parent Booster Club",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Thornton",
+        "Altona",
+        "Denver",
+        "Matheson",
+        "Four Square Mile",
+        "North Washington"
+      ],
+      "state": ["Colorado"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:02:34.353+03:00",
+  "updated": "2025-09-18T08:11:19.000+03:00"
+}

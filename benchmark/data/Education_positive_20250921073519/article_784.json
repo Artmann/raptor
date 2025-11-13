@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "29afac5700dfa265567676ef5074a7ef9788d592",
+    "url": "https://health.ltn.com.tw/article/breakingnews/5182421",
+    "site_full": "health.ltn.com.tw",
+    "site": "ltn.com.tw",
+    "site_section": "https://www.ltn.com.tw/",
+    "site_categories": [
+      "media",
+      "top_news_hk",
+      "top_news_nz",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "自由時報電子報",
+    "site_title": null,
+    "title": "桃市「新住民月嫂人才培訓班」結訓 盼完善孕產照護服務",
+    "title_full": "桃市「新住民月嫂人才培訓班」結訓 盼完善孕產照護服務",
+    "published": "2025-09-18T08:55:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://img.ltn.com.tw/Upload/health/page/800/2025/09/18/5182421_2.jpg",
+    "performance_score": 0,
+    "domain_rank": 12237,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "29afac5700dfa265567676ef5074a7ef9788d592",
+  "url": "https://health.ltn.com.tw/article/breakingnews/5182421",
+  "ord_in_thread": 0,
+  "author": "自由時報電子報",
+  "published": "2025-09-18T08:55:00.000+03:00",
+  "title": "桃市「新住民月嫂人才培訓班」結訓 盼完善孕產照護服務",
+  "text": "桃市「新住民月嫂人才培訓班」結訓 盼完善孕產照護服務\n〔記者周敏鴻／桃園報導〕桃園市婦幼發展局委託社團法人桃園市保母協會辦理「新住民月嫂人才培訓班」，37位學員經過1個半月的課程，順利結業，婦幼局長杜慈容說，社會對專業產後照護與嬰幼兒托育的需求提升，推動新住民月嫂人才培訓，能協助新住民提升就業競爭力，也有助孕產照護服務更完善。\n新住民月嫂人才培訓班課程包括托育人員126小時培訓課程，以及產婦護理、產後膳食調理製作、就業市場分析與求職技巧、性別平等教育與多元文化認識等，配合實作演練讓學員們能掌握月嫂專業知能。\n今（18）天的結訓成果展中，學員們烹煮了豬腳薑醋、越南春捲、越南控肉、越南果凍、黑豆酒、薑黃飯、巴東牛肉等多元文化料理，展現跨文化交流，讓每一位學員都能感受不同飲食文化的魅力。\n☆健康新聞不漏接，按讚追蹤粉絲頁。\n☆更多重要醫藥新聞訊息，請上自由健康網。\n免費訂閱《自由體育》電子報\n熱門賽事、球星動態不漏接\n發燒新聞\n網友回應",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chineset",
+  "sentiment": "positive",
+  "categories": ["Health", "Education", "Human Interest"],
+  "topics": [
+    "Health->health care approach",
+    "Health->health organisation",
+    "Health->health treatment and procedure",
+    "Education->vocational education",
+    "Education->early childhood education",
+    "Education->adult and continuing education",
+    "Human Interest->graduation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.facebook.com/healthLTN/",
+    "https://www.facebook.com/healthLTN",
+    "https://facebook.com/healthLTN/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_hk", "top_news_nz", "top_news_tw", "top_news"],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:00:32.364+03:00",
+  "updated": "2025-09-19T09:07:01.000+03:00"
+}

@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "ce0ae8b45dab7a51b62796e8737664588b27f568",
+    "url": "https://www.hammondstar.com/news/slu-to-host-family-day-on-nov-1/article_b5d63066-e695-539d-8fce-84152695e6b1.html",
+    "site_full": "www.hammondstar.com",
+    "site": "hammondstar.com",
+    "site_section": "https://www.hammondstar.com",
+    "site_categories": ["media", "sports"],
+    "section_title": "hammondstar.com",
+    "site_title": "hammondstar.com",
+    "title": "SLU to host Family Day on Nov. 1 | News | hammondstar.com",
+    "title_full": "SLU to host Family Day on Nov. 1 | News | hammondstar.com",
+    "published": "2025-09-18T07:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/hammondstar.com/content/tncms/custom/image/b9c62802-d495-11e9-bdf1-0bb68a0f04ef.jpg?resize=600%2C315",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ce0ae8b45dab7a51b62796e8737664588b27f568",
+  "url": "https://www.hammondstar.com/news/slu-to-host-family-day-on-nov-1/article_b5d63066-e695-539d-8fce-84152695e6b1.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T07:00:00.000+03:00",
+  "title": "SLU to host Family Day on Nov. 1 | News | hammondstar.com",
+  "text": "HAMMOND – Southeastern Louisiana University is hosting a day for university students and their families to come together for fun and celebration as the university commemorates its 100th anniversary.\nScheduled Nov. 1 at 1:30 p.m. at Friendship Circle on campus, the event will offer a chance to experience life at Southeastern, from cheering on the Lions at the football game, to enjoying a festive tailgate and participating in interactive campus activities.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education"],
+  "topics": [
+    "Education->college and university",
+    "Education->parents group",
+    "Education->students"
+  ],
+  "ai_allow": false,
+  "has_canonical": true,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Lions",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": ["Hammond"],
+      "state": ["Louisiana"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:51:36.059+03:00",
+  "updated": "2025-09-18T08:56:06.000+03:00"
+}

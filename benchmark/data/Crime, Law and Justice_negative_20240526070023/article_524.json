@@ -1,0 +1,137 @@
+{
+  "thread": {
+    "uuid": "158db97a181011299422c33777d9d3f6d6aaed11",
+    "url": "https://www.nbcnews.com/meet-the-press/video/mcconnell-says-presidents-should-not-be-immune-from-criminal-prosecution-for-things-done-in-office-209716805710",
+    "site_full": "www.nbcnews.com",
+    "site": "nbcnews.com",
+    "site_section": "https://flipboard.com/@nbcnews.rss",
+    "site_categories": ["media", "television", "entertainment", "top_news"],
+    "section_title": "NBC News",
+    "title": "McConnell says presidents should not be immune from criminal prosecution for things done in office",
+    "title_full": "McConnell says presidents should not be immune from criminal prosecution for things done in office",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2024_04/1714078729179_now_mtp_clip_mcconnellimmunity_240425_1920x1080-59z8el.jpg",
+    "performance_score": 0,
+    "domain_rank": 236,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "158db97a181011299422c33777d9d3f6d6aaed11",
+  "url": "https://www.nbcnews.com/meet-the-press/video/mcconnell-says-presidents-should-not-be-immune-from-criminal-prosecution-for-things-done-in-office-209716805710",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NBCNews.com",
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "McConnell says presidents should not be immune from criminal prosecution for things done in office",
+  "text": "McConnell says Zelenskyy acknowledged GOP’s ‘big challenge’ on Ukraine aid during conversation00:35 - Now Playing 01:44 - UP NEXT Trump allies charged in Arizona electors scheme05:22 Chuck Todd: How lower voter turnout could help Biden in November01:57 What ‘telltale signs’ will indicate Israel’s military operation in Rafah?01:45 What to expect from Supreme Court's presidential immunity arguments05:09 Supreme Court ‘seems to be’ siding with Biden admin on Idaho abortion04:40 Progressive Democrat stands by vote opposing aid to Israel despite primary challenge03:41 Trump says presidential immunity is 'imperative' as court adjourns05:36 Israel trying to ‘preempt’ potential U.S. sanctions on IDF military unit02:41 Johnson could lose support from conservative base if Democrats ‘rescue’ his speakership04:03 Trump ‘inviting’ broader gag order by speaking about case, says fmr. federal prosecutor06:31 Zelenskyy doesn’t believe ‘rumors’ about Trump’s plan to end Russia-Ukraine war03:06 'You can never lose hope,' Zelenskyy says as war in Ukraine continues01:59 Ukrainians’ ‘motivation’ to fight ‘can go down’ with equipment shortages, Zelenskyy says02:26 Ukraine is 'preparing' for major Russian offensive, Zelenskyy says01:55 Americans are not ‘funding’ war in Ukraine, they’re ‘protecting freedom’: Full Zelenskyy interview19:54 Zelenskyy thanks Biden and Johnson for House passage of aid to Ukraine02:20 Biden closes in on gap with Trump in latest NBC News national poll02:43 Election interest hits new low in tight Biden-Trump race, NBC News poll finds05:12 McConnell says Zelenskyy acknowledged GOP’s ‘big challenge’ on Ukraine aid during conversation00:35 - Now Playing 01:44 - UP NEXT Trump allies charged in Arizona electors scheme05:22 Chuck Todd: How lower voter turnout could help Biden in November01:57 What ‘telltale signs’ will indicate Israel’s military operation in Rafah?01:45 What to expect from Supreme Court's presidential immunity arguments05:09 Best of NBC News Play All Play All",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Politics"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "zelenskyy",
+        "sentiment": "negative"
+      },
+      {
+        "name": "mcconnell",
+        "sentiment": "negative"
+      },
+      {
+        "name": "johnson",
+        "sentiment": "none"
+      },
+      {
+        "name": "biden",
+        "sentiment": "none"
+      },
+      {
+        "name": "chuck todd",
+        "sentiment": "none"
+      },
+      {
+        "name": "trump",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "gop",
+        "sentiment": "negative"
+      },
+      {
+        "name": "supreme court",
+        "sentiment": "none"
+      },
+      {
+        "name": "idf",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "ukraine",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "israel",
+        "sentiment": "none"
+      },
+      {
+        "name": "arizona",
+        "sentiment": "none"
+      },
+      {
+        "name": "idaho",
+        "sentiment": "none"
+      },
+      {
+        "name": "rafah",
+        "sentiment": "none"
+      },
+      {
+        "name": "russia",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:23:16.227+03:00",
+  "updated": "2024-04-26T00:51:23.812+03:00"
+}

@@ -1,0 +1,71 @@
+{
+  "thread": {
+    "uuid": "59ffea45b5dce20ec0a7ba99abe40367b6471c24",
+    "url": "https://www.odditycentral.com/technology/new-humanoid-robot-stuns-internet-with-its-smooth-walking-ability.html",
+    "site_full": "www.odditycentral.com",
+    "site": "odditycentral.com",
+    "site_section": "http://feeds.feedburner.com/OddityCentral",
+    "site_categories": ["media"],
+    "section_title": "Oddity Central &#8211; Collecting Oddities",
+    "title": "New Humanoid Robot Stuns Internet with Its Smooth Walking Ability",
+    "title_full": "New Humanoid Robot Stuns Internet with Its Smooth Walking Ability",
+    "published": "2025-01-23T23:40:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.odditycentral.com/wp-content/uploads/2025/01/Engine-AI-SE01-robot.jpeg",
+    "performance_score": 0,
+    "domain_rank": 12656,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "59ffea45b5dce20ec0a7ba99abe40367b6471c24",
+  "url": "https://www.odditycentral.com/technology/new-humanoid-robot-stuns-internet-with-its-smooth-walking-ability.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Spooky",
+  "published": "2025-01-23T23:40:00.000+02:00",
+  "title": "New Humanoid Robot Stuns Internet with Its Smooth Walking Ability",
+  "text": "Chinese robotics startup Engine AI recently launched a new humanoid robot that stunned everyone with its natural human-like gait which many attributed to CGI.\nMajor robotic companies around the world have been trying to replicate the smooth human gait in their humanoid robots for decades, with relatively modest results, but last October, Chinese company Engine AI unveiled the SE01, its most advanced humanoid robot yet. Featuring an advanced end-to-end neural network system, the SE01 robot learns to walk like a human in a simulation, getting feedback for how well it does and constantly improving over time. It is powered by dual processors from Nvidia and Intel and features three stereo cameras that help it navigate and interact with complex environments.\n“Advanced optical motion-capture technology and an end-to-end neural network allow the robot to accurately replicate human motion, making it highly adaptable to diverse environments,” Engine AI said about its revolutionary robot.\nMade of lightweight aerospace-grade aluminum and featuring a slick humanoid design, the SE01 robot blew everyone’s mind when it was unveiled last year to the point where many were wondering if it was real or computer-generated. Dr. Jim Fan, who leads Nvidia’s GR00T project, posted a video of SE01 walking in Shenzen, near Engine AI’s headquarters, asking people to confirm that it was a real robot and not AI-generated .\nAllegedly shot in Shenzhen. Is this real? Can someone verify? I’ve seen this company posting very natural humanoid walking gaits a couple months ago. These days, it’s hard to tell CGI vs Sora vs real … pic.twitter.com/j2D7CEALvq\n— Jim Fan (@DrJimFan) January 8, 2025\n“Is this real? Can someone verify? I’ve seen this company posting very natural humanoid walking gaits a couple of months ago. These days, it’s hard to tell CGI vs Sora vs real,” Fan wrote on X, before following up with another clip and confirming that the SE01 was the real deal.\n“I’ve verified from reliable sources. New visual Turing Test: this is a real robot demo! The controller is a neural net trained in Isaac simulator using reinforcement learning and then sim2real,” Fan wrote.\nThe video was posted on their official-looking LinkedIn page. They have a booth at CES; I’m wondering if they’ve brought a functioning robot there.\nThe robot looks legit based on the early prototype testing clips in this video. pic.twitter.com/OkaIDsM3MS\n— The Humanoid Hub (@TheHumanoidHub) January 8, 2025\nIn November of last year, Engine AI told Chinese news outlet National Business Daily that it was trying to keep the production costs of its SE01 humanoid robot under 100,000 yuan ($13,700) and hoped to sell the advanced model for prices between 150,000 ($20,600) and 200,000 yuan ($27,400).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Lifestyle and Leisure"],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Lifestyle and Leisure->trend",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:31:23.678+02:00",
+  "updated": "2025-01-24T02:20:42.443+02:00"
+}

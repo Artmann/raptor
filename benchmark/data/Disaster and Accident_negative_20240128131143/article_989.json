@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "f4b2ebe5977315395cdf603c9150025be0a55f9f",
+    "url": "https://www.thecourier.com.au/story/8472067/mistaken-cutting-of-power-caused-nepal-plane-crash/?src=rss",
+    "site_full": "www.thecourier.com.au",
+    "site": "thecourier.com.au",
+    "site_section": "https://www.thecourier.com.au/news/world/rss.xml",
+    "site_categories": ["media"],
+    "section_title": "The Courier - World",
+    "title": "Mistaken cutting of power 'caused Nepal plane crash'",
+    "title_full": "Mistaken cutting of power 'caused Nepal plane crash'",
+    "published": "2023-12-28T21:51:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://www.thecourier.com.au/images/transform/v1/crop/frm/silverstone-feed-data/99dd4771-e579-423b-81d6-9a1f65dbc0d9.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+    "performance_score": 0,
+    "domain_rank": 33817,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f4b2ebe5977315395cdf603c9150025be0a55f9f",
+  "url": "https://www.thecourier.com.au/story/8472067/mistaken-cutting-of-power-caused-nepal-plane-crash/?src=rss",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2023-12-28T21:51:00.000+02:00",
+  "title": "Mistaken cutting of power 'caused Nepal plane crash'",
+  "text": "A Yeti Airlines crash in Nepal that killed 72 people almost a year ago was caused by the pilots mistakenly cutting power leading to an aerodynamic stall, a report issued by a government-appointed investigation panel says.\nThe ATR 72, operated by privately owned Yeti Airlines, crashed just before landing in the tourist city of Pokhara on January 15 in one of Nepal's worst aeroplane accidents in 30 years.\nThere were 72 people on the twin-engine aircraft including two infants, four crew and 15 foreign citizens including 29-year-old Sydneysider Myron William Love.\nThere were no survivors.\nDipak Prasad Bastola, an aeronautical engineer and a member of the investigating panel, said due to lack of awareness and lack of standard operating procedures, the pilots had put the condition levers, which control power, in the feathering position, instead of selecting the flap lever.\nThis led the engine to \"run idle and not produce thrust,\" Bastola told Reuters.\n\"But due to its momentum, the aircraft flew for up to 49 seconds before hitting the ground.\"\nATR is based in France and the plane's engines were manufactured in Canada by Pratt & Whitney Canada.\nIt was Nepal's deadliest air crash since 1992, when a Pakistan International Airlines Airbus A300 crashed into a hillside on approach to Kathmandu, killing all 167 people on board.\nNearly 350 people have died since 2000 in plane or helicopter crashes in Nepal - home to eight of the world's 14 highest mountains, including Everest - where sudden weather changes can cause hazardous conditions.\nThe European Union has banned Nepali airlines from its airspace since 2013, citing safety concerns.\n ",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Human Interest"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "bastola",
+        "sentiment": "none"
+      },
+      {
+        "name": "myron william love",
+        "sentiment": "none"
+      },
+      {
+        "name": "dipak prasad bastola",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "yeti airlines",
+        "sentiment": "negative"
+      },
+      {
+        "name": "reuters",
+        "sentiment": "none"
+      },
+      {
+        "name": "atr",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "nepal",
+        "sentiment": "none"
+      },
+      {
+        "name": "pokhara",
+        "sentiment": "none"
+      },
+      {
+        "name": "france",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:42:19.728+02:00",
+  "updated": "2023-12-29T01:42:19.728+02:00"
+}

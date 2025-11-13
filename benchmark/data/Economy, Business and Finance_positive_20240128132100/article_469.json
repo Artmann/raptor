@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "54a34b5962537e55cd6ed2d4322c0c3d628a6905",
+    "url": "https://www.aspendailynews.com/opinion/mollie-s-quick-opening-seems-like-the-exception/article_c5fd3928-a55e-11ee-9147-bb086889950b.html",
+    "site_full": "www.aspendailynews.com",
+    "site": "aspendailynews.com",
+    "site_section": "http://www.aspendailynews.com/search/?f=rss&t=article&c=opinion&l=50&s=start_time&sd=desc",
+    "site_categories": ["media"],
+    "section_title": "www.aspendailynews.com - RSS Results in opinion of type article",
+    "title": "Mollie’s quick opening seems like the exception",
+    "title_full": "Mollie’s quick opening seems like the exception",
+    "published": "2023-12-28T18:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/aspendailynews.com/content/tncms/custom/image/50acd222-91f5-11e9-aea3-9b4d2e149062.jpg?resize=600%2C314",
+    "performance_score": 0,
+    "domain_rank": 41366,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "54a34b5962537e55cd6ed2d4322c0c3d628a6905",
+  "url": "https://www.aspendailynews.com/opinion/mollie-s-quick-opening-seems-like-the-exception/article_c5fd3928-a55e-11ee-9147-bb086889950b.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2023-12-28T18:00:00.000+02:00",
+  "title": "Mollie’s quick opening seems like the exception",
+  "text": "Editor:\nThe opening of the Mollie is proof that well-planned, well-financed construction projects can be completed quickly, even in Aspen. The Molly Gibson was demolished in December 2021. Two years and two weeks later in December 2023, a new hotel opened and received its first guests.\nThis seems unique for Aspen, where projects languish. The Boomerang Lodge closed in 2005 — and is still closed. The Crystal Palace closed in 2008. New construction started in 2019. The city’s building official has evidently stated that the site’s permit has expired due to inactivity, although the owners disagree.\nLooking across Aspen, one sees several sites where construction has lagged, such as the Main Street Bakery building. The builders always blame the city but the two-year reconstruction of the Mollie shows that well-managed projects can be completed in a timely manner.\nFor the other Aspen projects, the problem seems to be financing. The Aspen situation is not unique. In Europe, high interest rates and a cutoff of credit forced an Austrian developer’s firm, Sigma, into bankruptcy, leaving a number of grandiose projects unfinished and in limbo. Could the unfinished Aspen projects face the same constraints and fates?\nPhilip Verleger\nDenver",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "mollie",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "molly gibson",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "crystal palace",
+        "sentiment": "none"
+      },
+      {
+        "name": "sigma",
+        "sentiment": "none"
+      },
+      {
+        "name": "boomerang lodge",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "europe",
+        "sentiment": "none"
+      },
+      {
+        "name": "aspen",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:04:42.771+02:00",
+  "updated": "2023-12-29T01:04:42.771+02:00"
+}

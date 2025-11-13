@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "be0c3f5cfe689fcd324f484449f77c65bec3ec3d",
+    "url": "https://www.163.com/news/article/KC17NR9L000189FH.html",
+    "site_full": "www.163.com",
+    "site": "163.com",
+    "site_section": "https://www.163.com/war",
+    "site_categories": [
+      "top_news_vn",
+      "top_news_th",
+      "top_news_nz",
+      "top_news_rs",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news_hk",
+      "top_news_my",
+      "top_news"
+    ],
+    "section_title": "网易",
+    "site_title": "网易",
+    "title": "京气神儿丨文脉流淌 运河新生|大运河|通州|漕运_网易政务",
+    "title_full": "京气神儿丨文脉流淌 运河新生|大运河|通州|漕运_网易政务",
+    "published": "2025-10-16T16:29:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "https://static.ws.126.net/163/f2e/product/post_nodejs/static/logo.png",
+    "performance_score": 0,
+    "domain_rank": 537,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "be0c3f5cfe689fcd324f484449f77c65bec3ec3d",
+  "url": "https://www.163.com/news/article/KC17NR9L000189FH.html",
+  "ord_in_thread": 0,
+  "author": "网易",
+  "published": "2025-10-16T16:29:00.000+03:00",
+  "title": "京气神儿丨文脉流淌 运河新生|大运河|通州|漕运_网易政务",
+  "text": "（原标题：京气神儿丨文脉流淌 运河新生）\n文脉流淌 运河新生 （来源：人民网）\n“大运河漂来紫禁城”，大运河不仅是贯通南北的水路，更是绵延千年的文脉。在北京大运河文化带文史专家任德永看来，通州作为大运河北起点，其深厚的漕运文化底蕴构成了这条文脉的重要篇章。\n如今，这条古老运河正迎来新生。通过系统性生态治理与文化带建设，通州段再现碧波帆影，历史遗存与现代城市生活和谐共生。在文保工作者的推动下，运河文脉在保护与创新中延续，成为连接古今、活化历史的文化长廊。\n本文来源：人民网 责任编辑： 雷晓_NB26578",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Arts, Culture and Entertainment", "Environment"],
+  "topics": [
+    "Arts, Culture and Entertainment->monument and heritage site",
+    "Arts, Culture and Entertainment->cultural development",
+    "Environment->sustainability",
+    "Environment->nature",
+    "Environment->water"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://static.ws.126.net/163/f2e/tie-sdk/tie-2020-11b4ffc1a813dfcc799e.css",
+    "https://flv0.bn.netease.com/c3ac84994d19197a0710b304f4cb8dc49c53f0cb30267b6bd7b7f9a69939758230ca62bef1bfcbda8f264ba03ad1c2c8c2e470dc458dd67b3175b32a062d3a4065549234ac002637916efd63dc01108793c0ec0be1ba8726bd02e24fd2e862441172609df3aa6a2c57f12c774bc87d3d1fc71bd1fcf8b654.m3u8",
+    "https://www.flv0.bn.netease.com/c3ac84994d19197a0710b304f4cb8dc49c53f0cb30267b6bd7b7f9a69939758230ca62bef1bfcbda8f264ba03ad1c2c8c2e470dc458dd67b3175b32a062d3a4065549234ac002637916efd63dc01108793c0ec0be1ba8726bd02e24fd2e862441172609df3aa6a2c57f12c774bc87d3d1fc71bd1fcf8b654.m3u8",
+    "https://www.static.ws.126.net/163/f2e/tie-sdk/tie-2020-11b4ffc1a813dfcc799e.css"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_vn",
+      "top_news_th",
+      "top_news_nz",
+      "top_news_rs",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news_hk",
+      "top_news_my",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:46:00.888+03:00",
+  "updated": "2025-10-16T16:56:56.000+03:00"
+}

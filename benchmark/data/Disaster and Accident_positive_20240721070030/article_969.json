@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "884a5a91f75a1971c0f05138879443e64e810d79",
+    "url": "https://www.engineeringnews.co.za/article/rand-water-successfully-completes-first-pipeline-maintenance-ahead-of-schedule-2024-06-24",
+    "site_full": "www.engineeringnews.co.za",
+    "site": "engineeringnews.co.za",
+    "site_section": "https://polity.org.za/page/real-economy",
+    "site_categories": ["media", "travel", "africa"],
+    "section_title": "Polity.org.za | Opinion | Columnist | Real Economy",
+    "title": "Rand Water successfully completes first pipeline maintenance ahead of schedule",
+    "title_full": "Rand Water successfully completes first pipeline maintenance ahead of schedule",
+    "published": "2024-06-24T16:21:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ZA",
+    "main_image": "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg",
+    "performance_score": 0,
+    "domain_rank": 21635,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "884a5a91f75a1971c0f05138879443e64e810d79",
+  "url": "https://www.engineeringnews.co.za/article/rand-water-successfully-completes-first-pipeline-maintenance-ahead-of-schedule-2024-06-24",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Creamer Media Reporter",
+  "published": "2024-06-24T16:21:00.000+03:00",
+  "title": "Rand Water successfully completes first pipeline maintenance ahead of schedule",
+  "text": "Rand Water has successfully completed the proactive extensive maintenance of the F5 Pipeline in Mogale City local municipality, which started on June 22, nine hours ahead of schedule.\nThe project, which marked the start of the water utility’s extensive month-long maintenance plan across Gauteng, entailed connecting the F16 pipeline to the new F5 pipeline and to new meters.\nDuring this period, the normal pumping of water was not affected as only one meter was impacted.\nThe next phase of the maintenance project started on June 24 at the Eikenhof, Zwartkopjes and Mapleton systems.\nThe Eikenhof pumping station has been reduced to 50% for eight hours before being increased to 67% for the following 64 hours, as Rand Water undertakes the maintenance work, which includes cleaning of the sedimentation tank at the Vereeniging water treatment plant (VWTP) and interconnecting the Waterval 1 and 2 reservoirs in the Eikenhof system.\nAt the Zwartkopjes system, Rand Water will replace a defective valve at the VWTP, which will result in the reduction of pumping to 50% for 27 hours.\nThe maintenance work at Trichardt will entail upgrading the transformer to increase power supply capacity; however, there will be no impact of water supply since there are generators at Trichardt.\nMaintenance work at the Palmiet system will start on June 28.\nRand Water will provide updates throughout the maintenance period.\nEdited by Creamer Media Reporter",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Environment"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "vwtp",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "moga",
+        "sentiment": "none"
+      },
+      {
+        "name": "gauteng",
+        "sentiment": "none"
+      },
+      {
+        "name": "eikenhof",
+        "sentiment": "none"
+      },
+      {
+        "name": "mapleton",
+        "sentiment": "none"
+      },
+      {
+        "name": "zwartkopjes",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-24T16:33:26.154+03:00",
+  "updated": "2024-06-24T16:33:26.154+03:00"
+}

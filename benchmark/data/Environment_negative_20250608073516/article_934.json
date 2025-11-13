@@ -1,0 +1,110 @@
+{
+  "thread": {
+    "uuid": "e28317789e9c943e48956dad8725feaf81fc77c8",
+    "url": "https://www.yucatan.com.mx/yucatan/2025/05/07/incendio-consume-palapa-frente-a-oficinas-de-la-conanp-en-tizimin.html",
+    "site_full": "www.yucatan.com.mx",
+    "site": "yucatan.com.mx",
+    "site_section": "https://newstral.com/es/article",
+    "site_categories": ["media", "top_news_mx", "top_news"],
+    "section_title": "Ticker - Newstral.com",
+    "site_title": "Inicio - Diario de Yucatán",
+    "title": "Incendio consume palapa frente a oficinas de la Conanp en Tizimín",
+    "title_full": "Incendio consume palapa frente a oficinas de la Conanp en Tizimín",
+    "published": "2025-05-08T05:10:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://i0.wp.com/newspack-yucatan.s3.amazonaws.com/uploads/2025/05/incendio-en-palapa-de-rio-lagartos1.jpg",
+    "performance_score": 0,
+    "domain_rank": 33018,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e28317789e9c943e48956dad8725feaf81fc77c8",
+  "url": "https://www.yucatan.com.mx/yucatan/2025/05/07/incendio-consume-palapa-frente-a-oficinas-de-la-conanp-en-tizimin.html",
+  "ord_in_thread": 0,
+  "author": "AIM",
+  "published": "2025-05-08T05:10:00.000+03:00",
+  "title": "Incendio consume palapa frente a oficinas de la Conanp en Tizimín",
+  "text": "RÍO LAGARTOS.- Un incendio forestal en un rancho ubicado frente a las oficinas de la Comisión Nacional de Áreas Naturales Protegidas (Conanp) alcanzó el área de usos múltiples consumiendo todo el techo de huano.\nDe acuerdo con la información recabada, los fuertes vientos que se registraban alrededor de las 3 de la tarde habrían provocado que una chispa alcanzara el techo, el cual fue consumido por el fuego en cuestión de minutos.\nBomberos acudieron al lugar del siniestro\nLos bomberos de la Secretaría de Seguridad Pública (SSP) con base en Tizimín, se movilizaron al lugar, pero por la distancia de 50 kilómetros que separan la estación del siniestro, no pudieron salvar la construcción.\nHasta el momento se desconocen los daños en el interior del inmueble y los cuerpos de emergencia continúan trabajando en el lugar para evitar que el fuego se propague hacia la población.\nTE PUEDE INTERESAR: Fiscalía de Yucatán realizó primera audiencia pública en Tizimín\nLas oficinas federales siniestradas se ubican exactamente en el entronque de la carretera hacia Las Coloradas y a San Felipe.\nLlamado a prevenir incendios en Yucatán\nCada año, en estas épocas de intenso calor, las autoridades de Protección Civil llaman a la población yucateca a prevenir incendios forestales en la temporada de calor.\nEntre otras cosas, piden no quemar basura al aire libre y no arrojar cigarros encendidos ni objetos de vidrio a la vera de las carreteras.\nTambién piden a productores que en la temporada en que realizan quemas agrícolas notifiquen a la autoridad municipal sobre la quema que realizarán para que se lleve al cabo de manera controlada, tal como disponen los procedimientos oficiales de la Secretaría de Desarrollo Rural del Estado.\n¿Dónde reportar incendios forestales?\nAsimismo, llaman a reportar cualquier incendio que detecten al número gratuito de emergencias 911, a fin de atender el control y sofocación del fuego y de esa manera contribuir a la protección de los bienes y las personas.\nPor su parte, las autoridades federales piden a la población a que en caso de detectar un incendio forestal lo reporte al 800 INCENDIO (800 42236346).\nCon información de Isauro Chi Díaz",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Environment"],
+  "topics": [
+    "Disaster and Accident->fire",
+    "Environment->environmental clean-up",
+    "Environment->conservation",
+    "Environment->natural resources"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Las Coloradas",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Comisión Nacion",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Secretaría de Seguridad Pública",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Conanp",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "SSP",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:47:25.234+03:00",
+  "updated": "2025-05-08T03:53:24.000+00:00"
+}

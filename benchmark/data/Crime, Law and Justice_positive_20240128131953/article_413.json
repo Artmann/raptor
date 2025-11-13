@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "b7aa644407008cd34c46d6e6f8ec13485501645f",
+    "url": "https://www.fox5atlanta.com/news/atlanta-activist-pushes-more-mentorship-programs-curb-youth-violence",
+    "site_full": "www.fox5atlanta.com",
+    "site": "fox5atlanta.com",
+    "site_section": "https://fox5atlanta.com/captioning",
+    "site_categories": ["media", "non_standard_content"],
+    "section_title": "Captioning Information",
+    "title": "Atlanta activist pushes for more mentorship programs to curb youth violence",
+    "title_full": "Atlanta activist pushes for more mentorship programs to curb youth violence",
+    "published": "2023-12-29T13:07:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/12/1280/720/P-YOUTH-VIOLENCE-MENTOR-PROGRAM-FUNDING-11P_00.00.12.18.jpg?ve=1&amp;tl=1",
+    "performance_score": 0,
+    "domain_rank": 6027,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b7aa644407008cd34c46d6e6f8ec13485501645f",
+  "url": "https://www.fox5atlanta.com/news/atlanta-activist-pushes-more-mentorship-programs-curb-youth-violence",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Eric Mock",
+  "published": "2023-12-29T13:07:00.000+02:00",
+  "title": "Atlanta activist pushes for more mentorship programs to curb youth violence",
+  "text": "ATLANTA - An Atlanta anti-violence activist says more funding and investment in mentorship programs is needed to address growing youth gun violence in the metro area. According to the Centers for Disease Control and Prevention , gun violence is the leading cause of death for Black men ages 15 to 24. Omar Howard has worked to help curb that trend ever since he was released from prison after serving 15 years. He founded Freedom is a Choice Inc. in 2011, a mentoring service for at-risk young men and women. Howard gives speeches at schools, community centers, and juvenile detention centers. \"They&apos;ve already given up on people like us who&apos;ve been through the process … but we want to work with these types of young men …. because the potential these young men have, we still see it. When some people in society don&apos;t see it,\" Howard said. Howard saw potential in Jerious Smith, who landed in juvenile detention when he was 15. \"I did some time for armed robbery,\" Smith said. Smith said Howard gave a class to him and the other juvenile detainees. At first, he just went for the food, but then Howard&apos;s message that it wasn&apos;t too late to choose to turn his life around started to sink in. Now he’s an entrepreneur. \"I got a dog business, now officially got a business. CBMW Kennels, and I’m the owner of it,\" Smith said. Khalil Jeffries says Howard gave him mentorship and encouragement that he and many others like him are missing in their lives. \"He became a real role model to me, and I don’t got a lot of role models,\" Jeffries said. Howard took some of his mentees on a service trip to Guatemala, where they helped build a house for a family there. Ny’ontae Thrasher went on that trip and says it was life-changing. \"These folks are going through way worse than what we going through now. I’m really grateful and thankful,\" Thrasher said. But Howard says trips like that aren’t cheap, and he wishes he could expand his operation by hiring more mentors with real-life experience. \"A lot of people are willing to do it, but they don’t have the time to do it because they got to pay bills … We’re trying to get the funding to at least do stipends or be able to hire somebody part-time or full-time,\" Howard said. He says they do get grants from local governments to help with funding, but even that can be costly when he has to hire a grant writer to help him get them. Howard hopes in the new year that local businesses will help sponsor programs like his to help them reach more young people in crisis. He says he hopes business owners considering doing this will see it as a true investment, because he believes the more young people they can help turn away from crime and violence, the safer it will be for the communities owners operate in. \"When you invest in these types of organizations, you will see the results. You&apos;ll see that your money went to a good, good cause,\" he said. Howard can be reached at freedomisachoice2012@gmail.com .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Crime, Law and Justice", "Social Issue"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "omar howard",
+        "sentiment": "none"
+      },
+      {
+        "name": "jerious smith",
+        "sentiment": "none"
+      },
+      {
+        "name": "howard",
+        "sentiment": "none"
+      },
+      {
+        "name": "smith",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "atlanta",
+        "sentiment": "negative"
+      },
+      {
+        "name": "centers for disease control and prevention",
+        "sentiment": "none"
+      },
+      {
+        "name": "choice inc.",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "atlanta",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T13:47:46.200+02:00",
+  "updated": "2023-12-29T13:47:46.200+02:00"
+}

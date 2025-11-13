@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "5cbc3721664131ced3d48645ee05022c32f25a02",
+    "url": "https://www.einnews.com/pr_news/823594309/coalition-ad-links-decisions-on-medicaid-cuts-by-congress-to-impacts-on-hospitals",
+    "site_full": "www.einnews.com",
+    "site": "einnews.com",
+    "site_section": "https://world.einnews.com/ajax/headlines",
+    "site_categories": ["search_engine", "tech"],
+    "section_title": "",
+    "site_title": null,
+    "title": "Coalition ad links decisions on Medicaid cuts by Congress to impacts on hospitals - Golf News Today - EIN Presswire",
+    "title_full": "Coalition ad links decisions on Medicaid cuts by Congress to impacts on hospitals - Golf News Today - EIN Presswire",
+    "published": "2025-06-19T06:45:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.aha.org/sites/default/files/2019-03/medicaid-900x400.jpg",
+    "performance_score": 0,
+    "domain_rank": 3771,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5cbc3721664131ced3d48645ee05022c32f25a02",
+  "url": "https://www.einnews.com/pr_news/823594309/coalition-ad-links-decisions-on-medicaid-cuts-by-congress-to-impacts-on-hospitals",
+  "ord_in_thread": 0,
+  "author": "EIN News",
+  "published": "2025-06-19T06:45:00.000+03:00",
+  "title": "Coalition ad links decisions on Medicaid cuts by Congress to impacts on hospitals - Golf News Today - EIN Presswire",
+  "text": "Coalition ad links decisions on Medicaid cuts by Congress to impacts on hospitals Coalition ad links decisions on Medicaid cuts by Congress to impacts on hospitals\nA new television and digital advertisement launched today by the Coalition to Strengthen America’s Healthcare connects decisions made in the halls of Congress with devastating impacts that Medicaid cuts could have on patients’ access to care nationwide. The ad calls on viewers to urge their senators to protect Medicaid. The ad is the latest in the Coalition’s “Faces of Medicaid” campaign that highlights the importance of Medicaid to patients and communities across the country.\nThe AHA is a founding member of the Coalition.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Politics", "Social Issue"],
+  "topics": [
+    "Economy, Business and Finance->healthcare industry",
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->business governance",
+    "Politics->healthcare policy",
+    "Politics->political process",
+    "Politics->government policy",
+    "Social Issue->social services",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "http://www.youtube.com/watch?v=YzlKN2Txv7g",
+    "http://www.youtube.com/watch",
+    "http://youtube.com/watch?v=YzlKN2Txv7g"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Strengthen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Congress",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Coalition",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Medicaid",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:43:49.702+03:00",
+  "updated": "2025-06-19T04:46:02.000+00:00"
+}

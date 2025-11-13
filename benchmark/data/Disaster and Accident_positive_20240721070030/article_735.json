@@ -1,0 +1,149 @@
+{
+  "thread": {
+    "uuid": "f88a03d712ced90e80b5399e6c96a1f7eca1e70e",
+    "url": "https://www.gulftoday.ae/news/2024/06/23/uae-contributes-$25m-to-wfp-for-humanitarian-efforts-in-sudan",
+    "site_full": "www.gulftoday.ae",
+    "site": "gulftoday.ae",
+    "site_section": "https://www.gulftoday.ae/test-home",
+    "site_categories": ["media"],
+    "section_title": "PageTitle - GulfToday",
+    "title": "UAE contributes $25m to WFP for humanitarian efforts in Sudan - GulfToday",
+    "title_full": "UAE contributes $25m to WFP for humanitarian efforts in Sudan - GulfToday",
+    "published": "2024-06-23T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AE",
+    "main_image": "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2024/6/23/uae-sudan-wfp-aid.ashx?h=450&amp;w=750&amp;hash=00F919F86996D837EEE7AD28AB14B492",
+    "performance_score": 0,
+    "domain_rank": 20673,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f88a03d712ced90e80b5399e6c96a1f7eca1e70e",
+  "url": "https://www.gulftoday.ae/news/2024/06/23/uae-contributes-$25m-to-wfp-for-humanitarian-efforts-in-sudan",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "gulftoday.ae",
+  "published": "2024-06-23T03:00:00.000+03:00",
+  "title": "UAE contributes $25m to WFP for humanitarian efforts in Sudan - GulfToday",
+  "text": "UAE's Sultan Al Shamsi (R) and WFP' Matthew Nims exchange the documents in presence of Lana Zaki Nusseibeh (R) during the ceremony in New York. WAM\nThe UAE has signed an agreement with the UN World Food Programme (WFP) to provide emergency food assistance to populations affected by the crisis in Sudan and South Sudan. This includes refugees, host communities, internally displaced people, and returnees impacted by the war. The agreement, formalised between the UAE Ministry of Foreign Affairs (MOFA) and WFP, was signed on the behalf of the UAE by Sultan Al Shamsi, Assistant Minister for International Development Affairs, and on the behalf of WFP by Matthew Nims, Director of Washington Office, and in the presence of Lana Zaki Nusseibeh, Assistant Minister of Foreign Affairs for Political Affairs, and Amina Mohammed, Deputy Secretary-General, at a special ceremony at the UAE Mission to the UN in New York.\n17.7 million people in Sudan and 7.1 million in South Sudan facing acute food insecurity as a result of war in Sudan. To help alleviate this crisis, UAE has committed a total of $25 million in aid: $20 million for Sudan and $5 million for South Sudan.\nCindy McCain, Executive Director of the World Food Programme, said, \"WFP welcomes all pledges towards our lifesaving food operations in Sudan. With this contribution, we will be able to assist vulnerable people who are at risk of sliding into famine.”\nThis contribution is part of UAE’s $70 million commitment announced in April at the \"International Humanitarian Conference for Sudan and Neighbouring Countries” to UN agencies and humanitarian organisations to alleviate the severe humanitarian crisis in Sudan.\nLana Zaki Nusseibeh stated, \"With widespread hunger in Sudan and neighbouring countries, our partnership with WFP will assist those most vulnerable facing the devastating ramifications of this war. We cannot allow another famine to unfold in Sudan. The long-term impacts of famine, particularly on children, are incalculable. This is a call to action to halt famine in its tracks.\"\nWAM",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Social Issue"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "matthew nims",
+        "sentiment": "negative"
+      },
+      {
+        "name": "al shamsi",
+        "sentiment": "negative"
+      },
+      {
+        "name": "lana zaki nus",
+        "sentiment": "negative"
+      },
+      {
+        "name": "lana zaki nusseibeh",
+        "sentiment": "none"
+      },
+      {
+        "name": "sultan al shamsi",
+        "sentiment": "none"
+      },
+      {
+        "name": "amina mohammed",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "wfp",
+        "sentiment": "negative"
+      },
+      {
+        "name": "foreign affairs for political affairs",
+        "sentiment": "none"
+      },
+      {
+        "name": "international development affairs",
+        "sentiment": "none"
+      },
+      {
+        "name": "uae ministry of foreign affairs",
+        "sentiment": "none"
+      },
+      {
+        "name": "uae",
+        "sentiment": "none"
+      },
+      {
+        "name": "un",
+        "sentiment": "none"
+      },
+      {
+        "name": "un world food programme",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "sudan",
+        "sentiment": "none"
+      },
+      {
+        "name": "uae",
+        "sentiment": "none"
+      },
+      {
+        "name": "new york",
+        "sentiment": "none"
+      },
+      {
+        "name": "south sudan",
+        "sentiment": "none"
+      },
+      {
+        "name": "washington office",
+        "sentiment": "none"
+      },
+      {
+        "name": "uae mission",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-23T17:40:48.864+03:00",
+  "updated": "2024-06-23T17:40:48.864+03:00"
+}

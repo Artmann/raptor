@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "cfd12f6f356717ac09a75651a2ecab9452827677",
+    "url": "https://kg.akipress.org/news:2285218",
+    "site_full": "kg.akipress.org",
+    "site": "akipress.org",
+    "site_section": "http://kg.akipress.org/rss",
+    "site_categories": ["media", "top_news_ae", "top_news"],
+    "section_title": "Информационное агентство АКИpress",
+    "site_title": "АКИpress: новости Кыргызстана и Центральной Азии, события, бизнес, базы данных, справочники, информация о Кыргызстане",
+    "title": "Из-за отключения электричества в Бишкеке сбой произошел во всех водозаборах и более 300 насосных станциях",
+    "title_full": "Из-за отключения электричества в Бишкеке сбой произошел во всех водозаборах и более 300 насосных станциях",
+    "published": "2025-06-19T05:03:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "KG",
+    "main_image": "https://cdn-1.aki.kg/st_gallery/34/703534.4c36f5b4268ed8156487c63d6597e472.jpg",
+    "performance_score": 0,
+    "domain_rank": 67433,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cfd12f6f356717ac09a75651a2ecab9452827677",
+  "url": "https://kg.akipress.org/news:2285218",
+  "ord_in_thread": 0,
+  "author": "@AKIpress",
+  "published": "2025-06-19T05:03:00.000+03:00",
+  "title": "Из-за отключения электричества в Бишкеке сбой произошел во всех водозаборах и более 300 насосных станциях",
+  "text": "Бишкек (АКИpress) – В связи с нештатной ситуацией в подаче электрической энергии произошёл сбой в работе системы водоснабжения города, сообщили в водоканале.\nНарушения затронули все водозаборы и более 300 насосных станций, что привело к разбалансировке давления и сбоям гидравлических режимов.\n«Бишкекводоканал» вел восстановительные работы, направленные на:\n• постепенное выравнивание давления в сети,\n• поэтапный запуск насосных станций,\n•нормализацию гидравлических режимов системы водоснабжения.\nКриминал и происшествия в Телеграм-канале @svodka_akipress",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Politics", "Social Issue", "Economy, Business and Finance"],
+  "topics": [
+    "Politics->safety of citizens",
+    "Politics->civil rights",
+    "Politics->government",
+    "Social Issue->social condition",
+    "Economy, Business and Finance->utilities",
+    "Economy, Business and Finance->economy",
+    "Economy, Business and Finance->business governance"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://t.me/svodka_akipress",
+    "https://www.t.me/svodka_akipress"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ae", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:43:36.739+03:00",
+  "updated": "2025-06-19T04:46:22.000+00:00"
+}

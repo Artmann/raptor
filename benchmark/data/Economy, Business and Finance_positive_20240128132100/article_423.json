@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "3400cab9dc36d94bdd331e9845d9ebb66d553aa5",
+    "url": "https://lobste.rs/s/2uio6s/self_healing_code_is_future_software",
+    "site_full": "lobste.rs",
+    "site": "lobste.rs",
+    "site_section": "https://lobste.rs/newest",
+    "site_categories": ["society"],
+    "section_title": "Newest Stories | Lobsters",
+    "title": "Self-healing code is the future of software development | Lobsters",
+    "title_full": "Self-healing code is the future of software development | Lobsters",
+    "published": "2023-12-28T23:09:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RS",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 43329,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3400cab9dc36d94bdd331e9845d9ebb66d553aa5",
+  "url": "https://lobste.rs/s/2uio6s/self_healing_code_is_future_software",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "coby",
+  "published": "2023-12-28T23:09:00.000+02:00",
+  "title": "Self-healing code is the future of software development | Lobsters",
+  "text": "Developers love automating solutions to their problems, and with the rise of generative AI, this concept is likely to be applied to both the creation, maintenance, and the improvement of code at an entirely new level.\nAm I the only one who thinks there is a hard limit to the volume of code a human can produce, with or without the help of AI, and actually understand ? Reasoning about what that limit is and how to measure it (if that’s even possible) is an open problem, sure, but I hope it’s not controversial to think that beyond that limit you will end up with a system that is simply unmaintainable. That is, at a certain point it doesn’t matter how good you are at “prompt engineering” or whatever the hot new thing after it will be…you will just have no idea what your code does. I don’t think the ability to generate code–even 100% correct code, a problem whose tractability is unclear–helps at all with the problem of building maintainable systems. I think it’s quite probable that it hinders it, not least of all by giving us a false sense of security and competence with our “more powerful” tools.\n“People have talked about technical debt for a long time, and now we have a brand new credit card here that is going to allow us to accumulate technical debt in ways we were never able to do before,” said Armando Solar-Lezama, a professor at [MIT]\nGiven the above, if you’re going to frame this as “technical debt” then you need to be all the more cognisant of where that line is. The fact that it exists at all means that we are increasingly capable of taking out sub-prime loans, to extend the metaphor. This isn’t a fundamentally new situation, we’re just getting “better” at throwing code at the wall and hoping it sticks (long enough that we can cash in that investor capital, at least). When taking out sub-prime loans becomes the MO of an industry, what you have is a bubble.\nWhy does anyone think this is a good idea? To hazard a guess, this “improvement” really only makes sense inside the bonkers market ideology of expansion at all costs. Unfortunately, I don’t see investment in this sphere slowing down, so the best I think I can hope for is that the next generation will look back on this time of propping up a bubble, ask “what the hell were they thinking,” and learn from our industry’s mistakes.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:51:58.130+02:00",
+  "updated": "2023-12-29T00:51:58.130+02:00"
+}

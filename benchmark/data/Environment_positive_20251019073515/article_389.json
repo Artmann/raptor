@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "1d2ee04f2aea7a1a38a5f6aeea7920b4c2dcf672",
+    "url": "https://www.dailypress.com/2025/10/16/bay-scallops-virginia/",
+    "site_full": "www.dailypress.com",
+    "site": "dailypress.com",
+    "site_section": "https://www.dailypress.com/feed",
+    "site_categories": ["media"],
+    "section_title": "Daily Press",
+    "site_title": "Daily Press - Virginia News, Sports, Weather, Business & Things to Do",
+    "title": "Bay scallops in Virginia 'multiplying exponentially'",
+    "title_full": "Bay scallops in Virginia 'multiplying exponentially'",
+    "published": "2025-10-16T14:27:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.dailypress.com/wp-content/uploads/2025/10/TVP-L-HANDOUT-SCALLOPS-1015-002-1.jpg?w=1000&#038;h=625",
+    "performance_score": 0,
+    "domain_rank": 30340,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1d2ee04f2aea7a1a38a5f6aeea7920b4c2dcf672",
+  "url": "https://www.dailypress.com/2025/10/16/bay-scallops-virginia/",
+  "ord_in_thread": 0,
+  "author": "Eliza Noe",
+  "published": "2025-10-16T14:27:00.000+03:00",
+  "title": "Bay scallops in Virginia 'multiplying exponentially'",
+  "text": "An “unprecedented resurgence” in bay scallops in Virginia could soon open the door for recreational fishing of the species, said scientists at William & Mary’s Batten School and the Virginia Institute of Marine Science.\nUntil the 1930s, Virginia held a significant chunk of the scallop industry — even hosting the largest bay scallop fishery in the country. Then, within three years of the population’s peak in Virginia’s Chesapeake Bay waters in 1930, scallops were nearly extinct, according to a VIMS report from 2017. A wasting disease killed eelgrass, the habitat for the scallops, and essentially led to the steep decline. The scallop harvest peaked before wildlife managers noticed any issues with the grass. In response, harvesters turned to clams and the bay scallop population never recovered.\nAbout 10 years ago, though, VIMS researchers began bringing back the shelled creatures, releasing larvae, juvenile and adult scallops into the Chesapeake Bay. Work on restoring underwater grasses in the area had already begun in the early 2000s, and by the time research on scallop restoration started, scientists had restored about 6,000 acres of underwater meadows. According to VIMS, it is the largest and most successful seagrass restoration in the world. It represents “a significant societal and ecological achievement,” said Richard Snyder, director of VIMS’s Eastern Shore Lab.\nIf the trend of scallop growth continues, researchers estimate the population will double in less than 1.5 years. Currently, the state has a moratorium on harvesting bay scallops, but the successful repopulation could create recreational harvesting opportunities in the near future.\n“The next step for us is to review management and regulatory frameworks being used for harvest elsewhere and provide advice to the Virginia Marine Resources Commission to establish rules for Virginia, so that we don’t decimate the population we just restored,” assistant director Stacy Krueger-Hadfield said.\nMany East and Gulf Coast states allow for the recreational harvest of bay scallops, though some have restrictions. In Texas, they can only be harvested from certain zones, and in Massachusetts, harvesting is allowed on Wednesdays to Sundays from Oct. 1 through March 31. Florida’s scalloping season is staggered, meaning the timeframes for recreational harvesting are different depending on location.\nEach year, VIMS staff and volunteers go out to collect data on the scallops. Within three days, scallops at 240 stations are counted and measured, and some are taken back to the lab for DNA testing and for reproduction of future generations. Data from those surveys shows the scallop population has grown each year since 2018, and about 10,000 acres of sea grasses are thriving again. In 2013, there were 0.005 scallops per square meter, and 2025 surveys showed there are 0.114 scallops per square meter. To put that into perspective, Florida requires 0.1 scallops per meter to sell recreationally.\n“It’s incredibly fulfilling to see this progress,” said Darian Kelley, a nursery manager at the lab who works closely with regional shellfish farmers. “The combined success of the seagrass and scallop restoration efforts is creating a more resilient and productive coastal ecosystem while potentially adding a new product to our state’s aquaculture industry.”\nEliza Noe, eliza.noe@virginiamedia.com",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->animal",
+    "Environment->nature",
+    "Environment->ecosystem"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.researchgate.net/publication/309883517_The_bay_scallop_Argopecten_irradians_industry_collapse_in_Virginia_and_its_implications_for_the_successful_management_of_scallop-seagrass_habitats",
+    "https://researchgate.net/publication/309883517_The_bay_scallop_Argopecten_irradians_industry_collapse_in_Virginia_and_its_implications_for_the_successful_management_of_scallop-seagrass_habitats"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Virginia Institute of Marine Science",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "William & Mary’s Batten School",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "1d2ee04f2aea7a1a38a5f6aeea7920b4c2dcf672",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": ["Newport News", "Hampton", "Williamsburg", "Norfolk"],
+      "state": ["Virginia"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:39:17.366+03:00",
+  "updated": "2025-10-16T15:02:01.000+03:00"
+}

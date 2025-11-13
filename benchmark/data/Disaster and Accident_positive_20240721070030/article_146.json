@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "7dec9b424f57ddde8e8fd932542fa44ff1ff54e2",
+    "url": "https://www.cbc.ca/news/canada/north/fort-good-hope-norman-wells-evacuation-clothing-1.7241066",
+    "site_full": "www.cbc.ca",
+    "site": "cbc.ca",
+    "site_section": "https://www.cbc.ca/news/local",
+    "site_categories": ["media", "top_news"],
+    "section_title": "",
+    "title": "Norman Wells turns curling rink into makeshift free clothing shop for evacuees | CBC News",
+    "title_full": "Norman Wells turns curling rink into makeshift free clothing shop for evacuees | CBC News",
+    "published": "2024-06-21T07:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://i.cbc.ca/1.7241100.1718899632!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/clothing-norman-wells.JPG",
+    "performance_score": 0,
+    "domain_rank": 324,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7dec9b424f57ddde8e8fd932542fa44ff1ff54e2",
+  "url": "https://www.cbc.ca/news/canada/north/fort-good-hope-norman-wells-evacuation-clothing-1.7241066",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Emma",
+  "published": "2024-06-21T07:00:00.000+03:00",
+  "title": "Norman Wells turns curling rink into makeshift free clothing shop for evacuees | CBC News",
+  "text": "Dozens of people filed in and out of the Norman Wells curling rink last week, which was turned into a free clothing store for evacuees.\nStacks of shirts, pants, shoes and kids clothing were lined up on plastic tables, with towels, blankets and toiletries piled on another.\nThe clothing was all donated by Norman Wells residents, who have welcomed over 200 evacuees from Fort Good Hope to their community with open arms.\n\"Most of the residents here didn't really have time to pack or get organized with their family or anything we kind of just up and left,\" Fort Good Hope resident Cameron Boniface said.\nBoniface has been pitching in too, working as security at Mackenzie Mountain School, where meals are served by volunteers three times a day.\n\"It's been a real wild experience,\" Boniface said.\n\"For all of our community to come to Norman Wells, they've been treating us with such hospitality.\"\nCameron Boniface from Fort Good Hope has also been volunteering his time during his community's evacuation to Norman Wells. (Travis Burke/CBC) As the days turned into almost a week away from home, residents who had to flee quickly were asking for things like diapers, toddler shoes and underwear.\nThe community has been stepping up since the evacuation order was issued – cooking and serving meals three times a day for evacuees and hosting people from Fort Good Hope in their homes.\nFinding comfortable accommodation for everyone as the days stretch on has been difficult.\nRegina Lennie said she was initially sleeping in someone's garage, but has since been put up in a hotel with her grandson.\n\"I had a rough couple of days ... it's too stressful for me,\" Lennie said.\n\"But the food and everything they're doing for us, makes the stress less,\" she said. \"It's hard, I want to go home. But it needs to be safe before we go home. And so we'll stick it out I guess. What other choice do we have?\"\nTeachers are still working too.\nAlthough last Thursday was the final day of school for kids in Fort Good Hope, teachers still need to submit report cards.\nNorman Wells mayor says he wants N.W.T. government to step in to support evacuees Fort Good Hope, N.W.T., wildfire now headed toward 2017 burn area, away from community Fort Good Hope teacher Betty Barnaby has been working each day to finalize report cards for kids so they can get them when they go home.\nBarnaby said she couldn't continue to do her job without the support of people in Norman Wells.\n\"It's amazing, amazing to see people step up and help out. I wish there was some way we could repay them. People have gone over and above.\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Human Interest",
+    "Disaster and Accident",
+    "Lifestyle and Leisure"
+  ],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "norman wells",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "boniface",
+        "sentiment": "none"
+      },
+      {
+        "name": "cameron boniface",
+        "sentiment": "none"
+      },
+      {
+        "name": "travis burke",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cbc",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "fort good hope",
+        "sentiment": "none"
+      },
+      {
+        "name": "mackenzie mountain school",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-21T11:51:27.277+03:00",
+  "updated": "2024-06-21T14:37:53.758+03:00"
+}

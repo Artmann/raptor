@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "1a6e9ab13f022978662bde84788e669d15a408db",
+    "url": "https://flipboard.com/topic/charlottecountyflorida/4-florida-panther-deaths-reported/f-4ead0ab5d0%2Fyoutube.com",
+    "site_full": "flipboard.com",
+    "site": "flipboard.com",
+    "site_section": "https://flipboard.com/topic/charlottecountyflorida",
+    "site_categories": ["family_and_parenting", "eldercare"],
+    "section_title": "Discover More in Charlotte County (Fla.) on Flipboard",
+    "site_title": "Flipboard: Your Social Magazine",
+    "title": "4 Florida Panther deaths reported | Flipboard",
+    "title_full": "4 Florida Panther deaths reported | Flipboard",
+    "published": "2025-05-08T01:04:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://i.ytimg.com/vi/Js_qpVAn3T8/hqdefault.jpg",
+    "performance_score": 0,
+    "domain_rank": 1243,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1a6e9ab13f022978662bde84788e669d15a408db",
+  "url": "https://flipboard.com/topic/charlottecountyflorida/4-florida-panther-deaths-reported/f-4ead0ab5d0%2Fyoutube.com",
+  "ord_in_thread": 0,
+  "author": "Css-; Object-Fitcover; Border-Radius; Border; 0",
+  "published": "2025-05-08T01:04:00.000+03:00",
+  "title": "4 Florida Panther deaths reported | Flipboard",
+  "text": "University of Florida names one presidential finalist, again • Florida Phoenix\nThe University of Florida presidential search committee proposed a single finalist to fill the vacancy left by former President Ben Sasse: University …",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Health"],
+  "topics": [
+    "Environment->endangered species",
+    "Environment->ecosystem",
+    "Environment->nature"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ben Sasse",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Flipboard University of Florida",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T01:09:02.396+03:00",
+  "updated": "2025-05-07T22:14:24.000+00:00"
+}

@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "ffdb73a2a581a59f29419449e48a761600de8557",
+    "url": "https://www.myfxbook.com/news/australian-market-slips-to-slight-losses-in-mid-market/38114",
+    "site_full": "www.myfxbook.com",
+    "site": "myfxbook.com",
+    "site_section": "https://www.myfxbook.com/news/pounds-falls-against-majors",
+    "site_categories": [],
+    "section_title": "Forex News | Myfxbook",
+    "site_title": "Forex Trading tools for Forex traders",
+    "title": "Australian Market Slips To Slight Losses In Mid-market",
+    "title_full": "Australian Market Slips To Slight Losses In Mid-market",
+    "published": "2025-06-19T06:24:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://static.mfbcdn.net/images/news/38114/desktop.webp",
+    "performance_score": 0,
+    "domain_rank": 27400,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ffdb73a2a581a59f29419449e48a761600de8557",
+  "url": "https://www.myfxbook.com/news/australian-market-slips-to-slight-losses-in-mid-market/38114",
+  "ord_in_thread": 0,
+  "author": "RTTNews",
+  "published": "2025-06-19T06:24:00.000+03:00",
+  "title": "Australian Market Slips To Slight Losses In Mid-market",
+  "text": "Australian Market Slips To Slight Losses In Mid-market\n(RTTNews) - The Australian market is slipping in to the red in mid-market moves on Thursday after opening in the green, extending the losses in the previous two sessions, following the mixed cues from Wall Street overnight. The benchmark S&P/ASX 200 is staying below the 8,550 level, with weakness in mining and energy stocks partially offset by some gains in financial and technology stocks.\nThe benchmark S&P/ASX 200 Index is losing 10.50 points or 0.12 percent to 8,520.70, after touching a high of 8,536.00 and a low of 8,504.70 earlier. The broader All Ordinaries Index is up 17.00 points or 0.19 percent to 8,740.90. Australian stocks ended slightly lower on Wednesday.\nAmong major miners, BHP Group is losing 1.5 percent and Rio Tinto is declining almost 2 percent, while Mineral Resources and Fortescue Metals are down more than 1 percent.\nOil stocks are mostly lower. Woodside Energy and Santos are edging down 0.3 to 0.4 percent each, while Origin Energy is losing more than 2 percent. Beach energy is edging up 0.2 percent.\nIn the tech space, Afterpay owner Block is gaining almost 1 percent, Zip is adding almost 1 percent and Appen is surging more than 8 percent, while Xero is edging down 0.5 percent and WiseTech Global is losing almost 2 percent.\nAmong the big four banks, Commonwealth Bank and National Australia Bank are gaining almost 1 percent, while Westpac is adding almost 2 percent. ANZ Banking is edging down 0.4 percent.\nAmong gold miners, Northern Star Resources is losing almost 1 percent, Newmont is edging down 0.1 percent, Evolution Mining is declining almost 5 percent and Resolute Mining is sliding more than 10 percent. Gold Road Resources is edging up 0.3 percent.\nIn the currency market, the Aussie dollar is trading at $0.648 on Thursday.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->market and exchange",
+    "Economy, Business and Finance->financial and economic news"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Santos",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Woodside Energy",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Origin Energy",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "BHP Group",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:41:27.513+03:00",
+  "updated": "2025-06-19T04:44:22.000+00:00"
+}

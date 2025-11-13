@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "f4b7048b1c7374a90e60e096de880d86a67e35ec",
+    "url": "https://sbnonline.com/article/hyper-converged-infrastructure-offers-data-center-simplicity-2/",
+    "site_full": "sbnonline.com",
+    "site": "sbnonline.com",
+    "site_section": "https://sbnonline.com",
+    "site_categories": [],
+    "section_title": "Home - SBN",
+    "title": "Hyper-converged infrastructure offers data-center simplicity - SBN",
+    "title_full": "Hyper-converged infrastructure offers data-center simplicity - SBN",
+    "published": "2023-12-28T22:25:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 55516,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f4b7048b1c7374a90e60e096de880d86a67e35ec",
+  "url": "https://sbnonline.com/article/hyper-converged-infrastructure-offers-data-center-simplicity-2/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2023-12-28T22:25:00.000+02:00",
+  "title": "Hyper-converged infrastructure offers data-center simplicity - SBN",
+  "text": "Hyper-converged infrastructure is the pooling of all the elements of a traditional data center — storage, computing infrastructure and network infrastructure — into a single system. Doing so brings a number of benefits, but chief among them are the simplicity and ease of scalability that come with having a single managed interface. “The simplified infrastructure helps companies reduce their overall IT footprint in their data center, sometimes by as much as 75 percent,” says Mark Dunkley, Senior System Engineer at [Blue Technologies](https://www.btohio.com/). Smart Business spoke with Dunkley about hyper-converged infrastructure, what it is and how it’s benefiting businesses. What value does hyper-converged infrastructure offer organizations? Hyper-converged infrastructure brings flexibility to companies’ data centers. It’s infrastructure that’s easily scalable, offers additional storage and the potential to connect to additional network resources via nodes. Adding more memory, more computing power, more storage can be achieved without additional hardware. There is a great deal of simplicity that comes with a hyper-converged infrastructure solution because of its central software interface. Everything is there on a single pane, making it easy to manage. In terms of the performance of hyper-converged infrastructure, most people will look at the processing power and storage capacity. But something that is often overlooked is the average workload and the input/output requirement to handle it. A company may go to run an SQL database and then find out that they don’t have the read/write speeds that they thought they had. The ability to add additional nodes to hyper-converged infrastructure makes solving this issue simple compared to the same process in traditional data centers. What are some of the trends with this system that companies should know? One of the more exciting things happening right now is that companies, through hyper-converged infrastructure, can create their own private cloud. There is hybrid infrastructure that enables companies to replicate their data center in the cloud, creating safety through redundancy. Also garnering interest are the built-in security and data protection, and self-encrypting storage. In the past, this required another component running underneath the network, often a third-party software, to handle the data encryption in storage devices. Now, with hyper-converged infrastructure, the network can do all of the data encryption of the storage devices, and that function can be scaled if more nodes are added. How do the costs compare to other systems? Cost controls are another factor that has companies’ attention when it comes to hyper-converged infrastructure. In traditional setups, there multiple physical components to make a proper data center that has sufficient redundancy. Hyper-converged infrastructure is housed in one physical component that supplies redundancy through its cloud capabilities, while also reducing associated costs such as the personnel required to maintain it and the number of vendors required to service it. The simplicity behind hyper-converged infrastructure means, instead of needing IT personnel in three different specialties — a server admin, network infrastructure admin and a storage admin or specialty technician — hyper-converged infrastructure only requires one IT person, freeing the others for more important projects. The smaller footprint of hyper-converged infrastructure can reduce a company’s power and overall maintenance costs. With the latter, instead of having maintenance agreements for three different specialists, companies can use one vendor. Companies that switch to hyper-converged infrastructure will want to choose a vendor that has experience migrating infrastructure. It’s important that the chosen vendor knows what the requirements are and can properly spec the node package that will work for a company. They should also have the ability to troubleshoot common issues that can disrupt the process and a strong sense of the best practices to make the transition from a company’s current solution to a hyper-converged infrastructure go as smoothly as possible. ● INSIGHTS Technology is brought to you by [Blue Technologies](https://www.btohio.com/).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "external_links": ["https://www.btohio.com/).", "https://btohio.com/)."],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "mark dunkley",
+        "sentiment": "none"
+      },
+      {
+        "name": "dunkley",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "blue technologies",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T02:41:55.292+02:00",
+  "updated": "2023-12-29T02:41:55.292+02:00"
+}

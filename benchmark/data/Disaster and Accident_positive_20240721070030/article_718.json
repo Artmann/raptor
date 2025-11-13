@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "3ab167c4d276a701d959d5a35b4417951dec5d87",
+    "url": "https://ec2-13-214-47-110.ap-southeast-1.compute.amazonaws.com/news/314462995/first-couple-to-aid-farmers-fishers-in-negros-occidental-and-antique-next-week.html",
+    "site_full": "ec2-13-214-47-110.ap-southeast-1.compute.amazonaws.com",
+    "site": "ec2-13-214-47-110.ap-southeast-1.compute.amazonaws.com",
+    "site_section": "https://ec2-13-214-47-110.ap-southeast-1.compute.amazonaws.com/category/news",
+    "site_categories": [],
+    "section_title": null,
+    "title": "First Couple to aid farmers, fishers in Negros Occidental and Antique next week",
+    "title_full": "First Couple to aid farmers, fishers in Negros Occidental and Antique next week",
+    "published": "2024-06-23T13:47:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ID",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 50,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3ab167c4d276a701d959d5a35b4417951dec5d87",
+  "url": "https://ec2-13-214-47-110.ap-southeast-1.compute.amazonaws.com/news/314462995/first-couple-to-aid-farmers-fishers-in-negros-occidental-and-antique-next-week.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Manila Standard",
+  "published": "2024-06-23T13:47:00.000+03:00",
+  "title": "First Couple to aid farmers, fishers in Negros Occidental and Antique next week",
+  "text": "Bacolod City — President Marcos will visit Negros Occidental and Antique on Thursday, June 27, 2024, to lead relief efforts for farmers and fisherfolk under the Presidential Assistance to Farmers and Fisherfolk (PAFF) program.\nMayor Alfredo Benitez confirmed the visit during a media briefing in Bacolod City, highlighting the preparations already underway by presidential personnel for the anticipated arrival of the Chief Executive.\nThe President’s visit aims to provide financial support to individuals facing economic hardships, with a special focus on the agricultural and fishing sectors.\nPresident Marcos will personally oversee the distribution of cash assistance to around 10,000 beneficiaries in Negros Occidental. Out of these, 3,000 recipients are from Bacolod City, while each of the other districts in Negros will receive aid for 1,000 individuals.\nAccompanying the President is First Lady Liza Marcos, who will lead a separate initiative called the “ Laboratoryo para sa lahat ” (LAB for All) project.\nThis program is designed to offer essential laboratory and healthcare services to underprivileged individuals, who struggle to access government-provided healthcare.\nThe project, a collaboration among various government agencies, local government units, and the private sector, aims to serve a total of 1,500 beneficiaries.\nMeanwhile, Antique Governor Rhodora Cadiao confirmed to Manila Standard that after the visit to Negros, President Marcos will proceed to Antique to distribute similar financial assistance to the community there.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Disaster and Accident", "Politics"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "marcos",
+        "sentiment": "negative"
+      },
+      {
+        "name": "liza marcos",
+        "sentiment": "none"
+      },
+      {
+        "name": "alfredo benitez",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "negros occidental",
+        "sentiment": "negative"
+      },
+      {
+        "name": "presidential assistance to farmers",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "bacolod city",
+        "sentiment": "none"
+      },
+      {
+        "name": "negros occidental",
+        "sentiment": "none"
+      },
+      {
+        "name": "negros",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-23T16:11:03.666+03:00",
+  "updated": "2024-06-23T16:11:03.666+03:00"
+}

@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "0a4d364e78fb46939153a39cc4bb696b374d2823",
+    "url": "https://cenews.com.cn/news.html?aid=1745908",
+    "site_full": "cenews.com.cn",
+    "site": "cenews.com.cn",
+    "site_section": "https://cmsapi.cenews.com.cn/api/getarticles?cid=288&pagesize=20",
+    "site_categories": [],
+    "section_title": "",
+    "site_title": "中国环境网_全国生态环境信息平台",
+    "title": "在湖北省恩施州恩施市白杨坪镇，有一个美丽的村落--洞下槽村。这里森林覆盖率达85%，1500亩西坡林",
+    "title_full": "在湖北省恩施州恩施市白杨坪镇，有一个美丽的村落--洞下槽村。这里森林覆盖率达85%，1500亩西坡林",
+    "published": "2025-10-16T10:39:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 159851,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0a4d364e78fb46939153a39cc4bb696b374d2823",
+  "url": "https://cenews.com.cn/news.html?aid=1745908",
+  "ord_in_thread": 0,
+  "author": "熊争妍 易振凤",
+  "published": "2025-10-16T10:39:00.000+03:00",
+  "title": "在湖北省恩施州恩施市白杨坪镇，有一个美丽的村落--洞下槽村。这里森林覆盖率达85%，1500亩西坡林",
+  "text": "在湖北省恩施州恩施市白杨坪镇，有一个美丽的村落——洞下槽村。这里森林覆盖率达85%，1500亩西坡林场郁郁葱葱，不仅风光旖旎，更通过一系列扎实的生态环境建设，让“绿水青山”的成色更足，成了远近闻名的美丽社区样板。\n在洞下槽村，宽敞的硬化道路通村到组，420余盏太阳能路灯伫立路旁。村里大力推广清洁能源，超过180户用上了太阳能热水器，让村民的生活既便利又环保。凭借这些扎实的“绿色家底”，村子成功入选首批省级近零碳排放区示范工程试点。\n让很多村庄头疼的污水和垃圾问题，在这里得到有效治理。村里建起了100吨的人工湿地1处，通过数千米的管网收集处理生活污水；765户村民用上了卫生厕所，粪污经过无害化处理后变废为宝。在垃圾处理方面，村里构建了“户分类—村收集—镇转运—市处理”的全链条体系。村里还建成了3000立方米的大型沼气工程，将秸秆、畜禽粪便变成清洁燃气，惠及全村，真正实现了垃圾减量、环境增美。\n好环境离不开用心守护。洞下槽村建立了河长制体系，设河长办公室及专职河道保洁员，按月巡河两次。河道保洁员定期巡河清理，村民们也通过村规民约参与到渠水治理、排污监管等日常管护中，共同守护着家乡的清水绿岸。\n如今的洞下槽村，还充满了“智慧”。村里上线了大数据可视化平台，建起了智能监测网，包括秸秆焚烧报警设备7台，建成小微气象站及大气、土壤、水质监测系统近20套等，实时联动环境数据与安防网络，提升灾害预警能力，用数字化的手段为优美的生态环境保驾护航。\n生态环境的持续改善，为洞下槽村铺就了发展的“快车道”。优美的环境吸引了众多游客，带动了农家乐、民宿的兴起。“恩施玉露”品牌远近闻名，全村茶产业综合产值超过亿元。好生态变成了“金饭碗”，让村民的腰包鼓了起来，走上了绿色振兴之路。\n洞下槽村先后荣获“全国生态文化村”“湖北省绿色示范乡村”“湖北省美丽宜居乡村示范村”等众多荣誉，通过“生态增值、产业增效、村民增收”的振兴路径，全面激活乡村绿色振兴新动能。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Environment", "Lifestyle and Leisure"],
+  "topics": [
+    "Environment->sustainability",
+    "Environment->nature",
+    "Lifestyle and Leisure->travel and tourism"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:24:51.868+03:00",
+  "updated": "2025-10-16T13:57:32.000+03:00"
+}

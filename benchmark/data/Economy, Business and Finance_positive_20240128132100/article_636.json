@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "2c0ab576817e4b75e563e4974b5eab0dda7fbac6",
+    "url": "https://www.electronics-lab.com/melexis-squeezes-ultimate-performance-in-a-tiny-3d-magnetometer/",
+    "site_full": "www.electronics-lab.com",
+    "site": "electronics-lab.com",
+    "site_section": "https://electronics-lab.com",
+    "site_categories": ["tech"],
+    "section_title": "Electronic Projects, Embedded News and Online Community - Electronics-Lab",
+    "title": "Melexis squeezes ultimate performance in a tiny 3D Magnetometer - Electronics-Lab.com",
+    "title_full": "Melexis squeezes ultimate performance in a tiny 3D Magnetometer - Electronics-Lab.com",
+    "published": "2023-12-28T23:21:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "https://www.electronics-lab.com/wp-content/uploads/2023/12/MLX90394-_opengraph-1024x535-1.jpg",
+    "performance_score": 0,
+    "domain_rank": 45140,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2c0ab576817e4b75e563e4974b5eab0dda7fbac6",
+  "url": "https://www.electronics-lab.com/melexis-squeezes-ultimate-performance-in-a-tiny-3d-magnetometer/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "mixos",
+  "published": "2023-12-28T23:21:00.000+02:00",
+  "title": "Melexis squeezes ultimate performance in a tiny 3D Magnetometer - Electronics-Lab.com",
+  "text": "Melexis squeezes ultimate performance in a tiny 3D Magnetometer Melexis announces the MLX90394 Triaxis® micropower magnetometer, a tiny Hall-effect based sensor. It perfectly balances the design trade-off between low noise, current consumption and cost. With on-the-fly selectable modes and advanced configurability, it enables high reuse and fast time to market. This contactless solution is suitable for rotary, linear and 3D joystick control in gaming and industrial peripherals. Replacing mechanical solutions, the MLX90394 provides an elegant, flexible and highly reliable solution overcoming concerns inherent to traditional potentiometers, such as contamination of the wiper surface and packaging constraints. The magnetometer’s versatility allows for deployment in linear, rotary, joystick and push button operations, offering a cost-effective simplification of the supply chain by replacing numerous existing components. Both the smart nature of the device, which allows for future configuration changes, and the non-contact design help to provide a longer lifespan than potentiometers and contact based switches. Moreover, the ultra slim and small design (2×1.5×0.4 mm) helps make slicker HMIs. The MLX90394’s architecture delivers several benefits compared to existing solutions. This design enables measurement and output of each magnetic axis individually, along with a built-in thermometer that allows selectable temperature measurement for additional digital signal processing (DSP) compensation. Both the temperature and position data are output in 16-bit resolution, with I2C interface pins supporting 0.1MHz, 0.4MHz and 1.0MHz modes. Moreover, one product has two I2C addresses inside, which can be selected by changing the electrical pinout connection. At the core of the product is Melexis Triaxis technology. This innovative technology helps to deliver low noise (<9μT) independent 3-axis measurement in micropower operation. Average current consumption is just 3μA for X or Y measurement and 4.3μA for Z, at 10Hz in single measurement mode. With its counting current of 10μA, the chip does the counting for you, while your microcontroller is in deep sleep and consumes little. While the Wake-up On Change (WOC) functionality enables a swift return to operation with pulsed or latched hardware pin-interrupts (XYZ). WOC thresholds can be configured as either against an initial measurement (Static Delta), against the previous measurement (Dynamic Delta) or a predefined measurement (Absolute). This allows accurate transition from the Power Down mode to active in both high movement applications and those which exhibit slow drift movements. The embedded design grants easy integration and high accuracy tracking of both rotational joystick movements and push/slide button applications. Two compact UTDFN-6 (LD) packaged designs are available featuring different measurement ranges: ±5mT (0.15μT/LSB) and ±50mT (1.5μT/LSB). All variants are RoHS certified, and suitable for deployment in ambient conditions between -40oC to 105oC with supply voltage between 1.7V to 3.6V, ideal for most embedded and IOT electronics environments. “The MLX90394 brings unprecedented value and performance, meeting the demands of a wide range of modern applications. Whether engineers are developing computer peripherals, industrial cylinders or controls for smart appliances, this optimized and flexible chip will bring customers long-term performance not possible with existing potentiometers, mechanical switches and sliders,” commented Minko Daskalov, Product Manager at Melexis. “Its compact packaging and efficiency will increase design freedom and simplify integration within existing products, as well as allowing for new novel solutions.” more information: [www.melexis.com/MLX90394](https://u12097671.ct.sendgrid.net/ls/click?upn=4PC2wo0fWhUBQdJDPL-2FxekFZasBZCqUXvLk9VgIEjjgqM2VR-2BnnUAVVFzoHjae-2FHrXkt_mp7wkc-2FmsI2mu1ktfWPYgrzdFA68yyJA5g5-2BZLccPxdxNMqAOB5ILKmOwB2iEojdxaUsfu16kg-2FFdBzPPGop8K9F-2FnCuOf9G9Eu0dSjc2LZAEkeXRlA7mNNZCXSYmtIN0WLslchgVmJo-2BV2k6W2gnRuOx1EtwqyuF0NYfg2Dr8m2oAavCN1kcEculpmyWKQ4wbXSriLYKM4yRET6jbhLABI3IB-2Fr4ziFi6hkmJlHam4eVNJmBoEMa3Obv84vObCBz7Dosug9pmetZwWvqcv3KNn7RY4SWPPN2jhbVb7qMB6Mlht87X1iMLfDx-2BmZLKIXj0L58Hqe24kvYD-2BV4d66RBwDtNu9NMTMd715aQc7jm3LLY6Qg9-2BZkqy6X9QW2E-2FEkRR-2FUtjaqAX1onBFVG5YP4Bk4GN4nt9OZine7OHen4jTXeL-2FS4wcfd7taD1sEmyhkqAZBTUB6BrQwAXCWZGWCwNtJQTzkKwB-2FM4b15I0xaV-2B9kINkoNy8co1bGZN0Tnq-2Bz4tpbn-2B9vHBvJqj2Pi1jBjZxkVMFgqSPOeNhi5pXHNggQNtuZzhQB4VQ2LLfCIXS8urPzcGrhx8-2BZ-2BNaBeLyw-3D-3D) Join 97,426 other subscribers Archives TagCloud [Aaeon](https://www.electronics-lab.com/tag/aaeon/) [AI](https://www.electronics-lab.com/tag/ai/) [Arduino](https://www.electronics-lab.com/tag/arduino/) [Battery](https://www.electronics-lab.com/tag/battery/) [BLE](https://www.electronics-lab.com/tag/ble/) [Bluetooth](https://www.electronics-lab.com/tag/bluetooth/) [camera](https://www.electronics-lab.com/tag/camera/) [DC-DC](https://www.electronics-lab.com/tag/dc-dc/) [display](https://www.electronics-lab.com/tag/display/) [ESP32](https://www.electronics-lab.com/tag/esp32/) [ESP8266](https://www.electronics-lab.com/tag/esp8266/) [FPGA](https://www.electronics-lab.com/tag/fpga/) [GPS](https://www.electronics-lab.com/tag/gps/) [I2C](https://www.electronics-lab.com/tag/i2c/) [IoT](https://www.electronics-lab.com/tag/iot/) [Kickstarter](https://www.electronics-lab.com/tag/kickstarter/) [LCD](https://www.electronics-lab.com/tag/lcd/) [Led](https://www.electronics-lab.com/tag/led/) [Linux](https://www.electronics-lab.com/tag/linux/) [Mcu](https://www.electronics-lab.com/tag/mcu/) [MEMS](https://www.electronics-lab.com/tag/mems/) [Microchip](https://www.electronics-lab.com/tag/microchip/) [Microcontroller](https://www.electronics-lab.com/tag/microcontroller/) [MOSFET](https://www.electronics-lab.com/tag/mosfet/) [Motor](https://www.electronics-lab.com/tag/motor/) [OLED](https://www.electronics-lab.com/tag/oled/) [Oscilloscope](https://www.electronics-lab.com/tag/oscilloscope/) [PCB](https://www.electronics-lab.com/tag/pcb/) [Power supply](https://www.electronics-lab.com/tag/power-supply/) [PWM](https://www.electronics-lab.com/tag/pwm/) [Raspberry Pi](https://www.electronics-lab.com/tag/raspberry-pi/) [regulator](https://www.electronics-lab.com/tag/regulator/) [RISC-V](https://www.electronics-lab.com/tag/risc-v/) [SBC](https://www.electronics-lab.com/tag/sbc/) [Sensor](https://www.electronics-lab.com/tag/sensor/) [SOC](https://www.electronics-lab.com/tag/soc/) [SOM](https://www.electronics-lab.com/tag/som/) [STMicroelectronics](https://www.electronics-lab.com/tag/stmicroelectronics/) [Switch](https://www.electronics-lab.com/tag/switch/) [Switching](https://www.electronics-lab.com/tag/switching/) [temperature](https://www.electronics-lab.com/tag/temperature/) [Texas Instruments](https://www.electronics-lab.com/tag/texas-instruments/) [TFT](https://www.electronics-lab.com/tag/tft/) [USB](https://www.electronics-lab.com/tag/usb/) [Wifi](https://www.electronics-lab.com/tag/wifi/)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology",
+    "Lifestyle and Leisure"
+  ],
+  "external_links": [
+    "https://u12097671.ct.sendgrid.net/ls/click?upn=4PC2wo0fWhUBQdJDPL-2FxekFZasBZCqUXvLk9VgIEjjgqM2VR-2BnnUAVVFzoHjae-2FHrXkt_mp7wkc-2FmsI2mu1ktfWPYgrzdFA68yyJA5g5-2BZLccPxdxNMqAOB5ILKmOwB2iEojdxaUsfu16kg-2FFdBzPPGop8K9F-2FnCuOf9G9Eu0dSjc2LZAEkeXRlA7mNNZCXSYmtIN0WLslchgVmJo-2BV2k6W2gnRuOx1EtwqyuF0NYfg2Dr8m2oAavCN1kcEculpmyWKQ4wbXSriLYKM4yRET6jbhLABI3IB-2Fr4ziFi6hkmJlHam4eVNJmBoEMa3Obv84vObCBz7Dosug9pmetZwWvqcv3KNn7RY4SWPPN2jhbVb7qMB6Mlht87X1iMLfDx-2BmZLKIXj0L58Hqe24kvYD-2BV4d66RBwDtNu9NMTMd715aQc7jm3LLY6Qg9-2BZkqy6X9QW2E-2FEkRR-2FUt",
+    "https://u12097671.ct.sendgrid.net/ls/click",
+    "https://www.u12097671.ct.sendgrid.net/ls/click?upn=4PC2wo0fWhUBQdJDPL-2FxekFZasBZCqUXvLk9VgIEjjgqM2VR-2BnnUAVVFzoHjae-2FHrXkt_mp7wkc-2FmsI2mu1ktfWPYgrzdFA68yyJA5g5-2BZLccPxdxNMqAOB5ILKmOwB2iEojdxaUsfu16kg-2FFdBzPPGop8K9F-2FnCuOf9G9Eu0dSjc2LZAEkeXRlA7mNNZCXSYmtIN0WLslchgVmJo-2BV2k6W2gnRuOx1EtwqyuF0NYfg2Dr8m2oAavCN1kcEculpmyWKQ4wbXSriLYKM4yRET6jbhLABI3IB-2Fr4ziFi6hkmJlHam4eVNJmBoEMa3Obv84vObCBz7Dosug9pmetZwWvqcv3KNn7RY4SWPPN2jhbVb7qMB6Mlht87X1iMLfDx-2BmZLKIXj0L58Hqe24kvYD-2BV4d66RBwDtNu9NMTMd715aQc7jm3LLY6Qg9-2BZkqy6X9QW2E-2FEkRR-2FUt"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "triax",
+        "sentiment": "positive"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:35:31.587+02:00",
+  "updated": "2023-12-29T01:35:31.587+02:00"
+}

@@ -1,0 +1,114 @@
+{
+  "thread": {
+    "uuid": "6b7f0c5ff9f2f7e9a80dd9c78f31677c719df0a1",
+    "url": "https://www.brecorder.com/news/40368469",
+    "site_full": "www.brecorder.com",
+    "site": "brecorder.com",
+    "site_section": "https://brecorder.com/markets/stocks",
+    "site_categories": [
+      "media",
+      "financial_news",
+      "finance",
+      "top_news_pk",
+      "top_news_sa",
+      "top_news"
+    ],
+    "section_title": "Stocks - Markets - Business Recorder",
+    "site_title": "Home - Business Recorder",
+    "title": "European shares fall as ME tensions weigh",
+    "title_full": "European shares fall as ME tensions weigh",
+    "published": "2025-06-19T03:53:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PK",
+    "main_image": "https://i.brecorder.com/large/2025/06/6853333f30d7d.jpg",
+    "performance_score": 0,
+    "domain_rank": 13102,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6b7f0c5ff9f2f7e9a80dd9c78f31677c719df0a1",
+  "url": "https://www.brecorder.com/news/40368469",
+  "ord_in_thread": 0,
+  "author": "Reuters",
+  "published": "2025-06-19T03:53:00.000+03:00",
+  "title": "European shares fall as ME tensions weigh",
+  "text": "FRANKFURT: European shares declined on Wednesday as investors awaited the Federal Reserve’s monetary policy decision, with ongoing tensions in the Middle East adding to market uncertainty.\nThe pan-European STOXX 600 index closed 0.4% down, at a near one-month low.\nThe hostilities between Iran and Israel extended to a sixth day, with fears of a more direct US involvement after President Donald Trump asked for Iran’s “unconditional surrender”.\nHowever, Iranian Supreme Leader Ayatollah Ali Khamenei rejected Trump’s demand for surrender.\nDefence stocks were among the biggest gainers, with the sector up 0.6%.\nTraders also stayed away from risk assets ahead of the Federal Reserve’s policy meeting at 1800 GMT, where officials are widely expected to hold interest rates steady.\nInvestors will closely watch policymakers’ comments for signals on how the US central bank plans to navigate an uncertain trade environment.\n“Rising geopolitical and trade uncertainties mean the Fed’s growth and inflation forecasts may lack precision.”, said Ipek Ozkardeskaya, senior analyst at Swissquote Bank.\nThe Fed faces additional challenges from potential inflation risks stemming from the escalating Middle East crisis.\nAs the July 8 tariff-pause deadline approaches, many countries, including the EU are scrambling to strike a deal with Washington. European Commission President Ursula von der Leyen was still aiming to reach a deal by July 9.\nThe only formal deal signed was the finalization of the US-UK agreement announced last month. Other major bourses indexes were largely mixed.\nLondon’s FTSE 100 closed up 0.1% after data showed that British inflation eased as expected in May. Investors are now eyeing the Bank of England’s rate decision on Thursday.\n“With services inflation still elevated... the BoE looks nailed on to keep rates unchanged,” said Ruth Gregory, deputy chief UK economist at Capital Economics.\nSweden’s central bank cut its key interest rate to 2.00% from 2.25% as expected. Still, Stockholm’s benchmark index dropped 0.1%.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Politics", "Human Interest"],
+  "topics": [
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->macro economics",
+    "Economy, Business and Finance->business reporting and performance",
+    "Politics->international relations",
+    "Politics->government",
+    "Politics->economic policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ipek Ozkardeskaya",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ali Khamenei",
+        "sentiment": "none"
+      },
+      {
+        "name": "Donald Trump",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Middle East",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Swissquote Bank",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Federal Reserve",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_pk", "top_news_sa", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:41:21.414+03:00",
+  "updated": "2025-06-20T05:08:54.000+00:00"
+}

@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "4a756bf73bc8b7f1637f6b19187c128c3abd7caf",
+    "url": "https://www.1news.co.nz/2023/12/29/teenage-boy-killed-by-shark-at-remote-south-australia-beach/",
+    "site_full": "www.1news.co.nz",
+    "site": "1news.co.nz",
+    "site_section": "https://1news.co.nz/latest",
+    "site_categories": [],
+    "section_title": "Latest",
+    "title": "Teenage boy killed by shark at remote South Australia beach",
+    "title_full": "Teenage boy killed by shark at remote South Australia beach",
+    "published": "2023-12-28T08:15:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NZ",
+    "main_image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/Y43E3IOAFNHVVKOTVUXVMSWVOM.jpg?auth=501933c999f3216113dd0f41dad7450d30b96d68090b73a8f82f3959e09f65ed&amp;quality=70&amp;width=600&amp;height=315&amp;focal=627%2C418",
+    "performance_score": 0,
+    "domain_rank": 29579,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4a756bf73bc8b7f1637f6b19187c128c3abd7caf",
+  "url": "https://www.1news.co.nz/2023/12/29/teenage-boy-killed-by-shark-at-remote-south-australia-beach/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "AAP",
+  "published": "2023-12-28T08:15:00.000+02:00",
+  "title": "Teenage boy killed by shark at remote South Australia beach",
+  "text": "A teenage boy has died after being bitten by a shark at a remote beach on South Australia's Yorke Peninsula. Emergency services were called to Ethel Beach in Innes National Park with reports of a shark attack at 1.30pm on Thursday. There, at the popular surf beach hemmed in by towering cliffs, they recovered the teenager's body. Local surfer Luke Sykora spoke of his shock over the tragedy. \"I have a seen a fair few sharks here over 22 years, but that is the first fatal attack that we've had down here,\" he told ABC News. \"I wouldn't wish it upon anyone … to even be at the same beach at the same time. \"I think the town would be mourning. I think it's very sad and very tragic and a bit of an eye-opener.\" The attack comes after a spate of serious shark bites in recent months, including the fatal attack of 55-year-old Tod Gendle at Granites Beach on the state's West Coast in October. His was the second shark death this year after 46-year-old teacher Simon Baccanello disappeared without a trace in May while surfing at Walkers Rock Beach, about 365km west of Adelaide. Police are preparing a report for the coroner.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Human Interest", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "yorke pe",
+        "sentiment": "negative"
+      },
+      {
+        "name": "simon baccanello",
+        "sentiment": "none"
+      },
+      {
+        "name": "tod gendle",
+        "sentiment": "none"
+      },
+      {
+        "name": "luke sykora",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "abc news",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "south australia",
+        "sentiment": "none"
+      },
+      {
+        "name": "walkers rock beach",
+        "sentiment": "none"
+      },
+      {
+        "name": "granites beach",
+        "sentiment": "none"
+      },
+      {
+        "name": "adelaide",
+        "sentiment": "none"
+      },
+      {
+        "name": "west coast",
+        "sentiment": "none"
+      },
+      {
+        "name": "innes national park",
+        "sentiment": "none"
+      },
+      {
+        "name": "ethel beach",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:49:35.845+02:00",
+  "updated": "2023-12-29T00:49:35.845+02:00"
+}

@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "41370b1507085554ae150f23a8af3a62dfe4e80f",
+    "url": "https://www.bangkokpost.com/thailand/general/3020542/two-quakes-in-north-cracks-found-from-wednesdays-quake-in-south",
+    "site_full": "www.bangkokpost.com",
+    "site": "bangkokpost.com",
+    "site_section": "https://bangkokpost.com/thailand",
+    "site_categories": ["media", "top_news_th", "top_news_sg", "top_news"],
+    "section_title": "Thailand news | Latest & Breaking News, Live, Video and Analysis - Bangkok Post",
+    "site_title": "Bangkok Post - The world’s window on Thailand | Breaking news, Thailand news, Latest news, World news",
+    "title": "Tremors in North, cracks found from quake in South",
+    "title_full": "Tremors in North, cracks found from quake in South",
+    "published": "2025-05-08T04:01:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TH",
+    "main_image": "https://static.bangkokpost.com/media/content/20250508/c1_3020542_700.jpg",
+    "performance_score": 0,
+    "domain_rank": 2175,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "41370b1507085554ae150f23a8af3a62dfe4e80f",
+  "url": "https://www.bangkokpost.com/thailand/general/3020542/two-quakes-in-north-cracks-found-from-wednesdays-quake-in-south",
+  "ord_in_thread": 0,
+  "author": "Bangkok Post Public Company Limited",
+  "published": "2025-05-08T04:01:00.000+03:00",
+  "title": "Tremors in North, cracks found from quake in South",
+  "text": "Two tremors were detected in the northern province of Nan early Thursday, following Wednesday’s quake that caused cracks in a hospital building in the southern province of Nakhon Si Thammarat.\nThe Earthquake Observation Division of the Meteorological Department reported two quakes in Nan measuring 1.7 and 1.5 on the Richter scale, at 4.04am and 4.52am. Both occurred one kilometre underground in tambon Yap Hua Na of Wiang Sa district.\nThe tremors followed a 3.0-magnitude earthquake on Wednesday in tambon Saira of Chawang district, Nakhon Si Thammarat.\nWednesday's quake, also one kilometre deep, struck at 5.31am and was felt in Chawang and Phipun districts, the division said.\nChawang Crown Prince Hospital was evacuated. Public works officials later found cracks at its health facility but confirmed the structure was safe.\nGroundwater wells were also damaged at several locations, but Kathun and Klong Din Daeng reservoirs in Phipun remained intact.\nA damaged groundwater well in Nakhon Si Thammarat. (Photo by Nujaree Rakrun)\nOn Google Maps, the Earthquake Observation Division marks the epicentre of the 1.7-magnitude quake in Nan province early Thursday morning.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Environment"],
+  "topics": ["Disaster and Accident->natural disaster"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Nujaree Rakrun",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Hospital",
+        "sentiment": "none"
+      },
+      {
+        "name": "Chawang",
+        "sentiment": "none"
+      },
+      {
+        "name": "Phipun",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Meteorological Department",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:13:05.684+03:00",
+  "updated": "2025-05-08T02:20:53.000+00:00"
+}

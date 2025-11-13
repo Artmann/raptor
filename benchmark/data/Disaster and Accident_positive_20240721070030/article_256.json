@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "beb5a682d12a7c5547c9fbd5730ffeb538559992",
+    "url": "https://denvergazette.com/outtherecolorado/news/lost-hikers-did-exactly-what-they-should-have-done-prior-to-rescue-in-colorado/article_af49a1cc-2feb-11ef-9883-8fd263fbef43.html",
+    "site_full": "denvergazette.com",
+    "site": "denvergazette.com",
+    "site_section": "http://www.outtherecolorado.com/",
+    "site_categories": ["uncategorized"],
+    "section_title": "OutThere Colorado",
+    "title": "Lost hikers 'did exactly what they should have done' prior to rescue in Colorado | outtherecolorado.com",
+    "title_full": "Lost hikers 'did exactly what they should have done' prior to rescue in Colorado | outtherecolorado.com",
+    "published": "2024-06-21T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/denvergazette.com/content/tncms/assets/v3/editorial/1/ce/1cebd874-2fee-11ef-8672-c774c939d89b/6675af0dba52e.image.jpg?crop=1253%2C658%2C0%2C89&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 22847,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "beb5a682d12a7c5547c9fbd5730ffeb538559992",
+  "url": "https://denvergazette.com/outtherecolorado/news/lost-hikers-did-exactly-what-they-should-have-done-prior-to-rescue-in-colorado/article_af49a1cc-2feb-11ef-9883-8fd263fbef43.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Spencer McKee",
+  "published": "2024-06-21T08:00:00.000+03:00",
+  "title": "Lost hikers 'did exactly what they should have done' prior to rescue in Colorado | outtherecolorado.com",
+  "text": "Larimer County Search and Rescue has shared the story of a recent mission as it provides a great example of what lost hikers should do. According to the group, their team was called into the field on June 14 to rescue a couple of lost hikers. This process was expedited thanks to the hikers following best practices related to 'what to do when lost.' When the hikers realized they were lost, they called for help and then stayed in the same place, waiting for their rescuers to arrive. These actions may seem simple, but many times, hikers do the opposite of what these two did, leading to a more complicated situation. It can be easy for hikers to justify trying to self-rescue when they believe they're lost, opposed to immediately calling for help. This can not only lead to hikers getting more lost, but it can also lead to hikers pushing further into more dangerous terrain. Not staying put can also be problematic when it comes to grid searching, making it more difficult for crews to find missing persons as those missing persons may travel into an area that's already been cleared. Additionally, hikers can be hesitant to call for help, thinking there will be some sort of judgment or penalty for doing so. In reality, search and rescue is generally free in Colorado, with search and rescue costs coming into play when transport from the scene may be required via helicopter or ambulance. In 'lost hiker' scenarios where injuries aren't involved, there's generally not an associated cost. And as far as judgment goes, people that volunteer on Colorado's search and rescue teams are doing so because they want to help in situations of this nature. They're happy when everyone gets back to the trailhead safely. So, next time you're lost on the trail, don't keep moving. Get your bearings and call search and rescue while staying put. This might mean placing a 9-1-1 call to local emergency services or using a satellite-connected emergency communication device, such as a [Garmin inReach](https://www.garmin.com/en-US/c/outdoor-recreation/satellite-communicators/), with that option allowing you to call for help when cell service may not be available. If you're interested in supporting Colorado's volunteer-powered search and rescue operation, one way to do so is through the purchase of a [CORSAR card](https://dola.colorado.gov/sar/cardPurchase.jsf). It's cheap, at only $5 per year.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Human Interest"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://dola.colorado.gov/sar/cardPurchase.jsf).",
+    "https://www.garmin.com/en-US/c/outdoor-recreation/satellite-communicators/),",
+    "https://www.dola.colorado.gov/sar/cardPurchase.jsf).",
+    "https://garmin.com/en-US/c/outdoor-recreation/satellite-communicators/),"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "larimer county search and rescue",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "colorado",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-21T20:24:38.562+03:00",
+  "updated": "2024-06-22T11:34:13.794+03:00"
+}

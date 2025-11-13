@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "3915e4840235d9fb43bfdf5422bf08dfe22e6f00",
+    "url": "https://www.hometownstations.com/lima-mayor-commends-local-literacy-programs-for-helping-residents-improve-skills/video_66d8ff98-5e73-54df-b0f3-224c026614db.html",
+    "site_full": "www.hometownstations.com",
+    "site": "hometownstations.com",
+    "site_section": "http://www.hometownstations.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5b%5d=%23topstory",
+    "site_categories": ["media"],
+    "section_title": "www.hometownstations.com - RSS Results",
+    "site_title": "Hometown Stations|Breaking News | West Central Ohio's News, Weather and Sports Leader",
+    "title": "Lima mayor commends local literacy programs for helping residents improve skills",
+    "title_full": "Lima mayor commends local literacy programs for helping residents improve skills",
+    "published": "2025-09-18T02:59:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/hometownstations.com/content/tncms/assets/v3/editorial/6/6d/66d8ff98-5e73-54df-b0f3-224c026614db/68cb71f5b92ab.image.jpg?crop=1280%2C672%2C0%2C23&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 274150,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3915e4840235d9fb43bfdf5422bf08dfe22e6f00",
+  "url": "https://www.hometownstations.com/lima-mayor-commends-local-literacy-programs-for-helping-residents-improve-skills/video_66d8ff98-5e73-54df-b0f3-224c026614db.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T02:59:00.000+03:00",
+  "title": "Lima mayor commends local literacy programs for helping residents improve skills",
+  "text": "Lima mayor commends local literacy programs for helping residents improve skills\n- Updated\nAs featured on\nMayor Smith emphasized the importance of collaboration in meeting residents’ needs. “So one of the things that I heard today is that if an individual signs up that lives near to Apollo, then they're referred to Apollo, but if they live near Lima City Schools, they're referred to Lima City Schools. And so it's important to have different on-ramps for services in our communities, for individuals,” she said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": [
+    "Education->social learning",
+    "Education->adult and continuing education",
+    "Human Interest->anniversary",
+    "Social Issue->social services",
+    "Social Issue->communities"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Smith",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "City Schools",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "3915e4840235d9fb43bfdf5422bf08dfe22e6f00",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": ["Lima"],
+      "state": ["Ohio"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:37:46.555+03:00",
+  "updated": "2025-09-18T07:47:57.000+03:00"
+}

@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "475bbfe7613b38e1a81bec947f9087c5733916a1",
+    "url": "https://local.newsbreak.com/fox-news-510075/4074867023693-indiana-governor-freezes-college-tuition-citing-broken-system-in-need-of-reform",
+    "site_full": "local.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://local.newsbreak.com/fox-news-510075",
+    "site_categories": [],
+    "section_title": "Fox News&#x27;s Home Page | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Indiana governor freezes college tuition, citing 'broken system' in need of reform - NewsBreak",
+    "title_full": "Indiana governor freezes college tuition, citing 'broken system' in need of reform - NewsBreak",
+    "published": "2025-06-26T14:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/1xuyvs_12Aw5NMW00",
+    "performance_score": 0,
+    "domain_rank": 3213,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "475bbfe7613b38e1a81bec947f9087c5733916a1",
+  "url": "https://local.newsbreak.com/fox-news-510075/4074867023693-indiana-governor-freezes-college-tuition-citing-broken-system-in-need-of-reform",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T14:00:00.000+03:00",
+  "title": "Indiana governor freezes college tuition, citing 'broken system' in need of reform - NewsBreak",
+  "text": "Indiana governor freezes college tuition, citing 'broken system' in need of reform - NewsBreak",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education", "Politics", "Social Issue"],
+  "topics": [
+    "Education->educational grading",
+    "Education->vocational education",
+    "Education->college and university",
+    "Politics->government policy",
+    "Politics->education policy",
+    "Social Issue->social condition",
+    "Social Issue->social problem",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:14:51.811+03:00",
+  "updated": "2025-06-26T11:20:07.000+00:00"
+}

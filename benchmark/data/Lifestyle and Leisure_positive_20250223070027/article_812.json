@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "1a4d023debb911a77649e40b5253fd2d8d77ed10",
+    "url": "https://eldiariocantabria.publico.es/articulo/torrelavega/centro-civico-sierrapando-abrira-puertas-proxima-semana/20250123191902170164.html",
+    "site_full": "eldiariocantabria.publico.es",
+    "site": "publico.es",
+    "site_section": "https://eldiariocantabria.publico.es/rss",
+    "site_categories": ["top_news_es", "top_news"],
+    "section_title": "",
+    "title": "El Centro Cívico de Sierrapando abrirá sus puertas la próxima semana",
+    "title_full": "El Centro Cívico de Sierrapando abrirá sus puertas la próxima semana",
+    "published": "2025-01-23T20:19:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://eldiariocantabria.publico.es/media/eldiariocantabria/images/2024/05/14/2024051420233735395.jpg",
+    "performance_score": 0,
+    "domain_rank": 5125,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1a4d023debb911a77649e40b5253fd2d8d77ed10",
+  "url": "https://eldiariocantabria.publico.es/articulo/torrelavega/centro-civico-sierrapando-abrira-puertas-proxima-semana/20250123191902170164.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Redacción",
+  "published": "2025-01-23T20:19:00.000+02:00",
+  "title": "El Centro Cívico de Sierrapando abrirá sus puertas la próxima semana",
+  "text": "El Centro Cívico de Sierrapando abrirá sus puertas la próxima semana\nEl Centro Cívico de Sierrapando, en Torrelavega, abrirá sus puertas la próxima semana tras solventarse \"problemas ajenos al Ayuntamiento\" que han retrasado su puesta en funcionamiento.\nAsí lo ha anunciado este jueves el concejal de Obras Públicas y Servicios Generales, José Luis Urraca, en una rueda de prensa en la que ha informado de los temas abordados en la Comisión del área, y en la que ha dado cuenta de algunos de los principales proyectos y objetivos para este 2025.\nEn el caso de la puesta en funcionamiento del Centro Cívico de Sierrapando, Urraca ha indicado que este edificio cuenta en su planta baja con una sala polivalente que servirá como espacio de exposiciones, aulario, charlas y salón de actos. En la primera planta hay un aula de informática y una biblioteca, que servirán tanto para el pueblo como para los alumnos del colegio, y en la segunda planta hay una sala polivalente y tres despachos para el tejido social.\nAsimismo, ha dado a conocer que en el primer semestre del año estarán finalizados los proyectos de reforma integral de la Avenida del Besaya y de la plaza Mauro Muriedas.\nHa anunciado la reforma de la cubierta del pabellón de La Habana Vieja, de la Sala Mauro Muriedas, de la Plaza de las Ánimas en Viérnoles, la construcción del nuevo acceso a la pista deportiva cubierta también de Viérnoles, el encargo de la redacción de proyectos para cubrir la pista deportiva junto al colegio Manuel Liaño y el inicio de los trabajos para adaptar el baño de la Plaza de Abastos para personas ostomizadas. En este sentido, ha recordado que se van a adaptar dos baños en el Parque Manuel Barquín y que también habrá un baño adaptado en el nuevo aparcamiento en altura de La Carmencita.\nUrraca Casal también ha informado que, \"en los próximos días\", se entregará al Ayuntamiento el anteproyecto de los Cines Pereda y que este viernes, 24 de enero, realizará la propuesta de adjudicación de la segunda fase de La Lechera a la que optan 8 empresas, con un presupuesto de 11,7 millones de euros.\nPALACIO MUNICIPAL\nTambién ha avanzado que en los próximos días se abrirán las ofertas presentadas para la redacción del proyecto de reforma del Palacio Municipal, \"otro de los grandes objetivos del equipo de gobierno para esta legislatura\".\nAdemás, ha avanzado la \"próxima licitación\" de las pistas de skate de Nueva Ciudad y la próxima adjudicación de los vestuarios del Mercado Nacional de Ganados.\nRespecto a las obras del aparcamiento en altura de La Carmencita, ha comunicado que la empresa ha solicitado un mes de prórroga y que se prevé que los trabajos concluyan a finales de febrero.\nY en cuanto a los trabajos de la vía auxiliar para el soterramiento --el desvío provisional de la línea ferroviaria de ancho métrico a su paso por Torrelavega--, ha indicado que \"se ha confirmado su finalización este verano\".",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Human Interest->ceremony",
+    "Lifestyle and Leisure->leisure venue",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "José Luis Urraca",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Centro Cívico de Sierrapando",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Ayuntamiento",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:35:57.471+02:00",
+  "updated": "2025-01-24T00:35:57.471+02:00"
+}

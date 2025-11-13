@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "4c1c49b3ecc271dec6ca02a096566ba64a45cc41",
+    "url": "https://welovebudapest.com/en/article/2025/01/23/sights-and-culture-budapest-main-square-redesign",
+    "site_full": "welovebudapest.com",
+    "site": "welovebudapest.com",
+    "site_section": "https://welovebudapest.com/en",
+    "site_categories": ["travel", "eastern_europe"],
+    "section_title": "News, restaurants, events, brunch spots - We Love Budapest",
+    "title": "Here's what Budapest's new main square will look like",
+    "title_full": "Here's what Budapest's new main square will look like",
+    "published": "2025-01-23T17:47:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "HU",
+    "main_image": "https://kep.cdn.index.hu/1/0/6020/60206/602064/60206491_4452701_4df55fc23e4ba9fa43e1cc8c909b6065_wm.jpg",
+    "performance_score": 0,
+    "domain_rank": 56717,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4c1c49b3ecc271dec6ca02a096566ba64a45cc41",
+  "url": "https://welovebudapest.com/en/article/2025/01/23/sights-and-culture-budapest-main-square-redesign",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "We love Budapest",
+  "published": "2025-01-23T17:47:00.000+02:00",
+  "title": "Here's what Budapest's new main square will look like",
+  "text": "It's always a win when public spaces go greener – especially when it means more room for relaxation and recreation for us. Whether you're a local or just visiting, you'll soon be able to enjoy a brand-new community space in the heart of the city, just steps away from Deák Ferenc tér. The transformation of Városháza Park, located in front of City Hall, was first announced by the City of Budapest in 2021. If all goes to plan, work will begin next year, with plenty of exciting changes and innovations to improve the area's climate and overall livability.\nOnce a private parking lot, the space is set to become Budapest's new main square. Last summer, a pop-up park already gave a taste of what's to come, offering a glimpse into the vision created by Lépték-Terv Landscape Architecture Firm. The full transformation is expected to be completed by 2026, delivering a vibrant new community space to the city.\nHere, the city's new, very green and super cool main square is being created, finally freeing City Hall's 3rd courtyard from its confinement. This space might easily become a central meeting point in the heart of Budapest, in an area where the amount of green space per person is currently the lowest. The conceptual plans for Városháza Park are now complete – wrote Mayor Gergely Karácsony on his Facebook page.\nItt készül a város új, nagyon zöld és nagyon menő főtere, ami felszabadítja végre a Városháza 3-as udvarát a...\nKözzétette:[Karácsony Gergely]–[2025. január 19., vasárnap]\nThe redesign features smart, eco-friendly solutions to help cool the area rather than trap heat. Green space will increase by 50%, rainwater will be collected for watering plants, and a lush green wall will be added to the City Hall façade.\n(Cover photo: City of Budapest)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment", "Lifestyle and Leisure", "Human Interest"],
+  "topics": [
+    "Environment->parks",
+    "Environment->sustainability",
+    "Environment->nature",
+    "Lifestyle and Leisure->outdoor recreational activities",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": ["https://leptek.hu/en", "https://www.leptek.hu/en"],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "Városháza Park",
+        "sentiment": "none"
+      },
+      {
+        "name": "City Hall",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:02:36.465+02:00",
+  "updated": "2025-01-24T00:02:36.465+02:00"
+}

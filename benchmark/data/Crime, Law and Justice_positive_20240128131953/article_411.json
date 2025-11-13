@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "1d887a2fa838f7fdbfe2154f0408a286a8c6e6a5",
+    "url": "https://www.theartnewspaper.com/2023/12/29/court-of-appeal-ruling-will-prevent-uk-museums-from-charging-reproduction-feesat-last",
+    "site_full": "www.theartnewspaper.com",
+    "site": "theartnewspaper.com",
+    "site_section": "http://www.theartnewspaper.com/rss.xml",
+    "site_categories": ["media", "education", "art_history"],
+    "section_title": "",
+    "title": "Court of Appeal ruling will prevent UK museums from charging reproduction fees—at last",
+    "title_full": "Court of Appeal ruling will prevent UK museums from charging reproduction fees—at last",
+    "published": "2023-12-29T12:24:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.sanity.io/images/cxgd3urn/production/3e499a1725e3744b4c4a972456374a01a71db7cc-5000x5000.jpg?rect=0,1000,5000,3000&amp;w=1200&amp;h=720&amp;q=85&amp;fit=crop&amp;auto=format",
+    "performance_score": 0,
+    "domain_rank": 4935,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1d887a2fa838f7fdbfe2154f0408a286a8c6e6a5",
+  "url": "https://www.theartnewspaper.com/2023/12/29/court-of-appeal-ruling-will-prevent-uk-museums-from-charging-reproduction-feesat-last",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Bendor Grosvenor",
+  "published": "2023-12-29T12:24:00.000+02:00",
+  "title": "Court of Appeal ruling will prevent UK museums from charging reproduction fees—at last",
+  "text": "A recent judgement on copyright in the Court of Appeal (20 November) heralds the end of UK museums charging fees to reproduce historic artworks. In fact, it suggests museums have been mis-selling “image licences” for over a decade. For those of us who have been campaigning on the issue for years, it is the news we’ve been waiting for. The judgement is important because it confirms that museums do not have valid copyright in photographs of (two-dimensional) works which are themselves out of copyright. It means these photographs are in the public domain, and free to use. Museums use copyright to restrict the circulation of images, obliging people to buy expensive licences. Any thought of scholars sharing images, or using those available on museum websites, was claimed to be a breach of copyright. Not surprisingly, most people paid up. Copyright is the glue that holds the image fee ecosystem in place. What has now changed? Museums used to rely on the 1988 Copyright, Designs and Patents Act, which placed a low threshold on how copyright was acquired; essentially, if some degree of “skill and labour” was involved in taking a photograph of a painting, then that photograph enjoyed copyright. But subsequent case law has raised the bar, as the new Appeal Court judgement makes clear. In his ruling (THJ v Sheridan, 2023), Lord Justice Arnold wrote that, for copyright to arise: “What is required is that the author was able to express their creative abilities in the production of the work by making free and creative choices so as to stamp the work created with their personal touch”. Importantly, he went on: “This criterion is not satisfied where the content of the work is dictated by technical considerations, rules or other constraints which leave no room for creative freedom”. In other words, if the aim of a museum photograph is to accurately reproduce a painting (which it must be), then it cannot acquire copyright. Copyright bar since 2009 Moreover, Lord Justice Arnold pointed out that the new copyright bar has been in place since 2009. This raises doubts about the basis on which most museums have sold image licences since then. As Eleonora Rosati, professor of intellectual property law at Stockholm University tells me, “technically, this has been wrong for ten-plus years”. In fact, some museums have long been aware of the true status of UK copyright law, despite suggesting otherwise publicly. The Tate has internally accepted the new definition for some years, yet still claims copyright over its historic collection in a number of ways. In a statement to me, the Tate says it charges fees “for supplying high-resolution digital images from our picture library. These are different to copyright fees, which are not applied to images unless they are covered by copyright law.” Of course, the Tate only has to use its picture library to supply high-resolution images because it only shows low-resolution images on its website. But here is the main point: those © symbols on UK museum websites and catalogues are now redundant if the original artwork is itself out of copyright. There is no reason not to use these images for free (and nobody would argue against paying for new images, if needed). The National Gallery marks images “© National Gallery”, and in its terms and conditions forbids reproduction unless “expressly permitted under copyright law”. But since there is no copyright, reproduction is indeed permitted (expressly or otherwise, there is no distinction). No major UK museum has taken anyone to court over copyright of such images, and no sensible trustee will let them now. Surely museums will now change their policies? The National Gallery told me in a statement: “We are aware of this recent Appeal Court ruling and we will be reviewing its guidance.” Since I have also established, through a Freedom of Information request, that the National Gallery has been losing money on its image licensing operation, hopefully it will embrace this chance to abolish image fees altogether. Then the gallery, art historians and the public, will be practically, legally, culturally and financially better off. For art history, this is a judgement where everyone wins.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Arts, Culture and Entertainment", "Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "court of appeal",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "uk",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T13:46:45.349+02:00",
+  "updated": "2023-12-30T00:22:56.211+02:00"
+}

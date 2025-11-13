@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "10750b0f71d07329c670612605b9ec3fee18b709",
+    "url": "https://www.163.com/dy/article/K9O8KELS053469RG.html",
+    "site_full": "www.163.com",
+    "site": "163.com",
+    "site_section": "http://news.163.com",
+    "site_categories": [
+      "top_news_vn",
+      "top_news_th",
+      "top_news_nz",
+      "top_news_rs",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news_hk",
+      "top_news_my",
+      "top_news"
+    ],
+    "section_title": "网易新闻",
+    "site_title": "网易",
+    "title": "DeepSeek，打破历史！中国AI的\"Nature时刻\"|推理|智能体|大模型|注意力机制|deepseek_网易订阅",
+    "title_full": "DeepSeek，打破历史！中国AI的\"Nature时刻\"|推理|智能体|大模型|注意力机制|deepseek_网易订阅",
+    "published": "2025-09-18T08:20:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 537,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "10750b0f71d07329c670612605b9ec3fee18b709",
+  "url": "https://www.163.com/dy/article/K9O8KELS053469RG.html",
+  "ord_in_thread": 0,
+  "author": "网易",
+  "published": "2025-09-18T08:20:00.000+03:00",
+  "title": "DeepSeek，打破历史！中国AI的\"Nature时刻\"|推理|智能体|大模型|注意力机制|deepseek_网易订阅",
+  "text": "中国大模型，首登Nature封面。\n9月17日，在最新一期的国际权威期刊Nature（自然）中，DeepSeek-R1推理模型研究论文登上了封面。该论文由DeepSeek团队共同完成，梁文锋担任通讯作者，首次公开了仅靠强化学习就能激发大模型推理能力的重要研究成果。这是中国大模型研究首次登上Nature封面，也是全球首个经过完整同行评审并发表于权威期刊的主流大语言模型研究，标志着中国AI技术在国际科学界获得最高认可。\nNature在其社论中评价道：“几乎所有主流的大模型都还没有经过独立同行评审，这一空白终于被DeepSeek打破。”\n中国AI大模型的“Nature时刻”\n自大模型浪潮席卷全球以来，技术发布、性能榜单层出不穷，但始终缺乏一个权威的“科学认证”机制。OpenAI、谷歌等巨头虽屡有突破，但其核心技术多以技术报告形式发布，未经独立同行评审。\nDeepSeek以其公开性和透明性打破了这一局面。DeepSeek-R1模型的研究论文最早于今年年初发布在预印本平台arXiv上。自今年2月14日向Nature投递论文至今，历经半年，8位外部专家参与了同行评审，DeepSeek-R1推理模型研究论文终获发表，完成了从预印本到Nature封面的“学术跃迁”。审稿人不仅关注模型性能，更对数据来源、训练方法、安全性等提出严格质询，这一过程是AI模型迈向更高的透明度和可重复性的可喜一步。\n因此，Nature也对DeepSeek的开放模式给予高度评价，在其社论中评价道：“几乎所有主流的大模型都还没有经过独立同行评审，这一空白终于被DeepSeek打破。”全球知名开源社区Hugging Face机器学习工程师Lewis Tunstall也是DeepSeek论文的审稿人之一，他强调：“这是一个备受欢迎的先例。如果缺乏这种公开分享大部分研发过程的行业规范，我们将很难评估这些系统的潜在风险。”\n据了解，DeepSeek本次在Nature上发表的论文较今年年初的初版论文有较大的改动，全文64页，不仅首次披露了R1的训练成本，而且透露了更多模型训练的技术细节，包括对发布初期外界有关“蒸馏”方法的质疑作出了正面回应，提供了训练过程中减轻数据污染的详细流程，并对R1的安全性进行了全面评估。\n其中，在训练成本方面，R1-Zero和R1都使用了512张H800GPU，分别训练了198个小时和80个小时，以H800每GPU小时2美元的租赁价格换算，R1的总训练成本为29.4万美元（约合人民币209万元）。不到30万美元的训练成本，与其他推理模型动辄上千万美元的花费相比，可谓实现了极大的降本。\n关于R1发布最初时所受到的“蒸馏”质疑，DeepSeek介绍，其使用的数据全部来自互联网，虽然可能包含GPT-4生成的结果，但并非有意而为之，更没有专门的蒸馏环节。所谓“蒸馏”，简单理解就是用预先训练好的复杂模型输出的结果，作为监督信号再去训练另外一个模型。R1发布时，OpenAI称它发现DeepSeek使用了OpenAI专有模型来训练自己的开源模型的证据，但拒绝进一步透露其证据的细节。\nR2何时问世引发关注\n自今年年初发布R1以来，DeepSeek在全球树立了开源模型的典范，但过去数月，外界对于R2何时发布始终保持高度关注，相关传言一直不断。不过，R2的发布时间一再推迟，外界分析R2研发进程缓慢可能与算力受限有关。\n值得注意的是，今年8月21日，DeepSeek正式发布DeepSeek-V3.1，称其为“迈向Agent（智能体）时代的第一步”。据DeepSeek介绍，V3.1主要包含三大变化：一是采用混合推理架构，一个模型同时支持思考模式与非思考模式；二是具有更高的思考效率，能在更短时间内给出答案；三是具有更强的智能体能力，通过后训练优化，新模型在工具使用与智能体任务中的表现有较大提升。\n由于R1的基座模型为V3，V3.1的升级也引发了外界对于R2“在路上”的猜测。V3.1的升级更深刻的意义在于，DeepSeek强调DeepSeek-V3.1使用了UE8M0 FP8 Scale的参数精度，而UE8M0 FP8是针对即将发布的下一代国产芯片设计。这也表明未来基于DeepSeek模型的训练与推理有望更多应用国产AI芯片，助力国产算力生态加速建设。这一表态一度带动国产芯片算力股股价飙升。\n中国银河证券研报指出，DeepSeek从V3版本就开始采用FP8参数精度验证了其训练的有效性，通过降低算力精度，使国产ASIC芯片能在成熟制程（12-28nm）上接近先进制程英伟达GPU的算力精度，DeepSeek-V3.1使用UE8M0 FP8 Scale参数精度，让软件去主动拥抱硬件更喜欢的数据格式，“软硬协同”的生态技术壁垒逐渐成为AI浪潮下新范式，未来国产大模型将更多拥抱FP8算力精度并有望成为一种新技术趋势，通过软硬件的协同换取数量级性能的提升，国产算力芯片将迎来变革。\n责编：万健祎\n校对：王朝全\n版权声明\n\" Type=\"normal\"@@-->\n证券时报各平台所有原创内容，未经书面授权，任何单位及个人不得转载。我社保留追究相关行为主体法律责任的权利。\n转载与合作可联系证券时报小助理，微信ID：SecuritiesTimes\n\" Type=\"normal\"@@-->\nEND\n\" Type=\"normal\"@@-->",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Education"],
+  "topics": null,
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_vn",
+      "top_news_th",
+      "top_news_nz",
+      "top_news_rs",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news_hk",
+      "top_news_my",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:29:56.797+03:00",
+  "updated": "2025-09-19T09:05:32.000+03:00"
+}

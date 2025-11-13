@@ -1,0 +1,145 @@
+{
+  "thread": {
+    "uuid": "2901fd70d91fe7ee403ccc46cd981d4e07e64440",
+    "url": "https://gazete.hacettepe.edu.tr/en/news_detail/tubitak_3501_grant_support_for_assist_prof_secil_demirkol_canli-481",
+    "site_full": "gazete.hacettepe.edu.tr",
+    "site": "hacettepe.edu.tr",
+    "site_section": "https://gazete.hacettepe.edu.tr/en/news",
+    "site_categories": [],
+    "section_title": "Gazette Hacettepe - Haberler",
+    "site_title": "Gazete Hacettepe",
+    "title": "Gazette Hacettepe -",
+    "title_full": "Gazette Hacettepe -",
+    "published": "2025-09-17T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "TR",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 22935,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2901fd70d91fe7ee403ccc46cd981d4e07e64440",
+  "url": "https://gazete.hacettepe.edu.tr/en/news_detail/tubitak_3501_grant_support_for_assist_prof_secil_demirkol_canli-481",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-17T03:00:00.000+03:00",
+  "title": "Gazette Hacettepe -",
+  "text": "Dr. Seçil Demirkol Canlı, affiliated with the Clinical Oncology Department within the Division of Tumor Pathology at the Cancer Institute, Hacettepe University, has been honored with the TÜBİTAK 3501 research grant for her project centered on the evaluation of a novel biomarker in prostate cancer. Pathological Gleason grading, recognized as a pivotal parameter for ascertaining disease aggressiveness in prostate cancer, might not always align with the Gleason score derived from prostatectomy material. In this proposed project, the expression level of a novel candidate biomarker and its predictive and prognostic relationships will be assessed in collaboration with Assoc. Prof. Ahmet Güdeloğlu from the Urology Department, Faculty of Medicine, Hacettepe University, Assist. Prof. Güneş Güner from the Pathology Department, and Prof. Dr. Dilek Baydar from the Department of Medical Pathology, School of Medicine, Koç University.\nWithin the scope of the project, the molecular mechanisms related to the candidate biomarker will be evaluated using bioinformatics methods based on omic datasets. Supporting in vitro experiments will be conducted in collaboration with Assoc. Prof. Begüm Kocatürk from the Department of Basic Oncology, Cancer Institute, Hacettepe University.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Health", "Education", "Human Interest"],
+  "topics": [
+    "Health->medical profession",
+    "Health->cancer",
+    "Education->teachers",
+    "Education->college and university",
+    "Human Interest->award and prize"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Seçil Demirkol Canlı",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Ahmet Güdeloğlu",
+        "sentiment": "none"
+      },
+      {
+        "name": "Dilek Baydar",
+        "sentiment": "none"
+      },
+      {
+        "name": "Güneş Güner",
+        "sentiment": "none"
+      },
+      {
+        "name": "Gleason",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Clinical Oncology Department",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Department of Medical Pathology",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Pathology Department",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Hacettepe University",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Cancer Institute",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Koç University",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:08:52.896+03:00",
+  "updated": "2025-09-18T09:15:23.000+03:00"
+}

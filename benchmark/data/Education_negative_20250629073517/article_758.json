@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "01b7caf32384239acfa14fc845b1061043516ef9",
+    "url": "https://www.elfagr.org/5183524",
+    "site_full": "www.elfagr.org",
+    "site": "elfagr.org",
+    "site_section": "https://elfagr.org/category/1266",
+    "site_categories": ["media", "top_news_iq", "top_news_eg", "top_news"],
+    "section_title": "بوابة الفجر  | انفوجراف ",
+    "site_title": "بوابة الفجر",
+    "title": "7 حالات إغماء خلال امتحانات الفيزياء والتاريخ بالمنيا",
+    "title_full": "7 حالات إغماء خلال امتحانات الفيزياء والتاريخ بالمنيا",
+    "published": "2025-06-26T14:29:57.238+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "EG",
+    "main_image": "https://www.elfagr.org/UploadCache/libfiles/568/6/600x338o/992.jpg",
+    "performance_score": 0,
+    "domain_rank": 163893,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "01b7caf32384239acfa14fc845b1061043516ef9",
+  "url": "https://www.elfagr.org/5183524",
+  "ord_in_thread": 0,
+  "author": "@fagr24_",
+  "published": "2025-06-26T14:29:57.238+03:00",
+  "title": "7 حالات إغماء خلال امتحانات الفيزياء والتاريخ بالمنيا",
+  "text": "7 حالات إغماء خلال امتحانات الفيزياء والتاريخ بالمنيا\nشهد امتحان الفيزياء والتاريخ للشهادة الثانوية العامة محافظة المنيا، 7 حالات إغماء واعياء، تم نقل المصابين إلى المستشفيات لتلقي العلاج اللازم.\nتلقت الأجهزة الأمنية، إخطارا من غرفة عمليات النجدة يتضمن وجود عدد من حالات الإغماء خلال أداء امتحانات الفيزياء والتاريخ اليوم في محافظة المنيا في عدد من المراكز.\nعلى الفور قامت سيارات الإسعاف بنقل المصابين إلى المستشفيات لتلقي العلاج اللازم، وتحرر محاضر ادارية بذلك.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "arabic",
+  "sentiment": "negative",
+  "categories": ["Health", "Education", "Social Issue"],
+  "topics": [
+    "Health->health facility",
+    "Health->medical condition",
+    "Health->emergency care",
+    "Education->upper secondary education",
+    "Education->students",
+    "Education->educational testing and examinations",
+    "Social Issue->social services",
+    "Social Issue->children"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_iq", "top_news_eg", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:29:57.238+03:00",
+  "updated": "2025-06-27T12:12:18.000+00:00"
+}

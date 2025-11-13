@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "405443837d6ff688733ea3b1f60a8097bbafc9f7",
+    "url": "https://www.poresto.net/campeche/2025/5/7/incendio-en-campeche-afecta-a-tres-colonias-fuego-casi-arrasa-con-viviendas-y-una-bodega-.html",
+    "site_full": "www.poresto.net",
+    "site": "poresto.net",
+    "site_section": "https://poresto.net",
+    "site_categories": [
+      "under_construction",
+      "non_standard_content",
+      "top_news_mx",
+      "top_news"
+    ],
+    "section_title": "PorEsto! | Últimas noticias de la actualidad en la península del Yucatán en México ",
+    "site_title": "PorEsto! | Últimas noticias de la actualidad en la península del Yucatán en México",
+    "title": "Incendio en Campeche afecta a tres colonias; fuego casi arrasa con viviendas y una bodega",
+    "title_full": "Incendio en Campeche afecta a tres colonias; fuego casi arrasa con viviendas y una bodega",
+    "published": "2025-05-08T03:38:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://www.poresto.net/crop/300-0-3540-2161O1F0x0D1200x800Cfacd727bc84af7119b5f64b2cf89454c/media/2025/5/7/un-incendio-de-maleza-de-gran-magnitud-afecto-tres-colonias-en-la-zona-norte-de-campeche_MASTER.jpg",
+    "performance_score": 0,
+    "domain_rank": 84452,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "405443837d6ff688733ea3b1f60a8097bbafc9f7",
+  "url": "https://www.poresto.net/campeche/2025/5/7/incendio-en-campeche-afecta-a-tres-colonias-fuego-casi-arrasa-con-viviendas-y-una-bodega-.html",
+  "ord_in_thread": 0,
+  "author": "Jesús García",
+  "published": "2025-05-08T03:38:00.000+03:00",
+  "title": "Incendio en Campeche afecta a tres colonias; fuego casi arrasa con viviendas y una bodega",
+  "text": "Un incendio de maleza de gran magnitud registrado la tarde de este miércoles movilizó a los cuerpos de emergencia en la zona norte de la capital de Campeche, abarcando al menos tres colonias: Plan Chac, Cumbres y Valle Dorado. El siniestro se originó presuntamente por el efecto lupa y se vio agravado por las altas temperaturas y la abundante vegetación seca del área.\nNoticia Destacada\nIncendio de maleza cerca de las vías del Tren Maya moviliza a bomberos en Escárcega\nDe acuerdo con las autoridades, el fuego avanzó rápidamente entre los terrenos baldíos que rodean estas colonias, donde también se identificó la presencia de un basurero clandestino. Las llamas se dirigieron peligrosamente hacia una bodega ubicada en la colonia Valle Dorado y afectaron varias viviendas cercanas, aunque no se reportan personas lesionadas ni intoxicadas.\nEl personal de Protección Civil, Bomberos y elementos estatales trabajó intensamente para contener las llamas. Fue necesario el uso de al menos tres carros bomba, que se movilizaban entre la zona afectada y las bases para reabastecerse de agua.\nEntre los daños materiales, también se reportó la afectación de varios vehículos abandonados, que estaban en desuso desde administraciones pasadas y se encontraban en los terrenos cercanos al incendio. La rápida intervención de los cuerpos de emergencia evitó que el fuego alcanzara una zona con mayor densidad poblacional.\nLas autoridades recordaron a la ciudadanía la importancia de evitar tirar basura en lotes baldíos, ya que muchos de estos terrenos, usados como tiraderos clandestinos, incrementan el riesgo de incendios en temporada de calor.\nJGH",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Environment", "Crime, Law and Justice", "Social Issue"],
+  "topics": [
+    "Environment->natural resources",
+    "Environment->environmental pollution",
+    "Environment->hazardous materials",
+    "Crime, Law and Justice->arson",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Protección Civil",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:01:07.354+03:00",
+  "updated": "2025-05-08T02:10:15.000+00:00"
+}

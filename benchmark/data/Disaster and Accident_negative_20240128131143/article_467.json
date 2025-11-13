@@ -1,0 +1,134 @@
+{
+  "thread": {
+    "uuid": "56196444100ea0bd4fa174b04538875b1c7530e3",
+    "url": "https://www.wwltv.com/article/news/local/northshore/northshore-man-killed-in-head-on-collision-lsp-says/289-b3c6b5c4-a97a-4917-bab7-6ba4f557ef5d",
+    "site_full": "www.wwltv.com",
+    "site": "wwltv.com",
+    "site_section": "http://rssfeeds.wwltv.com/_/20/108826494/wwl/northshore",
+    "site_categories": ["media", "travel", "by_us_locale"],
+    "section_title": "WWL - Northshore",
+    "title": "Northshore man killed in head-on collision, LSP says | wwltv.com",
+    "title_full": "Northshore man killed in head-on collision, LSP says | wwltv.com",
+    "published": "2023-12-28T23:26:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.wwltv.com/assets/WWL/images/4bfb9499-91e2-43d9-9e46-601de716f7bf/4bfb9499-91e2-43d9-9e46-601de716f7bf_1140x641.jpg",
+    "performance_score": 0,
+    "domain_rank": 10163,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "56196444100ea0bd4fa174b04538875b1c7530e3",
+  "url": "https://www.wwltv.com/article/news/local/northshore/northshore-man-killed-in-head-on-collision-lsp-says/289-b3c6b5c4-a97a-4917-bab7-6ba4f557ef5d",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "WWL Staff",
+  "published": "2023-12-28T23:26:00.000+02:00",
+  "title": "Northshore man killed in head-on collision, LSP says | wwltv.com",
+  "text": "PONCHATOULA, La. — A two-vehicle crash claimed the life of 47-year-old Madisonville native Dustin Thompson on Thursday morning. According to the Louisiana State Police, the incident occurred before 7:30 a.m. on Louisiana Highway 22 near Watters Road when Thompson allegedly lost control of his 2017 Nissan Altima after striking the guardrail and then crossing back over the centerline before colliding with a 2021 Jeep Cherokee traveling in the opposite direction head-on. Despite both drivers being properly restrained, Thompson sustained fatal injuries as a result of the crash and was pronounced dead at the scene, while the driver of the jeep sustained moderate injuries. The driver of the Jeep was transported to a hospital for treatment. As part of the ongoing investigation by Troop L, routine toxicology samples were obtained from both drivers for analysis. ► Get breaking news from your neighborhood delivered directly to you by downloading the new FREE WWL-TV News app now in the [IOS App Store](https://apps.apple.com/us/app/new-orleans-news-from-wwl/id1453203460) or [Google Play](https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_d6bcd10196773d6203b7e9b10e53fea3&hl=en_US).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Disaster and Accident",
+    "Human Interest"
+  ],
+  "external_links": [
+    "https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_d6bcd10196773d6203b7e9b10e53fea3&hl=en_US).",
+    "https://apps.apple.com/us/app/new-orleans-news-from-wwl/id1453203460)",
+    "https://www.apps.apple.com/us/app/new-orleans-news-from-wwl/id1453203460)",
+    "https://www.play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_d6bcd10196773d6203b7e9b10e53fea3&hl=en_US).",
+    "https://play.google.com/store/apps/details"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "dustin th",
+        "sentiment": "negative"
+      },
+      {
+        "name": "thompson",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "lsp",
+        "sentiment": "negative"
+      },
+      {
+        "name": "wwl-tv news",
+        "sentiment": "none"
+      },
+      {
+        "name": "troop l",
+        "sentiment": "none"
+      },
+      {
+        "name": "louisiana state police",
+        "sentiment": "none"
+      },
+      {
+        "name": "nissan",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "madisonville",
+        "sentiment": "none"
+      },
+      {
+        "name": "ponchatoula",
+        "sentiment": "none"
+      },
+      {
+        "name": "la.",
+        "sentiment": "none"
+      },
+      {
+        "name": "northshore",
+        "sentiment": "none"
+      },
+      {
+        "name": "watters road",
+        "sentiment": "none"
+      },
+      {
+        "name": "louisiana highway 22",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:39:26.825+02:00",
+  "updated": "2023-12-29T00:39:26.825+02:00"
+}

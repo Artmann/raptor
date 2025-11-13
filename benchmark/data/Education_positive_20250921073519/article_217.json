@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "af52693fc56c1fed23ec2c50d17210ed02705a4b",
+    "url": "http://cq.people.com.cn/n2/2025/0918/c365402-41355084.html",
+    "site_full": "cq.people.com.cn",
+    "site": "people.com.cn",
+    "site_section": "http://cq.people.com.cn",
+    "site_categories": [
+      "media",
+      "top_news_hk",
+      "top_news_my",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "重庆频道--人民网_网上的人民日报",
+    "site_title": null,
+    "title": "\"科普'马拉松'\"吸引16万人次参与",
+    "title_full": "\"科普'马拉松'\"吸引16万人次参与",
+    "published": "2025-09-17T19:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 2198,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "af52693fc56c1fed23ec2c50d17210ed02705a4b",
+  "url": "http://cq.people.com.cn/n2/2025/0918/c365402-41355084.html",
+  "ord_in_thread": 0,
+  "author": "L_105061",
+  "published": "2025-09-17T19:00:00.000+03:00",
+  "title": "\"科普'马拉松'\"吸引16万人次参与",
+  "text": "2025年09月18日08:07 | 来源： 重庆日报网 小字号\n9月16日，记者从重庆科技馆获悉，为期一个多月的2025年科普列车川渝行“科普‘马拉松’·探馆大挑战”活动近日收官。共有川渝52家科普场馆参与了此次活动，吸引了近16万人次参与。\n科普列车川渝行活动是重庆科技馆与四川科技馆牵头打造的川渝科普品牌活动。今年的活动于8月5日正式启动，参与的科普场馆数量创历史新高，首次采用“线下沉浸体验+线上裂变传播”模式，新增线下互动，打造沉浸式体验场景，并将巴渝文化、非遗技艺深度融入科学传播，让科学普及与文化传承相得益彰。\n“以往科普活动常受限于单一场馆，本次活动则打破了地理壁垒，创新性地打造了覆盖川渝两地的科普网络。”重庆科技馆相关负责人说，活动中，参与者通过手机定位拍照打卡，就能“解锁”川渝科普场馆，在实地探访中触摸科技展品、在互动体验中了解科学原理，开启一场跨越地域的科学漫游。\n与此同时，为打破线下活动地域限制，9月5日，线上“川渝科普列车”准时“发车”，以“云游川渝科普基地”为场景，设计“答题闯关赢奖励”机制，活动题库涵盖传统工艺、科技创新、科学家精神等多元内容，既有趣味性又有知识性。\n据统计，本次活动的线上浏览量达113万人次，线上线下参与公众近16万人次，为川渝共建全域科普工作格局，实现科普资源的共享与互补发挥了积极作用。（新重庆-重庆日报首席记者 张亦筑）\n(责编：荚天宇、刘政宁) 分享让更多人看到",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": [
+    "Education->social learning",
+    "Education->students",
+    "Education->educational grading",
+    "Human Interest->record and achievement",
+    "Social Issue->children",
+    "Social Issue->social services",
+    "Social Issue->communities"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "http://www.cqrb.cn/",
+    "http://www.cqrb.cn",
+    "http://cqrb.cn/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_hk", "top_news_my", "top_news_tw", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:57:50.018+03:00",
+  "updated": "2025-09-19T08:06:24.000+03:00"
+}

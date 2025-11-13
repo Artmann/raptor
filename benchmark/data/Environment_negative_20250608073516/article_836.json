@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "8207d18e69b553ecfd9f933296e38c3f7da3b3ec",
+    "url": "https://www.nmas.com.mx/nmas-local/programas/las-noticias-coahuila/videos/muere-perro-intoxicado-durante-incendio-casa-gomez-palacio",
+    "site_full": "www.nmas.com.mx",
+    "site": "nmas.com.mx",
+    "site_section": "https://www.nmas.com.mx/nmas-local/programas/las-noticias-coahuila",
+    "site_categories": [],
+    "section_title": "Las Noticias Coahuila por N+ | N+",
+    "site_title": "N+ Noticias: De México y el Mundo | N+",
+    "title": "Muere Perrito Durante Incendio de Casa en Gómez Palacio",
+    "title_full": "Muere Perrito Durante Incendio de Casa en Gómez Palacio",
+    "published": "2025-05-08T03:54:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://static-live.nmas.com.mx/nmas-video/s3fs-public/styles/corte_16_9/cloud-storage/video-1351567-snapshot.jpg",
+    "performance_score": 0,
+    "domain_rank": 63350,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8207d18e69b553ecfd9f933296e38c3f7da3b3ec",
+  "url": "https://www.nmas.com.mx/nmas-local/programas/las-noticias-coahuila/videos/muere-perro-intoxicado-durante-incendio-casa-gomez-palacio",
+  "ord_in_thread": 0,
+  "author": "@nmas",
+  "published": "2025-05-08T03:54:00.000+03:00",
+  "title": "Muere Perrito Durante Incendio de Casa en Gómez Palacio",
+  "text": "Muere Perrito Durante Incendio de Casa en Gómez Palacio\nUn perrito murió intoxicado durante el incendio de una casa en la Colonia Centro de Gómez Palacio, Durango.\nCOMPARTE:\nUn perrito murió intoxicado durante el incendio de una casa en la Colonia Centro de Gómez Palacio, Durango.\nCOMPARTE:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Human Interest", "Environment"],
+  "topics": [
+    "Disaster and Accident->fire",
+    "Human Interest->human mishap",
+    "Environment->environmental pollution",
+    "Environment->animal",
+    "Environment->hazardous materials"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Colonia Centro de",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:25:49.559+03:00",
+  "updated": "2025-05-08T03:29:35.000+00:00"
+}

@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "684f1f87e155ea747081c0da6b10682d336a64c4",
+    "url": "https://article.wn.com/view/2025/10/16/Adani_Green_Energy_Gallery_Crosses_1_Million_Visitors_In_Lon/",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/london",
+    "site_categories": ["media"],
+    "section_title": "WN - london",
+    "site_title": "World News",
+    "title": "Adani Green Energy Gallery Crosses 1 Million Visitors In London - Worldnews.com",
+    "title_full": "Adani Green Energy Gallery Crosses 1 Million Visitors In London - Worldnews.com",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 8219,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "684f1f87e155ea747081c0da6b10682d336a64c4",
+  "url": "https://article.wn.com/view/2025/10/16/Adani_Green_Energy_Gallery_Crosses_1_Million_Visitors_In_Lon/",
+  "ord_in_thread": 0,
+  "author": "System",
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "Adani Green Energy Gallery Crosses 1 Million Visitors In London - Worldnews.com",
+  "text": "Energy Revolution: The Adani Green Energy Gallery, an award-winning free gallery at the Science Museum, has welcomed one million visitors, including over 10,000 students, since its launch last year,... ......\nread full story\nAsk about this article",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Environment",
+    "Science and Technology",
+    "Arts, Culture and Entertainment"
+  ],
+  "topics": [
+    "Environment->energy saving",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific institution",
+    "Arts, Culture and Entertainment->library and museum"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.ndtv.com/world-news/adani-green-energy-gallery-crosses-1-million-visitors-in-london-9466981",
+    "https://ndtv.com/world-news/adani-green-energy-gallery-crosses-1-million-visitors-in-london-9466981"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Adani Green Energy Gallery",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:30:56.848+03:00",
+  "updated": "2025-10-16T15:46:12.000+03:00"
+}

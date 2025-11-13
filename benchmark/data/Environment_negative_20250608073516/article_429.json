@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "54e161bd30c5253cd021027ad773d1226d306556",
+    "url": "https://www.wcbi.com/explosion-occurs-at-hunt-oil-refinery-in-tuscaloosa",
+    "site_full": "www.wcbi.com",
+    "site": "wcbi.com",
+    "site_section": "https://news.google.com/search?q=at%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["television", "entertainment"],
+    "section_title": "Google News - Search",
+    "site_title": "Home - WCBI TV | Telling Your Story",
+    "title": "Explosion occurs at Hunt Oil Refinery in Tuscaloosa",
+    "title_full": "Explosion occurs at Hunt Oil Refinery in Tuscaloosa",
+    "published": "2025-05-08T02:56:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.wcbi.com/content/uploads/2025/05/b/k/3e5e0226160861958a6e65990504fbd63f5c0abd.jpg",
+    "performance_score": 0,
+    "domain_rank": 48566,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "54e161bd30c5253cd021027ad773d1226d306556",
+  "url": "https://www.wcbi.com/explosion-occurs-at-hunt-oil-refinery-in-tuscaloosa",
+  "ord_in_thread": 0,
+  "author": "Eric Lampkin",
+  "published": "2025-05-08T02:56:00.000+03:00",
+  "title": "Explosion occurs at Hunt Oil Refinery in Tuscaloosa",
+  "text": "Explosion occurs at Hunt Oil Refinery in Tuscaloosa\nTUSCALOOSA, AL. (WCBI) -A powerful explosion rocked parts of Tuscaloosa County on May 7\nOur news partner, WVUA in Tuscaloosa, reports that the explosion happened just before noon at the Hunt Oil Refinery in\nWest Tuscaloosa.\nSmoke could be seen billowing from the area of the refinery when first responders arrived at the scene.\nPeople as far as 16 miles away reported hearing the explosion.\nTuscaloosa Fire Rescue Public Safety Educator and Public Information Officer Holly Whigham said the incident happened around 11:45 a.m.\nTFR assisted the Hunt fire brigade to stabilize, evaluate injuries, and make sure everyone was accounted for.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->hazardous materials",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "County",
+        "sentiment": "none"
+      },
+      {
+        "name": "West",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Tuscaloosa Fire Rescue Public Safety Educator",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:52:23.162+03:00",
+  "updated": "2025-05-08T00:54:22.000+00:00"
+}

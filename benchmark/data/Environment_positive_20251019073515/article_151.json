@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "c6f183def8756c70152366787ccf975111b6614c",
+    "url": "https://www.yicai.com/news/102866601.html",
+    "site_full": "www.yicai.com",
+    "site": "yicai.com",
+    "site_section": "http://www.yicai.com",
+    "site_categories": ["financial_news", "jobs", "finance", "financial_aid"],
+    "section_title": "第一财经_专业创造价值",
+    "site_title": "第一财经_专业创造价值",
+    "title": "全国首列氢能文旅列车\"氢春号\"在长春发布 实现零碳排放",
+    "title_full": "全国首列氢能文旅列车\"氢春号\"在长春发布 实现零碳排放",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 33399,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c6f183def8756c70152366787ccf975111b6614c",
+  "url": "https://www.yicai.com/news/102866601.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "全国首列氢能文旅列车\"氢春号\"在长春发布 实现零碳排放",
+  "text": "打开微信，点击底部的“发现”，使用“扫一扫”即可将网页分享至朋友圈。\n第一财经 2025-10-16 18:19:26\n责编：高明妍\n据央视新闻，全国首列氢能文旅列车“氢春号”16日在长春发布，这标志着我国氢能轨道交通技术取得重要突破。列车由中车长春轨道客车股份有限公司研制，属新能源轨道交通装备，内置氢能动力系统，实现零碳排放，运行时无需接触网，同时结合城市文旅特色，为现代城市交通出行提供绿色经济的定制化方案。针对东北地区低温气候，“氢春号”解决了氢能电池在低温环境下性能衰减的行业难题。同时，列车支持灵活配置，可实现1至6辆灵活编组，既方便市民通勤商圈，也为游客提供沉浸式体验。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Environment", "Science and Technology"],
+  "topics": [
+    "Environment->energy saving",
+    "Environment->sustainability",
+    "Environment->energy resources",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:47:01.518+03:00",
+  "updated": "2025-10-16T14:04:08.000+03:00"
+}

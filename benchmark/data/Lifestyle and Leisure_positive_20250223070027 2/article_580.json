@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "435e23fcb263f259fe714d4ca2e4c7c04bd8e040",
+    "url": "https://www.couriernews.com/lifestyles/first-grader-might-be-on-to-something/article_9d07f888-7d9c-5d8d-a519-a3c78756e126.html",
+    "site_full": "www.couriernews.com",
+    "site": "couriernews.com",
+    "site_section": "http://www.couriernews.com/search/?f=rss&t=article&c=lifestyles&l=50&s=start_time&sd=desc",
+    "site_categories": ["media"],
+    "section_title": "www.couriernews.com - RSS Results in lifestyles of type article",
+    "title": "First grader might be on to something",
+    "title_full": "First grader might be on to something",
+    "published": "2025-01-23T20:20:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/couriernews.com/content/tncms/custom/image/b21f3e0c-b390-11e9-a989-d727c4d02d97.jpg?resize=600%2C315",
+    "performance_score": 0,
+    "domain_rank": 176180,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "435e23fcb263f259fe714d4ca2e4c7c04bd8e040",
+  "url": "https://www.couriernews.com/lifestyles/first-grader-might-be-on-to-something/article_9d07f888-7d9c-5d8d-a519-a3c78756e126.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "JESS GUTIERREZ",
+  "published": "2025-01-23T20:20:00.000+02:00",
+  "title": "First grader might be on to something",
+  "text": "My debut essay collection was published by Penguin Random House last June. After a lifetime of dreaming of having a book with my name on it in Barnes and Noble, it finally happened. I spent the summer buying local bookstore copies (my irrational and expensive way of making them purchase more to restock) and being completely dumbfounded that my forever dream had come true. A book I wrote about growing up as a 1980s baby turned 1990s kid, had been purchased by my dream publisher; mass-produced, and sold across the country.\nMy friends and family congratulated me accordingly. I was wined, dined, and toasted to my vain little heart’s content. It was a season of triumph, sheer disbelief, and more excitement than I can describe.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Lifestyle and Leisure", "Education"],
+  "topics": [
+    "Lifestyle and Leisure->trend",
+    "Lifestyle and Leisure->lifestyle",
+    "Education->students",
+    "Education->teachers"
+  ],
+  "ai_allow": false,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Penguin Random House",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:25:50.236+02:00",
+  "updated": "2025-01-24T00:25:50.236+02:00"
+}

@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "f5e28f145fe0bed0147b6d03f781123a2a08f2f9",
+    "url": "https://www.163.com/dy/article/KC0U14RM0530KHKV.html",
+    "site_full": "www.163.com",
+    "site": "163.com",
+    "site_section": "https://tech.163.com/keywords/4/b/4eba5de5667a80fd/1.html",
+    "site_categories": [
+      "top_news_vn",
+      "top_news_th",
+      "top_news_nz",
+      "top_news_rs",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news_hk",
+      "top_news_my",
+      "top_news"
+    ],
+    "section_title": "人工智能_标签_网易出品",
+    "site_title": "网易",
+    "title": "用AI\"智\"水！扬州经开区一企业上榜省示范名单|物联网|扬州市|人工智能_网易订阅",
+    "title_full": "用AI\"智\"水！扬州经开区一企业上榜省示范名单|物联网|扬州市|人工智能_网易订阅",
+    "published": "2025-10-16T13:39:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 537,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f5e28f145fe0bed0147b6d03f781123a2a08f2f9",
+  "url": "https://www.163.com/dy/article/KC0U14RM0530KHKV.html",
+  "ord_in_thread": 0,
+  "author": "网易",
+  "published": "2025-10-16T13:39:00.000+03:00",
+  "title": "用AI\"智\"水！扬州经开区一企业上榜省示范名单|物联网|扬州市|人工智能_网易订阅",
+  "text": "近日，江苏省科技厅及江苏省发改委公布了2025年度前沿技术应用场景建设示范名单，位于扬州经开区智谷科技综合体的江苏瑞丰信息技术股份有限公司，凭借在人工智能领域打造的“基于物联网传感技术与AI水动力模型的环保监控应用平台”成功上榜。\n该平台深度融合物联网感知、大数据分析和人工智能水动力模型，实现对水体环境的多维度、实时化、精准化监测与智能预警。\n平台基于智能传感、无线传感网、无线通信、智能处理与智能控制等物联网技术的开发，集水质环境参数在线采集、智能组网、无线传输、智能处理、预警信息发布、决策支持等功能于一体。借助AI水动力模型，能够动态模拟和预测水环境变化趋势，实现对污染源的快速溯源、扩散模拟与影响评估，为环境管理提供科学依据和决策支持。\n该平台可广泛应用于河流、湖泊、近岸海域等水环境监控场景，服务于政府环保部门、工业园区及大型企业的环境风险管理需求，有效提升水环境污染防治的精准性和效率，助力实现环境治理体系与治理能力现代化。\n未来，瑞丰信息将继续深化技术研发，优化平台功能，拓展应用领域，为推动环保行业数字化、智能化转型贡献更多力量，以实际行动践行“科技赋能绿色未来”的企业使命。\n来源丨扬州广电“扬帆”手机频道\n编辑丨王雅洁",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Environment"],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->natural science",
+    "Science and Technology->information technology and computer science",
+    "Environment->water",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_vn",
+      "top_news_th",
+      "top_news_nz",
+      "top_news_rs",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news_hk",
+      "top_news_my",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:01:27.414+03:00",
+  "updated": "2025-10-16T14:13:19.000+03:00"
+}

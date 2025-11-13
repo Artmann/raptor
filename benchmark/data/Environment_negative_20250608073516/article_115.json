@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "e4d0e57cd33a20f64b87a7f0fb38b2de6eb48440",
+    "url": "http://www.takungpao.com.hk/news/232109/2025/0508/1084597.html",
+    "site_full": "www.takungpao.com.hk",
+    "site": "takungpao.com.hk",
+    "site_section": "https://www.takungpao.com.hk/hongkong",
+    "site_categories": ["media"],
+    "section_title": "港聞",
+    "site_title": "大公網",
+    "title": "﻿教育線上/理大研究：塑膠廢物或引發生態危機",
+    "title_full": "﻿教育線上/理大研究：塑膠廢物或引發生態危機",
+    "published": "2025-05-08T00:01:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "HK",
+    "main_image": "https://img.takungpao.com/2025/0508/2025050805013340436.jpg",
+    "performance_score": 0,
+    "domain_rank": 75392,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e4d0e57cd33a20f64b87a7f0fb38b2de6eb48440",
+  "url": "http://www.takungpao.com.hk/news/232109/2025/0508/1084597.html",
+  "ord_in_thread": 0,
+  "author": "大公报",
+  "published": "2025-05-08T00:01:00.000+03:00",
+  "title": "﻿教育線上/理大研究：塑膠廢物或引發生態危機",
+  "text": "圖：理大研究團隊正推動建構全球數據庫及模型，評估有害微生物隨塑膠廢物流動的軌跡及潛在風險。\n　　【大公報訊】記者郭如佳報道：目前全球每年約產生四億噸塑膠廢物，至今累計總量已達70億噸，但當中不足一成被回收，八成會積聚在環境中。香港理工大學（理大）研究團隊正推動建構全球數據庫及模型，評估有害微生物隨塑膠廢物流動的軌跡及潛在風險。\n　　塑膠由多種不同的化合物組成，可為微生物提供豐富養分，形成了在水陸環境中黏附於塑料廢物的獨特微生物群落─塑膠際（Plastisphere）。有研究顯示，重量約一克的海洋塑膠廢物所附帶的微生物生物量比1,000升海水高出十倍。隨着越來越多塑膠廢物產生，由於其降解速度緩慢，意味着塑膠際正迅速擴大，並棲息了大量的微生物。\n　　由理大土木及環境工程學系、醫療科技及資訊學系助理教授金靈領導的研究團隊發現，無論在哪一種環境系統中，塑膠際和該環境本身的微生物群落，在微生物的種類及共存模式上都存在顯著差異，其中塑膠際的微生物群落更是由相互連結薄弱的特定微生物組成，在自然界中很罕見。\n　　或增溫室氣體排放加速碳循環\n　　與自然環境的微生物群落相比，塑膠際具有更顯著的分解有機化合物能力，或會增加溫室氣體排放，並加速碳循環。尤其在淡水系統中，塑膠際中有大量能擾亂氮循環的細菌，會釋放亞硝酸鹽、一氧化二氮等有害物質。此外，塑膠際中對人類、動物及植物健康構成威脅的病原體也明顯增加，當中更包括了部分本身不存在於該環境系統中的品種，顯示塑膠際或能攜帶病原體穿梭於不同的生態系統。有關研究成果已在跨學科國際期刊《The Innovation》上發表，更被評為2020年至2024年最受歡迎的論文。\n 金靈教授表示：「塑膠廢物及其附帶的微生物群落可以隨水流或風等不同媒介長距離流動，破壞微生物品種的自然分布，加上病毒在塑膠際中能存活更長時間，並具有更強的傳染力，容易加速病毒擴散，甚至導致疫情爆發。以往我們主要通過物理和化學影響來評估塑膠污染的影響，但現在起應更重視塑膠際帶來的微生物威脅。」\n 據悉，團隊正積極與全球夥伴合作收集塑膠樣本，建立全面的全球有害塑膠微生物群落目錄，並繪製相關風險的流向圖。他們利用現存針對塑膠廢物遷移和積存狀況的研究，開發一個用以評估和量化塑膠污染對微生物的影響的新模型。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->waste materials",
+    "Environment->environmental pollution",
+    "Environment->ecosystem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:08:19.682+03:00",
+  "updated": "2025-05-07T23:12:00.000+00:00"
+}

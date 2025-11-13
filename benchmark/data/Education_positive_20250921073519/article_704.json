@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "77b02ee0654d940a12cda681362e7e3f3225b389",
+    "url": "https://www.newsbreak.com/news/4240978873198-newton-county-schools-bolstered-by-state-grants-for-security-upgrades-indiana-invests-27m-in-student-safety",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/fair-oaks-in",
+    "site_categories": ["under_construction"],
+    "section_title": "Fair Oaks, IN Local News and More | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Newton County Schools Bolstered by State Grants for Security Upgrades, Indiana Invests $27M in Student Safety - NewsBreak",
+    "title_full": "Newton County Schools Bolstered by State Grants for Security Upgrades, Indiana Invests $27M in Student Safety - NewsBreak",
+    "published": "2025-09-17T18:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/2ExyQr_14qIttCP00",
+    "performance_score": 0,
+    "domain_rank": 2819,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "77b02ee0654d940a12cda681362e7e3f3225b389",
+  "url": "https://www.newsbreak.com/news/4240978873198-newton-county-schools-bolstered-by-state-grants-for-security-upgrades-indiana-invests-27m-in-student-safety",
+  "ord_in_thread": 0,
+  "author": "Luis Martinez",
+  "published": "2025-09-17T18:30:00.000+03:00",
+  "title": "Newton County Schools Bolstered by State Grants for Security Upgrades, Indiana Invests $27M in Student Safety - NewsBreak",
+  "text": "hoodline.com\nwebsite\nNewton County, Indiana\nNewton County Schools Bolstered by State Grants for Security Upgrades, Indiana Invests $27M in Student Safety\nBy Luis Martinez,\n14 hours agoIn a concerted effort to enhance the safety of students and educators, Newton County schools are seeing a financial injection for security enhancements, courtesy of the state's Secured School Safety Grant Program. The program has allocated over $6,000 to the district, an investment that is echoed across the state with a total of $27 million in matching grants being distributed to 494 schools. State Reps. Michael Aylesworth (R-Hebron) and Matt Commons (R-Williamsport) underscored the commitment to safeguarding Indiana's educational environments, as reported by Indiana House Republicans.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Economy, Business and Finance", "Social Issue"],
+  "topics": [
+    "Education->educational grading",
+    "Education->school",
+    "Education->students",
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->human resources",
+    "Economy, Business and Finance->business governance",
+    "Social Issue->social services",
+    "Social Issue->communities"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Michael Aylesworth",
+        "sentiment": "none"
+      },
+      {
+        "name": "Luis Martinez",
+        "sentiment": "none"
+      },
+      {
+        "name": "Matt Commons",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Secured School Safety Grant Program",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Indiana House",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": ["Fair Oaks"],
+      "state": ["Oregon", "Indiana", "Georgia"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:52:13.707+03:00",
+  "updated": "2025-09-18T08:56:07.000+03:00"
+}

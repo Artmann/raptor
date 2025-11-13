@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "ba64874655d0820141c43377d7d0bbaa66aa4a01",
+    "url": "https://www.opinion.com.bo/articulo/cochabamba/alcaldia-tribunal-agroambiental-autoriza-ingreso-basura-siete-meses-k-ara-k-ara/20250507172608971898.html",
+    "site_full": "www.opinion.com.bo",
+    "site": "opinion.com.bo",
+    "site_section": "https://www.opinion.com.bo/rss",
+    "site_categories": ["roleplaying_games", "hobbies_and_interests"],
+    "section_title": "",
+    "site_title": "Opinión Bolivia",
+    "title": "Alcaldía: Tribunal Agroambiental autoriza ingreso de basura por siete meses a K'ara K'ara",
+    "title_full": "Alcaldía: Tribunal Agroambiental autoriza ingreso de basura por siete meses a K'ara K'ara",
+    "published": "2025-05-08T00:26:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BO",
+    "main_image": "https://www.opinion.com.bo/media/opinion/images/2024/09/08/2024090818473351253.jpg",
+    "performance_score": 0,
+    "domain_rank": 69739,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ba64874655d0820141c43377d7d0bbaa66aa4a01",
+  "url": "https://www.opinion.com.bo/articulo/cochabamba/alcaldia-tribunal-agroambiental-autoriza-ingreso-basura-siete-meses-k-ara-k-ara/20250507172608971898.html",
+  "ord_in_thread": 0,
+  "author": "MELISSA REVOLLO P.",
+  "published": "2025-05-08T00:26:00.000+03:00",
+  "title": "Alcaldía: Tribunal Agroambiental autoriza ingreso de basura por siete meses a K'ara K'ara",
+  "text": "Alcaldía: Tribunal Agroambiental autoriza ingreso de basura por siete meses a K’ara K’ara\nEl secretario de Finanzas de la Alcaldía de Cochabamba, Mauricio Muñoz, informó que la Sala Especializada Primera del Tribunal Agroambiental (Sucre) dio curso a que la basura que se genera en la ciudad ingrese al relleno sanitario de K’ara K’ara durante siete meses más, hasta diciembre de este 2025.\nUna determinación del Juzgado Agroambiental de la Provincia Cercado del departamento de Cochabamba restringió el ingreso de residuos sólidos, desde el 21 de abril, al botadero de K’ara K’ara.\nDesde entonces, durante dos semanas, se generó un problema que no hallaba salidas, mientras la basura se acumulaba por montones en distintos puntos. Cada día, la ciudad genera alrededor de 700 toneladas de desechos.\nEl Complejo Industrial Verde firmó el 16 de abril un contrato con la Alcaldía cochabambina para hacerse cargo del cierre técnico del botadero y de la industrialización de los desechos. Entonces, comprometió al menos tres sitios (el alcalde Manfred Reyes Villa dijo que eran cuatro) para llevar la basura. Pero hubo rechazo en los distintos sectores. Ante esa situación, la Municipalidad rescindió el contrato, el 2 de mayo; y contrató de manera temporal al Complejo Industrial Cochabamba Tunqui para que se haga cargo del recojo de la basura que continuaba acumulándose.\nLa Alcaldía aseguró que esta empresa tiene una celda construida en terreno privado, en Cotapachi en Quillacollo, donde se han estado estos días llevando los residuos sólidos.\nEn paralelo, las autoridades municipales continuaron acciones en el ámbito legal, primero de apelación y luego de casación (que llegó hasta Sucre), pidiendo que se amplíe el uso del botadero de K’ara K’ara por unos 10 meses más, tiempo estimado para garantizar el cierre, sin complicaciones, de la celda número 2; y lapso que también daría un respiro al conflicto, en tanto se consolida una solución estructural.\nDIÁLOGO Este miércoles, las autoridades municipales dijeron que existe la autorización para el ingreso de basura durante siete meses, y que incluso podrían hacerlo desde esta jornada. Sin embargo, buscarán el diálogo con los comunarios de K’ara K’ara, quienes han mantenido vigilias en rechazo a que vuelvan a entrar residuos sólidos a ese sector.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Politics", "Environment", "Social Issue"],
+  "topics": [
+    "Politics->government policy",
+    "Politics->local government and authority",
+    "Environment->waste materials",
+    "Environment->environmental pollution",
+    "Environment->environmental clean-up",
+    "Social Issue->social services",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Manfred Reyes Villa",
+        "sentiment": "none"
+      },
+      {
+        "name": "Mauricio Muñoz",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Sala Especializada Primera del Tribunal Agroambiental",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Complejo Industrial Verde",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Finanzas",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T01:55:59.829+03:00",
+  "updated": "2025-05-07T23:01:26.000+00:00"
+}

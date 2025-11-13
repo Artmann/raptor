@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "1638d3da6088d311df492f168169d36b147b00e5",
+    "url": "https://www.wwf.it/pandanews/piccoli-panda/imparare-dalla-natura-con-mi-curo-di-te/",
+    "site_full": "www.wwf.it",
+    "site": "wwf.it",
+    "site_section": "https://www.wwf.it",
+    "site_categories": ["media"],
+    "section_title": "WWF Italia | Sito Ufficiale | A tutela dell&#039;ambiente e degli animali",
+    "site_title": "WWF Italia | Sito Ufficiale | A tutela dell&#039;ambiente e degli animali",
+    "title": "Imparare dalla natura con \"Mi curo di te\" | WWF Italia",
+    "title_full": "Imparare dalla natura con \"Mi curo di te\" | WWF Italia",
+    "published": "2025-09-17T16:15:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://www.wwf.it/uploads/studenti-natura-1024x576-1.jpg",
+    "performance_score": 0,
+    "domain_rank": 130039,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1638d3da6088d311df492f168169d36b147b00e5",
+  "url": "https://www.wwf.it/pandanews/piccoli-panda/imparare-dalla-natura-con-mi-curo-di-te/",
+  "ord_in_thread": 0,
+  "author": "@WWFitalia",
+  "published": "2025-09-17T16:15:00.000+03:00",
+  "title": "Imparare dalla natura con \"Mi curo di te\" | WWF Italia",
+  "text": "Al via la 12esima edizione del progetto di WWF e Regina (Gruppo Sofidel) per le scuole\nLa natura come fonte di ispirazione per un futuro più sostenibile. Torna per la sua dodicesima edizione “Mi Curo di Te – Agire secondo natura”, il percorso didattico gratuito ideato da WWF e Regina (Gruppo Sofidel) per le scuole primarie italiane. Il filo conduttore del progetto, che ha preso il via il 15 settembre 2025 e proseguirà fino al 27 aprile 2026, è la biomimesi: trovare soluzioni sostenibili ai problemi ambientali, imitando il funzionamento di processi ed ecosistemi naturali.\nAl centro la conoscenza e il rispetto per la natura\nAttraverso un kit didattico ricco di attività, approfondimenti e giochi digitali, il programma guida alunne e alunni a scoprire come semplici gesti quotidiani, ispirati alle caratteristiche e al comportamento di piante e animali, possono fare la differenza. L’obiettivo è stimolare un cambio di prospettiva nelle giovani generazioni, ponendo al centro la conoscenza e il rispetto della natura e promuovendo i principi di consumo e produzione responsabili (Obiettivo 12 dell’Agenda ONU 2030).\nDal 2014, “Mi Curo di Te” ha coinvolto oltre 990.000 bambini e ragazzi in tutta Italia. Gli insegnanti possono iscrivere gratuitamente le proprie classi e scaricare il kit didattico dal sito.\nAl termine del percorso, le classi potranno partecipare a un concorso creativo sui temi oggetto del progetto. In palio buoni spesa per l’acquisto di materiale didattico e kit di prodotti Sofidel-Regina per le scuole e computer portatili per i docenti.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": ["Education", "Environment"],
+  "topics": null,
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": ["http://www.micurodite.it", "http://micurodite.it"],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Gruppo Sofidel",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "WWF",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:42:25.418+03:00",
+  "updated": "2025-09-18T07:51:56.000+03:00"
+}

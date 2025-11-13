@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "a430ed2dd984815501fdff2507e5f298953f9043",
+    "url": "https://www.elcaribe.com.do/panorama/pais/adn-anuncia-250-becas-de-google-para-estudiar-ia-en-centro-futuro/",
+    "site_full": "www.elcaribe.com.do",
+    "site": "elcaribe.com.do",
+    "site_section": "https://129.153.163.72/2025",
+    "site_categories": ["travel", "caribbean", "top_news_ve", "top_news"],
+    "section_title": "2025 - Periódico elCaribe",
+    "site_title": "PORTADA - Periódico elCaribe",
+    "title": "ADN anuncia 250 becas de Google para estudiar IA en Centro Futuro",
+    "title_full": "ADN anuncia 250 becas de Google para estudiar IA en Centro Futuro",
+    "published": "2025-09-18T07:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DO",
+    "main_image": "https://img.mmc.com.do/elcaribe-bucket/uploads/2025/09/ALCALDESA.jpg",
+    "performance_score": 0,
+    "domain_rank": 106522,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a430ed2dd984815501fdff2507e5f298953f9043",
+  "url": "https://www.elcaribe.com.do/panorama/pais/adn-anuncia-250-becas-de-google-para-estudiar-ia-en-centro-futuro/",
+  "ord_in_thread": 0,
+  "author": "El Caribe",
+  "published": "2025-09-18T07:00:00.000+03:00",
+  "title": "ADN anuncia 250 becas de Google para estudiar IA en Centro Futuro",
+  "text": "La alcaldesa Carolina Mejía, a través de Google, anunció 250 becas a estudiantes para que se puedan preparar en el programa Google Skill Boost, sobre el análisis de datos e inteligencia artificial.\nCentro Futuro, una dependencia de la Alcaldía del Distrito Nacional que ofrece capacitación gratuita en Cristo Rey.\nEsta iniciativa pertenece a una plataforma oficial de aprendizaje en línea de Google Cloud que proporciona cursos, laboratorios prácticos y rutas de aprendizaje para desarrollar habilidades en tecnología.\n“Nosotros ahora vamos a tocar de manera inicial 250 jóvenes con estas becas para certificarlos y que puedan tener la fortaleza de presentar ese conocimiento que es como una semillita en nuestras manos; nosotros hemos decidido abonarla y trabajarla”, dijo Mejía.\nLos postulantes podrán desarrollar sus habilidades en la nube, inteligencia artificial, desarrollo y análisis de datos, mediante capacitaciones, práctica y acceso a la consola real de Google Cloud.\n“Con estas nuevas herramientas yo sé que vamos a seguir tocando vidas para bien, sobre todo de nuestros jóvenes que necesitan de esas oportunidades para que cuando lleguen a buscar esas nuevas habilidades que requiere el mundo laboral, ellos puedan mostrar que tienen una certificación de los mejores”, agregó.\nLas disciplinas son laboratorios interactivos, cursos y rutas de aprendizaje, insignias de habilidad y conexión con la consola de Google Cloud.\nRenzo Ticona, vicepresidente regional de City Works, agradeció la oportunidad de formar parte de este proyecto, apuntando que parte de la visión que tienen como empresa es apoyar el mundo tecnológico, no solo en el sector público, sino también en el privado. Agregó que están dispuestos a seguir apoyando a los jóvenes que piensan, conocen y quieren aprender sobre la inteligencia artificial y todas las herramientas asociadas.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->vocational education",
+    "Education->students",
+    "Education->college and university",
+    "Social Issue->teenagers",
+    "Social Issue->social networking",
+    "Social Issue->social services",
+    "Human Interest->graduation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Carolina Mejía",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Alcaldía del Distrito Nacional",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ve", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:13:12.794+03:00",
+  "updated": "2025-09-19T09:05:44.000+03:00"
+}

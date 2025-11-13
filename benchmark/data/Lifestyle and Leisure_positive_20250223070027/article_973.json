@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "9dbff85c21cedbce9ecd4a3c2185f486303d4097",
+    "url": "https://www.cnbc.com/video/2025/01/23/taekwondo-reimagined-how-vr-is-upgrading-a-2000-year-old-martial-art.html",
+    "site_full": "www.cnbc.com",
+    "site": "cnbc.com",
+    "site_section": "https://www.cnbc.com/video",
+    "site_categories": [
+      "financial_news",
+      "finance",
+      "top_news_nz",
+      "top_news_au",
+      "top_news_ae",
+      "top_news_us",
+      "top_news_tw",
+      "top_news_gb",
+      "top_news_th",
+      "top_news_kr",
+      "top_news_sg",
+      "top_news_ph",
+      "top_news_hk",
+      "top_news_qa",
+      "top_news_ie",
+      "top_news_pk",
+      "top_news_dk",
+      "top_news_za",
+      "top_news_my",
+      "top_news_il",
+      "top_news_kw",
+      "top_news_ca",
+      "top_news_iq",
+      "top_news"
+    ],
+    "section_title": "CNBC Latest Video News &amp; Clips",
+    "title": "Taekwondo reimagined: How VR is upgrading a 2,000-year-old martial art",
+    "title_full": "Taekwondo reimagined: How VR is upgrading a 2,000-year-old martial art",
+    "published": "2025-01-24T05:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://image.cnbcfm.com/api/v1/image/108087675-Thumbnail_Tech_Virtual_Taekwondo_V13.jpg?v=1737037476&amp;w=1920&amp;h=1080",
+    "performance_score": 0,
+    "domain_rank": 138,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9dbff85c21cedbce9ecd4a3c2185f486303d4097",
+  "url": "https://www.cnbc.com/video/2025/01/23/taekwondo-reimagined-how-vr-is-upgrading-a-2000-year-old-martial-art.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@CNBC",
+  "published": "2025-01-24T05:00:00.000+02:00",
+  "title": "Taekwondo reimagined: How VR is upgrading a 2,000-year-old martial art",
+  "text": "Virtual taekwondo is rewriting the rules of competition by combining ancient martial arts with cutting-edge technology. CNBC explores how this VR-powered sport is attracting a new generation of athletes. 08:34 Thu, Jan 23 2025 5:00 PM EST When you think of taekwondo, you might picture a certain physique or skill set, but imagine a version of the sport that anyone, regardless of age, size, or background, can compete in virtually.\nIn a collaboration between World Taekwondo and Singaporean tech and gaming company Refract Technologies, virtual taekwondo (VTKD) allows athletes to experience the intensity of sparring without the physical contact.\nAthletes wear headsets, body sensors, and handheld controllers to spar in a virtual arena, with every move tracked and replicated in real time.\n\"What's exciting about virtual taekwondo is that it's a real sport\" said Ng Chong Geng, Refract Technologies founder, in an interview with CNBC's Converge . \"You have to exert yourself physically, and anyone who has tried it will tell you it's exhausting after just three rounds\"\nWhat makes virtual taekwondo unique is its inclusivity. The sport levels the playing field by eliminating the traditional barriers of age, size, and gender.\n\"We could have athletes of all shapes and sizes, fighting together in the same category,\" said Jin-Bang Yang, a former taekwondo champion and World Taekwondo council member. \"It's a totally new area in taekwondo.\"\nThe vision behind virtual taekwondo is to both advance the global popularity of the sport and to attract a new generation of athletes. By blending ancient traditions with modern technology, the virtual version offers an exciting glimpse into the future of competitive martial arts.\nTo learn more about how technology is shaping the future of taekwondo, watch the video above.\nFor information on CNBC's Converge Live event which takes place in Singapore 12-13 March 2025, click here .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Lifestyle and Leisure", "Sport"],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Lifestyle and Leisure->exercise and fitness",
+    "Lifestyle and Leisure->game",
+    "Sport->martial arts",
+    "Sport->sport achievement"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ng Chong Geng",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Refract Technologies",
+        "sentiment": "none"
+      },
+      {
+        "name": "CNBC",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "9dbff85c21cedbce9ecd4a3c2185f486303d4097",
+    "first_syndicated": true
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:44:52.954+02:00",
+  "updated": "2025-01-31T10:05:23.574+02:00"
+}

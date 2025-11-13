@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "1b6a160949e91fe3504bbe17da55f492f88db5ed",
+    "url": "https://www.irishexaminer.com/news/courtandcrime/arid-41382529.html",
+    "site_full": "www.irishexaminer.com",
+    "site": "irishexaminer.com",
+    "site_section": "https://www.irishexaminer.com/index.php",
+    "site_categories": ["tech", "top_news"],
+    "section_title": "Irish Examiner",
+    "title": "Man arrested after officer spat at outside court following Donaldson appearance",
+    "title_full": "Man arrested after officer spat at outside court following Donaldson appearance",
+    "published": "2024-04-25T23:19:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IE",
+    "main_image": "https://www.irishexaminer.com/cms_media/module_img/8175/4087825_3_seoimageog_2.75976147.jpg.jpg",
+    "performance_score": 0,
+    "domain_rank": 3403,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1b6a160949e91fe3504bbe17da55f492f88db5ed",
+  "url": "https://www.irishexaminer.com/news/courtandcrime/arid-41382529.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Rebecca Black, PA",
+  "published": "2024-04-25T23:19:00.000+03:00",
+  "title": "Man arrested after officer spat at outside court following Donaldson appearance",
+  "text": "A man has been arrested after a police officer was spat at outside court, after an appearance by Jeffrey Donaldson. The former DUP leader has been charged with rape and a number of other historical sex offences. It is understood that in his letter to DUP party officers, he made clear he would be “strenuously contesting” all charges against him Donaldson’s wife, Eleanor Donaldson, also appeared before Newry Magistrates’ Court on Wednesday to face charges in relation to the same police investigation. They were both released on continuing bail after their first court appearance after being arrested and charged at the end of March. Police escorted Donaldson both in and out of the court amid a large media presence. As he left the court a number of members of the public had gathered and shouted at Donaldson. Police said an officer was spat at. A 37-year-old man described as a bystanding member of the public was later arrested and had since been released pending further inquiries. Chief Superintendent Mervyn Seffen said officers were assigned to provide a secure area and a proportionate local policing response outside Newry court. “There was a large media presence, alongside a smaller number of members of the public, who at times were pushing and shoving our officers to get closer to the defendants,” he said. He said an officer was spat at. A 37-year-old man was arrested later that day for assault on police. “He has since been released pending further inquiries,” he said. “We appreciate the high profile nature of this case but always ask that our officers, who are on the ground to keep people safe, are treated with respect.” Police are also examining a number of social media posts to determine if any offences have been committed Mr Seffen urged people not to speculate about the case. He said: “This type of speculation along with defamatory comments made about the defendants could have a seriously negative impact on criminal justice proceedings.” The Attorney General for Northern Ireland Dame Brenda King has expressed concern at the posting of clips on social media. “In light of the events at Newry Courthouse on April 24 I am concerned about the potential impact of social media posting of recordings or commentary on the members of any jury hearing this case in the future,” she said. “Even if a member of the public did not intend to interfere with a court case, they can be found in contempt of court if something they publish creates a substantial risk that the course of justice in the criminal proceedings would be seriously impeded or prejudiced. “A sentence of up to two years imprisonment can be imposed.” She added: “Users of social media should therefore take great care before posting or reposting clips or commentary and may wish to delete material at this point rather than risk proceedings being brought against them. “Further, as the PSNI has stated, it is a criminal offence to identify the complainants, who must remain anonymous. “Any posts which would be likely to lead to the identification of the complainants in this case should be reported to the police by any concerned member of the public.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Politics", "Social Issue", "Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "jef",
+        "sentiment": "negative"
+      },
+      {
+        "name": "eleanor donaldson",
+        "sentiment": "none"
+      },
+      {
+        "name": "donaldson",
+        "sentiment": "none"
+      },
+      {
+        "name": "mervyn seffen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "donaldson",
+        "sentiment": "negative"
+      },
+      {
+        "name": "dup",
+        "sentiment": "none"
+      },
+      {
+        "name": "newry magistrates’ court",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:10:48.251+03:00",
+  "updated": "2024-04-26T00:10:48.251+03:00"
+}

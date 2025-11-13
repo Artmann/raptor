@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "e3497ee15e579a67aaeb444977a7dc497377bdae",
+    "url": "https://manilastandard.net/news/national/314439927/customs-agents-seize-p29-5m-cannabis-shipment.html",
+    "site_full": "manilastandard.net",
+    "site": "manilastandard.net",
+    "site_section": "https://manilastandard.net/category/news/national",
+    "site_categories": ["media"],
+    "section_title": null,
+    "title": "Customs agents seize P29.5m cannabis shipment",
+    "title_full": "Customs agents seize P29.5m cannabis shipment",
+    "published": "2024-04-25T18:15:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PH",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 29989,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e3497ee15e579a67aaeb444977a7dc497377bdae",
+  "url": "https://manilastandard.net/news/national/314439927/customs-agents-seize-p29-5m-cannabis-shipment.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Joel E. Zurbano",
+  "published": "2024-04-25T18:15:00.000+03:00",
+  "title": "Customs agents seize P29.5m cannabis shipment",
+  "text": "Bureau of Customs (BOC) agents seized a smuggled shipment of cannabis worth P29.5 million from Thailand.\nThe shipment is consigned to Philippians 419 Export and Import Gen. Mdse. Corp. and arrived at the North Harbor Manila on April 12.\nA physical examination conducted by agents of the Customs Intelligence and Investigation Service assigned at the Manila International Container Port (CIIS-MICP) led to the discovery of 74 boxes containing dried marijuana or kush.\nBOC Commissioner Bien Rubio, who commended the CIIS-MICP men for the successful operation, stood firm in the agency’s mandate and President Marcos’ directive to stop the entry of smuggled goods and illegal drugs into the country.\n“We are seeing this modus more and more these days of marijuana being shipped through balikbayan boxes, which have become symbols of the Filipino diaspora. It’s sad to think that this modus is using something ubiquitous to every Filipino family as a balikbayan box because it degrades what that box symbolizes for us,” he said.\nCIIS Director Verne Enciso said the physical examinations were made on April 19, 23, and 24 after the CIIS-MICP office received “derogatory information” that the shipment contained illegal drugs.\n“Based on the report from our field station at the MICP, the shipment was declared to contain only household items, shoes, and motor parts from Thailand. We so far opened three boxes out of the 74 boxes found and now we have positive confirmation of the presence of marijuana,” said Enciso.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "marcos",
+        "sentiment": "none"
+      },
+      {
+        "name": "verne enciso",
+        "sentiment": "none"
+      },
+      {
+        "name": "mdse",
+        "sentiment": "none"
+      },
+      {
+        "name": "bien rubio",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "boc",
+        "sentiment": "negative"
+      },
+      {
+        "name": "customs",
+        "sentiment": "negative"
+      },
+      {
+        "name": "bureau of customs",
+        "sentiment": "negative"
+      },
+      {
+        "name": "corp.",
+        "sentiment": "none"
+      },
+      {
+        "name": "customs intelligence and investigation service",
+        "sentiment": "none"
+      },
+      {
+        "name": "ciis",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "thail",
+        "sentiment": "none"
+      },
+      {
+        "name": "manila international container port",
+        "sentiment": "none"
+      },
+      {
+        "name": "north harbor manila",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:46:35.210+03:00",
+  "updated": "2024-04-26T00:46:35.210+03:00"
+}

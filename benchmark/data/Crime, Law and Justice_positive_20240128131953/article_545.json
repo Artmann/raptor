@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "4dcaadcf904fa955f160522b6314d26b46dc7a61",
+    "url": "http://www.chinadaily.com.cn/a/202312/29/WS658eba2ea3105f21a5079c97.html",
+    "site_full": "www.chinadaily.com.cn",
+    "site": "chinadaily.com.cn",
+    "site_section": "http://www.chinadaily.com.cn/business",
+    "site_categories": ["media", "travel", "japan"],
+    "section_title": "Business News - China Economy &amp;#38; Company - chinadaily.com.cn",
+    "title": "JD wins monopoly lawsuit against Alibaba - Chinadaily.com.cn",
+    "title_full": "JD wins monopoly lawsuit against Alibaba - Chinadaily.com.cn",
+    "published": "2023-12-29T14:23:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "http://img2.chinadaily.com.cn/images/202312/29/658eba2ea3105f211c848dc7.jpeg",
+    "performance_score": 0,
+    "domain_rank": 579,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4dcaadcf904fa955f160522b6314d26b46dc7a61",
+  "url": "http://www.chinadaily.com.cn/a/202312/29/WS658eba2ea3105f21a5079c97.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "刘小卓",
+  "published": "2023-12-29T14:23:00.000+02:00",
+  "title": "JD wins monopoly lawsuit against Alibaba - Chinadaily.com.cn",
+  "text": "A woman rides past an advertisement for e-commerce giant JD's 618 online shopping festival in Beijing on May 22, 2022. [Photo/VCG] Chinese e-commerce giant JD said on Friday it won a lawsuit against its rival Alibaba Group Holding Ltd, which was fined 1 billion yuan ($140.6 million) for monopolistic behavior.\nThe Beijing High People's Court ruled in the first instance judgment that Alibaba Group along with Zhejiang Tmall Network Co and Zhejiang Tmall Technology Co had abused market dominance and adopted monopolistic practices, such as forcing merchants to sell products exclusively on Alibaba's platforms, which caused severe damages to JD.\nJD said in a statement on its official WeChat account that the judgment is not only a fair ruling for JD's resistance against the monopolistic behavior known as \"choosing one out of two\", but also a landmark moment in ensuring fair market competition through the rule of law.\nAlibaba said it has been made aware of the ruling and respects the court's decision.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Crime, Law and Justice",
+    "Economy, Business and Finance",
+    "Politics"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "alibaba",
+        "sentiment": "negative"
+      },
+      {
+        "name": "zhejiang tmall technology co",
+        "sentiment": "none"
+      },
+      {
+        "name": "beijing high people's court",
+        "sentiment": "none"
+      },
+      {
+        "name": "zhejiang tmall network co",
+        "sentiment": "none"
+      },
+      {
+        "name": "alibaba group holding ltd",
+        "sentiment": "none"
+      },
+      {
+        "name": "vcg",
+        "sentiment": "none"
+      },
+      {
+        "name": "alibaba group",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "beijin",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T18:14:17.721+02:00",
+  "updated": "2023-12-29T18:14:17.721+02:00"
+}

@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "6629d86e631dae62332c21821bc1b5efb3cd8b70",
+    "url": "https://electrek.co/2023/12/28/worlds-tallest-wooden-wind-turbine-is-now-online/",
+    "site_full": "electrek.co",
+    "site": "electrek.co",
+    "site_section": "https://electrek.co/guides/egeb/",
+    "site_categories": ["vehicles"],
+    "section_title": "EGEB | Electrek",
+    "title": "The world's tallest wooden wind turbine is now online | Electrek",
+    "title_full": "The world's tallest wooden wind turbine is now online | Electrek",
+    "published": "2023-12-28T22:38:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CO",
+    "main_image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/12/modvion-wooden-wind-turbine-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "performance_score": 0,
+    "domain_rank": 2793,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 30,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6629d86e631dae62332c21821bc1b5efb3cd8b70",
+  "url": "https://electrek.co/2023/12/28/worlds-tallest-wooden-wind-turbine-is-now-online/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Michelle Lewis",
+  "published": "2023-12-28T22:38:00.000+02:00",
+  "title": "The world's tallest wooden wind turbine is now online | Electrek",
+  "text": "Swedish startup Modvion has built the world’s tallest wooden wind turbine tower, and it’s now sending power to 400 homes in Sweden.\nThe 2-megawatt (MW) wooden wind turbine, sited outside Skara, northeast of Gothenburg, was built for the electric utility Varberg Energi, and it’s just started providing power to Sweden’s grid.\nThe world’s tallest wooden wind turbine has a tower that’s 344 feet (105 meters) tall. And if you include the tip of the highest blade, it’s 492 feet (150 meters) tall.\nThe tower’s thick walls have 144 layers of laminated veneer lumber. Each layer consists of 3 millimeters of sustainable spruce. The tower was built in seven sections with 28 stacked modules held together by steel fittings glued into place.\nThe wood is strong but lighter than steel, and Modvion says one of its main selling points is that the modular tower is easier to transport on standard roads.\nFurther, the wooden towers are carbon negative – they not only store carbon but continue to absorb it during their lifetime. At the end of life, the tower walls can be reused as high-strength beams for the building industry.\nDanish wind giant Vestas made the 2 MW turbine mounted on the wooden tower. Vestas has been a shareholder in Modvion since 2021, and this is the first project in which Modvion’s tower technology and a Vestas turbine have been paired.\nModvion told the BBC that it aims to open a factory in 2027 that will manufacture 100 wooden wind turbines annually.\nTop comment by Marcus R\nLiked by 5 people Good to see this getting the attention it deserves Michelle. Once they have their larger towers this will be really interesting.\nJust a quick input, Chalmers signed an agreement with Varberg Energi regarding the produced energy, so the electricity will \"power\" parts of a university and not homes - not that it physically matters in a grid though 🙂\nView all comments Read more: This new ‘world’s largest’ wind turbine makes power in severe typhoons\nMain photo: Modvion; Module: Paul Wennerholm",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Environment",
+    "Economy, Business and Finance"
+  ],
+  "external_links": [
+    "https://modvion.com/",
+    "https://www.bbc.com/news/science-environment-67718719",
+    "https://modvion.com",
+    "https://www.modvion.com/",
+    "https://bbc.com/news/science-environment-67718719"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "modvion",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "electrek swedish startup modvion",
+        "sentiment": "negative"
+      },
+      {
+        "name": "varberg energi",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "sweden",
+        "sentiment": "none"
+      },
+      {
+        "name": "skara",
+        "sentiment": "none"
+      },
+      {
+        "name": "gothenburg",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:04:44.612+02:00",
+  "updated": "2024-01-05T00:55:10.350+02:00"
+}

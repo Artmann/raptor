@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "62e6550dfef62c12e4d38825d9945d21310d4d66",
+    "url": "https://www.kfyrtv.com/2025/05/07/oil-terminal-catches-fire-near-tioga",
+    "site_full": "www.kfyrtv.com",
+    "site": "kfyrtv.com",
+    "site_section": "http://www.kfyrtv.com/video",
+    "site_categories": ["media"],
+    "section_title": "Video",
+    "site_title": "KFYR-TV/KMOT/ KUMV/KQCD | Bismarck-Minot-Williston-Dickinson",
+    "title": "Oil terminal catches fire near Tioga",
+    "title_full": "Oil terminal catches fire near Tioga",
+    "published": "2025-05-08T02:28:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-kfyr-prod.gtv-cdn.com/resizer/v2/UADQUATHLVCJZGW4DCO6Z7ALOA.jpg?auth=ff9447b95a2787ae062136db9a5c3e6a11e14efef085f67f75b0db45eb48fd60&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 25544,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "62e6550dfef62c12e4d38825d9945d21310d4d66",
+  "url": "https://www.kfyrtv.com/2025/05/07/oil-terminal-catches-fire-near-tioga",
+  "ord_in_thread": 0,
+  "author": "@KFYRTV",
+  "published": "2025-05-08T02:28:00.000+03:00",
+  "title": "Oil terminal catches fire near Tioga",
+  "text": "Oil terminal catches fire near Tioga\nPublished: May. 7, 2025 at 6:28 PM CDT|Updated: 46 minutes ago\nWILLIAMS COUNTY, N.D. (KMOT) – Crews responded to a fire at an oil terminal south of Tioga Wednesday morning.\nTioga Fire Chief Rick Farrow said they were called just after 7 a.m. for a report of a fire at the site, and much of the fire was put out shortly after crews arrived on scene.\nFarrow said no one was hurt, and the cause of the fire is unknown. He said the fire was completely out by around 10 a.m.\nFarrow said the site has since been turned over to the owners but is shut down.\nTioga city and rural firefighters responded, and the Rural Fire Chief Jim McGinnity said Texon operates the site.\nCopyright 2025 KFYR. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Environment"],
+  "topics": [
+    "Disaster and Accident->fire",
+    "Disaster and Accident->industrial accident and incident",
+    "Environment->environmental pollution",
+    "Environment->energy resources",
+    "Environment->hazardous materials"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jim McGinnity",
+        "sentiment": "none"
+      },
+      {
+        "name": "Rick Farrow",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Tioga",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Texon",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:20:58.928+03:00",
+  "updated": "2025-05-08T00:25:30.000+00:00"
+}

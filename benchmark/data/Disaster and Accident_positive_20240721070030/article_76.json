@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "c6a1a59338b580b09c5fea209986bad89ab8a058",
+    "url": "https://www.newindianexpress.com/states/andhra-pradesh/2024/Jun/21/police-rescue-11-from-drowning-at-suryalanka-beach-andhra",
+    "site_full": "www.newindianexpress.com",
+    "site": "newindianexpress.com",
+    "site_section": "https://newindianexpress.com/feed",
+    "site_categories": ["media", "top_news"],
+    "section_title": "newindianexpress",
+    "title": "Police rescue 11 from drowning at Suryalanka beach, Andhra",
+    "title_full": "Police rescue 11 from drowning at Suryalanka beach, Andhra",
+    "published": "2024-06-21T00:20:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://media.assettype.com/newindianexpress%2F2024-06%2F1327adf3-6c8f-4e53-8f96-ffc97eca07cb%2Fguntur1_2006chn_40.jpg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+    "performance_score": 0,
+    "domain_rank": 3367,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c6a1a59338b580b09c5fea209986bad89ab8a058",
+  "url": "https://www.newindianexpress.com/states/andhra-pradesh/2024/Jun/21/police-rescue-11-from-drowning-at-suryalanka-beach-andhra",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Express News Service",
+  "published": "2024-06-21T00:20:00.000+03:00",
+  "title": "Police rescue 11 from drowning at Suryalanka beach, Andhra",
+  "text": "GUNTUR: Police rescued as many as 11 persons from drowning in various incidents at Suryalanka beach in Bapatla district in the past two days.\nAccording to the police, a group of six youths from Guntur visited the beach on Wednesday. Despite the warnings of guards, they entered the deep waters of the Bay of Bengal and were washed away by heavy tides. The outpost guards observed them and alerted the skilled divers who immediately rescued them and brought them back to the shore. In similar incidents, the police rescued five other tourists from drowning on Thursday.\nSP Vakul Jindal lauded the skilled divers and police personnel for rescuing the tourists and awarded them with appreciation certificates. He said that the safety measures initiated by the police have been fruitful.\nIt is to be noted that following the increasing drowning cases in the beach, officials have increased vigil at the beaches. As part of it, cautionary boards have been set up on the beaches, with advisories on safety measures to be taken while venturing into the sea. As many as 10 skilled divers are available at Suryalanka beach round-the-clock to rescue the people. A first-aid centre was also opened to provide immediate treatment.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "andhra guntur",
+        "sentiment": "negative"
+      },
+      {
+        "name": "guntur",
+        "sentiment": "none"
+      },
+      {
+        "name": "vakul jindal",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "suryalanka",
+        "sentiment": "none"
+      },
+      {
+        "name": "bapatla",
+        "sentiment": "none"
+      },
+      {
+        "name": "bay of bengal",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-21T05:31:51.243+03:00",
+  "updated": "2024-06-21T05:31:51.243+03:00"
+}

@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "ee15da343b26d1f0a43bb109826070db963b7a20",
+    "url": "https://www.freepressjournal.in/mumbai/mumbai-parle-tilak-vidyalaya-icse-receives-bomb-threat-email-police-search-finds-nothing-suspicious",
+    "site_full": "www.freepressjournal.in",
+    "site": "freepressjournal.in",
+    "site_section": "http://www.freepressjournal.in/feed",
+    "site_categories": ["media", "top_news_in", "top_news"],
+    "section_title": "Free Press Journal",
+    "site_title": "Latest News, Breaking News, Today Headlines, India News, Mumbai News | Free Press Journal",
+    "title": "Mumbai: Parle Tilak Vidyalaya (ICSE) Receives Bomb Threat Email; Police Search Finds Nothing Suspicious",
+    "title_full": "Mumbai: Parle Tilak Vidyalaya (ICSE) Receives Bomb Threat Email; Police Search Finds Nothing Suspicious",
+    "published": "2025-06-26T09:25:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://media.assettype.com/freepressjournal/2023-01/faa58b9b-79a7-41b5-ab27-bc2397f1ac0b/bomb_threat.jpg",
+    "performance_score": 0,
+    "domain_rank": 9762,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ee15da343b26d1f0a43bb109826070db963b7a20",
+  "url": "https://www.freepressjournal.in/mumbai/mumbai-parle-tilak-vidyalaya-icse-receives-bomb-threat-email-police-search-finds-nothing-suspicious",
+  "ord_in_thread": 0,
+  "author": "Megha Kuchik",
+  "published": "2025-06-26T09:25:00.000+03:00",
+  "title": "Mumbai: Parle Tilak Vidyalaya (ICSE) Receives Bomb Threat Email; Police Search Finds Nothing Suspicious",
+  "text": "Mumbai: The Parle Tilak Vidyalaya (ICSE), located in Vile Parle East, received a threatening email on June 25. According to the school, the threatening email was received on Wednesday morning. The email stated that a bomb had been placed on the school premises and instructed that the school be evacuated until the afternoon. The Vile Parle police arrived at the school and thoroughly examined the entire premises. However, the email turned out to be a hoax.\nUpon receiving the threat, the principal informed the board members, and the school’s security department approached the Vile Parle police station on Wednesday. Senior officers from the Vile Parle police station visited the school along with the bomb detection squad, but nothing suspicious was found.\nAfter it was confirmed that the email was a hoax, the school resumed operations in the second half of the day. The school later issued a press note stating that they would take all necessary precautions to ensure the safety of students, teachers, and staff. They also appealed to the public not to spread rumours.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Social Issue", "Education"],
+  "topics": [
+    "Crime, Law and Justice->terrorism",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Crime, Law and Justice->law enforcement",
+    "Social Issue->discrimination",
+    "Social Issue->social condition",
+    "Social Issue->social problem",
+    "Education->school",
+    "Education->students",
+    "Education->teachers"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_in", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T09:32:29.485+03:00",
+  "updated": "2025-06-27T07:09:44.000+00:00"
+}

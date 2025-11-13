@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "5909a00033a743ce50be884cdc678f2a64e7a031",
+    "url": "https://www.wthr.com/article/news/health/doctors-seeing-more-people-and-patients-with-multiple-respiratory-illnesses-simultaneously-as-celebrations-continue-covid-flu/531-20c736e8-b7bc-47ea-9023-2be6dddea4f1",
+    "site_full": "www.wthr.com",
+    "site": "wthr.com",
+    "site_section": "https://www.wthr.com/feeds/syndication/rss/news/local",
+    "site_categories": ["media"],
+    "section_title": "WTHR RSS Feed: local",
+    "title": "Doctors seeing more people and patients with multiple respiratory illnesses simultaneously as celebrations continue",
+    "title_full": "Doctors seeing more people and patients with multiple respiratory illnesses simultaneously as celebrations continue",
+    "published": "2023-12-29T00:53:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.tegna-media.com/assets/WFAA/images/c30f4de8-0419-4f9e-b92b-9ad5bd0582da/c30f4de8-0419-4f9e-b92b-9ad5bd0582da_1140x641.jpg",
+    "performance_score": 0,
+    "domain_rank": 8327,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5909a00033a743ce50be884cdc678f2a64e7a031",
+  "url": "https://www.wthr.com/article/news/health/doctors-seeing-more-people-and-patients-with-multiple-respiratory-illnesses-simultaneously-as-celebrations-continue-covid-flu/531-20c736e8-b7bc-47ea-9023-2be6dddea4f1",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Chase Houle",
+  "published": "2023-12-29T00:53:00.000+02:00",
+  "title": "Doctors seeing more people and patients with multiple respiratory illnesses simultaneously as celebrations continue",
+  "text": "INDIANAPOLIS — Doctors' offices, hospitals and urgent care facilities are being bombarded with patients. \"We commonly see at least a tripling of the rates of these respiratory illnesses after holiday gatherings, said Dr. Ethan Blocher-Smith, a primary care physician at IU Health. Dr. Blocher-Smith says he sees anyone from adults to kids. \"We've seen a sizable number of older adults coming in with COVID, influenza, and RSV. Typically, with fevers, chills, sometimes nausea, difficulty breathing, shortness of breath, congestion,\" said Dr. Blocher-Smith. Dr. Chris Ross works for the [Community Health Network](https://www.ecommunity.com/) in the Emergency Room. He says not only does the ER see an influx of patients during the holidays, but this year he's seeing patients with multiple respiratory illnesses simultaneously. \"We're seeing some patients with flu and COVID and some patients with the flu and RSV. It's really a smattering of everything at this point in time. It's in all ages of patients. We've seen older patients with a couple different viruses at one time, we've seen younger patients with more than one virus at a time,\" said Dr. Ross. As for those thinking about going to the ER to get treated for your respiratory infection, Dr. Ross says you may be waiting awhile to see somebody. \"After going through triage, they're sorted into a certain category that is not able to get them back to the room quite as quickly because we have other sicker patents that are back,\" said Dr. Ross. Both Dr. Blocher-Smith and Dr. Ross recommends staying home this New Years Eve if you're feeling sick. This way you can stop the spread, all while waking up in the New Year feeling better.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Health"],
+  "external_links": [
+    "https://www.ecommunity.com/",
+    "https://www.ecommunity.com",
+    "https://ecommunity.com/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "ethan blocher-smith",
+        "sentiment": "none"
+      },
+      {
+        "name": "chris ross",
+        "sentiment": "none"
+      },
+      {
+        "name": "blocher-smith",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "community health network",
+        "sentiment": "none"
+      },
+      {
+        "name": "iu health",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "indianapolis",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:20:11.182+02:00",
+  "updated": "2023-12-29T06:38:52.357+02:00"
+}

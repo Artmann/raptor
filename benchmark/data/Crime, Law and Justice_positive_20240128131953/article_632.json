@@ -1,0 +1,114 @@
+{
+  "thread": {
+    "uuid": "fc779f9202fa5c6f87764d511cabdccd540fd0ec",
+    "url": "https://www.ktvh.com/news/sheriffs-deputy-retires-along-with-his-k9-partner",
+    "site_full": "www.ktvh.com",
+    "site": "ktvh.com",
+    "site_section": "https://kbzk.com",
+    "site_categories": ["media"],
+    "section_title": "Homepage",
+    "title": "Sheriff's deputy retires along with his K9 partner",
+    "title_full": "Sheriff's deputy retires along with his K9 partner",
+    "published": "2023-12-29T16:31:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ewscripps.brightspotcdn.com/dims4/default/7d5d8e6/2147483647/strip/true/crop/4032x2117+0+454/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F38%2F87%2F8134e8d64cd1939672933e5fe5b9%2Fimg-7096.jpg",
+    "performance_score": 0,
+    "domain_rank": 70349,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fc779f9202fa5c6f87764d511cabdccd540fd0ec",
+  "url": "https://www.ktvh.com/news/sheriffs-deputy-retires-along-with-his-k9-partner",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Allie Kaiser",
+  "published": "2023-12-29T16:31:00.000+02:00",
+  "title": "Sheriff's deputy retires along with his K9 partner",
+  "text": "HELENA — A Lewis and Clark County Sheriff's Deputy and his four-legged partner retired Thursday after 20 years and seven years of service respectively. Over 20 people showed up to support Sergeant Uriah Wood and his K9 Villi, including his family, coworkers, the Helena Chief of Police, and a Lewis and Clark County commissioner. “It was a planned thing; it wasn’t anything to do with health or any of that. We wanted to go out relatively close to the top, and I think we hit pretty near the apex of our careers,” said Wood. Wood started his career at the detention center. Then, he became a sheriff’s office reserve deputy while working at the jail. Finally, he was hired as a sheriff’s deputy. Seven years ago, Wood got Villi when he was two years old. Villi is trained to detect narcotics and as an apprehension dog. In total, Villi’s work has led to more than 900 years in sentencing. To keep him working without Wood as his handler is not an option. Wood said, “He’s been with me so long that re-handling him isn’t really an option. We’ve just been together so long that he would not tolerate someone else telling him what to do.” With Wood’s retirement, the sheriff’s office K9 program is on hold until they can find someone to replace him and Villi. Wood’s passion will continue after his retirement. He plans on working at his training company, Vigilante Working Dogs, and Villi will be his model student. The website for Vigilante Working Dogs can be found here [https://vigilanteworkingdogs.com/](https://vigilanteworkingdogs.com/)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Lifestyle and Leisure",
+    "Human Interest",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [
+    "https://vigilanteworkingdogs.com/",
+    "https://vigilanteworkingdogs.com/)",
+    "https://www.vigilanteworkingdogs.com/",
+    "https://www.vigilanteworkingdogs.com/)",
+    "https://vigilanteworkingdogs.com"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "helena",
+        "sentiment": "negative"
+      },
+      {
+        "name": "clark",
+        "sentiment": "negative"
+      },
+      {
+        "name": "lewis",
+        "sentiment": "negative"
+      },
+      {
+        "name": "uriah wood",
+        "sentiment": "none"
+      },
+      {
+        "name": "wood",
+        "sentiment": "none"
+      },
+      {
+        "name": "villi",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "helena chief of police",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "clark county",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T20:15:41.043+02:00",
+  "updated": "2023-12-29T20:15:41.043+02:00"
+}

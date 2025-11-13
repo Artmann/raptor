@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "ba0cb214558fa53949ba64118ec44d583b40b2d9",
+    "url": "https://deutschland.shafaqna.com/DE/AL/2094628",
+    "site_full": "deutschland.shafaqna.com",
+    "site": "shafaqna.com",
+    "site_section": "http://deutschland.shafaqna.com/rss.xml",
+    "site_categories": ["media", "top_news_iq", "top_news"],
+    "section_title": "Dutch News (News Reader) | ",
+    "site_title": null,
+    "title": "Schülerin hat keinen Anspruch auf tägliches Fleisch- oder Fischgericht",
+    "title_full": "Schülerin hat keinen Anspruch auf tägliches Fleisch- oder Fischgericht",
+    "published": "2025-06-25T19:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 29623,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ba0cb214558fa53949ba64118ec44d583b40b2d9",
+  "url": "https://deutschland.shafaqna.com/DE/AL/2094628",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-25T19:00:00.000+03:00",
+  "title": "Schülerin hat keinen Anspruch auf tägliches Fleisch- oder Fischgericht",
+  "text": "Faz - 21 minutes ago Schülerin hat keinen Anspruch auf tägliches Fleisch- oder Fischgericht Eine Ganztagsschule in Konstanz serviert an drei Wochentagen vegetarische oder vegane Gerichte. Die Eltern einer Schülerin argumentierten, ihr drohe dadurch Mangelernährung oder eine Nahrungsmittelunverträglichkeit. Mit ihrer Beschwerde scheiterten sie vor Gericht.\nRead on the original site",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->school",
+    "Education->students",
+    "Education->educational grading",
+    "Social Issue->children",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://faz.net/aktuell/gesellschaft/menschen/streit-um-schulessen-eltern-scheitern-mit-beschwerde-gegen-veggie-menue-110558911.html",
+    "https://www.faz.net/aktuell/gesellschaft/menschen/streit-um-schulessen-eltern-scheitern-mit-beschwerde-gegen-veggie-menue-110558911.html"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Konstanz",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_iq", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T12:34:53.225+03:00",
+  "updated": "2025-06-27T10:12:00.000+00:00"
+}

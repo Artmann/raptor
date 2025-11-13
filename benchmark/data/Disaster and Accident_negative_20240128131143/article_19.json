@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "d3376c5a5a7d1a7cc1b3c7c74ad84732628c09c0",
+    "url": "https://news.stv.tv/north/search-continues-for-missing-man-last-seen-nine-days-ago",
+    "site_full": "news.stv.tv",
+    "site": "stv.tv",
+    "site_section": "http://aberdeen.stv.tv/news-at-six",
+    "site_categories": ["logistics", "society", "business"],
+    "section_title": "Latest North East &amp; Tayside News | STV News",
+    "title": "Search continues for missing man last seen nine days ago | STV News",
+    "title_full": "Search continues for missing man last seen nine days ago | STV News",
+    "published": "2023-12-28T23:07:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "https://news.stv.tv/wp-content/uploads/2023/12/34f7b71ffdb139471f97900cd348d94e-1703794545-social-default.jpg",
+    "performance_score": 0,
+    "domain_rank": 9642,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 5,
+        "comments": 0,
+        "shares": 10
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d3376c5a5a7d1a7cc1b3c7c74ad84732628c09c0",
+  "url": "https://news.stv.tv/north/search-continues-for-missing-man-last-seen-nine-days-ago",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Calum Loudon",
+  "published": "2023-12-28T23:07:00.000+02:00",
+  "title": "Search continues for missing man last seen nine days ago | STV News",
+  "text": "A search is underway for a man from Dundee who has been missing for nine days. Anthony Elder was last seen in the Union Street area at around 4.30pm on Tuesday, December 19. The 35-year-old is described as being white, 5ft 8in tall, with short, receding brown hair. When last seen he was wearing a grey jacket with black bands around the elbows, black tracksuit bottoms and black trainers. Sergeant Tony Weed said: “Our enquiries are ongoing to trace Anthony, and we are appealing to anyone who may have seen him or who has any information on where he may be to get in touch. “We have released a new photograph of Anthony in the hope that someone may remember seeing him. “Anyone with information is asked to call 101, quoting reference 2088 of 22 December.” STV News is now on WhatsApp Get all the latest news from around the country [Follow STV News](https://www.whatsapp.com/channel/0029VaCESJzKgsNvKKNOYO2r) Follow STV News on WhatsApp Scan the QR code on your mobile device for all the latest news from around the country",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Human Interest", "Disaster and Accident"],
+  "external_links": [
+    "https://www.whatsapp.com/channel/0029VaCESJzKgsNvKKNOYO2r)",
+    "https://whatsapp.com/channel/0029VaCESJzKgsNvKKNOYO2r)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "anthony elder",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "anthony",
+        "sentiment": "none"
+      },
+      {
+        "name": "tony weed",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "stv news",
+        "sentiment": "negative"
+      },
+      {
+        "name": "dundee",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "union street",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:01:39.878+02:00",
+  "updated": "2023-12-29T00:01:39.878+02:00"
+}

@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "086238ad7896a064ade63b730dcb679c92f48693",
+    "url": "https://www.nordsee-zeitung.de/region/windpark-nartum-baureife-erreicht-strombonus-fuer-anwohner-325542.html",
+    "site_full": "www.nordsee-zeitung.de",
+    "site": "nordsee-zeitung.de",
+    "site_section": "https://nordsee-zeitung.de/region",
+    "site_categories": ["media"],
+    "section_title": "Nachrichten aus der Region | Nordsee-Zeitung",
+    "site_title": "Nordsee-Zeitung | aktuelle Nachrichten online",
+    "title": "Windpark Nartum: Baureife erreicht, Strombonus für Anwohner",
+    "title_full": "Windpark Nartum: Baureife erreicht, Strombonus für Anwohner",
+    "published": "2025-10-16T13:59:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.nordsee-zeitung.de/Media/Nordsee-Zeitung/Vorschaubild-NZ-neu.jpg",
+    "performance_score": 0,
+    "domain_rank": 143897,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "086238ad7896a064ade63b730dcb679c92f48693",
+  "url": "https://www.nordsee-zeitung.de/region/windpark-nartum-baureife-erreicht-strombonus-fuer-anwohner-325542.html",
+  "ord_in_thread": 0,
+  "author": "Redaktion",
+  "published": "2025-10-16T13:59:00.000+03:00",
+  "title": "Windpark Nartum: Baureife erreicht, Strombonus für Anwohner",
+  "text": "Der Windpark Nartum sorgt für Wirbel in der Region! Mit gigantischen Windrädern und einem verlockenden Strombonus für Anwohner wird das Projekt bald Realität. Doch die Bauvorbereitungen sind erst der Anfang einer ambitionierten Energiewende. 1. Monat für 1 Euro danach 2,29€/Woche monatlich kündbar 3 Monate für 3 Euro danach 2,29€/Woche nach 3 Monaten mtl. kündbar 1 Jahr für monatlich 6,90 Euro 30% sparen nach 12 Monaten mtl. kündbar Im Profil anmelden Anmeldung für Abonnenten Ihr Newsletter Abonnement wurde erfolgreich angelegt. Bitte bestätigen Sie durch einen Klick auf den Link in der E-Mail Ihre E-Mail-Adresse, um die Registrierung zum Newsletter abzuschließen. Prüfen Sie ggf. auch Ihren Spam-Ordner. Unternehmen Social Media",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": ["Environment", "Economy, Business and Finance"],
+  "topics": [
+    "Environment->sustainability",
+    "Environment->energy resources",
+    "Economy, Business and Finance->energy and resource"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Social Media",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:29:09.467+03:00",
+  "updated": "2025-10-16T14:43:17.000+03:00"
+}

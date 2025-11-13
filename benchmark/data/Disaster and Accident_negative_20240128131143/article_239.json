@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "6dfc7b3c5701abfab000d5bb428c86d1e72d3d7d",
+    "url": "https://thehill.com/homenews/state-watch/4380684-dangerous-waves-hit-california-coastline/",
+    "site_full": "thehill.com",
+    "site": "thehill.com",
+    "site_section": "http://nxslink.thehill.com",
+    "site_categories": ["politics", "law_government_and_politics"],
+    "section_title": "The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill",
+    "title": "Dangerous waves hit California coastline | The Hill",
+    "title_full": "Dangerous waves hit California coastline | The Hill",
+    "published": "2023-12-29T00:09:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://thehill.com/wp-content/uploads/sites/2/2023/12/AP23362684337412-e1703801289730.jpg?w=1280",
+    "performance_score": 0,
+    "domain_rank": 591,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6dfc7b3c5701abfab000d5bb428c86d1e72d3d7d",
+  "url": "https://thehill.com/homenews/state-watch/4380684-dangerous-waves-hit-california-coastline/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Sarah Fortinsky",
+  "published": "2023-12-29T00:09:00.000+02:00",
+  "title": "Dangerous waves hit California coastline | The Hill",
+  "text": "State Watch Massive waves hit California’s beaches Thursday, as much of the coastline remains under coastal flood and high surf warnings and meteorologists warn residents to stay away from the water. The National Weather Service (NWS) warned that waves in some Northern California locations could reach 40 feet. In the Los Angeles area, NWS branches cautioned that beach conditions were becoming “extremely dangerous,” with “life-threatening rip currents,” and that the waves could also cause “significant beach erosion.” By late morning local time, the NWS and nearby observers began posting videos to social media of waves towering over piers and flooding boardwalks. “Tremendous wave energy entering the coastal waters has begun to generate EXTREMELY DANGEROUS conditions at the beaches this morning through this weekend,” the National Oceanic and Atmospheric Administration (NOAA) reported Thursday morning. “Powerful cyclones over the northern Pacific waters are sending this long-period swell … towards Southern California waters,” the NOAA continued. “Swell heights and periods will drop off briefly tonight into Friday, before the next strong wave front arrives for this weekend.” “The ocean is NOT your friend today!” the NWS for the Bay Area warned Thursday on X, the platform formerly known as Twitter. “Please use extreme caution and stay far from the water. NEVER turn your back on the ocean, stay off jetties, rocks, or piers, and do not go into the water!” the post continued, in response to photos of the damage the waves were already causing. High surf warnings began early Thursday morning in several areas on the coast. They remain in effect until early Monday morning for beaches in San Diego and Ventura counties and late Saturday evening for beaches in San Luis Obispo and Santa Barbara counties. High surf warnings are set to expire earlier along much of the Northern California coast. They will end early Friday morning in Coastal North Bay, including Point Reyes National Seashore, Northern Monterey Bay, San Francisco, San Francisco Peninsula Coast, Southern Monterey Bay and Big Sur Coast. In Coastal Del Norte, Mendocino Coast, Southwestern Humboldt and Northern Humboldt Coast, the warnings will expire Thursday evening. High surf advisories also began Thursday morning in several areas. Orange County Coastal areas will remain under advisory until early Monday morning, while advisories expire late Saturday for Catalina and Santa Barbara Islands, Los Angeles County Beaches, Malibu Coast, Santa Barbara County Southeastern Coast and Santa Barbara County Southwestern Coast. Coastal flood warnings and advisories existed in many of the same areas for the same duration. [NWS]( https://thehill.com/tag/nws/ ) [waves]( https://thehill.com/tag/waves/ ) Copyright 2023 Nexstar Media Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. More State Watch News Health Care House LGBTQ News See All Video/Hill.TV See all Hill.TV See all Video",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Disaster and Accident", "Environment"],
+  "external_links": [
+    "https://x.com/NWSBayArea/status/1740436932885356989?s=20)",
+    "https://x.com/NWSBayArea/status/1740436932885356989",
+    "https://www.x.com/NWSBayArea/status/1740436932885356989?s=20)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "noaa",
+        "sentiment": "none"
+      },
+      {
+        "name": "nws",
+        "sentiment": "none"
+      },
+      {
+        "name": "national oceanic and atmospheric administration",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "california",
+        "sentiment": "none"
+      },
+      {
+        "name": "northern california",
+        "sentiment": "none"
+      },
+      {
+        "name": "los angeles",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:21:25.312+02:00",
+  "updated": "2023-12-29T00:51:53.607+02:00"
+}

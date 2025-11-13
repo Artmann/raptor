@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "f7fe8602cb4ca3631ff64308d0b4c5dc0b831326",
+    "url": "https://www.donaukurier.de/nachrichten/politik/bildungsdefizite-werden-im-jobcenter-abgeladen-18892424",
+    "site_full": "www.donaukurier.de",
+    "site": "donaukurier.de",
+    "site_section": "https://donaukurier.de/nachrichten",
+    "site_categories": ["media"],
+    "section_title": "Nachrichten | Donaukurier.de",
+    "site_title": "Donaukurier.de",
+    "title": "„Bildungsdefizite werden im Jobcenter abgeladen\"",
+    "title_full": "„Bildungsdefizite werden im Jobcenter abgeladen\"",
+    "published": "2025-06-19T07:42:07.846+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://img.donaukurier.de/ezplatform/images/_aliases/detail_teaser_item_image_variation/3/2/0/2/393372023-1-ger-DE/f25bf2bd165c-29-128250060.jpg",
+    "performance_score": 0,
+    "domain_rank": 27375,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f7fe8602cb4ca3631ff64308d0b4c5dc0b831326",
+  "url": "https://www.donaukurier.de/nachrichten/politik/bildungsdefizite-werden-im-jobcenter-abgeladen-18892424",
+  "ord_in_thread": 0,
+  "author": "Gernot Heller",
+  "published": "2025-06-19T07:42:07.846+03:00",
+  "title": "„Bildungsdefizite werden im Jobcenter abgeladen\"",
+  "text": "Das Thema Bürgergeld werde politisch ausgeschlachtet, um vom Versagen der Regierung abzulenken, beklagt der Soziologieprofessor Gerhard Bosch. Fast zwei Drittel der erwerbsfähigen Bürgergeldempfänger wären nicht in qualifizierte Jobs zu vermitteln, weil sie keine Berufsausbildung hätten.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Politics", "Social Issue", "Economy, Business and Finance"],
+  "topics": [
+    "Politics->civil rights",
+    "Politics->political process",
+    "Politics->government",
+    "Social Issue->social problem",
+    "Social Issue->poverty",
+    "Social Issue->demographics",
+    "Economy, Business and Finance->human resources",
+    "Economy, Business and Finance->corporate governance and csr",
+    "Economy, Business and Finance->economy"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Gerhard Bosch",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:42:07.846+03:00",
+  "updated": "2025-06-19T04:52:11.000+00:00"
+}

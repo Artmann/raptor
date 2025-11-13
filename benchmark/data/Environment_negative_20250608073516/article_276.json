@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "876cbcd896518dcfb29b5d4f43712e49b262478e",
+    "url": "https://caracol.com.co/2025/05/07/temporada-de-lluvias-en-colombia-ya-deja-mas-de-23000-familias-afectadas",
+    "site_full": "caracol.com.co",
+    "site": "caracol.com.co",
+    "site_section": "https://caracol.com.co/autor/radio_caracol/a",
+    "site_categories": ["media", "hobbies_and_interests", "radio"],
+    "section_title": "Caracol Radio | Caracol Radio",
+    "site_title": "Caracol Radio | Noticias, deportes y opinión en Colombia | Caracol Radio",
+    "title": "Temporada de lluvias en Colombia ya deja más de 23.000 familias afectadas",
+    "title_full": "Temporada de lluvias en Colombia ya deja más de 23.000 familias afectadas",
+    "published": "2025-05-08T00:27:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CO",
+    "main_image": "https://caracol.com.co/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fprisaradioco%2FYMWR2MIEOBD3XKEVFDHHSEN73E.jpeg?auth=5dd7d7812c6df2dcbad4d8babe5d3f3648f9cfcf7cdc4adbea9de226ce815fdc&amp;height=800&amp;width=1200&amp;quality=70&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 15111,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "876cbcd896518dcfb29b5d4f43712e49b262478e",
+  "url": "https://caracol.com.co/2025/05/07/temporada-de-lluvias-en-colombia-ya-deja-mas-de-23000-familias-afectadas",
+  "ord_in_thread": 0,
+  "author": "Caracol Radio,Andrea Arenas",
+  "published": "2025-05-08T00:27:00.000+03:00",
+  "title": "Temporada de lluvias en Colombia ya deja más de 23.000 familias afectadas",
+  "text": "De acuerdo a la Unidad Nacional de Gestión del Riesgo, se han registrado 630 emergencias entre deslizamientos de tierra, inundaciones, vendavales y crecientes súbitas en 323 de 26 departamentos al rededor del país.\nSegún datos preliminares, estos eventos han dejado más de 23.000 familias afectadas, principalmente en los departamentos de Huila, Cundinamarca, Antioquia, Caldas, Valle del Cauca y Tolima.\nUno de los departamentos que más ha impactado este fenómeno es a Antioquia, a donde se ha enviado ayuda humanitaria para atender a 380 familias , lo que incluye 380 kits de aseo, 730 colchonetas y 1.140 frazadas; y de igual forma se mantiene el monitoreo en tiempo real del río Cauca y de las condiciones operativas de Hidroituango.\nPara el caso de Meta, se logró rescatar 63 personas afectadas por la creciente del río Ariari y río Viejo en el municipio de El Dorado.\nA su vez en La Mojana, continúa la obra de emergencia en el río Cauca para mitigar las inundaciones , y paralelamente, se han distribuido kits a más de 9.500 familias afectadas por las inundaciones en los municipios de Majagual, Caimito y San Marcos en Sucre.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Human Interest", "Environment"],
+  "topics": [
+    "Disaster and Accident->emergency response",
+    "Disaster and Accident->natural disaster",
+    "Human Interest->human mishap",
+    "Environment->climate change",
+    "Environment->water",
+    "Environment->natural resources"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "La Mojana",
+        "sentiment": "none"
+      },
+      {
+        "name": "Cauca",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Unidad Nacional de Gestión del Riesgo",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:02:59.710+03:00",
+  "updated": "2025-05-08T00:11:08.000+00:00"
+}

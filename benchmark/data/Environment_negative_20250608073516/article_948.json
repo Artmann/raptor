@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "2b4eaa8f2aa193209eb2b3a071832102d7026a27",
+    "url": "https://www.vienna.at/younger-generations-will-suffer-significantly-more-from-weather-extremes/9385802",
+    "site_full": "www.vienna.at",
+    "site": "vienna.at",
+    "site_section": "https://www.vienna.at",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "WIEN - Nachrichten und Services | VIENNA.AT",
+    "site_title": "WIEN - Nachrichten und Services | VIENNA.AT",
+    "title": "Younger Generations Will Suffer Significantly More from Weather Extremes",
+    "title_full": "Younger Generations Will Suffer Significantly More from Weather Extremes",
+    "published": "2025-05-08T06:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AT",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 19781,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2b4eaa8f2aa193209eb2b3a071832102d7026a27",
+  "url": "https://www.vienna.at/younger-generations-will-suffer-significantly-more-from-weather-extremes/9385802",
+  "ord_in_thread": 0,
+  "author": "translator",
+  "published": "2025-05-08T06:00:00.000+03:00",
+  "title": "Younger Generations Will Suffer Significantly More from Weather Extremes",
+  "text": "Those born in 2020 are more likely to face extreme heatwaves than older generations. Even if global warming could be stabilized at 1.5 degrees Celsius above pre-industrial levels, an estimated 52 percent of today's five-year-olds would be affected by heatwaves in an unprecedented way. In comparison, the proportion for people born in 1960 is only 16 percent. This is reported by a research team led by Luke Grant from the Vrije Universiteit in Brussels in the journal \"Nature\".\nAs a result of climate change, there is a measurable increase in more and more severe extreme weather events. \"Human influences have been identified in heatwaves, river floods, droughts, crop failures, as well as certain aspects of wildfires and tropical cyclones,\" the team writes. However, little research has been done so far on how strongly individual people will be affected by such events. The researchers used climate models and demographic data, among other things, to predict the number of people who will be exposed to an unprecedented burden from extreme events over the course of their lives.\nWhat Global Warming Means for People in the Future Grant and colleagues considered three scenarios in which the average surface temperature of the Earth in 2100 is increased by 1.5 degrees, 2.5 degrees, and 3.5 degrees compared to pre-industrial times. They modeled what the different scenarios mean for people of different birth years.\nGlobally, of the people born in 2020, in the 1.5-degree scenario, 52 percent (about 62 million) will be exposed to an unprecedented burden from heatwaves in their lifetime. In the 3.5-degree scenario, it would even be 92 percent (111 million). 29 percent would then experience an unprecedented burden from crop failures and 14 percent from river floods. If all commitments to combat global warming made by states during climate conferences are met, the Earth will warm by 2.7 degrees by 2100, according to researchers.\nIf, instead, further reductions in greenhouse gases were to push global warming to 1.5 degrees by 2100, 613 million people born between 2003 and 2020 would be spared an unprecedented burden from heatwaves. In terms of crop failures, it would be 98 million, for river floods 64 million, for tropical cyclones 76 million, for droughts 26 million, and for wildfires 17 million. \"Our results call for a comprehensive and sustainable reduction in greenhouse gas emissions to reduce the burden of climate change on today's young generations,\" the study authors write.\nFurther Results of the Study The team defines an unprecedented burden from extreme events as a probability of less than 1 in 10,000 that a person would experience the same burden from the respective extreme events in a world without climate change. The authors also point out certain limitations of the study - for example, that factors such as internal migration were not considered.\nThe team led by Grant also found differences between people in poorer and wealthier countries. This aspect is particularly emphasized by Rosanna Gualdi and Raya Muttarak from the Università di Bologna (Italy) in a commentary, also in \"Nature\": \"In a scenario with a warming of 2.7 degrees and current policies, people in the socio-economically most vulnerable group - those with high poverty levels and low gross domestic product - are consistently more exposed to heatwaves than other groups.\"\n(APA/Red.)\nThis article has been automatically translated, read the original article here .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue"],
+  "topics": [
+    "Environment->environmental pollution",
+    "Environment->global warming",
+    "Environment->climate change",
+    "Social Issue->demographics",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Luke Grant",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Vrije Universiteit",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "2b4eaa8f2aa193209eb2b3a071832102d7026a27",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:48:41.301+03:00",
+  "updated": "2025-05-08T03:51:29.000+00:00"
+}

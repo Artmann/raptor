@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "9f918d89b278449dad33f8256e0ccb4e8bb85a79",
+    "url": "https://www.saukherald.com/stories/community-stars,84427",
+    "site_full": "www.saukherald.com",
+    "site": "saukherald.com",
+    "site_section": "https://www.saukherald.com/local-news/",
+    "site_categories": [],
+    "section_title": "Local news - Sauk Centre Herald",
+    "site_title": "Home - Sauk Centre Herald",
+    "title": "Community Stars",
+    "title_full": "Community Stars",
+    "published": "2025-09-18T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9f918d89b278449dad33f8256e0ccb4e8bb85a79",
+  "url": "https://www.saukherald.com/stories/community-stars,84427",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T03:00:00.000+03:00",
+  "title": "Community Stars",
+  "text": "Peterson named to academic list\nMANCHESTER, N.H. — Justin Peterson , of Sauk Centre, has been named to the Southern New Hampshire University summer president’s list for achieving a …\nThis item is available in full to subscribers.\nTo continue reading, you will need to either log in to your subscriber account, or purchase a new subscription.\nIf you are a current print subscriber, you can set up a free website account and connect your subscription to it by clicking here.\nIf you are a digital subscriber with an active, online-only subscription then you already have an account here. Just reset your password if you've not yet logged in to your account on this new site.\nOtherwise, click here to view your options for subscribing.\nIf you're a print and web subscriber, but do not yet have an online account, click here to create one.\nClick here to see your options for becoming a subscriber.\nOther items that may interest you",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest"],
+  "topics": [
+    "Education->college and university",
+    "Education->students",
+    "Human Interest->award and prize"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Justin Peterson",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Sauk Centre",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Southern New Hampshire University",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Sauk Centre", "Sauk Rapids"],
+      "state": ["Minnesota"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:49:58.215+03:00",
+  "updated": "2025-09-18T08:54:32.000+03:00"
+}

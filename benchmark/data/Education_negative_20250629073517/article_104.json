@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "1fb2f06d79aa5d39c4e1bf286642b3322aef780e",
+    "url": "https://news.ru/society/bolee-11-tysyach-rossijskih-shkol-ne-dovolny-dostupom-k-internetu",
+    "site_full": "news.ru",
+    "site": "news.ru",
+    "site_section": "https://news.ru/rss/",
+    "site_categories": [
+      "under_construction",
+      "top_news_ru",
+      "top_news_ua",
+      "top_news_il",
+      "top_news"
+    ],
+    "section_title": "NEWS.ru - главные новости дня",
+    "site_title": "NEWS.ru - главные новости дня",
+    "title": "Более 11 тысяч российских школ недовольны доступом к интернету",
+    "title_full": "Более 11 тысяч российских школ недовольны доступом к интернету",
+    "published": "2025-06-26T07:28:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://images.news.ru/2025/06/26/LwWss4v1Jz8TCpyMpdoa3LRPrDFxLdR4zwYc06YD_780.jpg",
+    "performance_score": 0,
+    "domain_rank": 17709,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1fb2f06d79aa5d39c4e1bf286642b3322aef780e",
+  "url": "https://news.ru/society/bolee-11-tysyach-rossijskih-shkol-ne-dovolny-dostupom-k-internetu",
+  "ord_in_thread": 0,
+  "author": "Фото Сергей Лантюхов; NEWS ru",
+  "published": "2025-06-26T07:28:00.000+03:00",
+  "title": "Более 11 тысяч российских школ недовольны доступом к интернету",
+  "text": "Свыше 25 тысяч образовательных учреждений в России обеспечены услугами связи не в полном объеме, заявили в пресс-службе Счетной палаты РФ по итогам проверки расходов федерального бюджета на подключение образовательных организаций и избирательных комиссий к интернету. Там напомнили, что регулярные проверки проводятся по поручению президента РФ Владимира Путина.\nКак показал опрос более 25 тысяч образовательных организаций общего и среднего специального образования, потребности в услугах связи обеспечены не в полном объеме, —\n[подчеркнули]в палате.\nКак оказалось, 44,6% опрошенных образовательных организаций, а именно 11 362 учебных учреждения, не считают скорость передачи данных в Сети достаточной для нормальной работы и удовлетворения всех потребностей. При этом 2,2% (558 учебных учреждений) отметили, что на предоставленной скорости невозможно полноценно использовать интернет.\nТакже в рамках проверки было установлено, что не во всех школах скорость доступа к информационным системам и интернету соответствует скорости, прописанной в госконтрактах. Например, в 26 учебных заведениях Рязанской и Псковской областей пропускная способность каналов связи ниже, чем требуется.\nРанее сообщалось, что МТС запустила первую российскую базовую станцию 5G. Как заявила глава телекоммуникационной компании Инесса Галактионова, в России затянули с внедрением 5G, но это дает стране возможность изучить опыт других государств и учесть их ошибки, которых было достаточно.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Education"],
+  "topics": [
+    "Education->online and remote learning",
+    "Education->school",
+    "Education->educational grading"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": ["top_news_ru", "top_news_ua", "top_news_il", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T08:40:06.830+03:00",
+  "updated": "2025-06-27T06:11:28.000+00:00"
+}

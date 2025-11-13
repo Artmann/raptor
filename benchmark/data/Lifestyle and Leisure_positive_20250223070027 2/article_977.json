@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "db204ebe9ac84e1b87949e68a868c1330493654c",
+    "url": "https://www.huelvainformacion.es/videos/video-emilia-perez-situa-favorita-oscar_8_2003201684.html",
+    "site_full": "www.huelvainformacion.es",
+    "site": "huelvainformacion.es",
+    "site_section": "https://www.huelvainformacion.es/videos",
+    "site_categories": ["media"],
+    "section_title": "Huelva Información | Noticias de Huelva, Andalucía y España, actualidad y última hora",
+    "title": "Vídeo | 'Emilia Pérez' se sitúa como favorita a los Oscar con 13 nominaciones",
+    "title_full": "Vídeo | 'Emilia Pérez' se sitúa como favorita a los Oscar con 13 nominaciones",
+    "published": "2025-01-23T17:47:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://static.grupojoly.com/clip/7fbbf344-452f-4091-b915-bf5d0aceb9f8_facebook-aspect-ratio_default_0.jpg",
+    "performance_score": 0,
+    "domain_rank": 71156,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "db204ebe9ac84e1b87949e68a868c1330493654c",
+  "url": "https://www.huelvainformacion.es/videos/video-emilia-perez-situa-favorita-oscar_8_2003201684.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Vídeo: Europa Press",
+  "published": "2025-01-23T17:47:00.000+02:00",
+  "title": "Vídeo | 'Emilia Pérez' se sitúa como favorita a los Oscar con 13 nominaciones",
+  "text": "'Emilia Pérez' se sitúa como favorita a los Oscar con 13 nominaciones\nLa española Karla Sofía Gascón, protagonista de Emilia Pérez, está nominada al Oscar a la mejor actriz en la 97ª edición de los premios de la Academia de las Artes y las Ciencias Cinematográficas de Hollywood.\nLa película opta a 13 galardones en la gala que se celebrará el próximo 2 de marzo, de nuevo en el Dolby Theatre de Los Ángeles, y que estará conducida por el presentador Conan O'Brien.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": [
+    "Arts, Culture and Entertainment",
+    "Human Interest",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Arts, Culture and Entertainment->arts and entertainment",
+    "Arts, Culture and Entertainment->culture",
+    "Arts, Culture and Entertainment->cinema",
+    "Human Interest->award and prize",
+    "Lifestyle and Leisure->lifestyle",
+    "Lifestyle and Leisure->trend"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Karla Sofía Gascón",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Emilia Pérez",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Academia de las Artes",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:44:58.873+02:00",
+  "updated": "2025-01-24T00:44:58.873+02:00"
+}

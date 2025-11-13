@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "46d85557a2ab5589ddce0c8bea8a738794f0f7b4",
+    "url": "https://www.stripes.com/theaters/europe/2023-12-28/russia-moscow-putin-lavrov-india-foreign-minister-12491562.html",
+    "site_full": "www.stripes.com",
+    "site": "stripes.com",
+    "site_section": "http://classifieds.stripes.com",
+    "site_categories": ["media", "jobs", "us_military"],
+    "section_title": "Stars and Stripes | The U.S. military's independent news source.",
+    "title": "In Moscow to meet Putin and Lavrov, India’s foreign minister praises growing trade | Stars and Stripes",
+    "title_full": "In Moscow to meet Putin and Lavrov, India’s foreign minister praises growing trade | Stars and Stripes",
+    "published": "2023-12-28T07:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.stripes.com/incoming/j8swau-ap23362212132115.jpg/alternates/LANDSCAPE_480/AP23362212132115.jpg",
+    "performance_score": 0,
+    "domain_rank": 3666,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "46d85557a2ab5589ddce0c8bea8a738794f0f7b4",
+  "url": "https://www.stripes.com/theaters/europe/2023-12-28/russia-moscow-putin-lavrov-india-foreign-minister-12491562.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2023-12-28T07:00:00.000+02:00",
+  "title": "In Moscow to meet Putin and Lavrov, India’s foreign minister praises growing trade | Stars and Stripes",
+  "text": "MOSCOW — India’s foreign minister met Wednesday with Russian President Vladimir Putin, who said relations between the countries are progressing even amid turbulent times. Subrahmanyam Jaishankar’s meeting was part of a five-day visit. At the start of the meeting, Putin said he would inform the Indian diplomat about the fighting in Ukraine, on which Indian Prime Minister Narendra Modi has held a neutral stance. “I know about his desire to do everything to resolve this problem through peaceful means,” Putin said. India is increasingly important to Russia as a market for oil exports, the backbone of its economy, as Western sanctions curtail oil shipments. “It is very important to make our trade interaction more sustainable. We need to think about how to achieve this,” Jaishankar said, according to a Kremlin transcript of the meeting’s opening. Jaishankar also met with Russian counterpart Sergey Lavrov, who said they discussed “the prospects for military-technical cooperation, including the joint production of modern types of weapons.” India’s foreign minister praised the “all-time high” trade turnover between the two countries, which he said exceeded $50 billion in 2022. “We expect to exceed that this year. And what is important is that this trade is more balanced, it is sustainable, and it provides for fair market access,” he said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Politics"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "lavrov",
+        "sentiment": "negative"
+      },
+      {
+        "name": "putin",
+        "sentiment": "negative"
+      },
+      {
+        "name": "vladimir putin",
+        "sentiment": "negative"
+      },
+      {
+        "name": "narendra modi",
+        "sentiment": "none"
+      },
+      {
+        "name": "sergey lavrov",
+        "sentiment": "none"
+      },
+      {
+        "name": "subrahmanyam jaishankar",
+        "sentiment": "none"
+      },
+      {
+        "name": "jaishankar",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "kremlin",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "moscow",
+        "sentiment": "none"
+      },
+      {
+        "name": "india",
+        "sentiment": "none"
+      },
+      {
+        "name": "ukraine",
+        "sentiment": "none"
+      },
+      {
+        "name": "russia",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:03:27.207+02:00",
+  "updated": "2023-12-29T00:03:27.207+02:00"
+}

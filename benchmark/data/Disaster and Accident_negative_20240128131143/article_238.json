@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "836da5659f367d943984ad07f3d55881d32c4acc",
+    "url": "https://www.newscenter1.tv/news/one-found-dead-after-house-fire-in-rural-custer-county/article_7286b100-a5a1-11ee-837d-3bf8cad60299.html",
+    "site_full": "www.newscenter1.tv",
+    "site": "newscenter1.tv",
+    "site_section": "http://newscenter1.tv/",
+    "site_categories": ["media"],
+    "section_title": "NewsCenter 1 local news, sports and weather",
+    "title": "One found dead after house fire in rural Custer County | News | newscenter1.tv",
+    "title_full": "One found dead after house fire in rural Custer County | News | newscenter1.tv",
+    "published": "2023-12-28T07:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/newscenter1.tv/content/tncms/assets/v3/editorial/0/16/016a0e5a-a5a5-11ee-8c23-97aa055cbe49/658dadc67d17c.image.jpg?crop=1280%2C672%2C0%2C144&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 81986,
+    "domain_rank_updated": "2023-12-26T12:06:35.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "836da5659f367d943984ad07f3d55881d32c4acc",
+  "url": "https://www.newscenter1.tv/news/one-found-dead-after-house-fire-in-rural-custer-county/article_7286b100-a5a1-11ee-837d-3bf8cad60299.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Anna Hamelin",
+  "published": "2023-12-28T07:00:00.000+02:00",
+  "title": "One found dead after house fire in rural Custer County | News | newscenter1.tv",
+  "text": "CUSTER COUNTY, S.D.- One person has been found dead after a house fire in rural Custer County. At 12:45 a.m. on December 20th, fire departments from Pringle, Argyle, and Custer were called for a report of a structure fire in Custer County between Pringle and Argyle. Custer County Emergency Management says that firefighters found a home with heavy smoke and visible flames, and executed an external attack of the fire. The fire was contained by 5:30 a.m., but an individual reported to be in the home had not been accounted for. An investigator from the South Dakota Fire Marshal’s office was called to the scene, and fire and law enforcement personnel searched the remains of the structure until they located the deceased individual just after noon. An autopsy has been performed, but the Custer County Sheriff's Office has not yet received the results. The individual has not been positively identified. DNA samples have been sent to the State Forensics Lab in Pierre. The investigation is ongoing and is led by the Custer County Sheriff's Office. Responding agencies include Pringle Fire Department, Argyle Fire Department, Custer Fire Department, Custer Ambulance, Custer County Sheriff’s Office, Custer Emergency Management, Custer County Coroner, Black Hills Electric COOP, and the South Dakota Fire Marshal’s Office.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Disaster and Accident",
+    "Human Interest"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "pierre",
+        "sentiment": "none"
+      },
+      {
+        "name": "custer",
+        "sentiment": "none"
+      },
+      {
+        "name": "pringle",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "state forensics lab",
+        "sentiment": "none"
+      },
+      {
+        "name": "pringle fire departme",
+        "sentiment": "none"
+      },
+      {
+        "name": "custer county emergency management",
+        "sentiment": "none"
+      },
+      {
+        "name": "custer county sheriff's office",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "s.d.",
+        "sentiment": "none"
+      },
+      {
+        "name": "custer county",
+        "sentiment": "none"
+      },
+      {
+        "name": "south dakota",
+        "sentiment": "none"
+      },
+      {
+        "name": "pringle",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:21:16.080+02:00",
+  "updated": "2023-12-29T00:21:16.080+02:00"
+}

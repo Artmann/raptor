@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "cee016ae29762452f12885f145287d6fbd5d186c",
+    "url": "https://www.corriereadriatico.it:443/macerata/san_severino_canfaito_mucche_vitelli_sbranati_dai_lupi_allevatori_pronti_mollare_coldiretti_ultime_notizie-8821552.html",
+    "site_full": "www.corriereadriatico.it",
+    "site": "corriereadriatico.it",
+    "site_section": "https://www.corriereadriatico.it:443/index.php",
+    "site_categories": ["top_news_it", "top_news"],
+    "section_title": "Corriere Adriatico ",
+    "site_title": "Corriere Adriatico",
+    "title": "San Severino, mucche e vitelli sbranati dai lupi: «Gli allevatori pronti a mollare. È allarme anche nelle zone collinari»",
+    "title_full": "San Severino, mucche e vitelli sbranati dai lupi: «Gli allevatori pronti a mollare. È allarme anche nelle zone collinari»",
+    "published": "2025-05-08T03:25:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://statics.cedscdn.it/photos/MED_HIGH/2025/05/07/8821552_image.jpg",
+    "performance_score": 0,
+    "domain_rank": 77340,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cee016ae29762452f12885f145287d6fbd5d186c",
+  "url": "https://www.corriereadriatico.it:443/macerata/san_severino_canfaito_mucche_vitelli_sbranati_dai_lupi_allevatori_pronti_mollare_coldiretti_ultime_notizie-8821552.html",
+  "ord_in_thread": 0,
+  "author": "Daniel Fermanelli",
+  "published": "2025-05-08T03:25:00.000+03:00",
+  "title": "San Severino, mucche e vitelli sbranati dai lupi: «Gli allevatori pronti a mollare. È allarme anche nelle zone collinari»",
+  "text": "SAN SEVERINO - Due mucche e due vitelli sbranati da un branco di lupi nella zona di Canfaito, nel territorio di San Severino. È solo l’ultimo di una serie di attacchi avvenuti nell’entroterra maceratese. Gli allevatori della provincia parlano di «vero e proprio assedio». Attacchi notturni e gruppi da 5-7 esemplari che da tempo battono la zona alla ricerca di cibo. E nel mirino finiscono mandrie e greggi al pascolo.\nLo sfogo\nColdiretti descrive una situazione diventata ormai insostenibile. «La zootecnia è il settore che negli ultimi anni ha più risentito della crisi e questi episodi aggravano la situazione – spiega Francesco Fucili, presidente provinciale dell’associazione –. In molti stanno pensando di abbandonare. Con l’allevamento all’aperto così rischioso l’alternativa è tenere gli animali in stalla ma ciò equivale a più costi, meno margini e minor benessere animale». Nel 2024 San Severino è stato il Comune più colpito della provincia di Macerata. Sono stati registrati ben 60 attacchi (il 30% del totale regionale). Negli ultimi sette anni sono stati denunciati oltre 200 assalti di lupi o cani selvatici, alcuni avvenuti anche in zone collinari come Recanati, Montelupone e Potenza Picena. «La vera specie a rischio di estinzione? Gli allevatori con i loro capi e il presidio del territorio che ne consegue», denuncia Fucili. Anche per questo, secondo la Coldiretti, è importante la decisione della Commissione europea di proporre una modifica alla direttiva Habitat per allinearsi al declassamento dello status di protezione del lupo da specie “strettamente protetta” a solo “protetta”, come previsto dalla Convenzione di Berna, entrata in vigore. «Serve l’ok di Parlamento e Consiglio Ue per il via libera definitivo - sottolinea Fucili - che farebbe comunque rimanere il lupo una specie protetta ma darebbe la possibilità agli Stati membri di mantenere un livello più basso di protezione dell’animale, se ritenuto necessario dalla legislazione nazionale».",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue"],
+  "topics": [
+    "Environment->endangered species",
+    "Environment->ecosystem",
+    "Environment->animal",
+    "Social Issue->population and census",
+    "Social Issue->social problem",
+    "Social Issue->mankind"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Francesco Fucili",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Canfaito",
+        "sentiment": "none"
+      },
+      {
+        "name": "provincia di Macerata",
+        "sentiment": "none"
+      },
+      {
+        "name": "San Severino",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "E",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "E",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:38:51.231+03:00",
+  "updated": "2025-05-08T01:48:39.000+00:00"
+}

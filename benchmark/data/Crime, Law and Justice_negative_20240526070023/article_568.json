@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "8f0df7409c92361a6ac422ecef813c07f3847044",
+    "url": "https://wtvbam.com/2024/04/25/explainer-why-was-harvey-weinsteins-rape-conviction-overturned-and-whats-next",
+    "site_full": "wtvbam.com",
+    "site": "wtvbam.com",
+    "site_section": "https://wtvbam.com/feed",
+    "site_categories": ["media"],
+    "section_title": "Coldwater | WTVB | wtvbam.com",
+    "title": "Explainer-Why was Harvey Weinstein’s rape conviction overturned, and what’s next?",
+    "title_full": "Explainer-Why was Harvey Weinstein’s rape conviction overturned, and what’s next?",
+    "published": "2024-04-26T00:21:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2024-04/25/2024-04-25T203205Z_2_LYNXNPEK3O0YX_RTROPTP_3_PEOPLE-HARVEY-WEINSTEIN.JPG",
+    "performance_score": 0,
+    "domain_rank": 80892,
+    "domain_rank_updated": "2024-04-23T13:07:59.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8f0df7409c92361a6ac422ecef813c07f3847044",
+  "url": "https://wtvbam.com/2024/04/25/explainer-why-was-harvey-weinsteins-rape-conviction-overturned-and-whats-next",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Syndicated Content",
+  "published": "2024-04-26T00:21:00.000+03:00",
+  "title": "Explainer-Why was Harvey Weinstein’s rape conviction overturned, and what’s next?",
+  "text": "By Brendan Pierson\n(Reuters) – Thursday’s ruling overturning Harvey Weinstein’s New York rape conviction gives the one-time film mogul a chance at a new trial and calls into question what evidence prosecutors can use in future sex crime cases.\nHere is a look at what happened to the case, which helped define the #MeToo movement, and what might happen next.\nWHY WAS WEINSTEIN’S CONVICTION OVERTURNED?\nWeinstein, 72, was found guilty of raping one woman and sexually assaulting another after both testified in court.\nBut a 4-3 majority of the New York Court of Appeals, the state’s highest court, found that the trial judge should not have permitted three other women to testify that Weinstein had assaulted them as well because their allegations were not part of the criminal charges against him.\nSuch testimony about “prior bad acts” is usually barred by New York’s so-called Molineux rule, named for a landmark 1901 court case. The majority of the court found that the testimony by the three women ran afoul of the rule and made the trial unfair.\nWHY WERE THE OTHER WOMEN ALLOWED TO TESTIFY IN THE FIRST PLACE?\nThe Molineux rule is not absolute. It holds that prosecutors cannot use such testimony to prove that the defendant has a “propensity” to commit crime, but they may use it as evidence of motive or intent.\nIn Weinstein’s case, prosecutors persuaded the trial judge that the producer’s alleged prior sexual assaults showed that he knew his accusers did not consent to his advances, but that he intended to force them into sex anyway.\nProsecutors believed the evidence would help disprove Weinstein’s assertion that the encounters were consensual.\nThe Court of Appeals, however, found that the testimony was simply evidence that he had a propensity to commit rape and sexual assault, not of his motive or intent.\nWHAT DOES THE RULING MEAN FOR WEINSTEIN’S CALIFORNIA CASE?\nWeinstein was sentenced to 16 years in prison following a separate 2022 rape conviction in California, which he is expected to appeal, and the New York ruling has no direct effect on that case.\nIn fact, California law specifically allows testimony about prior bad acts in sex crime cases as evidence that a defendant has a propensity to commit sex crimes. Such evidence was used in Weinstein’s California trial, and the state’s law will make it harder for his lawyers to challenge on appeal than in New York.\nWHAT DOES THE RULING MEAN FOR FUTURE CASES IN NEW YORK?\nAccording to the majority of the court, very little. Judge Jenny Rivera wrote in the majority opinion that the decision was based on well-established New York law, and said it was similar to another 1996 Court of Appeals decision, People v. Vargas, vacating a rape conviction because witnesses were allowed to testify about earlier alleged rapes by the defendant.\nDissenting judges in Thursday’s decision said the ruling would make it more difficult to prosecute sex crimes committed by people who know their victims and may have ongoing relationships with them, as in Weinstein’s case.\nJudge Anthony Cannataro, who was among the dissenters, called it “an unfortunate step backwards from recent advances in our understanding of how sex crimes are perpetrated.”\nAnother dissenting judge, Madeline Singas, said the decision would effectively end the use of prior bad acts witnesses in such cases and make it difficult to prove intent.\n(Reporting By Brendan Pierson in New York; Editing by Howard Goller)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "brendan pierson",
+        "sentiment": "negative"
+      },
+      {
+        "name": "harvey weinstein",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "weinstein",
+        "sentiment": "none"
+      },
+      {
+        "name": "weinstein",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "reuters",
+        "sentiment": "negative"
+      },
+      {
+        "name": "new york court of appeals",
+        "sentiment": "none"
+      },
+      {
+        "name": "molineux",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "new york",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:25:11.286+03:00",
+  "updated": "2024-04-26T00:25:11.286+03:00"
+}

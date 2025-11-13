@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "0fe520a823a14df180b5a61038564a6957df5522",
+    "url": "https://www.amren.com/news/2024/04/police-purported-recording-of-pikesville-hs-principal-was-not-authentic-contained-ai-content",
+    "site_full": "www.amren.com",
+    "site": "amren.com",
+    "site_section": "https://amren.com/feed",
+    "site_categories": ["media"],
+    "section_title": "American Renaissance",
+    "title": "Police: Purported Recording of Pikesville HS Principal Was Not Authentic, Contained AI Content",
+    "title_full": "Police: Purported Recording of Pikesville HS Principal Was Not Authentic, Contained AI Content",
+    "published": "2024-04-26T00:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.amren.com/wp-content/uploads/2017/06/ARLogo.png",
+    "performance_score": 0,
+    "domain_rank": 37535,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0fe520a823a14df180b5a61038564a6957df5522",
+  "url": "https://www.amren.com/news/2024/04/police-purported-recording-of-pikesville-hs-principal-was-not-authentic-contained-ai-content",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Henry Wolff",
+  "published": "2024-04-26T00:33:00.000+03:00",
+  "title": "Police: Purported Recording of Pikesville HS Principal Was Not Authentic, Contained AI Content",
+  "text": "[Police: Purported Recording of Pikesville HS Principal Was Not Authentic, Contained AI Content](https://www.wbaltv.com/article/police-former-pikesville-high-ad-facing-charges-ai-generated-voice-hoax/60603313) Tommie Clark et al., WBAL-TV, April 25, 2024 The former athletic director at Pikesville High School has been arrested in connection to an AI-generated impersonation of the school’s principal. Dazhon Darien, 31, faces multiple charges, including stalking, theft, disruption of school operations, and retaliation against a witness, according to charging documents obtained by 11 News. Police said the charges are connected to an investigation that started on Jan. 17 into a voice recording circulated on social media that was alleged to have been the voice of the school’s principal, Eric Eiswert. Police said the audio clip, which was an alleged race-based commentary on the school’s students and teachers, was spread on social media. That led to the temporary removal of Eiswert from the school, as well as many hate-filled messages on social media and numerous calls to the school. Police said Thursday afternoon that detectives have conclusive evidence based on a forensic analysis by the FBI that the recording was not authentic. Police said the analysis indicated the recording contained traces of AI-generated content. Detectives then sought an additional analysis by the University of California, Berkley, which arrived at the same findings as the FBI’s analysis. Police said investigators believe Darien made the recording to retaliate against Eiswert, who, at the time, was pursuing an investigation into the potential mishandling of school funds. {snip} The charging documents state that Eiswert believed Darien was responsible for the clip because he believed Darien was tech-savvy and familiar with AI, and a grievance was fueled by Darien’s contract not being renewed due to work-performance issues that included terminating a coach without approval and allegedly paying teachers under the table for helping him with his job, which is the subject of an internal audit. {snip} Police said Darien had used the school network to search for AI tools. While Darien originally denied involvement, police have since connected an email address that sent out the audio clip to Darien’s grandmother’s home in Los Angeles that has a recovery phone number being Darien’s own cellphone. Police said the audio clip was originally sent to a friend group of three teachers. One of the educators admitted to police she sent the clip to news outlets and a student who she knew would spread the clip. An investigation into the other teachers involved continues. {snip}",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.wbaltv.com/article/police-former-pikesville-high-ad-facing-charges-ai-generated-voice-hoax/60603313",
+    "https://wbaltv.com/article/police-former-pikesville-high-ad-facing-charges-ai-generated-voice-hoax/60603313"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "tommi",
+        "sentiment": "negative"
+      },
+      {
+        "name": "clark",
+        "sentiment": "none"
+      },
+      {
+        "name": "dazhon darien",
+        "sentiment": "none"
+      },
+      {
+        "name": "eiswert",
+        "sentiment": "none"
+      },
+      {
+        "name": "eric eiswert",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "pikesville high school",
+        "sentiment": "none"
+      },
+      {
+        "name": "wbal-tv",
+        "sentiment": "none"
+      },
+      {
+        "name": "fbi",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "pikesville",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:46:00.558+03:00",
+  "updated": "2024-05-03T03:35:24.223+03:00"
+}

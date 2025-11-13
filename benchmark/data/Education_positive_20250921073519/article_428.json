@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "623259cb259556c4c6232b6c1ece4115a292ba11",
+    "url": "https://evidencenetwork.ca/can-routine-mammography-prevent-cardiovascular-events/",
+    "site_full": "evidencenetwork.ca",
+    "site": "evidencenetwork.ca",
+    "site_section": "https://news.google.com/search?q=nor%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["health"],
+    "section_title": "Google News - Search",
+    "site_title": "Evidence Network",
+    "title": "Can routine mammography prevent cardiovascular events?",
+    "title_full": "Can routine mammography prevent cardiovascular events?",
+    "published": "2025-09-18T08:15:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://evidencenetwork.ca/wp-content/uploads/2025/02/Evidence-Network.jpg",
+    "performance_score": 0,
+    "domain_rank": 79297,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "623259cb259556c4c6232b6c1ece4115a292ba11",
+  "url": "https://evidencenetwork.ca/can-routine-mammography-prevent-cardiovascular-events/",
+  "ord_in_thread": 0,
+  "author": "Dr. Kyle Muller",
+  "published": "2025-09-18T08:15:00.000+03:00",
+  "title": "Can routine mammography prevent cardiovascular events?",
+  "text": "Two screening at the price of one: an IA system applied to mammography images can predict the future risk of heart problems.\nCan an annual medical check transform on the occasion to protect heart health? A new artificial intelligence system is able to predict the cardiovascular risk of a patient starting from the images of his mammography. The research described in the scientific journal Heart proposes to exploit a routine medical examination to offer additional screening to women, in an age in which cardiovascular diseases are more frequent and prevention is taken undergone.\nSignals to interpret\nIt is known that some characteristics that emerge from mammography, such as the presence of calcifications in the breast arteries or internal thoracic arteries (vessels that irrew the chest and the mammary glands) and the tissue density (i.e. the relationship between the different components, glandular, fibrous or fat, breast) are associated with cardiovascular risk.\nHowever, these parameters read “alone” do not provide clear indications on the future event that patients are fell ill with heart. The calcification of the breast arteries, for example, is not associated with obesity (an important risk factor for cardiovascular health) nor to the habit of smoking, another predictor of heart problems.\nHelp from the AI\nA group of scientists led by the George Institute for Global Health of Sydney and the Imperial College of London has therefore thought of developing an automatic analysis system of the internal structure of the breast to accurately predict the cardiovascular risk of each patient. The researchers created an algorithm of Deep Learning that analyzed the mammographic data of over 49,000 women of an average age of 59 years, residing in Australia and included in a study of cohorts, that is, a study in which you follow a certain number of patients over time, called LifePool.\nThe patients had remained in touch with the doctors for an average period of nine years. In this period of time, 3,392 of them had grown in their first cardiovascular problem: coronary heart disease, heart attack, stroke or heart failure.\nCompetitive performance\nBased exclusively on the characteristics deduced by mammography and the age of the patient, the new IA system has managed to correctly predict the cardiovascular risk of women included in the database with services comparable to other tools not based on this type of examination and which analyze age and clinical variables of patients. The performance of the AI were only slightly better, when clinical information collected on patients were added to mammographic images, as a body mass index, smoking habit, consumption of drugs or alcohol, status of menopause, use of hormonal therapies.\nExploit existing data\nThe system has the advantage of not having to request a new anamnesis to patients, because it uses the data already collected during mammography, a screening tool already widespread in the population most at risk of cardiovascular events.\nFor this, the authors of the study write, the mammography “has the potential to act as a risk assessment tool” two in one “, offering efficiency both to the community and to the health system”. This exam could be used to increase awareness in the female population of risks and cardiovascular prevention.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Health", "Science and Technology", "Education"],
+  "topics": [
+    "Health->medical test",
+    "Health->heart disease",
+    "Health->health treatment and procedure",
+    "Science and Technology->medical research",
+    "Science and Technology->biomedical science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:19:10.887+03:00",
+  "updated": "2025-09-18T08:30:20.000+03:00"
+}

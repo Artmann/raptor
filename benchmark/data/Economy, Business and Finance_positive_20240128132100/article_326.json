@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "d14b415f47e36da3cc79e2613d8786ca5d83ac3f",
+    "url": "https://www.fox13news.com/news/veteran-delivers-local-fresh-products-to-consumers-through-farmbox-florida",
+    "site_full": "www.fox13news.com",
+    "site": "fox13news.com",
+    "site_section": "https://www.fox13news.com/local-news",
+    "site_categories": ["media"],
+    "section_title": "Local News",
+    "title": "Veteran delivers local fresh products to consumers through ‘Farmbox Florida’",
+    "title_full": "Veteran delivers local fresh products to consumers through ‘Farmbox Florida’",
+    "published": "2023-12-29T00:03:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2023/12/1280/720/farmbox-2.jpg?ve=1&amp;tl=1",
+    "performance_score": 0,
+    "domain_rank": 7602,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d14b415f47e36da3cc79e2613d8786ca5d83ac3f",
+  "url": "https://www.fox13news.com/news/veteran-delivers-local-fresh-products-to-consumers-through-farmbox-florida",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Linda Hurtado",
+  "published": "2023-12-29T00:03:00.000+02:00",
+  "title": "Veteran delivers local fresh products to consumers through ‘Farmbox Florida’",
+  "text": "CLEARWATER, Fla. - Michael Burkett and his team put together boxes of fresh fruits, vegetables and other local items for delivery. For more than a year, the Navy veteran and his wife have been growing their business called \"Farmbox Florida.\" Burkett said the business sends out about 400 weekly deliveries, and they&apos;re approaching 1,000 customers. \"Basically, what we try to do is source locally, get local products, and get connecting the residents with the farmers, right? And just getting them the very best quality product that we can. You know, it&apos;s a subscription-based delivery service,\" he said. READ: Are potatoes a vegetable?: US dietary guidelines could change definition in 2025 He started thinking about this concept during the pandemic. \"You know, it&apos;s you either go to the grocery store and buy the services there, and you don&apos;t know how long it&apos;s been sitting on the shelves. Right? So what we do is we source it locally or beginning it, you know, a day or two before we put it in the boxes,\" said Burkett. \"And, it gives the customers a much longer shelf life, and they&apos;re getting much fresher product without all the GMOs and things like that.\" What&apos;s inside the box can vary. Burkett said Farmbox Florida tries to mix up the menu each week, and customers also have the ability to customize that menu. \"So if I&apos;m doing, you know, lettuce that week, but they want to substitute for kale, we&apos;ll always give them the ability to substitute something out,\" Burkett said. \"If we&apos;re doing winter squash, they may not want it, so they could substitute for a yellow squash, or it&apos;s a game. So, there&apos;s many different items that they can substitute for.\" MORE: Study suggests this ingredient leads to better coffee What he said he likes best is that his bottom line isn&apos;t the only one that benefits. \"Being able to to work with the local farmers and regional farmers. And we also do a lot of artisan vendors. Just putting money right back into the community. You know, we try to, it&apos;s community based and that&apos;s what we love about it,\" said Burkett. For more information about Farmbox Florida, visit www.farmboxflorida.com .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Health"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "michael burkett",
+        "sentiment": "positive"
+      },
+      {
+        "name": "burkett",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "navy",
+        "sentiment": "none"
+      },
+      {
+        "name": "farmbox florida",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "fla.",
+        "sentiment": "none"
+      },
+      {
+        "name": "farmbox florida",
+        "sentiment": "none"
+      },
+      {
+        "name": "clearwater",
+        "sentiment": "none"
+      },
+      {
+        "name": "us",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:37:59.889+02:00",
+  "updated": "2023-12-29T00:37:59.889+02:00"
+}

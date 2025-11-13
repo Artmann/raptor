@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "77df4d2ce7f5248d3b0995afe0d2f8923a23a3ff",
+    "url": "https://cenews.com.cn/news.html?aid=1745921",
+    "site_full": "cenews.com.cn",
+    "site": "cenews.com.cn",
+    "site_section": "https://cmsapi.cenews.com.cn/api/getarticles?cid=51&pagesize=20",
+    "site_categories": [],
+    "section_title": "",
+    "site_title": "中国环境网_全国生态环境信息平台",
+    "title": "今天（10月16日），在青海省海西州格尔木市乌图美仁光伏光热园区，格尔木350MW塔式光热发电项目正",
+    "title_full": "今天（10月16日），在青海省海西州格尔木市乌图美仁光伏光热园区，格尔木350MW塔式光热发电项目正",
+    "published": "2025-10-16T13:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 159851,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "77df4d2ce7f5248d3b0995afe0d2f8923a23a3ff",
+  "url": "https://cenews.com.cn/news.html?aid=1745921",
+  "ord_in_thread": 0,
+  "author": "古峻岭 王小龙",
+  "published": "2025-10-16T13:00:00.000+03:00",
+  "title": "今天（10月16日），在青海省海西州格尔木市乌图美仁光伏光热园区，格尔木350MW塔式光热发电项目正",
+  "text": "今天（10月16日），在青海省海西州格尔木市乌图美仁光伏光热园区，格尔木350MW塔式光热发电项目正式开工建设，这也是目前全球单机规模最大的光热发电项目。\n据了解，该项目总投资约54.35亿元，采用我国自主研发的塔式熔盐储能光热发电核心技术，由三座吸热塔和一台汽轮机组成，厂区定日镜镜场总面积为330万平方米，是目前国内镜场反射面积最大的光热发电项目，计划于2027年9月底前全容量并网发电。\n项目建成后，预计每年可产生清洁电量约9.6亿千瓦时，是国内年发电量最高的光热发电项目，每年相当于节约标准煤26.34万吨，减排二氧化碳72万吨。\n截至目前，青海电网总装机规模达7728.52万千瓦，其中清洁能源、新能源装机占比分别为93.46%和72.25%，两项占比数据均居全国第一。\n（总台记者 古峻岭 王小龙）",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Environment", "Science and Technology"],
+  "topics": [
+    "Environment->sustainability",
+    "Environment->energy saving",
+    "Environment->energy resources",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:14:59.496+03:00",
+  "updated": "2025-10-16T14:28:03.000+03:00"
+}

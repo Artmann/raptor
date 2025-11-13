@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "556688e522adf4dc162c1957d9ccf15e2fdd204a",
+    "url": "https://www.emol.com/noticias/Nacional/2025/06/26/1170384/profesores-llamado-contraloria.html",
+    "site_full": "www.emol.com",
+    "site": "emol.com",
+    "site_section": "http://www.emol.com",
+    "site_categories": ["media", "top_news_cl", "top_news"],
+    "section_title": "EMOL - El sitio de noticias online de Chile.",
+    "site_title": "EMOL - El sitio de noticias online de Chile.",
+    "title": "Profesores llaman a \"no recuperar\" clases donde haya habido descuentos por paro",
+    "title_full": "Profesores llaman a \"no recuperar\" clases donde haya habido descuentos por paro",
+    "published": "2025-06-26T10:26:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CL",
+    "main_image": "https://static.emol.cl/emol50/Fotos/2025/06/25/file_20250625230511.jpg",
+    "performance_score": 0,
+    "domain_rank": 11693,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "556688e522adf4dc162c1957d9ccf15e2fdd204a",
+  "url": "https://www.emol.com/noticias/Nacional/2025/06/26/1170384/profesores-llamado-contraloria.html",
+  "ord_in_thread": 0,
+  "author": "El Mercurio S.A.P.",
+  "published": "2025-06-26T10:26:00.000+03:00",
+  "title": "Profesores llaman a \"no recuperar\" clases donde haya habido descuentos por paro",
+  "text": "La Contraloría General de la Repúblic a estableció, a comienzos de mes, que se deben aplicar descuentos en las remuneraciones de los docentes que participaron en el último paro (4 y 5 de junio), al tratarse de una \" ausencia de servidores públicos \" por \"adherir voluntariamente a una paralización irregular\". Y según el Colegio de Profesores, dicha reducción ya ha ocurrido. \"Me ha llegado la noticia de descuentos, que surgen del muy cuestionable oficio de la Contraloría General de la República\", asegura el presidente del gremio, Mario Aguilar. Por ello, afirma que \" la instrucción inmediata es que donde se concretó el descuento, no se accede a la recuperación (de clases). La recuperación solo procedería si es fuera de la jornada de trabajo, y asegurando que se van a reintegrar los fondos descontados\".\nLee más de esto en El Mercurio.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Education"],
+  "topics": [
+    "Education->educational testing and examinations",
+    "Education->teachers",
+    "Education->educational grading"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://digital.elmercurio.com/2025/06/26/C/2J4I83NR#zoom=page-width",
+    "https://www.digital.elmercurio.com/2025/06/26/C/2J4I83NR#zoom=page-width"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mario Aguilar",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "El Mercurio",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Contraloría General de la República",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_cl", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T15:25:43.805+03:00",
+  "updated": "2025-06-27T13:09:54.000+00:00"
+}

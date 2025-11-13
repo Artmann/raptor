@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "e591193819bce946726a80b0c2e44cbc4b9051c3",
+    "url": "https://kan.china.com/article/6660276.html",
+    "site_full": "kan.china.com",
+    "site": "china.com",
+    "site_section": "https://kan.china.com/hotword",
+    "site_categories": [],
+    "section_title": "今日热点事件-实时热点关注_看看头条_中华网",
+    "site_title": null,
+    "title": "8级以上阵风+暴雨！江苏今明有较强风雨",
+    "title_full": "8级以上阵风+暴雨！江苏今明有较强风雨",
+    "published": "2025-05-08T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 2204,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e591193819bce946726a80b0c2e44cbc4b9051c3",
+  "url": "https://kan.china.com/article/6660276.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T03:00:00.000+03:00",
+  "title": "8级以上阵风+暴雨！江苏今明有较强风雨",
+  "text": "据江苏省气象台消息，5月8 - 9日江苏全省将经历一次较强风雨过程。此次天气变化不仅会带来明显降水，风力也较为强劲，市民朋友们需提前做好防范准备。\n图源：江苏省广播电视台\n具体来看，8日白天，淮河以南西部地区雨量中等，局部大雨，其他地区小雨；到了夜里，雨势增强，东南部地区雨量达到大雨量级，部分地区更是可达暴雨。在风力方面，全省阵风可达6 - 7级，雷雨时阵风更是能达到8 - 9级。这样的风雨天气，无论是对日常出行，还是户外作业、农业生产等都会产生较大影响。\n图源：江苏省广播电视台\n对于市民而言，出行安全是首要关注的问题。风雨天道路湿滑，车辆制动距离增加，驾驶时务必减速慢行，保持车距，避免急刹车和急转弯，防止车辆打滑失控。行人外出要避开积水路段，远离电线杆、广告牌等易被风吹倒的物体，防止触电和高空坠物伤人。\n图源：江苏省广播电视台\n户外作业人员如建筑工人、电力维修人员等，应暂停高空、露天作业，及时寻找安全场所躲避风雨。农民朋友需提前加固大棚、禽畜舍等农业设施，做好农田排水准备，防止农作物受淹。\n图源：江苏省广播电视台\n面对即将到来的风雨天气，大家要密切关注天气预报，及时掌握天气变化情况，提前做好防范措施。宁可十防九空，不可失防万一，只有做好充分准备，才能最大程度降低风雨天气带来的不利影响，确保人身和财产安全。希望大家都能平安度过此次天气变化。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment", "Social Issue"],
+  "topics": [
+    "Weather->weather warning",
+    "Weather->weather phenomena",
+    "Environment->climate change",
+    "Environment->environmental pollution",
+    "Environment->water",
+    "Social Issue->social problem",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:07:50.398+03:00",
+  "updated": "2025-05-08T03:12:45.000+00:00"
+}

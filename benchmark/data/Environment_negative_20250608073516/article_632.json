@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "ea86ba3e7651988f32af4e958a9b3af587a5df14",
+    "url": "https://www1.folha.uol.com.br/opiniao/2025/05/infraestrutura-de-belem-preocupa-na-cop30.shtml",
+    "site_full": "www1.folha.uol.com.br",
+    "site": "uol.com.br",
+    "site_section": "https://portalnoticiaja.com/noticias",
+    "site_categories": [
+      "media",
+      "top_news_br",
+      "top_news_pt",
+      "top_news_co",
+      "top_news_ie",
+      "top_news"
+    ],
+    "section_title": "Notícia Já - Sua fonte confiável de informação",
+    "site_title": "UOL - Seu universo online",
+    "title": "Infraestrutura de Belém preocupa na COP30 - 07/05/2025 - Opinião - Folha",
+    "title_full": "Infraestrutura de Belém preocupa na COP30 - 07/05/2025 - Opinião - Folha",
+    "published": "2025-05-08T01:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BR",
+    "main_image": "https://f.i.uol.com.br/fotografia/2025/05/07/1746657348681be04401232_1746657348_3x2_rt.jpg",
+    "performance_score": 0,
+    "domain_rank": 667,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ea86ba3e7651988f32af4e958a9b3af587a5df14",
+  "url": "https://www1.folha.uol.com.br/opiniao/2025/05/infraestrutura-de-belem-preocupa-na-cop30.shtml",
+  "ord_in_thread": 0,
+  "author": "folha",
+  "published": "2025-05-08T01:00:00.000+03:00",
+  "title": "Infraestrutura de Belém preocupa na COP30 - 07/05/2025 - Opinião - Folha",
+  "text": "Nada mais sintomático das contradições brasileiras do que escolher para sede da maior conferência ambiental do mundo a cidade de Belém, onde 8 entre 10 moradores vivem sem coleta de esgoto. E não será o frenesi de obras da COP30 a remediar tamanha iniquidade.\nO estado do Pará investe meros R$ 22 per capita por ano em saneamento, ante R$ 111 na média nacional —e o desejável seriam R$ 231, segundo estimativa do Instituto Trata Brasil. A insalubridade resulta da incúria de várias gestões, não há como maquiá-la multiplicando tapumes.\nConsidere-se o Parque Urbano São Joaquim, intervenção que recebeu R$ 170 milhões da hidrelétrica de Itaipu. Apenas está em obras —aliás, atrasadas— o trecho 1, de 720 m ao longo do canal de mesmo nome, sem previsão de começar drenagem e saneamento nos outros 8 km. O trecho 1 fica no caminho do aeroporto e já foi descrito, sem ironia, como cartão de visitas da cidade.\nOs cerca de 50 mil participantes esperados para o evento terão outras mazelas urbanísticas com que se preocupar. Mobilidade, para começar, numa metrópole de ruas estreitas e trânsito caótico. A frota do precário sistema de transporte público vai aumentar 30%, pelo acréscimo de 300 ônibus com wifi e ar-condicionado.\nMesmo rasgando avenidas novas, como a da Liberdade, não há garantia de que esses coletivos não ficarão retidos na massa de 557 mil veículos belenenses.\nCogita-se deslocar mais 350 ônibus da região só para transportar os participantes até o Parque da Cidade, onde se concentrará a COP30, desde o porto de Outeiro, a 30 km da sede. Reformado para receber grandes navios para hospedagem, o ancoradouro não chega a constituir opção prática para 6.000 hóspedes que ficarem sem alternativa.\nO déficit de leitos está em cerca de 14 mil vagas. Organizadores contabilizam apenas 36 mil disponíveis, incluindo 15 mil para aluguel temporário por aplicativos e 2.000 em motéis —para nada dizer de 5.000 fora do município, em locais entre 9 e 70 km de distância, parte deles acessíveis apenas por embarcações.\nAs soluções cheiram a improviso, como antecipar férias e a chegada dos chefes de Estado para desafogar a reunião propriamente dita. O governo federal se empenha em acordos para conter a escalada de preços de hotéis, passagens aéreas e víveres, mas parece duvidoso que tenha sucesso.\nNão espanta que a COP30 já seja vista por parte dos moradores como desvantajosa, pela perturbação que impõe sem contrapartida de um legado civilizador.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "portuguese",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Politics"],
+  "topics": [
+    "Environment->climate change",
+    "Environment->environmental pollution",
+    "Environment->sustainability",
+    "Social Issue->social problem",
+    "Social Issue->demographics",
+    "Politics->government policy",
+    "Politics->international relations",
+    "Politics->environmental policy"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:19:18.078+03:00",
+  "updated": "2025-05-08T02:24:27.000+00:00"
+}

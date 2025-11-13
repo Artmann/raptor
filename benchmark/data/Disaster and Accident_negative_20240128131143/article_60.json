@@ -1,0 +1,128 @@
+{
+  "thread": {
+    "uuid": "2cabca1d0c6ddac3ac3d19fec555ce8960b6f7ee",
+    "url": "https://www.fox7austin.com/news/kyle-david-urias-mejia-villagran-riverside-murder-austin-texas",
+    "site_full": "www.fox7austin.com",
+    "site": "fox7austin.com",
+    "site_section": "https://www.fox7austin.com/",
+    "site_categories": ["media", "health", "cold_and_flu"],
+    "section_title": "FOX 7 Austin",
+    "title": "Kyle man arrested for murder in Riverside",
+    "title_full": "Kyle man arrested for murder in Riverside",
+    "published": "2023-12-28T22:40:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2023/12/1280/720/HOMICIDE-TN-1227.jpg?ve=1&amp;tl=1",
+    "performance_score": 0,
+    "domain_rank": 15762,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2cabca1d0c6ddac3ac3d19fec555ce8960b6f7ee",
+  "url": "https://www.fox7austin.com/news/kyle-david-urias-mejia-villagran-riverside-murder-austin-texas",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "FOX 7 Austin",
+  "published": "2023-12-28T22:40:00.000+02:00",
+  "title": "Kyle man arrested for murder in Riverside",
+  "text": "AUSTIN, Texas - Austin police have arrested a man after a body with gunshot wounds was discovered in a parking lot in Riverside .\nOn Tuesday, Dec. 19 at approximately 9:04 a.m., the Hays County Sheriff&apos;s Office responded to a family disturbance in Kyle .\nDuring their investigation, they learned that David Urias Mejia-Villagran, one of the individuals involved in the call, may have killed a person at 2005 Willow Creek Drive in Riverside.\nCRIME STORIES Officer-involved shooting has neighbors calling for increased police presence Harris County police chase: Suspect arrested, identified following hours-long standoff along I-10 Man killed in deadly Sixth Street officer-involved shooting identified by police APD officers responded to the address at the South Shore apartments.\nOfficers found a man, Jorge Ordonez-Perez, in the parking lot with gunshot wounds. Perez was pronounced dead at the scene.\nAfter initial investigation, police learned that Villagran shot Perez during a disturbance related to a romantic relationship Perez had with Villagran&apos;s wife.\nDavid Urias Nejia-Villagran mug shot. (Austin Police Department)\nVillagran was arrested and is charged with first degree felony murder.\nAnyone with any information about this case should contact APD&apos;s Homicide unit at 512-974-TIPS. You may also submit tips anonymously through Crime Stoppers at austincrimestoppers.org .\nThis is Austin&apos;s 72nd homicide of 2023.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Crime, Law and Justice"],
+  "external_links": [
+    "https://austincrimestoppers.org/",
+    "https://austincrimestoppers.org",
+    "https://www.austincrimestoppers.org/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "kyle",
+        "sentiment": "negative"
+      },
+      {
+        "name": "david urias mejia-villagran",
+        "sentiment": "none"
+      },
+      {
+        "name": "jorge ordonez-perez",
+        "sentiment": "none"
+      },
+      {
+        "name": "david urias nejia-villagran",
+        "sentiment": "none"
+      },
+      {
+        "name": "villagran",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "hays county sheriff&apos;s office",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "riverside austin",
+        "sentiment": "none"
+      },
+      {
+        "name": "texas",
+        "sentiment": "none"
+      },
+      {
+        "name": "austin",
+        "sentiment": "none"
+      },
+      {
+        "name": "willow creek drive",
+        "sentiment": "none"
+      },
+      {
+        "name": "south shore",
+        "sentiment": "none"
+      },
+      {
+        "name": "harris county",
+        "sentiment": "none"
+      },
+      {
+        "name": "riverside",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:05:37.772+02:00",
+  "updated": "2023-12-29T00:05:37.772+02:00"
+}

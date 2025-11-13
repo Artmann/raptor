@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "67eae52923449869b55cca672ec16df4dc879358",
+    "url": "https://indianexpress.com/article/world/biden-approves-disaster-declaration-freeing-up-resources-against-new-mexico-fires-9405679",
+    "site_full": "indianexpress.com",
+    "site": "indianexpress.com",
+    "site_section": "https://indianexpress.com/feed/",
+    "site_categories": ["media", "top_news"],
+    "section_title": "The Indian Express",
+    "title": "Biden approves disaster declaration, freeing up resources in battle against deadly New Mexico fires",
+    "title_full": "Biden approves disaster declaration, freeing up resources in battle against deadly New Mexico fires",
+    "published": "2024-06-20T21:39:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://images.indianexpress.com/2024/06/New-Mexico-Fire-Reuters.jpg",
+    "performance_score": 0,
+    "domain_rank": 1002,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "67eae52923449869b55cca672ec16df4dc879358",
+  "url": "https://indianexpress.com/article/world/biden-approves-disaster-declaration-freeing-up-resources-against-new-mexico-fires-9405679",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@indianexpress",
+  "published": "2024-06-20T21:39:00.000+03:00",
+  "title": "Biden approves disaster declaration, freeing up resources in battle against deadly New Mexico fires",
+  "text": "President Joe Biden on Thursday issued a disaster declaration for parts of southern New Mexico, freeing up funding and more resources as crews worked, under the threat of flooding and lightning, to battle a pair of deadly wildfires that have destroyed hundreds of homes and forced thousands of people to flee.\nThe declaration will help with recovery efforts including temporary housing, low-cost loans to cover uninsured property and other emergency work in Lincoln County and on lands belonging to the Mescalero Apache Tribe.\nResidents of Ruidoso, a mountain village, fled the larger fire with little notice as it swept into neighborhoods on Monday. More areas were evacuated on Tuesday as the fire ballooned, consuming homes nestled among the the ponderosa pines that dominate the hillsides.\nThe flames advanced Thursday along the mountain headwaters of Eagle Creek and the Rio Ruidoso with 0% containment. Crews used heavy equipment to build fire lines while water and retardant dropped from the air.\n“The big concern right now is flooding,” Ruidoso Mayor Lynn Crawford told the KWMW “W105” radio on Thursday.\n“We got less than two-tenths of an inch of rain yesterday but because of all the burn scar, there’s nothing holding it up. We had flooding already over the bridges.”\nAn estimated 1,400 structures have been destroyed or damaged, and Crawford estimated about half were homes.\nWhole portions of some communities were lost, he said. “These are things that are burnt to the foundations and all the trees around it,” he said. “It’s devastating.”\nThe rain helped to keep the fire from spreading and high humidity levels and cooler temperatures were expected to help keep the flames in check again Thursday, said Brandon Glenn, with the incident management team that is assigned to the fires.\nHundreds of firefighters have been trying to prevent spot fires, while others are assessing roads and trying to get around to structures and contain pockets of unburned fuel that might flare up.\n“It’s a lot of work just getting folks in,” Glenn said during a briefing. Authorities say a badly burned 60-year-old man who died was found near the popular Swiss Chalet Inn in Ruidoso.\nHis family said he had arranged for a ride from friends but they were unable to get to him Monday since the roads were blocked. It appeared he was overcome after he tried to set out on foot.\nOn Wednesday, officers discovered the skeletal remains of an unidentified second person in the driver seat of a burned vehicle.\nA couple of residents spent Thursday driving around Ruidoso and neighboring Alto, providing reports via social media of what they were seeing.\nThere were neighborhoods where the ground was turned to ash, the trees were blackened and homes were reduced to their foundations, with only fireplaces remaining.\n“I am speechless. I'm so sorry everyone,” said Logan Fle, as he drove down one road. Other homes were still standing, police officers were patrolling and utility crews were working in some areas.\nMuch of the Southwest has been exceedingly dry and hot in recent months. Those conditions, along with strong wind, whipped the flames out of control, rapidly advancing the South Fork Fire into Ruidoso in a matter of hours.\nEvacuations extended to hundreds of homes, businesses, a regional medical center and the Ruidoso Downs horse track.\nNationwide, wildfires have scorched more than 3,344 square miles (8,660 square kilometers) this year — a figure higher than the 10-year average, according to the National Interagency Fire Center.\nNearly 20 wildfires burning in California, Arizona, Colorado and Washington state and elsewhere are considered large and uncontained.\nThe two southern New Mexico wildfires have consumed more than 36 square miles (94 square kilometers). The cause of the fires is under investigation. “This is the one that we always feared the most, and it's hit,” Crawford said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Health", "Politics", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "biden",
+        "sentiment": "negative"
+      },
+      {
+        "name": "joe biden",
+        "sentiment": "negative"
+      },
+      {
+        "name": "lynn crawford",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "new mexico",
+        "sentiment": "none"
+      },
+      {
+        "name": "ruidoso",
+        "sentiment": "none"
+      },
+      {
+        "name": "eagle creek",
+        "sentiment": "none"
+      },
+      {
+        "name": "lincoln county",
+        "sentiment": "none"
+      },
+      {
+        "name": "rio ruidoso",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-21T02:48:52.915+03:00",
+  "updated": "2024-06-21T02:48:52.915+03:00"
+}

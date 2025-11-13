@@ -1,0 +1,118 @@
+{
+  "thread": {
+    "uuid": "450fd9513f082e39c8146bd360e46f4b11e3da95",
+    "url": "https://www.perthnow.com.au/news/environment/size-of-kangaroo-island-horror-discovery-at-popular-beaches-c-18622863",
+    "site_full": "www.perthnow.com.au",
+    "site": "perthnow.com.au",
+    "site_section": "https://www.perthnow.com.au/rss",
+    "site_categories": [
+      "media",
+      "cricket",
+      "sports",
+      "top_news_au",
+      "top_news"
+    ],
+    "section_title": "PerthNow",
+    "site_title": "PerthNow | Breaking News from Perth and Western Australia",
+    "title": "'Size of Kangaroo Island': Horror discovery at popular beaches",
+    "title_full": "'Size of Kangaroo Island': Horror discovery at popular beaches",
+    "published": "2025-05-08T05:17:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://images.perthnow.com.au/publication/C-18622863/4ea281a2e5d61b7d1d0fb7fbe957eda26869cd2d-16x9-x0y192w2048h1152.jpg?imwidth=1200",
+    "performance_score": 0,
+    "domain_rank": 8182,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "450fd9513f082e39c8146bd360e46f4b11e3da95",
+  "url": "https://www.perthnow.com.au/news/environment/size-of-kangaroo-island-horror-discovery-at-popular-beaches-c-18622863",
+  "ord_in_thread": 0,
+  "author": "Alexandra Feiam NewsWire",
+  "published": "2025-05-08T05:17:00.000+03:00",
+  "title": "'Size of Kangaroo Island': Horror discovery at popular beaches",
+  "text": "A significant toxic algae bloom is impacting the waters around South Australia’s coast, leaving scores of dead penguins and sea life, and locals feeling sick.\nThe Karenia mikimotoi algae bloom has emerged across waterways in South Australia, including the Southern Fleurieu Peninsula, Yorke Peninsula and Kangaroo Island.\nEnvironment Minister Susan Close said the bloom was “roughly the size of Kangaroo Island and up to 20m deep”.\nThe algae bloom washed discoloured foam to the shore and was likely “being driven by an ongoing marine heatwave impacting southern Australian waters”.\nWith water temperatures 2.5C warmer than usual, combined with “relatively calm marine conditions” and small swells and little wind, the bloom was first detected along the Southern Fleurieu Peninsula in early March.\n“(It was) first detected at Parsons Beach and Waitpinga Beach,” Ms Close told NewsWire.\nDaily satellite measures showed an increase in chlorophyll-a (chla) levels, which indicate a large concentration of algae throughout Investigator Strait between Kangaroo Island and Yorke Peninsula, extending across the tip of Yorke Peninsula from Port Moorowie to Daly Head, as well as in the coastal waters from Point Turton to Port Victoria in Spencer Gulf, the SA Research and Development Institute said in a statement.\nThere is a decrease in chla levels along the southeastern region of the Coorong and in waters to the west of the Yorke Peninsula’s southern tip.\nThe marine heatwave has been affecting the southern region of Australia since September last year, with the harmful algae bloom linked to the deaths of scores of marine life.\n“(The bloom) affects the gills of fish, depriving them of oxygen and causing a harmful toxin,” Ms Close told NewsWire.\nOnline, residents shared images of the dead animals strewn across the shore, including fish, seahorses and penguins.\nWhile the algae is not toxic to humans, exposure may cause flu-like symptoms that may linger for several hours.\nSome locals have reported feeling painful symptoms, including sore eyes, shortness of breath and skin irritations after coming in contact with the water, with experts urging residents to stay away from the water.\n“These symptoms resolve within several hours after leaving the beach and adjacent area,” Ms Close said.\nWhile it is not clear when the algae will dissipate, Ms Close said conditions would likely improve once “we get seasonal westerly winds and bigger swells”.\n“This usually occurs late April but consistent high pressure systems prevented this,” she said.\nThe algae blooms come days after a 3m great white shark was found in distress in the shallows of Henley Beach, the fourth to die in the area.\n“PIRSA is currently investigating the death of a 3.01m, male sub adult white shark retrieved from Henley Beach (on Monday) with samples collected for further analysis,” a Department of Primary Industries and Regions South Australia (PIRSA) spokesman told NewsWire.\n“The cause of death is still under investigation and any links to this incident and other recent shark mortalities at other locations on the South Australian coast are unable to be determined at this stage.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->environmental pollution",
+    "Environment->water pollution",
+    "Environment->endangered species"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Susan Close",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "South",
+        "sentiment": "none"
+      },
+      {
+        "name": "Waitpinga Beach",
+        "sentiment": "none"
+      },
+      {
+        "name": "Kangaroo Island",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "SA",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "SA",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:19:16.318+03:00",
+  "updated": "2025-05-08T02:22:54.000+00:00"
+}

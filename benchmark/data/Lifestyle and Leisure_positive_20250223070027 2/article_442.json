@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "f44ea26c4cb4b80840a3f1b6edf2f62bffe098cd",
+    "url": "https://www.newsbreak.com/the-staten-island-advance-513122/3774612946330-friend-provides-update-on-family-burned-out-of-staten-island-home-toddler-improving",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://newsbreak.com/staten-island-ny",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "Staten Island, NY Local News and More | NewsBreak",
+    "title": "Friend provides update on family burned out of Staten Island home; toddler improving - NewsBreak",
+    "title_full": "Friend provides update on family burned out of Staten Island home; toddler improving - NewsBreak",
+    "published": "2025-01-23T23:14:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/14maCx_0yNNvp1b00",
+    "performance_score": 0,
+    "domain_rank": 3577,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f44ea26c4cb4b80840a3f1b6edf2f62bffe098cd",
+  "url": "https://www.newsbreak.com/the-staten-island-advance-513122/3774612946330-friend-provides-update-on-family-burned-out-of-staten-island-home-toddler-improving",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Luke Peteley",
+  "published": "2025-01-23T23:14:00.000+02:00",
+  "title": "Friend provides update on family burned out of Staten Island home; toddler improving - NewsBreak",
+  "text": "By Luke Peteley ,\n1 hours ago STATEN ISLAND, N.Y. — The family who recently lost their Graniteville home in a fire is slowly recovering, according to a close friend. Christopher Guzzo, the owner of Making MemorEase Event Management, has worked beside Isaiah Pereles, 25, since Pereles began at the company around the age of 16. Isaiah was among those injured in Friday’s fire at 267 Ada Drive, but he is also the father of Ian, the 2-year-old boy who was listed in critical condition in the wake of the blaze. Read full article\nRead in NewsBreak 6",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Social Issue", "Lifestyle and Leisure"],
+  "topics": [
+    "Social Issue->family",
+    "Social Issue->social problem",
+    "Lifestyle and Leisure->wellness"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Luke Peteley",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Christopher Guzzo",
+        "sentiment": "none"
+      },
+      {
+        "name": "Isaiah Pereles",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ian",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "MemorEase Event Management",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Staten Island",
+        "sentiment": "none"
+      },
+      {
+        "name": "Graniteville",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:20:42.406+02:00",
+  "updated": "2025-01-24T00:20:42.406+02:00"
+}

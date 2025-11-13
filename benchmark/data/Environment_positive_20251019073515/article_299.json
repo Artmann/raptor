@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "23aea8f8bc5b3c975760013ad475dd47b734fb61",
+    "url": "http://politics.people.com.cn/n1/2025/1016/c1024-40583727.html",
+    "site_full": "politics.people.com.cn",
+    "site": "people.com.cn",
+    "site_section": "http://people.com.cn/",
+    "site_categories": [
+      "media",
+      "law_government_and_politics",
+      "politics",
+      "top_news_hk",
+      "top_news_my",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "人民网_网上的人民日报",
+    "site_title": null,
+    "title": "习近平向联合国粮食及农业组织成立80周年致贺信--时政--人民网",
+    "title_full": "习近平向联合国粮食及农业组织成立80周年致贺信--时政--人民网",
+    "published": "2025-10-16T13:53:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 2198,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "23aea8f8bc5b3c975760013ad475dd47b734fb61",
+  "url": "http://politics.people.com.cn/n1/2025/1016/c1024-40583727.html",
+  "ord_in_thread": 0,
+  "author": "105175",
+  "published": "2025-10-16T13:53:00.000+03:00",
+  "title": "习近平向联合国粮食及农业组织成立80周年致贺信--时政--人民网",
+  "text": "新华社北京10月16日电 10月16日，国家主席习近平向联合国粮食及农业组织成立80周年致贺信。 习近平指出，联合国粮食及农业组织为保障世界粮食安全、推动乡村发展和粮食体系转型、提高各国人民生活水平发挥了重要作用。 习近平强调，中国政府高度重视粮食安全，坚持依靠自身解决好14亿多人口的吃饭问题，并向有需要的国家提供力所能及的帮助，为保障世界粮食安全贡献了中国力量。中国将一如既往支持联合国粮食及农业组织在国际粮农领域发挥重要作用，愿同国际社会携手落实全球发展倡议，推进联合国2030年可持续发展议程，推动构建人类命运共同体，为增进各国人民福祉作出新的更大贡献。 联合国粮食及农业组织成立于1945年10月16日，中国是该组织的创始成员国。 分享让更多人看到",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Politics", "Environment"],
+  "topics": [
+    "Politics->international organisation",
+    "Environment->sustainability",
+    "Environment->natural resources"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_hk", "top_news_my", "top_news_tw", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:19:52.607+03:00",
+  "updated": "2025-10-17T15:11:48.000+03:00"
+}

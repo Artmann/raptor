@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "71a3f8cd62e39375f74c82d00611bcaa7c79aa72",
+    "url": "https://www.bostonherald.com/2023/12/28/lawrence-nightclub-energy-lounge-ordered-closed-after-fatal-christmas-eve-shooting/",
+    "site_full": "www.bostonherald.com",
+    "site": "bostonherald.com",
+    "site_section": "http://www.bostonherald.com/feed",
+    "site_categories": ["media"],
+    "section_title": "Boston Herald",
+    "title": "Lawrence nightclub Energy Lounge ordered closed after fatal Christmas Eve shooting",
+    "title_full": "Lawrence nightclub Energy Lounge ordered closed after fatal Christmas Eve shooting",
+    "published": "2023-12-29T00:54:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.bostonherald.com/wp-content/uploads/migration/2017/10/24/102417lawrencepw01.jpg?w=1024&#038;h=670",
+    "performance_score": 0,
+    "domain_rank": 2354,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "71a3f8cd62e39375f74c82d00611bcaa7c79aa72",
+  "url": "https://www.bostonherald.com/2023/12/28/lawrence-nightclub-energy-lounge-ordered-closed-after-fatal-christmas-eve-shooting/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Lance Reynolds",
+  "published": "2023-12-29T00:54:00.000+02:00",
+  "title": "Lawrence nightclub Energy Lounge ordered closed after fatal Christmas Eve shooting",
+  "text": "The Lawrence Police Department has suspended a city nightclub’s license to operate days after a deadly shooting early Christmas Eve morning.\nActing Chief William Castro on Wednesday suspended Energy Lounge’s license as the shooting that killed 29-year-old Edward Javier-Perez remains under investigation, with the suspects still at large.\n“The Acting Chief has determined that in the interest of public safety, the City must close the establishment and suspend the establishment’s license to operate until such time that the investigation is complete,” Det. Thomas M. Cuddy stated in a release Thursday.\n“This immediate action is being taken on an expedited basis due to the overriding public safety concern,” Cuddy added.\nAuthorities on Tuesday identified Javier-Perez as the victim shot and killed at Energy Lounge early Sunday morning.\nPolice responded to the nightclub at 459 Broadway around 12:20 a.m., finding Javier-Perez suffering from an apparent gunshot wound, according to the Essex District Attorney’s Office.\nMedical personnel pronounced Javier-Perez dead after he was rushed to Lawrence General Hospital.\n“Energy Lounge deeply regrets the human loss and we send our most sincere condolences and prayers to the victim’s relatives,” the business said in an Instagram post the day of the shooting. “We accompany them in their pain.”\nThe establishment will remain closed until further notice, and once authorities complete the investigation, the Lawrence Licensing Board will be fed the information and determine whether to hold a hearing regarding the shooting.\nIn its Instagram post, Energy Lounge said it was “actively cooperating with the authorities.”\n“We infinitely appreciate the interest of all people, assiduous visitors to our restaurant and friends to come closer and offer us their support and trust in such a difficult time,” the post read. We reiterate the commitment and responsibility to ensure a safe and healthy environment in our establishment.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "cuddy",
+        "sentiment": "none"
+      },
+      {
+        "name": "javier-perez",
+        "sentiment": "none"
+      },
+      {
+        "name": "lawrence",
+        "sentiment": "none"
+      },
+      {
+        "name": "william castro",
+        "sentiment": "none"
+      },
+      {
+        "name": "edward javier-perez",
+        "sentiment": "none"
+      },
+      {
+        "name": "thomas m. cuddy",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "lawrence nightclub energy lounge",
+        "sentiment": "negative"
+      },
+      {
+        "name": "lawrence police department",
+        "sentiment": "negative"
+      },
+      {
+        "name": "energy lounge",
+        "sentiment": "none"
+      },
+      {
+        "name": "essex district attorney’s office",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "broadway",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:06:53.719+02:00",
+  "updated": "2023-12-29T01:06:53.719+02:00"
+}

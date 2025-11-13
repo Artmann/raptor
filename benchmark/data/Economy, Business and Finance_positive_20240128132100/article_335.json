@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "e6e8f5a526d9234ded8b993f8a55182d30e251bf",
+    "url": "https://www.wcvb.com/article/tax-moves-you-can-make-now-to-benefit-yourself-later/46245917",
+    "site_full": "www.wcvb.com",
+    "site": "wcvb.com",
+    "site_section": "https://www.wcvb.com/topstories-rss",
+    "site_categories": ["media"],
+    "section_title": "Top Stories",
+    "title": "Tax moves you can make now to benefit yourself later",
+    "title_full": "Tax moves you can make now to benefit yourself later",
+    "published": "2023-12-29T00:26:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://kubrick.htvapps.com/vidthumb/de1b1cf7-18d7-4dba-adda-bff1e0f4caf8/a51c021c-1dd5-4d19-b0d8-88fc33de029b.jpg?crop=1.00xw:1.00xh;0,0&amp;resize=1200:*",
+    "performance_score": 0,
+    "domain_rank": 6319,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e6e8f5a526d9234ded8b993f8a55182d30e251bf",
+  "url": "https://www.wcvb.com/article/tax-moves-you-can-make-now-to-benefit-yourself-later/46245917",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Ben Simmoneau",
+  "published": "2023-12-29T00:26:00.000+02:00",
+  "title": "Tax moves you can make now to benefit yourself later",
+  "text": "Tax moves you can make now to benefit yourself later The tax deadline may be in April, but experts say it's never too early to get a head start. \"It's a really great time to start thinking about your taxes,\" said Lisa Greene-Lewis of TurboTax. She said there are a few tax-related tasks that help maximize your refund or minimize the taxes you owe. You can start with your retirement contributions. \"By contributing to your 401k, you're actually lowering your taxable income,\" Greene-Lewis said. \"If your employer matches, that's a win altogether because you're building your nest egg and then you're also increasing your retirement by lowering your taxable income.\" Other option is deferring income. \"If you're expecting a bonus from your employer, maybe you can ask them to hold off until the first week in January,\" Greene-Lewis said. \"So you're still receiving it, but you won't be taxed on it for this tax year.\" She said it's also a great time to review your investments, especially if you took any losses. \"And if you decide to sell those, you would just sell them by the end of the year,\" Greene-Lewis said. \"If you had any gains, you would be able to offset those.\" Lastly, prepare your paperwork. Get organized now so that your documents are ready to go when you're ready to file.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "lisa greene-lewis",
+        "sentiment": "none"
+      },
+      {
+        "name": "lewis",
+        "sentiment": "none"
+      },
+      {
+        "name": "gre",
+        "sentiment": "none"
+      },
+      {
+        "name": "greene",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "turbotax",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:39:31.952+02:00",
+  "updated": "2024-01-13T05:47:18.129+02:00"
+}

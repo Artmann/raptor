@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "c7cd2e5332dd5112c7de4a7e4bcb006156784158",
+    "url": "https://www.newsbreak.com/news/4295310548457-housing-trust-launches-200-million-bay-area-fund-buoyed-by-apple",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://newsbreak.com/alviso-ca",
+    "site_categories": ["under_construction"],
+    "section_title": "Alviso, CA Local News and More | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Housing trust launches $200 million Bay Area fund, buoyed by Apple - NewsBreak",
+    "title_full": "Housing trust launches $200 million Bay Area fund, buoyed by Apple - NewsBreak",
+    "published": "2025-10-16T15:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/0HdebC_15i2sjqC00",
+    "performance_score": 0,
+    "domain_rank": 2819,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c7cd2e5332dd5112c7de4a7e4bcb006156784158",
+  "url": "https://www.newsbreak.com/news/4295310548457-housing-trust-launches-200-million-bay-area-fund-buoyed-by-apple",
+  "ord_in_thread": 0,
+  "author": "Silicon Valley",
+  "published": "2025-10-16T15:30:00.000+03:00",
+  "title": "Housing trust launches $200 million Bay Area fund, buoyed by Apple - NewsBreak",
+  "text": "46 minutes ago SAN JOSE — Housing Trust Silicon Valley has launched a $200 million fund that’s being crafted to fuel a greater pace of affordable residential development in the Bay Area and named Apple as its 2025 Housing Champion. The regional organization said the new financing endeavor, which the Housing... Read full article\nRead in NewsBreak",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Environment"],
+  "topics": [
+    "Economy, Business and Finance->business financing",
+    "Economy, Business and Finance->construction and property",
+    "Environment->sustainability"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Area",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Apple",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "AAPL",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "c7cd2e5332dd5112c7de4a7e4bcb006156784158",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:18:25.520+03:00",
+  "updated": "2025-10-16T16:26:50.000+03:00"
+}

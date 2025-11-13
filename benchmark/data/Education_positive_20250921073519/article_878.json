@@ -1,0 +1,142 @@
+{
+  "thread": {
+    "uuid": "594704cc9941e767b3c2c483debc94ab123ff855",
+    "url": "https://www.miragenews.com/unist-institute-wins-1b-krw-for-ai-platform-1536009/",
+    "site_full": "www.miragenews.com",
+    "site": "miragenews.com",
+    "site_section": "https://miragenews.com/contraband-unauthorized-items-seized-at-1236912",
+    "site_categories": ["media"],
+    "section_title": "Contraband, Unauthorized Items Seized at Archambault Institution 17 May | Mirage News",
+    "site_title": "Australia&#039;s 24/7 live news &amp; media portal | Mirage News",
+    "title": "UNIST Institute Wins 1B KRW for AI Platform Research | Mirage News",
+    "title_full": "UNIST Institute Wins 1B KRW for AI Platform Research | Mirage News",
+    "published": "2025-09-18T09:11:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://cdn1.miragenews.com/wp-content/uploads/2017/11/news-developments.jpg",
+    "performance_score": 0,
+    "domain_rank": 38877,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "594704cc9941e767b3c2c483debc94ab123ff855",
+  "url": "https://www.miragenews.com/unist-institute-wins-1b-krw-for-ai-platform-1536009/",
+  "ord_in_thread": 0,
+  "author": "Mirage News",
+  "published": "2025-09-18T09:11:00.000+03:00",
+  "title": "UNIST Institute Wins 1B KRW for AI Platform Research | Mirage News",
+  "text": "The UNIST Industry Intelligentization Institute has been selected to participate in a new collaborative research initiative, titled 'Global Convergence Research in Humanities and Social Sciences (Consortium-type),' established by the Ministry of Education and the National Research Foundation of Korea (NRF). The theme of this project is \"A Knowledge Platform for All in the AI Era: Reinventing Social Infrastructure through Sustainable Library Operations,\" which aims to revolutionize how society leverages AI-driven knowledge sharing.\nOver the next five years, the project will receive a total investment of 100 billion KRW, with annual funding of 20 billion KRW. The research is led by the Yonsei University Research Institute for Academic Library Development, with UNIST responsible for pioneering core data-driven technologies.\nThe UNIST Industry Intelligentization Institute will focus on integrating vast data sources, designing intelligent service systems, and developing advanced AI analysis techniques. The goal is to transform over 20,000 libraries nationwide into a social operating system powered by AI and data, fostering innovative education and knowledge-sharing platforms through practical experimentation.\nThis consortium brings together five leading research institutions from Korea and abroad, including Yonsei University, Konkuk University, Simmons University (USA), and George Mason University (USA). UNIST will play a central role in designing AI-powered services based on data, conducting empirical data analyses, and developing customized educational programs. Collaborating with international partners will also ensure the global relevance and impact of the research outcomes.\nSungil Kim, Director of the Industry Intelligentization Institute at UNIST, commented, \"This project presents a unique opportunity to apply UNIST's expertise in industrial data analysis and AI to transform social infrastructure. By leveraging libraries as a foundation, we aim to ensure equitable access to AI benefits across society, contributing to the reduction of social disparities.\"\nThrough this initiative, UNIST aims to lead pioneering research in social infrastructure innovation in the AI era, generating both academic excellence and policy-relevant insights with far-reaching societal impacts.\nhere.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Education"
+  ],
+  "topics": [
+    "Science and Technology->scientific research",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->biomedical science",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->financial service",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Education->college and university",
+    "Education->vocational education",
+    "Education->educational grading"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "KRW",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "UNIST Institute Wins",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "UNIST Industry Intelligentization Institute",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Yonsei University Research Institute for Academic Library Development",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "National Research Foundation",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Ministry of Education",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:12:47.086+03:00",
+  "updated": "2025-09-18T09:18:12.000+03:00"
+}

@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "caa82474ce10351f854f9b18467e8f07191b7427",
+    "url": "https://royanews.tv/news/352179",
+    "site_full": "royanews.tv",
+    "site": "royanews.tv",
+    "site_section": "http://www.royanews.tv/rss",
+    "site_categories": ["tech", "top_news_iq", "top_news"],
+    "section_title": "رؤيا الأخباري",
+    "site_title": null,
+    "title": "طلبة يشكون صعوبة امتحان الرياضيات للتوجيهي 2025",
+    "title_full": "طلبة يشكون صعوبة امتحان الرياضيات للتوجيهي 2025",
+    "published": "2025-06-26T13:48:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "JO",
+    "main_image": "https://backend.royanews.tv/imageserv/Size728Q70//images/news/20250626/685d22abe1cef1750934187.jpg",
+    "performance_score": 0,
+    "domain_rank": 69346,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "caa82474ce10351f854f9b18467e8f07191b7427",
+  "url": "https://royanews.tv/news/352179",
+  "ord_in_thread": 0,
+  "author": "فريق رؤيا الإخباري",
+  "published": "2025-06-26T13:48:00.000+03:00",
+  "title": "طلبة يشكون صعوبة امتحان الرياضيات للتوجيهي 2025",
+  "text": "طالبة تبكي بعد خروجها من الامتحان\nطلبة يشكون صعوبة امتحان الرياضيات للتوجيهي 2025\n- شكاوى من الصعوبة والوقت في امتحان الرياضيات الورقة الأولى\nأثار امتحان الرياضيات – الورقة الأولى لطلبة الثانوية العامة \"التوجيهي\" لعام 2025، موجة من ردود الفعل المتباينة بين الطلبة، حيث عبّر العديد منهم عن استيائهم من صعوبة الأسئلة وضيق الوقت، خاصة في الفرع العلمي.\nوأكد عدد من طلبة الفرع العلمي أن الامتحان كان صعبًا جدًا، واشتمل على أسئلة تتطلب قدرات عليا، مشيرين إلى أن الوقت المخصص للامتحان لم يكن كافيًا للإجابة على جميع الأسئلة.\nوشهدت بعض مراكز الامتحان خروج طالبات وهن يبكين بسبب صعوبة الأسئلة، قائلين إن الامتحان كان طويلًا للغاية ولا يراعي الفروقات الفردية بين الطلبة، وهو ما زاد من التوتر والإرباك أثناء تقديم الامتحان.\nوفي المقابل، تفاوتت آراء طلبة الفرع الأدبي، إذ وصف بعضهم الامتحان بأنه سهل ومباشر، بينما رأى آخرون أنه احتوى على أسئلة صعبة وغير متوقعة.\nوكانت وزارة التربية والتعليم قد شددت على أن الوقت المخصص لكل مبحث كافٍ بشكل كامل، مع إضافة 10 دقائق تعويضية عن الوقت المستغرق في توزيع أوراق الامتحان.\nويبلغ عدد المتقدّمين للامتحان هذا العام 209,371 طالبًا وطالبة من مختلف الفروع: العلمي، الأدبي، الشرعي، الصناعي، الزراعي، الفندقي، والاقتصاد المنزلي، موزعين على 826 مدرسة في مختلف أنحاء المملكة، مع وجود 38 مركزًا للتصحيح.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "arabic",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->upper secondary education",
+    "Education->educational testing and examinations",
+    "Education->students",
+    "Social Issue->social services",
+    "Social Issue->social problem",
+    "Human Interest->human mishap"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_iq", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T13:54:06.701+03:00",
+  "updated": "2025-06-27T11:12:36.000+00:00"
+}

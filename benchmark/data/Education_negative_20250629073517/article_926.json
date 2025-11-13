@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "f20ee94cf1be9ec2128f239eafe156f879301501",
+    "url": "https://www.heraldo.es/noticias/sociedad/2025/06/26/juventud-rechaza-normalizar-respuesta-malestar-emocional-adolescente-pase-medicacion-1834973.html",
+    "site_full": "www.heraldo.es",
+    "site": "heraldo.es",
+    "site_section": "https://www.heraldo.es",
+    "site_categories": ["media", "top_news_es", "top_news_pe", "top_news"],
+    "section_title": "Heraldo de Aragón | Noticias de Zaragoza, Huesca y Teruel",
+    "site_title": "Heraldo de Aragón | Noticias de Zaragoza, Huesca y Teruel",
+    "title": "La Fad Juventud rechaza normalizar que la respuesta al malestar emocional adolescente pase por la medicación",
+    "title_full": "La Fad Juventud rechaza normalizar que la respuesta al malestar emocional adolescente pase por la medicación",
+    "published": "2025-06-26T14:57:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2024/06/25/reunion-del-patronato-de-la-fundacion-fad-juventud-1.jpeg",
+    "performance_score": 0,
+    "domain_rank": 9315,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f20ee94cf1be9ec2128f239eafe156f879301501",
+  "url": "https://www.heraldo.es/noticias/sociedad/2025/06/26/juventud-rechaza-normalizar-respuesta-malestar-emocional-adolescente-pase-medicacion-1834973.html",
+  "ord_in_thread": 0,
+  "author": "Heraldo de Aragón",
+  "published": "2025-06-26T14:57:00.000+03:00",
+  "title": "La Fad Juventud rechaza normalizar que la respuesta al malestar emocional adolescente pase por la medicación",
+  "text": "La Fad Juventud rechaza normalizar que la respuesta al malestar emocional adolescente pase por la medicación\nUn estudio muestra que uno de cada cinco estudiantes de 14 a 18 años en España ha consumido hipnosedantes.\nLa Fad Juventud rechaza normalizar que la respuesta al malestar emocional adolescente pase por la medicación, y recuerda que \"antes de recurrir a fármacos es necesario garantizar espacios de escucha, prevención y cuidado colectivo que aborden el sufrimiento desde una perspectiva integral\".\nCon motivo del Día Internacional contra el Uso Indebido y el Tráfico Ilícito de Drogas, desde Fad Juventud alerta de que, según la última edición de la encuesta ESTUDES, muestra que uno de cada cinco estudiantes de 14 a 18 años en España (19,6%) ha consumido hipnosedantes alguna vez en su vida, el 14,8 por ciento lo ha hecho en el último año y un 8,2 por ciento en los últimos 30 días.\nEn su opinión, estos datos no son puntuales y \"reflejan una tendencia creciente y sostenida en el tiempo\". Y lo que más les preocupa es que en muchos casos no hay un seguimiento continuado ni alternativas terapéuticas paralelas. \"Lo que debería ser un recurso puntual se convierte en un mecanismo automático para calmar la ansiedad, el insomnio o la tristeza\", advierten.\n\"Debemos reflexionar como profesionales, como padres y madres, y como sociedad en general si el aumento en la dispensación de hipnosedantes debe ser la medida principal para tratar siempre el malestar emocional adolescente\", afirma Beatriz Martín Padura, directora general de Fad Juventud.\n\"Quizá, antes de medicar, en algunos casos, sea necesario proporcionar estructuras de acompañamiento emocional accesibles, espacios de escucha, prevención y cuidado colectivo. No sería recomendable para nuestra salud colectiva que la medicación -y mucho más la automedicación sin receta- sea una salida rápida ante problemas mucho más complejos, o una forma de silenciar síntomas\", añade.\nLa Fad no pretende custionar el uso médico de estos fármacos, pero sí su uso como \"única respuesta\" al malestar emocional y problemas de salud mental, \"en muchos casos sin acompañamiento psicológico ni espacios donde hablar de lo que duele o produce malestar\". \"La sobremedicación no es un fallo individual, sino el reflejo de un modelo de salud que sigue dejando a un lado la prevención, la escucha, la educación emocional y la atención a las causas sociales del malestar\", concluye.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Health", "Social Issue", "Education"],
+  "topics": [
+    "Health->mental health and disorder",
+    "Health->health organisation",
+    "Health->health care approach",
+    "Social Issue->children",
+    "Social Issue->social services",
+    "Social Issue->social condition",
+    "Education->vocational education",
+    "Education->social learning",
+    "Education->students"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Tráfico Ilícito de Drogas",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_es", "top_news_pe", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T15:56:59.188+03:00",
+  "updated": "2025-06-27T13:12:09.000+00:00"
+}

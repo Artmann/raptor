@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "605a5b6e8c4c5cfce9a4c279a89d792b7ebeabb8",
+    "url": "https://www.thenews.com.pk/print/1182350-new-york-court-overturns-harvey-weinstein-s-conviction",
+    "site_full": "www.thenews.com.pk",
+    "site": "thenews.com.pk",
+    "site_section": "https://www.thenews.com.pk",
+    "site_categories": ["media"],
+    "section_title": "The News International: Latest News Breaking, Pakistan News",
+    "title": "New York court overturns Harvey Weinstein’s conviction",
+    "title_full": "New York court overturns Harvey Weinstein’s conviction",
+    "published": "2024-04-25T19:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.thenews.com.pk/assets/uploads/akhbar/2024-04-26/l_1182350_021431_updates.jpg",
+    "performance_score": 0,
+    "domain_rank": 5171,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "605a5b6e8c4c5cfce9a4c279a89d792b7ebeabb8",
+  "url": "https://www.thenews.com.pk/print/1182350-new-york-court-overturns-harvey-weinstein-s-conviction",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "REUTERS",
+  "published": "2024-04-25T19:00:00.000+03:00",
+  "title": "New York court overturns Harvey Weinstein’s conviction",
+  "text": "NEW YORK: Harvey Weinstein’s 2020 conviction for sexual assault and rape was overturned by New York’s highest court, reopening the landmark case that launched the #MeToo movement and...\"> <meta property=\"fb:app_id\" content=\"650123461797330",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "harvey weinstein",
+        "sentiment": "negative"
+      },
+      {
+        "name": "weinstein",
+        "sentiment": "none"
+      },
+      {
+        "name": "madeline singas",
+        "sentiment": "none"
+      },
+      {
+        "name": "elena kagan",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "state court of appeals",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "new york",
+        "sentiment": "none"
+      },
+      {
+        "name": "new york",
+        "sentiment": "none"
+      },
+      {
+        "name": "rome",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:14:58.698+03:00",
+  "updated": "2024-04-26T11:16:14.247+03:00"
+}

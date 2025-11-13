@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "5547b9665e24dc06c2dd032af496b6f1265e5643",
+    "url": "https://www.arkansasleader.com/articles/asu-beebe-and-lrafb-mark-60-year-partnership-thursday/",
+    "site_full": "www.arkansasleader.com",
+    "site": "arkansasleader.com",
+    "site_section": "https://www.arkansasleader.com/category/news",
+    "site_categories": ["media"],
+    "section_title": "News - The Arkansas Leader",
+    "site_title": "The Arkansas Leader | Your Top Source for Arkansas News",
+    "title": "ASU-Beebe and LRAFB mark 60-year partnership Thursday",
+    "title_full": "ASU-Beebe and LRAFB mark 60-year partnership Thursday",
+    "published": "2025-09-18T08:01:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.arkansasleader.com/wp-content/uploads/2025/09/lrafbentrancefbd.jpg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5547b9665e24dc06c2dd032af496b6f1265e5643",
+  "url": "https://www.arkansasleader.com/articles/asu-beebe-and-lrafb-mark-60-year-partnership-thursday/",
+  "ord_in_thread": 0,
+  "author": "Adam Kirby",
+  "published": "2025-09-18T08:01:00.000+03:00",
+  "title": "ASU-Beebe and LRAFB mark 60-year partnership Thursday",
+  "text": "Arkansas State University-Beebe will host a community celebration from 4 to 7 p.m. Thursday, Sept. 18 at its Little Rock Air Force Base campus to commemorate 60 years of educational partnership with L...\nAn active subscription is required to view this content. Please login below or click here to request access if you have a subscription but do not know your login information.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Politics"],
+  "topics": [
+    "Education->social learning",
+    "Education->college and university",
+    "Education->students",
+    "Human Interest->anniversary",
+    "Politics->citizens' initiative and recall",
+    "Politics->local government and authority"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Air Force Base",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Cabot",
+        "Sherrill",
+        "Knoxville",
+        "London",
+        "Jacksonport",
+        "Lonoke",
+        "Sherwood",
+        "Jacksonville",
+        "Magazine",
+        "Newhope"
+      ],
+      "state": ["Arkansas"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:21:11.275+03:00",
+  "updated": "2025-09-18T08:26:05.000+03:00"
+}

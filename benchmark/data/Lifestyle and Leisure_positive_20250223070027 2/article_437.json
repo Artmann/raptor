@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "cc1d5b44da3d77597ea81c596f0938987075ea94",
+    "url": "https://www.kgw.com/article/news/local/sauvie-island-hunter-stuck-mud-patch-rescue/283-f86b0978-5bf0-416a-a7a4-9996ed0261ad",
+    "site_full": "www.kgw.com",
+    "site": "kgw.com",
+    "site_section": "https://kgw.com/hss",
+    "site_categories": ["media"],
+    "section_title": "High School Sports | Portland, Oregon | kgw.com",
+    "title": "Hunter stuck in Sauvie Island mud patch rescued",
+    "title_full": "Hunter stuck in Sauvie Island mud patch rescued",
+    "published": "2025-01-23T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.kgw.com/assets/KGW/images/e7f3ccc9-b2eb-4dc7-950e-700d4bfc30c3/20250123T220200/e7f3ccc9-b2eb-4dc7-950e-700d4bfc30c3_1140x641.jpg",
+    "performance_score": 0,
+    "domain_rank": 5362,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cc1d5b44da3d77597ea81c596f0938987075ea94",
+  "url": "https://www.kgw.com/article/news/local/sauvie-island-hunter-stuck-mud-patch-rescue/283-f86b0978-5bf0-416a-a7a4-9996ed0261ad",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Alex Jensen",
+  "published": "2025-01-23T02:00:00.000+02:00",
+  "title": "Hunter stuck in Sauvie Island mud patch rescued",
+  "text": "PORTLAND, Ore. — A hunter stuck in a mud patch around 50 feet offshore of Sauvie Island was rescued Thursday, Portland Fire and Rescue said.\nAround 12 p.m., Portland Fire and Rescue responded to the island working with Fish and Wildlife personnel to locate the man who also helped direct the rescue team. Portland Fire and Rescue described where the hunter was stuck as \"heavy mud.\"\nInitially, Sauvie Island's fire rescue was set to be deployed to help access the hunter, but before the boat was launched, crews were able to free the man and get him back to dry land uninjured.\nSauvie Island is the largest island on the Columbia River and just west of Portland. Surrounding parts of the island is a floodplain where water levels rise and fall with the Willamette and Columbia rivers.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Human Interest",
+    "Crime, Law and Justice",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Human Interest->human mishap",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Crime, Law and Justice->law enforcement",
+    "Crime, Law and Justice->animal abuse",
+    "Lifestyle and Leisure->outdoor recreational activities",
+    "Lifestyle and Leisure->exercise and fitness",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Portland Fire and Rescue",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Sauvie Island",
+        "sentiment": "none"
+      },
+      {
+        "name": "Willamette",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:20:22.796+02:00",
+  "updated": "2025-01-24T00:20:22.796+02:00"
+}

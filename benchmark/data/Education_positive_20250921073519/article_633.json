@@ -1,0 +1,123 @@
+{
+  "thread": {
+    "uuid": "bbaf49acdc66e590a28136b119c33ceb12b9291a",
+    "url": "https://www.nation.com.pk/18-Sep-2025/girls-clinch-top-3-positions-in-bise-hssc-exams",
+    "site_full": "www.nation.com.pk",
+    "site": "nation.com.pk",
+    "site_section": "https://world.einnews.com/ajax/headlines",
+    "site_categories": ["top_news_pk", "top_news"],
+    "section_title": "",
+    "site_title": null,
+    "title": "Girls clinch top 3 positions in BISE HSSC exams",
+    "title_full": "Girls clinch top 3 positions in BISE HSSC exams",
+    "published": "2025-09-18T04:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PK",
+    "main_image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+    "performance_score": 0,
+    "domain_rank": 35790,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bbaf49acdc66e590a28136b119c33ceb12b9291a",
+  "url": "https://www.nation.com.pk/18-Sep-2025/girls-clinch-top-3-positions-in-bise-hssc-exams",
+  "ord_in_thread": 0,
+  "author": "Mudassir Raja",
+  "published": "2025-09-18T04:30:00.000+03:00",
+  "title": "Girls clinch top 3 positions in BISE HSSC exams",
+  "text": "Rawalpindi - Top three positions for first annual Higher Secondary School Certificate (HSSC) were taken away by girl students from Talagan and Chakwal districts. This was shared by Board of Intermediate and Secondary Education (BISE) Rawalpindi in a press release here on Wednesday.\nThe board spokesperson said that the award ceremony for the top position holders will be held at Fatima Jinnah Women University, City Campus, on Thursday (today).\nAreej Shafqat Hayat from Punjab College for Women Talagang, district Talagang obtained overall first position with 1,148 marks out of total 1,200 marks. The second position was taken away by Ayasha Mushtaq from the same Punjab College for Women Talagang with 1,139 marks. Eman Fatima from Royal College of Sciences for Girls Pindi Road Chakwal got the third position with 1,138 marks.\nSharing the further details, the BISE noted that in Pre-Engineering group, Muhammad Abrash Haider from KIPS College for Boys Bhoun Road Chakwal got first position with 1,133 marks. Ahmed Yar Khan from Cadet College Hassanabdal, Attock got second position with 1,124 marks. The third position was taken away by Um-e-Ammara from Superior College for Pindsultani for Girls near Famous Floor Mills Jand, Attock with 1,121 marks.\nAs far as Pre-Medical group is concerned, the first position was clinched by Areej Shafqat Hayat with 1,148 marks. The second position was grabbed by Eman Fatima with 1,138 marks. The third position in the group was obtained by Abeera Saqib from Punjab College for Girls Lila Road P D Khan, Jehlum with 1,128 marks. In General Science group, Ayesha Mushtaq got first position with 1,139 marks. Aiman Umer from Punjab College for Women F-828 S/Town Rawalpindi got the second position with 1,135 marks. Tayyaba Batool from Munir Intermediate Girls College Mohala Line Park, Chakwal got third position with 1,108 marks.\nWhen it comes to Commerce Group, Alisha Ahmed from Punjab College for Women F-828 S/Town Rawalpindi stood first with 1,124 marks. Azhar Abbas from Rawalpindi College of Commerce Saidpur Road Rawalpindi got second position with 1,075 marks. The third position in the group went to Asawir Zayan from Punjab College for Women F-828 S/Town Rawalpindi with 1,071 marks.\nIn Humanities group, Mehmoona Taj, private student from UC-04 Office Boring Board Dhoke Mangtal Rawalpindi, got first position with 1,067 marks. The second position went to Jannat Khan from Govt Degree College for Women, Dhoke Hassu, Rawalpindi, with 1,056 marks. Nisha Yaqoob from Govt. College for Women, Jhelum got third position with 1,042 marks.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": [
+    "Education->students",
+    "Education->educational grading",
+    "Education->upper secondary education",
+    "Human Interest->graduation",
+    "Social Issue->social services",
+    "Social Issue->gender",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Muhammad Abrash Haider",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ahmed Yar Khan",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ayasha Mushtaq",
+        "sentiment": "none"
+      },
+      {
+        "name": "Eman Fatima",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Royal College of Sciences for Girls Pindi Road Chakwal",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Punjab College for Women Talagang",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Fatima Jinnah Women University",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": ["top_news_pk", "top_news"],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:45:26.588+03:00",
+  "updated": "2025-09-18T08:55:46.000+03:00"
+}

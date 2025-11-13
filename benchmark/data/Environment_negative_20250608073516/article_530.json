@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "affab8e4097b0ad91293d8af6203870c0e443f72",
+    "url": "https://www.newsbreak.com/kiro-7-seattle-523004/3996334304362-chuckanut-drive-remains-closed-after-april-rockslide-when-will-it-reopen",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/kiro-7-seattle-523004",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "KIRO 7 Seattle&#x27;s Home Page | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Chuckanut Drive remains closed after April rockslide. When will it reopen? - NewsBreak",
+    "title_full": "Chuckanut Drive remains closed after April rockslide. When will it reopen? - NewsBreak",
+    "published": "2025-05-08T00:26:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3115,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "affab8e4097b0ad91293d8af6203870c0e443f72",
+  "url": "https://www.newsbreak.com/kiro-7-seattle-523004/3996334304362-chuckanut-drive-remains-closed-after-april-rockslide-when-will-it-reopen",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T00:26:00.000+03:00",
+  "title": "Chuckanut Drive remains closed after April rockslide. When will it reopen? - NewsBreak",
+  "text": "The Washington State Department of Transportation says Chuckanut Drive will be closed for several more weeks south of Bellingham. Crews are working to remove debris and stabilize a rock wall following the rockslide that happened on April 22 . It sent thousands of cubic yards of debris in both directions of State Route 11. The closure is about five miles south of Larrabee State Park. WSDOT says crews will work six days a week on the emergency project to not only clear the highway and stabilize the slope, but also assess the road’s condition and make any needed repairs. People can detour around the closure to access businesses and recreation.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue"],
+  "topics": [
+    "Environment->environmental clean-up",
+    "Environment->natural resources",
+    "Environment->land resources",
+    "Social Issue->communities",
+    "Social Issue->public housing",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.kiro7.com/news/local/20-foot-high-rockslide-shuts-down-sr-11-skagit-county/4EIHMKRNTFEDTI5R4E6QDXIAV4/",
+    "https://www.kiro7.com/news/local/20-foot-high-rockslide-shuts-down-sr-11-skagit-county/4EIHMKRNTFEDTI5R4E6QDXIAV4",
+    "https://kiro7.com/news/local/20-foot-high-rockslide-shuts-down-sr-11-skagit-county/4EIHMKRNTFEDTI5R4E6QDXIAV4/"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Chuckanut Drive",
+        "sentiment": "none"
+      },
+      {
+        "name": "Larrabee State Park",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Washington State Department of Transportation",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:40:17.120+03:00",
+  "updated": "2025-05-08T01:56:03.000+00:00"
+}

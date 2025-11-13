@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "a6a2dcbec7e3806927f9068db54a42222ee8aeab",
+    "url": "https://ulan.mk.ru/social/2025/05/08/v-buryatii-polykhaet-bolee-10-tysyach-gektarov-lesa.html",
+    "site_full": "ulan.mk.ru",
+    "site": "mk.ru",
+    "site_section": "https://ulan.mk.ru",
+    "site_categories": ["media", "top_news_ru", "top_news"],
+    "section_title": "Новости Улан-Удэ и Бурятии - МК в Бурятии",
+    "site_title": "Новости Улан-Удэ и Бурятии - МК в Бурятии",
+    "title": "В Бурятии полыхает более 10 тысяч гектаров леса - МК Улан-Удэ",
+    "title_full": "В Бурятии полыхает более 10 тысяч гектаров леса - МК Улан-Удэ",
+    "published": "2025-05-08T03:22:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://static.mk.ru/upload/entities/2025/05/08/03/articles/facebookPicture/55/d1/15/1e/b79e281814eaad7eb601a2703a6e2b81.jpg",
+    "performance_score": 0,
+    "domain_rank": 3881,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a6a2dcbec7e3806927f9068db54a42222ee8aeab",
+  "url": "https://ulan.mk.ru/social/2025/05/08/v-buryatii-polykhaet-bolee-10-tysyach-gektarov-lesa.html",
+  "ord_in_thread": 0,
+  "author": "ÐÐ²ÑÐ¾ÑÑ ÐÐ Ð² ÐÑÑÑÑÐ¸Ð",
+  "published": "2025-05-08T03:22:00.000+03:00",
+  "title": "В Бурятии полыхает более 10 тысяч гектаров леса - МК Улан-Удэ",
+  "text": "За последние сутки в лесах Бурятии зафиксировано 12 новых очагов возгорания. Пожары вспыхнули сразу в восьми районах республики – Баргузинском, Баунтовском, Бичурском, Джидинском, Еравнинском, Заиграевском, Кабанском и Кяхтинском. По предварительным данным, причиной всех инцидентов стало банальное несоблюдение правил пожарной безопасности, сообщили в Республиканском агентстве лесного хозяйства (РАЛХ).\nМасштабы огненной стихии с начала пожароопасного сезона скрываются.\nНа утро 8 мая ситуация остаётся напряжённой: несмотря на ликвидацию восьми очагов, в четырёх районах продолжают бушевать 21 активный пожар. Огнём уже охвачено более 10,5 тысяч гектаров лесного фонда. К счастью, угрозы населённым пунктам нет – все возгорания характеризуются как низкоинтенсивные.\nНа передовой огненного фронта сейчас работают 388 человек – сотрудники лесной охраны, авиалесоохраны, МЧС и волонтёры. В операции задействовано 92 единицы спецтехники. Особую тревогу вызывает Баунтовский район, где из-за масштабов бедствия введён режим ЧС.\nВласти напоминают: на всей территории республики действует особый противопожарный режим. Посещение лесов временно ограничено, а любые работы с открытым огнём строго запрещены. При обнаружении возгораний следует немедленно звонить на горячую линию лесной охраны по номеру 20-44-44.\nСпециалисты призывают жителей и гостей Бурятии проявлять максимальную ответственность – человеческая беспечность остаётся главной причиной природных катастроф. В условиях аномально жаркой весенней погоды даже непотушенная сигарета может привести к необратимым последствиям.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Environment", "Disaster and Accident", "Social Issue"],
+  "topics": [
+    "Environment->natural resources",
+    "Environment->environmental pollution",
+    "Disaster and Accident->fire",
+    "Disaster and Accident->natural disaster",
+    "Social Issue->social condition",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:31:01.116+03:00",
+  "updated": "2025-05-08T01:38:34.000+00:00"
+}

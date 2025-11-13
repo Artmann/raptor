@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "4e7a55c0ae10df189a6f82af756eaaf0c6b84b05",
+    "url": "https://www.bfm.ru/news/576532",
+    "site_full": "www.bfm.ru",
+    "site": "bfm.ru",
+    "site_section": "http://bfm.ru",
+    "site_categories": ["media"],
+    "section_title": "BFM.ru – деловые новости России и мира",
+    "site_title": "BFM.ru – деловые новости России и мира",
+    "title": "Рособрнадзор совместно с МВД усилят контроль за автошколами",
+    "title_full": "Рособрнадзор совместно с МВД усилят контроль за автошколами",
+    "published": "2025-06-26T07:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://s.bfm.ru/images/bfm_json_ld.jpg",
+    "performance_score": 0,
+    "domain_rank": 11715,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4e7a55c0ae10df189a6f82af756eaaf0c6b84b05",
+  "url": "https://www.bfm.ru/news/576532",
+  "ord_in_thread": 0,
+  "author": "BFM.ru",
+  "published": "2025-06-26T07:30:00.000+03:00",
+  "title": "Рособрнадзор совместно с МВД усилят контроль за автошколами",
+  "text": "Общество\nРособрнадзор совместно с МВД усилят контроль за автошколами\nЛента новостей\nПо данным специалистов, это будет сделано из-за увеличения числа аварий по вине молодых водителей\nРособрнадзор совместно с МВД России прорабатывает вопрос по выработке мер по усилению контроля за деятельностью автошкол на фоне роста числа ДТП по вине молодых водителей. Об этом ТАСС сообщили в пресс-службе Рособрнадзора.\n«По поручению правительственной комиссии по обеспечению безопасности дорожного движения Рособрнадзором совместно с МВД России прорабатывается вопрос относительно выработки мер по усилению контроля за деятельностью автошкол на фоне роста числа ДТП по вине молодых водителей», — уточнили в пресс-службе ведомства.\nТакже сказано, что обсуждаются новые индикаторы риска для автошкол, которые послужат в дальнейшем основанием для проведения внеплановой проверки. Рособрнадзор после обсуждения конкретных предложений с генеральной прокуратурой и МВД России подготовит изменения в нормативные правовые акты, регулирующие вопросы проведения проверок в отношении автошкол.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Education", "Social Issue"],
+  "topics": [
+    "Education->teachers",
+    "Education->vocational education",
+    "Education->students",
+    "Social Issue->communities",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://tass.ru/obschestvo/24358713",
+    "https://www.tass.ru/obschestvo/24358713"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T08:48:48.631+03:00",
+  "updated": "2025-06-26T05:55:04.000+00:00"
+}

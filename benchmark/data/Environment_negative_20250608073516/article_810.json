@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "1123de54515c838402dc513256dc89c2854b1f40",
+    "url": "https://www.lanazione.it/empoli/cronaca/santamato-operai-al-lavoro-sulla-7e070697",
+    "site_full": "www.lanazione.it",
+    "site": "lanazione.it",
+    "site_section": "https://zazoom.eu",
+    "site_categories": ["media", "top_news_it", "top_news"],
+    "section_title": "Zazoom Social News - Ultime News",
+    "site_title": "La Nazione - Tutte le ultime notizie in tempo reale dalla Toscana",
+    "title": "Sant'Amato. Operai al lavoro sulla frana",
+    "title_full": "Sant'Amato. Operai al lavoro sulla frana",
+    "published": "2025-05-08T05:56:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://www.lanazione.it/image-service/view/acePublic/alias/contentid/NzFlMWI3NjEtNWZkMS00/0/santamato-operai-al-lavoro-sulla-frana.jpeg?f=16:9&amp;w=1200&amp;h=630",
+    "performance_score": 0,
+    "domain_rank": 17147,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1123de54515c838402dc513256dc89c2854b1f40",
+  "url": "https://www.lanazione.it/empoli/cronaca/santamato-operai-al-lavoro-sulla-7e070697",
+  "ord_in_thread": 0,
+  "author": "La Nazione",
+  "published": "2025-05-08T05:56:00.000+03:00",
+  "title": "Sant'Amato. Operai al lavoro sulla frana",
+  "text": "La parte più collinare del territorio comunale di Vinci è stata colpita da una serie di frane causate dal maltempo dello scorso marzo con l’amministrazione comunale che aveva quantificato in circa 1.700.000 euro l’ammontare dei danni sulla base degli interventi in somma urgenza per garantire il ripristino della viabilità ed una prima messa in sicurezza della zona. E gli operai del Comune sono attualmente al lavoro anche a Sant’Amato per mettere in sicurezza l’area. Lo ha fatto sapere due giorni fa il sindaco Daniele Vanni, invitando alla pazienza gli abitanti in virtù di potenziali disagi per un’opera ritenuta comunque necessaria. \"In questi giorni i nostri operai sono impegnati nella sistemazione della frana a Sant’Amato nella zona di Balenaia – ha detto a tal proposito il primo cittadino – l’intervento è piuttosto complesso e ha l’obiettivo di rendere sicura la strada con operazioni di disgaggio di massi e imbrigliatura del fronte. Per i residenti non stanno mancando i disagi, ma l’intervento è necessario soprattutto per garantire l’incolumità delle persone\".\nPiù avanti, le operazioni dovrebbero spostarsi anche in via Orbignanese, dove qualche residente ha già provveduto a segnalare una serie di lesioni riscontrate sul piccolo ponte sul rio oltre agli smottamenti di due mesi fa. \"Abbiamo in programma anche gli interventi su via Orbignanese – ha chiosato Vanni, replicando alla segnalazione – servirà solo un po’ di pazienza perché gli operai sono impegnati in parte sulle frane e in parte sul taglio dell’erba\".",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->environmental pollution",
+    "Environment->sustainability",
+    "Environment->land resources"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Vinci",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Daniele Vanni",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Balenaia",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "E",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "E",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:17:35.464+03:00",
+  "updated": "2025-05-08T03:21:20.000+00:00"
+}

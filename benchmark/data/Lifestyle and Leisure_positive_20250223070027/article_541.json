@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "a46957dd11e306fd01e7c374eca54b4b85ac381f",
+    "url": "https://www.elpais.com.co:443/entretenimiento/esta-fue-la-emotiva-despedida-de-lorelei-taron-tras-la-salida-de-falcao-de-millonarios-2315.html",
+    "site_full": "www.elpais.com.co",
+    "site": "elpais.com.co",
+    "site_section": "https://elpais.com.co/entretenimiento",
+    "site_categories": [
+      "media",
+      "education",
+      "business",
+      "top_news_co",
+      "top_news_pe",
+      "top_news_ve",
+      "top_news"
+    ],
+    "section_title": "Entretenimiento",
+    "title": "Esta fue la emotiva despedida de Lorelei Tarón tras la salida de Falcao de Millonarios",
+    "title_full": "Esta fue la emotiva despedida de Lorelei Tarón tras la salida de Falcao de Millonarios",
+    "published": "2025-01-23T20:18:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CO",
+    "main_image": "https://www.elpais.com.co/resizer/v2/JFJ7WS2K7BDOVH7C7VM6FKNLAI.jpg?auth=c4b5f9adda2e453905a309d7498d7857f8062acaccd3d26d7027b72eab029d84&amp;smart=true&amp;quality=75&amp;width=1280&amp;height=720",
+    "performance_score": 0,
+    "domain_rank": 20874,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a46957dd11e306fd01e7c374eca54b4b85ac381f",
+  "url": "https://www.elpais.com.co:443/entretenimiento/esta-fue-la-emotiva-despedida-de-lorelei-taron-tras-la-salida-de-falcao-de-millonarios-2315.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Redacción El País",
+  "published": "2025-01-23T20:18:00.000+02:00",
+  "title": "Esta fue la emotiva despedida de Lorelei Tarón tras la salida de Falcao de Millonarios",
+  "text": "Entretenimiento\nEsta fue la emotiva despedida de Lorelei Tarón tras la salida de Falcao de Millonarios\nLa artista argentina agradeció a los colombianos por el cariño recibido a lo largo de los meses.\nPor: Redacción El País\nHace algunos días se dio a conocer que Radamel Falcao no continuará haciendo parte del Club de Millonarios por lo que junto a su esposa e hijas, se irán muy pronto de Colombia en búsqueda de un nuevo futuro.\nLa noticia ha causado un fuerte impacto en los hinchas del equipo albiceleste, pues desde hace varios años estaban a la espera de que el deportistas hiciera parte de sus jugadores. No obstante, ‘El Tigre’ permaneció únicamente seis meses dentro del mismo.\nPor esta razón, Lorelei Tarón, su esposa, se pronunció por medio de su cuenta de Instagram y dejó un emotivo mensaje por medio del cual se despidió de la hinchada y manifestó el gran cariño y agradecimiento que siente por cada una de las personas que los acompañaron en el proceso y mostraron un gran apoyo por el jugador.\n“Mi querida Colombia, hoy, como argentina, quiero decirte que me has enamorado y decirte gracias, gracias, gracias por abrirnos las puertas y por hacernos sentir tan amados.\nGracias a Millonarios, gracias a la familia, gracias a todos nuestros amigos y los que, con los meses, se volvieron parte de nuestra vida, a los que con tanto amor nos ayudaron y nos cuidaron las 24 horas”, escribió.\nAdicionalmente, confesó que le da tristeza abandonar la capital, ya que en ella disfrutaron de emocionantes momentos deportivos con su esposo, además, de vivir experiencias nuevas en compañía de sus hijas.\n“Me llevo los mejores recuerdos. La verdad me ha puesto muy triste saber que no íbamos a volver. No me pude despedir, porque la idea era regresar, y más con la ilusión de ganar el título con Millonarios, que no se pudo lograr. Pero bueno, las cosas no son siempre como uno quiere”, manifestó.\nLa publicación se llenó rápidamente de miles de reacciones por medio de los cuales los usuarios de las redes sociales expresaron sus opiniones y se tomaron el trabajo de escribirle\nalgunas palabras de agradecimiento por el tiempo compartido.\n“Esta siempre será su casa. Los estaremos esperando en un futuro cercano”, “Gracias porque nos diste la alegría de verlo con la camiseta del más grande, eternamente agradecido”, “Gracias por apoyar a Falcao, porque sin ti no hubiera sido posible cumplir el sueño”, “Qué bonito mensaje, gracias Lore porque siempre estuviste ahí en palco con tus hijos, como familia apoyando al hombre, al padre, al futbolista, era bonito ver los niños saludar a través del cristal” y “Linda y hermosa familia, Dios los bendiga por montones”.\nRegístrate gratis al boletín diario de noticias\nTe puede gustar",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": [
+    "Arts, Culture and Entertainment",
+    "Human Interest",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Arts, Culture and Entertainment->music",
+    "Arts, Culture and Entertainment->arts and entertainment",
+    "Arts, Culture and Entertainment->culture",
+    "Human Interest->funeral and memorial service",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Radamel Falcao",
+        "sentiment": "none"
+      },
+      {
+        "name": "Lorelei Tarón",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Club de Millonarios",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:24:12.525+02:00",
+  "updated": "2025-01-24T00:24:12.525+02:00"
+}

@@ -1,0 +1,128 @@
+{
+  "thread": {
+    "uuid": "1dc7b4f572cfa7737b87a41cd63f1895f4faa6af",
+    "url": "https://www.ukrinform.net/rubric-society/3877842-three-villages-in-kherson-region-receive-humanitarian-aid-from-us-benefactors.html",
+    "site_full": "www.ukrinform.net",
+    "site": "ukrinform.net",
+    "site_section": "https://www.ukrinform.net/rss",
+    "site_categories": ["media"],
+    "section_title": "Latest news",
+    "title": "Three villages in Kherson region receive humanitarian aid from U.S. benefactors",
+    "title_full": "Three villages in Kherson region receive humanitarian aid from U.S. benefactors",
+    "published": "2024-06-24T01:38:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://static.ukrinform.com/photos/2024_06/thumb_files/630_360_1719122265-236.jpeg",
+    "performance_score": 0,
+    "domain_rank": 13757,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1dc7b4f572cfa7737b87a41cd63f1895f4faa6af",
+  "url": "https://www.ukrinform.net/rubric-society/3877842-three-villages-in-kherson-region-receive-humanitarian-aid-from-us-benefactors.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@ukrinform",
+  "published": "2024-06-24T01:38:00.000+03:00",
+  "title": "Three villages in Kherson region receive humanitarian aid from U.S. benefactors",
+  "text": "Three villages in Kherson region receive humanitarian aid from U.S. benefactors photos 24.06.2024 01:38 Ukrinform In the Kherson region, residents of three villages - Myroliubivka, Parysheve and Myrne - received humanitarian aid from American philanthropists - family food packages. The Kherson Regional Military Administration said this in a post on Telegram , Ukrinform reports.\n<script async src=\"https://telegram.org/js/telegram-widget.js?22\" data-telegram-post=\"khersonskaODA/20893\" data-width=\"100%\"></script>\n\"Another humanitarian cargo from American benefactors was delivered to the Kherson region. Volunteers of the Global Empowerment Mission Foundation in cooperation with the Howard G. Buffett Foundation distributed family food packages to residents of the villages of Myroliubivka, Parysheve and Myrne,\" the statement said.\nAs noted, the food packages include long-term storage products: flour, pasta, sugar, cereals, stewed meat, canned food, condensed milk, cookies, and more.\nThe RMA thanked the benefactors for their continued assistance to the Kherson region’s residents.\nAs Ukrinform reported earlier, the Mykolaiv region received significant humanitarian aid thanks to donors and partners such as the Crimean Front, UAIM Humanitarian Fund, and KSRelief.\nTop news Zelensky awarded 481 more servicemen, 274 of them posthumously Kyiv rescuers refute report of explosion at local CHPP Russian schoolboy gets five years in colony for anti-Putin leafleats UNICEF donates 40 vehicles for medical workers to Ukraine More news Top news Six months of the full-scale war: Ukraine’s 12 main victories on the information front",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://t.me/khersonskaODA/20893",
+    "https://www.t.me/khersonskaODA/20893"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "myrne",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "global empowerment mission foundation",
+        "sentiment": "none"
+      },
+      {
+        "name": "ukrinform",
+        "sentiment": "none"
+      },
+      {
+        "name": "uaim humanitarian fund",
+        "sentiment": "none"
+      },
+      {
+        "name": "rma",
+        "sentiment": "none"
+      },
+      {
+        "name": "military administration",
+        "sentiment": "none"
+      },
+      {
+        "name": "crimean front",
+        "sentiment": "none"
+      },
+      {
+        "name": "howard g. buffett foundation",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "kherson",
+        "sentiment": "none"
+      },
+      {
+        "name": "mykolaiv",
+        "sentiment": "none"
+      },
+      {
+        "name": "myroliubivka",
+        "sentiment": "none"
+      },
+      {
+        "name": "parysheve",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-24T02:18:37.963+03:00",
+  "updated": "2024-06-24T05:21:55.602+03:00"
+}

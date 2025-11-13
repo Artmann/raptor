@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "574d766c994b5a40b4a3b0505da9b70afc3db6f9",
+    "url": "https://www.foxnews.com/world/stowaway-from-algeria-found-barely-alive-paris-airport",
+    "site_full": "www.foxnews.com",
+    "site": "foxnews.com",
+    "site_section": "https://www.foxnews.com/world/stowaway-from-algeria-found-barely-alive-paris-airport",
+    "site_categories": ["media"],
+    "section_title": null,
+    "title": "Stowaway from Algeria found barely alive at Paris airport",
+    "title_full": "Stowaway from Algeria found barely alive at Paris airport",
+    "published": "2023-12-29T00:46:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/12/Air-Algeria.jpg",
+    "performance_score": 0,
+    "domain_rank": 287,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "574d766c994b5a40b4a3b0505da9b70afc3db6f9",
+  "url": "https://www.foxnews.com/world/stowaway-from-algeria-found-barely-alive-paris-airport",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Bradford Betz",
+  "published": "2023-12-29T00:46:00.000+02:00",
+  "title": "Stowaway from Algeria found barely alive at Paris airport",
+  "text": "A stowaway was found barely alive in the undercarriage bay of an airplane after it landed in Paris Thursday morning, according to reports. Security sources told Reuters that the Air Algeria airplane had come from the Western Algerian town of Oran, embarking on the two-and-a-half hour flight to Paris Orly airport . An Air Algérie plane arrives at Marseille Provence Airport. (Gerard Bottino/SOPA Images/LightRocket via Getty Images) The stowaway, who was not identified but is believed to be in his 20s, was discovered during technical checks. He had no ID on him and was taken to an area hospital in serious condition because of severe hypothermia, per AFP. Fox News Digital has reached out to airport officials for more information. FRANCE GROUNDS NICARAGUA-BOUND FLIGHT UNDER SUSPICION OF HUMAN TRAFFICKING Commercial airplanes often fly at 30,000 to 40,000 feet altitude. Stowaways daring to brave the journey in the unpressurized wheel-houses and cargo holds of planes can expect to face between minus 50 and 60 Celsius as well as a lack of oxygen. In 2019, the body of a suspected stowaway fell hundreds of meters from a plane flying over southwest London, landing in the garden of a man's home, just missing him as he sunbathed. CLICK HERE TO GET THE FOX NEWS APP In 2015, the body of a stowaway on a British Airways flight from Johannesburg to Heathrow landed on a shop in Richmond, southwest London. A second stowaway survived the 10-hour flight and was found in the undercarriage of the plane. Reuters contributed to this report.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident",
+    "Human Interest",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "gerard bottino",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "air algeria",
+        "sentiment": "none"
+      },
+      {
+        "name": "reuters",
+        "sentiment": "none"
+      },
+      {
+        "name": "fox news digital",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "algeria",
+        "sentiment": "none"
+      },
+      {
+        "name": "paris",
+        "sentiment": "none"
+      },
+      {
+        "name": "marseille provence airport",
+        "sentiment": "none"
+      },
+      {
+        "name": "oran",
+        "sentiment": "none"
+      },
+      {
+        "name": "nicaragua",
+        "sentiment": "none"
+      },
+      {
+        "name": "paris orly",
+        "sentiment": "none"
+      },
+      {
+        "name": "france",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:33:45.074+02:00",
+  "updated": "2023-12-29T01:33:45.074+02:00"
+}

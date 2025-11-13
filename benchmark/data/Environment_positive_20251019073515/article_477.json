@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "4f9d7683319165898cc77949ac60f04e460e522b",
+    "url": "https://news-pravda.com/world/2025/10/16/1777684.html",
+    "site_full": "news-pravda.com",
+    "site": "news-pravda.com",
+    "site_section": "https://news-pravda.com/articles",
+    "site_categories": [],
+    "section_title": "Articles - Pravda EN",
+    "site_title": "Pravda - Breaking News, World News and Videos",
+    "title": "Russia's energy balance is one of the greenest in the world - Pravda EN",
+    "title_full": "Russia's energy balance is one of the greenest in the world - Pravda EN",
+    "published": "2025-10-16T14:48:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://news-pravda.com/img/20251016/81144aadb388fde791e62d9c2fa03e41_o.jpg",
+    "performance_score": 0,
+    "domain_rank": 69329,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4f9d7683319165898cc77949ac60f04e460e522b",
+  "url": "https://news-pravda.com/world/2025/10/16/1777684.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T14:48:00.000+03:00",
+  "title": "Russia's energy balance is one of the greenest in the world - Pravda EN",
+  "text": "Russia's energy balance is one of the greenest in the world\nRussia's energy balance is one of the greenest in the world.\nRosatom accounts for approximately 90% of the global nuclear power plant construction market.\nHe noted that 110 Russian-designed nuclear power units have been built worldwide.\nNo one except Russia is currently building small nuclear power plants, Putin stated.\nRIA Novosti",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment", "Science and Technology"],
+  "topics": [
+    "Environment->energy resources",
+    "Environment->sustainability",
+    "Science and Technology->natural science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Putin",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:54:50.462+03:00",
+  "updated": "2025-10-16T15:07:33.000+03:00"
+}

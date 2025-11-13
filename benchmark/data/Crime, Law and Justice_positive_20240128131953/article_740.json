@@ -1,0 +1,123 @@
+{
+  "thread": {
+    "uuid": "de9ffe0535126bd88cfdaeaa6c31b0583d53ec91",
+    "url": "https://www.newsbreak.com/brookfield-wi/3280812984529-found-safe-deputies-police-searching-fox-brook-park-for-missing-brookfield-man",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/tmj4-news-563676",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "TMJ4 News | NewsBreak",
+    "title": "Found safe: Deputies, police searching Fox Brook Park for missing Brookfield man",
+    "title_full": "Found safe: Deputies, police searching Fox Brook Park for missing Brookfield man",
+    "published": "2023-12-29T21:54:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/3PyJ0g_0qTpREWq00?type=thumbnail_1600x1200",
+    "performance_score": 0,
+    "domain_rank": 3324,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "de9ffe0535126bd88cfdaeaa6c31b0583d53ec91",
+  "url": "https://www.newsbreak.com/brookfield-wi/3280812984529-found-safe-deputies-police-searching-fox-brook-park-for-missing-brookfield-man",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NewsBreak Original",
+  "published": "2023-12-29T21:54:00.000+02:00",
+  "title": "Found safe: Deputies, police searching Fox Brook Park for missing Brookfield man",
+  "text": "UPDATE: Thomas Hayden has been found safe.\n__\nThe Waukesha County Sheriff's Office is searching Fox Brook Park for a missing Brookfield man. According to the City of Brookfield Police Department, Thomas Hayden, 67, was last seen Wednesday, Dec. 27. He was reported to be at his home in the area of Riverbirch Drive in Brookfield. It is believed he left on foot, but no information on what direction he left in. His personal items, including his cell phone, wallet, and vehicle were left at his home. Hayden is described as 6'3\" and 170 pounds. Volunteers are coordinating a search for Hayden beginning at 1 p.m. Friday. Drones, K9 units, and foot patrols have been utilized to search the area around Hayden's home. Police say vehicle patrols have also been used to search parks, thoroughfares, and area business lots. Police are now asking all businesses and residents in the area of Riverbirch Drive to check any surveillance footage for any images or footage that may have captured Hayden. If anyone has any ideas as to where Mr. Hayden may have gone or may be, please contact the City of Brookfield Police Department at (262) 446-5070. It’s about time to watch on your time. Stream local news and weather 24/7 by searching for “TMJ4” on your device. Available for download on Roku, Apple TV, Amazon Fire TV, and more. Report a typo or error // Submit a news tip",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Crime, Law and Justice",
+    "Disaster and Accident",
+    "Human Interest"
+  ],
+  "external_links": [
+    "https://www.tmj4.com/apps",
+    "https://www.tmj4.com/news/submit-news-tip",
+    "https://www.tmj4.com/reportatypo",
+    "https://tmj4.com/news/submit-news-tip",
+    "https://tmj4.com/reportatypo",
+    "https://tmj4.com/apps"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "fox brook park",
+        "sentiment": "negative"
+      },
+      {
+        "name": "thomas hayden",
+        "sentiment": "negative"
+      },
+      {
+        "name": "fox",
+        "sentiment": "negative"
+      },
+      {
+        "name": "hayden",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "waukesha county sheriff's office",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "city of brookfield police department",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "brookfield",
+        "sentiment": "none"
+      },
+      {
+        "name": "brook park",
+        "sentiment": "none"
+      },
+      {
+        "name": "riverbirch drive",
+        "sentiment": "none"
+      },
+      {
+        "name": "brookfiel",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T22:49:54.292+02:00",
+  "updated": "2023-12-29T22:49:54.292+02:00"
+}

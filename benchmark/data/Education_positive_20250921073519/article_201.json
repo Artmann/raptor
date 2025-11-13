@@ -1,0 +1,119 @@
+{
+  "thread": {
+    "uuid": "37fc718be07e24416349a74384982df7975684f2",
+    "url": "https://www.elfinanciero.com.mx/monterrey/2025/09/17/uanl-reconoce-a-alumnos-de-licenciatura-del-programa-de-talentos-2/",
+    "site_full": "www.elfinanciero.com.mx",
+    "site": "elfinanciero.com.mx",
+    "site_section": "https://www.elfinanciero.com.mx/rss",
+    "site_categories": [
+      "under_construction",
+      "top_news_co",
+      "top_news_mx",
+      "top_news"
+    ],
+    "section_title": "",
+    "site_title": "El Financiero | Las noticias de finanzas, economía y política más importantes del país.",
+    "title": "UANL reconoce a alumnos de licenciatura del Programa de Talentos",
+    "title_full": "UANL reconoce a alumnos de licenciatura del Programa de Talentos",
+    "published": "2025-09-18T07:31:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://www.elfinanciero.com.mx/resizer/v2/B3NNH2KOSFDHTAVQRH5ZNBKFSY.jpeg?smart=true&amp;auth=792c1d5667df768c37d04c31eaccee9b17ffd9ef01c1ec23ff8d632b4833b1f9&amp;width=1200&amp;height=630",
+    "performance_score": 0,
+    "domain_rank": 6279,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "37fc718be07e24416349a74384982df7975684f2",
+  "url": "https://www.elfinanciero.com.mx/monterrey/2025/09/17/uanl-reconoce-a-alumnos-de-licenciatura-del-programa-de-talentos-2/",
+  "ord_in_thread": 0,
+  "author": "Redacción",
+  "published": "2025-09-18T07:31:00.000+03:00",
+  "title": "UANL reconoce a alumnos de licenciatura del Programa de Talentos",
+  "text": "La Universidad Autónoma de Nuevo León (UANL) reconoció el 26 de agosto el esfuerzo y la constancia de 287 jóvenes universitarios integrantes del Programa Institucional de Talentos del nivel licenciatura, en una ceremonia encabezada por el Rector Santos Guzmán López.\nEn su mensaje, Guzmán López subrayó que esta distinción no solo valida la disciplina y entrega de los estudiantes, sino que también refleja el trabajo colectivo de profesores, coordinadores y familias.\n“Su éxito no es producto de la casualidad, sino del compromiso con sus estudios, de horas de dedicación y la firme convicción de superarse día a día. Este reconocimiento es testimonio de esa tenacidad y debe ser un impulso para conquistar nuevas metas”, dijo Santos Guzmán López, Rector de la UANL.\nEl Rector enfatizó que el programa de talentos universitarios es un orgullo para la UANL, ya que reúne a estudiantes que se han mantenido durante tres, cuatro y hasta cinco años con un alto desempeño académico.\n“Demuestran que el talento se multiplica cuando se acompaña de esfuerzo y perseverancia y quiero reiterarles que ningún alumno de la UANL debe quedarse atrás por cuestiones económicas: siempre estamos para apoyarlos”, aseguró para posteriormente resaltar el respaldo de la Fundación UANL y de los programas de internacionalización de la institución.\nDurante la ceremonia, el funcionario hizo mención de las familias por confiar a la Universidad la formación de sus hijos, así como de los docentes y coordinadores que acompañaron su proceso formativo.\n“Este logro debe motivarlos a seguir enorgulleciendo a nuestra alma máter, llevando en alto los valores y principios que aquí se cultivan”, concluyó.\nEl Secretario Académico de la UANL, Jaime Castillo Elizondo, resaltó que el programa refleja la visión institucional de promover la excelencia educativa.\n“El día de hoy es muy importante para la UANL reconocer el talento universitario, en particular de los estudiantes que se han destacado por su desarrollo académico. Esto es sinónimo del trabajo, esfuerzo y gran compromiso con su formación”, expuso Jaime Castillo Elizondo, Secretario Académico de la UANL.\nCastillo Elizondo destacó que los jóvenes talento son ejemplo para sus compañeros y motivo de orgullo para la Máxima Casa de Estudios del Estado.\n“Programas como este motivan, inspiran y hacen soñar en un futuro más promisorio para el desarrollo de la sociedad”, comunicó.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest"],
+  "topics": [
+    "Education->social learning",
+    "Education->college and university",
+    "Education->students",
+    "Human Interest->graduation",
+    "Human Interest->award and prize"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Santos Guzmán López",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Universidad Autónoma de Nuevo León",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "UANL",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_co", "top_news_mx", "top_news"],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:55:36.217+03:00",
+  "updated": "2025-09-19T08:07:29.000+03:00"
+}

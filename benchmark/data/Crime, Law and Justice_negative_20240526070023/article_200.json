@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "358a1494c9d08499e9b69e8e4ba46a9a67c5028c",
+    "url": "https://www.wcjb.com/2024/04/25/peta-requests-state-attorney-charge-obs-over-horse-injury-euthanasia",
+    "site_full": "www.wcjb.com",
+    "site": "wcjb.com",
+    "site_section": "http://www.wcjb.com",
+    "site_categories": ["media"],
+    "section_title": "WCJB TV20 | North Central Florida | Gainesville, Ocala, Lake City",
+    "title": "PETA requests State Attorney charge OBS over horse injury, euthanasia",
+    "title_full": "PETA requests State Attorney charge OBS over horse injury, euthanasia",
+    "published": "2024-04-25T23:51:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-wcjb-prod.cdn.arcpublishing.com/resizer/v2/FFTHXFHQMJAQZAWZJHIWDAUWN4.png?auth=c0eb766f6bc7f17773856a2ce39b8fdd7bd47d789f32473361ce9dd3d1b08536&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 33803,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "358a1494c9d08499e9b69e8e4ba46a9a67c5028c",
+  "url": "https://www.wcjb.com/2024/04/25/peta-requests-state-attorney-charge-obs-over-horse-injury-euthanasia",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@wcjb20",
+  "published": "2024-04-25T23:51:00.000+03:00",
+  "title": "PETA requests State Attorney charge OBS over horse injury, euthanasia",
+  "text": "PETA requests State Attorney charge OBS over horse injury, euthanasia OCALA, Fla. (WCJB) - PETA, an animal rights organization, is trying to rein in [Ocala Breeders’ Sales (OBS) company](https://www.wcjb.com/2024/04/16/obs-spring-sale-kicks-off-marion-county/) after a horse was euthanized and an activist was robbed. [PETA shared a letter](https://www.peta.org/blog/frosten-dies-ocala-breeders-sales-under-tack-show/) sent to William Gladson, the 5th Judicial Circuit State Attorney, asking for animal cruelty charges forward against OBS. The letter accuses the company of pushing young horses too hard during the under tack show. Earlier this month, OBS director Tod Wojciechowski was arrested for taking a PETA employee’s backpack. The employee was filming when a horse got injured during the show and was euthanized. RELATED: [Director of Sales for the Ocala Breeders’ Sale is charged with robbery](https://www.wcjb.com/2024/04/13/director-sales-ocala-breeders-sale-is-charged-with-robbery/) April 25, 2024 Mr. William Gladson State Attorney, Fifth Judicial Circuit wgladson@sao5.org Dear Mr. Gladson: I am general counsel to People for the Ethical Treatment of Animals (PETA) and am writing to respectfully request that you pursue felony and misdemeanor cruelty to animals charges against those responsible for cruelly causing the deaths of a young colt this month and a young filly in April 2023 by recklessly overdriving them in speed trials for potential buyers. See Fla. Stat. §§ 828.12(1), 828.125. As thoroughly detailed below, at the Ocala Breeders’ Sales Company’s (“OBS”) facility, located at 1701 Southwest 60th Ave., Ocala, FL, OBS held “under tack” shows, in which young horses—some of whom are not even 24 months old yet—are pushed to sprint short distances (in “works” or “breezes”) at speeds faster than they will ever run in their future racing careers. Many of these horses are driven to break the ten-second barrier—faster than even elite, fully mature horses would run in any fraction of the Sprint at the Breeders’ Cup World Championship. There is a wealth of evidence establishing that intense, excessive speed works in short sprints at under tack shows are both dangerous and damaging to these juvenile horses, putting them at risk for serious injuries and catastrophic breakdowns. This conduct appears to violate Florida’s prohibition on overdriving horses, id. § 828.12(1), and, for the horses who have been seriously injured and killed at OBS’ under tack show, the prohibition on killing and aggravated abuse, id. § 828.125. PETA is prepared to assist your office in any way possible in furtherance of this investigation, including by providing additional video and other documentary evidence, and we welcome the opportunity to meet with you. Thank you for your attention to this matter. Jared Goodman Managing General Counsel Enclosures [Click here](https://www.wcjb.com/newsletter/) to subscribe to our newsletter. Copyright 2024 WCJB. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.peta.org/blog/frosten-dies-ocala-breeders-sales-under-tack-show/)",
+    "https://peta.org/blog/frosten-dies-ocala-breeders-sales-under-tack-show/)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "william gladson",
+        "sentiment": "none"
+      },
+      {
+        "name": "gla",
+        "sentiment": "none"
+      },
+      {
+        "name": "tod wojciechowski",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "obs",
+        "sentiment": "negative"
+      },
+      {
+        "name": "peta",
+        "sentiment": "negative"
+      },
+      {
+        "name": "5th judicial circuit state",
+        "sentiment": "none"
+      },
+      {
+        "name": "ocala breeders",
+        "sentiment": "none"
+      },
+      {
+        "name": "fifth judicial circuit",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "fla.",
+        "sentiment": "none"
+      },
+      {
+        "name": "ocala",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:08:02.841+03:00",
+  "updated": "2024-04-26T00:08:02.841+03:00"
+}

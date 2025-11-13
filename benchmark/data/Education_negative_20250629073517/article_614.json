@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "150e1c92c34821b7b17f96d3214f7380cddea0df",
+    "url": "https://www.ksta.de/region/oberberg/waldbroel/einbruch-in-waldbroel-1051977",
+    "site_full": "www.ksta.de",
+    "site": "ksta.de",
+    "site_section": "https://ksta.de/region/oberberg",
+    "site_categories": ["tech", "top_news_de", "top_news"],
+    "section_title": "Oberberg | Kölner Stadt-Anzeiger",
+    "site_title": "Kölner Stadt-Anzeiger - Aktuelle Nachrichten aus Köln und der ganzen Welt | Kölner Stadt-Anzeiger",
+    "title": "Oberbergischer Kreis Einbrecher dringen in Waldbröler Grundschule ein und scheitern am Gemeindehaus",
+    "title_full": "Oberbergischer Kreis Einbrecher dringen in Waldbröler Grundschule ein und scheitern am Gemeindehaus",
+    "published": "2025-06-26T13:10:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://static.ksta.de/__images/2025/01/21/1437c5e0-b734-4c51-a597-a257efe7b29a.jpeg?w=1200&h=630&fm=jpg&s=49dda4104f72a462653e111eb8329f98",
+    "performance_score": 0,
+    "domain_rank": 8892,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "150e1c92c34821b7b17f96d3214f7380cddea0df",
+  "url": "https://www.ksta.de/region/oberberg/waldbroel/einbruch-in-waldbroel-1051977",
+  "ord_in_thread": 0,
+  "author": "Lesezeit",
+  "published": "2025-06-26T13:10:00.000+03:00",
+  "title": "Oberbergischer Kreis Einbrecher dringen in Waldbröler Grundschule ein und scheitern am Gemeindehaus",
+  "text": "In der Straße \"Wiedenhof\" kam es zu einem erfolgreichen Einbruch in eine Grundschule. In der gleichen Nacht scheiterten Unbekannte bei einem Einbruchsversuch in einen Gebäudekomplex der Diakonie.\nOberbergischer KreisEinbrecher dringen in Waldbröler Grundschule ein und scheitern am Gemeindehaus\nEinbrecher sind zwischen 16 Uhr am Dienstag (24. Juni) und 10.50 Uhr am Mittwoch in eine Grundschule in der Straße \"Wiedenhof\" in Waldbröl eingebrochen. Die Eindringlinge hebelten die Tür zum Büro und zu einem Klassenzimmer auf. Sie entkamen mit Bargeld aus einer Geldkassette.\nIn der Nacht von Dienstag auf Mittwoch (24./25. Juni) in der Zeit zwischen 20.10 Uhr und 06.10 Uhr versuchten Unbekannte in einen Gebäudekomplex der Diakonie und des Gemeindeamts in der gleichen Straße einzubrechen. Die Unbekannten versuchten, mehrere Türen und Fenster aufzuhebeln, was ihnen jedoch nicht gelang.\nHinweise nimmt das Kriminalkommissariat Wipperfürth unter der Telefonnummer 02261 8199-0 oder der E-Mail-Adresse poststelle.oberbergischer-kreis@polizei.nrw.de entgegen. (red)\nDieser Text wurde mit Unterstützung Künstlicher Intelligenz (KI) erstellt. Mehr zu unseren Regeln im Umgang mit KI gibt es hier.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Social Issue", "Education"],
+  "topics": [
+    "Crime, Law and Justice->robbery and theft",
+    "Social Issue->communities",
+    "Social Issue->social problem",
+    "Social Issue->juvenile delinquency",
+    "Education->school",
+    "Education->primary education"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T13:24:41.078+03:00",
+  "updated": "2025-06-26T10:30:17.000+00:00"
+}

@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "8e1c5e9e31f587ce5b2bcf34459d051de8015770",
+    "url": "https://www.badische-zeitung.de/freiamt-eltern-lehnen-in-umfrage-ganztagsbetreuung-in-der-grundschule-ab",
+    "site_full": "www.badische-zeitung.de",
+    "site": "badische-zeitung.de",
+    "site_section": "https://badische-zeitung.de/lokales/ortenau",
+    "site_categories": [
+      "media",
+      "world_soccer",
+      "sports",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "Lokale Nachrichten aus der Region Ortenau - Badische Zeitung",
+    "site_title": "Badische Zeitung - Nachrichten aus Freiburg & Südbaden",
+    "title": "Freiamt: Eltern lehnen in Umfrage Ganztagsbetreuung in der Grundschule ab",
+    "title_full": "Freiamt: Eltern lehnen in Umfrage Ganztagsbetreuung in der Grundschule ab",
+    "published": "2025-06-26T07:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://ais.badische-zeitung.de/piece/1a/8b/da/bf/445373119.jpg",
+    "performance_score": 2,
+    "domain_rank": 9696,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 20,
+        "comments": 32,
+        "shares": 42
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8e1c5e9e31f587ce5b2bcf34459d051de8015770",
+  "url": "https://www.badische-zeitung.de/freiamt-eltern-lehnen-in-umfrage-ganztagsbetreuung-in-der-grundschule-ab",
+  "ord_in_thread": 0,
+  "author": "Enya Steinbrecher",
+  "published": "2025-06-26T07:30:00.000+03:00",
+  "title": "Freiamt: Eltern lehnen in Umfrage Ganztagsbetreuung in der Grundschule ab",
+  "text": "Bildung und Betreuung\nFreiamt: Eltern lehnen in Umfrage Ganztagsbetreuung in der Grundschule ab\nBraucht die Gemeinde Freiamt eine verpflichtende Ganztagsbetreuung? Um den Bedarf zu ergründen, hat die Verwaltung eine Umfrage in der Bevölkerung gemacht. Die Mehrheit der Befragten lehnt eine Ganztagsbetreuung klar ab.\nWir benötigen Ihre Zustimmung um BotTalk anzuzeigen\nUnter Umständen sammelt BotTalk personenbezogene Daten für eigene Zwecke und verarbeitet diese in einem Land mit nach EU-Standards nicht ausreichenden Datenschutzniveau.\nDurch Klick auf \"Akzeptieren\" geben Sie Ihre Einwilligung für die Datenübermittlung, die Sie jederzeit über Cookie-Einstellungen widerrufen können.\nAkzeptieren\nMehr Informationen",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education"],
+  "topics": [
+    "Education->parents group",
+    "Education->primary education",
+    "Education->school"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T07:38:19.121+03:00",
+  "updated": "2025-06-27T05:08:52.000+00:00"
+}

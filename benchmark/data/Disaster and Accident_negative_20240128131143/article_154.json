@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "fa2edd7574b48e434d7cd55cbc907e954d685f2e",
+    "url": "https://www.dw.com/en/stowaway-found-alive-in-landing-gear-of-flight-to-paris/a-67846098",
+    "site_full": "www.dw.com",
+    "site": "dw.com",
+    "site_section": "https://www.dw.com/en/top-stories/s-9097",
+    "site_categories": ["media"],
+    "section_title": "News and current affairs from Germany and around the world – DW",
+    "title": "Stowaway found alive in landing gear of flight to Paris – DW – 12/28/2023",
+    "title_full": "Stowaway found alive in landing gear of flight to Paris – DW – 12/28/2023",
+    "published": "2023-12-28T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://static.dw.com/image/67845921_6.jpg",
+    "performance_score": 0,
+    "domain_rank": 386,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fa2edd7574b48e434d7cd55cbc907e954d685f2e",
+  "url": "https://www.dw.com/en/stowaway-found-alive-in-landing-gear-of-flight-to-paris/a-67846098",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Deutsche Welle",
+  "published": "2023-12-28T02:00:00.000+02:00",
+  "title": "Stowaway found alive in landing gear of flight to Paris – DW – 12/28/2023",
+  "text": "A man has been discovered hidden in the landing gear compartment of a commercial aircraft that flew into Paris from Algeria .\nThe man was found alive in the undercarriage bay during technical checks after the Air Algerie flight from Oran, Algeria, landed at Paris Orly airport on Thursday.\nAn airport source told French news agency AFP that the man \"was alive but in a life-threatening condition because of severe hypothermia\" after the two-and-a-half-hour flight.\nHe is believed to be in his 20s but had no ID on him, and was taken to a nearby hospital in a serious condition, the source added.\nCommercial aircraft cruise at 30,000 to 40,000 feet (9,000 to 12,000 meters) altitude where temperatures typically drop to around -50 degrees Celsius (-58F), and a lack of oxygen makes survival unlikely for anyone traveling in a landing gear compartment which is neither heated nor pressurized.\nAccording to US Federal Aviation Administration (FAA) data, 132 people tried to travel in the landing gear compartments of commercial aircraft between 1947 and 2021.\nThe mortality rate for people attempting to travel this way is 77%, according to the FAA figures.\nIn April of this year, the body of a man was discovered in the landing gear of an aircraft in Amsterdam's Schiphol airport that had flown in from Toronto, but previously took off from Nigeria.\nIn 2015, the body of a stowaway on a British Airways flight from Johannesburg to Heathrow landed on a shop in Richmond , southwest London. A second stowaway survived the 10-hour flight and was found in the undercarriage of the plane.\nmds/lo (AFP, Reuters)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Disaster and Accident",
+    "Human Interest"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "air algerie",
+        "sentiment": "none"
+      },
+      {
+        "name": "faa",
+        "sentiment": "none"
+      },
+      {
+        "name": "afp",
+        "sentiment": "none"
+      },
+      {
+        "name": "us federal aviation administration",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "paris",
+        "sentiment": "none"
+      },
+      {
+        "name": "oran",
+        "sentiment": "none"
+      },
+      {
+        "name": "algeria",
+        "sentiment": "none"
+      },
+      {
+        "name": "paris orly",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:11:16.296+02:00",
+  "updated": "2023-12-29T00:11:16.296+02:00"
+}

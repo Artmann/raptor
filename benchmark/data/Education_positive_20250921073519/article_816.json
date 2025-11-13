@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "47059bba656ebfccc016c8736154117822934f0e",
+    "url": "https://www.tum.de/aktuelles/alle-meldungen/pressemitteilungen/details/girlslabtum-tuefteltag-der-mint-impulse-2025",
+    "site_full": "www.tum.de",
+    "site": "tum.de",
+    "site_section": "https://www.tum.de/community/public-engagement",
+    "site_categories": ["graduate_school", "education"],
+    "section_title": "Public Engagement: Forschung erleben und mitgestalten - TUM",
+    "site_title": "The Entrepreneurial University - TUM",
+    "title": "GirlsLAB@TUM: Tüfteltag der MINT-Impulse - TUM",
+    "title_full": "GirlsLAB@TUM: Tüfteltag der MINT-Impulse - TUM",
+    "published": "2025-09-17T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 5812,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "47059bba656ebfccc016c8736154117822934f0e",
+  "url": "https://www.tum.de/aktuelles/alle-meldungen/pressemitteilungen/details/girlslabtum-tuefteltag-der-mint-impulse-2025",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-17T03:00:00.000+03:00",
+  "title": "GirlsLAB@TUM: Tüfteltag der MINT-Impulse - TUM",
+  "text": "Mädchenförderprogramm\nGirlsLAB@TUM: Tüfteltag der MINT-Impulse\nVeranstaltungsort\nCampus Garching\nZielgruppe\nStudieninteressierte\nReferierende Person\nStudierende des Programms „MINT-Impulse an der Schule“\nDas Programm „TUM Entdeckerinnen | MINT-Impulse an der Schule“ geht 2025 in die vierte Runde. Diesmal sind 32 Schülerinnen der 10. und 11. Klassen aus dem Partnerschulnetzwerk zum GirlsLAB@TUM nach München und Garching eingeladen.\nAm Aktionstag am Campus Garching wird in kleinen Teams gemeinsam an einer Kettenreaktion getüftelt. Dafür sind motivierte Mädchen gesucht, die Lust haben, Neues zu entdecken, sich mit TUM-Studierenden auszutauschen und spielerisch in die MINT-Welt einzutauchen. Spaß, Flow und Freude garantiert!\nDas Programm findet am 18.11. von 10:00 bis 17 Uhr statt. Schülerinnen und Lehrkräfte haben die Möglichkeit, bereits am Vorabend anzureisen, um München zu erkunden und etwas Großstadtluft zu schnuppern. Die Hotelübernachtung übernimmt die HG Foundation (London), die das Programm unterstützt.\nAnmeldungen erfolgen ausschließlich über die koordinierende Lehrkraft an der jeweiligen Schule.\nSo finden Sie uns\nOrt: TUM Campus Garching (5530.EG.003); Lageplan",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": ["Education"],
+  "topics": [
+    "Education->students",
+    "Education->educational grading",
+    "Education->vocational education"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Garching",
+        "sentiment": "none"
+      },
+      {
+        "name": "München",
+        "sentiment": "none"
+      },
+      {
+        "name": "London",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "HG Foundation",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:04:26.183+03:00",
+  "updated": "2025-09-18T09:17:24.000+03:00"
+}

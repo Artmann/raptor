@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "61e6109b4d5a374f3a476c4e469824fdf796f0b8",
+    "url": "https://portal.al.go.leg.br/noticias/159393",
+    "site_full": "portal.al.go.leg.br",
+    "site": "al.go.leg.br",
+    "site_section": "https://portal.al.go.leg.br/noticias/feed",
+    "site_categories": [],
+    "section_title": "Assembleia Legislativa do Estado de Goiás",
+    "site_title": null,
+    "title": "Projeto de Virmondes Cruvinel para incentivo à agricultura regenerativa torna-se lei",
+    "title_full": "Projeto de Virmondes Cruvinel para incentivo à agricultura regenerativa torna-se lei",
+    "published": "2025-10-16T15:03:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BR",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 478379,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "61e6109b4d5a374f3a476c4e469824fdf796f0b8",
+  "url": "https://portal.al.go.leg.br/noticias/159393",
+  "ord_in_thread": 0,
+  "author": "Assembleia Legislativa do Estado de Goiás (imprensa@al.go.leg.br)",
+  "published": "2025-10-16T15:03:00.000+03:00",
+  "title": "Projeto de Virmondes Cruvinel para incentivo à agricultura regenerativa torna-se lei",
+  "text": "Projeto de Virmondes Cruvinel para incentivo à agricultura regenerativa torna-se lei\nA Política Estadual de Incentivo à Agricultura e à Economia Regenerativas foi confirmada pelo Executivo com a sanção da Lei Estadual nº 23.729, de 10 de outubro de 2025. Assinada por Virmondes Cruvinel (UB), a novidade estabelece objetivos, diretrizes e princípios relativos ao tema em foco na legislação.\n“A predominância de um modelo de agricultura intensiva, com elevada dependência de insumos químicos, tem causado impactos ambientais indesejados. Dessa forma, é de suma importância a busca por alternativas sustentáveis para esse setor”, explicou Cruvinel, na justificativa do projeto que deu origem à iniciativa. O legislador destacou a relevância do agro na economia goiana e o potencial da indústria da mineração local, que pode fornecer matéria-prima para as estratégias almejadas pela política.\nO texto traz como objetivos alcançar a recuperação dos ecossistemas agrícolas; o controle da emissão de gases de efeito estufa; o aumento da biodiversidade; a melhoria do solo; a qualidade de vida dos agricultores e a produção agrícola diversificada e sustentável. Destaca-se, ainda, a mudança para um modelo econômico baseado no desenvolvimento de práticas agrícolas e industriais sustentáveis e no encorajamento da inovação social e tecnológica.\nPara alcançar as finalidades a que se propõe, a nova norma tem como diretrizes, por exemplo, o fomento à criação de programas de assistência técnica para agricultores, à concessão de incentivos fiscais para quem adotar métodos alinhados à sustentabilidade e à instituição de programas públicos de crédito rural específico. Outros pontos de destaque são o impulso a parcerias com instituições de pesquisa para o desenvolvimento de tecnologias e práticas e à reutilização, reciclagem e redução do consumo de recursos naturais, bem como à criação de cadeias produtivas fechadas e ambientalmente equilibradas.\nA promoção da saúde do solo; o estímulo à utilização de procedimentos regenerativos e o respeito à autonomia do agricultor são alguns dos princípios da política. A lei será regulamentada pelo Executivo, que estabelecerá também a forma de monitoramento e avaliação da política estadual instituída.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "portuguese",
+  "sentiment": "positive",
+  "categories": ["Politics", "Environment"],
+  "topics": [
+    "Politics->government policy",
+    "Politics->economic policy",
+    "Environment->sustainability",
+    "Environment->flowers and plants",
+    "Environment->land resources"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111418/lei-23729",
+    "https://www.legisla.casacivil.go.gov.br/pesquisa_legislacao/111418/lei-23729"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:49:52.723+03:00",
+  "updated": "2025-10-16T16:04:34.000+03:00"
+}

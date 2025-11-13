@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "3e87556abe8c70288c001413ba2d16a8288652e7",
+    "url": "https://news-pravda.com/russia/2025/10/16/1777864.html",
+    "site_full": "news-pravda.com",
+    "site": "news-pravda.com",
+    "site_section": "https://news-pravda.com/rss.xml",
+    "site_categories": [],
+    "section_title": "Pravda EN",
+    "site_title": "Pravda - Breaking News, World News and Videos",
+    "title": "87% of Russian energy has a minimal or zero carbon footprint - Putin",
+    "title_full": "87% of Russian energy has a minimal or zero carbon footprint - Putin",
+    "published": "2025-10-16T15:42:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://news-pravda.com/img/20251016/63ba962e7f778e6f24783b5537c4b679_o.jpg",
+    "performance_score": 0,
+    "domain_rank": 69329,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3e87556abe8c70288c001413ba2d16a8288652e7",
+  "url": "https://news-pravda.com/russia/2025/10/16/1777864.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T15:42:00.000+03:00",
+  "title": "87% of Russian energy has a minimal or zero carbon footprint - Putin",
+  "text": "87% of Russian energy has a minimal or zero carbon footprint — Putin\n87% of Russian energy has a minimal or zero carbon footprint — Putin\n'I'm talking about gas and nuclear generation, renewable energy sources, and hydropower'\n87% of Russian energy has a minimal or zero carbon footprint — Putin\n'I'm talking about gas and nuclear generation, renewable energy sources, and hydropower'",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->climate change", "Environment->energy resources"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Putin",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:52:33.809+03:00",
+  "updated": "2025-10-16T16:06:32.000+03:00"
+}

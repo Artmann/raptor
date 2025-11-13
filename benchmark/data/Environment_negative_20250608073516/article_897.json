@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "fba8544f96405ea87d2adad68dcf7a9fbbec04b2",
+    "url": "https://www.lanazione.it/viareggio/cronaca/disastro-a-cava-fornace-i-1c41825c",
+    "site_full": "www.lanazione.it",
+    "site": "lanazione.it",
+    "site_section": "https://www.zazoom.it/2024-11-18/affluenza-il-dato-definitivo-di-forli-in-citta-non-si-supera-il-47/15819488",
+    "site_categories": ["media", "top_news_it", "top_news"],
+    "section_title": "Ultima Ora - Ultime Notizie Zazoom Social News",
+    "site_title": "La Nazione - Tutte le ultime notizie in tempo reale dalla Toscana",
+    "title": "Disastro a Cava Fornace. I comitati sono preoccupati: \"Perché il sito è ancora aperto?\"",
+    "title_full": "Disastro a Cava Fornace. I comitati sono preoccupati: \"Perché il sito è ancora aperto?\"",
+    "published": "2025-05-08T05:44:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://www.lanazione.it/image-service/view/acePublic/alias/contentid/ZmNiMzZkMzUtMzIzMy00/0/disastro-a-cava-fornace-i-comitati-sono-preoccupati-perche-il-sito-e-ancora-aperto.jpeg?f=16:9&amp;w=1200&amp;h=630",
+    "performance_score": 0,
+    "domain_rank": 17147,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fba8544f96405ea87d2adad68dcf7a9fbbec04b2",
+  "url": "https://www.lanazione.it/viareggio/cronaca/disastro-a-cava-fornace-i-1c41825c",
+  "ord_in_thread": 0,
+  "author": "La Nazione",
+  "published": "2025-05-08T05:44:00.000+03:00",
+  "title": "Disastro a Cava Fornace. I comitati sono preoccupati: \"Perché il sito è ancora aperto?\"",
+  "text": "È passato un anno esatto da quando un fiume d’acqua, argilla e percolato fuoriuscì da Cava Fornace , a causa del crollo di un argine, invadendo l’Aurelia, la Fossa Fiorentina e il Lago di Porta. Seguirono incontri istituzionali e proteste dei cittadini con un solo obiettivo: chiudere per sempre la discarica al confine tra Pietrasanta e Montignoso e metterla in sicurezza. Dodici mesi dopo, invece, a parte lo stop all’attività imposto mesi fa dalla Regione ai gestori di \"Programma ambiente Apuane\", l’unica novità è che la stessa Regione ha concesso altri tre mesi di proroga ai gestori – dal 30 aprile al 31 luglio – per presentare un nuovo progetto finalizzato a ottenere il Provvedimento autorizzatorio unico regionale (Paur) e quindi la prosecuzione dei conferimenti.\n\"È una notizia che abbiamo saputo per vie non ufficiali – spiega il Comitato cittadino anti-discarica, che ha realizzato anche un videomessaggio dalla zona a mare di Cava Fornace – e questo ci preoccupa perché rappresenterebbe un campanello d’allarme. Dopo il crollo ci aspettavamo una chiusura definitiva, invece l’elaborazione di un nuovo piano suggerisce un’intenzione di continuare fino alla saturazione del sito\". L’assessore all’ambiente di Montignoso Giulio Francesconi conferma lo slittamento concesso dalla Regione. \"L’obiettivo – dice – è permettere al gestore di presentare un progetto che risponda alle indicazioni emerse nei tavoli istituzionali con Pietrasanta e la Regione. L’intenzione delle amministrazioni è di chiudere e mettere in sicurezza il sito. Il progetto atteso a luglio dovrà riflettere queste richieste. A livello ambientale siamo comunque tranquilli: le analisi dei laboratori non hanno rilevato inquinamenti in atto dopo l’incidente\".\nDaniele Masseglia",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue"],
+  "topics": [
+    "Environment->hazardous materials",
+    "Environment->water pollution",
+    "Environment->environmental pollution",
+    "Social Issue->social problem",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:40:07.748+03:00",
+  "updated": "2025-05-08T03:42:31.000+00:00"
+}

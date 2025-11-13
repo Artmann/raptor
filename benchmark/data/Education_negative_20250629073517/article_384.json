@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "15b9fe6e736e6c40723fdc119245b50c74575ec2",
+    "url": "https://www.japantimes.co.jp/news/2025/06/26/japan/society/japan-doctoral-students-support-revision",
+    "site_full": "www.japantimes.co.jp",
+    "site": "japantimes.co.jp",
+    "site_section": "http://www.japantimes.co.jp/trending",
+    "site_categories": ["media", "travel", "japan"],
+    "section_title": " Trump Tariffs - The Japan Times ",
+    "site_title": "The Japan Times - News On Japan, Business News, Opinion, Sports, Entertainment And More",
+    "title": "Japan mulls cuts to financial aid for Ph.D. students from abroad",
+    "title_full": "Japan mulls cuts to financial aid for Ph.D. students from abroad",
+    "published": "2025-06-26T11:20:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/06/26/477566.jpg?v=3.1",
+    "performance_score": 0,
+    "domain_rank": 1070,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "15b9fe6e736e6c40723fdc119245b50c74575ec2",
+  "url": "https://www.japantimes.co.jp/news/2025/06/26/japan/society/japan-doctoral-students-support-revision",
+  "ord_in_thread": 0,
+  "author": "Yukana Inoue",
+  "published": "2025-06-26T11:20:00.000+03:00",
+  "title": "Japan mulls cuts to financial aid for Ph.D. students from abroad",
+  "text": "The education ministry is considering limiting the financial support it provides to doctoral students to assist with living expenses so that the funding is only made available to Japanese nationals, according to a draft proposal unveiled by an expert panel on Thursday.\nThe Ph.D. aid program has recently come under fire from some members of parliament, who point out that nearly 40% of those receiving the support are international students despite the fact that the fund aims to foster future human resources in Japan.\nAccording to the education ministry, of the 10,564 students who received the aid in fiscal 2024 around 4,125 were international students, including 2,904 from China.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Politics"],
+  "topics": [
+    "Education->college and university",
+    "Education->students",
+    "Education->educational grading",
+    "Social Issue->immigration",
+    "Social Issue->social services",
+    "Social Issue->demographics",
+    "Politics->government policy",
+    "Politics->education policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T11:27:42.066+03:00",
+  "updated": "2025-06-26T08:32:44.000+00:00"
+}

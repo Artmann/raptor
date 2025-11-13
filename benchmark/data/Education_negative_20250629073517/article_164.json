@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "d573d6a2f4603922df2d5f50c03a734ca5932627",
+    "url": "https://article.wn.com/view/2025/06/26/DU_May_Drop_Papers_on_Pakistan_China_Islam_From_Political_Sc",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/technology",
+    "site_categories": ["media"],
+    "section_title": "World News - Science and Technology",
+    "site_title": "World News",
+    "title": "DU May Drop Papers on Pakistan, China, Islam From Political Science; Sparks Row - Worldnews.com",
+    "title_full": "DU May Drop Papers on Pakistan, China, Islam From Political Science; Sparks Row - Worldnews.com",
+    "published": "2025-06-26T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3835,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d573d6a2f4603922df2d5f50c03a734ca5932627",
+  "url": "https://article.wn.com/view/2025/06/26/DU_May_Drop_Papers_on_Pakistan_China_Islam_From_Political_Sc",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T03:00:00.000+03:00",
+  "title": "DU May Drop Papers on Pakistan, China, Islam From Political Science; Sparks Row - Worldnews.com",
+  "text": "Delhi University's proposal to drop PG Political Science electives on Islam, Pakistan, and China has sparked controversy among faculty and academics. read full story",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Politics", "Social Issue", "Education"],
+  "topics": [
+    "Politics->political parties and movements",
+    "Politics->education policy",
+    "Politics->political development",
+    "Social Issue->social condition",
+    "Social Issue->social problem",
+    "Social Issue->social services",
+    "Education->college and university",
+    "Education->students",
+    "Education->educational grading"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.news18.com/education-career/du-may-drop-papers-on-pakistan-china-islam-from-political-science-sparks-row-9404716.html",
+    "https://news18.com/education-career/du-may-drop-papers-on-pakistan-china-islam-from-political-science-sparks-row-9404716.html"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Delhi University",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T09:16:35.484+03:00",
+  "updated": "2025-06-26T06:21:11.000+00:00"
+}

@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "87b8ae7a39be0ab955dc8e93533abdb9878c1851",
+    "url": "https://pub.dev/packages/bloc_advanced_tools",
+    "site_full": "pub.dev",
+    "site": "pub.dev",
+    "site_section": "https://pub.dev/feed.atom",
+    "site_categories": [],
+    "section_title": "Pub Packages for Dart",
+    "title": "v0.1.3 of bloc_advanced_tools",
+    "title_full": "v0.1.3 of bloc_advanced_tools",
+    "published": "2024-06-22T00:56:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://pub.dev/static/hash-hqr2ucd1/img/pub-dev-icon-cover-image.png",
+    "performance_score": 0,
+    "domain_rank": 17578,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "87b8ae7a39be0ab955dc8e93533abdb9878c1851",
+  "url": "https://pub.dev/packages/bloc_advanced_tools",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "veilid.com",
+  "published": "2024-06-22T00:56:00.000+03:00",
+  "title": "v0.1.3 of bloc_advanced_tools",
+  "text": "bloc_advanced_tools 0.1.3 bloc_advanced_tools: ^0.1.3 copied to clipboard\nAdvanced tools for development using the BLoC pattern\nCollection of useful tools for BLoC and Cubit development in Dart\n[#](#collection-of-useful-tools-for-bloc-and-cubit-development-in-dart)\nTests are not complete\nContains\n[#](#contains)\n- AsyncTransformerCubit - Wrapper cubit that takes an input cubit and asynchronously transforms its state and produces a transformed output state.\n- BlocBusyWrapper - Wrapper mixin adds 'busy state' processing to an input bloc or cubit, so you can tell if a cubit is performing a state-modifying operation.\n- BlocMapCubit - Streaming container cubit that is a map from some immutable key to a some other cubit's output state.\n- BlocToolsExtension - Extension methods to make common operations on blocs easier.\n- FutureCubit - Simple base class for a cubit that initialized based on the result of a Future.\n- StateMapFollower - Mixin that automatically keeps two blocs/cubits in sync with each other. Useful for having a BlocMapCubit 'follow' the state of another input cubit.\n- StreamWrapperCubit - Simple base class to wrap a stream of states with a Cubit.\n- TransformerCubit - Wrapper cubit that takes an input cubit and transforms its state and produces a transformed output state.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Health", "Human Interest", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "- streamwra",
+        "sentiment": "none"
+      },
+      {
+        "name": "- statemapfollower - mixin",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-06-22T06:12:45.450+03:00",
+  "updated": "2024-06-22T06:12:45.450+03:00"
+}

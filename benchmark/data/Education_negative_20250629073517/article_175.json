@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "8ea0658a6e43805ad98a2d69acc945c0e82ddbf8",
+    "url": "https://www.worldradio.ch/news/bitesize-news/families-angered-over-end-to-cross-border-schooling-in-geneva",
+    "site_full": "www.worldradio.ch",
+    "site": "worldradio.ch",
+    "site_section": "https://worldradio.ch/news",
+    "site_categories": [],
+    "section_title": "News - WRS",
+    "site_title": "WRS",
+    "title": "Families Angered Over End to Cross-Border Schooling in Geneva",
+    "title_full": "Families Angered Over End to Cross-Border Schooling in Geneva",
+    "published": "2025-06-26T07:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CH",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 194715,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8ea0658a6e43805ad98a2d69acc945c0e82ddbf8",
+  "url": "https://www.worldradio.ch/news/bitesize-news/families-angered-over-end-to-cross-border-schooling-in-geneva",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T07:30:00.000+03:00",
+  "title": "Families Angered Over End to Cross-Border Schooling in Geneva",
+  "text": "The Geneva government’s decision to end public school access for students living outside the canton has sparked frustration among cross-border families.\nFrom the 2026–27 school year, only children living in Geneva will be admitted.\nBut families say it's unfair, breaking earlier promises that children already enrolled could finish their studies.\nOfficials stress that enrolled students can finish their current cycle, and moving to Geneva before September 2026 remains an option.\nMore than 2,500 students residing in France are currently educated in the canton.\nThe measure raises concerns among French elected officials regarding cross-border cooperation and the increased stress on local French schools.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->students",
+    "Education->school",
+    "Education->parents group",
+    "Social Issue->social problem",
+    "Social Issue->social services",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T09:21:59.420+03:00",
+  "updated": "2025-06-26T06:23:30.000+00:00"
+}

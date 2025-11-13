@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "644d913c9c2466d667d60f90ffedefeffc86aab8",
+    "url": "https://7news.com.au/news/teenager-taken-to-hospital-with-suspected-stab-wounds-following-fight-at-highpoint-shopping-centre--c-14445221",
+    "site_full": "7news.com.au",
+    "site": "7news.com.au",
+    "site_section": "https://7news.com.au/feed",
+    "site_categories": ["media", "top_news"],
+    "section_title": "",
+    "title": "Teenager taken to hospital with suspected stab wounds following fight at Highpoint Shopping Centre",
+    "title_full": "Teenager taken to hospital with suspected stab wounds following fight at Highpoint Shopping Centre",
+    "published": "2024-04-25T13:09:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://images.7news.com.au/publication/C-14445221/47e89715f5f71af3fd12658a63b383de35618509-16x9-x0y0w1280h720.jpg?imwidth=1200",
+    "performance_score": 0,
+    "domain_rank": 5734,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "644d913c9c2466d667d60f90ffedefeffc86aab8",
+  "url": "https://7news.com.au/news/teenager-taken-to-hospital-with-suspected-stab-wounds-following-fight-at-highpoint-shopping-centre--c-14445221",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Molly Magennis",
+  "published": "2024-04-25T13:09:00.000+03:00",
+  "title": "Teenager taken to hospital with suspected stab wounds following fight at Highpoint Shopping Centre",
+  "text": "A teenager has allegedly been stabbed with a machete during a fight at Highpoint Shopping Centre in [Melbourne](https://7news.com.au/news/melbourne). The teen was stabbed as six men were fighting near a Hoyts cinema inside the centre before spilling out into the restaurant area about 6.10pm on Thursday, police said. Two of the men involved were allegedly armed with machetes. Newsletters: Breaking news as it happens. [Subscribe now ](https://7news.com.au/newsletters) An 18-year-old from St Albans was taken to hospital with a suspected stab wound to the arm. Three other teens, an 18-year-old man from Sunshine North, a 17-year-old Braybrook boy and an 18-year-old man from Deer Park were arrested at the scene. The Braybrook teen has been charged with intentionally causing injury, affray, assault with a weapon and possessing a control weapon. He was bailed to appear before a children’s court at a later date. The Sunshine North man was released pending further inquiries while the teen from Deer Park was released with intent to summons. “It is believed the parties were known to one another,” police said. The stabbing incident is the second to occur at the shopping centre in under a week. On Sunday, [a 19-year-old man was taken to hospital in a serious but stable condition with suspected stab wounds](https://7news.com.au/news/man-hospitalised-with-suspected-stab-wounds-following-fight-inside-restaurant-at-highpoint-shopping-centre--c-14395316) to his upper body following a fight outside Seoul Garden KBBQ Buffet near Hoyts cinema. A 19-year-old man from Kings Park was arrested two days later and charged with intentionally causing injury, affray and weapons offences. The stabbing victim remains in hospital in a stable condition. Police are appealing for help from the public to identify the two other men involved in the incident on Thursday night. Anyone with any information should contact Crime Stoppers. Stream free on",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Health"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "hoyts",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "sunshine north",
+        "sentiment": "none"
+      },
+      {
+        "name": "st albans",
+        "sentiment": "none"
+      },
+      {
+        "name": "deer park",
+        "sentiment": "none"
+      },
+      {
+        "name": "braybrook",
+        "sentiment": "none"
+      },
+      {
+        "name": "melbourne",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:24:31.284+03:00",
+  "updated": "2024-04-26T00:36:10.907+03:00"
+}

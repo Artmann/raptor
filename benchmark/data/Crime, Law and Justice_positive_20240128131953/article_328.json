@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "ae9de6dcff438081d8e9ff14e0039754c69a7d09",
+    "url": "https://www.irishtimes.com/politics/2023/12/29/coalition-to-target-waiting-time-for-asylum-seekers-appeals/",
+    "site_full": "www.irishtimes.com",
+    "site": "irishtimes.com",
+    "site_section": "https://www.irishtimes.com/latest",
+    "site_categories": ["media"],
+    "section_title": "Latest updates and breaking news | The Irish Times",
+    "title": "Coalition to target waiting time for asylum seekers’ appeals – The Irish Times",
+    "title_full": "Coalition to target waiting time for asylum seekers’ appeals – The Irish Times",
+    "published": "2023-12-29T08:22:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IE",
+    "main_image": "https://www.irishtimes.com/resizer/Lz6ateH8kDp6ja6_gHZXepQpud8=/1200x630/filters:format(jpg):quality(70):focal(1953x583:1963x593)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/XMPFKGDYZKKYCFQWYU4PATZRUA.jpg",
+    "performance_score": 0,
+    "domain_rank": 911,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ae9de6dcff438081d8e9ff14e0039754c69a7d09",
+  "url": "https://www.irishtimes.com/politics/2023/12/29/coalition-to-target-waiting-time-for-asylum-seekers-appeals/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jennifer Bray",
+  "published": "2023-12-29T08:22:00.000+02:00",
+  "title": "Coalition to target waiting time for asylum seekers’ appeals – The Irish Times",
+  "text": "Asylum seekers who appeal a decision on their application to stay in Ireland could have their cases heard more quickly under proposals being considered by the Government. Ministers are planning to address the length of time that an appeal takes after this year cutting the length of time for first-instance decisions from an average of 22 months to three months. Fresh figures show there are currently 17,531 applications pending at the International Protection Office with 3,343 appeals before the International Protection Appeals Tribunal. The Coalition has already introduced an accelerated procedure for international protection applicants from designated safe countries of origin. The Department of Justice said these applicants now typically receive a first-instance decision in less than three months, down from a norm of 22 to 26 months early last year. Minister for Integration Roderic O’Gorman said capacity would need to increase at the appeals tribunal to bring down the length of time for a decision, as the process at present can in some instances take years. “As well as providing additional accommodation, we need that processing time to come down. Minister [for Justice] Helen McEntee has done a lot of work on the first stage with the international protection office; the processing time has come down very significantly. Now we have to work on the appeals tribunal, the second stage and subsequent stages, to make sure they can speed up as well so that people can get a decision, whether it is positive or a negative. “That initial stage has been reduced significantly, particularly since the safe-country approach was adopted where people from safe countries get a rapid processing of their application. But I think it is a question of increasing capacity at the appeals tribunal,” Mr O’Gorman said. The State is obliged to examine the application of anyone who presents at its borders and says they want to make an application for international protection. The number of international protection applications in 2022 was 13,650, a 186 per cent increase on the number received in 2019. The Department of Justice said that of the 17,531 applications for international protection that are pending, fewer than 2 per cent have been pending for more than two years. However, Aontú leader Peadar Tóibín said there was a “crisis in the direct-provision system” after he received figures from the Department of Justice showing that one person waited 77 months for an initial decision on their application. “This was an ‘initial decision’ and not an appeal. The Government seriously needs to speed up the decision-making process to determine who qualifies as a refugee and who does not. It is extremely unfair to those who are genuinely fleeing persecution that they could be left waiting seven years in limbo or, worse, still that some end up homeless in makeshift camps on Dublin streets,” Mr Tóibín said. In response to questions from Mr Tóibín, Ms McEntee said reforms to the international protection process “will continue in 2024″ with about €34 million allocated in Budget 2024 to the International Protection Office and the International Protection Appeals Tribunal to continue to scale up processing. In total, 25,876 people are being accommodated by the State in International Protection Accommodation Service (IPAS) accommodation, of whom 5,590 are children. They are housed in IPAS centres, emergency centres, the National Reception Centre and tented accommodation. According to the latest figures, there are about 300 international protection applicants in Ireland without State accommodation, with those people now homeless. Earlier this month, the Government increased the weekly payments for asylum seekers who are not offered accommodation by €75, bringing the total weekly payment to €113.80. All arriving applicants who have not received an offer of accommodation are provided with an initial voucher of €100 to provide support in advance of receipt of the increased daily expense allowance. - Sign up for [push alerts](https://www.irishtimes.com/media/2023/11/07/stay-informed-with-push-alerts-from-the-irish-times-delivered-straight-to-your-phone/)and have the best news, analysis and comment delivered directly to your phone - Find [The Irish Times on WhatsApp](https://www.irishtimes.com/media/2023/10/27/find-the-irish-times-on-whatsapp-and-stay-up-to-date/)and stay up to date - Our In The News podcast is now published daily – Find the latest episode [here](https://www.irishtimes.com/podcasts/in-the-news/)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Social Issue", "Human Interest", "Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "roderic o’gorman",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "irish times asylum",
+        "sentiment": "negative"
+      },
+      {
+        "name": "international protection appeals tribunal",
+        "sentiment": "none"
+      },
+      {
+        "name": "coalition",
+        "sentiment": "none"
+      },
+      {
+        "name": "international protection office",
+        "sentiment": "none"
+      },
+      {
+        "name": "department of justice",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "ireland",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T10:48:42.105+02:00",
+  "updated": "2023-12-29T10:48:42.105+02:00"
+}

@@ -1,0 +1,134 @@
+{
+  "thread": {
+    "uuid": "40bc1b7f80b77180bed884d028bebbc0d12aaf67",
+    "url": "https://contracosta.news/2025/10/16/park-district-sponsored-legislation-advancing-conservation-and-climate-resilience-signed-into-law/",
+    "site_full": "contracosta.news",
+    "site": "contracosta.news",
+    "site_section": "https://contracosta.news/category/contra-costa-county",
+    "site_categories": [],
+    "section_title": "Contra Costa County Archives",
+    "site_title": null,
+    "title": "Park District-Sponsored Legislation Advancing Conservation and Climate Resilience Signed into Law",
+    "title_full": "Park District-Sponsored Legislation Advancing Conservation and Climate Resilience Signed into Law",
+    "published": "2025-10-16T15:36:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://contracosta.news/wp-content/uploads/2022/11/East-Bay-Regional-Park-EBRPD.jpg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "40bc1b7f80b77180bed884d028bebbc0d12aaf67",
+  "url": "https://contracosta.news/2025/10/16/park-district-sponsored-legislation-advancing-conservation-and-climate-resilience-signed-into-law/",
+  "ord_in_thread": 0,
+  "author": "CC News",
+  "published": "2025-10-16T15:36:00.000+03:00",
+  "title": "Park District-Sponsored Legislation Advancing Conservation and Climate Resilience Signed into Law",
+  "text": "Oakland, CA — The East Bay Regional Park District applauds Governor Gavin Newsom’s signing of landmark legislation, Senate Bill 392, which strengthens conservation efforts and enhances climate resilience across the East Bay, as well as other areas throughout the state. SB 392 was passed unanimously by the legislature.\nSB 392, authored by state Sen. Tim Grayson (D-Concord), establishes the East Bay Hills Conservation Program, empowering the Park District to better protect the ecological integrity of the East Bay hills while improving wildfire resilience and expanding public access to natural areas.\n“This is a critical moment for Regional Parks and open space in California,” said Sabrina Landreth, General Manager of the East Bay Regional Park District. “SB 392 will help preserve the East Bay hills’ incredible biodiversity, protect important wildlife corridors, and ensure equitable access for future generations.”\nExtreme weather and increasing wildfire risks are putting pressure on natural resources in the East Bay hills, which provide critical habitat and serve as an important wildlife corridor linking coastal ranges to inland foothills. The rainbow trout, Oncorhynchus mykiss, was first discovered by scientists in 1855 within Redwood Creek in the East Bay hills.\nThe East Bay Hills Conservation Program, enabled by SB 392, formalizes and supports conservation efforts, enhances public access to parks and trails, and promotes long-term ecological resilience. The program prioritizes sustainable recreation, wildfire mitigation, and long-term climate adaptation.\nThe new East Bay Hills Conservation Program encompasses more than 30,000 acres in the East Bay Regional Park District, from Wildcat Canyon Regional Park in the north to Lake Chabot Regional Park in the south, and includes iconic parks like Charles Lee Tilden Regional Park, Dr. Aurelia Reinhardt Redwood Regional Park, Sibley Volcanic Regional Preserve, and Anthony Chabot Regional Park.\n“The East Bay hills are a regional treasure and a key part of California’s ecological fabric,” said Sen. Grayson. “This new conservation program will help protect these lands by preserving their biodiversity and making them more resilient in the face of a changing climate.”\n“SB 392 represents a forward-thinking, bipartisan commitment to conservation and community well-being,” said John Mercurio, President of the East Bay Regional Park District Board of Directors. “We are deeply grateful to Senator Grayson for his leadership, and to Governor Newsom for signing this important measure into law.”\nThe East Bay Regional Park District is the largest regional park system in the nation, comprising 73 parks, 55 miles of shoreline, and over 1,330 miles of trails for hiking, biking, horseback riding, and environmental education. The Park District receives an estimated 30 million visits annually throughout Alameda and Contra Costa counties in the San Francisco Bay Area.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->conservation",
+    "Environment->parks",
+    "Environment->climate change"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.ebparks.org/",
+    "https://ebparks.org/",
+    "https://www.ebparks.org"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Gavin Newsom",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sabrina Landreth",
+        "sentiment": "none"
+      },
+      {
+        "name": "Tim Grayson",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Regional Park District",
+        "sentiment": "none"
+      },
+      {
+        "name": "East",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Senate",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Martinez",
+        "Saranap",
+        "Pleasant Hill",
+        "Contra Costa",
+        "Clayton",
+        "Concord",
+        "Contra Costa Centre",
+        "Bay Point",
+        "Byron",
+        "Knightsen"
+      ],
+      "state": ["California"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:02:28.399+03:00",
+  "updated": "2025-10-16T16:11:27.000+03:00"
+}

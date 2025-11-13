@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "8d513bc5d572444a49ab35cc3e0f501a01079785",
+    "url": "https://www.salemnews.com/news/2-seriously-injured-after-topsfield-crash-with-rollover-ejection/article_80cac5ee-a40c-11ee-8a58-0b4c25088fc1.html",
+    "site_full": "www.salemnews.com",
+    "site": "salemnews.com",
+    "site_section": "https://www.salemnews.com",
+    "site_categories": ["media", "buying_selling_cars", "vehicles"],
+    "section_title": "salemnews.com",
+    "title": "2 seriously injured after Topsfield crash with rollover, ejection | News | salemnews.com",
+    "title_full": "2 seriously injured after Topsfield crash with rollover, ejection | News | salemnews.com",
+    "published": "2023-12-28T07:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/salemnews.com/content/tncms/assets/v3/editorial/1/eb/1eb468d2-a40d-11ee-a883-7b45e884170e/658b019a6dbe2.image.jpg?crop=960%2C504%2C0%2C388&amp;resize=960%2C504&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 21791,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8d513bc5d572444a49ab35cc3e0f501a01079785",
+  "url": "https://www.salemnews.com/news/2-seriously-injured-after-topsfield-crash-with-rollover-ejection/article_80cac5ee-a40c-11ee-8a58-0b4c25088fc1.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Michael McHugh | Staff Writer",
+  "published": "2023-12-28T07:00:00.000+02:00",
+  "title": "2 seriously injured after Topsfield crash with rollover, ejection | News | salemnews.com",
+  "text": "TOPSFIELD — Two people were seriously injured in a highway car crash that occurred Christmas Day on I-95 in Topsfield. Topsfield Fire/EMS were dispatched to I-95 southbound just after 6 p.m. on Monday, after the North Shore Regional 911 Center received several reports of a serious motor vehicle crash with at least one individual ejected from a car, according to a press release from the Topsfield Fire Department. The crash seriously injured one individual who was in the median when emergency services arrived, and potentially seriously injured another. While no other drivers were injured, several other vehicles received damage as a result of the crash. While directing incoming units, Lt. John Boyle, as well as Firefighter/EMT Matt Enos, treated the more seriously injured individual and prepared them for transport, as they realized time was of the essence, the press release said. Both patients were transported to local hospitals. Their condition is unknown at this time. Due to it being a holiday and the initial response being a solo unit, one engine was requested from the Boxford Fire Department, and a mutual aid ambulance was requested from Northeast Regional Ambulance, authorities said. Off-duty Topsfield firefighters at home finishing holiday festivities also responded with another engine to assist at the scene. MedFlight was notified but was unable to respond to the scene due to low ceiling height from cloud/fog cover. “As always we are grateful for our members and mutual aid partners’ work at these serious incidents and continue to keep the affected parties in our thoughts hoping for a positive outcome,” fire Chief Jen Collins-Brown said in a press release. The crash remains under investigation by Massachusetts State Police.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "matt enos",
+        "sentiment": "none"
+      },
+      {
+        "name": "john boyle",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "topsfield fire/ems",
+        "sentiment": "none"
+      },
+      {
+        "name": "north shore regional 911 center",
+        "sentiment": "none"
+      },
+      {
+        "name": "topsfield fire department",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "topsfield",
+        "sentiment": "none"
+      },
+      {
+        "name": "boxford",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:20:10.369+02:00",
+  "updated": "2023-12-29T00:20:10.369+02:00"
+}

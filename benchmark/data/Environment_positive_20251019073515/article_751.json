@@ -1,0 +1,121 @@
+{
+  "thread": {
+    "uuid": "2970e356793eebf397b38c60c84066315e78ba1b",
+    "url": "https://dailynews.co.tz/tanzania-strikes-natural-gas-in-its-southern-regions/",
+    "site_full": "dailynews.co.tz",
+    "site": "dailynews.co.tz",
+    "site_section": "https://dailynews.co.tz",
+    "site_categories": ["media"],
+    "section_title": "Home - Daily News",
+    "site_title": "Homepage - Daily News",
+    "title": "Tanzania strikes natural gas in its southern regions",
+    "title_full": "Tanzania strikes natural gas in its southern regions",
+    "published": "2025-10-16T15:50:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 99952,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2970e356793eebf397b38c60c84066315e78ba1b",
+  "url": "https://dailynews.co.tz/tanzania-strikes-natural-gas-in-its-southern-regions/",
+  "ord_in_thread": 0,
+  "author": "Esther Takwa",
+  "published": "2025-10-16T15:50:00.000+03:00",
+  "title": "Tanzania strikes natural gas in its southern regions",
+  "text": "Tanzania strikes natural gas in its southern regions\nMTWARA: TANZANIA said it has discovered a rich deposit of natural gas in two villages located in Mtwara Region, about 500 kilometres South of Dar es Salaam.\nThe abundance of natural gas reserves has been discovered reported many areas of the Mtwara region, particularly in the villages of Mnyundo and Mpapura in the Mtwara Region, where water wells were found to be leaking natural gas.\nThe ongoing exploration in the Lindi–Mtwara Block, which covers a total of 48 villages across approximately 736 square kilometers, including 40 villages from Mtwara District Council (Mtwara DC) and eight villages from Mtama District Council (Mtama DC) has shown indications of natural gas presence, particularly in the villages of Mnyundo and Mpapura in Mtwara Region, where water wells were found to be leaking natural gas.\nSpeaking during his tour to inspect oil and gas projects in Mtwara Region, the Deputy Permanent Secretary in the Ministry of Energy, Dr James Mataragio, said that preliminary studies indicate a high potential for natural gas discovery in the area.\nElaborating, he said that using previously collected seismic data, they found that there is up to a 32 percent probability of gas presence in the block.\nAdditionally, Dr Mataragio stated that the demand for natural gas has been increasing across various sectors, including industrial use, domestic consumption, and transportation prompting the government to continue promoting exploration and development of energy sources to achieve the objectives of the National Development Vision 2050.\nALSO READ: PURA boosts public awareness on petroleum, gas projects\nIn his visit to the area, Dr Mataragio also inspected the gas production expansion project at Mnazi Bay, noting that the project is currently at 68 percent complete in its preparation phase.\nThe Mnazi Bay project involves three natural gas wells, where the government expects to increase production by an average of 45 million cubic feet per day from two of the wells, while the third well will be used for further exploration in another area within the block.\nMoreover, he directed the Tanzania Petroleum Development Corporation (TPDC) to ensure that all projects are completed according to the established schedules.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->energy resources", "Environment->natural resources"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "James Mataragio",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Mnyundo",
+        "sentiment": "none"
+      },
+      {
+        "name": "Mpapura",
+        "sentiment": "none"
+      },
+      {
+        "name": "Region",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Mtwara District Council",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Mtama District Council",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Ministry of Energy",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:03:57.323+03:00",
+  "updated": "2025-10-16T16:16:55.000+03:00"
+}

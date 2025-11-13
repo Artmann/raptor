@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "35c5524f747af63f333b6cdb0516bef119d65cf6",
+    "url": "http://cq.people.com.cn/n2/2025/1016/c365425-41382032.html",
+    "site_full": "cq.people.com.cn",
+    "site": "people.com.cn",
+    "site_section": "http://cq.people.com.cn",
+    "site_categories": [
+      "media",
+      "top_news_hk",
+      "top_news_my",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "重庆频道--人民网_网上的人民日报",
+    "site_title": null,
+    "title": "声纹识别，让更多人\"听见\"自然",
+    "title_full": "声纹识别，让更多人\"听见\"自然",
+    "published": "2025-10-13T11:24:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 2198,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "35c5524f747af63f333b6cdb0516bef119d65cf6",
+  "url": "http://cq.people.com.cn/n2/2025/1016/c365425-41382032.html",
+  "ord_in_thread": 0,
+  "author": "本报记者 沈靖然",
+  "published": "2025-10-13T11:24:00.000+03:00",
+  "title": "声纹识别，让更多人\"听见\"自然",
+  "text": "白头鹎“啾啾”鸣叫，清脆明亮；白颊噪鹛叫声更为急促，“叽呀叽呀”；棕背伯劳“吱嘎吱嘎”几声，凑个热闹……清晨的重庆梁平双桂湖国家湿地公园，不同鸟类的叫声此起彼伏，交织成一首湿地奏鸣曲。 通过声纹识别技术，这些大自然里的声音也能被“听懂”，成为“声景中国”平台上可量化、可分析的动态数据，从物种记录到活动监测等一应俱全，为湿地生物多样性保护提供数据支撑。 今年，中国科学院动物研究所、中国气象局探测中心等单位共同发起“声景中国”科研项目，在全国多地布设国产声纹传感器，系统采集鸟鸣、虫鸣、蛙鸣等自然声音，构建开放共享的声景数据库。梁平双桂湖被选为点位之一，安装了3套声纹识别设备。自7月试运行以来，设备已记录白头鹎、白颊噪鹛、棕背伯劳等40余种鸟类的声音，累计记录声纹数据超过3000条。 “就像人类的指纹具有唯一性，鸟类的叫声同样存在独特的声纹。”梁平区湿地保护中心高级工程师余先怀介绍，所谓声纹识别，就是通过声波的起伏、频率和节奏特征，判断是哪一种生物在发声。在嘈杂的自然声场中分离和识别这些细微的差异，关键是要建立一个高质量的声纹数据库。“只有数据库越丰富、样本越多、标注越精准，算法才能不断进步、学习比对，从而提高识别的准确率，让‘闻声识鸟’越来越靠谱。” 余先怀介绍，数据库的建立需要收集音频样本，一般有两种方法：一种是直接从网上下载音频，快速扩充样本；另一种则需工作人员到林中录音。随着样本数量不断扩充，算法会反复“聆听”这些音频，提取声波的频率、节奏和起伏特征，并与已标注的声纹进行比对，不断调整识别模型的参数。通过这种不断训练和优化的过程，数据库日渐完善，算法的识别准确率也将稳步提升。目前，该系统可识别的国内物种声音超过1500种，国外鸟类超过400种，整体识别率高达85%。 相较于传统监测方式，声纹识别的优势在于全天候。科研人员过去依靠望远镜观察、凭经验辨认鸟鸣，难免受时间、天气和精力所限，而自动化的采集设备能24小时不间断地工作。 “现在湿地的3套声纹识别设备，识别到鸟鸣就自动开始录制，收集到的音频先保存在存储卡中，再通过4G物联卡传输到北京，依托后台算法进行鸟鸣声的分离、筛选与分析。”余先怀介绍。 声纹识别监测鸟类的活动情况有什么意义？一方面，湿地鸟类是湿地生态环境状况的重要指示性物种，科研人员通过比对声纹变化，可分析鸟类的迁徙规律、栖息偏好和种群变化，辅助判断湿地生态系统的健康状况；另一方面，未来“声景中国”平台将与生态旅游、自然教育等领域深度融合，依托声纹数据开发湿地“声景导览”、生态慢直播、观鸟打卡等文旅产品，让更多人“听见”自然，参与生态保护。 《 人民日报 》（ 2025年10月13日 13 版） 分享让更多人看到",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Environment"],
+  "topics": [
+    "Science and Technology->biology",
+    "Science and Technology->scientific research",
+    "Environment->ecosystem",
+    "Environment->animal",
+    "Environment->nature"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_hk", "top_news_my", "top_news_tw", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:27:32.978+03:00",
+  "updated": "2025-10-17T14:14:21.000+03:00"
+}

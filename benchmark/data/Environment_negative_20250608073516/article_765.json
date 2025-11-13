@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "ecd01f4d525d8af58bc7909fa3a8298191dfdb40",
+    "url": "https://www.legalreader.com/how-air-pollution-alters-kids-nasal-bacteria",
+    "site_full": "www.legalreader.com",
+    "site": "legalreader.com",
+    "site_section": "https://news.google.com/search?q=how%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media", "law_government_and_politics", "legal_issues"],
+    "section_title": "Google News - Search",
+    "site_title": "Legal News, Analysis, &amp; Commentary - Legal Reader",
+    "title": "How Air Pollution Alters Kids' Nasal Bacteria - Legal Reader",
+    "title_full": "How Air Pollution Alters Kids' Nasal Bacteria - Legal Reader",
+    "published": "2025-05-08T03:56:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.legalreader.com/wp-content/uploads/2025/05/pexels-olly-3765115.jpg",
+    "performance_score": 0,
+    "domain_rank": 51330,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ecd01f4d525d8af58bc7909fa3a8298191dfdb40",
+  "url": "https://www.legalreader.com/how-air-pollution-alters-kids-nasal-bacteria",
+  "ord_in_thread": 0,
+  "author": "Sara E Teller",
+  "published": "2025-05-08T03:56:00.000+03:00",
+  "title": "How Air Pollution Alters Kids' Nasal Bacteria - Legal Reader",
+  "text": "Air pollution doesn’t just harm children’s lungs — it changes the natural balance of bacteria in their noses, too. A recent study from Milan, Italy, followed school-age kids through winter and spring to track how the air they breathe affects their nasal microbiome. The researchers wanted to know how seasonal pollution impacts the tiny ecosystem of bacteria living in children’s noses, and what that might mean for their health.\nTo study this, children wore air-monitoring devices that measured pollutants like black carbon from car exhaust and volatile organic compounds (VOCs), which are often released from household products. The researchers took nasal swabs and compared the results between seasons. They found that in winter — when pollution levels were two to three times higher — the types and amounts of bacteria in the children’s noses shifted dramatically.\nIn the colder months, kids had more of a bacteria called Moraxella , which can cause infections and crowd out other helpful bacteria. At the same time, the variety of nasal bacteria went down. A less diverse mix of bacteria may make it easier for harmful microbes to grow and infections to take hold. This shift happened fast — even within hours of high pollution exposure. Spring samples told a different story. The kids’ nasal microbiomes became more balanced and diverse, with more of a generally harmless bacteria called Staphylococcus .\nPhoto by Marco Aurélio Conde on Unsplash The study also looked at how different pollutants affected bacterial makeup. Black carbon, mainly from diesel engines, was linked to fewer types of bacteria in both seasons. Meanwhile, VOCs — like those from scented cleaning products — had more targeted effects. One compound, limonene, which gives citrus cleaners their smell, reduced helpful bacteria like Neisseriaceae and entire groups like Actinobacteriota . Another VOC, methyl tert-butyl ether, seemed to increase certain bacteria tied to airway inflammation.\nWhat’s interesting is that indoor air pollutants had a big effect, too. Kids exposed to secondhand smoke at home had about 15% less variety in their nasal bacteria, even when outdoor air quality was the same. That’s a sign that what happens inside the home is just as important as what’s in the air outside. Many families may not realize that using strong cleaning sprays, lighting scented candles, or burning wood indoors can fill the air with invisible irritants that quietly shift a child’s natural defenses.\nThe takeaway is that children’s nasal microbiomes — which help filter the air and protect against illness — are sensitive to short bursts of pollution. And those shifts may set the stage for colds, asthma flares, and other respiratory problems. Because kids spend more time indoors in the winter and breathe more polluted air, their nasal bacteria get thrown off balance. Warmer months and cleaner air help restore it.\nParents can take simple steps to reduce these effects. Using less toxic cleaning products, avoiding indoor smoking, and keeping homes well-ventilated can help. Choosing routes to school with less traffic and supporting clean-air policies near schools can also protect kids. While more research is needed, this study shows that everyday air pollution doesn’t just stop at the lungs — it starts changing a child’s nose, hours after exposure. And that could shape how often they get sick, especially during the colder months when air is at its dirtiest.\nSources: Air pollution reshapes children’s nasal microbiome and reduces diversity in winter\nShort-term personal exposure to multiple air pollutants affects nasal microbiota in school-age children",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Environment", "Social Issue"],
+  "topics": [
+    "Health->health care approach",
+    "Health->communicable disease",
+    "Health->medical condition",
+    "Environment->air pollution",
+    "Environment->environmental pollution",
+    "Social Issue->children",
+    "Social Issue->social problem",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.sciencedirect.com/science/article/pii/S004896972501229X",
+    "https://www.news-medical.net/news/20250507/Air-pollution-reshapes-childrene28099s-nasal-microbiome-and-reduces-diversity-in-winter.aspx",
+    "https://news-medical.net/news/20250507/Air-pollution-reshapes-childrene28099s-nasal-microbiome-and-reduces-diversity-in-winter.aspx",
+    "https://sciencedirect.com/science/article/pii/S004896972501229X"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:05:16.413+03:00",
+  "updated": "2025-05-08T07:18:50.695+03:00"
+}

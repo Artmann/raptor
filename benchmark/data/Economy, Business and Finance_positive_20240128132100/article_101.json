@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "911904806c75dfa0765cf1b8a7237818088746f9",
+    "url": "https://wonderfulengineering.com/scientist-are-now-transforming-cigarette-butts-into-diesel-fuel/",
+    "site_full": "wonderfulengineering.com",
+    "site": "wonderfulengineering.com",
+    "site_section": "http://wonderfulengineering.com/feed/",
+    "site_categories": ["media"],
+    "section_title": "Wonderful Engineering",
+    "title": "Scientist Are Now Transforming Cigarette Butts Into Diesel Fuel",
+    "title_full": "Scientist Are Now Transforming Cigarette Butts Into Diesel Fuel",
+    "published": "2023-12-28T19:23:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://wonderfulengineering.com/wp-content/uploads/2023/12/ezgif.com-webp-to-jpg-converter-8.jpg",
+    "performance_score": 0,
+    "domain_rank": 32757,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "911904806c75dfa0765cf1b8a7237818088746f9",
+  "url": "https://wonderfulengineering.com/scientist-are-now-transforming-cigarette-butts-into-diesel-fuel/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Taimur",
+  "published": "2023-12-28T19:23:00.000+02:00",
+  "title": "Scientist Are Now Transforming Cigarette Butts Into Diesel Fuel",
+  "text": "Lithuanian scientists from Kaunas University of Technology (KTU) and the Lithuanian Energy Institute (LEI) have introduced an innovative method to repurpose cigarette waste for biodiesel production, contributing to sustainable fuel alternatives. Biodiesel, derived from vegetable oils or animal fats, has gained attention due to its biodegradability and reduced toxicity compared to petroleum diesel. However, its high production costs and potential environmental impact from biomass sources have limited its widespread adoption. The researchers’ breakthrough involves utilizing triacetin, a key biodiesel production compound found abundantly in cigarette filters. By employing pyrolysis, a thermal decomposition process, the team successfully extracted valuable components from cigarette waste through experiments conducted at varying temperatures. The resulting products included oil, char, and gas, with the oil content being notably rich in triacetin. The environmental impact of cigarette waste is effectively addressed through this process, and the components extracted offer practical applications. The porous char, enriched with calcium, has potential uses in fertilizers, wastewater treatment, and energy storage. Additionally, the extracted gas can serve as an energy source, contributing to sustainable power generation. The most significant breakthrough lies in the oil extracted from cigarette waste, which is rich in triacetin. This oil can be integrated as an additive in biodiesel production, potentially reducing production costs and enhancing efficiency. Given that over 6.5 trillion cigarettes are purchased worldwide annually, the large volume of cigarette waste represents both a challenge and an opportunity. The scientists’ innovative approach provides a solution to repurpose this waste and suggests scalable implementation in waste management systems. The researchers emphasize their commitment to integrating this breakthrough into circular economy systems. They foresee promising avenues for utilizing cigarette waste further by envisioning a comprehensive strategy involving waste collection, recycling infrastructure, and a transformative approach to waste repurposing through pyrolysis treatment. This research marks a significant advancement in sustainable fuel production, offering a pioneering solution to address environmental concerns and exploring novel avenues in waste management. The potential for scalable implementation and the commitment to further exploration of cigarette waste utilization highlight the researchers’ dedication to paving the way for a more sustainable future.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Environment",
+    "Economy, Business and Finance"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "lithuanian energy institute",
+        "sentiment": "negative"
+      },
+      {
+        "name": "kaunas university of technology",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:10:23.149+02:00",
+  "updated": "2023-12-30T10:02:10.183+02:00"
+}

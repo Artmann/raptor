@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "524809578e2a75cd81d40e016e140061eac87e6e",
+    "url": "https://www.kptv.com/2025/05/08/oregon-officials-warn-extreme-fire-season-with-hot-dry-summer-forecast",
+    "site_full": "www.kptv.com",
+    "site": "kptv.com",
+    "site_section": "https://news.google.com/search?q=with%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "Home",
+    "title": "Oregon officials warn of extreme fire season with hot, dry summer forecast",
+    "title_full": "Oregon officials warn of extreme fire season with hot, dry summer forecast",
+    "published": "2025-05-08T04:57:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-kptv-prod.gtv-cdn.com/resizer/v2/6BP6E5WQ2RH55IWEQKT442KHQ4.png?auth=d140ec24ab6ff1012a18fc1e146a50aee74a4e79398f12ab3d07b9d41aaf4461&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 12070,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "524809578e2a75cd81d40e016e140061eac87e6e",
+  "url": "https://www.kptv.com/2025/05/08/oregon-officials-warn-extreme-fire-season-with-hot-dry-summer-forecast",
+  "ord_in_thread": 0,
+  "author": "Spencer Schacht",
+  "published": "2025-05-08T04:57:00.000+03:00",
+  "title": "Oregon officials warn of extreme fire season with hot, dry summer forecast",
+  "text": "SALEM Ore. (KPTV) - Get ready for another extreme fire season. That’s the message from Oregon’s top wildfire fighters on Wednesday during the 2025 Oregon Fire Season Outlook Briefing.\nLast year’s fire season brought unprecedented destruction, setting records for how many acres were burned. So this year, Governor Tina Kotek and state fire officials are gearing up for another brutal fire season.\nOn Wednesday, Governor Kotek signed a declaration making May “Wildfire Prevention Month,” saying now is the time for homeowners to work on creating a defensible space on their property.\n“Fire season is here, we are already hearing call-outs for leaf burns on private property that have gotten out of control. People need to understand fire season has begun,” Kotek said.\nSEE ALSO:\nMay 7 is the REAL ID deadline for those traveling within the United States. Since Oregon is expecting a hot and dry summer, the governor said people should also expect another extreme fire season. So right now, state agencies like the Oregon State Forestry’s Salem Fire Cache are taking the time now to prepare as much as possible for the summer.\nThe fire cache in Salem has nearly $5 million worth of supplies ready to roll out the second they get the call that a wildfire has started. These crews are able to set up a mobile firefighting city anywhere in the state within 24 hours of that first spark.\n“All of this equipment, over 2,000 pieces of equipment, are prepositioned across the state for initial attack,” Fire Cache manager David Allen said.\nBut before any of this equipment can be sent out to the fire lines, it has to be inspected and counted by Allen’s team.\n“The preseason starts with our checklist going through every piece of equipment,” Allen said. “We count every item down to the Band-Aids in the first aid kits.”\nAllen said that right now, the state is well-stocked and prepared to respond to any wildfires that ignite in Oregon. But in getting prepared, the hot and dry forecast was not the only concern on his mind.\n“We are preparing for tariffs. What I can tell you is 85% of these supplies were produced in Canada. Most of our fittings, like hoses, and engines, and pumps, are all produced in Canada and are subject to tariffs if that goes through,” Allen said.\nThe Salem Fire Cache purchased pretty much all of their supplies in the winter before the trade war started, but restocking will be more expensive if the tariffs are still in place by next fall.\nCopyright 2025 KPTV-KPDX. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Weather"],
+  "topics": [
+    "Environment->natural resources",
+    "Environment->climate change",
+    "Social Issue->social problem",
+    "Social Issue->social condition",
+    "Social Issue->communities",
+    "Weather->weather warning"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://d1l66zlxaqpl1u.cloudfront.net/wp-gray/kptv/20250508/681bf679aa40a524c1141c77/file_1920x1080-5400-v4/file_1280x720-2000-v3_1.mp4",
+    "https://www.d1l66zlxaqpl1u.cloudfront.net/wp-gray/kptv/20250508/681bf679aa40a524c1141c77/file_1920x1080-5400-v4/file_1280x720-2000-v3_1.mp4"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Tina Kotek",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Wildfire Prevention Month",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:02:32.601+03:00",
+  "updated": "2025-05-08T03:14:22.000+00:00"
+}

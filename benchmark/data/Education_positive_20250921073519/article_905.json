@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "3fe6955a6528c887cc5ef626aedfc92bfaa60e8d",
+    "url": "https://www.augsburger-allgemeine.de/guenzburg/guenzburg-die-kreativsten-schultueten-im-landkreis-so-begeistern-peter-finn-und-paul-110744911",
+    "site_full": "www.augsburger-allgemeine.de",
+    "site": "augsburger-allgemeine.de",
+    "site_section": "https://www.augsburger-allgemeine.de/guenzburg",
+    "site_categories": [
+      "media",
+      "job_search",
+      "jobs",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "Günzburg: News &amp; Nachrichten aktuell | Günzburger Zeitung",
+    "site_title": "Augsburger Allgemeine: Aktuelle Nachrichten und Hintergründe",
+    "title": "Die kreativsten Schultüten im Landkreis Günzburg: So begeistern Peter, Finn und Paul",
+    "title_full": "Die kreativsten Schultüten im Landkreis Günzburg: So begeistern Peter, Finn und Paul",
+    "published": "2025-09-18T08:08:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://images.mgpd.de/img/110745054/crop/c16_9-w1200/2081686356/112578853/foto-main-post-9449378.jpg",
+    "performance_score": 0,
+    "domain_rank": 11614,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3fe6955a6528c887cc5ef626aedfc92bfaa60e8d",
+  "url": "https://www.augsburger-allgemeine.de/guenzburg/guenzburg-die-kreativsten-schultueten-im-landkreis-so-begeistern-peter-finn-und-paul-110744911",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T08:08:00.000+03:00",
+  "title": "Die kreativsten Schultüten im Landkreis Günzburg: So begeistern Peter, Finn und Paul",
+  "text": "Es ist soweit, das neue Schuljahr hat wieder begonnen. Während sich ältere Schülerinnen und Schüler aus dem Bett quälen und sich müde für ein weiteres Jahr wappnen, beginnt für viele Kinder jetzt ein neuer Lebensabschnitt. Mit Schultüte in der Hand winken die Erstklässlerinnen und Erstklässler ihren Eltern zu. In den bunten Tüten stecken aber nicht nur Bleistift, Spitzer und Glücksbringer, sondern auch eine Menge an Kreativität, Handwerk und Liebe .\nWir wollten von unseren Leserinnen und Lesern wissen, welcher Abc-Schütze oder welche Abc-Schützin die schönste Schultüte im Landkreis ha t. Dabei haben uns allerlei Kunstwerke erreicht – allesamt geklebt, genäht, lange geplant und aufwändig gebastelt. Drei Buben aus dem Landkreis starten, zumindest nach den Zahlen unseres Votings, als Gewinner in den „Ernst des Lebens“.\nPeters Pokémon-Schultüte überzeugt im Landkreis als schönste Schultüte Mit einem Viertel der Stimmen gewinnt Peters Schultüte unser landkreisweites Voting. Er hat seine Schultüte mit seiner Oma Evi Schiefele gebastelt. Er hatte laut seiner Mama nämlich genaue Vorstellungen, wie alles am Ende aussehen sollte und in welchen Farben und Materialien seine Pokémon-Schultüte gebastelt werden muss – und die Leserinnen und Leser geben ihm mit dem ersten Platz die Bestätigung: Damit hat er alles richtig gemacht.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->primary education",
+    "Education->school",
+    "Education->students",
+    "Social Issue->children",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Evi Schiefele",
+        "sentiment": "none"
+      },
+      {
+        "name": "Peters",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:15:39.914+03:00",
+  "updated": "2025-09-19T10:05:04.000+03:00"
+}

@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "bd1de759c09eab56123a634658a0f7bbfa5e262b",
+    "url": "https://www.cbsnews.com/sanfrancisco/news/sonoma-state-financial-woes-state-budget-45m",
+    "site_full": "www.cbsnews.com",
+    "site": "cbsnews.com",
+    "site_section": "https://www.cbsnews.com/sanfrancisco/latest/rss/main",
+    "site_categories": [
+      "media",
+      "television",
+      "entertainment",
+      "top_news_ca",
+      "top_news_ph",
+      "top_news_iq",
+      "top_news_nz",
+      "top_news_au",
+      "top_news_us",
+      "top_news_za",
+      "top_news_sg",
+      "top_news_kw",
+      "top_news"
+    ],
+    "section_title": "Home - CBS Bay Area",
+    "site_title": "CBS News | Breaking news, top stories &amp; today's latest headlines",
+    "title": "Sonoma State slashed programs, athletics. Now, it's getting $45M from state budget - CBS San Francisco",
+    "title_full": "Sonoma State slashed programs, athletics. Now, it's getting $45M from state budget - CBS San Francisco",
+    "published": "2025-06-26T08:59:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/06/26/6ccab035-2d21-42c3-92d2-32783122cf67/thumbnail/1200x630/26c16495bc2386171d185f12d2fd360b/sonoma-state.jpg",
+    "performance_score": 0,
+    "domain_rank": 216,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bd1de759c09eab56123a634658a0f7bbfa5e262b",
+  "url": "https://www.cbsnews.com/sanfrancisco/news/sonoma-state-financial-woes-state-budget-45m",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T08:59:00.000+03:00",
+  "title": "Sonoma State slashed programs, athletics. Now, it's getting $45M from state budget - CBS San Francisco",
+  "text": "Sonoma State University faced major pushback from students when it decided to slash its entire athletics department and cut several degree programs to address a $24 million budget deficit. Now, it will be getting $45 million as a one-time infusion from the state budget.\n\"I just finished my 22nd year,\" said Sonoma State's golf coach, Val Verhunce.\n\"This could be a good putt or a bad putt. We don't know,\" he said as he lines up a putt.\nVerhunce is a longtime employee who believes deeply in the mission of the university, which is why he's fighting so hard to save it along with the athletics program.\n\"If the coaches are involved, myself and others in particular, we won't fail. We'll win,\" he said.\nHe thinks recruiting student athletes is a big part of increasing enrollment, which is why continuing to fund sports programs is vital to the university's future.\n\"We've been a stable kind of environment for the university for years. Anywhere from 250 to 350 athletes. On top of it we have another couple hundred kids that actually attend the school hoping to make the teams,\" said Verhunce.\nBut late Wednesday afternoon, the university sent out an email to staff saying NCAA athletics will not be reinstated for the 2025-2026 school year. It's a huge blow to the coaches who've been the vocal leaders of this effort.\n\"The golf team in particular, we have zero players left in our golf program. Everyone has moved on, both men and women, and I know it's the same in all the other sports,\" said Verhunce.\nEnrollment at SSU is down almost 40% over the past 10 years and combined with increase costs to just operate the university. Administrators said they were forced to make cuts to balance the budget.\nThe one-time $45 million infusion of cash is going to be used to boost a number of programs including $16 million to expand the nursing program, $5 million for a data science center, another $5 million for a career center, $9 million to restore funding for programs already cut, and $8 million for athletics over the next 3 years.\nIn addition to athletics programs being cut, many students say the possibility of their degree programs being cut led them to transfer, creating even more enrollment issues.\nFor those who are almost finished with their degrees, like Matthew Cruz, he said he's optimistic that with additional funding, he'll be able to finish his program.\n\"I'm going to stay here. I think I have two more years. See how that goes, but I feel alright,\" said Cruz.\nFor Verhunce, he said he is not giving up the fight and said he'll take a year off and hopes to come back to coach the golf program a year from now.\n\"We'll put Sonoma State back on the map and recreate the brand and let people know how wonderful our place is here. Just give us a chance and we'll succeed,\" he said.\nIn the email to employees, Sonoma State administrators said they are going to create a working group to make recommendations on the future of the athletics program and hope to have a plan by January of 2026.\nMore from CBS News Tamalpais HS community rallies again to bring back student support program Vallejo City Unified School District exiting state receivership 20 years after financial crisis California stabbing suspect allegedly planned to kill several of his radio station coworkers, police say SF Pride Parade and Pride Celebration road closures. Here's what to know Multi-vehicle crash in San Francisco injures 2 Sonoma County Katie Nielsen Katie Nielsen is an award-winning reporter who has spent more than 10 years sharing people's stories. She joined KPIX in the summer of 2017, and just a few months later, found herself covering the Wine Country Wildfires.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education", "Economy, Business and Finance", "Social Issue"],
+  "topics": [
+    "Education->college and university",
+    "Education->educational grading",
+    "Education->students",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->human resources",
+    "Social Issue->social condition",
+    "Social Issue->social services",
+    "Social Issue->fraternal and community group"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Val Verhunce",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Sonoma State University",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "bd1de759c09eab56123a634658a0f7bbfa5e262b",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [
+      "top_news_ca",
+      "top_news_ph",
+      "top_news_iq",
+      "top_news_nz",
+      "top_news_au",
+      "top_news_us",
+      "top_news_za",
+      "top_news_sg",
+      "top_news_kw",
+      "top_news"
+    ],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T09:04:00.648+03:00",
+  "updated": "2025-06-27T06:11:49.000+00:00"
+}

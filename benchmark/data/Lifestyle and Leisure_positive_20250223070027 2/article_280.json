@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "2741e5aaedd434d3915a0be4ed70882db74764b8",
+    "url": "https://www.tuttomercatoweb.com/calcio-estero/marquinhos-elogia-donnarumma-da-anni-e-un-grande-portiere-per-il-psg-fa-la-differenza-2060690",
+    "site_full": "www.tuttomercatoweb.com",
+    "site": "tuttomercatoweb.com",
+    "site_section": "https://tuttomercatoweb.com/ricerca",
+    "site_categories": ["world_soccer", "sports"],
+    "section_title": "Ricerca",
+    "title": "Marquinhos elogia Donnarumma: ",
+    "title_full": "Marquinhos elogia Donnarumma: ",
+    "published": "2025-01-23T23:56:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://tmw-storage.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/8d/8d4c70deeda8ebab348dbe214f8f44c0-50146-oooz0000.jpeg",
+    "performance_score": 0,
+    "domain_rank": 26215,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2741e5aaedd434d3915a0be4ed70882db74764b8",
+  "url": "https://www.tuttomercatoweb.com/calcio-estero/marquinhos-elogia-donnarumma-da-anni-e-un-grande-portiere-per-il-psg-fa-la-differenza-2060690",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Yvonne Alessandro",
+  "published": "2025-01-23T23:56:00.000+02:00",
+  "title": "Marquinhos elogia Donnarumma: ",
+  "text": "Marquinhos elogia Donnarumma: \"Da anni è un grande portiere per il PSG, fa la differenza\"\nDopo la rimonta strepitosa del PSG contro il Manchester City (da 0-2 a 4-2), il capitano dei parigini Marquinhos ha parlato ai microfoni di Sky Sport per commentare anche la partita strepitosa di Gigio Donnarumma. Estremo difensore del Paris, in scadenza nel 2026 e dal futuro ancora da stabilire: \"Quanto rimarrà al PSG Donnarumma? Gli ho detto ogni volta che usciva e che faceva una parata: 'Così ti voglio'. È un portiere che ha mostrato già che ha una potenzialità, una qualità, che anche se è grande è veloce, che poi ha questa forza. Poi sulle uscite... Lui penso che negli ultimi anni è sempre migliorato, facendo vedere che è un grande portiere per noi\", ha esordito il difensore brasiliano.\nProseguendo: \"È un portiere che fa la differenza, l'abbiamo visto tante volte. Oggi (ieri, ndr) è stata una bella partita, ha fatto una grande partita. È un grande amico che ho da tanti anni che siamo insieme, un grande ragazzo, una brava persona. Un professionista, è sempre stato bravissimo, voglio sempre il meglio di queste persone così, di questi giocatori così. È stato grande oggi (ieri, ndr), ha fatto molto la differenza per noi e mi aspetto che faccia ancora altre belle partite così\".",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->sport event",
+    "Sport->sport achievement",
+    "Sport->soccer",
+    "Human Interest->celebrity",
+    "Lifestyle and Leisure->game",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Gigio Donnarumma",
+        "sentiment": "none"
+      },
+      {
+        "name": "Marquinhos",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "PSG",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Manchester City",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sky Sport",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:11:30.229+02:00",
+  "updated": "2025-01-24T00:11:30.229+02:00"
+}

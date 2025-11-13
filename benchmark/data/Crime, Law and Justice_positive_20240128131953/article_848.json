@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "f846b84a8b554825f03a2e4c5f055b2d7959577b",
+    "url": "https://www.mactrast.com/2023/12/airtag-helps-florida-family-find-stolen-luggage-and-thief-in-north-carolina/",
+    "site_full": "www.mactrast.com",
+    "site": "mactrast.com",
+    "site_section": "https://www.mactrast.com/feed/",
+    "site_categories": ["mac_support", "tech"],
+    "section_title": "MacTrast",
+    "title": "AirTag Helps Florida Family Find Stolen Luggage and Thief in North Carolina",
+    "title_full": "AirTag Helps Florida Family Find Stolen Luggage and Thief in North Carolina",
+    "published": "2023-12-30T01:17:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.mactrast.com/wp-content/uploads/2018/04/cropped-icon-2.jpg",
+    "performance_score": 0,
+    "domain_rank": 89965,
+    "domain_rank_updated": "2023-12-26T12:06:35.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f846b84a8b554825f03a2e4c5f055b2d7959577b",
+  "url": "https://www.mactrast.com/2023/12/airtag-helps-florida-family-find-stolen-luggage-and-thief-in-north-carolina/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Chris Hauk",
+  "published": "2023-12-30T01:17:00.000+02:00",
+  "title": "AirTag Helps Florida Family Find Stolen Luggage and Thief in North Carolina",
+  "text": "Apple’s\nAirTag item tracker has once again helped a user find stolen items. A vacationing Florida family used an AirTag hidden in a stolen suitcase to find the luggage and the thief.\nAs reported by\nQueen City News, the Gavino family “turned their vacation to the North Carolina mountains into a sleuth mission to find their stolen luggage.”\nWhen the Gavino family landed at Charlotte Douglas International Airport last week they were unable to locate one of their bags at baggage claim. Luckily, a member of the family, Catherine Gavino, had stashed an AirTag inside the luggage.\nUsing the Find My app, which displayed the location data from the AirTag, Gavino was eventually able to track the AirTag to a house in Gastonia, North Carolina. Once she arrived at the house in question she called the police once.\nShe contacted the police who arrived and notified the homeowners of the situation. Inside, they found the family’s suitcase and the suitcase of another victim whose luggage was also stolen from the airport.\nCatherine told Queen City News that Gastonia Police informed her that “someone else called with the same issue. And they had an AirTag.”\nUnfortunately, “there was not much left inside the suitcase” when it was recovered. However, the suspect was arrested and charged with multiple theft crimes.\n“Police believe they may have sold the clothes for money, who knows,” Catherine explained. “These are my parents, coming to the mountains for a North Carolina view, so for this to happen made me sad, which was all the more reason to go after them…I wouldn’t have found them without this AirTag.”\nThis is just the latest incident where an Apple AirTag has been used to track a lost or stolen item.\nIn July, a Myrtle Beach thief who had hit a string of bars and restaurants, breaking into safes and stealing cash, was\nfoiled by a stuffed bear that was carrying a little something extra, an Apple AirTag.\nIn September, a Canadian man\nfoiled a European theft ring, after he tracked his stolen MacBook and bag, thanks to an AirTag he’d hidden in the bag and the Find My app on his iPhone. In November, a Canadian man’s BMW was quickly recovered after it was stolen, thanks to a hidden Apple AirTag.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Crime, Law and Justice"],
+  "external_links": [
+    "https://www.qcnews.com/news/u-s/north-carolina/gaston-county/i-wanted-justice-airtags-used-to-track-stolen-luggage-from-charlotte-airport-to-suspects-home/",
+    "https://www.qcnews.com/news/u-s/north-carolina/gaston-county/i-wanted-justice-airtags-used-to-track-stolen-luggage-from-charlotte-airport-to-suspects-home",
+    "https://qcnews.com/news/u-s/north-carolina/gaston-county/i-wanted-justice-airtags-used-to-track-stolen-luggage-from-charlotte-airport-to-suspects-home/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "gavino",
+        "sentiment": "none"
+      },
+      {
+        "name": "catherine",
+        "sentiment": "none"
+      },
+      {
+        "name": "catherine gavino",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "queen city news",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "north carolina",
+        "sentiment": "none"
+      },
+      {
+        "name": "florida",
+        "sentiment": "none"
+      },
+      {
+        "name": "gastonia",
+        "sentiment": "none"
+      },
+      {
+        "name": "gastonia police",
+        "sentiment": "none"
+      },
+      {
+        "name": "charlotte douglas international airport",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-30T01:23:09.672+02:00",
+  "updated": "2023-12-30T01:23:09.672+02:00"
+}

@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "39866dd2d7ea88daf6c73c83e1bdd8b1735e98b9",
+    "url": "https://www.townofleland.com/news/leland-awarded-443000-grant-sturgeon-creek-park-boardwalk-and-dock",
+    "site_full": "www.townofleland.com",
+    "site": "townofleland.com",
+    "site_section": "https://townofleland.com",
+    "site_categories": [],
+    "section_title": "Town of Leland, NC",
+    "site_title": "Town of Leland, NC",
+    "title": "Leland Awarded $443,000 Grant for Sturgeon Creek Park Boardwalk and Dock | Town of Leland, NC",
+    "title_full": "Leland Awarded $443,000 Grant for Sturgeon Creek Park Boardwalk and Dock | Town of Leland, NC",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.townofleland.com/sites/default/files/uploads/town-of-leland-logo.png",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "39866dd2d7ea88daf6c73c83e1bdd8b1735e98b9",
+  "url": "https://www.townofleland.com/news/leland-awarded-443000-grant-sturgeon-creek-park-boardwalk-and-dock",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "Leland Awarded $443,000 Grant for Sturgeon Creek Park Boardwalk and Dock | Town of Leland, NC",
+  "text": "The Town of Leland has received a $443,108 grant from the North Carolina Parks and Recreation Trust Fund (PARTF) to build a public boat dock and boardwalk at the future Sturgeon Creek Park.\nThe project builds on goals outlined in the current Sturgeon Creek Park Master Plan by expanding recreational opportunities while protecting the sensitive marsh ecosystem. An Americans with Disabilities Act-compliant boardwalk will guide visitors to the boat dock, reduce foot traffic in fragile areas, safeguard wildlife habitats, and ensure people of all abilities can enjoy the waterways and scenic views.\nSturgeon Creek Park will span 78 acres, divided by South Navassa Road, and provide greater access to outdoor activities such as boating, fishing, and wildlife observation. These additions align with the Town’s 2030 Strategic Plan, which calls for increasing public water access and expanding recreational opportunities.\nThe PARTF grant is a matching program, requiring the Town to contribute 50% of the total project cost. Since its inception, PARTF has supported over 900 projects statewide, providing more than $235 million to help local governments expand parks, improve public access, and enhance quality of life in their communities. This year, PARTF awarded more than $8.7 million in grants to support 22 local parks and recreation projects across the state.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->parks"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.ncparks.gov/about-us/grants/parks-and-recreation-trust-fund#HowdoesthePRAselectgrantrecipients-4026",
+    "https://indd.adobe.com/view/54efe372-4295-4f5c-be3c-988c69d0d52e",
+    "https://ncparks.gov/about-us/grants/parks-and-recreation-trust-fund#HowdoesthePRAselectgrantrecipients-4026",
+    "https://www.indd.adobe.com/view/54efe372-4295-4f5c-be3c-988c69d0d52e"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Sturgeon Creek Park",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "North Carolina Parks and Recreation Trust",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Leland"],
+      "state": ["North Carolina"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:31:20.453+03:00",
+  "updated": "2025-10-16T16:42:04.000+03:00"
+}

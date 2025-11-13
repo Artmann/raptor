@@ -1,0 +1,126 @@
+{
+  "thread": {
+    "uuid": "00f974851b97050dfac1189d059f30e4818fbd7b",
+    "url": "https://warwickonline.com/stories/town-fair-tire-gives-5000-in-scholarships,308062",
+    "site_full": "warwickonline.com",
+    "site": "warwickonline.com",
+    "site_section": "https://warwickonline.com/stories",
+    "site_categories": ["media"],
+    "section_title": "Stories | Warwick Beacon",
+    "site_title": "Home | Warwick Beacon",
+    "title": "Town Fair Tire gives $5,000 in scholarships",
+    "title_full": "Town Fair Tire gives $5,000 in scholarships",
+    "published": "2025-09-17T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://beta.creativecirclecdn.com/warwick/original/20250917-154252-dbc-WB%20SA%20town%20fair%20scholarship.jpg",
+    "performance_score": 0,
+    "domain_rank": 616044,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "00f974851b97050dfac1189d059f30e4818fbd7b",
+  "url": "https://warwickonline.com/stories/town-fair-tire-gives-5000-in-scholarships,308062",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-17T03:00:00.000+03:00",
+  "title": "Town Fair Tire gives $5,000 in scholarships",
+  "text": "Town Fair Tire recently awarded five $1,000 scholarships to Warwick Area Career & Technical Center students recommended by their instructors. Pictured, from left, are Tim Kane, WACTC director, …\nTown Fair Tire recently awarded five $1,000 scholarships to Warwick Area Career & Technical Center students recommended by their instructors. Pictured, from left, are Tim Kane, WACTC director, with scholarship recipients Kason Wirtz (Construction Trades), Aeryz Sebastian (Automotive Technology), Ethan Kazarian (Electricity), Isabelle Menard (Culinary Arts) Tara MacGregor (Marine Trades), and also Gene Kelly, department head and internship coordinator. The scholarships are to be used for college, further training, tools, etc. Submitted photo\nNo comments on this item\nPlease log in to comment by clicking here",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest"],
+  "topics": [
+    "Education->students",
+    "Education->vocational education",
+    "Education->college and university",
+    "Human Interest->award and prize"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://cranstononline.com/login.html?referer=%2Fstories%2Ftown-fair-tire-gives-5000-in-scholarships%2C308062",
+    "https://www.cranstononline.com/login.html?referer=%2Fstories%2Ftown-fair-tire-gives-5000-in-scholarships%2C308062",
+    "https://cranstononline.com/login.html"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Isabelle Menard",
+        "sentiment": "none"
+      },
+      {
+        "name": "Aeryz Sebastian",
+        "sentiment": "none"
+      },
+      {
+        "name": "Tara MacGregor",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ethan Kazarian",
+        "sentiment": "none"
+      },
+      {
+        "name": "Kason Wirtz",
+        "sentiment": "none"
+      },
+      {
+        "name": "Gene Kelly",
+        "sentiment": "none"
+      },
+      {
+        "name": "Tim Kane",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Warwick Area Career & Technical Center",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "00f974851b97050dfac1189d059f30e4818fbd7b",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Warwick"],
+      "state": ["Rhode Island"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:20:35.349+03:00",
+  "updated": "2025-09-18T09:24:30.000+03:00"
+}

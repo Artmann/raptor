@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "284b03b3d6d256101d827be46bed83b731ab6763",
+    "url": "https://www.foxnews.com/us/california-boy-4-found-safe-vanishing-campground-spending-night-wilderness",
+    "site_full": "www.foxnews.com",
+    "site": "foxnews.com",
+    "site_section": "http://feeds.foxnews.com/foxnews/latest?format=xml",
+    "site_categories": ["media", "top_news"],
+    "section_title": "Latest &amp; Breaking News on Fox News",
+    "title": "California boy, 4, is found safe after vanishing from campground, spending night in wilderness | Fox News",
+    "title_full": "California boy, 4, is found safe after vanishing from campground, spending night in wilderness | Fox News",
+    "published": "2024-06-24T17:40:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/Christian-Ramirez-rescue.png",
+    "performance_score": 0,
+    "domain_rank": 301,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 41,
+        "comments": 1,
+        "shares": 3
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "284b03b3d6d256101d827be46bed83b731ab6763",
+  "url": "https://www.foxnews.com/us/california-boy-4-found-safe-vanishing-campground-spending-night-wilderness",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Greg Norman",
+  "published": "2024-06-24T17:40:00.000+03:00",
+  "title": "California boy, 4, is found safe after vanishing from campground, spending night in wilderness | Fox News",
+  "text": "A 4-year-old California boy who vanished from a campground in the Fresno area has been found safe after spending 22 hours in the wilderness, police say. The Fresno County Sheriff’s Office has released a video showing Christian Ramirez being brought to safety by the Tulare County Search and Rescue Team following his disappearance last Thursday from the Rancheria Campground near Huntington Lake. \"We're going to get you back to your family,\" one rescuer is heard telling the child while carrying him through the woods. Authorities say Ramirez was reported missing from the campground shortly before 11 a.m. Thursday and was discovered on Friday around 8 a.m. local time. HIKER LOST FOR 10 DAYS FOUND ALIVE IN NORTHERN CALIFORNIA MOUNTAINS Christian Ramirez is found safe by a search and rescue team near Huntington Lake, California, on Friday, June 21. (Fresno County Sheriff's Office) \"He was about a quarter mile away from where he reportedly disappeared,\" the Fresno County Sheriff’s Office said in a statement. \"Christian is in good condition, he was just tired and hungry. He has been reunited with his parents.\" LOYAL DOG SAVES CAMPER’S LIFE AFTER RUNNING MILES FOR HELP Christian Ramirez spent 22 hours in the wilderness before he was found, the Fresno County Sheriff's Office says. (Fresno County Sheriff's Office) The sheriff’s office said the search to find Ramirez was an \"amazing show of teamwork and dedication.\" \"There were more than 50 deputies and volunteers who combined to participate in this search,\" it added. \"This included members of other law enforcement agencies who assisted us, working non-stop throughout the night.\" Christian Ramirez is seen reunited with his family. (Fresno County Sheriff's Office) CLICK HERE TO GET THE FOX NEWS APP Further details about the nature of Ramirez’s disappearance were not immediately available.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Social Issue", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "christian ramirez",
+        "sentiment": "none"
+      },
+      {
+        "name": "ramirez",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "fox news",
+        "sentiment": "negative"
+      },
+      {
+        "name": "fresno county sheriff’s office",
+        "sentiment": "none"
+      },
+      {
+        "name": "fresno county sheriff's office",
+        "sentiment": "none"
+      },
+      {
+        "name": "tulare county search and rescue team",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "fresno",
+        "sentiment": "none"
+      },
+      {
+        "name": "california",
+        "sentiment": "none"
+      },
+      {
+        "name": "huntington lake",
+        "sentiment": "none"
+      },
+      {
+        "name": "rancheria campground",
+        "sentiment": "none"
+      },
+      {
+        "name": "california",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-24T18:19:21.327+03:00",
+  "updated": "2024-06-24T20:58:22.362+03:00"
+}

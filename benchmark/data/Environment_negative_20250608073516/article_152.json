@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "46feecd24e986de0acbd55547197b07c274fc493",
+    "url": "https://www.theepochtimes.com/world/energy-ceos-call-for-carney-to-scrap-emissions-cap-industrial-carbon-tax-5854044",
+    "site_full": "www.theepochtimes.com",
+    "site": "theepochtimes.com",
+    "site_section": "https://theepochtimes.com/world",
+    "site_categories": ["media", "top_news_us", "top_news"],
+    "section_title": "World news | Breaking international news | The Epoch Times",
+    "site_title": "The Epoch Times | Breaking News, Latest News, World News and Videos",
+    "title": "Energy CEOs Call for Carney to Scrap Emissions Cap, Industrial Carbon Tax",
+    "title_full": "Energy CEOs Call for Carney to Scrap Emissions Cap, Industrial Carbon Tax",
+    "published": "2025-05-08T01:15:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.theepochtimes.com/assets/uploads/2020/10/29/2020-10-29T182118Z_2_LYNXMPEG9S0UR_RTROPTP_4_HUSKY-ENERGY-M-A-CENOVUS-ENERGY-JOBS-700x420.jpg",
+    "performance_score": 0,
+    "domain_rank": 1573,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "46feecd24e986de0acbd55547197b07c274fc493",
+  "url": "https://www.theepochtimes.com/world/energy-ceos-call-for-carney-to-scrap-emissions-cap-industrial-carbon-tax-5854044",
+  "ord_in_thread": 0,
+  "author": "Matthew Horwood",
+  "published": "2025-05-08T01:15:00.000+03:00",
+  "title": "Energy CEOs Call for Carney to Scrap Emissions Cap, Industrial Carbon Tax",
+  "text": "Canada’s top energy CEOs have penned an\nopen letterto Prime Minister Mark Carney, asking him to get rid of the emissions cap on oil and gas producers and repeal industrial carbon pricing in order to build Canada’s economy.The leaders of 38 companies said in their April 30 letter that the country’s oil and gas sector would create jobs and increase tax revenue for government, but it must be allowed to grow. They said there has been a lack of investment in Canada’s energy infrastructure when compared to the United States.\n“As a major contributor to the Canadian economy, with significant untapped potential, the energy sector must play a pivotal role in your pursuit of this ambition,” the letter says, referring to Carney’s goal of building the fastest-growing economy in the G7.\nThe CEOs request that the federal government revise the Impact Assessment Act and the oil tanker ban on B.C.’s north coast, and streamline regulatory processes that are “complex, unpredictable, subjective, and excessively long.”\nThe CEOs also ask for a reduction in regulatory timelines to allow approval of major projects within six months of application, calling the Liberal government’s proposed two-year timeframe for reviewing nationally significant projects “a positive step, but insufficient.”\nThe letter said Ottawa’s emissions cap for the sector should be eliminated, as it creates investor uncertainty and will result in limited growth and production cuts in the sector. The Liberal government announced a cap-and-trade scheme in 2023 to achieve net-zero emissions by 2050.\nThe federal government’s industrial carbon tax is also “not globally cost competitive” and should be repealed to allow provincial governments to set their own regulations, according to the CEOs. “The current federal price and stringency trajectory results in uncompetitive costs compared to those we compete with to deliver our products to market,” they wrote.\nPrime Minister Mark Carney got rid of the consumer carbon tax when he became leader in March. But Carney has pledged to replace it with a new system rewarding Canadians for making lower-emission choices like buying electric vehicles and energy-efficient appliances, and will\ndevelopa new “consumer carbon credit market” and make “big polluters pay” for this system.Additionally, the letter calls for the provision of loan guarantees for indigenous communities to ensure they benefit from the development. It said the doubling of the Indigenous Loan Guarantee Program to $10 billion is a good step, but will only be effective if “Canada fosters a competitive investment environment.”\nCarney has been ambiguous in recent months about whether his government would support building new pipelines across Canada. Carney said during an interview in April that the government would need to “choose a few projects, a few big projects, not necessarily pipelines, but maybe pipelines, we'll see,” and an April 9\npress releasesaid his government would be focused on building “an East-West electricity grid.”Alberta Premier Danielle Smith said on April 14 that Carney’s position on building pipelines had been the “exact opposite” of what he had said when he visited Alberta a few weeks ago. During an",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Politics", "Economy, Business and Finance"],
+  "topics": [
+    "Environment->environmental pollution",
+    "Environment->sustainability",
+    "Environment->energy resources",
+    "Politics->government policy",
+    "Politics->economic policy",
+    "Economy, Business and Finance->energy and resource",
+    "Economy, Business and Finance->business governance"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://pathwaysalliance.ca/news/build-canada-now-an-open-letter-to-the-prime-minister-of-canada/",
+    "https://liberal.ca/mark-carneys-liberals-to-make-canada-the-worlds-leading-energy-superpower/",
+    "https://liberal.ca/mark-carneys-liberals-to-make-canada-the-worlds-leading-energy-superpower",
+    "https://www.pathwaysalliance.ca/news/build-canada-now-an-open-letter-to-the-prime-minister-of-canada/",
+    "https://www.liberal.ca/mark-carneys-liberals-to-make-canada-the-worlds-leading-energy-superpower/",
+    "https://pathwaysalliance.ca/news/build-canada-now-an-open-letter-to-the-prime-minister-of-canada"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mark Carney",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Industrial Carbon Tax Canada",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:25:53.973+03:00",
+  "updated": "2025-05-07T23:31:52.000+00:00"
+}

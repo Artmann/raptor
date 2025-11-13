@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "74118a81982b4763804e93f3a5a9cc02bf7f0522",
+    "url": "https://www.theborneopost.com/2025/10/16/sm-all-saints-team-takes-spotlight-in-shell-nxplorers-sabah-challenge/",
+    "site_full": "www.theborneopost.com",
+    "site": "theborneopost.com",
+    "site_section": "https://www.theborneopost.com/news/sabah",
+    "site_categories": ["media", "top_news_my", "top_news"],
+    "section_title": "Sabah | Borneo Post Online",
+    "site_title": "Borneo Post Online | Largest English Daily In Borneo",
+    "title": "SM All Saints' team takes spotlight in Shell NXplorers Sabah Challenge | Borneo Post Online",
+    "title_full": "SM All Saints' team takes spotlight in Shell NXplorers Sabah Challenge | Borneo Post Online",
+    "published": "2025-10-16T13:05:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://www.theborneopost.com/newsimages/2025/10/saints-1.jpg",
+    "performance_score": 0,
+    "domain_rank": 41392,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 18,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "74118a81982b4763804e93f3a5a9cc02bf7f0522",
+  "url": "https://www.theborneopost.com/2025/10/16/sm-all-saints-team-takes-spotlight-in-shell-nxplorers-sabah-challenge/",
+  "ord_in_thread": 0,
+  "author": "Mariah Doksil",
+  "published": "2025-10-16T13:05:00.000+03:00",
+  "title": "SM All Saints' team takes spotlight in Shell NXplorers Sabah Challenge | Borneo Post Online",
+  "text": "KOTA KINABALU (Oct 16): SM All Saints’ Luminaries soared to victory as state champions in the Shell NXplorers Malaysia 2025 Sabah Challenge at Plaza Shell today.\nThis is a STEM-driven initiative by Shell that empowers students to develop sustainable solutions that addresses real-world challenges in the food-water-energy nexus with bold, innovative thinking.\nSM Sung Siew’s Triangle impressed with their strong showing, earning the first runner-up spot in this exciting state-level competition.\nBoth teams will represent Sabah at the national Shell NXplorers Malaysia challenge, which will take place next month.\n“It’s truly enriching to watch our young minds come alive with ideas that matter. Their creativity and teamwork show us what’s possible when students are given the space to think boldly and work together. At Shell, we’re deeply committed to nurturing our Sabahan youth by equipping them with the skills and mindset needed to solve complex challenges and lead the way towards a more sustainable future,” expressed Wong Kim Mun, General Manager, Sabah Shell Petroleum Company Limited (SSPC).\nThe champion team comprising Clarissa Ruth Manji, Olivia Lee Ya Chen and Enzo Armadini Rezare Rousallini Bin Abdullah invented Lookcar. This is a child safety system that prevents children from being left unattended for too long in vehicles.\nUsing PIR and human presence sensors, it detects movement inside the car. The system immediately triggers a buzzer and sends alerts to parents via Telegram. If no action is taken, LookCar escalates by transmitting the car’s GPS location to firefighters through GSM. Compact and placed between car windows, it acts a safeguard against preventable tragedies.\n“Being named state champion is an incredible honour and we’re grateful to Shell for giving us the chance to grow, not just in knowledge but in how we think, solve problems, and work as a team. This experience has shown us the power of collaboration and creativity in addressing the sustainability challenges that matter most. We’re excited to take on the national challenge and hope to make our school and state proud,” shared the excited members of Luminaries.\nThe first runner-up team Triangle from SM Sung Siew comprising Ivan Lam Jun Yin, Alan Romeo Roy Joseph Boguli and Izz Iqbal Rizqin Bin Mohd Shamsul came up with Laser Shield, a solar-powered home security system that uses lasers, mirrors and LDR sensors to detect intrusions.\nControlled by an ESP32 microcontroller, it triggers a buzzer and sends instant Telegram alerts to homeowners, ensuring reliable, eco-friendly and real-time protection against unauthorised house break-ins.\nMeanwhile, the Most Innovative Award went to Plecasso from SMK Tamparuli for their invention, PortaLab.\nThis is an innovative and portable solution to provide a safe learning space when the school laboratory is unsafe to use.\nThe Mobile Chemical Box consists of an Arduino based gas and temperature sensor, an automatic ventilation system with exhaust and intake fans, a cooling fan, eco-friendly materials, and a real-time display to ensure secure chemical storage and mobility for students and teachers in SMK Tamparuli.\nThis year, eight schools competed in Shell NXplorers Malaysia’s Sabah challenge. The participating schools are inclusive of SM St Peter Telipok, SM All Saints, SMK SANZAC, SMK Tamparuli, SMK Pekan Telipok, SM St Michael, SMK Petagas and SM Sung Siew.\nThe judges for the day were Samantha Soong, Director Legal & Commercial, SMJ Sdn. Bhd.; Vivienne Imee Samuil, Assistant Director, Learning Sector, Sabah State Education Department and Wong Kim Mun, General Manager, (SSPC). Also in attendance was Cindy Lopez, General Manager of Corporate Relations, Shell Malaysia.\nWith the backing of the Ministry of Education, Shell NXplorers Malaysia engaged over 318 secondary school students from 29 schools nationwide. These students had the exciting opportunity to dive into hands-on STEM learning, with a strong emphasis on technology.\nIn Sabah alone, 111 students were selected, and a peer-to-peer sharing initiative was introduced to spread knowledge across a wider community of around 1,000 students from all participating schools.\nShell NXplorers is a dynamic global education initiative that empowers young minds to tackle the complex challenges of today’s world. By equipping them with essential tools, methodologies and skills, we inspire the next generation to become agents of change. Through collaboration, innovation, and interdisciplinary approaches, they learn to solve real-world problems and make a meaningful impact.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->sustainability"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Wong Kim Mun",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Sabah Shell Petroleum Company Limited",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_my", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:31:58.423+03:00",
+  "updated": "2025-10-17T14:15:22.000+03:00"
+}

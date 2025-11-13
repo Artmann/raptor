@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "823ccdf24eb84c76ff3575e282c7864c87e7b55a",
+    "url": "https://www.tlz.de/lokales/unstrut-hainich-kreis/article409342977/muehlhausen-lehrer-urgestein-mit-ganz-viel-seele-nimmt-abschied.html",
+    "site_full": "www.tlz.de",
+    "site": "tlz.de",
+    "site_section": "http://www.tlz.de/newsticker",
+    "site_categories": ["media"],
+    "section_title": "Thüringische Landeszeitung | Thüringische Landeszeitung",
+    "site_title": "Thüringische Landeszeitung",
+    "title": "Mühlhausen: Lehrer-Urgestein mit ganz viel Seele nimmt Abschied",
+    "title_full": "Mühlhausen: Lehrer-Urgestein mit ganz viel Seele nimmt Abschied",
+    "published": "2025-06-26T11:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://img.sparknews.funkemedien.de/409344062/409344062_1750769555_v16_9_1600.jpeg",
+    "performance_score": 0,
+    "domain_rank": 62964,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "823ccdf24eb84c76ff3575e282c7864c87e7b55a",
+  "url": "https://www.tlz.de/lokales/unstrut-hainich-kreis/article409342977/muehlhausen-lehrer-urgestein-mit-ganz-viel-seele-nimmt-abschied.html",
+  "ord_in_thread": 0,
+  "author": "Claudia Bachmann",
+  "published": "2025-06-26T11:00:00.000+03:00",
+  "title": "Mühlhausen: Lehrer-Urgestein mit ganz viel Seele nimmt Abschied",
+  "text": "Mühlhausen. Diese Lehrerin hat in Mühlhausen Tausende Kinder bei ihrem Start ins Schulleben begleitet. Nun geht sie offiziell in den Ruhestand – doch das Engagement für „meine Schule“ hört damit nicht auf. Sie setzt ein starkes Zeichen.\nLeben",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Human Interest", "Education", "Social Issue"],
+  "topics": [
+    "Human Interest->funeral and memorial service",
+    "Education->teachers",
+    "Education->state school",
+    "Education->primary education",
+    "Social Issue->children",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Mühlhausen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T11:13:04.858+03:00",
+  "updated": "2025-06-26T08:16:35.000+00:00"
+}

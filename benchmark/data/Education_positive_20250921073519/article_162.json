@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "311e0653ea643f62f01d176cae56a03c63c4977f",
+    "url": "https://www.chinanews.com/cj/shipin/cns-d/2025/09-18/news1030461.shtml",
+    "site_full": "www.chinanews.com",
+    "site": "chinanews.com",
+    "site_section": "https://www.chinanews.com/shipin",
+    "site_categories": ["media"],
+    "section_title": "视频频道-中国新闻网",
+    "site_title": "中国新闻网_梳理天下新闻",
+    "title": "直击东博会 揭秘开幕式上AI同声传译如何保障-中新网视频",
+    "title_full": "直击东博会 揭秘开幕式上AI同声传译如何保障-中新网视频",
+    "published": "2025-09-18T05:04:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 5711,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "311e0653ea643f62f01d176cae56a03c63c4977f",
+  "url": "https://www.chinanews.com/cj/shipin/cns-d/2025/09-18/news1030461.shtml",
+  "ord_in_thread": 0,
+  "author": "chinanews",
+  "published": "2025-09-18T05:04:00.000+03:00",
+  "title": "直击东博会 揭秘开幕式上AI同声传译如何保障-中新网视频",
+  "text": "9月17日，第22届中国—东盟博览会暨中国—东盟商务与投资峰会在广西南宁开幕。开幕式通过人工智能技术实现中文及东盟国家七国语言实时同传上屏，同时还通过人工智能技术，实现会议纪要、新闻素材、大会热词和精彩瞬间照片一键生成，引来参会人员赞叹。为此，中新社专访开幕式相关技术保障企业负责人，揭秘这个“聪明”的开幕式是如何进行保障的。(王伟臣 王以照)\n责任编辑：【叶攀】",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Education", "Politics"],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->biomedical science",
+    "Science and Technology->technology and engineering",
+    "Education->educational grading",
+    "Education->online and remote learning",
+    "Education->vocational education",
+    "Politics->regulation of industry",
+    "Politics->government",
+    "Politics->international organisation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:50:54.221+03:00",
+  "updated": "2025-09-18T07:59:12.000+03:00"
+}

@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "e6375d840a760f9e8b2c9464a3d4820c58b6aa16",
+    "url": "https://www.sueddeutsche.de/karriere/ausbildung-zahl-der-pflege-absolventen-in-thueringen-konstant-dpa.urn-newsml-dpa-com-20090101-250626-930-720530",
+    "site_full": "www.sueddeutsche.de",
+    "site": "sueddeutsche.de",
+    "site_section": "https://quiz.sueddeutsche.de",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "section_title": "Aktuelle Nachrichten und Kommentare - SZ.de",
+    "site_title": "Aktuelle Nachrichten und Kommentare - SZ.de",
+    "title": "Zahl der Pflege-Absolventen in Thüringen konstant",
+    "title_full": "Zahl der Pflege-Absolventen in Thüringen konstant",
+    "published": "2025-06-26T13:34:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.sueddeutsche.de/2025/06/26/6c983131-9b94-43ef-81b5-55daaad97c8a.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=undefined%2Cundefined%2Cundefined%2Cundefined",
+    "performance_score": 0,
+    "domain_rank": 1135,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e6375d840a760f9e8b2c9464a3d4820c58b6aa16",
+  "url": "https://www.sueddeutsche.de/karriere/ausbildung-zahl-der-pflege-absolventen-in-thueringen-konstant-dpa.urn-newsml-dpa-com-20090101-250626-930-720530",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T13:34:00.000+03:00",
+  "title": "Zahl der Pflege-Absolventen in Thüringen konstant",
+  "text": "Erfurt (dpa/th) - Die Zahl der Pflege-Azubis, die ihre Ausbildung erfolgreich beenden, stagniert in Thüringen. Im vergangenen Jahr schlossen nach Angaben des Statistischen Landesamtes 890 Frauen und Männer ihre Pflege-Ausbildung ab. Die meisten – 879 – entschieden sich für den fachübergreifenden Abschluss als Pflegefachfrau oder Pflegefachmann. Elf Absolventen haben einen Abschluss mit dem Schwerpunkt Gesundheits- und Kinderkrankenpflege in der Tasche. Seit einer Reform der Pflegeausbildung 2020 durchlaufen angehende Kranken-, Alten- und Kinderkrankenpflegekräfte eine weitgehend vereinheitlichte Ausbildung.\nEnde 2024 befanden sich laut Landesamt insgesamt 4.005 Personen in der Ausbildung zum Pflegefachmann oder zur Pflegefachfrau. 1.684 von ihnen absolvierten ihr erstes Ausbildungsjahr.\n© dpa-infocom, dpa:250626-930-720530/1",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Health", "Education", "Social Issue"],
+  "topics": [
+    "Health->medical staff",
+    "Health->health care approach",
+    "Health->health organisation",
+    "Education->vocational education",
+    "Education->students",
+    "Education->upper secondary education",
+    "Social Issue->demographics",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Erfurt",
+        "sentiment": "none"
+      },
+      {
+        "name": "Thüringen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "dpa",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Statistischen Landesamtes",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_de", "top_news_ch", "top_news_at", "top_news"],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T13:47:36.919+03:00",
+  "updated": "2025-06-26T10:53:02.000+00:00"
+}

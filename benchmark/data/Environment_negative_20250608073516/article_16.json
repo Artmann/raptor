@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "5bc0c9201344089b0edb43b648c8854ba976f8a9",
+    "url": "https://www.gismeteo.ru/news/science/ozelenenie-gor-vredit-geneticheskomu-raznoobraziju-kljuchevyh-rastenij",
+    "site_full": "www.gismeteo.ru",
+    "site": "gismeteo.ru",
+    "site_section": "https://www.gismeteo.ru/news/science",
+    "site_categories": ["media"],
+    "section_title": "GISMETEO: GISMETEO: Наука и космос. Тенденции, открытия и новости науки и космоса в мире",
+    "site_title": "GISMETEO: Погода в России, прогноз погоды на сегодня, завтра, 3 дня, выходные, неделю, 10 дней, 2 недели, месяц",
+    "title": "GISMETEO: Озеленение гор вредит генетическому разнообразию ключевых растений",
+    "title_full": "GISMETEO: Озеленение гор вредит генетическому разнообразию ключевых растений",
+    "published": "2025-05-08T00:33:42.205+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://news-img.gismeteo.st/ru/2025/05/shutterstock_2611025037.jpg",
+    "performance_score": 0,
+    "domain_rank": 11372,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5bc0c9201344089b0edb43b648c8854ba976f8a9",
+  "url": "https://www.gismeteo.ru/news/science/ozelenenie-gor-vredit-geneticheskomu-raznoobraziju-kljuchevyh-rastenij",
+  "ord_in_thread": 0,
+  "author": "@Gismeteo",
+  "published": "2025-05-08T00:33:42.205+03:00",
+  "title": "GISMETEO: Озеленение гор вредит генетическому разнообразию ключевых растений",
+  "text": "Пройдитесь по средиземноморскому горному лугу, и вы наткнетесь на железницу — ароматное растение, использующееся для приготовления греческого горного чая. Местные жители ценят его за целебные свойства, однако в последние десятилетия экосистемы этих районов меняются. Травянистые склоны зарастают кустарниками и деревьями, что указывает на влияние изменения климата и сельскохозяйственного использования земель на биоразнообразие.\nЭксперты из Центра исследований биоразнообразия и климата Зенкенберга и других учреждений изучают генетические последствия этих изменений, сосредоточив внимание на железнице. Результаты вызывают тревогу: потеря генетического разнообразия у растений может угрожать их устойчивости к стрессам. Повышение температур и сокращение выпаса скота приводят к “позеленению гор”, при котором древесные растения доминируют над открытыми пастбищами.\nКоманда исследовала популяции железницы на 11 горных хребтах Греции, сопоставляя спутниковые данные с генетическими анализами. В восьми зонах генетическое разнообразие значительно сократилось, что свидетельствует о повышении инбридинга и изоляции популяций. Это ослабляет способность вида противостоять болезням и засухам. Исследование подчеркивает важность генетического разнообразия для адаптации к изменениям окружающей среды.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Health"],
+  "topics": [
+    "Environment->flowers and plants",
+    "Environment->nature",
+    "Environment->endangered species",
+    "Social Issue->social condition",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T00:33:42.205+03:00",
+  "updated": "2025-05-07T21:38:32.000+00:00"
+}

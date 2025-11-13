@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "c9d1812f061c4249b00b50c8e89542b3f170285c",
+    "url": "https://www.lbc.co.uk/news/sarah-delagarde-lost-arm-leg-run-over-tube-pays-prosthetics/",
+    "site_full": "www.lbc.co.uk",
+    "site": "lbc.co.uk",
+    "site_section": "https://www.lbc.co.uk/weather",
+    "site_categories": ["media"],
+    "section_title": "Latest UK Weather Forecast | LBC",
+    "title": "Woman who lost arm and leg after being run over by two Tube trains pays £17,000 for... - LBC",
+    "title_full": "Woman who lost arm and leg after being run over by two Tube trains pays £17,000 for... - LBC",
+    "published": "2023-12-28T23:22:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "https://images.lbc.co.uk/images/624604?width=1200&crop=16_9&signature=hN-ULG900eVgXul01WZRTnTnc30=",
+    "performance_score": 0,
+    "domain_rank": 9528,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c9d1812f061c4249b00b50c8e89542b3f170285c",
+  "url": "https://www.lbc.co.uk/news/sarah-delagarde-lost-arm-leg-run-over-tube-pays-prosthetics/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Kit Heren",
+  "published": "2023-12-28T23:22:00.000+02:00",
+  "title": "Woman who lost arm and leg after being run over by two Tube trains pays £17,000 for... - LBC",
+  "text": "[ Nick Abbot ](/radio/presenters/nick-abbot/) 10pm - 1am Woman who lost arm and leg after being run over by two Tube trains pays £17,000 for prosthetic after NHS delays 28 December 2023, 21:22 A woman who lost an arm and a leg in a London Underground accident paid thousands of pounds for a prosthetic amid NHS delays. Listen to this article Loading audio... Sarah de Lagarde fell onto the Tube tracks at High Barnet station in September 2022 and was run over by two trains. It took commuters 15 minutes to notice her, and another hour before emergency services were able to reach her. She almost died ten times that night, and had her right arm and left leg amputated. [Ms de Lagarde, from Camden in north London, became the first person in the world to have a prosthetic arm equipped with artificial intelligence technolog](https://www.lbc.co.uk/news/woman-ai-bionic-arm-read-mind-london-tube-accident/)y, after a crowdfunder exceeded its £250,000 target. [Read more: Mother given new bionic arm that can ‘read her mind’ with AI after London Tube accident](/news/woman-ai-bionic-arm-read-mind-london-tube-accident/) [Read more: Travel mayhem for Londoners in new year as Underground staff announce strike dates in walkout over pay](/news/uk-london-underground-tube-strike-dates-walkout-announced-tfl/) Her husband also set up a crowdfunder to pay for a prosthetic leg. The initial leg supplied by the NHS took six weeks to arrive, and her leg had changed shape in the meantime. That meant she was left in agony when the prosthetic was fitted, because it activated her sciatic nerve. Ms de Lagarde told the Times: \"I was on the floor screaming. At one point I blacked out and fell on the floor from the pain.\" The health service offered to give her a new leg, but she decided to go private because she couldn't bear the wait. Ms de Lagarde said: \"I thought, I can’t spend another six weeks in bed or a wheelchair. She added: \"It cost £17,000 but it meant I could walk again.\" She has since gone back to work part-time as a communications executive for asset management firm Janus Henderson. Ms de Lagarde said she cannot walk upstairs with her prosthetics, meaning her husband Jeremy has to carry her. \"He looks at me and still he sees me as a whole person,\" she said. \"I look at myself and I find myself horrific. It’s such a horrible word, but the stumps – they look awful. And yet he looks at me and he loves me. I draw from that.\" She said that questions remained for Transport for London over how she was able to fall in a gap between the train and the platform. Ms de Lagarde said: \"Why was there a gap so big that a grown woman could fall down? Why did nobody see me crawling around on the tracks on the CCTV?\" She added that she can no longer take the Tube because of PTSD, and the idea of her children using the Underground leaves her feeling \"sick\". Ms de Lagarde broke her nose, teeth and broke her right arm and leg last September when she fell under a train carriage at High Barnet station in London. She suffered the first set of injuries when the train pulled out and cried for help for a full ten minutes but nobody heard her pleas. She tried to unlock her phone to call for help, but said: \"Because of my broken nose the facial recognition software wouldn’t acknowledge my face”. Another train pulled in causing irreparable damage to the same two limbs, as doctors were unable to save them when she was eventually rushed to hospital. Just days before the accident Sarah had climbed Mount Kilimanjaro just with her husband and was about to start a PhD. She said: “As I lay on the track I remember thinking, ‘I’ve literally gone from the top of the world to rock bottom.’ I can remember everything from what happened. The adrenaline meant I didn’t feel pain.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Human Interest", "Disaster and Accident", "Health"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "nick abbot",
+        "sentiment": "negative"
+      },
+      {
+        "name": "londo",
+        "sentiment": "none"
+      },
+      {
+        "name": "de lagarde",
+        "sentiment": "none"
+      },
+      {
+        "name": "sarah de lagarde",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "lbc",
+        "sentiment": "negative"
+      },
+      {
+        "name": "london tube",
+        "sentiment": "none"
+      },
+      {
+        "name": "nhs",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "camden",
+        "sentiment": "none"
+      },
+      {
+        "name": "london",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:38:41.952+02:00",
+  "updated": "2023-12-29T00:38:41.952+02:00"
+}

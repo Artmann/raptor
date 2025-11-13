@@ -1,0 +1,110 @@
+{
+  "thread": {
+    "uuid": "f0506ba816deed5118f6162c861b060250b7818e",
+    "url": "https://www.uniindia.com/use-kannada-or-face-action-karnataka-warns-officials/south/news/3499612.html",
+    "site_full": "www.uniindia.com",
+    "site": "uniindia.com",
+    "site_section": "http://www.uniindia.net/feed.aspx?lang_id=1",
+    "site_categories": ["media"],
+    "section_title": "United News Of India",
+    "site_title": "UNITED NEWS OF INDIA",
+    "title": "Use Kannada or face action, Karnataka warns officials",
+    "title_full": "Use Kannada or face action, Karnataka warns officials",
+    "published": "2025-06-26T10:50:44.696+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 23500,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f0506ba816deed5118f6162c861b060250b7818e",
+  "url": "https://www.uniindia.com/use-kannada-or-face-action-karnataka-warns-officials/south/news/3499612.html",
+  "ord_in_thread": 0,
+  "author": "Uniindia News Service",
+  "published": "2025-06-26T10:50:44.696+03:00",
+  "title": "Use Kannada or face action, Karnataka warns officials",
+  "text": "States » SouthPosted at: Jun 26 2025 1:08PM Use Kannada or face action, Karnataka warns officialsBengaluru, June 26 (UNI) In a decisive move to reinforce the use of Kannada in government administration, the Karnataka government has issued a circular mandating that all official correspondence and files not written in Kannada be returned, and the concerned officers be asked to provide an explanation.The directive, issued by Chief Secretary Shalini Rajneesh on Thursday, comes in the wake of repeated reports from the Kannada Development Authority (KDA) highlighting widespread non-compliance with earlier instructions mandating the use of Kannada in official matters.Chief Minister Siddaramaiah has categorically instructed that “if notings and correspondence in government files are not in Kannada, such files must be returned and the officers concerned should be asked to explain the violation.” This move is aimed at ensuring strict adherence to the Karnataka Official Language Act, 1963, which designates Kannada as the official language for administrative purposes.The circular emphasised that disciplinary action would be initiated against officials who fail to comply with the policy. It also applies to all levels of government—state departments, local bodies, universities, boards, corporations, and aided institutions.Officials were reminded that all government applications and letters received in Kannada must be replied to in Kannada. Nameplates in government offices should be displayed in Kannada. Government orders, appointments, transfers, leave orders, Legislative Assembly proceedings, and other correspondence must strictly be in Kannada.The circular cited instances during recent Karnataka Development Programme (KDP) meetings where some Deputy Commissioners and Zilla Panchayat CEOs continued to issue agendas and reports in English, defying prior instructions.“It is the duty of all government officers and employees to fully implement the language policy at every level,” the circular reiterated.This directive is seen as a sharp escalation from previous efforts, signaling the government's intent to institutionalize Kannada across the entire administrative machinery. It also aligns with broader cultural and linguistic preservation efforts amid increasing concerns about the marginalization of regional languages in digital and administrative spaces.This firm step is likely to impact daily functioning in government offices, particularly in urban centres where English has been widely used in file notings and communication. UNI BDN GNKTags:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Politics", "Social Issue", "Education"],
+  "topics": [
+    "Politics->government policy",
+    "Politics->civil rights",
+    "Politics->local government policy",
+    "Social Issue->discrimination",
+    "Social Issue->demographics",
+    "Social Issue->social problem",
+    "Education->students",
+    "Education->state school",
+    "Education->educational grading"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Shalini Rajneesh",
+        "sentiment": "none"
+      },
+      {
+        "name": "Siddaramaiah",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Karnataka",
+        "sentiment": "none"
+      },
+      {
+        "name": "Kannada",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Kannada Development Authority",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "KDA",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T10:50:44.696+03:00",
+  "updated": "2025-06-26T08:00:17.000+00:00"
+}

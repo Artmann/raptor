@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "2c88bfbf1f28aa5d5fdfdd9f94f26dee14a1466d",
+    "url": "https://www.pressherald.com/2025/05/07/relentless-effort-needed-to-get-maine-ready-for-extreme-weather",
+    "site_full": "www.pressherald.com",
+    "site": "pressherald.com",
+    "site_section": "https://world.einnews.com/ajax/headlines",
+    "site_categories": ["media"],
+    "section_title": "",
+    "site_title": "The Portland Press Herald - Maine Sunday Telegram",
+    "title": "'Relentless' effort needed to get Maine ready for extreme weather, commission says",
+    "title_full": "'Relentless' effort needed to get Maine ready for extreme weather, commission says",
+    "published": "2025-05-08T01:58:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.pressherald.com/wp-content/uploads/sites/4/2025/05/40730348_POY.storm_06-1746660163.jpg?w=1024",
+    "performance_score": 0,
+    "domain_rank": 3724,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2c88bfbf1f28aa5d5fdfdd9f94f26dee14a1466d",
+  "url": "https://www.pressherald.com/2025/05/07/relentless-effort-needed-to-get-maine-ready-for-extreme-weather",
+  "ord_in_thread": 0,
+  "author": "Grace Benninghoff",
+  "published": "2025-05-08T01:58:00.000+03:00",
+  "title": "'Relentless' effort needed to get Maine ready for extreme weather, commission says",
+  "text": "A group paddles a canoe around a flooded Custom House Wharf at high tide in Portland on Jan. 13, 2024. Ben McCanna/Portland Press Herald\nThe Maine commission created in the wake of damaging storms has released its final report on how to prepare the state for extreme weather events.\nThe 24-member Infrastructure Rebuilding and Resilience Commission was established by Gov. Janet Mills in May 2024 after several extreme storms rocked the state in late 2023, wiping out infrastructure and flooding roadways . The commission aimed to create a long-term resiliency plan for the state as extreme storms become more common due to climate change.\n“Without relentless focus and attention, Maine risks losing the meaningful momentum it’s gained since the devastating storms of December 2023 and January 2024, which prompted the creation of our Commission,” the report said.\nThe commission’s plan has three core pillars: strengthening infrastructure and reducing disaster risk, improving disaster preparedness and response, and sustaining the state’s resilience momentum. Some of the group’s recommendations are already under way, including the establishment of the State Resilience Office, which will fund programs to strengthen homes, improve flood readiness, and support emergency response and communication systems around the state.\nView this document on Scribd The plan calls for that office to track and report the progress as the state works toward improved disaster resilience.\nThe report by the commission highlighted the increased risk for natural disasters in Maine. Between March 2022 and May 2024, the report said, Maine experienced nine natural disasters.\n“The rising severity and frequency of these storms and floods raise urgent alarms about the increasing risks of extreme weather in our state and drive home the imperative that Maine plan for and invest in infrastructure resilience at the state, regional and local levels,” the report said.\nLast week, the Mills administration announced $8 million in grant funding through the state’s Community Resilience Partnership to help communities protect people, businesses, and infrastructure from flooding, storm surge and other climate effects. The report emphasized the importance of harnessing the resources available to make Maine safer in the wake of storms.\n“In Maine, we no longer know the storms of yesterday. Storms are now more frequent and dangerous, flooding our homes and businesses, washing out our roads and bridges, and threatening the health of our people and economy,” Mills said in a prepared statement. “The changes to our weather and our climate are harming people, communities, and businesses across our state.\nRelated Read our complete coverage of the December 2023 storm “We must prevent as much damage as possible and be ready to quickly recover when storms take their toll. … This plan will guide efforts in the year to come to protect this great state we all call home.”\nA statement from Mills’ office said the increasing uncertainty about federal disaster funding highlights the importance of the state’s efforts to address climate change.\n“As the commission completed its work, the federal government proposed eliminating (the Federal Emergency Management Agency) and sunsetting critical funding programs such as the Building Resilient Infrastructure and Communities (BRIC) program,” the statement said. “These developments underscore the importance of state-level leadership and investment in resilience.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Environment", "Social Issue"],
+  "topics": [
+    "Disaster and Accident->natural disaster",
+    "Disaster and Accident->emergency response",
+    "Environment->natural resources",
+    "Environment->climate change",
+    "Environment->sustainability",
+    "Social Issue->social services",
+    "Social Issue->social condition",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Janet Mills",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "State Resilience Office",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Resilience Commission",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "2c88bfbf1f28aa5d5fdfdd9f94f26dee14a1466d",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:25:59.786+03:00",
+  "updated": "2025-05-08T04:36:09.605+03:00"
+}

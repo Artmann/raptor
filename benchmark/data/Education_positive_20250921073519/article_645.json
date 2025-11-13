@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "06f14105cd1033148b5423532931431cd3fe0131",
+    "url": "https://thepioneerpress.org/11498/features/cindy-wolfe-gives-tips-to-seniors-for-their-lives-beyond-high-school/",
+    "site_full": "thepioneerpress.org",
+    "site": "thepioneerpress.org",
+    "site_section": "https://thepioneerpress.org",
+    "site_categories": [],
+    "section_title": "The Pioneer Press &#8211; The student news site of Jonathan Alder High School",
+    "site_title": "The Pioneer Press &#8211; The student news site of Jonathan Alder High School",
+    "title": "Cindy Wolfe gives tips to seniors for their lives beyond high school",
+    "title_full": "Cindy Wolfe gives tips to seniors for their lives beyond high school",
+    "published": "2025-09-17T20:12:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "06f14105cd1033148b5423532931431cd3fe0131",
+  "url": "https://thepioneerpress.org/11498/features/cindy-wolfe-gives-tips-to-seniors-for-their-lives-beyond-high-school/",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-17T20:12:00.000+03:00",
+  "title": "Cindy Wolfe gives tips to seniors for their lives beyond high school",
+  "text": "Cindy Wolfe has been a counselor here at JAHS for 13 years, though in total she’s been here for 27 years. She’s had quite a few other jobs before becoming a counselor, including playground monitor, a lunch cashier, a principal secretary, a building secretary, a superintendent secretary, and a treasurer for the Board of Education. With a new batch of students about to leave JA for good, she tells us the advice that seniors could use.\nQ: What should seniors be doing or have done to prepare for life after high school?\nA: Figure out what path they are going to go on. Are you going to college, going to the military, or joining the workforce?\nQ: What resources are available for students to explore their options for after high school?\nA: We use SchooLinks so that you can research one of those three pathways: If you want to enroll in college, if you want to enlist in the military, or if you wanna go straight into a job after high school.\nQ: If applying to college, what is the first step?\nA: Visiting/researching the colleges before you apply.\nQ: Should seniors consider applying for scholarships?\nA: Yes, absolutely. Free money is free money.\nQ: What should students look for in a college?\nA: Is it comfortable for you? Does it have the classes you like? Does it have the extracurriculars you like? Is the layout of the school comfortable to you? Do you like their food? Stuff like that.\nQ: Do you have any tips for seniors when writing college applications?\nA: Stay on subject. Remember you’re selling yourself, remember that you’re a salesperson, and you’re selling yourself. Make yourself stand out. Colleges want to fill their campus with students who fit the college’s philosophy.\nQ: Could seniors have their applications reviewed by someone else before submitting them? If so, then by whom?\nA: Yes, they can. Normally, they ask their English teachers.\nQ: What makes a strong college application?\nA: Volunteer hours, clubs, sports, and strong academics. Colleges want a well-rounded student.\nQ: When do colleges usually let students know if they are accepted?\nA: If it’s early action, it’s December-January. If it’s regular decision, it can be any time after January up until May 1st.\nQ: If students aren’t planning on attending college, what resources are available to help them find a job or enlist in the military?\nA: Ohiomeansjobs is a website that we use. You could also use SchooLinks. As far as the military, we need to get you in contact with a recruiter. You also need to take the ASVAB.\nQ: Is there anything else you’d like to add before we end the interview?\nA: CommonApp, in regards to colleges, is a nice place for students to have a one-stop shop to put their permanent information. That way, they only have to fill out this stuff once, and it will be added to all the colleges they have in CommonApp.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Education->upper secondary education",
+    "Education->students",
+    "Human Interest->graduation",
+    "Lifestyle and Leisure->mental wellbeing",
+    "Lifestyle and Leisure->wellness",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Cindy Wolfe",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Board of Education",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Pioneer"],
+      "state": ["Ohio"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:46:53.829+03:00",
+  "updated": "2025-09-18T08:51:32.000+03:00"
+}

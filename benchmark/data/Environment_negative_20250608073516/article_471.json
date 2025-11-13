@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "c8029d2cb99543991154f72fea03c704d302b221",
+    "url": "https://www.miragenews.com/mccormacks-advocacy-ends-push-for-yass-solar-1456443",
+    "site_full": "www.miragenews.com",
+    "site": "miragenews.com",
+    "site_section": "https://miragenews.com/tag/impact",
+    "site_categories": ["media"],
+    "section_title": "Live Impact updates | Mirage News",
+    "site_title": "Australia&#039;s 24/7 live news &amp; media portal | Mirage News",
+    "title": "McCormack's Advocacy Ends Push For Yass Solar Factory | Mirage News",
+    "title_full": "McCormack's Advocacy Ends Push For Yass Solar Factory | Mirage News",
+    "published": "2025-05-08T03:12:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://www.nswnationals.org.au/wp-content/uploads/2025/05/Kylie-Davies-and-Michael-McCormack.jpg",
+    "performance_score": 0,
+    "domain_rank": 10803,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c8029d2cb99543991154f72fea03c704d302b221",
+  "url": "https://www.miragenews.com/mccormacks-advocacy-ends-push-for-yass-solar-1456443",
+  "ord_in_thread": 0,
+  "author": "Mirage News",
+  "published": "2025-05-08T03:12:00.000+03:00",
+  "title": "McCormack's Advocacy Ends Push For Yass Solar Factory | Mirage News",
+  "text": "Nationals Member for Riverina, Michael McCormack, has welcomed a decision by energy producer ENGIE to drop plans to build a massive solar factory on the outskirts of Yass.\nMr McCormack said he told ENGIE that land designated for the project - less than two kilometres from the Yass post office and targeted for up to 240,000 solar panels - was valuable agricultural country which needed to be retained.\n\"About 340 hectares of farmland - a footprint larger than the town itself - was earmarked for the project,\" Mr McCormack said.\nMr McCormack said the planned site of the solar factory was virtually on the doorstep of some residents, while other people faced the prospect of looking down on a sea of black solar panels and a three-metre high security fence surrounding the solar panels every time they walked out their front or back door.\nMr McCormack listened to the concerns of residents at a meeting at Yass in February and has been making consistent representations on their behalf to ENGIE ever since.\n\"I was moved by their very real worries, including a loss of views and plummeting property values,\" Mr McCormack said.\n\"I was told at least one property could not be sold because of the solar factory plans, while there were very real fears about safety on Perry Street, a narrow road with a three-tonne load limit, which would be used by heavy trucks six days a week for 18 months to two years during construction.\n\"There were also fears about chemicals used to clean solar panels leaching into creeks on the site and ending up in the nearby Yass River and toxic fumes sweeping over Yass should a fire break out and panels were burnt.\"\n\"I don't think these many serious concerns could be addressed satisfactorily and told ENGIE so.\"\nMr McCormack said ENGIE would now undertake a feasibility study on putting a large-scale battery on the site which would be connected to nearby electricity transmission lines to help secure electricity supply.\nhere.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Economy, Business and Finance", "Politics"],
+  "topics": [
+    "Environment->energy resources",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->energy and resource",
+    "Politics->government policy",
+    "Politics->economic policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Michael McCormack",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Riverina",
+        "sentiment": "none"
+      },
+      {
+        "name": "Yass",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "c8029d2cb99543991154f72fea03c704d302b221",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:09:21.029+03:00",
+  "updated": "2025-05-08T01:17:06.000+00:00"
+}

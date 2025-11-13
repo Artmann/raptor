@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "b8ee1656dd50dfae052d0cef9e0e5e6bd46c35f8",
+    "url": "https://www.perthnow.com.au/news/crime/tracking-tag-leads-cops-to-stolen-e-bike-scooter-loot-c-13054648",
+    "site_full": "www.perthnow.com.au",
+    "site": "perthnow.com.au",
+    "site_section": "https://www.perthnow.com.au/feed",
+    "site_categories": ["media", "cricket", "sports"],
+    "section_title": "",
+    "title": "Tracking tag leads cops to stolen e-bike, scooter loot",
+    "title_full": "Tracking tag leads cops to stolen e-bike, scooter loot",
+    "published": "2023-12-28T18:46:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://images.perthnow.com.au/publication/C-13054648/7fc22d1b1174d3d48170be379cdb301c26f299be-16x9-x0y0w1280h720.jpg?imwidth=1200",
+    "performance_score": 0,
+    "domain_rank": 8384,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b8ee1656dd50dfae052d0cef9e0e5e6bd46c35f8",
+  "url": "https://www.perthnow.com.au/news/crime/tracking-tag-leads-cops-to-stolen-e-bike-scooter-loot-c-13054648",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Dominic Giannini AAP",
+  "published": "2023-12-28T18:46:00.000+02:00",
+  "title": "Tracking tag leads cops to stolen e-bike, scooter loot",
+  "text": "A security-savvy rider has helped police recover almost two dozen stolen e-bikes and electric scooters with a tracking device.\nACT Policing raided a home in Ngunnawal in Canberra's north on Thursday, where they found $30,000 worth of stolen goods, including six e-bikes and 15 electric scooters.\nA car trailer and number plates were also recovered by police.\nAn Apple Air-Tag led police to the house and they were able to obtain a search warrant.\nThe tag gave out a ping earlier this month after the bike was stolen in December 2022.\nPolice are encouraging riders to record details of their bikes and scooters and take down serial numbers and images so their items can be easily identified if stolen.\nLISTEN to the new podcast Court in the Act\nInside the courtroom with Tim Clarke.\nFind out more\n\"This allows the quick return of items if recovered by police,\" ACT Policing said in a statement.\n\"It also makes it difficult for stolen items to be on-sold, with prospective buyers able to check if an item has been reported stolen.\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Crime, Law and Justice"],
+  "external_links": [
+    "https://thewest.com.au/podcasts/court-in-the-act",
+    "https://www.thewest.com.au/podcasts/court-in-the-act"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "tim clarke",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "apple air",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "ngunnawal",
+        "sentiment": "none"
+      },
+      {
+        "name": "canberra",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T05:52:23.426+02:00",
+  "updated": "2023-12-29T05:52:23.426+02:00"
+}

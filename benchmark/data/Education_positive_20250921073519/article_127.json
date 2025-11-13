@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "156127d4241ea96194996a851ea88ff3b93ce828",
+    "url": "https://www.nation.com.pk/17-Sep-2025/global-development-economics-conference-held-at-lums",
+    "site_full": "www.nation.com.pk",
+    "site": "nation.com.pk",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": ["top_news_pk", "top_news"],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "site_title": null,
+    "title": "Global Development Economics Conference held at LUMS",
+    "title_full": "Global Development Economics Conference held at LUMS",
+    "published": "2025-09-17T15:43:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PK",
+    "main_image": "https://www.nation.com.pk/digital_images/large/2025-09-17/global-development-economics-conference-held-at-lums-1758112989-2967.jpeg",
+    "performance_score": 0,
+    "domain_rank": 35790,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "156127d4241ea96194996a851ea88ff3b93ce828",
+  "url": "https://www.nation.com.pk/17-Sep-2025/global-development-economics-conference-held-at-lums",
+  "ord_in_thread": 0,
+  "author": "Web Desk",
+  "published": "2025-09-17T15:43:00.000+03:00",
+  "title": "Global Development Economics Conference held at LUMS",
+  "text": "Leading economists, policy-makers, and development practitioners from around the world convened at LUMS this week for the three-day G²LM|LIC/Path2Dev/BREAD Academic & Policy Conference on Development Economics, which highlighted cutting-edge research on the world’s most pressing development issues, with a focus on South Asia.\nClimate and energy challenges were the main discussion points, with studies showing that high temperatures and prepaid electricity meters can reduce access for the poor. Employment and human capital discussions emphasized that better information sharing boosts female participation, while education and health remain transformative for inclusive societies. Flexible public sector incentives were flagged as key to improving service delivery outcomes. Research discussed the determinants of citizen support for progressive tax reform and the impact of frontier rule on sovereignty-contesting violence.\nOrganized jointly by the Gender, Growth and Labour Markets in Low-Income Countries (G²LM|LIC) programme, the Bureau for Research and Economic Analysis of Development (BREAD), IZA Institute of Labor Economics, together with the Chaudhry Nazar Muhammad Department of Economics at the Mushtaq Ahmad Gurmani School of Humanities and Social Sciences and the Mahbub ul Haq Research Centre at LUMS, the Institute of Development Studies at the University of Sussex (IDS), the Institute of Development and Economic Alternatives (IDEAS), the International Growth Centre (IGC), the Consortium for Development Policy Research (CDPR), and the Centre for Economic Research in Pakistan (CERP), the conference set out to bridge rigorous research and practical policy solutions.\nThe conference also featured a mentorship program, which brought junior researchers, particularly from South Asia, into dialogue with senior scholars. Panel discussions brought academics in conversation with policymakers, including Hamed Ateeq Sarwar (Member, IRS), Umme Laila Azhar (Chairperson, NCSW), and Ahmed Khan (CEO, PSDF), among others, to find actionable pathways toward development.\nReflecting on the significance of these conversations, Maroof A. Syed, President and CEO of CERP, said, \"By bringing together researchers, practitioners, and policymakers, the conference affirms each year that policy debates must respond to realities on the ground in Pakistan and beyond. There is a high level of intersectionality between inequality, governance, gender, health, and education, especially in the context of climate change. Unless we address them together and align budgets with these priorities, inclusive development will remain out of reach.\"\nThe Keynote Speaker, Dr. Imran Rasul, Professor, University College London, commenting on social insurance, said that “It’s better to target firms rather than workers. Although workers are more exposed, their skills allow them to remain more resilient.” A Chaudhry Nazar Muhammad Distinguished Lecture was given by Dr. Sheheryar Banuri, Associate Professor, University of East Anglia, who brought a behavioural economics lens to understanding corruption and cited the importance of moving away from “intrinsic corruption” and instead factoring in the institutions, incentives, and communities that people work in.\nThe conference concluded with a shared commitment to evidence-based reforms in taxation, public service delivery, gender inclusion, and climate resilience, to ensure growth that is inclusive, sustainable, and responsive to those left behind.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest"],
+  "topics": ["Education->college and university", "Human Interest->ceremony"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "LUMS",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Bureau for Research and Economic Analysis of Development",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Development Economics",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": ["top_news_pk", "top_news"],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:48:25.173+03:00",
+  "updated": "2025-09-19T08:06:03.000+03:00"
+}

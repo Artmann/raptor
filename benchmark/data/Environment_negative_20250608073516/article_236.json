@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "7277053e3358d1a2bf570781ec31dca40d84de8c",
+    "url": "https://www.cbc.ca/news/canada/north/no-active-wildfires-yet-but-fire-danger-rising-says-n-w-t-fire-1.7529313",
+    "site_full": "www.cbc.ca",
+    "site": "cbc.ca",
+    "site_section": "https://news.google.com/search?q=no%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media", "top_news_ca", "top_news"],
+    "section_title": "Google News - Search",
+    "site_title": "CBC.ca - watch, listen, and discover with Canada&#x27;s Public Broadcaster",
+    "title": "No active wildfires yet, but fire danger rising in southern N.W.T. | CBC News",
+    "title_full": "No active wildfires yet, but fire danger rising in southern N.W.T. | CBC News",
+    "published": "2025-05-08T01:54:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://i.cbc.ca/1.7478334.1741648518!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/fort-liard.JPG?im=Resize%3D620",
+    "performance_score": 0,
+    "domain_rank": 339,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7277053e3358d1a2bf570781ec31dca40d84de8c",
+  "url": "https://www.cbc.ca/news/canada/north/no-active-wildfires-yet-but-fire-danger-rising-says-n-w-t-fire-1.7529313",
+  "ord_in_thread": 0,
+  "author": "CBC",
+  "published": "2025-05-08T01:54:00.000+03:00",
+  "title": "No active wildfires yet, but fire danger rising in southern N.W.T. | CBC News",
+  "text": "The risk of wildfires around Fort Liard and Nahanni Butte is expected to be high in the next couple days, the N.W.T. government said Wednesday.\nIn its first fire update of the season, N.W.T. Fire said no active wildfires are burning in the territory yet. However, it expects most of the South Slave and Dehcho regions to reach moderate fire danger soon.\n\"In all areas in the south of the territory, we expect some periods of high winds — which can be problematic even at low or moderate levels of fire danger,\" it stated.\n\"That means for the south of the territory, conditions are here to support new starts and fast growth.\"\nIt also said that this time of year it's generally person-caused fires that cause the \"biggest issues,\" and suggested people avoid having fires if the danger in their area is high or extreme.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Disaster and Accident", "Social Issue"],
+  "topics": [
+    "Environment->climate change",
+    "Environment->natural resources",
+    "Environment->environmental pollution",
+    "Disaster and Accident->fire",
+    "Social Issue->demographics",
+    "Social Issue->social problem",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Fort Liard",
+        "sentiment": "none"
+      },
+      {
+        "name": "South Slave",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:53:12.124+03:00",
+  "updated": "2025-05-07T23:57:47.000+00:00"
+}

@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "368b2327ef937f83822181422460fddca6e87611",
+    "url": "https://www.newsbreak.com/nbc-news-510074/4058737357450-u-s-steel-ceases-trading-on-the-nyse-as-japan-s-nippon-finalizes-takeover",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://local.newsbreak.com/nbc-news-510074",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "NBC News&#x27;s Home Page | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "U.S. Steel ceases trading on the NYSE as Japan's Nippon finalizes takeover - NewsBreak",
+    "title_full": "U.S. Steel ceases trading on the NYSE as Japan's Nippon finalizes takeover - NewsBreak",
+    "published": "2025-06-19T06:14:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/4M9j2y_11vgAqUD00",
+    "performance_score": 0,
+    "domain_rank": 3213,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "368b2327ef937f83822181422460fddca6e87611",
+  "url": "https://www.newsbreak.com/nbc-news-510074/4058737357450-u-s-steel-ceases-trading-on-the-nyse-as-japan-s-nippon-finalizes-takeover",
+  "ord_in_thread": 0,
+  "author": "Spencer Kimball, CNBC",
+  "published": "2025-06-19T06:14:00.000+03:00",
+  "title": "U.S. Steel ceases trading on the NYSE as Japan's Nippon finalizes takeover - NewsBreak",
+  "text": "U.S. Steel ceases trading on the NYSE as Japan’s Nippon finalizes takeover\nBy Spencer Kimball, CNBC,\n1 hours agoU.S. Steel shares stopped trading on the New York Stock Exchange on Wednesday after Japan’s Nippon Steel completed its acquisition of the iconic American industrial name. President Donald Trump has insisted for weeks that the companies would form a “partnership” in which U.S. Steel would remain American-owned.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Social Issue", "Politics"],
+  "topics": [
+    "Economy, Business and Finance->financial service",
+    "Economy, Business and Finance->mergers and acquisitions",
+    "Economy, Business and Finance->business governance",
+    "Social Issue->social condition",
+    "Social Issue->population and census",
+    "Politics->international relations",
+    "Politics->foreign aid",
+    "Politics->economic policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Spencer Kimball",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Donald Trump",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "CNBC",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "New York Stock Exchange",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Nippon Steel",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:41:19.250+03:00",
+  "updated": "2025-06-19T04:46:47.000+00:00"
+}

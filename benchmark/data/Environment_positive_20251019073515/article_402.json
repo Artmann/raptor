@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "36077bae6f0f1953ccf1ca31594b31ec740e774e",
+    "url": "https://stormlakeradio.com/state-news/report-shows-record-employment-in-iowas-clean-energy-sector/",
+    "site_full": "stormlakeradio.com",
+    "site": "stormlakeradio.com",
+    "site_section": "https://stormlakeradio.com/sports",
+    "site_categories": ["media"],
+    "section_title": "Sports - Storm Lake Radio",
+    "site_title": "Local Radio in Storm Lake, IA - Storm Lake Radio",
+    "title": "Report shows record employment in Iowa's clean energy sector",
+    "title_full": "Report shows record employment in Iowa's clean energy sector",
+    "published": "2025-10-16T12:46:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "36077bae6f0f1953ccf1ca31594b31ec740e774e",
+  "url": "https://stormlakeradio.com/state-news/report-shows-record-employment-in-iowas-clean-energy-sector/",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T12:46:00.000+03:00",
+  "title": "Report shows record employment in Iowa's clean energy sector",
+  "text": "A recently released report shows well over 33,000 people were working in Iowa’s clean energy sector in 2024, nearly 3% more than the year before. E2, a national group that advocates for environmentally-friendly policies, issued the report which showed the number of jobs in clean energy businesses in Iowa set a record last year. “The […]",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment", "Labor"],
+  "topics": [
+    "Environment->energy saving",
+    "Environment->sustainability",
+    "Labor->labour market",
+    "Labor->employment"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "36077bae6f0f1953ccf1ca31594b31ec740e774e",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Newell", "Storm Lake", "Lakeside"],
+      "state": ["Iowa"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:41:09.557+03:00",
+  "updated": "2025-10-16T14:53:32.000+03:00"
+}

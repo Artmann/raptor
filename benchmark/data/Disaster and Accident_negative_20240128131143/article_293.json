@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "1e67a2cea1664c10581abb7b2eba6519021ac7ac",
+    "url": "https://nation.africa/kenya/counties/nyeri/six-killed-15-injured-in-nyeri-nyahururu-highway-crash--4476820",
+    "site_full": "nation.africa",
+    "site": "nation.africa",
+    "site_section": "https://nation.africa/kenya",
+    "site_categories": ["media"],
+    "section_title": "Nation - Breaking News, Kenya, Africa, Politics, Business, Sports | HOME | Nation",
+    "title": "Six killed, 15 injured in Nyeri-Nyahururu highway crash | Nation",
+    "title_full": "Six killed, 15 injured in Nyeri-Nyahururu highway crash | Nation",
+    "published": "2023-12-28T18:57:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "KE",
+    "main_image": "https://nation.africa/resource/image/4476822/landscape_ratio3x2/1200/800/ff2f04fb1145e82f4acd496a6cfa2791/jS/crash.jpg",
+    "performance_score": 0,
+    "domain_rank": 7874,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1e67a2cea1664c10581abb7b2eba6519021ac7ac",
+  "url": "https://nation.africa/kenya/counties/nyeri/six-killed-15-injured-in-nyeri-nyahururu-highway-crash--4476820",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "James Murimi",
+  "published": "2023-12-28T18:57:00.000+02:00",
+  "title": "Six killed, 15 injured in Nyeri-Nyahururu highway crash | Nation",
+  "text": "Six killed, 15 injured in Nyeri-Nyahururu highway crash Six people have died while 15 others were injured in a road accident in Solio area on the Nyeri-Nyahururu highway. The Thursday 6pm accident involved a 14-seater matatu, a saloon car and a motorcycle. Confirming the incident to Nation.Africa, Kieni West Deputy Sub County Police Commander Bernard Muthomi said one of the motorists had swerved to avoid hitting a pothole when the accident occurred. \"The accident occurred in Solio area and six people died, 14 are seriously injured while one sustained minor injuries,\" Mr Muthomi said by phone. \"The driver of the saloon car was avoiding potholes on the highway and this is believed to have caused the accident,\" he added. He urged motorists to drive carefully during and after the festive season. Mr Stephen Ndegwa, an eyewitness and a regular motorist on the route, said the road had claimed the lives of many motorists and appealed to the government to fill the potholes. \"So many people have lost their lives along this bridge. It is a sharp bend and a very dangerous black spot at the entrance to Solio Ranch. Something should be done by the Kenya National Highway Authority to ensure the safety of most of us who use this road regularly,\" said Mr Ndegwa.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Human Interest", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "bernard muthomi",
+        "sentiment": "none"
+      },
+      {
+        "name": "muthomi",
+        "sentiment": "none"
+      },
+      {
+        "name": "stephen ndegwa",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "solio",
+        "sentiment": "none"
+      },
+      {
+        "name": "nation.africa",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "nyeri",
+        "sentiment": "none"
+      },
+      {
+        "name": "nyahururu",
+        "sentiment": "none"
+      },
+      {
+        "name": "solio",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:25:38.445+02:00",
+  "updated": "2023-12-29T00:25:38.445+02:00"
+}

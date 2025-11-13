@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "e977f023689fbb04277eb654ff608e35c19ce420",
+    "url": "https://www.ainvest.com/news/iran-central-bank-limits-crypto-exchange-hours-100-million-nobitex-hack-2506",
+    "site_full": "www.ainvest.com",
+    "site": "ainvest.com",
+    "site_section": "https://www.ainvest.com",
+    "site_categories": [],
+    "section_title": "AInvest: AI Stock Analysis, Quotes &amp; News - Get Free Tools Now!",
+    "site_title": "AInvest: AI Stock Analysis, Quotes &amp; News - Get Free Tools Now!",
+    "title": "Iran Central Bank Limits Crypto Exchange Hours After $100 Million Nobitex Hack",
+    "title_full": "Iran Central Bank Limits Crypto Exchange Hours After $100 Million Nobitex Hack",
+    "published": "2025-06-19T06:34:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.ainvest.com/aigc/hxcmp/images/compress-1adc6cb6b8820001.png",
+    "performance_score": 0,
+    "domain_rank": 102818,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e977f023689fbb04277eb654ff608e35c19ce420",
+  "url": "https://www.ainvest.com/news/iran-central-bank-limits-crypto-exchange-hours-100-million-nobitex-hack-2506",
+  "ord_in_thread": 0,
+  "author": "Coin World",
+  "published": "2025-06-19T06:34:00.000+03:00",
+  "title": "Iran Central Bank Limits Crypto Exchange Hours After $100 Million Nobitex Hack",
+  "text": "Iran Central Bank Limits Crypto Exchange Hours After $100 Million Nobitex Hack\nThe central bank of Iran has imposed strict operating hours on its domestic crypto exchanges following a significant exploit on Nobitex, a prominent Iranian crypto exchange. The hack, which occurred on Wednesday morning, resulted in the loss of at least $100 million in assets, including a range of cryptocurrencies such as Bitcoin, Ether, Dogecoin, XRP, and Solana. The pro-Israel hacker group Gonjeshke Darande claimed responsibility for the exploit, alleging that they infiltrated Nobitex’s internal systems and drained its hot wallets.\nIn response to the hack, the central bank of Iran has limited the operating hours of domestic crypto exchanges to between 10 am and 8 pm. This move is likely an attempt to stay on top of any further attacks, as incidents are easier to triage if they’re not happening in the middle of the night. Additionally, the Iranian regime may want to assert more control over their citizens’ transactions, especially during times of high geopolitical tensions and potential capital flight from Iran.\nNobitex, which is a critical hub in Iran’s crypto ecosystem, has well over $11 billion in total inflows, compared to just under $7.5 billion for the next ten largest Iranian exchanges combined. The exchange serves as a central pillar of the country’s digital asset ecosystem, enabling access to global markets for users cut off from traditional finance. However, Nobitex also has links to a range of groups considered terrorists in the Western world, such as the Houthi rebels in Yemen, a pro-al-Qaeda propaganda channel, and sanctioned Russian crypto exchanges.\nFollowing the hack, Nobitex severed all external access to its servers and stated that the situation is now under control. The exchange’s Reserve Fund will cover all assets lost in the hack, and the technical team is emptying the exchange’s online hot wallets and sending them to offline cold storage devices to prevent further exploits and losses. However, the internet disruptions and blocked access to external servers may result in a longer-than-usual timeline for restoring user access to the platform.\nThe hackers behind the Nobitex exploit burned the stolen crypto, making them permanently removed from circulation. This is achieved by sending them to an inaccessible wallet address. While hacks historically have almost always been for financial gain, this event stands out given the intent appears to have been politically motivated to take funds away from the regime. The attacker-controlled wallets were burner addresses lacking private key access, making them irretrievable.\nThis is not the first time that Iran’s central bank has imposed restrictions on exchanges. In December, it ordered a temporary shutdown of all crypto exchanges to prevent its national currency, Rials, from being exchanged and depreciating further. The recent hack and the subsequent curfew on crypto exchanges come at a time of heightened geopolitical tensions between Iran and Israel, with the two countries trading blows since Israel launched multiple strikes inside Iran on June 13.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance"],
+  "topics": [
+    "Economy, Business and Finance->market and exchange",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->financial service"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Solana",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:36:31.769+03:00",
+  "updated": "2025-06-19T04:38:18.000+00:00"
+}

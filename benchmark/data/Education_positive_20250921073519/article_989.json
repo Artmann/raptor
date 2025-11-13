@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "5a2abaf0c523dfa7a7eb9f4a35989520dfb04cbd",
+    "url": "https://calendar.utulsa.edu/event/phi-beta-kappa-visiting-scholar-lecture-with-mark-palmer/",
+    "site_full": "calendar.utulsa.edu",
+    "site": "utulsa.edu",
+    "site_section": "https://calendar.utulsa.edu",
+    "site_categories": [],
+    "section_title": "Events for September 18, 2025 &#8211; Events Calendar",
+    "site_title": "The University of Tulsa",
+    "title": "Phi Beta Kappa Visiting Scholar Lecture with Mark Palmer - Events Calendar",
+    "title_full": "Phi Beta Kappa Visiting Scholar Lecture with Mark Palmer - Events Calendar",
+    "published": "2025-09-10T04:51:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://calendar.utulsa.edu/wp-content/uploads/sites/32/2025/09/Mark-Palmer-FB-2-e1757469504692.png",
+    "performance_score": 0,
+    "domain_rank": 34223,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5a2abaf0c523dfa7a7eb9f4a35989520dfb04cbd",
+  "url": "https://calendar.utulsa.edu/event/phi-beta-kappa-visiting-scholar-lecture-with-mark-palmer/",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-10T04:51:00.000+03:00",
+  "title": "Phi Beta Kappa Visiting Scholar Lecture with Mark Palmer - Events Calendar",
+  "text": "Phi Beta Kappa Visiting Scholar Lecture with Mark Palmer\nSeptember 18, 7:00 pm-8:30 pm\nFreeThis presentation titled “Mapping Time and Space: Indigenous Knowledge, Calendars, and Geography” explores the process of translating Indigenous knowledge into standardized visualization and virtual reality (VR) technologies. Our research team collaborated with Otomi timekeepers and knowledge holders from Central Mexico—a region the Otomi people have inhabited for over 7,000 years—cultivating their rich traditions of astronomy and timekeeping. Through a series of collaborative design meetings, Otomi knowledge holders, timekeepers, community members, academics, artists, and VR technicians contracted a culturally appropriate and visually compelling dome planetarium presentation guided by the Otomi calendar system. This project not only aims to preserve and share the Otomi’s profound understanding of time and the cosmos but also to inspire youth and broader audiences through immersive storytelling.\nMark Palmer is a professor of geography at the University of Missouri. Professor Palmer’s research focuses the social dimensions of geographic information systems (GIS) and Indigenous research sovereignty networks. Archival research has taken him to UNESCO in Paris, France, and ethnocartography fieldwork at Tongariro National Park and with the Muaūpoko iwi in Levin, New Zealand. Palmer is currently working on a book describing the processes of translating Otomi calendar knowledge into a dome planetarium presentation as a form of digital heritage. Otomi people have inhabited the central Mexico plateau for at least seven thousand years. Over this period, they have cultivated a vast knowledge of astronomy and timekeeping. Palmer writes about the participatory processes of Indigenous technoscience design as a form of Indigenous research sovereignty. He and his colleagues work were funded by the National Science Foundation, the Royal Society of New Zealand, and the Taylor Geospatial Institute. Palmer teaches Indigenous geographies, GIS, and environmental geography at Mizzou. He is a member of the Kiowa Tribe of Oklahoma and Kiowa Gourd Clan.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Education->social learning",
+    "Education->teachers",
+    "Education->college and university",
+    "Human Interest->graduation",
+    "Lifestyle and Leisure->club and association",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mark Palmer",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "University of Missouri",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:25:25.368+03:00",
+  "updated": "2025-09-18T09:30:51.000+03:00"
+}

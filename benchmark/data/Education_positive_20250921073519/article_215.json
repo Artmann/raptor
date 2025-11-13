@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "9b1f87ad69de6dcb31ca4911f5b212c1dec9cb3c",
+    "url": "https://article.wn.com/view/2025/09/18/Girls_prep_tennis_Dubuque_sends_trio_to_state/",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/tennis",
+    "site_categories": ["media"],
+    "section_title": "World News - Tennis",
+    "site_title": "World News",
+    "title": "Girls prep tennis: Dubuque sends trio to state",
+    "title_full": "Girls prep tennis: Dubuque sends trio to state",
+    "published": "2025-09-18T06:06:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 8219,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9b1f87ad69de6dcb31ca4911f5b212c1dec9cb3c",
+  "url": "https://article.wn.com/view/2025/09/18/Girls_prep_tennis_Dubuque_sends_trio_to_state/",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T06:06:00.000+03:00",
+  "title": "Girls prep tennis: Dubuque sends trio to state",
+  "text": "Toggle navigation\nIt should come as no surprise that Maddie Bellomy continues to succeed on the tennis court. ...\nTelegraph Herald\nAbout WN\n|\nSitemap\n|\nPrivacy Policy\n|\nContact\n|\nFeedback\n|\nNewsletter\n© 2025 All Rights Reserved, World News Inc.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Education", "Human Interest"],
+  "topics": [
+    "Sport->tennis",
+    "Education->students",
+    "Education->school",
+    "Human Interest->record and achievement"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Maddie Bellomy",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "World News Inc",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:57:25.738+03:00",
+  "updated": "2025-09-18T08:01:06.000+03:00"
+}

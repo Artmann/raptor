@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "5373e285d25f146950f348ce6c326b11983bebce",
+    "url": "https://therecord.media/fake-postal-service-texts-web-traffic-scam-sites",
+    "site_full": "therecord.media",
+    "site": "therecord.media",
+    "site_section": "http://cpsc.einnews.com/live_feed",
+    "site_categories": [],
+    "section_title": "Live Feed Wire - Consumer Product Safety Commission News Today - EIN Presswire",
+    "title": "Bogus post office texts deliver a ‘shocking’ amount of traffic to scam websites",
+    "title_full": "Bogus post office texts deliver a ‘shocking’ amount of traffic to scam websites",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cms.therecord.media/uploads/format_webp/andrew_winkler_2_G_Jiu_WIN_234_unsplash_9da8b7d020.jpg",
+    "performance_score": 0,
+    "domain_rank": 11154,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5373e285d25f146950f348ce6c326b11983bebce",
+  "url": "https://therecord.media/fake-postal-service-texts-web-traffic-scam-sites",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "Bogus post office texts deliver a ‘shocking’ amount of traffic to scam websites",
+  "text": "Bogus post office texts deliver a ‘shocking’ amount of traffic to scam websites “The USPS package has arrived at the warehouse and cannot be delivered.” It’s a message we’ve all received, probably dozens of times. Given their ubiquity, it might be hard to believe that text scams impersonating the United States Postal Service actually work. But based on web traffic to domains connected to these texts, the scammers are still reeling in victims. Researchers at the cybersecurity company Akamai [decided to look into USPS-related smishing campaigns](https://www.akamai.com/blog/security-research/2024/apr/phishing-usps-malicious-domains-traffic-equal-to-legitimate-traffic) — when texts are used to trick people into, say, downloading malware or sharing information — after a noticeable upsurge in activity around the 2023 Christmas holiday season. Using a smishing text sent to one Akamai employee as a reference, the researchers compiled internet domains they determined to be connected to the scams. “Our harsh parameters meant that we were exceedingly conservative with our analysis,” they wrote. “We could have definitely collected appreciably more malicious domains that impersonate the USPS, but it was critical that we avoided including false positives in this dataset.” The results? “Shocking.” Traffic to the malicious sites was typically on par with traffic to the actual USPS website — a popular service since it includes tracking information — and even exceeded legitimate traffic around the holidays, when the scams ramp up to take advantage of a surge in package deliveries. “We saw an extraordinary amount of malicious traffic, which makes the true impact of these impersonations astonishing,” they said. The top malicious domain, usps-post[.]world, received more than 169,000 queries over a five month period, with the next most popular seeing about 150,000. Typically, the texts include a link that takes people to a spoof site for the postal service. Often the site will ask people to pay a “redelivery” fee for their purported packages, requiring them to enter their payment information. The [USPS](https://faq.usps.com/s/article/Scams-Scheme-Alerts) and the U.S. Postal Inspection Services [have pages on their websites](https://www.uspis.gov/news/scam-article/smishing-package-tracking-text-scams) about smishing scams, where the latter encourages recipients to report them to [[email protected]](/cdn-cgi/l/email-protection). Despite public awareness announcements, the texts clearly are still having an impact. “It’s not surprising that USPS phishing campaigns have been, and continue to be, so popular for scammers,” Akamai wrote. “Unfortunately, there are tons of people visiting these websites, which means they’re lucrative for the attackers running them.” [Learn more.](https://www.recordedfuture.com/platform?mtm_campaign=ad-unit-record) James Reddick has worked as a journalist around the world, including in Lebanon and in Cambodia, where he was Deputy Managing Editor of The Phnom Penh Post. He is also a radio and podcast producer for outlets like Snap Judgment.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://faq.usps.com/s/article/Scams-Scheme-Alerts",
+    "https://www.uspis.gov/news/scam-article/smishing-package-tracking-text-scams",
+    "https://www.akamai.com/blog/security-research/2024/apr/phishing-usps-malicious-domains-traffic-equal-to-legitimate-traffic",
+    "https://www.recordedfuture.com/platform?mtm_campaign=ad-unit-record",
+    "https://uspis.gov/news/scam-article/smishing-package-tracking-text-scams",
+    "https://www.recordedfuture.com/platform",
+    "https://akamai.com/blog/security-research/2024/apr/phishing-usps-malicious-domains-traffic-equal-to-legitimate-traffic",
+    "https://www.faq.usps.com/s/article/Scams-Scheme-Alerts",
+    "https://recordedfuture.com/platform?mtm_campaign=ad-unit-record"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "usps",
+        "sentiment": "negative"
+      },
+      {
+        "name": "akamai",
+        "sentiment": "none"
+      },
+      {
+        "name": "united states postal service",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:01:44.451+03:00",
+  "updated": "2024-04-26T02:03:07.460+03:00"
+}

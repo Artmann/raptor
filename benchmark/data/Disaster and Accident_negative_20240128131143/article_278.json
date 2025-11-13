@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "37e114b7131239d001b2cc010c7b2a08e6fb957a",
+    "url": "https://www.thisislocallondon.co.uk/news/national/24016223.man-court-charged-murdering-man-23-found-dead-christmas-eve/",
+    "site_full": "www.thisislocallondon.co.uk",
+    "site": "thisislocallondon.co.uk",
+    "site_section": "https://www.thisislocallondon.co.uk",
+    "site_categories": ["media"],
+    "section_title": "London news, sport, weather, travel, events - This Is Local London",
+    "title": "Man in court charged with murdering man, 23, found dead on Christmas Eve | This Is Local London",
+    "title_full": "Man in court charged with murdering man, 23, found dead on Christmas Eve | This Is Local London",
+    "published": "2023-12-28T21:40:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "https://www.thisislocallondon.co.uk/resources/images/17594563/?type=og-image",
+    "performance_score": 0,
+    "domain_rank": 45332,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "37e114b7131239d001b2cc010c7b2a08e6fb957a",
+  "url": "https://www.thisislocallondon.co.uk/news/national/24016223.man-court-charged-murdering-man-23-found-dead-christmas-eve/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "PA News Agency",
+  "published": "2023-12-28T21:40:00.000+02:00",
+  "title": "Man in court charged with murdering man, 23, found dead on Christmas Eve | This Is Local London",
+  "text": "A man has appeared in court charged with murder after the death of a 23-year-old man in Cardiff on Christmas Eve. William Bush – described by relatives as “loyal, funny and caring” – was found with injuries at an address in Chapel Street at about 11.30am on Sunday, South Wales Police said. Dylan Thomas, 23, of Llandaff, appeared at Cardiff Magistrates’ Court on Thursday. He was remanded in custody to appear at Cardiff Crown Court on January 2. In a statement after the hearing, the Bush family said: “This week our beloved Will was taken away from us in such a cruel and indescribable way. “Will was such a loyal, funny and caring son, brother and boyfriend. “We are absolutely devastated and as a family request that our privacy is respected at this difficult time.” Comments: Our rules We want our comments to be a lively and valuable part of our community - a place where readers can debate and engage with the most important local issues. The ability to comment on our stories is a privilege, not a right, however, and that privilege may be withdrawn if it is abused or misused. Please report any comments that break our rules. [Read the rules here](/misc/comments) Comments are closed on this article",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Disaster and Accident",
+    "Human Interest"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "william bush",
+        "sentiment": "none"
+      },
+      {
+        "name": "bush",
+        "sentiment": "none"
+      },
+      {
+        "name": "will",
+        "sentiment": "none"
+      },
+      {
+        "name": "dylan thomas",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "local london",
+        "sentiment": "negative"
+      },
+      {
+        "name": "cardiff crown court",
+        "sentiment": "none"
+      },
+      {
+        "name": "cardiff magistrates’ court",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "cardiff",
+        "sentiment": "none"
+      },
+      {
+        "name": "chapel street",
+        "sentiment": "none"
+      },
+      {
+        "name": "south wales",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:24:42.074+02:00",
+  "updated": "2023-12-29T00:24:42.074+02:00"
+}

@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "5f01d5c91fab300f044d6357ddcfe0a01fbbba06",
+    "url": "https://driveteslacanada.ca/news/musk-reveals-fsd-beta-v12-passing-through-extra-testing-in-anticipation-of-wider-release/",
+    "site_full": "driveteslacanada.ca",
+    "site": "driveteslacanada.ca",
+    "site_section": "https://driveteslacanada.ca/rss",
+    "site_categories": ["vehicles"],
+    "section_title": "Drive Tesla",
+    "title": "Musk reveals FSD Beta V12 passing through extra testing in anticipation of wider release",
+    "title_full": "Musk reveals FSD Beta V12 passing through extra testing in anticipation of wider release",
+    "published": "2023-12-29T02:07:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://i0.wp.com/driveteslacanada.ca/wp-content/uploads/2023/03/img_3263.jpg?fit=739%2C491&amp;ssl=1",
+    "performance_score": 0,
+    "domain_rank": 95889,
+    "domain_rank_updated": "2023-12-26T12:06:35.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5f01d5c91fab300f044d6357ddcfe0a01fbbba06",
+  "url": "https://driveteslacanada.ca/news/musk-reveals-fsd-beta-v12-passing-through-extra-testing-in-anticipation-of-wider-release/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Samuel Bryant",
+  "published": "2023-12-29T02:07:00.000+02:00",
+  "title": "Musk reveals FSD Beta V12 passing through extra testing in anticipation of wider release",
+  "text": "If you are awaiting the FSD [Beta V12](https://driveteslacanada.ca/tag/fsd-v12/) update, Tesla CEO Elon Musk has good news: the new update is undergoing extra testing before a wider release. The boss explained why extra testing is required on X (formerly known as Twitter). Musk said the new version is already running on a lot of cars. However, due to being a completely different architecture, the software update has to be tested more than usual. According to Musk, the FSD Beta V12 update already works well in California but needs more training for areas with higher precipitation. https://x.com/elonmusk/status/1740189939936248225?s=20 FSD Beta V12 takes the navigation software from a rules-based to a network-path-based AI method, meaning it will function based on human driving data rather than rules programmed into the software. One Tesla staff member on the FSD team boasted the new update will ensure an autonomous car never gets involved in a collision, “even in unstructured environments.” Interestingly, this version might be the last to carry the Beta tag. Tesla [employees have been testing Beta V12 since last month](https://driveteslacanada.ca/news/tesla-fsd-v12-releases-to-employees-could-be-included-in-holiday-update/), according to Musk. More employees got the update in December. According to estimates, more than 15,000 Tesla employees have been running the update, with a general release expected toward the end of January 2024. [FSD may soon be available to Tesla users in China](https://driveteslacanada.ca/news/tesla-is-making-gradual-progress-in-bringing-fsd-to-china/). [click here to get 6 months of free Supercharging](https://www.tesla.com/referral/darryn55317)and a three month trial of Full Self-Driving (FSD).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Economy, Business and Finance"],
+  "external_links": [
+    "https://www.tesla.com/referral/darryn55317",
+    "https://x.com/elonmusk/status/1740189939936248225?s=20",
+    "https://www.x.com/elonmusk/status/1740189939936248225?s=20",
+    "https://x.com/elonmusk/status/1740189939936248225",
+    "https://tesla.com/referral/darryn55317"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "musk",
+        "sentiment": "negative"
+      },
+      {
+        "name": "elon musk",
+        "sentiment": "negative"
+      },
+      {
+        "name": "tesla",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "tesla",
+        "sentiment": "negative"
+      },
+      {
+        "name": "fsd",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "california",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T02:26:34.290+02:00",
+  "updated": "2023-12-29T12:06:16.395+02:00"
+}

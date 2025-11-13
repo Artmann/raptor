@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "df285fb23f8dd5fc7c9d222e8a289543a1a3f118",
+    "url": "https://www.gazzettadireggio.it/video/mondo/2025/10/16/video/londra-leader-indigeno-brasiliano-ringrazia-re-carlo-per-sostegno-a-difesa-dell-amazzonia-1.100776304",
+    "site_full": "www.gazzettadireggio.it",
+    "site": "gazzettadireggio.it",
+    "site_section": "https://www.gazzettadireggio.it/reggio",
+    "site_categories": [],
+    "section_title": "Reggio - Gazzetta di Reggio",
+    "site_title": "Gazzetta di Reggio",
+    "title": "Londra, leader indigeno brasiliano ringrazia re Carlo per sostegno a difesa dell'Amazzonia - Gazzetta di Reggio",
+    "title_full": "Londra, leader indigeno brasiliano ringrazia re Carlo per sostegno a difesa dell'Amazzonia - Gazzetta di Reggio",
+    "published": "2025-10-16T15:59:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://api-sites-prd.saegroup.abinsula.com/api/poster/image/social?url=https://s2.dmcdn.net/v/ZGobc1eyEnE2aMZEg/x360",
+    "performance_score": 0,
+    "domain_rank": 181811,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "df285fb23f8dd5fc7c9d222e8a289543a1a3f118",
+  "url": "https://www.gazzettadireggio.it/video/mondo/2025/10/16/video/londra-leader-indigeno-brasiliano-ringrazia-re-carlo-per-sostegno-a-difesa-dell-amazzonia-1.100776304",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T15:59:00.000+03:00",
+  "title": "Londra, leader indigeno brasiliano ringrazia re Carlo per sostegno a difesa dell'Amazzonia - Gazzetta di Reggio",
+  "text": "Londra, leader indigeno brasiliano ringrazia re Carlo per sostegno a difesa dell'Amazzonia\nRe Carlo III ha ricevuto i ringraziamenti di un anziano leader indigeno per il suo impegno nella protezione dell'Amazzonia. Il sovrano britannico ha incontrato il capo Raoni Metuktire durante un ricevimento organizzato a St James's Palace, a Londra. Il leader tribale brasiliano, che si ritiene abbia circa 90 anni, ha parlato con il re attraverso un traduttore. Lo ha ringraziato sottolineando la necessità di fermare la deforestazione e proteggere le persone, la flora e la fauna dell'Amazzonia. Il re ha dato una pacca sulla spalla al suo ospite e gli ha detto: “Stiamo facendo del nostro meglio”. All'evento era presente anche Bianca Jagger, ex moglie del leader dei Rolling Stones.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": ["Environment", "Politics"],
+  "topics": [
+    "Environment->conservation",
+    "Environment->nature",
+    "Politics->political development",
+    "Politics->international relations",
+    "Politics->government"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Carlo",
+        "sentiment": "none"
+      },
+      {
+        "name": "Raoni Metuktire",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bianca Jagger",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Amazzonia",
+        "sentiment": "none"
+      },
+      {
+        "name": "Londra",
+        "sentiment": "none"
+      },
+      {
+        "name": "St James's Palace",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Rolling Stones",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:34:48.373+03:00",
+  "updated": "2025-10-16T16:48:02.000+03:00"
+}

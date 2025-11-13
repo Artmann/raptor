@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "36d632850d64e893e961b08945c323a4a50bdce4",
+    "url": "https://www.arcamax.com/currentnews/newsheadlines/s-3219872",
+    "site_full": "www.arcamax.com",
+    "site": "arcamax.com",
+    "site_section": "https://arcamax.com/news",
+    "site_categories": ["media"],
+    "section_title": "News | ArcaMax Publishing",
+    "title": "Wolf connected to livestock killings could be breeding, wildlife officials say | News & Features | ArcaMax Publishing",
+    "title_full": "Wolf connected to livestock killings could be breeding, wildlife officials say | News & Features | ArcaMax Publishing",
+    "published": "2024-04-25T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://resources.arcamax.com/newspics/286/28684/2868480.gif",
+    "performance_score": 0,
+    "domain_rank": 40847,
+    "domain_rank_updated": "2024-04-23T13:07:55.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "36d632850d64e893e961b08945c323a4a50bdce4",
+  "url": "https://www.arcamax.com/currentnews/newsheadlines/s-3219872",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "ArcaMax Publishing, Inc.",
+  "published": "2024-04-25T08:00:00.000+03:00",
+  "title": "Wolf connected to livestock killings could be breeding, wildlife officials say | News & Features | ArcaMax Publishing",
+  "text": "Wolf connected to livestock killings could be breeding, wildlife officials say Published in [News & Features](/currentnews/newsheadlines/) Wildlife officials said they will not remove a gray wolf potentially connected to recent livestock killings, despite requests from stockgrowers. Two of the gray wolves reintroduced to Colorado’s Grand County in December — including one suspected in recent depredations — are likely “denning” and in the breeding process, Colorado Parks and Wildlife officials said in a letter to the Middle Park Stockgrowers Board Tuesday. The letter came in response to a request from the board to lethally remove two wolves suspected in the livestock attacks. Removing the male wolf “would be irresponsible management and potentially cause the den to fail, possibly resulting in the death of the presumed pups,” CPW Director Jeff Davis wrote in Tuesday’s letter. In early April, the female wolf’s GPS stopped uploading location points to the server and only started uploading again recently, according to Davis. Officials believe she was in the den, which interrupted the tracking collar’s signal and aligns with the expected timing of wolf reproduction. CPW officers are working to confirm the den’s location. Colorado’s first confirmed wolf depredation incident happened on April 2 in Grand County. The second attack came just five days later, 60 miles north in Jackson County. On April 18, the total number of livestock killed by wolves reached six as wildlife officials confirmed two more calf attacks. Amid reports of livestock attacks and depredations, one of the 10 gray wolves reintroduced to Colorado was found dead in Larimer County, federal officials confirmed Tuesday. Initial evidence shows the wolf likely died of natural causes, but an official autopsy has not yet been completed. “The wolf population in Colorado is far below any restoration goal,” Davis wrote in Tuesday’s letter. “We have the legal duty to establish a self-sustaining population of wolves while minimizing conflict risk.” As the wolf population in Colorado grows, the approach to lethal removals will likely become more liberal, Davis wrote.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Environment"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "wolf",
+        "sentiment": "negative"
+      },
+      {
+        "name": "jeff davis",
+        "sentiment": "none"
+      },
+      {
+        "name": "davis",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "arcamax publishing wolf",
+        "sentiment": "negative"
+      },
+      {
+        "name": "middle park stockgrowers board",
+        "sentiment": "none"
+      },
+      {
+        "name": "colorado parks and wildlife",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "grand county",
+        "sentiment": "none"
+      },
+      {
+        "name": "colorado",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:22:39.828+03:00",
+  "updated": "2024-04-26T00:22:39.828+03:00"
+}

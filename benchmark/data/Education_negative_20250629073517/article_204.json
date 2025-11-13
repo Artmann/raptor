@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "9e9bc7631f5b58a36c9441e3204e01857dded4b6",
+    "url": "https://www.watson.ch/fr/suisse/valais/785919736-le-valais-va-interdire-les-telephones-dans-ses-ecoles",
+    "site_full": "www.watson.ch",
+    "site": "watson.ch",
+    "site_section": "https://watson.ch/fr",
+    "site_categories": ["media", "top_news_ch", "top_news"],
+    "section_title": "watson - Plongez dans l’actu",
+    "site_title": "watson - News ohne Bla Bla",
+    "title": "Le Valais va interdire les téléphones dans ses écoles",
+    "title_full": "Le Valais va interdire les téléphones dans ses écoles",
+    "published": "2025-06-26T08:58:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CH",
+    "main_image": "https://www.watson.ch/fr/imgdb/e079/Z1200,675/7707736038647608",
+    "performance_score": 0,
+    "domain_rank": 13082,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9e9bc7631f5b58a36c9441e3204e01857dded4b6",
+  "url": "https://www.watson.ch/fr/suisse/valais/785919736-le-valais-va-interdire-les-telephones-dans-ses-ecoles",
+  "ord_in_thread": 0,
+  "author": "Jonathan Zalts",
+  "published": "2025-06-26T08:58:00.000+03:00",
+  "title": "Le Valais va interdire les téléphones dans ses écoles",
+  "text": "Le Valais va interdire les téléphones mobiles dans toutes les écoles du canton, annonce le ministre valaisan de l'éducation Christophe Darbellay jeudi dans la presse. La mesure s'appliquera aussi pendant les pauses.\n«De plus en plus d'enfants présentent des difficultés d'apprentissage et de lecture. Leur capacité à se concentrer diminue», explique le conseiller d'Etat valaisan en charge de l'économie et de la formation dans un entretien diffusé par les journaux alémaniques du groupe Tamedia.\nL'interdiction des téléphones portables va s'appliquer pendant tout le temps passé dans l'enceinte de l'école, y compris les pauses et le temps de midi, précise Darbellay. «Le chemin de l'école est de la responsabilité des parents».\nLe ministre centriste estime que des règles uniformes dans tout le canton soulagent les enseignants et les parents. «La pression du groupe est élevée chez les enfants et les adolescents». (jzs/ats)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Politics"],
+  "topics": [
+    "Education->school",
+    "Education->teachers",
+    "Education->students",
+    "Social Issue->social condition",
+    "Social Issue->children",
+    "Social Issue->social services",
+    "Politics->government",
+    "Politics->civil rights",
+    "Politics->education policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ch", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T09:40:38.522+03:00",
+  "updated": "2025-06-27T07:10:04.000+00:00"
+}

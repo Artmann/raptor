@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "620f486be171df8713653c5d05f03b57db8f260c",
+    "url": "https://wtvbam.com/2024/04/25/explainer-new-epa-power-sector-rules-set-up-likely-legal-clashes",
+    "site_full": "wtvbam.com",
+    "site": "wtvbam.com",
+    "site_section": "https://wtvbam.com/feed",
+    "site_categories": ["media"],
+    "section_title": "Coldwater | WTVB | wtvbam.com",
+    "title": "Explainer-New EPA power sector rules set up likely legal clashes",
+    "title_full": "Explainer-New EPA power sector rules set up likely legal clashes",
+    "published": "2024-04-26T00:23:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2024-04/25/2024-04-25T201406Z_1_LYNXNPEK3O0YP_RTROPTP_3_USA-COAL-CREDITS.JPG",
+    "performance_score": 0,
+    "domain_rank": 80892,
+    "domain_rank_updated": "2024-04-23T13:07:59.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "620f486be171df8713653c5d05f03b57db8f260c",
+  "url": "https://wtvbam.com/2024/04/25/explainer-new-epa-power-sector-rules-set-up-likely-legal-clashes",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Syndicated Content",
+  "published": "2024-04-26T00:23:00.000+03:00",
+  "title": "Explainer-New EPA power sector rules set up likely legal clashes",
+  "text": "By Clark Mindock\n(Reuters) – The U.S. Environmental Protection Agency on Thursday finalized new regulations targeting pollution from power plants, including a landmark rule that requires sweeping reductions in carbon emissions from existing coal and new gas plants to combat climate change. The move is expected to usher in major legal challenges.\nHere’s what you need to know.\nWHAT DO THE RULES DO?\nThe EPA’s four rules require drastic cuts in carbon pollution from power plants and update long-standing measures to reduce mercury and toxic air pollutants, clean up wastewater and lessen coal ash discharges.\nThe power plant emissions rule mandates that many new gas and existing coal plants reduce their greenhouse gas emissions by 90% by 2032. That could require the U.S. power industry to install billions of dollars worth of emissions control technologies or shut down the dirtiest facilities operating today.\nThe agency says the most stringent reductions can be achieved through the installation of carbon capture and sequestration (CCS) technology, which traps greenhouse gasses as they are released.\nThe EPA projects the emissions rule will cut 1.38 billion metric tons of carbon pollution through 2047, which is equivalent to preventing the annual emissions from 328 million gas-powered cars.\nHOW HAVE COURTS RESPONDED TO EARLIER PLANT RESTRICTIONS?\nThe new carbon emissions regulations come nearly two years after the U.S. Supreme Court struck down a previous power plant emissions rule developed during the Obama administration, which sought to spur a shift from coal to cleaner energy sources.\nIn its 6-3 ruling in West Virginia v. EPA, the Supreme Court found that the Clean Air Act did not expressly authorize the EPA to require electricity generators to shift from fossil fuels to energy sources like wind or solar that emit less carbon dioxide.\nThe decision invoked the “major questions” legal doctrine, which requires regulatory agencies to possess explicit congressional authorization before they can take consequential actions on issues of far-reaching importance and societal impact.\nThe new plant emissions rule does not directly require a shift from fossil fuels. Legal experts say it attempts to hew closer to a more traditional reading of the agency’s power in the Clean Air Act by favoring technologies like carbon capture and sequestration that can be installed at the power plants themselves.\nHOW COULD LEGAL CLASHES OVER THE RULE SHAPE UP?\nWest Virginia Attorney General Patrick Morrissey on Thursday promised to challenge the power plant emissions rule in court. Last year, Morrissey led a group of Republican attorneys general who complained that the rule sets “unrealistic” and expensive standards that go well beyond the EPA’s legal authority. The states said the rules would “kill jobs, raise energy prices, and hurt energy reliability.”\nU.S. Senator Shelley Moore Capito of West Virginia, the top Republican on the Senate environment committee, separately said on Thursday she would introduce a resolution to overturn the rules.\nRepublican-led states and industry groups are likely to claim in any lawsuits that the emissions rule far surpasses the EPA’s legal authority, triggers the major questions doctrine and violates administrative law. The other pollution rules announced Thursday are also likely to be targeted in court.\nLegal experts say the EPA’s decision to trim the final carbon emissions rule compared to an earlier proposal – including by removing hydrogen as a “best system of emissions reduction,” and removing requirements for existing gas plants – may make the rule somewhat easier to defend but will not stop the coming courtroom blitz.\nBusiness and electric utility groups including the U.S. Chamber of Commerce and the Edison Electric Institute have said the rule relies too heavily on carbon-quelling technologies that have not been deployed at scale and face significant regulatory hurdles.\nThey also argued that installing capture and sequestration systems would require building pipelines and emissions storage facilities outside the power plants themselves.\n(Reporting by Clark Mindock; Editing by David Bario and Daniel Wallis)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Crime, Law and Justice", "Politics"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "clark mindock",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "reuters",
+        "sentiment": "negative"
+      },
+      {
+        "name": "u.s. environmental protection agency",
+        "sentiment": "negative"
+      },
+      {
+        "name": "epa",
+        "sentiment": "negative"
+      },
+      {
+        "name": "ccs",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:38:26.592+03:00",
+  "updated": "2024-04-26T00:38:26.592+03:00"
+}

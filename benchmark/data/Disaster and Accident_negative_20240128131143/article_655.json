@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "e6587b2857dc9c4c9b56543c1ace6a25524a1c51",
+    "url": "https://www.cbsnews.com/sanfrancisco/news/sf-new-years-2024-public-urged-to-avoid-treasure-island-yerba-buena-island-fireworks/",
+    "site_full": "www.cbsnews.com",
+    "site": "cbsnews.com",
+    "site_section": "https://www.cbsnews.com/sanfrancisco",
+    "site_categories": ["media", "television", "entertainment"],
+    "section_title": "CBS Bay Area - Breaking Local News, First Alert Weather &amp; Sports",
+    "title": "SF officials urge public to avoid Treasure Island for New Year's 2024 fireworks - CBS San Francisco",
+    "title_full": "SF officials urge public to avoid Treasure Island for New Year's 2024 fireworks - CBS San Francisco",
+    "published": "2023-12-28T21:41:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/07/05/8a466ce4-7fc5-41ea-913b-16b62ab0c935/thumbnail/1200x630/b4924f53c47d398e95129136fdb7171b/sf-fireworks-1.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
+    "performance_score": 0,
+    "domain_rank": 187,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e6587b2857dc9c4c9b56543c1ace6a25524a1c51",
+  "url": "https://www.cbsnews.com/sanfrancisco/news/sf-new-years-2024-public-urged-to-avoid-treasure-island-yerba-buena-island-fireworks/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Tim Fang",
+  "published": "2023-12-28T21:41:00.000+02:00",
+  "title": "SF officials urge public to avoid Treasure Island for New Year's 2024 fireworks - CBS San Francisco",
+  "text": "SAN FRANCISCO – Officials on San Francisco's Treasure Island are urging revelers looking to watch the New Year's fireworks to avoid the area due to ongoing construction.\nIn a statement Thursday, the Treasure Island Development Authority said it \"strongly discourages\" visiting Treasure Island and Yerba Buena Island on New Year's Eve.\n\"Viewing areas and parking will be extremely limited for viewing of the New Year's Eve Fireworks Show, and roadways into parking areas will be inaccessible,\" officials said.\nAs in past years, a large fireworks display is set to begin along the Embarcadero near the Ferry Building at the stroke of midnight on January 1. Multiple transit agencies, including Muni, BART and Caltrain , are offering extended service before and after the show.\nLocated in the middle of San Francisco Bay, Treasure Island is in the midst of a yearlong redevelopment project to transform the onetime military base into a new neighborhood. According to city planning officials , up to 8,000 homes, 140,000 square feet of commercial and retail space, along with 100,000 square feet of new office space are planned for the island.\nMore from CBS News NWS Beach hazard advisory in effect starting Friday Arsonists who burned cars in San Francisco neighborhood leave residents wondering why Advocates hopeful new Golden Gate Bridge suicide barrier will save lives Thieves use car to ram SF Bank of America branch on Balboa Street, steal ATM Storm-damaged Pacifica Pier to close for repairs until late January In: New Year's Eve San Francisco",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Human Interest", "Disaster and Accident", "Social Issue"],
+  "external_links": [
+    "https://sfplanning.org/project/treasure-island",
+    "https://mtc.ca.gov/news/public-transit-provides-free-rides-extended-hours-new-years-eve",
+    "https://www.mtc.ca.gov/news/public-transit-provides-free-rides-extended-hours-new-years-eve",
+    "https://www.sfplanning.org/project/treasure-island"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "treasure island",
+        "sentiment": "negative"
+      },
+      {
+        "name": "treasure island development authority",
+        "sentiment": "none"
+      },
+      {
+        "name": "bart",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "san francisco",
+        "sentiment": "none"
+      },
+      {
+        "name": "cbs san francisco san francisco",
+        "sentiment": "none"
+      },
+      {
+        "name": "san francisco bay",
+        "sentiment": "none"
+      },
+      {
+        "name": "yerba buena island",
+        "sentiment": "none"
+      },
+      {
+        "name": "treasure island",
+        "sentiment": "none"
+      },
+      {
+        "name": "embarcadero",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:58:38.928+02:00",
+  "updated": "2024-01-05T06:27:07.844+02:00"
+}

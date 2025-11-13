@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "4fd5b4e5b32cf42ef14fb7d54d15c03b009ff29d",
+    "url": "https://community.webroot.com/security-industry-news-4/microsoft-disables-msix-protocol-handler-abused-in-malware-attacks-356492",
+    "site_full": "community.webroot.com",
+    "site": "webroot.com",
+    "site_section": "https://community.webroot.com",
+    "site_categories": ["tech", "antivirus_software"],
+    "section_title": "Ask your question | Webroot Community",
+    "title": "Microsoft disables MSIX protocol handler abused in malware attacks | Webroot Community",
+    "title_full": "Microsoft disables MSIX protocol handler abused in malware attacks | Webroot Community",
+    "published": "2023-12-28T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://uploads-us-west-2.insided.com/webroot-en/attachment/0fc0c398-06a6-4efe-a0c7-99c4084be338_thumb.jpg",
+    "performance_score": 0,
+    "domain_rank": 6739,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4fd5b4e5b32cf42ef14fb7d54d15c03b009ff29d",
+  "url": "https://community.webroot.com/security-industry-news-4/microsoft-disables-msix-protocol-handler-abused-in-malware-attacks-356492",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2023-12-28T02:00:00.000+02:00",
+  "title": "Microsoft disables MSIX protocol handler abused in malware attacks | Webroot Community",
+  "text": "December 28, 2023 By Sergiu Gatlan Microsoft has again disabled the MSIX ms-appinstaller protocol handler after multiple financially motivated threat groups abused it to infect Windows users with malware. The attackers exploited the [CVE-2021-43890](https://msrc.microsoft.com/update-guide/advisory/CVE-2021-43890) Windows AppX Installer spoofing vulnerability to circumvent security measures that would otherwise protect Windows users from malware, such as the Defender SmartScreen anti-phishing and anti-malware component and built-in browser alerts cautioning users against executable file downloads. Microsoft says the threat actors use both malicious advertisements for popular software and Microsoft Teams phishing messages to push signed malicious MSIX application packages. \"Since mid-November 2023, Microsoft Threat Intelligence has observed threat actors, including financially motivated actors like Storm-0569, Storm-1113, Sangria Tempest, and Storm-1674, utilizing the [ms-appinstaller URI scheme](https://learn.microsoft.com/windows/msix/app-installer/installing-windows10-apps-web) (App Installer) to distribute malware,\" the company [said](https://www.microsoft.com/en-us/security/blog/2023/12/28/financially-motivated-threat-actors-misusing-app-installer/).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Disaster and Accident",
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://learn.microsoft.com/windows/msix/app-installer/installing-windows10-apps-web)",
+    "https://msrc.microsoft.com/update-guide/advisory/CVE-2021-43890)",
+    "https://www.microsoft.com/en-us/security/blog/2023/12/28/financially-motivated-threat-actors-misusing-app-installer/).",
+    "https://microsoft.com/en-us/security/blog/2023/12/28/financially-motivated-threat-actors-misusing-app-installer/).",
+    "https://www.learn.microsoft.com/windows/msix/app-installer/installing-windows10-apps-web)",
+    "https://www.msrc.microsoft.com/update-guide/advisory/CVE-2021-43890)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "sergiu gatlan microsoft",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "microsoft",
+        "sentiment": "negative"
+      },
+      {
+        "name": "microsoft threat intelligence",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:14:49.823+02:00",
+  "updated": "2023-12-29T00:14:49.823+02:00"
+}

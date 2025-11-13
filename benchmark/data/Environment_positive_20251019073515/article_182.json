@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "ff2311d965d6d55e7238809d3b5191daca8066e5",
+    "url": "https://chel.mk.ru/social/2025/10/16/proekt-shkolnikov-iz-chelyabinskoy-oblasti-vyigral-priz-def2025.html",
+    "site_full": "chel.mk.ru",
+    "site": "mk.ru",
+    "site_section": "https://chel.mk.ru",
+    "site_categories": ["media", "top_news_ru", "top_news"],
+    "section_title": "Новости Челябинска и Челябинской области - МК-Урал",
+    "site_title": "Новости Челябинска и Челябинской области - МК-Урал",
+    "title": "Проект школьников из Челябинской области выиграл приз ДЭФ-2025 - МК Челябинск",
+    "title_full": "Проект школьников из Челябинской области выиграл приз ДЭФ-2025 - МК Челябинск",
+    "published": "2025-10-16T13:47:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://static.mk.ru/upload/entities/2025/10/16/12/articles/facebookPicture/f0/02/6c/24/9642df1cee3b1feadea1cded2d7dd9f3.jpg",
+    "performance_score": 0,
+    "domain_rank": 3207,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ff2311d965d6d55e7238809d3b5191daca8066e5",
+  "url": "https://chel.mk.ru/social/2025/10/16/proekt-shkolnikov-iz-chelyabinskoy-oblasti-vyigral-priz-def2025.html",
+  "ord_in_thread": 0,
+  "author": "Евгений Жильцов",
+  "published": "2025-10-16T13:47:00.000+03:00",
+  "title": "Проект школьников из Челябинской области выиграл приз ДЭФ-2025 - МК Челябинск",
+  "text": "В Челябинске подвели итоги III Детского экологического форума. В конце последнего дня были определены лучшие проекты в восемнадцати категориях. Каждому из них досталась награда от губернатора Алексея Текслера. В дальнейшем выигравшие команды получат поддержку и смогут воплотить свои задумки в жизнь.\nОдним из проектов-победителей стала работа юных экологов из Челябинской области. Ребята продумали туристический маршрут «Природа, которая помнит: природа и люди Южного Урала в годы Великой Отечественной войны». По задумке, он позволит путешественникам погрузиться в историю, ощутить связь времён и насладиться природными красотами нашего края. Разработкой идеи занимались школьники, в том числе юные железнодорожники.\n«Инициатива рассказывает о том, как природа и люди региона помогали стране в годы Великой Отечественной войны», – отметили в пресс-службе Южно-Уральской железной дороги.\nКонцепция очень приглянулась членам жюри ДЭФ. Проект выиграл в номинации «Лучший проект по развитию экотуризма».\nРанее по теме: В Челябинске представили первые проекты детского экологического форума.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "positive",
+  "categories": ["Environment", "Education"],
+  "topics": ["Environment->environmental clean-up", "Education->school"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ru", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:55:22.303+03:00",
+  "updated": "2025-10-16T14:08:10.000+03:00"
+}

@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "1a571d4cd757072172413b64cd49a98feba23bb7",
+    "url": "https://www.wmar2news.com/local/bathroom-altercation-leads-to-deadly-shooting-inside-harford-county-mcdonalds",
+    "site_full": "www.wmar2news.com",
+    "site": "wmar2news.com",
+    "site_section": "https://www.wmar2news.com",
+    "site_categories": ["uncategorized"],
+    "section_title": "Baltimore News and Headlines | WMAR - TV | WMAR 2 News",
+    "title": "McDonald's bathroom altercation leads to murder in Harford County",
+    "title_full": "McDonald's bathroom altercation leads to murder in Harford County",
+    "published": "2024-04-25T22:37:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ewscripps.brightspotcdn.com/dims4/default/9c70ffd/2147483647/strip/true/crop/1182x621+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F91%2F4f%2F1b278e074f8d91b038e7d48800cb%2Fscreenshot-2024-04-24-at-1-52-21-pm.png",
+    "performance_score": 0,
+    "domain_rank": 15791,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1a571d4cd757072172413b64cd49a98feba23bb7",
+  "url": "https://www.wmar2news.com/local/bathroom-altercation-leads-to-deadly-shooting-inside-harford-county-mcdonalds",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Ryan Dickstein",
+  "published": "2024-04-25T22:37:00.000+03:00",
+  "title": "McDonald's bathroom altercation leads to murder in Harford County",
+  "text": "BELCAMP, Md. — Charging documents shed more light on what led to a man's murder inside a Harford County McDonald's.\nSebashton Charles Nocar, 19, was shot to death Tuesday night at the fast food chain on Riverside Parkway in Belcamp.\nA witness with Nocar, told deputies about an earlier altercation with someone inside the bathroom of the restaurant.\nCameras inside the McDonald's captured the incident, which provided detectives with photos and a description of the alleged shooter.\nInvestigators also spoke to a clerk at a nearby store, where the gunman reportedly went after the shooting.\nThe clerk told police the suspect frequented the store, and worked at the McDonald's.\nRestaurant management later helped identify the suspect as Djbril Ramatoulay.\nRELATED: 19-year-old shot to death inside Harford County McDonald's, alleged gunman arrested\nIn fact, police say there was a report of Ramatoulay acting disorderly at the McDonald's just one week prior to the shooting.\nOnline court records show Ramatoulay was on probation at the time of the murder. He was convicted of felony first-degree assault back in 2018, and received 13-years, but a judge suspended the entire sentence.\nRamatoulay was instead placed on five-years supervised probation, which records say he violated twice, yet remained free anyway.\nRamatoulay is currently being held without bail. He's next due in court on May 23.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Health", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "harford cou",
+        "sentiment": "negative"
+      },
+      {
+        "name": "sebashton charles nocar",
+        "sentiment": "none"
+      },
+      {
+        "name": "ramatoulay",
+        "sentiment": "none"
+      },
+      {
+        "name": "nocar",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "mcdonald",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "harford county belcamp",
+        "sentiment": "none"
+      },
+      {
+        "name": "md.",
+        "sentiment": "none"
+      },
+      {
+        "name": "riverside parkway",
+        "sentiment": "none"
+      },
+      {
+        "name": "harford county mcdonald's",
+        "sentiment": "none"
+      },
+      {
+        "name": "belcamp",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:11:24.767+03:00",
+  "updated": "2024-04-27T06:54:50.811+03:00"
+}

@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "3386e2074a2f626ed2c8971d87662c17abcda66a",
+    "url": "https://www.laniercountynewsonline.com/2025/09/18/badges-and-books-sheriffs-deputies-bring-stories-to-life-for-laniers-young-readers/",
+    "site_full": "www.laniercountynewsonline.com",
+    "site": "laniercountynewsonline.com",
+    "site_section": "https://laniercountynewsonline.com",
+    "site_categories": [],
+    "section_title": "Lanier County News",
+    "site_title": "Lanier County News",
+    "title": "Badges and Books: Sheriff's Deputies Bring Stories to Life for Lanier's Young Readers",
+    "title_full": "Badges and Books: Sheriff's Deputies Bring Stories to Life for Lanier's Young Readers",
+    "published": "2025-09-18T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3386e2074a2f626ed2c8971d87662c17abcda66a",
+  "url": "https://www.laniercountynewsonline.com/2025/09/18/badges-and-books-sheriffs-deputies-bring-stories-to-life-for-laniers-young-readers/",
+  "ord_in_thread": 0,
+  "author": "Editor",
+  "published": "2025-09-18T08:00:00.000+03:00",
+  "title": "Badges and Books: Sheriff's Deputies Bring Stories to Life for Lanier's Young Readers",
+  "text": "By Carol A. Gasser Moore |\nLAKELAND, Lanier County, Ga. — Monday, September 15, was no ordinary school day at Lanier County Elementary. Instead of starting the week with math drills or spelling tests, students were treated to a special surprise—uniformed officers from the Lanier County Sheriff’s Office spent the entire day reading aloud to classes as part of Reading to the Children Day at Lanier .\nDeputies traded in patrol cars for picture books, sitting shoulder-to-shoulder with wide-eyed students eager to hear their favorite stories. From tales of adventure to lessons about friendship and kindness, the readings filled classrooms with laughter, curiosity, and an undeniable sense of connection.\nBuilding Trust Through Storytime Educators say the event provided more than just fun. “When children see deputies as approachable, caring role models, it builds trust and confidence,” one teacher explained. “This makes a huge difference, not only in reading skills but also in the way kids view law enforcement in their daily lives.”\nFor the Sheriff’s Office, the day was about showing a softer side of public service. “Our deputies don’t just protect the community—they’re part of it,” Sheriff’s officials shared. “Reading with students lets them see us as neighbors and friends, while encouraging their love of learning.”\nThe Power of Positive Role Models Experts agree that having adults, especially community leaders, read to children offers multiple benefits:\nImproved Literacy Skills: Hearing fluent reading helps students strengthen vocabulary and comprehension.\nBoosted Confidence: Positive attention from respected adults reinforces the importance of learning.\nStronger Community Bonds: Children recognize that their well-being matters not only to teachers and parents, but to law enforcement too.\nOne second-grader summed it up best after a deputy finished reading a story about teamwork: “That was cool! He has a badge and he reads better than my brother!”\nA Day to Remember As the school day ended, students left with smiles, stories, and a renewed excitement for books. The Sheriff’s Office left with the satisfaction of knowing they had made an impact far beyond the classroom.\n“Reading is the key to opportunity,” one deputy said while closing his book. “If we can help spark that love in even one child, it’s a day well spent.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": [
+    "Education->primary education",
+    "Education->teachers",
+    "Education->students",
+    "Human Interest->graduation",
+    "Social Issue->children",
+    "Social Issue->communities",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Carol A. Gasser Moore",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Lanier County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Sheriff’s Office",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Valdosta", "Lakeland", "Aldora"],
+      "state": ["Georgia"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:54:11.046+03:00",
+  "updated": "2025-09-18T09:02:04.000+03:00"
+}

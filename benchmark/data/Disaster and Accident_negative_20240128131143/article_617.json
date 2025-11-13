@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "bc2d81c0e18a3be51f4ead2b415fae00b5ff5548",
+    "url": "https://www.abc10.com/article/news/local/lodi/pipe-bomb-found-lodi-deputies-search-residence/103-6a740c43-eaf6-4b62-a3ab-6129aca68c0d",
+    "site_full": "www.abc10.com",
+    "site": "abc10.com",
+    "site_section": "https://abc10.com/sports",
+    "site_categories": ["media"],
+    "section_title": "Sports from ABC10 in Sacramento | Sacramento, CA | ABC10.com | abc10.com",
+    "title": "Lodi: Deputies find pipe bomb after serving search warrant | abc10.com",
+    "title_full": "Lodi: Deputies find pipe bomb after serving search warrant | abc10.com",
+    "published": "2023-12-28T19:55:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.abc10.com/assets/KXTV/images/b7dde728-b8b2-448c-9fca-a6a6ded37247/b7dde728-b8b2-448c-9fca-a6a6ded37247_1140x641.jpg",
+    "performance_score": 0,
+    "domain_rank": 11267,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bc2d81c0e18a3be51f4ead2b415fae00b5ff5548",
+  "url": "https://www.abc10.com/article/news/local/lodi/pipe-bomb-found-lodi-deputies-search-residence/103-6a740c43-eaf6-4b62-a3ab-6129aca68c0d",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Alex Muegge",
+  "published": "2023-12-28T19:55:00.000+02:00",
+  "title": "Lodi: Deputies find pipe bomb after serving search warrant | abc10.com",
+  "text": "LODI, Calif. — Law enforcement says the scene is clear after a search Thursday for explosives or other potentially harmful devices at a home in Lodi after finding a homemade pipe bomb while serving a search warrant. Deputies with the [San Joaquin County Sheriff’s Office](https://sjsheriff.org/) served a search warrant Wednesday to a home on the 1000 block of Church Street in Lodi, according to [a social media post](https://www.facebook.com/SJSheriff/posts/pfbid0X2XS7jvfaHF6bYsDh2LCzYAPUsJwmYgEtRZjKftVUyzkfMLqiigeFzHnpRuDEXTkl) by the sheriff’s office. Authorities said they found a homemade pipe bomb in a person's vehicle parked at the house. The sheriff’s office continues to search the home Thursday due to locating the device, the news release said. “The residence is packed with miscellaneous items, making it challenging for our EOD (Explosive Ordinance Detail) team to properly search,” the sheriff’s office said. Law enforcement said there was no immediate threat to the community. The FBI and other law enforcement agencies assisted the sheriff's office.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "War, Conflict and Unrest",
+    "Disaster and Accident",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [
+    "https://www.facebook.com/SJSheriff/posts/pfbid0X2XS7jvfaHF6bYsDh2LCzYAPUsJwmYgEtRZjKftVUyzkfMLqiigeFzHnpRuDEXTkl)",
+    "https://sjsheriff.org/)",
+    "https://www.sjsheriff.org/)",
+    "https://facebook.com/SJSheriff/posts/pfbid0X2XS7jvfaHF6bYsDh2LCzYAPUsJwmYgEtRZjKftVUyzkfMLqiigeFzHnpRuDEXTkl)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "san joaquin county sheriff’s office",
+        "sentiment": "none"
+      },
+      {
+        "name": "fbi",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "lodi",
+        "sentiment": "none"
+      },
+      {
+        "name": "lodi",
+        "sentiment": "none"
+      },
+      {
+        "name": "calif.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:51:38.893+02:00",
+  "updated": "2023-12-29T00:51:38.893+02:00"
+}

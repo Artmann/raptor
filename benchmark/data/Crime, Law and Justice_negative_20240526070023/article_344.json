@@ -1,0 +1,137 @@
+{
+  "thread": {
+    "uuid": "94dc920276d3f03012b45724096e7a0ed96ed159",
+    "url": "https://www.rttnews.com/3441978/samourai-wallet-co-founders-arrested-and-charged-with-money-laundering.aspx",
+    "site_full": "www.rttnews.com",
+    "site": "rttnews.com",
+    "site_section": "https://www.rttnews.com/content/investors.aspx",
+    "site_categories": ["media", "education"],
+    "section_title": "\r\n\tInvestors News, Dividends, Investing Ideas for new or seasoned investors – RTTNews\r\n",
+    "title": "Samourai Wallet Co-founders Arrested And Charged With Money Laundering",
+    "title_full": "Samourai Wallet Co-founders Arrested And Charged With Money Laundering",
+    "published": "2024-04-25T23:20:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.rttnews.com/articleimages/ustopstories/2024/april/bitcoin-25042024-lt.jpg",
+    "performance_score": 0,
+    "domain_rank": 20491,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "94dc920276d3f03012b45724096e7a0ed96ed159",
+  "url": "https://www.rttnews.com/3441978/samourai-wallet-co-founders-arrested-and-charged-with-money-laundering.aspx",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "RTTNews Staff Writer",
+  "published": "2024-04-25T23:20:00.000+03:00",
+  "title": "Samourai Wallet Co-founders Arrested And Charged With Money Laundering",
+  "text": "The founders of the Samourai Wallet, Keonne Rodriguez, and William Lonergan Hill, have been indicted by federal prosecutors on charges of conspiracy to commit money laundering and conspiracy to operate an unlicensed money-transmitting business. The charges carry maximum sentences of 20 years and five years, respectively. The Samourai Wallet website, which is hosted in Iceland, has been seized, along with a warrant for the mobile application on the Google Play Store. Rodriguez was arrested on Wednesday morning and is set to be arraigned in Pennsylvania. Meanwhile, Hill, who is the CTO of Samourai Wallet, was arrested in Portugal on the same day and is expected to be extradited to the U.S. According to a press release issued on Wednesday, the duo allegedly developed, marketed, and operated a cryptocurrency mixer that processed over $2 billion in unlawful transactions, including at least $100 million via illegal dark web marketplaces like the Silk Road and Hydra Market. U.S. Attorney Damian Williams stated that the government will continue to pursue and dismantle criminal organizations that use cryptocurrency to hide illicit conduct. The U.S. government is actively taking legal action against crypto mixing tools that may be used by illicit actors and foreign entities to conceal fund transfers. This move is part of the government's efforts to prevent the use of cryptocurrency in money laundering and other criminal activities. For comments and feedback contact: editorial@rttnews.com Technology News Biotech Stocks Facing FDA Decision In April 2024 Biotech Stocks Facing FDA Decision in March 2024 Biotech Stocks Facing FDA Decision In November 2023 A busy week for economics saw the release of first quarter growth figures for the U.S. economy and the interest rate decision in Japan. Read our stories to find out why the GDP data damped market sentiment in the U.S. and what were the signals given out by the Bank of Japan. Other news this week included new home sales data and jobless claims figures from the U.S., and the latest purchasing managers' survey results for the Eurozone.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "samourai",
+        "sentiment": "negative"
+      },
+      {
+        "name": "keonne rodriguez",
+        "sentiment": "negative"
+      },
+      {
+        "name": "william lonergan hill",
+        "sentiment": "negative"
+      },
+      {
+        "name": "samourai wallet",
+        "sentiment": "negative"
+      },
+      {
+        "name": "hill",
+        "sentiment": "none"
+      },
+      {
+        "name": "damian williams",
+        "sentiment": "none"
+      },
+      {
+        "name": "rodriguez",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "samourai wallet",
+        "sentiment": "none"
+      },
+      {
+        "name": "google play store",
+        "sentiment": "none"
+      },
+      {
+        "name": "cto",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "silk road",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s",
+        "sentiment": "none"
+      },
+      {
+        "name": "portugal",
+        "sentiment": "none"
+      },
+      {
+        "name": "iceland",
+        "sentiment": "none"
+      },
+      {
+        "name": "pennsylvania",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:13:56.063+03:00",
+  "updated": "2024-04-26T20:34:57.164+03:00"
+}

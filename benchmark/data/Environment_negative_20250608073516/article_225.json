@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "db84a51f90e87d33045c94df2df72cd77542c501",
+    "url": "https://www.concierto.cl/2025/05/cortes-de-luz-en-santiago-para-el-jueves-8-de-mayo-horarios-sectores-y-comunas-afectadas",
+    "site_full": "www.concierto.cl",
+    "site": "concierto.cl",
+    "site_section": "http://www.concierto.cl/feed",
+    "site_categories": ["music", "entertainment"],
+    "section_title": "Radio Concierto Chile",
+    "site_title": "Radio Concierto Chile - Sólo grandes canciones",
+    "title": "Cortes de luz en Santiago para el jueves 8 de mayo: horarios, sectores y comunas afectadas",
+    "title_full": "Cortes de luz en Santiago para el jueves 8 de mayo: horarios, sectores y comunas afectadas",
+    "published": "2025-05-08T00:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CL",
+    "main_image": "https://www.concierto.cl/wp-content/uploads/2025/04/Cortes-de-luz-Santiago-1.webp",
+    "performance_score": 0,
+    "domain_rank": 151562,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "db84a51f90e87d33045c94df2df72cd77542c501",
+  "url": "https://www.concierto.cl/2025/05/cortes-de-luz-en-santiago-para-el-jueves-8-de-mayo-horarios-sectores-y-comunas-afectadas",
+  "ord_in_thread": 0,
+  "author": "Edecio Brito Adrián",
+  "published": "2025-05-08T00:30:00.000+03:00",
+  "title": "Cortes de luz en Santiago para el jueves 8 de mayo: horarios, sectores y comunas afectadas",
+  "text": "Enel Distribución confirmó nuevos cortes de luz programados para este jueves 8 de mayo en diversas comunas de la Región Metropolitana de Santiago.\nEstas interrupciones corresponden a trabajos previamente planificados en la red de suministro eléctrico y afectarán a sectores específicos de la capital. La medida coincide con la esperada llegada de lluvia a la Región Metropolitana, por lo que se recomienda a los vecinos tomar precauciones adicionales.\nComo ocurre casi a diario, estas labores tienen entre sus principales objetivos mejorar la calidad del servicio, realizar mantenimiento preventivo en la red y conectar nuevos clientes.\nSe trata de situaciones limitadas a ciertas calles y barrios específicos de las comunas involucradas, y los cortes podrían extenderse por hasta siete horas consecutivas, dependiendo de la localidad.\nEnel indicó en su sitio web que \"los cortes programados de suministro pueden durar varias horas, y son avisados anticipadamente para que los usuarios puedan planificar sus actividades\".\nCortes de luz en Santiago este jueves 8 de mayo: Comunas y horarios definidos\nSegún el detalle entregado por Enel, las cuatro comunas afectadas por cortes de energía programados este jueves 8 de mayo son:\n- Estación Central: Desde las 10:00 horas hasta las 16:00 horas.\n- Lo Prado: Desde las 10:00 horas hasta las 16:00 horas.\n- Quinta Normal: Desde las 10:30 horas hasta las 11:30 horas.\n- Maipú: Desde las 11:00 horas hasta las 17:00 horas.\nEstas interrupciones corresponden a trabajos necesarios para llevar a cabo labores programadas en la red de suministro eléctrico.\nAtención especial para electrodependientes y canales de contacto\nEnel reitera que, a pesar de la duración de los cortes, el suministro eléctrico se restablecerá durante la tarde del mismo día en los sectores intervenidos.\nPara conocer el detalle específico de las calles afectadas, se recomienda consultar el mapa de trabajos programados en el sitio web de la compañía.\nEn caso de que los usuarios experimenten una interrupción del suministro que no esté dentro de los horarios informados, Enel recuerda que pueden reportarla a través de los siguientes canales:\n- Call center general: 600 696 0000 / 800 800 696\n- Fonoservicio para electrodependientes: 22 696 0000\n- WhatsApp: +56 9 9444 7606\n- App Enel Clientes Chile\n- Sitio web oficial:\nwww.enel.cl/clientes\nEstos trabajos forman parte de un plan regular de mantenimiento que Enel realiza en la capital para asegurar la eficiencia y estabilidad del sistema de distribución eléctrica.\nSe recomienda a los vecinos de las zonas afectadas tomar las precauciones necesaria. Especialmente considerando que la llegada de la lluvia podría coincidir con estos cortes de suministro.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": null,
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.enel.cl/es/clientes.html",
+    "https://enel.cl/es/clientes.html"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Región Metropolitana",
+        "sentiment": "none"
+      },
+      {
+        "name": "Santiago",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:49:29.510+03:00",
+  "updated": "2025-05-07T23:52:41.000+00:00"
+}

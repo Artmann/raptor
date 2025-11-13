@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "fda0ab649217a78a30956ee5d6300483790c53b8",
+    "url": "https://www.lanacion.com.py/pais/2025/06/26/aconsejan-evitar-llevar-a-los-ninos-al-colegio-cuando-estan-engripados",
+    "site_full": "www.lanacion.com.py",
+    "site": "lanacion.com.py",
+    "site_section": "https://www.lanacion.com.py",
+    "site_categories": ["media"],
+    "section_title": "Últimas noticias de Paraguay y el mundo, las 24 horas",
+    "site_title": "Últimas noticias de Paraguay y el mundo, las 24 horas",
+    "title": "Aconsejan evitar llevar a los niños al colegio cuando están engripados",
+    "title_full": "Aconsejan evitar llevar a los niños al colegio cuando están engripados",
+    "published": "2025-06-26T15:54:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PY",
+    "main_image": "https://www.lanacion.com.py/resizer/v2/LQYQXERDJFBS3PAF4CIDFAF7BA.jpg?auth=d1615ff6d48f48c35437d6e70aeabfbbfda8affaa1cbc6f965ed29c61fc4170f&amp;width=1200&amp;height=630&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 35146,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fda0ab649217a78a30956ee5d6300483790c53b8",
+  "url": "https://www.lanacion.com.py/pais/2025/06/26/aconsejan-evitar-llevar-a-los-ninos-al-colegio-cuando-estan-engripados",
+  "ord_in_thread": 0,
+  "author": "@lanacionpy",
+  "published": "2025-06-26T15:54:00.000+03:00",
+  "title": "Aconsejan evitar llevar a los niños al colegio cuando están engripados",
+  "text": "La pediatra Celia Martínez de Cuellar aconseja no llevar a los niños al colegio cuando están con un cuadro respiratorio para evitar contagios masivos. Dijo que a los bebés se les debe tener resguardados en la casa en los días de intenso frío y, además, cumplir con el esquema de vacunación de los pequeños.\n“También es importante el lavado de manos y recordar que al toser tenemos que hacerlo en la flexura del codo o en un pañuelo y después desecharlo”, señaló al canal GEN y Universo 970 AM/Nación Media.\nTe puede interesar: Hoy retoman obras viales sobre la avenida Mariscal López",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Health", "Social Issue", "Education"],
+  "topics": [
+    "Health->communicable disease",
+    "Health->health care approach",
+    "Health->medical profession",
+    "Social Issue->parenting",
+    "Social Issue->children",
+    "Social Issue->social services",
+    "Education->teachers",
+    "Education->primary education",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Celia Martínez de Cuellar",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Mariscal López",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T16:21:59.535+03:00",
+  "updated": "2025-06-26T13:33:24.000+00:00"
+}

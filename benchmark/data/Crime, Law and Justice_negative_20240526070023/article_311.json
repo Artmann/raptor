@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "1f7c2d6b32f42d277e7426b9fc2777f130a5c808",
+    "url": "https://www.wthitv.com/news/weve-just-taken-this-step-forward-but-it-is-the-beginning-step-special-prosecuting-attorney/article_f0b77ad8-0324-11ef-9aa7-47deee418d09.html",
+    "site_full": "www.wthitv.com",
+    "site": "wthitv.com",
+    "site_section": "http://www.wthitv.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
+    "site_categories": ["media"],
+    "section_title": "www.wthitv.com - RSS Results in news of type article",
+    "title": "\"We've just taken this step forward, but it is the beginning step.\" Special prosecuting attorney on Lowell Badger murder case explains uncommon proceedings | News | wthitv.com",
+    "title_full": "\"We've just taken this step forward, but it is the beginning step.\" Special prosecuting attorney on Lowell Badger murder case explains uncommon proceedings | News | wthitv.com",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/wthitv.com/content/tncms/assets/v3/editorial/2/85/28538654-7725-11ed-abc3-c7198da4f91c/63922b451651b.image.jpg?crop=1840%2C966%2C32%2C0&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 51788,
+    "domain_rank_updated": "2024-04-23T13:07:55.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1f7c2d6b32f42d277e7426b9fc2777f130a5c808",
+  "url": "https://www.wthitv.com/news/weve-just-taken-this-step-forward-but-it-is-the-beginning-step-special-prosecuting-attorney/article_f0b77ad8-0324-11ef-9aa7-47deee418d09.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Caitlin Hunt",
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "\"We've just taken this step forward, but it is the beginning step.\" Special prosecuting attorney on Lowell Badger murder case explains uncommon proceedings | News | wthitv.com",
+  "text": "SULLIVAN CO., Ind. (WTHI)- A special prosecuting attorney involved in the Lowell Badger murder case explains some of the uncommon legal moves made in the case so far. A grand jury Wednesday indicted William Ray Grimes in the murder of Lowell Badger. Badger died in his home on December 8th, 2012, following an apparent burglary. Grimes will face three charges: murder, burglary, and conspiracy to commit burglary. It took a little over a decade to get to this point. Special Prosecutor Robert Roberts said Indiana State Police had a detective on the case since 2012. Investigators have been relying on tips sent to ISP, which led to about 180 interviews related to the case. Roberts said it was about 18 months ago when the case began to pick up again. That's when Roberts and the rest of the team felt like there was enough evidence to bring to a grand jury. \"It was a tactical decision to say 'Let's see how a grand jury views the evidence that we have,'\" he said. \"Do they think there's enough there?\" Involving a grand jury in the indictment process is uncommon according to Roberts. He said there are numerous reasons a legal team may bring in a grand jury for indictment. A common one is to understand the strength of a case to see if there is enough moving forward. Police have named a suspect for a 2012 murder in Sullivan County. SULLIVAN COUNTY, Ind. (WTHI) - Police have released new video and need your help solving a h… Roberts said the Badger legal team took this step for that reason considering how long it has been since the murder. A grand jury indictment is not the only uncommon move made in this case so far. Roberts was chosen to act as special counsel on the case when it was determined that current Sullivan County Prosecutor Ann Mischler could not serve on the case. Mischler was magistrate at the time of Badger's death and issued a search warrant for Badger's home. Roberts said it was a necessary change to keep the case fair. This is just the beginning of the legal process. Roberts said the rest of the case should move forward in a more traditional manor. Dates for a hearing and jury trial should come in the near future. \"Everybody is just happy that we've taken this step forward,\" he said. \"But it is the beginning step. It's just the filing of charges. That's just the first step to bringing someone to justice.\" Roberts said the investigation is still ongoing. Anyone with information on this case is encouraged to reach out to the Indiana State Police.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "lowell badger",
+        "sentiment": "negative"
+      },
+      {
+        "name": "grimes",
+        "sentiment": "none"
+      },
+      {
+        "name": "robert roberts",
+        "sentiment": "none"
+      },
+      {
+        "name": "badger",
+        "sentiment": "none"
+      },
+      {
+        "name": "william ray grimes",
+        "sentiment": "none"
+      },
+      {
+        "name": "roberts",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "indiana state police",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "sullivan co.",
+        "sentiment": "none"
+      },
+      {
+        "name": "ind.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:12:18.988+03:00",
+  "updated": "2024-04-26T02:52:44.069+03:00"
+}

@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "e2f972ec5406b1ee5cd367bd7e512477bf81addd",
+    "url": "https://www.mvariety.com/news/local/public-school-system-suspends-off-island-travel-until-further-notice/article_b9c55f4c-d79f-4076-b3ce-0f5e7eae8b70.html",
+    "site_full": "www.mvariety.com",
+    "site": "mvariety.com",
+    "site_section": "https://news.google.com/search?q=until%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "mvariety.com | Fair • Balanced • Independent",
+    "title": "Public School System suspends off-island travel until further notice | Local News | mvariety.com",
+    "title_full": "Public School System suspends off-island travel until further notice | Local News | mvariety.com",
+    "published": "2025-06-26T07:58:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/mvariety.com/content/tncms/assets/v3/editorial/0/ac/0ac638e3-9228-426c-a54c-69851090e41b/67eba10af1fb4.image.jpg?crop=900%2C473%2C0%2C101",
+    "performance_score": 0,
+    "domain_rank": 115024,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e2f972ec5406b1ee5cd367bd7e512477bf81addd",
+  "url": "https://www.mvariety.com/news/local/public-school-system-suspends-off-island-travel-until-further-notice/article_b9c55f4c-d79f-4076-b3ce-0f5e7eae8b70.html",
+  "ord_in_thread": 0,
+  "author": "PSS",
+  "published": "2025-06-26T07:58:00.000+03:00",
+  "title": "Public School System suspends off-island travel until further notice | Local News | mvariety.com",
+  "text": "COMMISSIONER of Education Dr. Lawrence F. Camacho on Thursday issued a memorandum suspending all off-island travel outside the CNMI for all Public School System personnel.\nThe suspension is a cost-saving initiative.\nThe travel suspension will take effect on Aug. 19, 2025 — the start of school year 2025-2026.\nAccording to the memorandum, “Additional procedures and implementation guidelines will be shared in a forthcoming communication.”\nThis suspension of off-island travel “is issued by the Office of the Commissioner of Education under the constitutional authority vested by the CNMI Board of Education… [and] is part of broader efforts to optimize resources and ensure the efficient use of funds within the PSS.”\n“The Office of the Commissioner of Education remains committed to practicing fiscal responsibility and austerity. With the continued support and guidance of the CNMI Board of Education, this directive further strengthens and reaffirms PSS’s dedication to ensuring that public funds are used prudently and that no unnecessary, excessive, or unconscionable expenses are incurred,” the memorandum stated.\nAll PSS personnel, departments, programs, and schools are expected to comply with this directive.\n“We appreciate your cooperation and understanding as we collectively work to preserve resources and prioritize student learning,” Dr. Camacho said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Politics", "Social Issue", "Education"],
+  "topics": [
+    "Politics->education policy",
+    "Politics->public inquiry",
+    "Politics->government",
+    "Social Issue->communities",
+    "Social Issue->social services",
+    "Social Issue->demographics",
+    "Education->state school",
+    "Education->educational grading",
+    "Education->educational testing and examinations"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Lawrence F. Camacho",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Office of the Commissioner of Education",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "CNMI Board of Education",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T08:12:09.618+03:00",
+  "updated": "2025-06-26T05:17:37.000+00:00"
+}

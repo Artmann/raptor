@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "06421edb11c23520eb1ec791b09321449bd3c1b0",
+    "url": "https://www.cleveland19.com/2025/05/07/mobile-home-destroyed-by-explosion-wooster",
+    "site_full": "www.cleveland19.com",
+    "site": "cleveland19.com",
+    "site_section": "http://www.cleveland19.com/homepage",
+    "site_categories": ["media"],
+    "section_title": "Cleveland 19 News | WOIO | Cleveland, Ohio",
+    "site_title": "Cleveland 19 News | WOIO | Cleveland, Ohio",
+    "title": "Mobile home destroyed by explosion in Wooster",
+    "title_full": "Mobile home destroyed by explosion in Wooster",
+    "published": "2025-05-08T00:26:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-woio-prod.gtv-cdn.com/resizer/v2/YUX27QZVEFFLPIWSPJ5B427TWU.png?auth=d1f81d36c0303b8886be162b3b24bd6d7ef50855ef2893365a98ce2a5a72f682&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 12936,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "06421edb11c23520eb1ec791b09321449bd3c1b0",
+  "url": "https://www.cleveland19.com/2025/05/07/mobile-home-destroyed-by-explosion-wooster",
+  "ord_in_thread": 0,
+  "author": "@Cleveland19",
+  "published": "2025-05-08T00:26:00.000+03:00",
+  "title": "Mobile home destroyed by explosion in Wooster",
+  "text": "Mobile home destroyed by explosion in Wooster\nPublished: May. 7, 2025 at 5:26 PM EDT|Updated: 5 hours ago\nWOOSTER, Ohio (WOIO)—A mobile home was flattened Wednesday morning after a contractor hit a gas line while installing fiber optic cables at a mobile home park in Wooster.\nThe explosion happened around 1130am at Shelmar Mobile Home Park, on Mechanicsburg Road.\nWooster firefighters were able to bring the fire quickly under control.\nThe surrounding homes were evacuated, while Enbridge Gas crews worked to contain the leak from the four-inch line.\nThe home was unoccupied, and there were no injuries, according to the Wooster Fire Department.\nThe explosion is being investigated by the Wooster Fire Investigation Unit, the State Fire Marshal, and the Public Utilities Commission of Ohio.\nCopyright 2025 WOIO. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Environment", "Human Interest"],
+  "topics": [
+    "Disaster and Accident->explosion accident and incident",
+    "Environment->hazardous materials",
+    "Environment->sustainability",
+    "Environment->environmental pollution",
+    "Human Interest->human mishap"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Mechanicsburg Road",
+        "sentiment": "none"
+      },
+      {
+        "name": "Home Park",
+        "sentiment": "none"
+      },
+      {
+        "name": "Shelmar",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Wooster Fire Department",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:02:47.165+03:00",
+  "updated": "2025-05-08T02:06:48.000+00:00"
+}

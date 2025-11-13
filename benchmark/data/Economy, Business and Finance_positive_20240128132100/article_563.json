@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "a9be6bbfd786a6797151db03faa79807f20dbaf2",
+    "url": "https://cnycentral.com/news/local/minimum-wage-will-increase-this-january-small-business-owners-say-its-still-not-enough",
+    "site_full": "cnycentral.com",
+    "site": "cnycentral.com",
+    "site_section": "https://cnycentral.com",
+    "site_categories": ["media", "non_standard_content"],
+    "section_title": "chevron-right",
+    "title": "chevron-right",
+    "title_full": "chevron-right",
+    "published": "2023-12-29T01:03:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cnycentral.com/resources/media/7d9f898d-4478-4c5c-90b9-4e8b2afcb265-large16x9_7PMLLMORGANMINIMUMWAGE.transfer_frame_1079.jpeg",
+    "performance_score": 0,
+    "domain_rank": 29974,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a9be6bbfd786a6797151db03faa79807f20dbaf2",
+  "url": "https://cnycentral.com/news/local/minimum-wage-will-increase-this-january-small-business-owners-say-its-still-not-enough",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Morgan Scott",
+  "published": "2023-12-29T01:03:00.000+02:00",
+  "title": "chevron-right",
+  "text": "Minimum wage workers can expect a slight pay increase on January 1. Here in Central New York, minimum wage is going up to $15 an hour. 80 cents more than what employees earn now. Some business owners tell CNY Central that still doesn’t feel like enough. At Parthenon Books in downtown Syracuse, workers are paid a little more than the current [$14.20 minimum wage pay.](https://dol.ny.gov/minimum-wage-0) Still, managers there wish they could do even more. “As a small business it’s hard for me to make that work,” said Selena Giampa, the store manager at Parthenon Books. “But it’s important to me because as opposed to a larger company, my employees are what makes my business go and so if I can give them slightly more than that and ensure that they’ve got food, and transportation and rent, then they’re better employees for me overall.” Right now, employees working a full 40 hours on minimum wage earn about $568 weekly. Or $29,536 for the year—before taxes. With an increase to $15 an hour, that yearly salary before taxes, becomes $31,200. “When you work at minimum wage, you often have more than one job to make ends meet,” said Giampa. “If you have children, it’s even more. You tend to go without a lot of things people take for granted.” Bruce Block is the owner of Antique Underground. He agrees that $15 next year is a step in the right direction. However, it’s still far off from a livable wage. Especially as the costs to live continues to increase. “If you think of the costs of things in our society and everything now, it’s not a lot of money,” said Block. “There’s certain things that have gone up proportionately much more like housing and cars and food and things like that and I don’t even know but certainly a family can’t live on $15 an hour.” In some cases, businesses are expected to offset the extra pay for employees onto consumer prices; by reducing labor, or perhaps finding other ways to make cuts to a budget. “In today's world, little businesses are suffering the most,” said Block. The newly established rates will continue to increase by 50 cents in 2025 and 2026 statewide.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Labor", "Economy, Business and Finance"],
+  "external_links": [
+    "https://dol.ny.gov/minimum-wage-0)",
+    "https://www.dol.ny.gov/minimum-wage-0)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "selena giampa",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "chevron",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "cny central",
+        "sentiment": "none"
+      },
+      {
+        "name": "parthenon books",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "new york",
+        "sentiment": "none"
+      },
+      {
+        "name": "syracuse",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:18:57.594+02:00",
+  "updated": "2023-12-29T01:18:57.594+02:00"
+}

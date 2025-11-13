@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "4e0c73c8a184fa629f5ef3c286a3ae3924062092",
+    "url": "https://www.mathworks.com/matlabcentral/answers/2111851-pyrunfile-fails-to-run-functional-python-scripts",
+    "site_full": "www.mathworks.com",
+    "site": "mathworks.com",
+    "site_section": "https://www.mathworks.com/matlabcentral/answers/questions.atom",
+    "site_categories": ["education"],
+    "section_title": "MATLAB Answers — New Questions",
+    "title": "pyrunfile fails to run functional python scripts",
+    "title_full": "pyrunfile fails to run functional python scripts",
+    "published": "2024-04-26T00:17:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/thumbnails/generic-og-thumbnail.jpg",
+    "performance_score": 0,
+    "domain_rank": 1919,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4e0c73c8a184fa629f5ef3c286a3ae3924062092",
+  "url": "https://www.mathworks.com/matlabcentral/answers/2111851-pyrunfile-fails-to-run-functional-python-scripts",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Kevin Rusch",
+  "published": "2024-04-26T00:17:00.000+03:00",
+  "title": "pyrunfile fails to run functional python scripts",
+  "text": "pyrunfile fails to run functional python scripts\n5 views (last 30 days)\n[Kevin Rusch](/matlabcentral/profile/authors/27238171)29 minutes ago\nI have this python script:\nfrom collections import OrderedDict\nfrom docopt import docopt\nfrom zephir.__version__ import __version__\nfrom skimage.transform import resize\nfrom zephir.utils.utils import *\nfrom zephir.utils.io import *\nfrom getters import * # This is a script located in the same folder as the script itself.\nimport numpy as np\nimport sys\nWhich I call using the following MATLAB code:\n[fullfile(app.script_dir, sprintf('recommend_frames%s', app.script_ext)),sprintf(' --channel=1 --dataset=\"%s\" --nx=%.f --ny=%.f --nz=%.f --nc=%.f --nt=%.f',app.video_path, app.video_info.nx, app.video_info.ny, app.video_info.nz, app.video_info.nc, app.video_info.nt)]\nt_ref = pyrunfile([fullfile(app.script_dir, sprintf('recommend_frames%s', app.script_ext)),sprintf(' --channel=1 --dataset=\"%s\" --nx=%.f --ny=%.f --nz=%.f --nc=%.f --nt=%.f',app.video_path, app.video_info.nx, app.video_info.ny, app.video_info.nz, app.video_info.nc, app.video_info.nt)],'t_ref');\nWhich produces this output:\nans =\n'C:\\Users\\sep27\\Documents\\GitHub\\NeuroPAL_ID\\+Wrapper\\recommend_frames.py --channel=1 --dataset=\"D:\\demo\\20221014_m6.h5\" --nx=512 --ny=500 --nz=23 --nc=3 --nt=4981'\nError using <string>><module>\nPython Error: ModuleNotFoundError: No module named 'getters'\nHowever, the script executes just fine when run through a shell.\nThis is not the only issue I'm running into with MATLAB's python wrapper -- I also have a separate script, main.py, which executes fine in a shell, but yields a syntax error when run using pyrunfile:\npy_cmd = sprintf('%s %s %s %s', fullfile(app.script_dir, sprintf('converter%s', app.script_ext)), fullfile(pwd, 'cache.mat'), fullfile(pwd, 'meta_cache.mat'), app.video_path)\npyrunfile(py_cmd);\nOutput:\npy_cmd =\n'C:\\Users\\sep27\\Documents\\GitHub\\NeuroPAL_ID\\+Wrapper\\converter.py C:\\Users\\sep27\\Documents\\GitHub\\NeuroPAL_ID\\cache.mat C:\\Users\\sep27\\Documents\\GitHub\\NeuroPAL_ID\\meta_cache.mat D:\\demo\\20221014_m6.h5'\nError using matlab.apps.AppBase>@(source,event)executeCallback(ams,app,callback,requiresEventData,event)\nPython Error: SyntaxError: invalid syntax (<string>, line 84)\nI've checked pyenv and ensured that the correct executable is selected. Here's the output for reference:\n>> pyenv\nans =\nPythonEnvironment with properties:\nVersion: \"3.10\"\nExecutable: \"C:\\Users\\sep27\\AppData\\Local\\Programs\\Python\\Python310\\python.exe\"\nLibrary: \"C:\\Users\\sep27\\AppData\\Local\\Programs\\Python\\Python310\\python310.dll\"\nHome: \"C:\\Users\\sep27\\AppData\\Local\\Programs\\Python\\Python310\"\nStatus: Loaded\nExecutionMode: OutOfProcess\nProcessID: \"29480\"\nProcessName: \"MATLABPyHost\"\n0 Comments\nAnswers (0)\nSee Also\nProducts\nCommunity Treasure Hunt\nFind the treasures in MATLAB Central and discover how the community can help you!\n[Start Hunting!](/matlabcentral/community/onramps/mlc_treasure_hunt?s_tid=hunt_spotlight)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "kevin rusch",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:47:24.544+03:00",
+  "updated": "2024-04-26T00:47:24.544+03:00"
+}

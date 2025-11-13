@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "2660ad77923381fe5139a0121e94c433cbea98b1",
+    "url": "https://www.pro-linux.de/sicherheit/2/82021/sicherheit-denial-of-service-in-pdns-recursor.html",
+    "site_full": "www.pro-linux.de",
+    "site": "pro-linux.de",
+    "site_section": "http://www.pro-linux.de/rss/index5.xml",
+    "site_categories": ["unix", "tech"],
+    "section_title": "Pro-Linux Security",
+    "title": "Denial of Service in pdns-recursor (Debian)",
+    "title_full": "Denial of Service in pdns-recursor (Debian)",
+    "published": "2024-04-25T23:04:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 51044,
+    "domain_rank_updated": "2024-04-23T13:07:55.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2660ad77923381fe5139a0121e94c433cbea98b1",
+  "url": "https://www.pro-linux.de/sicherheit/2/82021/sicherheit-denial-of-service-in-pdns-recursor.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-04-25T23:04:00.000+03:00",
+  "title": "Denial of Service in pdns-recursor (Debian)",
+  "text": "Lesezeichen hinzufügen\nOriginalnachricht\n-----BEGIN PGP SIGNED MESSAGE-----Hash: SHA512- -------------------------------------------------------------------------Debian Security Advisory DSA-5674-1 https://www.debian.org/security/ Moritz MuehlenhoffApril 25, 2024 https://www.debian.org/security/faq- -------------------------------------------------------------------------Package : pdns-recursorCVE ID : CVE-2024-25583It was discovered that PDNS Recursor, a resolving name server, wassusceptible to denial of service if recursive forwarding is configured.For the stable distribution (bookworm), this problem has been fixed inversion 4.8.8-1.We recommend that you upgrade your pdns-recursor packages.For the detailed security status of pdns-recursor please refer toits security tracker page at:https://security-tracker.debian.org/tracker/pdns-recursorFurther information about Debian Security Advisories, how to applythese updates to your system and frequently asked questions can befound at: https://www.debian.org/security/Mailing list: -----BEGIN PGP SIGNATURE-----iQIzBAEBCgAdFiEEtuYvPRKsOElcDakFEMKTtsN8TjYFAmYqrogACgkQEMKTtsN8TjbKDg//bFtgtpr7H0WEGL6u5aHSqnIU5HNnKDW3rCy7OdHE6GHrnhADszvImyiH+IkLXb7uEdoL+Hy4A8ymr9KS+w2Ai90NYAjhYexWuTi4Kse0oKGkPYIEfAmeybf6zduxdsKJUU7x92VwnMybQN9E6g+a0b6c+UyFYPZpUAywTqU5aT4ZH1KwjwFeu1Ab1Uj0ySEWdd/qe/ZHS6rWB0SKWTjv15L+lx2IcO6dPDQtZA8B9SpOoTQWtIwroQtxeZrdH/V9O1D796TFFyrrr1afJCBb++nH7f191qDPrkLCaC7/EhVxEqKrbTHaVwqhOmsSR9kxvvC9wSA+FshgBfJEFSyPbX7TGOvBNjMBVGr1R/NpQeDY4L9Ta1fz6z0EUpTCuer+QU9bo5A1LMbC4sEwoGRD2/oSdmgiXSnBfJ7HXsrUUVqTeTmkMDSXwAd7WFI68awRnNuqC4CqOvynbLc19QeH8TDWNpB4dwVevrXjEdVgQANSAJmcOhN/dyynC5WoIDOXPHc9TNtGROxhP84Nj5gKgrkCh3bG5uEHycIT0S+PIWZDJvYAm6YoZKX46jZqgGSrz5/Foa0dvOlriQRFtVPpODsNSkVce8Uwvyonc1SxvytcNMugEjBP4ePGXruQ2wy+RZ4VXJvYNnQImrJ1Vvi0CCygRcK4e/4qaq8o3/fofvk==PwIZ-----END PGP SIGNATURE-----",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Science and Technology"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.debian.org/security/",
+    "https://security-tracker.debian.org/tracker/pdns-recursorFurther",
+    "https://www.debian.org/security/Mailing",
+    "https://www.debian.org/security/faq-",
+    "https://www.security-tracker.debian.org/tracker/pdns-recursorFurther",
+    "https://debian.org/security/",
+    "https://www.debian.org/security",
+    "https://debian.org/security/Mailing",
+    "https://debian.org/security/faq-"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:07:01.028+03:00",
+  "updated": "2024-04-26T00:07:01.028+03:00"
+}

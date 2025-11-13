@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "5087df2ca53f1fe86d734cb5cb837af195c4bc7c",
+    "url": "https://finance.eastmoney.com/a/202505083398901128.html",
+    "site_full": "finance.eastmoney.com",
+    "site": "eastmoney.com",
+    "site_section": "http://finance.eastmoney.com/",
+    "site_categories": ["financial_news", "finance"],
+    "section_title": "财经首页 - 东方财富网",
+    "site_title": null,
+    "title": "中央气象台发布暴雨黄色预警 _ 东方财富网",
+    "title_full": "中央气象台发布暴雨黄色预警 _ 东方财富网",
+    "published": "2025-05-08T04:05:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 2380,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5087df2ca53f1fe86d734cb5cb837af195c4bc7c",
+  "url": "https://finance.eastmoney.com/a/202505083398901128.html",
+  "ord_in_thread": 0,
+  "author": "人民网",
+  "published": "2025-05-08T04:05:00.000+03:00",
+  "title": "中央气象台发布暴雨黄色预警 _ 东方财富网",
+  "text": "人民网 北京5月8日电 （记者杨虞波罗）中央气象台预计，5月8日08时至9日08时，江淮大部、江汉东部、江南西南部和中东部、华南北部以及华北东北部等地部分地区有大到暴雨，其中，安徽西南部、湖北东部、江西东北部、浙江西部、广西北部等地部分地区有大暴雨（100-180毫米）。上述部分地区伴有短时强降水（最大小时降雨量30-60毫米，局地可超过80毫米），局地有雷暴大风冰雹等强对流天气。\n　　防御指南：\n　　1、政府及相关部门按照职责做好防暴雨工作；\n　　2、交通管理部门应当根据路况在强降雨路段采取交通管制措施，在积水路段实行交通引导；\n　　3、切断低洼地带有危险的室外电源，暂停在空旷地方的户外作业，转移危险地带人员和危房居民到安全场所避雨；\n　　4、检查城市、农田、鱼塘排水系统，采取必要的排涝措施。\n（文章来源： 人民网 ）",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment", "Politics"],
+  "topics": [
+    "Weather->weather warning",
+    "Environment->climate change",
+    "Environment->water",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:42:31.889+03:00",
+  "updated": "2025-05-08T02:47:55.000+00:00"
+}

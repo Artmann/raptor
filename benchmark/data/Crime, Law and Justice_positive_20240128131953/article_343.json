@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "e68fff7d5c939af3de2cb0026e58931e5f62b4c6",
+    "url": "https://www.scmagazine.com/perspective/by-caring-about-insider-threats-cisos-show-they-care-about-their-coworkers",
+    "site_full": "www.scmagazine.com",
+    "site": "scmagazine.com",
+    "site_section": "https://www.scmagazine.com/resource",
+    "site_categories": ["hacking", "tech"],
+    "section_title": "Resources | SC Media",
+    "title": "By caring about insider threats, CISOs show they care about their coworkers | SC Media",
+    "title_full": "By caring about insider threats, CISOs show they care about their coworkers | SC Media",
+    "published": "2023-12-29T08:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://files.scmagazine.com/wp-content/uploads/2023/12/LeaKissnerColDEC.jpg",
+    "performance_score": 0,
+    "domain_rank": 7601,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e68fff7d5c939af3de2cb0026e58931e5f62b4c6",
+  "url": "https://www.scmagazine.com/perspective/by-caring-about-insider-threats-cisos-show-they-care-about-their-coworkers",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Lea Kissner",
+  "published": "2023-12-29T08:00:00.000+02:00",
+  "title": "By caring about insider threats, CISOs show they care about their coworkers | SC Media",
+  "text": "[The 2023 Insider Threat Report](https://www.cybersecurity-insiders.com/portfolio/2023-insider-threat-report-gurucul/) from Cybersecurity Insiders found that 74% of organizations are moderately vulnerable to insider threats. Insider threats have become a serious worry for many executives – not only do I hear concerns about insider threats from organizations looking to bring on a CISO, but also from CISOs themselves. Despite this, insider threats are often not acknowledged because they create tension between coworkers and peers. Being concerned about insider threats might imply the company worries that its coworkers are behaving unethically. No one wants to think the worst in people, but insider threats are a genuine danger to all organizations. That said, CISOs must protect both a company’s product and its employees from malicious actors. By acknowledging and addressing insider threats, CISOs can show they care for their coworkers by keeping them – and their accounts – safe from exploitation, as opposed to being suspicious of them. The protocols a CISO would follow if an employee’s account was taken over by an external bad actor with nefarious intent are virtually identical to those taken to protect from similar actions by the employee themselves. The difference is that a CISO can prevent an insider threat through a combination of those existing measures and additionally ensuring that employees recognize that these protocols are in place for their own protection – and not because the company doesn't trust them. Here's my advice for empathetically addressing insider threats from the get-go and how to facilitate a thoughtful and actionable dialogue around navigating insider threats within the organization: - Mitigate insider threats from the get-go. As a CISO, it’s in my nature to be sensitive to the risk of malware or account hijacking, but the consequences of a malicious actor controlling an employee's access are always unsettling. It’s not just business assets someone might acquire, but the serious long term harm someone can inflict on our customers or coworkers. That’s why we put protections in place to prevent that takeover: For example, phishing-resistant two-factor authentication (like YubiKeys or other security keys) and making sure people keep their laptops and any additional software on them patched to try to avoid malware. But we also take other precautions, like removing unnecessary access that an insider could misuse. We even re-engineer to make more fine-grained access possible. - Help coworkers navigate insider threats. The role of the CISO isn’t just about protecting assets, it’s about caring for the organization’s people. And that doesn’t just mean protecting potential victims. It’s my job to prevent people from making a decision they will later regret by helping them make better choices. Even if they’re leaving the company, it’s the last thing I can do to take care of them as my coworker. With that in mind, it’s imperative to educate colleagues on the dangers of insider threats and how to protect themselves from risky situations. In an ideal world, our colleagues would never face any harm, but there will come a time when they might encounter a dicey situation with a malicious actor. Rather than fear, they should feel empowered and knowledgeable on what actions they need to take to handle the situation. It's often difficult to swallow, but sometimes the bad actor is someone internal, within the organization. And yes, governments do plant people in a surprising number of companies. With the security industry and private sector at an inflection point, I want to provide those governments with incentives to work with the company directly instead of trying to work through a backdoor. - Talk about insider threats with the team. Talking about insider threats with the team can be tricky – CISOs need to reinforce the message that their foremost concern is taking care of employees. Keep the focus on their safety, using anecdotes if it helps. For example, I like to use the story of a coworker of mine from a previous job going back to his home country to give a talk, and being cornered by government officials pressuring him to turn over information about some specific users. That coworker, fortunately, hadn’t had access to the info to begin with and was able to say so truthfully and avoid further danger. The protocols we’d used to prevent insider threats had empowered him with the (lack of) information needed to get out of a sticky situation. Keep in mind that it’s not enough to just talk about insider threats like this with the team – CISOs have to think about it that way, too. If we think about the insider risks in this proactive way, we are acting with respect towards our coworkers and more effectively ameliorating the threats by considering the motivations behind potential attacks. We are covering the case in which the employee acts badly, but it’s just one of multiple extremely real and generally more worrying possibilities that fall under the umbrella of our protective responsibilities. Most of all though, if we treat insider threat as a personal and customer as well as corporate safety issue, we won’t alienate our people. Security is a team sport. As CISOs, we have to get the entire organization onboard to adhere to the changes to their systems and processes needed for security. Antagonizing or nagging does not make that work happen faster. But by making it clear to my coworkers that I aim to make sure that they and our customers are protected, we can progress. Once they understand that I have their best interests at heart, the rest falls into place. Lea Kissner, chief information security officer, Lacework",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Human Interest",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [
+    "https://www.cybersecurity-insiders.com/portfolio/2023-insider-threat-report-gurucul/)",
+    "https://cybersecurity-insiders.com/portfolio/2023-insider-threat-report-gurucul/)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "sc media",
+        "sentiment": "negative"
+      },
+      {
+        "name": "ciso",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T11:25:05.387+02:00",
+  "updated": "2023-12-29T11:25:05.387+02:00"
+}

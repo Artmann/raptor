@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "78ba6502136f17964bc5657f8c8a9447897cf8c6",
+    "url": "https://www.wistv.com/video/2025/05/08/richland-county-hit-with-million-dollar-fine-pollution-violations-linked-scout-motors",
+    "site_full": "www.wistv.com",
+    "site": "wistv.com",
+    "site_section": "https://news.google.com/search?q=for%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "WIS News 10",
+    "title": "Richland County hit with million-dollar fine for pollution violations linked to Scout Motors",
+    "title_full": "Richland County hit with million-dollar fine for pollution violations linked to Scout Motors",
+    "published": "2025-05-08T06:19:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F05-08-2025%2Ft_485b7b7769a64037b9695a6d07d63f8f_name_Image_10_24_24_at_7_36_PM_scaled.jpg?auth=8d24a26313e44d6746b58b86b5f3f226d8d094caa3fc89fab4508bcce6c76397&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 13185,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "78ba6502136f17964bc5657f8c8a9447897cf8c6",
+  "url": "https://www.wistv.com/video/2025/05/08/richland-county-hit-with-million-dollar-fine-pollution-violations-linked-scout-motors",
+  "ord_in_thread": 0,
+  "author": "@wis10",
+  "published": "2025-05-08T06:19:00.000+03:00",
+  "title": "Richland County hit with million-dollar fine for pollution violations linked to Scout Motors",
+  "text": "Richland County hit with million-dollar fine for pollution violations linked to Scout Motors constru\nUpdated: 5 hours ago\nWatch WIS News 10 at 7 p.m. Monday through Friday.\nFormer Sumter High School teacher charged after being accused of making inappropriate comments to student\nUpdated: 5 hours ago\nWatch WIS News 10 at 7 p.m. Monday through Friday.\nUpdated: 5 hours ago\nEight men from the Midlands are facing charges after an undercover online operation on social media conducted by several law enforcement divisions\nUpdated: 5 hours ago\nWatch WIS News 10 at 7 p.m. Monday through Friday.\nUpdated: 5 hours ago\nWatch WIS News 10 at 7 p.m. Monday through Friday.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->hazardous materials",
+    "Environment->sustainability",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Sumter High School",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:59:14.133+03:00",
+  "updated": "2025-05-08T04:01:35.000+00:00"
+}

@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "0ead03c8b80905c46d681989c1565527d8170b41",
+    "url": "https://www.atlantanewsfirst.com/2024/04/25/atlanta-police-search-multiple-suspects-burglary-brookhaven-apartment-complex",
+    "site_full": "www.atlantanewsfirst.com",
+    "site": "atlantanewsfirst.com",
+    "site_section": "http://cbsatlanta.com/podcasts",
+    "site_categories": [],
+    "section_title": "Podcasts",
+    "title": "Atlanta police search for multiple suspects in burglary at Brookhaven apartment complex",
+    "title_full": "Atlanta police search for multiple suspects in burglary at Brookhaven apartment complex",
+    "published": "2024-04-25T23:42:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-wgcl-prod.cdn.arcpublishing.com/resizer/v2/276V75GPNRBCVKZPCM7AR6FVMY.jpg?auth=665c55cfccc47026e4d19c8a023e5a14cee13b5bc08af45acaa65a43ff56026c&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 10935,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0ead03c8b80905c46d681989c1565527d8170b41",
+  "url": "https://www.atlantanewsfirst.com/2024/04/25/atlanta-police-search-multiple-suspects-burglary-brookhaven-apartment-complex",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Atlanta First News staff",
+  "published": "2024-04-25T23:42:00.000+03:00",
+  "title": "Atlanta police search for multiple suspects in burglary at Brookhaven apartment complex",
+  "text": "ATLANTA, Ga. (Atlanta News First) - Atlanta police are asking for the public’s help with providing information on multiple individuals believed to be involved in a burglary on Tuesday. According to the Atlanta Police Department, the burglary happened at Peachtree Place apartments. A security guard told police officers that a suspect vehicle entered the property by ramming through the security gate. Police said that at least three suspects were seen on surveillance video entering the mail room and stealing items from several mailboxes. The three were seen running away in the same vehicle used to breach the gate, police said. The vehicle appeared to be a Jeep Wrangler that was last seen heading north on Peachtree Road, according to police. Anyone with information on the case can submit a tip anonymously to the Crime Stoppers Atlanta tip line at 404-577-TIPS (8477) or www.StopCrimeAtl.org , or by texting CSA and the tip to CRIMES (274637). Copyright 2024 WANF. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "http://www.stopcrimeatl.org/),",
+    "http://stopcrimeatl.org/),"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "crime stoppers atlanta",
+        "sentiment": "none"
+      },
+      {
+        "name": "atlanta police department",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "atlanta",
+        "sentiment": "none"
+      },
+      {
+        "name": "brookhaven",
+        "sentiment": "none"
+      },
+      {
+        "name": "atlanta",
+        "sentiment": "none"
+      },
+      {
+        "name": "ga",
+        "sentiment": "none"
+      },
+      {
+        "name": "peachtree place",
+        "sentiment": "none"
+      },
+      {
+        "name": "peachtree road",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:01:18.206+03:00",
+  "updated": "2024-04-26T07:09:01.270+03:00"
+}

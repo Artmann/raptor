@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "2ac6edb2d89d0eedb4cbbb70dabad902c6a48d33",
+    "url": "https://www.um.es/web/sala-prensa/-/tres-alumnos-de-la-umu-ganan-el-premio-del-nasa-space-apps-challenge-con-un-proyecto-para-predecir-la-salud-del-mar-menor-desde-el-espacio",
+    "site_full": "www.um.es",
+    "site": "um.es",
+    "site_section": "https://www.um.es/web/sala-prensa",
+    "site_categories": ["graduate_school", "education", "distance_learning"],
+    "section_title": "Sala de prensa - Noticias UMU",
+    "site_title": "Página Principal",
+    "title": "Tres alumnos de la UMU ganan el premio del NASA Space Apps Challenge con un proyecto para predecir la salud del Mar Menor desde el espacio - Sala de prensa - Noticias UMU",
+    "title_full": "Tres alumnos de la UMU ganan el premio del NASA Space Apps Challenge con un proyecto para predecir la salud del Mar Menor desde el espacio - Sala de prensa - Noticias UMU",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://www.um.es/documents/4749341/0/RS1002311_image00020-lpr.jpg/399dad66-9abe-4b33-c8db-b4d60131f35f?version=1.0&t=1760608799292&download=true",
+    "performance_score": 0,
+    "domain_rank": 20100,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2ac6edb2d89d0eedb4cbbb70dabad902c6a48d33",
+  "url": "https://www.um.es/web/sala-prensa/-/tres-alumnos-de-la-umu-ganan-el-premio-del-nasa-space-apps-challenge-con-un-proyecto-para-predecir-la-salud-del-mar-menor-desde-el-espacio",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "Tres alumnos de la UMU ganan el premio del NASA Space Apps Challenge con un proyecto para predecir la salud del Mar Menor desde el espacio - Sala de prensa - Noticias UMU",
+  "text": "Tres alumnos de la UMU ganan el premio del NASA Space Apps Challenge con un proyecto para predecir la salud del Mar Menor desde el espacio\nRubén Moyano, Jorge López y Teresa Mateo son estudiantes de la Universidad de Murcia y, junto al alumno de la UCAM Jovan Kuzmanovic, componen un equipo denominado ‘Lost Frequencies’ que ha recibido el premio del NASA Space Apps Challenge con un proyecto que propone predecir la salud del Mar Menor desde el espacio. Rubén y Jorge pertenecen al doble grado de Matemáticas e Informática, mientras que Teresa al grado de Ingeniería Informática.\nLos cuatro universitarios, tras haber recibido el premio regional del NASA Space Apps Challenge organizado en el UCAM HiTech, se enfrentan ahora a la fase internacional junto a más de 150 países y 50.000 participantes. Si pasan esta prueba tendrán la oportunidad de acudir al Kennedy Space Center en Cabo Cañaveral, Florida, para presentar su iniciativa ante expertos de la NASA.\nEl proyecto galardonado se basa en localizar y enfrentar los agentes contaminantes en el Mar Menor desde el espacio. El grupo propone un sistema de visualización que ubica los sedimentos que llegan a la laguna con datos satelitales que ofrecen los dispositivos de la Estación Espacial Europea y trazar así planes de intervención basados en datos científicos.\nDurante 48 horas participaron en lo que se conoce como un “hackaton”, en el que tuvieron que superar pruebas requeridas por la NASA y realizaron actividades como la observación del sol en el telescopio, experiencias inmersivas en realidad virtual, conexiones en directo con astronautas, entre otras.\nImágenes\nDatos de contacto\nGabinete de prensa\numucomunica@um.es",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Environment"],
+  "topics": [
+    "Science and Technology->astronomy",
+    "Science and Technology->scientific research",
+    "Science and Technology->biology",
+    "Environment->water pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:26:41.058+03:00",
+  "updated": "2025-10-16T15:38:24.000+03:00"
+}

@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "10f09b305d98c49fc2b2fdb11e06e1223c1cb84d",
+    "url": "https://wnyt.com/top-stories/troopers-save-elderly-lake-george-pair-pets-from-burning-mobile-home/",
+    "site_full": "wnyt.com",
+    "site": "wnyt.com",
+    "site_section": "https://wnyt.com/feed/",
+    "site_categories": ["media"],
+    "section_title": "WNYT.com NewsChannel 13",
+    "title": "Troopers save elderly Lake George pair, pets from burning mobile home",
+    "title_full": "Troopers save elderly Lake George pair, pets from burning mobile home",
+    "published": "2023-12-29T23:41:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://wnyt.com/wp-content/uploads/2023/12/Mobile-home-fire.png",
+    "performance_score": 0,
+    "domain_rank": 25091,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "10f09b305d98c49fc2b2fdb11e06e1223c1cb84d",
+  "url": "https://wnyt.com/top-stories/troopers-save-elderly-lake-george-pair-pets-from-burning-mobile-home/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "WNYT",
+  "published": "2023-12-29T23:41:00.000+02:00",
+  "title": "Troopers save elderly Lake George pair, pets from burning mobile home",
+  "text": "Troopers save elderly Lake George pair, pets from burning mobile home\nTroopers pulled two elderly Lake George residents out of their burning mobile home on the Thruway in Catskill.\nThe incident happened just before 3 p.m. State Police were dispatched to a vehicle fire on the right shoulder in the area of 107.6 southbound.\nThe 2005 Allegro motor home, which was towing a 2018 Jeep, had a mechanical failure and become fully engulfed in flames in excess of 20 feet, police said.\nThe door to the motor home was blocked because it was located close to the guide rail, according to police. The troopers were able to break the window out of the door with a baton and pulled the couple and their family pets to safety through the window.\nThe driver, 82-year-old Raymond J. Hanas and his 81-year-old passenger Patrica A. Grabley had minor injuries and smoke inhalation. They were evaluated by EMS at the scene and declined further medical treatment, police said.\nPolice credited the quick actions of the troopers for saving the lives of the family.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Human Interest",
+    "Disaster and Accident",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "lake george",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "raymond j. hanas",
+        "sentiment": "none"
+      },
+      {
+        "name": "patrica a. grabley",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "ems",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "catskill",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-30T01:17:28.651+02:00",
+  "updated": "2023-12-30T01:17:28.651+02:00"
+}

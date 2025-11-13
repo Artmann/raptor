@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "ee13b1df52c3291b36f1d33ab2d8d429fee08441",
+    "url": "https://www.newscentermaine.com/article/news/local/public-safety/canton-ohio-police-custody-death-arrest-bodycam-footage-video/97-45f52408-21ba-4163-8fc8-7d7d1d528371",
+    "site_full": "www.newscentermaine.com",
+    "site": "newscentermaine.com",
+    "site_section": "https://www.newscentermaine.com/news",
+    "site_categories": ["media"],
+    "section_title": "News Headlines | newscentermaine.com",
+    "title": "Content warning: Body cam footage of Ohio police custody death | newscentermaine.com",
+    "title_full": "Content warning: Body cam footage of Ohio police custody death | newscentermaine.com",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.newscentermaine.com/assets/KING/images/eb5f2229-4bc4-4abb-957b-5521991e4593/20240425T145850/eb5f2229-4bc4-4abb-957b-5521991e4593_1140x641.jpg",
+    "performance_score": 0,
+    "domain_rank": 16741,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ee13b1df52c3291b36f1d33ab2d8d429fee08441",
+  "url": "https://www.newscentermaine.com/article/news/local/public-safety/canton-ohio-police-custody-death-arrest-bodycam-footage-video/97-45f52408-21ba-4163-8fc8-7d7d1d528371",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NEWS CENTER Maine Staff",
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "Content warning: Body cam footage of Ohio police custody death | newscentermaine.com",
+  "text": "PORTLAND, Maine — We want to warn you that content in this story contains video footage that you may find disturbing. The town of Canton, Ohio, is in the national spotlight after a 53-year-old man died in police custody there. Newly released bodycam video shows an officer kneeling on the man's upper back. Many people are comparing that tactic to [the case of George Floyd,](/article/news/nation-world/police-fatalities-less-than-fatal-force/507-a03a9755-ddeb-40c8-960d-bfe027500f36) who was killed when police in Minneapolis knelt on his neck for nearly 10 minutes. This case is different, and we don't know all the details yet. Sister station WKYC based out of Cleveland, Ohio, obtained the footage and made it available for other TEGNA stations to use at their discretion. Here's what we decided to share: Body cam video of the [incident in Ohio was just released Wednesday night,](/article/news/local/canton/bodycam-video-east-canton-man-tells-officers-i-cant-breathe-death-police-custody/95-ea2153fb-00e9-4634-a178-7f6d085cb9b7) but the case began on April 18, when police were called about a disturbance at an AMVETS Post in Canton Township. When officers arrived, they found 53-year-old Frank Tyson, who appeared agitated already. He was heard asking for the sheriff's department and was heard on the footage saying, \"You guys are gonna kill me. They're trying to kill me.\" Officers struggled with Tyson for about a minute, eventually forcing him to the ground and handcuffing him. About 10 seconds later, Tyson said he can't breathe while another officer knelt on his upper back for roughly 30 seconds. The officer gets up, and Tyson speaks: \"I can't breathe.\" Tyson lies there motionless for five minutes before officers checked for a pulse. \"Did he calm down?\" \"Yeah, he might be out.\" \"Is he breathing?\" An officer checked the pulse then walked away. It was another three minutes before officers rolled Tyson over and began trying to revive him. Body cam video showed them performing CPR for more than seven minutes. \"Where are the medics?\" That medical help eventually arrived, but not until 13 minutes after Tyson first went motionless. It was too late. The Canton Police Department has identified the officers involved as Beau Schoenegge and Camden Burch. Both were placed on paid administrative leave during the investigation, which is standard policy at that department. The Ohio Bureau of Criminal Investigation is looking into the actions of those officers. To read the original story from WKYC in Cleveland, Ohio, click on the link below: [Bodycam video shows Frank E. Tyson telling Canton officers 'I can't breathe' moments before death in police custody](/article/news/local/canton/bodycam-video-east-canton-man-tells-officers-i-cant-breathe-death-police-custody/95-ea2153fb-00e9-4634-a178-7f6d085cb9b7)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "george floyd",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "wkyc",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "portland",
+        "sentiment": "none"
+      },
+      {
+        "name": "maine",
+        "sentiment": "none"
+      },
+      {
+        "name": "ohio",
+        "sentiment": "none"
+      },
+      {
+        "name": "minneapolis",
+        "sentiment": "none"
+      },
+      {
+        "name": "canton",
+        "sentiment": "none"
+      },
+      {
+        "name": "cleveland",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:20:51.683+03:00",
+  "updated": "2024-04-26T00:39:51.308+03:00"
+}

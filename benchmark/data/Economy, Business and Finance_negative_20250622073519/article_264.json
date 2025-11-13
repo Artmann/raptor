@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "f9da9241ca3f7acbbaec790cbc98ff94f0c2d1a2",
+    "url": "https://fr.tradingview.com/news/reuters.com,2025:newsml_L8N3SM01X:0",
+    "site_full": "fr.tradingview.com",
+    "site": "tradingview.com",
+    "site_section": "https://fr.tradingview.com/news",
+    "site_categories": [],
+    "section_title": "Actualités financières - Analyse du marché - TradingView",
+    "site_title": "TradingView — Track All Markets",
+    "title": "Des parlementaires démocrates du Texas demandent à Tesla de retarder le lancement de son robotaxi",
+    "title_full": "Des parlementaires démocrates du Texas demandent à Tesla de retarder le lancement de son robotaxi",
+    "published": "2025-06-19T06:19:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+    "performance_score": 0,
+    "domain_rank": 1154,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f9da9241ca3f7acbbaec790cbc98ff94f0c2d1a2",
+  "url": "https://fr.tradingview.com/news/reuters.com,2025:newsml_L8N3SM01X:0",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-19T06:19:00.000+03:00",
+  "title": "Des parlementaires démocrates du Texas demandent à Tesla de retarder le lancement de son robotaxi",
+  "text": "Des parlementaires démocrates du Texas demandent à Tesla de retarder le lancement de son robotaxi\nUn groupe de législateurs démocrates du Texas a demandé à Tesla TSLA de retarder le lancement très attendu de son robotaxi à Austin jusqu'en septembre, date à laquelle une nouvelle loi sur la conduite autonome devrait entrer en vigueur.\nLe groupe de législateurs de la région d'Austin a déclaré dans la lettre envoyée mercredi que le report du lancement, dont le directeur général Elon Musk a dit qu'il pourrait \"provisoirement\" avoir lieu ce dimanche, \"est dans le meilleur intérêt de la sécurité publique et du renforcement de la confiance du public dans les opérations de Tesla.\"\nSi Tesla décide de procéder à un lancement ce mois-ci, les législateurs ont demandé à Tesla de fournir des \"informations détaillées\" démontrant comment Tesla se conformera à la nouvelle loi de l'État lors de son lancement.\nL'année dernière, Elon Musk a misé sur la technologie de conduite autonome pour assurer l'avenir de Tesla, qui s'est détournée de la croissance rapide des ventes de véhicules électriques .\nTesla n'a pas immédiatement répondu à une demande de commentaire sur la lettre.\nIl est difficile de savoir quel sera le poids d'une lettre émanant de législateurs démocrates dans un État où les républicains détiennent le poste de gouverneur et la majorité dans les deux chambres législatives.\nElon Musk a annoncé en janvier que Tesla proposerait \"des services de covoiturage autonomes pour de l'argent à Austin, en juin\". Depuis lors, le déploiement à Austin est suivi de près par les investisseurs et les analystes, dont beaucoup attribuent la majeure partie de la valeur boursière de Tesla aux espoirs de robotaxis et de robots humanoïdes que l'entreprise n'a pas encore livrés.\nLa législation actuelle du Texas permet aux entreprises de véhicules autonomes de faire circuler leurs véhicules partout au Texas , à condition que les véhicules répondent aux exigences de base en matière d'immatriculation et d'assurance. La nouvelle législation, qui a été adoptée par l'assemblée législative du Texas le mois dernier et n'a pas encore été signée par le gouverneur, exigerait pour la première fois que les entreprises de véhicules autonomes demandent l'autorisation d'opérer dans l'État.\nElle donnerait aux autorités de l'État le pouvoir de retirer les permis si elles estiment qu'un véhicule sans conducteur \"met en danger le public.\" Les entreprises sont également tenues de fournir à l'État des informations sur la manière dont la police et les premiers intervenants peuvent gérer les véhicules dans les situations d'urgence.\nElon Musk et Tesla ont donné peu de détails sur leurs plans pour le lancement du robotaxi à Austin. Le directeur général a déclaré que le déploiement à Austin commencerait avec 10 ou 20 véhicules Model Y, et que l'entreprise commencerait à opérer dans \"seulement les parties d'Austin que nous considérons comme les plus sûres.\" Elon Musk et Tesla n'ont pas précisé qui seront les passagers, comment Tesla facturera les trajets, où ils opéreront à Austin ou quelle sera l'étendue de la surveillance à distance et de l'exploitation des véhicules.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Economy, Business and Finance->corporate news and profiles",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->automotive",
+    "Science and Technology->technology and engineering",
+    "Social Issue->social problem",
+    "Social Issue->social networking",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:38:35.055+03:00",
+  "updated": "2025-06-19T04:51:27.000+00:00"
+}

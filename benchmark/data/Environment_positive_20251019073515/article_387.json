@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "01ef2b7e073b4d0b7e797b6eaf9e9242fd31a04e",
+    "url": "https://www.diariodeibiza.es/ibiza/2025/10/16/incendios-ibiza-formentera-fuego-122680996.html",
+    "site_full": "www.diariodeibiza.es",
+    "site": "diariodeibiza.es",
+    "site_section": "https://diariodeibiza.es/empresas-en-ibiza",
+    "site_categories": ["media", "top_news_es", "top_news"],
+    "section_title": "Empresas en Ibiza y Formentera | Noticias de Empresas en Ibiza y Formentera - Diario de Ibiza",
+    "site_title": "Diario de Ibiza | Noticias y última hora de Ibiza y Formentera",
+    "title": "IBIZA: Ibiza y Formentera cierran la campaña de incendios con excelentes resultados: solo tres hectáreas afectadas",
+    "title_full": "IBIZA: Ibiza y Formentera cierran la campaña de incendios con excelentes resultados: solo tres hectáreas afectadas",
+    "published": "2025-10-16T14:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://estaticos-cdn.prensaiberica.es/clip/a37ace20-a3ce-4b10-b94b-f6addfdd89ac_16-9-discover-aspect-ratio_default_0.jpg",
+    "performance_score": 0,
+    "domain_rank": 54779,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "01ef2b7e073b4d0b7e797b6eaf9e9242fd31a04e",
+  "url": "https://www.diariodeibiza.es/ibiza/2025/10/16/incendios-ibiza-formentera-fuego-122680996.html",
+  "ord_in_thread": 0,
+  "author": "Guillermo Sáez",
+  "published": "2025-10-16T14:32:00.000+03:00",
+  "title": "IBIZA: Ibiza y Formentera cierran la campaña de incendios con excelentes resultados: solo tres hectáreas afectadas",
+  "text": "Según los datos difundidos este jueves por la conselleria de Agricultura, Pesca y Medio Natural, las Pitiusas han mantenido un comportamiento \"ejemplar\" durante una temporada estival marcada por el calor extremo y el alto riesgo de incendios en todo el país. El único fuego que alcanzó el nivel de alerta IGP-1 fue el declarado el pasado 30 de julio en Sa Talaia de Sant Antoni debido a su proximidad a un núcleo urbano. Sin embargo, gracias a la intervención inmediata de los medios terrestres y aéreos el fuego quedó controlado rápidamente y se limitó a un conato de pequeña extensión.\n99% de conatos El 99% de los incendios registrados este verano en Baleares quedaron en conato y, a la espera de los informes definitivos, el 96% de los incendios se atribuyen a la actividad humana, ya sea por negligencias, accidentes o causas intencionadas, y solo un 4% a fenómenos naturales como los rayos .\nEl conseller Joan Simonet ha destacado que estos buenos resultados en Ibiza y Formentera \"son fruto del trabajo coordinado de todos los efectivos, pero también de la concienciación ciudadana y de la gestión forestal preventiva\". \" El riesgo de incendio forestal existe todo el año y no podemos relajarnos\", ha añadido.\nAdemás, durante este verano efectivos del operativo interinsular participaron en grandes incendios en Galicia, Castilla y León y Extremadura , aportando personal técnico y medios aéreos. Los equipos de Ibiza y Formentera también intervinieron en más de 22 actuaciones de emergencia por lluvias torrenciales e inundaciones entre finales de septiembre y octubre.\nSuscríbete para seguir leyendo\nTEMAS",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->conservation"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Joan Simonet",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Baleares",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ibiza",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Conselleria de Agricultura",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_es", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:39:10.109+03:00",
+  "updated": "2025-10-16T14:52:11.000+03:00"
+}

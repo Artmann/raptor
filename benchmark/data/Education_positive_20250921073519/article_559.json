@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "507408f9fe862003ce42d748b7490c3d97e2b616",
+    "url": "https://www.amontada.ce.gov.br/informa.php?id=478",
+    "site_full": "www.amontada.ce.gov.br",
+    "site": "amontada.ce.gov.br",
+    "site_section": "https://www.amontada.ce.gov.br/rss",
+    "site_categories": [],
+    "section_title": "Noticias",
+    "site_title": "Prefeitura de Amontada",
+    "title": "AMONTADA RECEBE PRÊMIO ESCOLA NOTA 10",
+    "title_full": "AMONTADA RECEBE PRÊMIO ESCOLA NOTA 10",
+    "published": "2025-09-15T06:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "BR",
+    "main_image": "https://www.amontada.ce.gov.br/fotos/478/Capa478.jpg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "507408f9fe862003ce42d748b7490c3d97e2b616",
+  "url": "https://www.amontada.ce.gov.br/informa.php?id=478",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-15T06:00:00.000+03:00",
+  "title": "AMONTADA RECEBE PRÊMIO ESCOLA NOTA 10",
+  "text": "Amontada em Festa!\nOntem, 15 de setembro, Amontada viveu um momento histórico na maior premiação da educação do Estado do Ceará, realizada no Centro de Convenções de Fortaleza.\nA comitiva do município, liderada pela Secretaria de Educação, saiu cedo rumo ao evento para celebrar a conquista das três escolas que brilharam no Prêmio Escola Nota 10:\nEBTI Antônio Eliseu de Barros\n- Cabatã, distrito de GarçasEBTI Jonas Pereira de Azevedo\n- MoitasEBTI Francisco Estevão de Assis\n- Sabiaguaba\nO clima foi de muita alegria e reconhecimento, com Amontada celebrando junto às demais escolas premiadas de todo o Estado. O evento contou com a presença do Ministro da Educação, Camilo Santana, do Governador Emmanuel de Freitas, além de diversas autoridades estaduais e municipais.\nEssa conquista inédita para o município é resultado do esforço coletivo: da gestão educacional, do trabalho incansável do secretário de educação e sua equipe técnica, e principalmente do empenho diário dos professores e alunos.\nAmontada está em festa e já segue determinada em busca de novos resultados ainda mais significativos em 2025!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "portuguese",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest"],
+  "topics": [
+    "Education->school",
+    "Education->educational grading",
+    "Education->state school",
+    "Human Interest->award and prize"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:36:20.020+03:00",
+  "updated": "2025-09-18T08:42:43.000+03:00"
+}

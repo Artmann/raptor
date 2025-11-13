@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "193838050556ab91ba4cd3816dec457b1537df70",
+    "url": "https://scitechdaily.com/flames-on-the-horizon-how-climate-change-is-supercharging-wildfire-risks/",
+    "site_full": "scitechdaily.com",
+    "site": "scitechdaily.com",
+    "site_section": "http://scitechdaily.com",
+    "site_categories": ["science", "space_astronomy"],
+    "section_title": "SciTechDaily - Science, Space and Technology News 2023",
+    "title": "Flames on the Horizon: How Climate Change Is Supercharging Wildfire Risks",
+    "title_full": "Flames on the Horizon: How Climate Change Is Supercharging Wildfire Risks",
+    "published": "2023-12-29T00:14:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://scitechdaily.com/images/US-Wildfires-Art-Concept.jpg",
+    "performance_score": 0,
+    "domain_rank": 4126,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "193838050556ab91ba4cd3816dec457b1537df70",
+  "url": "https://scitechdaily.com/flames-on-the-horizon-how-climate-change-is-supercharging-wildfire-risks/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Mike O'Neill",
+  "published": "2023-12-29T00:14:00.000+02:00",
+  "title": "Flames on the Horizon: How Climate Change Is Supercharging Wildfire Risks",
+  "text": "Scientists examined multiple fire danger indices for the contiguous U.S. to assess the impact of climate change on future wildfire risk and seasonality. Wildfires are some of the most destructive natural disasters in the country, threatening lives, destroying homes and infrastructure, and creating air pollution. In order to properly forecast and manage wildfires, managers need to understand wildfire risk and allocate resources accordingly. A new study contributes scientific expertise to this effort. Assessing Future Fire Risks In the study, published in the November issue of the journal Earth’s Future, researchers from the Desert Research Institute (DRI), Argonne National Laboratory, and the University of Wisconsin-Madison, teamed up to assess future fire risk. They looked at the four fire danger indices used across North America to predict and manage the risk of wildfire to see how the risk correlated with observed wildfire size between 1984 and 2019. Then, they examined how wildfire risk changed under the projected future climate, finding that both fire potential and a longer wildfire season are likely under climate change. Comprehensive Risk Evaluation “We use several of these fire danger indices to evaluate fire risk in the contiguous U.S.,” said Guo Yu, Ph.D., assistant research professor at DRI and lead author of the study. “But previous studies have only looked at how climate change will alter wildfire risk using one of them, and only a few studies have looked at how fire risk has translated to the size or characteristics of actual wildfires. We wanted to rigorously assess both in this paper.” Fire danger indices use information about weather conditions and fuel moisture, or how dry vegetation is on the ground. The most common fire danger indices used in North America are the USGS Fire Potential Index, the Canadian Forest Fire Weather Index, and the Energy Release Component and Burning Indices from the National Fire Danger Rating System. Correlation and Climate Projections First, the scientists used satellite remote sensing data from 1984-2019 to see how potential fire risk correlated with ultimate wildfire size for more than 13,000 wildfires, excluding controlled burns. They found that when wildfire risk was higher, wildfire size tended to be larger, and this relationship was stronger over larger areas. By plugging the fire danger indices into future climate projections, the study found that extreme wildfire risk will increase by an average of 10 days across the continental U.S. by the end of the century, driven largely by increased temperatures. Certain regions, like the southern Great Plains (including Kansas, Oklahoma, Arkansas, and Texas) are projected to have more than 40 additional days per year of extreme wildfire danger. A few small regions are projected to see a decrease in their annual wildfire risk season due to higher rainfall and humidity, including the Pacific Northwest coast and the mid-Atlantic coast. Regional Variations and Seasonal Shifts In the Southwest, the extreme wildfire season is projected to increase by more than 20 days per year, most of which will occur in the spring and summer months. Longer fire seasons extending into the winter months are also projected, particularly for the Texas-Louisiana coastal plain. “Under a warmer future climate, we can see that the fire danger will even be higher in the winter,” Yu said. “This surprised me, because it feels counterintuitive, but climate change will alter the landscape in so many ways.” Implications for Fire Management The study authors hope that the study will help fire managers understand the size of potential wildfires so they can prepare accordingly, as well as understand how fire seasonality will shift and extend under a changing climate. Reference: “Performance of Fire Danger Indices and Their Utility in Predicting Future Wildfire Danger Over the Conterminous United States” by Guo Yu, Yan Feng, Jiali Wang and Daniel B. Wright, 20 November 2023, Earth’s Future. [DOI: 10.1029/2023EF003823](https://doi.org/10.1029/2023EF003823)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Disaster and Accident"],
+  "external_links": [
+    "https://doi.org/10.1029/2023EF003823)",
+    "https://www.doi.org/10.1029/2023EF003823)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "desert research institute",
+        "sentiment": "none"
+      },
+      {
+        "name": "argonne national laboratory",
+        "sentiment": "none"
+      },
+      {
+        "name": "university of wisconsin-madison",
+        "sentiment": "none"
+      },
+      {
+        "name": "dri",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "earth",
+        "sentiment": "none"
+      },
+      {
+        "name": "north america",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:24:05.983+02:00",
+  "updated": "2023-12-29T00:24:05.983+02:00"
+}

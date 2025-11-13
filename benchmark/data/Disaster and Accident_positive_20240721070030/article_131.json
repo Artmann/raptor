@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "794bd3f8eff0481177b4fe5d647f411a5287bb7d",
+    "url": "https://www.electronicsforu.com/news/robot-jumps-twice-big-bens-height",
+    "site_full": "www.electronicsforu.com",
+    "site": "electronicsforu.com",
+    "site_section": "https://www.electronicsforu.com/category/special/editor-choice",
+    "site_categories": ["tech", "shopping"],
+    "section_title": null,
+    "title": "Robot Jumps Twice Big Ben’s Height",
+    "title_full": "Robot Jumps Twice Big Ben’s Height",
+    "published": "2024-06-21T07:36:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 30998,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "794bd3f8eff0481177b4fe5d647f411a5287bb7d",
+  "url": "https://www.electronicsforu.com/news/robot-jumps-twice-big-bens-height",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Nidhi Agarwal",
+  "published": "2024-06-21T07:36:00.000+03:00",
+  "title": "Robot Jumps Twice Big Ben’s Height",
+  "text": "The robot jumps 120 meters, breaking records and helping in space exploration, disaster rescue, and dangerous area surveillance. Engineers at The University of Manchester have developed a robot that can jump 120 meters, setting a new record for jumping robots. Researchers have used a combination of mathematics, computer simulations, and laboratory experiments to design a robot optimized for jumping. This robot features the ideal size, shape, and arrangement of parts, enabling it to jump over obstacles many times its size. The previous highest-jumping robot reached 33 meters, or 110 times its size. The new design jumps over 120 meters on Earth and 200 meters on the moon, more than twice Big Ben’s height, revolutionizing planetary exploration, disaster rescue, and hazardous area surveillance. Traditional jumping robots take off before fully releasing spring energy, leading to inefficient jumps, limited height, and wasted energy through sideways or rotational movement. The new design eliminates these issues while maintaining structural strength and stiffness for higher jumps. The team considered various aspects of the robot’s shape. They also explored whether the robot should have a simple, symmetrical shape like a diamond or a more curved and organic design. They focused on determining the optimal size for the robot. While small robots are light and agile, larger robots can carry bigger motors for more powerful jumps, suggesting that the best option might be a balance between the two. Their structural redesigns concentrate on redistributing the robot’s component mass towards the top and tapering the structure towards the bottom. They found that lighter legs, designed in the shape of a prism and using springs that only stretch, significantly improve the performance and energy efficiency of the jumping robot. While the researchers have identified a viable design to enhance performance significantly, their following objectives include controlling the direction of the jumps and harnessing the kinetic energy from landings to increase the number of jumps per charge. Additionally, they aim to develop more compact designs for space missions, making the robot easier to transport and deploy on the moon. Reference: John Lo et al, Characterising the take-off dynamics and energy efficiency in spring-driven jumping robots, Mechanism and Machine Theory (2024). [DOI: 10.1016/j.mechmachtheory.2024.105688](https://dx.doi.org/10.1016/j.mechmachtheory.2024.105688)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://dx.doi.org/10.1016/j.mechmachtheory.2024.105688",
+    "https://www.dx.doi.org/10.1016/j.mechmachtheory.2024.105688"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "ben",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "university of manchester",
+        "sentiment": "none"
+      },
+      {
+        "name": "university of manchester engineers",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "earth",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-21T10:17:47.278+03:00",
+  "updated": "2024-07-15T20:00:55.916+03:00"
+}

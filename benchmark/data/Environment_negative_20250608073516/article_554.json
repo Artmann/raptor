@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "63a1d4693cb0111ffba1a61d32f59c3ba67b8f09",
+    "url": "https://www.newsbreak.com/wmbb-1589961/3996573493592-rain-on-the-way-and-a-wet-weekend",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/wmbb-1589961",
+    "site_categories": ["under_construction"],
+    "section_title": "WMBB&#x27;s Home Page | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Rain on the way and a wet weekend - NewsBreak",
+    "title_full": "Rain on the way and a wet weekend - NewsBreak",
+    "published": "2025-05-08T02:37:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/1X8zu2_10w207JT00",
+    "performance_score": 0,
+    "domain_rank": 3115,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "63a1d4693cb0111ffba1a61d32f59c3ba67b8f09",
+  "url": "https://www.newsbreak.com/wmbb-1589961/3996573493592-rain-on-the-way-and-a-wet-weekend",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T02:37:00.000+03:00",
+  "title": "Rain on the way and a wet weekend - NewsBreak",
+  "text": "Panama City Fla. (WMBB) – It may have looked like rain throughout the day, but very little has actually fallen due to lingering dry air and a lack of organized weather systems. Although some showers have developed offshore, they’ve mostly fizzled out before reaching land. A few isolated showers are possible through late evening, though most will be light and scattered. Looking ahead, a large upper-level low spinning over northwest Arkansas is slowly influencing our weather by pushing weak disturbances into the region. We may see a few stronger storms Thursday afternoon, especially inland, with gusty winds or small hail as the primary concerns. Coastal areas will likely remain more stable with limited thunderstorm potential. Friday brings a better chance for rain, around 70%, as the sea breeze combines with incoming moisture, possibly leading to afternoon storms. As the weekend approaches, rain chances increase further. Between now and Friday afternoon, rainfall totals will be minimal, around half an inch. However, from Friday afternoon through Saturday, one to two inches are possible, followed by another inch through Sunday. This points to heavier, more consistent rainfall over the weekend. Thursday and Friday will be somewhat unsettled, but Saturday and Sunday are shaping up to be the wettest days of the week. If you have weekend plans, especially outdoors, it’s best to keep them flexible and prepare for rain. For the latest news, weather, sports, and streaming video, head to mypanhandle.com.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment", "Social Issue"],
+  "topics": [
+    "Weather->weather phenomena",
+    "Environment->water",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.mypanhandle.com",
+    "https://img.particlenews.com/image.php?url=1X8zu2_10w207JT00",
+    "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1X8zu2_10w207JT00",
+    "https://www.img.particlenews.com/image.php?url=1X8zu2_10w207JT00",
+    "https://img.particlenews.com/image.php",
+    "https://mypanhandle.com",
+    "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1X8zu2_10w207JT00"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:51:31.996+03:00",
+  "updated": "2025-05-08T01:54:38.000+00:00"
+}

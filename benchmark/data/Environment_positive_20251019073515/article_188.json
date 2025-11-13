@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "2894a1c156972fe61f8927eed13103cad6a2ed69",
+    "url": "https://www.diarimes.com/es/camp-tarragona/baix-camp/251016/riudoms-impulsa-renaturalizacion-riera-maspujols_195316.html",
+    "site_full": "www.diarimes.com",
+    "site": "diarimes.com",
+    "site_section": "https://diarimes.com/es",
+    "site_categories": ["media"],
+    "section_title": "Diari Més - El diari del Camp de Tarragona",
+    "site_title": "Diari Més - El diari del Camp de Tarragona",
+    "title": "Riudoms impulsa la renaturalización de la riera de Maspujols",
+    "title_full": "Riudoms impulsa la renaturalización de la riera de Maspujols",
+    "published": "2025-10-16T13:03:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://imagenes.diarimes.com/files/og_thumbnail/uploads/2025/10/16/68f0c20cd7550.jpeg",
+    "performance_score": 0,
+    "domain_rank": 88734,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2894a1c156972fe61f8927eed13103cad6a2ed69",
+  "url": "https://www.diarimes.com/es/camp-tarragona/baix-camp/251016/riudoms-impulsa-renaturalizacion-riera-maspujols_195316.html",
+  "ord_in_thread": 0,
+  "author": "Redacció",
+  "published": "2025-10-16T13:03:00.000+03:00",
+  "title": "Riudoms impulsa la renaturalización de la riera de Maspujols",
+  "text": "Medio Ambiente\nRiudoms impulsa la renaturalización de la riera de Maspujols\nLos trabajos con maquinaria se alargará unos tres meses\nEsta semana ha empezado una intervención en la riera de Maspujols que supondrá un nuevo impulso y mejora de toda esta zona del término de Riudoms. Los trabajos con maquinaria se alargará unos tres meses. Es un proyecto impulsado por el Ayuntamiento de Riudoms que cuenta con un presupuesto de 130.135,77 euros, subvencionado casi todo por la Agència Catalana de l'Aigua. En concreto se harán dos grandes actuaciones: el arreglo del caminito del Mas del Toda y la recuperación de varios espacios naturales a lo largo de la riera.\nEl caminito del Mas del Toda es un camino estrecho del suelo que empieza cerca del pueblo. Hace aproximadamente un kilómetro de longitud y va en paralelo a la riera, concretamente por la parte derecha subiendo hacia Maspujols. Ahora se le dará un nuevo impulso sacando las piedras que la han invadido, mejorando la señalización y retirando las cañas (que es una especie invasora).\nRecuperar espacios naturales\nAparte del caminito del Mas del Toda, los operarios también actuarán a lo largo de cinco kilómetros de la riera de Maspujols. Es la zona más próxima al núcleo urbano y la que más se utiliza por parte de los riudomencs. Es un tramo aproximadamente entre el puente del Vellet (carretera T-310 de Riudoms en Reus) y el puente de piedra del tren (que está junto a Maspujols y que todavía es término de Riudoms).\nEn todo este tramo de cinco kilómetros se hace un proyecto que se conoce como renaturalización. De lo que se trata es de ayudar a la riera a tener un estado más original, con más vegetación propia y un poco menos de intervención humana. Por eso se retirarán los escombros vertidos en cerca de un centenar de puntos; se sacarán algunas grandes piedras que formaban parte de rompeolas que se hicieron hace años; se plantarán especies autóctonas; se pondrá tierra vegetal nuevo; se instalarán paneles informativos sobre la flora, la fauna y pozos de mina presentes en esta zona; y se eliminarán algunos de los pasos de coches que casi no se utilizan.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->water", "Environment->conservation"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Riudoms",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Ayuntamiento de Riudoms",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:57:21.994+03:00",
+  "updated": "2025-10-16T14:16:34.000+03:00"
+}

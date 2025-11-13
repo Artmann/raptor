@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "5e3b55c7bc5329f5bb1295e9cc369d1743cbad7d",
+    "url": "https://www.deutschlandfunk.de/buendnis-gegen-kinderarmut-fordert-investitionen-fuer-bessere-schulen-und-betreuung-102.html",
+    "site_full": "www.deutschlandfunk.de",
+    "site": "deutschlandfunk.de",
+    "site_section": "https://www.deutschlandfunk.de/die-nachrichten.353.de.rss",
+    "site_categories": ["media", "top_news_de", "top_news"],
+    "section_title": "Deutschlandfunk - Fortlaufende Nachrichten vom 26. Juni 2025",
+    "site_title": "Deutschlandfunk - Alles von Relevanz",
+    "title": "Haushaltsberatungen - Bündnis gegen Kinderarmut fordert Investitionen für bessere Schulen und Betreuung",
+    "title_full": "Haushaltsberatungen - Bündnis gegen Kinderarmut fordert Investitionen für bessere Schulen und Betreuung",
+    "published": "2025-06-26T09:58:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3200,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5e3b55c7bc5329f5bb1295e9cc369d1743cbad7d",
+  "url": "https://www.deutschlandfunk.de/buendnis-gegen-kinderarmut-fordert-investitionen-fuer-bessere-schulen-und-betreuung-102.html",
+  "ord_in_thread": 0,
+  "author": "deutschlandfunk.de",
+  "published": "2025-06-26T09:58:00.000+03:00",
+  "title": "Haushaltsberatungen - Bündnis gegen Kinderarmut fordert Investitionen für bessere Schulen und Betreuung",
+  "text": "Angesichts der laufenden Haushaltsverhandlungen der Bundesregierung plädiert der Zusammenschluss aus 49 Organisationen für umfassende Strukturreformen in Deutschland, wie ein Sprecher mitteilte. Investitionen in Kinder und Jugendliche seien Investitionen in Wohlstand und Demokratie. Die Liste der Probleme sei lang - sie reiche von fehlenden Fachkräften über unzuverlässige Betreuungszeiten bis hin zu maroden Schultoiletten. Im Haushalt der Bundesregierung müssten daher ausreichend finanzielle Mittel für Kinder- und Jugendsozialarbeit sowie kostenloses Mittagessen für benachteiligte Kinder in Schulen und anderen Bildungsstätten bereitgestellt werden, hieß es.\nDen Appell haben unter anderem das Deutsche Kinderhilfswerk, der Deutsche Caritasverband und die Diakonie unterzeichnet.\nDiese Nachricht wurde am 26.06.2025 im Programm Deutschlandfunk gesendet.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Politics"],
+  "topics": [
+    "Education->students",
+    "Education->educational grading",
+    "Education->school",
+    "Social Issue->children",
+    "Social Issue->poverty",
+    "Social Issue->social services",
+    "Politics->government budget",
+    "Politics->education policy",
+    "Politics->civil rights"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Deutschland",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Deutsche Kinderhilfswerk",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Deutsche Caritasverband",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T10:03:41.621+03:00",
+  "updated": "2025-06-27T07:05:08.000+00:00"
+}

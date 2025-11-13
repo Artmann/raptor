@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "4c1d67970b1351a104f060ed5460c58d42f153a3",
+    "url": "https://scitechdaily.com/korean-scientists-develop-cheaper-safer-alternative-to-lithium-ion-batteries/",
+    "site_full": "scitechdaily.com",
+    "site": "scitechdaily.com",
+    "site_section": "http://feeds.feedburner.com/scitechdaily",
+    "site_categories": ["science", "space_astronomy"],
+    "section_title": "SciTechDaily",
+    "title": "Korean Scientists Develop Cheaper, Safer Alternative to Lithium-Ion Batteries",
+    "title_full": "Korean Scientists Develop Cheaper, Safer Alternative to Lithium-Ion Batteries",
+    "published": "2023-12-28T22:56:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://scitechdaily.com/images/Advanced-Battery-Artist-Concept.jpg",
+    "performance_score": 0,
+    "domain_rank": 4126,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "shares": 10
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4c1d67970b1351a104f060ed5460c58d42f153a3",
+  "url": "https://scitechdaily.com/korean-scientists-develop-cheaper-safer-alternative-to-lithium-ion-batteries/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "National Research Council of Science & Technology",
+  "published": "2023-12-28T22:56:00.000+02:00",
+  "title": "Korean Scientists Develop Cheaper, Safer Alternative to Lithium-Ion Batteries",
+  "text": "An innovative technology enables the safe transformation of hydrogen gas into water, enhancing the security of batteries. This advancement paves the way for the commercialization of more affordable and secure aqueous rechargeable batteries.\nThis summer, Earth is experiencing extreme weather patterns, including severe heat waves and intense rainfall. The urgency to adopt renewable energy sources and enhance related infrastructure is now more critical than ever as a strategy for preserving our planet during these challenging times. However, this approach faces significant challenges due to the unpredictable nature of electricity generation from renewables, which relies on uncertain variables like labile weather conditions.\nFor this reason, the demand for energy storage systems (ESS) that can store and supply electricity as needed is ever-increasing, but lithium-ion batteries (LIBs) currently employed in ESS are not only highly expensive, but also prone to potential fire, so there is an urgent need to develop cheaper and safer alternatives.\nAdvancements in Aqueous Rechargeable Batteries\nA research team led by Dr. Oh, Si Hyoung of the Energy Storage Research Center at the\nKorea Institute of Science and Technology (KIST) has developed a highly safe aqueous rechargeable battery that can offer a timely substitute that meets the cost and safety needs.\nDespite of lower energy density achievable, aqueous rechargeable batteries have a significant economic advantage as the cost of raw materials is much lower than LIBs. However, inveterate hydrogen gas generated from parasitic water decomposition causes a gradual rise in internal pressure and eventual depletion of the electrolyte, which poses a sizeable threat on the battery safety, making commercialization difficult.\nOvercoming Safety Challenges in Battery Technology\nUntil now, researchers have often tried to evade this issue by installing a surface protection layer that minimizes the contact area between the metal anode and the electrolyte. However, the corrosion of the metal anode and accompanying decomposition of water in the electrolyte is inevitable in most cases, and incessant accumulation of hydrogen gas can cause a potential detonation in long-term operation.\nTo cope with this critical issue, the research team has developed a composite catalyst consisting of manganese dioxide and palladium, which is capable of automatically converting hydrogen gas generated inside the cell into water, ensuring both the performance and safety of the cell.\nManganese dioxide does not react with hydrogen gas under normal circumstances, but when a small amount of palladium is added, hydrogen is readily absorbed by the catalysts, being regenerated into water. In the prototype cell loaded with the newly developed catalysts, the internal pressure of the cell was maintained well below the safety limit, and no electrolyte depletion was observed.\nImplications for the Future of Energy Storage\nThe results of this research effectively solves one of the most concerning safety issues in the aqueous batteries, making a major stride towards commercial application to ESS in the future. Replacing LIBs with cheaper and safer aqueous batteries can even trigger a rapid growth of global market for ESS.\n“This technology pertains to a customized safety strategy for aqueous rechargeable batteries, based on the built-in active safety mechanism, through which risk factors are automatically controlled,” said Dr. Oh, Si Hyoung of KIST. “Moreover, it can be applied to various industrial facilities where hydrogen gas leakage is one of the major safety concerns (for instance, hydrogen gas station, nuclear power plant, etc) to protect public safety.”\nReference: “Highly safe aqueous rechargeable batteries via electrolyte regeneration using Pd–MnO2 catalytic cycle” by Hyun-gi Jo, Eoyoon Lee, Seulki Han, Jaehong Lim, Minji Jeong, Jinyeon Hwang, Hee-Dae Lim, Hyung-Seok Kim, Hyung Chul Ham and Si Hyoung Oh, 14 July 2023, Energy Storage Materials.\nDOI: 10.1016/j.ensm.2023.102881\nThe study was funded by the Ministry of Science and ICT.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Environment",
+    "Economy, Business and Finance"
+  ],
+  "external_links": [
+    "https://doi.org/10.1016/j.ensm.2023.102881",
+    "https://www.doi.org/10.1016/j.ensm.2023.102881"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "ess",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "earth",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:10:02.133+02:00",
+  "updated": "2023-12-29T00:10:02.133+02:00"
+}

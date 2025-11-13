@@ -1,0 +1,139 @@
+{
+  "thread": {
+    "uuid": "f2d8bd6f5e2abc3b8f6c74c23fb95396c5c4bb5f",
+    "url": "https://www.reviewjournal.com/crime/homicides/so-unfair-family-mourns-boy-13-killed-in-north-las-vegas-shooting-2972657/",
+    "site_full": "www.reviewjournal.com",
+    "site": "reviewjournal.com",
+    "site_section": "https://www.reviewjournal.com/feed/",
+    "site_categories": ["society", "music", "gay_life", "entertainment"],
+    "section_title": "Las Vegas Review-Journal",
+    "title": "Keon Young identified by family as boy killed in North Las Vegas shooting | Homicides | Crime",
+    "title_full": "Keon Young identified by family as boy killed in North Las Vegas shooting | Homicides | Crime",
+    "published": "2023-12-29T01:11:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.reviewjournal.com/wp-content/uploads/2023/12/18677779_web1_young.keon_.final_.jpg",
+    "performance_score": 0,
+    "domain_rank": 2147,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f2d8bd6f5e2abc3b8f6c74c23fb95396c5c4bb5f",
+  "url": "https://www.reviewjournal.com/crime/homicides/so-unfair-family-mourns-boy-13-killed-in-north-las-vegas-shooting-2972657/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "David Wilson",
+  "published": "2023-12-29T01:11:00.000+02:00",
+  "title": "Keon Young identified by family as boy killed in North Las Vegas shooting | Homicides | Crime",
+  "text": "Keon Young (Courtesy of Chanell Williams) Keon Young (Courtesy of Chanell Williams) Keon Young, 13, lifting weights with his uncle Robert Cook. (Courtesy of Robert Cook) Family members identified a 13-year-old boy shot and killed in North Las Vegas this weekend.\nKeon Young died at University Medical Center after being shot in the 3200 block of Fountain Falls Way, near West Cheyenne Avenue and North Simmons Street, around 8 p.m. Saturday.\n“Keon’s heart was very pure and [he] loved all of his siblings. If Keon seen anyone hurting he would literally cry,” Young’s cousin Chanell Williams wrote in a GoFundMe post . “Keon greeted everyone with his big beautiful smile.”\nWilliams called Young’s death “so unfair” and asked people to donate to help the family.\nYoung’s uncle Robert Cook said his nephew enjoyed all the things a 13-year-old should, including superheroes and basketball.\n“He was living his life to the fullest,” Cook said.\nCook lives in Arkansas and traveled to Nevada after Young’s death. He said the holiday season will never be the same for their family.\n“The best way we can remember Keon is by being great,” Cook said.\n said Thursday that no new information was available about the shooting.\nWilliams’ online fundraiser had raised about $1,300 by Thursday afternoon.\nA balloon release is scheduled for 6 p.m. Friday at Desert Horizons Park near Gowan Road and Simmons Street.\nContact David Wilson at dwilson@reviewjournal.com.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Disaster and Accident",
+    "Human Interest"
+  ],
+  "external_links": [
+    "https://www.gofundme.com/f/keon-young",
+    "https://gofundme.com/f/keon-young"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "keon young",
+        "sentiment": "negative"
+      },
+      {
+        "name": "young",
+        "sentiment": "none"
+      },
+      {
+        "name": "williams",
+        "sentiment": "none"
+      },
+      {
+        "name": "robert cook",
+        "sentiment": "none"
+      },
+      {
+        "name": "cook",
+        "sentiment": "none"
+      },
+      {
+        "name": "chanell williams",
+        "sentiment": "none"
+      },
+      {
+        "name": "keon",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "chanell williams",
+        "sentiment": "negative"
+      },
+      {
+        "name": "university medical center",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "north las vegas",
+        "sentiment": "none"
+      },
+      {
+        "name": "north simmons street",
+        "sentiment": "none"
+      },
+      {
+        "name": "fountain falls way",
+        "sentiment": "none"
+      },
+      {
+        "name": "west cheyenne avenue",
+        "sentiment": "none"
+      },
+      {
+        "name": "arkansas",
+        "sentiment": "none"
+      },
+      {
+        "name": "nevada",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:34:07.803+02:00",
+  "updated": "2024-01-07T19:27:07.078+02:00"
+}

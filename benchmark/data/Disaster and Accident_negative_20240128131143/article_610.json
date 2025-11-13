@@ -1,0 +1,124 @@
+{
+  "thread": {
+    "uuid": "0e93605668b14bfe73866228f36acd0ae0d4cbf4",
+    "url": "https://www.abbynews.com/local-news/rcmp-homicide-team-investigating-death-in-downtown-chilliwack-7290662",
+    "site_full": "www.abbynews.com",
+    "site": "abbynews.com",
+    "site_section": "https://abbynews.com",
+    "site_categories": ["media"],
+    "section_title": "Welcome to The Abbotsford News  - The Abbotsford News",
+    "title": "RCMP homicide team investigating death in downtown Chilliwack - The Abbotsford News",
+    "title_full": "RCMP homicide team investigating death in downtown Chilliwack - The Abbotsford News",
+    "published": "2023-12-29T00:35:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://www.bpmcdn.com/f/files/shared/feeds/gps/2023/12/web1_231228-cpl-ihit-chilliwack-farmer_2.jpg;w=800;h=549;mode=crop",
+    "performance_score": 0,
+    "domain_rank": 73196,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0e93605668b14bfe73866228f36acd0ae0d4cbf4",
+  "url": "https://www.abbynews.com/local-news/rcmp-homicide-team-investigating-death-in-downtown-chilliwack-7290662",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jennifer Feinberg",
+  "published": "2023-12-29T00:35:00.000+02:00",
+  "title": "RCMP homicide team investigating death in downtown Chilliwack - The Abbotsford News",
+  "text": "RCMP’s homicide investigators are asking for any witnesses to come forward with information in the death of Corey Douglas Farmer of Chilliwack. The Integrated Homicide Investigation Team (IHIT) was deployed to Chilliwack yesterday after human remains were found in the 46100-block of Princess Avenue. “IHIT now has conduct of the investigation and is working closely in partnership with the UFVRD RCMP, BC Coroners Service and the Integrated Forensic Identification Section,” according to the IHIT release of Dec. 28. On Thursday, a team of officers was still on the scene at the home, with evidence laid out in the backyard facing the alleyway. Investigating officers have identified the victim as Corey Douglas Farmer, 35, in hopes of advancing the investigation. “IHIT is working with its partners in Chilliwack to canvass the area for witnesses and to collect CCTV,” said Sgt. Timothy Pierotti of IHIT. “If you have information regarding Mr. Farmer or his whereabouts in the time leading up to his death, and have yet to speak with police, now is the time to come forward.” Anyone with information who has not yet spoken with police, is asked to contact the IHIT Information Line at 1-877-551-IHIT (4448) or by email at ihitinfo@rcmp-grc.gc.ca. They can cite IHIT File: 2023-1722 or UFVRD RCMP File: 2023-53690. READ MORE: [Abbotsford man sentenced to 4 years for 4 Lower Mainland robberies](https://www.theprogress.com/local-news/abbotsford-man-sentenced-to-4-years-for-4-lower-mainland-robberies-7290238)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Human Interest",
+    "Disaster and Accident",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "corey douglas farmer of chilliwack",
+        "sentiment": "none"
+      },
+      {
+        "name": "corey douglas farmer",
+        "sentiment": "none"
+      },
+      {
+        "name": "timothy pierotti",
+        "sentiment": "none"
+      },
+      {
+        "name": "farmer",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "rcmp",
+        "sentiment": "negative"
+      },
+      {
+        "name": "abbotsford news rcmp",
+        "sentiment": "negative"
+      },
+      {
+        "name": "integrated forensic identification section",
+        "sentiment": "none"
+      },
+      {
+        "name": "ihit information line",
+        "sentiment": "none"
+      },
+      {
+        "name": "bc coroners service",
+        "sentiment": "none"
+      },
+      {
+        "name": "cctv",
+        "sentiment": "none"
+      },
+      {
+        "name": "integrated homicide investigation team",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "chilliwack",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:51:09.985+02:00",
+  "updated": "2023-12-29T06:24:03.453+02:00"
+}

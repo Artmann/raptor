@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "81a066990f45c1934ce70ff68abada410d7152b8",
+    "url": "https://english.kyodonews.net:443/news/2025/06/412752ee3b47-japan-seeks-to-end-living-expenses-aid-to-foreign-doctoral-students.html",
+    "site_full": "english.kyodonews.net",
+    "site": "kyodonews.net",
+    "site_section": "https://kyodonews.net",
+    "site_categories": ["media", "rugby", "sports"],
+    "section_title": "Kyodo News+ | Japan&#039;s leading news agency.",
+    "site_title": null,
+    "title": "Japan seeks to end living expenses aid to foreign doctoral students",
+    "title_full": "Japan seeks to end living expenses aid to foreign doctoral students",
+    "published": "2025-06-26T14:53:08.644+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.kyodonews.net/english/public/images/posts/bd59c4f3617c58766c2010cf06b5f61e/cropped_image_l.jpg",
+    "performance_score": 0,
+    "domain_rank": 5710,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "81a066990f45c1934ce70ff68abada410d7152b8",
+  "url": "https://english.kyodonews.net:443/news/2025/06/412752ee3b47-japan-seeks-to-end-living-expenses-aid-to-foreign-doctoral-students.html",
+  "ord_in_thread": 0,
+  "author": "KYODO NEWS",
+  "published": "2025-06-26T14:53:08.644+03:00",
+  "title": "Japan seeks to end living expenses aid to foreign doctoral students",
+  "text": "Japan's education ministry plans to restrict living expenses support for doctoral students to Japanese nationals only, a panel proposal showed Thursday after parliamentary debate over foreign students accounting for over a third of recipients of the public grants.\nThe plan to abolish foreigners' access to living subsidies of 1.8 million yen ($12,400) to 2.4 million yen per annum is expected to take effect in fiscal 2027, pending approval from a committee.\nAccording to the Ministry of Education, Culture, Sports, Science and Technology, 10,564 people received the subsidies in fiscal 2024, of whom 4,125, around 39 percent, were from overseas. Chinese nationals made up 76% of the non-Japanese cohort at 3,151 people.\nIn March, the findings were raised during a parliamentary session by a lawmaker who called for the funds to be limited to Japanese nationals in principle.\nThe government launched a support program in fiscal 2021 to boost the number of doctoral students by supporting their living and research expenses.\nThe proposal presented at a meeting of panel members says that the changes \"reflect the program's aims to ease Japanese students' worries about their financial situations to enable them to advance to doctoral study,\" adding that many foreign students fund their education privately.\nForeign students will remain eligible for research support of up to 1.1 million yen under the program.\nRelated coverage:\nU.S. to resume issuing int'l student visas, add tougher online checks\nJapan draws up 100 bil. yen policy to attract foreign researchers",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->college and university",
+    "Education->educational grading",
+    "Education->students",
+    "Social Issue->discrimination",
+    "Social Issue->social services",
+    "Social Issue->immigration"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Ministry of Education",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:53:08.644+03:00",
+  "updated": "2025-06-26T11:58:47.000+00:00"
+}

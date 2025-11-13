@@ -1,0 +1,119 @@
+{
+  "thread": {
+    "uuid": "9f1ec6d1dbbe49cab60252c016c7d429edfe13b5",
+    "url": "https://www.thenewsenterprise.com/news/state/postsecondary-education-board-approves-higher-education-budget-request/article_3bf2b754-d9fa-5b28-a838-d0823df9dcbc.html",
+    "site_full": "www.thenewsenterprise.com",
+    "site": "thenewsenterprise.com",
+    "site_section": "https://www.thenewsenterprise.com/search/?f=rss&amp",
+    "site_categories": ["media"],
+    "section_title": "www.thenewsenterprise.com - RSS Results",
+    "site_title": "thenewsenterprise.com | Serving Hardin County, Kentucky",
+    "title": "Postsecondary education board approves higher education budget request | State News | thenewsenterprise.com",
+    "title_full": "Postsecondary education board approves higher education budget request | State News | thenewsenterprise.com",
+    "published": "2025-09-18T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/thenewsenterprise.com/content/tncms/custom/image/a5fe7714-ac36-11e6-ade4-8b4ed3b5d6b5.png?resize=600%2C315",
+    "performance_score": 0,
+    "domain_rank": 286464,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9f1ec6d1dbbe49cab60252c016c7d429edfe13b5",
+  "url": "https://www.thenewsenterprise.com/news/state/postsecondary-education-board-approves-higher-education-budget-request/article_3bf2b754-d9fa-5b28-a838-d0823df9dcbc.html",
+  "ord_in_thread": 0,
+  "author": "PAXTON MEDIA GROUP",
+  "published": "2025-09-18T08:00:00.000+03:00",
+  "title": "Postsecondary education board approves higher education budget request | State News | thenewsenterprise.com",
+  "text": "The Council on Postsecondary Education has approved a biennial budget request for fiscal years 2026-27 and 2027-28 that seeks increased state funding for Kentucky’s public colleges and universities.\nThe request, which will be submitted to the General Assembly, includes $1.15 billion in General Fund appropriations in 2025-26 and $1.21 billion in 2026-27 to support operations at public universities and the Kentucky Community and Technical College System, according to a CPE news release. The funding represents increases of 7% in the first year of the biennium and 12% in the second.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Economy, Business and Finance"],
+  "topics": [
+    "Education->adult and continuing education",
+    "Education->college and university",
+    "Economy, Business and Finance->human resources",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->financial and economic news"
+  ],
+  "ai_allow": false,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Council on Postsecondary Education",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "General Assembly",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "9f1ec6d1dbbe49cab60252c016c7d429edfe13b5",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Sonora",
+        "Elizabethtown",
+        "Hardin",
+        "Yelvington",
+        "Francisville",
+        "Hodgenville",
+        "Upton",
+        "Cecilia",
+        "Fort Knox",
+        "Hardyville",
+        "Radcliff",
+        "Vine Grove",
+        "Knottsville",
+        "Rineyville"
+      ],
+      "state": ["Indiana", "Kentucky"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:04:25.487+03:00",
+  "updated": "2025-09-18T08:11:25.000+03:00"
+}

@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "b367f3b25df80ede902114b39ea376fbb91c6459",
+    "url": "https://www.enidnews.com/news/mother-of-3-arrested-at-education-meeting/article_7fe41d0e-0340-11ef-b3f0-bff57231bd65.html",
+    "site_full": "www.enidnews.com",
+    "site": "enidnews.com",
+    "site_section": "https://www.enidnews.com/",
+    "site_categories": ["uncategorized"],
+    "section_title": "enidnews.com | News source for northwest Oklahoma, providing local, state, national and world coverage.",
+    "title": "Mother of 3 arrested at education meeting | News | enidnews.com",
+    "title_full": "Mother of 3 arrested at education meeting | News | enidnews.com",
+    "published": "2024-04-25T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/assets/v3/editorial/2/18/218accd4-0341-11ef-b07b-13f9a2f461b6/662abb007a7f7.image.jpg?crop=1536%2C806%2C0%2C172&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 41697,
+    "domain_rank_updated": "2024-04-23T13:07:55.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b367f3b25df80ede902114b39ea376fbb91c6459",
+  "url": "https://www.enidnews.com/news/mother-of-3-arrested-at-education-meeting/article_7fe41d0e-0340-11ef-b3f0-bff57231bd65.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Nuria Martinez-Keel | Oklahoma Voice",
+  "published": "2024-04-25T08:00:00.000+03:00",
+  "title": "Mother of 3 arrested at education meeting | News | enidnews.com",
+  "text": "OKLAHOMA CITY — A mother was arrested at an Oklahoma State Board of Education meeting Thursday, April 25, 2024, after refusing to leave the room while complaining of poor access in the building for people with disabilities. Oklahoma Highway Patrol troopers escorted Audra Beasley, 45, of Oklahoma City, out of the meeting room in handcuffs at the Oklahoma State Department of Education headquarters. Her three children were present. One of them, who uses a wheelchair, burst into tears. Troopers repeatedly asked Beasley to leave after her three minutes of public comment ended. Instead, she continued berating state Superintendent Ryan Walters for his policies affecting transgender students and for not having changing tables added to public restrooms at the state agency. “You all are arresting me in front of my children because this man right here is a bigot and a bully, picking on trans kids, picking on disabled kids, picking on my kids,” Beasley said as troopers took her into custody. She was arrested on misdemeanor complaints of willfully disrupting state business and refusing to leave after causing a disturbance. She was booked into the Oklahoma County jail on a $500 bond. It’s unclear if she has an attorney. Walters declined to comment on the arrest. This wasn’t Beasley’s first appearance at a state Board of Education meeting to call for better compliance with the Americans with Disabilities Act. Beasley, a former candidate for the Oklahoma City Council, is an advocate for adding adult-sized changing tables in all restrooms in state facilities. Neither public restroom in the state Education Department lobby contain changing tables of any size. This month, she brought her own folding table and tossed it in front of the board. Without a changing station, she has said she would have to use the floor while attending to her son’s hygiene needs. “You have intentionally denied my child access to the restroom in this building,” she told the board members. Freedom Oklahoma executive director Nicole McAfee spoke in public comment after the arrest. “It feels really awful to have just watched a parent, who only wants access for her kids in these spaces, to be arrested and taken out in front of her children,” McAfee said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Education"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "ryan walters",
+        "sentiment": "none"
+      },
+      {
+        "name": "beasley",
+        "sentiment": "none"
+      },
+      {
+        "name": "audra beasley",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "oklahoma state board of education",
+        "sentiment": "negative"
+      },
+      {
+        "name": "oklahoma state department of education",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "oklahoma city",
+        "sentiment": "none"
+      },
+      {
+        "name": "oklahoma city",
+        "sentiment": "none"
+      },
+      {
+        "name": "oklahoma highway patrol",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:34:03.592+03:00",
+  "updated": "2024-04-26T04:24:57.877+03:00"
+}

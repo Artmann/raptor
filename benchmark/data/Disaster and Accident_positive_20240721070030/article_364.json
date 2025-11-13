@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "749cfc5be429150d5f6b3dbf00200e502f327d16",
+    "url": "https://www.cbsnews.com/sacramento/news/roseville-men-save-horses-fire",
+    "site_full": "www.cbsnews.com",
+    "site": "cbsnews.com",
+    "site_section": "https://cbsnews.com/cbslocal",
+    "site_categories": ["media", "television", "entertainment", "top_news"],
+    "section_title": "CBS Local - Your local news and live free 24/7 streaming news",
+    "title": "Taking the reins in Roseville: Men get 30 horses to safety as fast-moving grass fire approaches barn - CBS Sacramento",
+    "title_full": "Taking the reins in Roseville: Men get 30 horses to safety as fast-moving grass fire approaches barn - CBS Sacramento",
+    "published": "2024-06-22T02:23:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/06/22/d3a0ae0e-701e-4385-aac1-9d7181d4220f/thumbnail/1200x630/827d6d77982cc7914471f0d180c2caf1/horses-1.jpg?v=cb1f2643a8816828741cfb3a3fb2d931",
+    "performance_score": 0,
+    "domain_rank": 188,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "749cfc5be429150d5f6b3dbf00200e502f327d16",
+  "url": "https://www.cbsnews.com/sacramento/news/roseville-men-save-horses-fire",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-06-22T02:23:00.000+03:00",
+  "title": "Taking the reins in Roseville: Men get 30 horses to safety as fast-moving grass fire approaches barn - CBS Sacramento",
+  "text": "By Ashley Sharp\nJune 21, 2024 / 6:23 PM PDT / CBS Sacramento\n2 men save 30 horses from fire in Roseville",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://revivedoutdoors.com/",
+    "https://www.instagram.com/tristanhamm/?hl=en",
+    "https://revivedoutdoors.com",
+    "https://www.instagram.com/tristanhamm/",
+    "https://www.revivedoutdoors.com/",
+    "https://instagram.com/tristanhamm/?hl=en"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "travis nunes",
+        "sentiment": "none"
+      },
+      {
+        "name": "travis",
+        "sentiment": "none"
+      },
+      {
+        "name": "hamm",
+        "sentiment": "none"
+      },
+      {
+        "name": "tristan hamm",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cbs",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "sacramento roseville",
+        "sentiment": "none"
+      },
+      {
+        "name": "roseville",
+        "sentiment": "none"
+      },
+      {
+        "name": "watt avenue",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-22T04:30:38.480+03:00",
+  "updated": "2024-06-23T06:26:47.508+03:00"
+}

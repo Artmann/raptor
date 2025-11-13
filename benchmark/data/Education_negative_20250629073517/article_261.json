@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "04406fe53bade54eada86e5b96de450b1c55e3bd",
+    "url": "https://www.larioja.com/la-rioja/psoe-reprocha-gobierno-falta-pacto-educativo-tiende-20250626084746-nt.html",
+    "site_full": "www.larioja.com",
+    "site": "larioja.com",
+    "site_section": "https://larioja.com",
+    "site_categories": ["media"],
+    "section_title": "LA RIOJA - Noticias y actualidad de La Rioja, Logroño y comarcas",
+    "site_title": "LA RIOJA - Noticias y actualidad de La Rioja, Logroño y comarcas",
+    "title": "El PSOE reprocha al Gobierno la falta de un pacto educativo y le tiende la mano",
+    "title_full": "El PSOE reprocha al Gobierno la falta de un pacto educativo y le tiende la mano",
+    "published": "2025-06-26T09:47:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://s1.ppllstatics.com/starfish/latest/assets/images/placeholders/larioja-placeholder.png",
+    "performance_score": 0,
+    "domain_rank": 32058,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "04406fe53bade54eada86e5b96de450b1c55e3bd",
+  "url": "https://www.larioja.com/la-rioja/psoe-reprocha-gobierno-falta-pacto-educativo-tiende-20250626084746-nt.html",
+  "ord_in_thread": 0,
+  "author": "La Rioja",
+  "published": "2025-06-26T09:47:00.000+03:00",
+  "title": "El PSOE reprocha al Gobierno la falta de un pacto educativo y le tiende la mano",
+  "text": "El PSOE reprocha al Gobierno la falta de un pacto educativo y le tiende la mano\nLa Rioja\nlogroño.\nJueves, 26 de junio 2025, 08:47\nEl secretario de Educación de la Ejecutiva del PSOE de La Rioja, Félix Alonso, reprochó ayer al Gobierno de La Rioja no haber llegado aún a un pacto educativo, y le tendió la mano para alcanzarlo.\nEn rueda de prensa, Alonso hizo balance del curso escolar en una rueda de prensa en la que suspendió al Ejecutivo de La Rioja en su gestión, llegando a calificarla de «deficiente» en el caso de la educación de cero a tres años.\nEn líneas generales, el PSOE entiende que el Ejecutivo apuesta por la educación concertada, en detrimento de la pública, y considera que no son necesarios los conciertos pero se mantienen por ideología, algo que ve más sangrante en la etapa de cero a tres años.\nEn opinión de Alonso, en este curso escolar «hemos podido confirmar que el Gobierno de La Rioja está implantando el modelo de gestión ideológico del PP, modelo en el que se penaliza a la escuela pública». Así, apuntó cómo la cantidad de plazas disponibles en la red pública hace que actualmente el mantenimiento de unidades escolares en los centros concertados «no se pueda justificar».\nSituación de la FP\nPor lo que respecta a la Formación Profesional, Alonso expuso que la acción del Gobierno está marcada por «el exceso de oferta de ciclos formativos en la red concertada, la paralización de las infraestructuras públicas de centros integrados de Lardero y Calahorra y el retraso normativo en la adaptación de la nueva Ley de FP».",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Politics", "Social Issue", "Education"],
+  "topics": [
+    "Politics->political development",
+    "Politics->education policy",
+    "Politics->government",
+    "Social Issue->social condition",
+    "Social Issue->social services",
+    "Education->college and university",
+    "Education->teachers",
+    "Education->educational grading"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Félix Alonso",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Gobierno",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "PSOE",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Educación de la Ejecutiva",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Ejecutivo",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "PP",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T10:09:52.962+03:00",
+  "updated": "2025-06-26T07:15:51.000+00:00"
+}

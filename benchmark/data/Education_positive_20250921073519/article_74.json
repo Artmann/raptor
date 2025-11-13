@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "aadcc17b0710dfea2c9cf7fb6bf22311b3d33788",
+    "url": "https://www.conwaydailysun.com/berlin_sun/news/local/city-council-meetings-now-streaming-online/article_b7cc70e8-fd37-4a33-bd76-7e45db57af13.html",
+    "site_full": "www.conwaydailysun.com",
+    "site": "conwaydailysun.com",
+    "site_section": "https://www.conwaydailysun.com/berlin_sun/news/courts_cops",
+    "site_categories": ["media"],
+    "section_title": "Courts &amp; Cops | conwaydailysun.com",
+    "site_title": "Conway Daily Sun Newspaper | Seeking the Truth and Printing it",
+    "title": "City council meetings now streaming online | Local | conwaydailysun.com",
+    "title_full": "City council meetings now streaming online | Local | conwaydailysun.com",
+    "published": "2025-09-18T00:34:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/conwaydailysun.com/content/tncms/custom/image/95b14d26-4166-11e7-af7c-334ba36bd4d7.png?resize=600%2C63",
+    "performance_score": 0,
+    "domain_rank": 236363,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "aadcc17b0710dfea2c9cf7fb6bf22311b3d33788",
+  "url": "https://www.conwaydailysun.com/berlin_sun/news/local/city-council-meetings-now-streaming-online/article_b7cc70e8-fd37-4a33-bd76-7e45db57af13.html",
+  "ord_in_thread": 0,
+  "author": "Lisa D. Connell",
+  "published": "2025-09-18T00:34:00.000+03:00",
+  "title": "City council meetings now streaming online | Local | conwaydailysun.com",
+  "text": "BERLIN — The city’s official website, berlinnh.gov, has been updated and now, anyone who wants to watch city council meetings in real time can do so. A link from the city website, berlinnh.gov, takes viewers to the meeting.\nThe meeting is also recorded for later playback, which would be available several hours after the meeting concludes, City Manager Phillip L. Warren Jr. said at the city council meeting Monday.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Politics", "Social Issue", "Education"],
+  "topics": [
+    "Politics->government",
+    "Politics->political process",
+    "Politics->local government and authority",
+    "Social Issue->social services",
+    "Social Issue->communities",
+    "Social Issue->demographics",
+    "Education->online and remote learning",
+    "Education->students",
+    "Education->teachers"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": ["http://berlinnh.gov", "http://www.berlinnh.gov"],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Phillip L. Warren Jr.",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Conway", "North Conway"],
+      "state": ["Washington", "New Hampshire"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:41:36.089+03:00",
+  "updated": "2025-09-18T07:53:30.000+03:00"
+}

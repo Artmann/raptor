@@ -1,0 +1,128 @@
+{
+  "thread": {
+    "uuid": "3a12846be921bf6501f7400c30f4929b69587640",
+    "url": "https://www.cbsnews.com/minnesota/news/a-suspect-has-been-arrested-and-charged-for-deadly-hit-and-run-in-rock-county/",
+    "site_full": "www.cbsnews.com",
+    "site": "cbsnews.com",
+    "site_section": "https://cbsnews.com/minnesota/local-news/education",
+    "site_categories": ["media", "television", "entertainment"],
+    "section_title": "Latest education news and headlines - CBS Minnesota",
+    "title": "A suspect has been arrested and charged for deadly hit-and-run in Rock County - CBS Minnesota",
+    "title_full": "A suspect has been arrested and charged for deadly hit-and-run in Rock County - CBS Minnesota",
+    "published": "2023-12-28T23:19:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/14/0218e6b6-cfcf-4eda-a67a-4f38c36a5b8d/thumbnail/1200x630/c21950c6990a400a8228b0ee52183f29/screenshot-2023-12-14-155204.png?v=5382e209c94ee904b3a96a69f8ca0ce0",
+    "performance_score": 0,
+    "domain_rank": 187,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3a12846be921bf6501f7400c30f4929b69587640",
+  "url": "https://www.cbsnews.com/minnesota/news/a-suspect-has-been-arrested-and-charged-for-deadly-hit-and-run-in-rock-county/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Mackenzie Lofgren",
+  "published": "2023-12-28T23:19:00.000+02:00",
+  "title": "A suspect has been arrested and charged for deadly hit-and-run in Rock County - CBS Minnesota",
+  "text": "ROCK COUNTY, Minn. — A man has been arrested and charged in the in the hit-and-run death of 76-year-old William Krotzer in Rock County earlier this month.\nThe Bureau of Criminal Apprehension announced the update in a social media post Thursday evening.\nThe Rock County Sheriff's Office had asked the public for help locating a maroon pick-up truck that was involved in the accident, which resulted in a tip that led the officers to identifying the vehicle's owner.\nOfficials have now arrested and charged 36-year-old Lucas Strassburg with criminal vehicular homicide.\nOn Dec. 20, officers responded just after noon to reports of a man lying in a ditch off 141st Street. Officers discovered Krotzer's vehicle with a flat tire about a mile east of where his body was found.\nA trial date has not been set yet.\nMore from CBS News A 52-year-old man dies after being struck by a motorist in Willmar Motorist arrested after hitting bicyclist in Brooklyn Park A public memorial for slain grocery store employee will be held at the Center for Performing Arts Minneapolis Park Police seize \"extraordinary\" quantity of fentanyl in park bust In: Minnesota Pedestrian Killed Pedestrian Struck Deadly Hit And Run Mackenzie Lofgren Mackenzie Lofgren is a Web Producer and Digital Content Producer at WCCO. She writes web articles and produces short-form video content used on WCCO's streaming platforms.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident",
+    "Human Interest",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "krotzer",
+        "sentiment": "none"
+      },
+      {
+        "name": "william krotzer",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cbs",
+        "sentiment": "negative"
+      },
+      {
+        "name": "bureau of criminal apprehension",
+        "sentiment": "none"
+      },
+      {
+        "name": "rock county sheriff's office",
+        "sentiment": "none"
+      },
+      {
+        "name": "center for performing arts minneapolis park police",
+        "sentiment": "none"
+      },
+      {
+        "name": "cbs news",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "rock county",
+        "sentiment": "none"
+      },
+      {
+        "name": "minn.",
+        "sentiment": "none"
+      },
+      {
+        "name": "minnesota rock county",
+        "sentiment": "none"
+      },
+      {
+        "name": "willmar",
+        "sentiment": "none"
+      },
+      {
+        "name": "lucas strassburg",
+        "sentiment": "none"
+      },
+      {
+        "name": "brooklyn park",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:31:54.344+02:00",
+  "updated": "2023-12-29T01:06:23.394+02:00"
+}

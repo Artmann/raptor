@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "35790d682b5cfb2ff0dea00f14a41301fcfe85c8",
+    "url": "https://www.infoworld.com/article/3715244/net-maui-community-toolkit-adds-touchbehavior-support.html",
+    "site_full": "www.infoworld.com",
+    "site": "infoworld.com",
+    "site_section": "https://infoworld.com/uk",
+    "site_categories": ["tech", "databases"],
+    "section_title": "InfoWorld - Technology insight for the enterprise",
+    "title": ".NET MAUI Community Toolkit adds TouchBehavior support | InfoWorld",
+    "title_full": ".NET MAUI Community Toolkit adds TouchBehavior support | InfoWorld",
+    "published": "2024-04-25T20:36:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/24/10/digital_transformation_finger_tap_causes_waves_of_interconnected_digital_ripples_by_gerd_altmann_cc0_via_pixabay_1200x800-100765086-large-100929467-large.jpg?auto=webp&quality=85,70",
+    "performance_score": 0,
+    "domain_rank": 1849,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "35790d682b5cfb2ff0dea00f14a41301fcfe85c8",
+  "url": "https://www.infoworld.com/article/3715244/net-maui-community-toolkit-adds-touchbehavior-support.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Paul Krill",
+  "published": "2024-04-25T20:36:00.000+03:00",
+  "title": ".NET MAUI Community Toolkit adds TouchBehavior support | InfoWorld",
+  "text": "Microsoft has introduced version 8 of the .NET MAUI (Multi-platform App UI) Community Toolkit, featuring TouchBehavior, for interacting with visual elements in an application based on touch, mouse clicks, and hover events. The update was introduced April 24 . Instructions for getting started with the toolkit are available on GitHub . With the new release, the TouchBehavior implementation enables customization of different visual properties on the VisualElement it is attached to, such as the background color, opacity, scale, and rotation. TouchBehavior also makes it possible to implement long-press touch gestures and enables invoking of code whenever a user presses any visual element in an app. TouchBehavior formerly was known as TouchEffect in the Xamarin Community Toolkit in the Xamarin.Forms app. The upgraded toolkit also lets users color the Android navigation bar so an app will feel more immersive; the theme is integrated with whatever is seen on the screen. Additionally, users can control whether the navigation bar shows its light content or dark content, pertaining to icons in a light or dark color. This is intended to ensure that the navigation bar matches an app’s style. The .NET MAUI Community Tookit serves as a community-created library with .NET MAUI extensions, advanced UI/UX controls, and behaviors intended to help developers. .NET MAUI Community Toolkit 8 also comes with some breaking changes: - For TouchBehavior, the Community Tookit builders discovered that the binding context was not applied correctly. This applied to all other behaviors in the toolkit and a fix was applied, technically as a breaking change. - The implementation of the Snackbar timed alert on Windows was a complete rewrite. Some crashes have been fixed; the Windows app is no longer launching another instance of a Windows app when interacting with a Toast or Snackbar. For an upcoming edition of the toolkit, plans call for supporting CameraView , which now is being ported from Xamarin to .NET MAUI. This capability will be released as a separate package. Also for the future, improvements are being made to MediaElement to bring deeper integration with the operating system like playing media from the lock screen and showing relevant metadata.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://github.com/CommunityToolkit/Maui).",
+    "https://github.com/CommunityToolkit/Maui/pull/1758),",
+    "https://github.com/jfversluis/MauiToolkitSnackbarToastSample)timed",
+    "https://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/views/mediaelement?tabs=android)",
+    "https://devblogs.microsoft.com/dotnet/dotnet-maui-community-toolkit-touchbehavior/).",
+    "https://www.devblogs.microsoft.com/dotnet/dotnet-maui-community-toolkit-touchbehavior/).",
+    "https://www.github.com/jfversluis/MauiToolkitSnackbarToastSample)timed",
+    "https://www.github.com/CommunityToolkit/Maui).",
+    "https://www.learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/views/mediaelement?tabs=android)",
+    "https://www.github.com/CommunityToolkit/Maui/pull/1758),",
+    "https://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/views/mediaelement"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "touchbehavior",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "maui community toolkit",
+        "sentiment": "negative"
+      },
+      {
+        "name": "infoworld microsoft",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "xamarin community toolkit",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:11:26.986+03:00",
+  "updated": "2024-04-26T01:10:31.180+03:00"
+}

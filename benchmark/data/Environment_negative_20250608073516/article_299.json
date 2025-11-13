@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "a3da45596bf57d9c10948958d83d8a74d8a5578c",
+    "url": "https://news.bloomberglaw.com/states-of-play/states-suing-trump-for-halting-electric-car-charger-program",
+    "site_full": "news.bloomberglaw.com",
+    "site": "bloomberglaw.com",
+    "site_section": "https://news.bloomberglaw.com/states-of-play",
+    "site_categories": ["media"],
+    "section_title": "States of Play",
+    "site_title": null,
+    "title": "States Sue Trump for Halting Electric Car Charger Program (1)",
+    "title_full": "States Sue Trump for Halting Electric Car Charger Program (1)",
+    "published": "2025-05-08T00:54:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://db0ip7zd23b50.cloudfront.net/dims4/default/38ae234/2147483647/legacy_thumbnail/960x370%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F6f%2Fcb%2F137161c843c69a6b94665d96a7a4%2Fgettyimages-1075255522.jpg",
+    "performance_score": 0,
+    "domain_rank": 2224,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a3da45596bf57d9c10948958d83d8a74d8a5578c",
+  "url": "https://news.bloomberglaw.com/states-of-play/states-suing-trump-for-halting-electric-car-charger-program",
+  "ord_in_thread": 0,
+  "author": "Malathi Nayak",
+  "published": "2025-05-08T00:54:00.000+03:00",
+  "title": "States Sue Trump for Halting Electric Car Charger Program (1)",
+  "text": "California and 16 other states sued the Trump administration for suspending a $5 billion federal funding program for electric car chargers, arguing his directives to slash US subsidies for plug-in vehicles since taking office are unlawful.\nThe Democratic-leaning states challenged President\nCalifornia and Trump clashed over auto emission regulations during the president’s first term. Trump has vowed to rescind pro-EV initiatives, such as the NEVI program, rolled out by the Biden administration. California is at the forefront of pushing for the adoption of zero-emission electric vehicles.\n“The president continues to roll back environmental and climate change protections, this time illegally stripping away billions of dollars for electric vehicle charging infrastructure, all to line the pockets of his Big Oil friends,” California Attorney General\nRepresentatives of the Department of Transportation didn’t immediately respond to a request for comment.\nThe NEVI program was included in the 2021 bipartisan infrastructure law that was passed by Congress under former President $5 billion over five years to install chargers in every state in a bid to get more battery-powered cars in the hands of drivers. It was designed to help automakers, including\nThe Trump administration lacks the power to ignore Congressional funding mandates, Bonta said at a press conference on Wednesday.\nSales of zero-emission vehicles have touched nearly 2 million in California, accounting for more than 34% of all such vehicles sold in the US, Bonta’s office said in a statement. NEVI’s suspension would cost the state more than $300 million, hurt its EV industry that creates lucrative jobs and increase planet-warming pollution, according to the statement.\nThere are 178,000 electric vehicle charging points compared with 120,000 gasoline nozzles in California, the state’s Energy Commission Chair\n“China just reached 45% of new vehicle sales being electric last quarter, countries like Norway are 95%, and this is for technology born and developed here in the United States and here in California,” Hochschild said. “So it’s just imperative that we finish the job.”\n(Updates with details from complaint, comments from state officials)\n--With assistance from\nTo contact the reporter on this story:mnayak21@bloomberg.net\nTo contact the editors responsible for this story:megkolfopoul@bloomberg.net\nPeter Blumberg\n© 2025 Bloomberg L.P. All rights reserved. Used with permission.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Politics", "Environment"],
+  "topics": [
+    "Politics->economic policy",
+    "Politics->government policy",
+    "Politics->political process",
+    "Environment->sustainability",
+    "Environment->energy resources",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
+    "https://www.fhwa.dot.gov/infrastructure-investment-and-jobs-act/evs_5year_nevi_funding_by_state.cfm",
+    "https://www.bloomberg.com/news/articles/2022-02-10/ev-chargers-would-line-interstates-under-u-s-funding-plan",
+    "https://whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
+    "https://fhwa.dot.gov/infrastructure-investment-and-jobs-act/evs_5year_nevi_funding_by_state.cfm",
+    "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy",
+    "https://bloomberg.com/news/articles/2022-02-10/ev-chargers-would-line-interstates-under-u-s-funding-plan"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Biden",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Department of Transportation",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Congress",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:09:29.179+03:00",
+  "updated": "2025-05-08T00:12:44.000+00:00"
+}

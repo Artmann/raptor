@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "daac488cdd0a4548fa8974ac3d2dfc1e2499ca73",
+    "url": "https://chapelboro.com/news/local-government/water-main-break-causes-lane-closure-hours-long-shut-off-in-hillsborough",
+    "site_full": "chapelboro.com",
+    "site": "chapelboro.com",
+    "site_section": "https://chapelboro.com/feed",
+    "site_categories": ["media"],
+    "section_title": "Chapelboro.com",
+    "title": "Water Main Break Causes Lane Closure, Hours-Long Shut-Off in Hillsborough",
+    "title_full": "Water Main Break Causes Lane Closure, Hours-Long Shut-Off in Hillsborough",
+    "published": "2023-12-28T23:55:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://chapelboromedia.s3.amazonaws.com/wp-content/uploads/2023/12/28164206/town-of-hillsborough-orange-grove-road-water-main-repairs-12-28-23-scaled.jpg",
+    "performance_score": 0,
+    "domain_rank": 93347,
+    "domain_rank_updated": "2023-12-26T12:06:35.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "daac488cdd0a4548fa8974ac3d2dfc1e2499ca73",
+  "url": "https://chapelboro.com/news/local-government/water-main-break-causes-lane-closure-hours-long-shut-off-in-hillsborough",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Brighton McConnell",
+  "published": "2023-12-28T23:55:00.000+02:00",
+  "title": "Water Main Break Causes Lane Closure, Hours-Long Shut-Off in Hillsborough",
+  "text": "A faulty valve on a water main led to several Hillsborough residents’ water being shut off on Thursday and a system pressure advisory being put into place.\nA release from the town government first alerted people to a water main break shortly after 10 a.m., saying one lane of Orange Grove Road was closed as utility crews sought to make repairs. The break was fixed by mid-afternoon, but led to a service shut-off for residents along part of Orange Grove Road, and all of Timbers Drive and Binford Street. The area includes the Heritage Apartments complex, Patriots Pointe Apartments neighborhood, Terra Bella Senior Living, Bentley Woods Apartments and residences on Virginia Cates Road.\nFollowing crews’ repair of the water main, the local government said the workers will flush water lines to remove any possible sediment from the break. Water samples will be taken for bacteriological testing, which will take around 24 hours to complete. Hillsborough said any affected properties will be under a system pressure advisory until those test results determine whether the water is safe to drink.\nA system pressure advisory is when a loss of pressure in water lines could cause contamination, but the change in quality has not yet been confirmed. The Town of Hillsborough recommends affected residents to boil water or use bottled water for any consumption until the test results come back and the advisory is lifted. Properties and residents that did not lose water service on Thursday are not affected by the advisory.\nThe full release from the town government can be found\non Hillsborough’s website.\nPhoto via the Town of Hillsborough.\nChapelboro.com does not charge subscription fees, and you can directly support our efforts in local journalism here. Want more of what you see on Chapelboro? Let us bring free local news and community information to you by signing up for our biweekly newsletter.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident"],
+  "external_links": [
+    "https://assets.hillsboroughnc.gov/media/documents/temporary/making-sense-of-water-advisories-and-notices-full-chart-rRuZ3M4TTtDMkwu7xa1O.pdf",
+    "https://www.hillsboroughnc.gov/news/news/2023/12/28/1706/utilities-crews-repairing-water-main-break-on-orange-grove-road.html",
+    "https://hillsboroughnc.gov/news/news/2023/12/28/1706/utilities-crews-repairing-water-main-break-on-orange-grove-road.html",
+    "https://www.assets.hillsboroughnc.gov/media/documents/temporary/making-sense-of-water-advisories-and-notices-full-chart-rRuZ3M4TTtDMkwu7xa1O.pdf"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "hillsborough",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "bentley woods apartments",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "hillsborough",
+        "sentiment": "none"
+      },
+      {
+        "name": "virginia cates road",
+        "sentiment": "none"
+      },
+      {
+        "name": "binford street",
+        "sentiment": "none"
+      },
+      {
+        "name": "orange grove road",
+        "sentiment": "none"
+      },
+      {
+        "name": "timbers drive",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:05:56.543+02:00",
+  "updated": "2023-12-29T00:05:56.543+02:00"
+}

@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "622e8151dda357f6728e65d87bdd489cf9b61443",
+    "url": "https://www.uef.fi/en/article/forests-contribute-to-finns-perceived-happiness-in-multiple-ways",
+    "site_full": "www.uef.fi",
+    "site": "uef.fi",
+    "site_section": "https://uef.fi/en",
+    "site_categories": ["graduate_school", "education"],
+    "section_title": "University of Eastern Finland - www.uef.fi",
+    "site_title": "Itä-Suomen yliopisto",
+    "title": "Forests contribute to Finns' perceived happiness in multiple ways | University of Eastern Finland",
+    "title_full": "Forests contribute to Finns' perceived happiness in multiple ways | University of Eastern Finland",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "FI",
+    "main_image": "https://www.uef.fi/sites/default/files/styles/max_920/public/2022-06/mets%C3%A4_luonto_hero_8411_rt.jpg?itok=ZUqOQXor",
+    "performance_score": 0,
+    "domain_rank": 48733,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "622e8151dda357f6728e65d87bdd489cf9b61443",
+  "url": "https://www.uef.fi/en/article/forests-contribute-to-finns-perceived-happiness-in-multiple-ways",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "Forests contribute to Finns' perceived happiness in multiple ways | University of Eastern Finland",
+  "text": "New research from the University of Eastern Finland identifies three main dimensions in perceived happiness associated with Finnish forests: a bond to natural-like forests, happiness coming from activities in forests, such as berry and mushroom picking, and forest management and forest exposure.\nFinland isn’t just one of the most forest-rich countries in Europe. It’s also been named the happiest country in the world for eight years in a row. With a deep-rooted forest tradition, Finland provides the perfect setting to explore how forests contribute to perceived happiness in everyday life. Led by the University of Eastern Finland, an international team of researchers introduces the concept of Forest Happiness, and the dimensions it consists of, in a new article published in the journal People & Nature.\nThe researchers conducted a nationwide survey to understand how Forest Happiness is conceptualised among Finns. Attracting almost 1,000 responses, the survey asked people about the characteristics and types of interaction with a specific forest that makes them happy. The responses that describe the happiness that people perceived in forest environments were used to develop the new Forest Happiness concept. Happiness is approached as a subjective concept spanning from instant joyful experiences to deeper forms of fulfilment.\n“It was interesting to discover that over 64% of the participants stated that their lives would be considerably unhappier without their relationship with forests,” says Doctoral Researcher Syamili Manoj Santhi of the University of Eastern Finland School of Forest Sciences, the lead author of the article.\nThe study found that Forest Happiness among Finns seems to come from three main sources: from a deep bond with natural-like forests, from practical forest activities commonly done in managed forests, and from forest exposure.\n“We found that people had deep feelings of fulfilment associated with forests, stemming from both a strong bond with natural-like forests and when engaging in practical forest activities,” Santhi describes.\n“On the other hand, instant joy was mainly associated with practical forest activities,” she continues.\nThe study also identified certain aspects of Finnish forests that were linked to reduced levels of perceived happiness among people. Damage and degradation of natural-like forests due to excessive clearcutting, littering, biodiversity loss and land-use change reduced people’s perceived happiness, leading to eco-anxiety.\nThe study calls for forest-related policies and city planning that recognise and balance the diverse values people hold towards different types of forests, rather than treating all forests the same. Tailoring forest-based interventions to match people’s existing connections with forests, their preferred ways of engaging with nature, and the types of forests they enjoy can maximise the positive impact of forests on well-being.\nResearch article:\nSyamili, M.S., T. Takala, A. Korrensalo, N. Lovric, J. Tikkanen and E.S. Tuittila (2025). Influence of Human-Forest Relationships on Perceived Happiness in Finland. People and Nature, DOI: 10.1002/pan3.70171",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment", "Health"],
+  "topics": ["Environment->nature", "Health->public health"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Europe",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "University of Eastern Finland",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "People & Nature",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:56:06.362+03:00",
+  "updated": "2025-10-16T15:09:27.000+03:00"
+}

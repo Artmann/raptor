@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "8ca5315c9a797c9f9ae0a78496dddb776f08de93",
+    "url": "https://indianexpress.com/article/cities/delhi/rain-relief-heatwave-delhi-9407183",
+    "site_full": "indianexpress.com",
+    "site": "indianexpress.com",
+    "site_section": "http://indianexpress.com/feed/",
+    "site_categories": ["media"],
+    "section_title": "The Indian Express",
+    "title": "Rain brings much-needed relief from heatwave in Delhi",
+    "title_full": "Rain brings much-needed relief from heatwave in Delhi",
+    "published": "2024-06-21T17:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://images.indianexpress.com/2024/06/delhi-rains-3.jpg",
+    "performance_score": 0,
+    "domain_rank": 1002,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8ca5315c9a797c9f9ae0a78496dddb776f08de93",
+  "url": "https://indianexpress.com/article/cities/delhi/rain-relief-heatwave-delhi-9407183",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-06-21T17:35:00.000+03:00",
+  "title": "Rain brings much-needed relief from heatwave in Delhi",
+  "text": "Rain lashed parts of Delhi and Gurgaon Friday providing much-needed respite to people from the scorching heat. Delhi has been reeling under an intense heatwave and a severe water crisis for the past several weeks. Over 60 suspected heat wave deaths were reported from city hospitals over the past 48 hours. According to the IMD bulletin, Friday’s maximum temperature was in the range of 40 to 42 degrees Celsius in some parts of West Rajasthan, Uttar Pradesh, and isolated pockets of Haryana-Delhi and Gujarat. The maximum temperature in Delhi for all five weather stations was around normal. At the two weather stations - Ridge and Aya Nagar - the maximum temperature was found to be lower than normal. The Ridge station saw heavy rainfall of 6.2 mm per hour. The Safdarjung and Lodhi Road stations recorded moderate rainfall while the rest saw a spell of trace or very light rain, as of 5.30 pm. Earlier, IMD scientist Soma Sen said, “The heatwave conditions have passed. Temperatures are likely to rise from the day after tomorrow (Saturday). We don’t expect it to be a heatwave situation with a rise of 2-3 degrees Celsius.” The onset of monsoon in Delhi-NCR as per IMD forecast was predicted to begin on June 30.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Disaster and Accident", "Weather"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "soma sen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "imd",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "delhi",
+        "sentiment": "none"
+      },
+      {
+        "name": "gurgaon",
+        "sentiment": "none"
+      },
+      {
+        "name": "haryana",
+        "sentiment": "none"
+      },
+      {
+        "name": "safdarjung",
+        "sentiment": "none"
+      },
+      {
+        "name": "gujarat",
+        "sentiment": "none"
+      },
+      {
+        "name": "west rajasthan",
+        "sentiment": "none"
+      },
+      {
+        "name": "uttar pradesh",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-21T17:52:17.270+03:00",
+  "updated": "2024-06-21T18:10:03.103+03:00"
+}

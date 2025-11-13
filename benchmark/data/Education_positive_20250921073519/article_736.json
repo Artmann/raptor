@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "adccc21f82969e0861551a17ec86bceffe3b2af4",
+    "url": "https://www.kolotv.com/2025/09/18/stem-co-lab-desert-research-institute-holds-grand-opening/",
+    "site_full": "www.kolotv.com",
+    "site": "kolotv.com",
+    "site_section": "https://news.google.com/search?q=were%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "KOLO | 8 News Now | Reno, NV",
+    "title": "STEM Co-Lab, at Desert Research Institute, holds grand opening",
+    "title_full": "STEM Co-Lab, at Desert Research Institute, holds grand opening",
+    "published": "2025-09-18T08:34:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-kolo-prod.gtv-cdn.com/resizer/v2/KAZGQWNOHRG4ZJRD6IQVHIFVC4.jpg?auth=ee006d36cd37f02c2adf85ffddf06fd6ad502c77fd3040d2cd0f7115a5a14952&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 68100,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "adccc21f82969e0861551a17ec86bceffe3b2af4",
+  "url": "https://www.kolotv.com/2025/09/18/stem-co-lab-desert-research-institute-holds-grand-opening/",
+  "ord_in_thread": 0,
+  "author": "@KOLO8",
+  "published": "2025-09-18T08:34:00.000+03:00",
+  "title": "STEM Co-Lab, at Desert Research Institute, holds grand opening",
+  "text": "STEM Co-Lab, at Desert Research Institute, holds grand opening\nRENO, Nev. (KOLO) - The Robert Z. Hawkins Foundation STEM Co-Lab opened on the Desert Research Institute’s campus in Reno on Wednesday, Sept. 17.\nAs part of its grand opening celebration, there were tours of the co-lab, showcasing the Lending Library designed to loan Washoe County educators science and technology equipment to use in their classrooms or after-school programs.\nThere were also hands-on demonstrations including 3D printers, hydroponics, Photon Robots, atom theory, microscopes, Circuit Maker, and electricity and circuitry.\nThe co-lab has a dedicated space for educator professional development trainings and STEM education events for the community.\nThe STEM Co-Lab was funded with generous support from the Robert Z. Hawkins Foundation, which is dedicated to advancing STEM education in Northern Nevada.\nIn 1959, the non-profit research institute was founded “to empower experts to focus on science that matters,” according to the Desert Research Institute’s website. “We work with communities across the state – and the world – to address their most pressing scientific questions.\"\nThe institute is located at 2215 Raggio Parkway in Reno.\nCopyright 2025 KOLO. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education"],
+  "topics": [
+    "Education->school",
+    "Education->students",
+    "Education->vocational education"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.dri.edu/",
+    "https://www.dri.edu",
+    "https://dri.edu/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Robert Z. Haw",
+        "sentiment": "positive"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Washoe County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Desert Research Institute",
+        "sentiment": "positive",
+        "tickers": []
+      },
+      {
+        "name": "Robert Z. Hawkins Foundation",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": ["Reno"],
+      "state": ["Nevada"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:56:28.500+03:00",
+  "updated": "2025-09-18T08:59:31.000+03:00"
+}

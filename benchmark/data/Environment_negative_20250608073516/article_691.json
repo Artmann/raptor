@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "ae1cb8c8cc3979278f85851f34624b2994b47f62",
+    "url": "https://www.carmeloportal.com/110876-inumet-actualizo-el-aviso-por-tormentas-fuertes-y-lluvias-copiosas-zonas-afectadas-y-horarios",
+    "site_full": "www.carmeloportal.com",
+    "site": "carmeloportal.com",
+    "site_section": "https://www.carmeloportal.com",
+    "site_categories": ["food", "coffee_tea"],
+    "section_title": "Carmelo Portal - Noticias de Carmelo y la zona.",
+    "site_title": "Carmelo Portal - Noticias de Carmelo y la zona.",
+    "title": "INUMET actualizó el aviso por tormentas fuertes y lluvias copiosas",
+    "title_full": "INUMET actualizó el aviso por tormentas fuertes y lluvias copiosas",
+    "published": "2025-05-08T04:26:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "UY",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 165332,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ae1cb8c8cc3979278f85851f34624b2994b47f62",
+  "url": "https://www.carmeloportal.com/110876-inumet-actualizo-el-aviso-por-tormentas-fuertes-y-lluvias-copiosas-zonas-afectadas-y-horarios",
+  "ord_in_thread": 0,
+  "author": "Carmelo Portal",
+  "published": "2025-05-08T04:26:00.000+03:00",
+  "title": "INUMET actualizó el aviso por tormentas fuertes y lluvias copiosas",
+  "text": "El Instituto Uruguayo de Meteorología (INUMET) emitió una actualización del aviso por tormentas fuertes y precipitaciones copiosas para este jueves 8 y viernes 9 de mayo, con afectación diferenciada según la región del país.\nEn el sur del Río Negro, las tormentas comenzarán durante la madrugada del jueves 8 y se extenderán hasta la mañana, previéndose una mejora gradual hacia la noche. Las lluvias en esta zona podrían ser intensas pero de carácter puntual.\nEn tanto, al norte del Río Negro, se prevé una intensificación de las condiciones de inestabilidad a partir de la madrugada del jueves. Esta situación se mantendría durante toda la jornada del viernes 9, siendo esta región —en particular los departamentos fronterizos del norte— la más propensa a registrar los mayores acumulados de precipitaciones.\nINUMET recordó que en zonas afectadas por tormentas pueden presentarse rachas de viento fuertes, lluvias intensas, caída de granizo e importante actividad eléctrica. La población debe mantenerse atenta a nuevas actualizaciones y adoptar las precauciones correspondientes.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Weather", "Disaster and Accident", "Environment"],
+  "topics": [
+    "Weather->weather warning",
+    "Disaster and Accident->emergency response",
+    "Disaster and Accident->natural disaster",
+    "Environment->natural resources",
+    "Environment->climate change",
+    "Environment->water"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Instituto Uruguayo de Meteorología",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "INUMET",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:47:40.128+03:00",
+  "updated": "2025-05-08T02:55:49.000+00:00"
+}

@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "22a0c5bd8fc39d9cde7f2a4f39fe006d94785670",
+    "url": "https://www.kktv.com/2024/06/24/hiker-rescued-lake-county-after-sliding-600-feet-down-14er",
+    "site_full": "www.kktv.com",
+    "site": "kktv.com",
+    "site_section": "https://kktv.com",
+    "site_categories": ["media"],
+    "section_title": "CBS KKTV 11 News in Colorado Springs",
+    "title": "Hiker rescued in Lake County after sliding 600 feet down 14er",
+    "title_full": "Hiker rescued in Lake County after sliding 600 feet down 14er",
+    "published": "2024-06-24T15:53:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/v2/NYA4KUV6P5FBHAWDTILOIGHIVI.png?auth=cf04d73b70b36c410d937aa8e65d9653b59369719ae8f33ed9f99827e48f4bd2&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 15998,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "22a0c5bd8fc39d9cde7f2a4f39fe006d94785670",
+  "url": "https://www.kktv.com/2024/06/24/hiker-rescued-lake-county-after-sliding-600-feet-down-14er",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@kktv11news",
+  "published": "2024-06-24T15:53:00.000+03:00",
+  "title": "Hiker rescued in Lake County after sliding 600 feet down 14er",
+  "text": "LAKE COUNTY, Colo. (KKTV) - Even with a heat wave, snow is still an issue in some part of Colorado! Lake County Search and Rescue says it has to rescue an injured hiker over the weekend after he slipped while navigating a snow field on Mt. Massive. “The subject had slipped crossing a snow field and slid 600 vertical feet,” LCSAR said in a social media post Sunday night. Search and Rescue crews responded to the southwest slope of the mountain Saturday morning. “Our team hiked in 4 miles making contact with the subject on [the] trail at 12,300 feet,” LCSAR said. “... The call came in from a satellite communication device, so limited information was available besides location. Classic Air Medical was on standby doing a flyover to look for landing zones in case the subject was in critical condition.” The hiker was injured but ultimately able to walk himself out. “This is a great reminder of how high angle snow fields are very common on the peaks during early summer conditions. Ensure to bring traction devices such as microspikes, and an ice axe in order to self-arrest in case of a slide,” Search and Rescue said. Copyright 2024 KKTV. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.facebook.com/Classic-Air-Medical-671498863261773/?__cft__",
+    "https://www.facebook.com/Classic-Air-Medical-671498863261773/",
+    "https://facebook.com/Classic-Air-Medical-671498863261773/?__cft__"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "lake county search and rescue",
+        "sentiment": "none"
+      },
+      {
+        "name": "lcsar",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "lake county",
+        "sentiment": "none"
+      },
+      {
+        "name": "colo.",
+        "sentiment": "none"
+      },
+      {
+        "name": "colorado",
+        "sentiment": "none"
+      },
+      {
+        "name": "mt. massive",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-24T16:33:05.330+03:00",
+  "updated": "2024-06-24T16:47:33.189+03:00"
+}

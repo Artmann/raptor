@@ -1,0 +1,118 @@
+{
+  "thread": {
+    "uuid": "b4f300fb93fb9966e161b29a6a9388c4196af64b",
+    "url": "https://lg.penntrafford.org/apps/news/article/2109404",
+    "site_full": "lg.penntrafford.org",
+    "site": "penntrafford.org",
+    "site_section": "https://lg.penntrafford.org/apps/news",
+    "site_categories": [],
+    "section_title": "News | Level Green Elementary School",
+    "site_title": "Level Green Elementary School",
+    "title": "Level Green Elementary Celebrates Grandparents | Level Green Elementary School",
+    "title_full": "Level Green Elementary Celebrates Grandparents | Level Green Elementary School",
+    "published": "2025-09-17T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://3.files.edl.io/b6e5/25/09/17/180544-03774a57-b978-4fe2-b444-2669af59c600.jpg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b4f300fb93fb9966e161b29a6a9388c4196af64b",
+  "url": "https://lg.penntrafford.org/apps/news/article/2109404",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-17T03:00:00.000+03:00",
+  "title": "Level Green Elementary Celebrates Grandparents | Level Green Elementary School",
+  "text": "Level Green Elementary School celebrated a tradition during the week of September 8 by hosting its annual Grandparents’ Breakfast.\nEach morning, students welcomed their grandparents into the school for a special breakfast that featured coffee, donuts, crafts, and photos. The event provided students with the opportunity to spend quality time with their grandparents before the school day began, and to give their grandparents a glimpse into their school life.\nThe breakfast was well-attended throughout the week, with teachers and staff assisting to ensure that each day’s guests felt welcome.\nDavid and Lisa Sementuh with Granddaughters Charlie (grade 2) and Lily (grade 5)\nElli (grade 2) and Addi (grade 5) Lancz with their Grandmother, Patricia Castelli\n2nd-grader Francesca Petrini with her grandmother, Mary Lonzo",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest"],
+  "topics": [
+    "Education->students",
+    "Education->social learning",
+    "Education->primary education",
+    "Human Interest->ceremony"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Francesca Petrini",
+        "sentiment": "none"
+      },
+      {
+        "name": "Patricia Castelli",
+        "sentiment": "none"
+      },
+      {
+        "name": "Lisa Sementuh",
+        "sentiment": "none"
+      },
+      {
+        "name": "Mary Lonzo",
+        "sentiment": "none"
+      },
+      {
+        "name": "David",
+        "sentiment": "none"
+      },
+      {
+        "name": "Lily",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Level Green Elementary School",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Level Green"],
+      "state": ["Pennsylvania"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:46:49.315+03:00",
+  "updated": "2025-09-18T07:50:18.000+03:00"
+}

@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "79aed50ff4610e47c9f76381bce71b39de958076",
+    "url": "https://macaonews.org/news/greater-bay-area/china-greater-bay-area-marine-environment",
+    "site_full": "macaonews.org",
+    "site": "macaonews.org",
+    "site_section": "https://macaunews.mo/feed",
+    "site_categories": ["under_construction"],
+    "section_title": "Macao News",
+    "site_title": "Macao News",
+    "title": "Study reveals 'relentless' impact of GBA shipping on marine wildlife",
+    "title_full": "Study reveals 'relentless' impact of GBA shipping on marine wildlife",
+    "published": "2025-05-08T02:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TN",
+    "main_image": "https://macaonews.org/wp-content/uploads/2025/05/GBA-Marine-Policy.jpg",
+    "performance_score": 0,
+    "domain_rank": 147114,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "79aed50ff4610e47c9f76381bce71b39de958076",
+  "url": "https://macaonews.org/news/greater-bay-area/china-greater-bay-area-marine-environment",
+  "ord_in_thread": 0,
+  "author": "Staff Reporter",
+  "published": "2025-05-08T02:30:00.000+03:00",
+  "title": "Study reveals 'relentless' impact of GBA shipping on marine wildlife",
+  "text": "Scientific research has shone a light on the environmental toll intense maritime traffic is having in the Greater Bay Area (GBA), according to a study published by Marine Policy this week. Conservation lecturer Dr Phil Doherty, from the UK’s University of Exeter, described the region’s marine mammals and other creatures as having to deal with the “relentless” presence of shipping.\nResearchers, including Doherty and colleagues from universities in the UK and Hong Kong, analysed ship-tracking data from 2013 to 2018 and found that an average of nearly 6,000 vessels navigated GBA waters each day.\nThe vast majority of those operated in areas less than 20 metres deep, posing “a substantial threat to many regionally important marine species of conservation concern,” the study read.\n“Put simply, boats and ships are everywhere, all the time,” said Doherty. “The shallow water also means species cannot escape into the depths, leaving them little refuge.”\nThe study noted that movement of both fishing and non-fishing vessels in shallow zones was persistent and widespread, leading to shoreline erosion, murky water, underwater noise pollution and increased risk of vessel collisions. Species impacted included the Chinese white dolphin , the finless porpoise, green turtles, Chinese horseshoe crabs and mangrove horseshoe crabs.\n[ See more: Local environmental activists say Eurasian otters have returned to Macao ]\nNon-fishing vessels were found to be the main source of disturbance, accounting for eight times more daily disruptions than fishing boats. In some conservation hotspots, disturbances occurred on more than 95 percent of days throughout the six-year study period.\nAnother of the study’s researchers, the Chinese University of Hong Kong’s Dr Felix Leung, said GBA governments – including Macao’s – needed to pay close attention to the Kunming-Montreal Global Biodiversity Framework in order to “safeguard these ecologically sensitive areas” and their inhabitants for future generations.\nResearcher Dr Stephen Lang, also from the University of Exeter, noted that the GBA was an “interesting test case” for growing coastal megalopolises around the world. “Pressure on marine environments near coastal cities is only going up, and we need to think about how to limit human impact,” he said.\nThe study was carried out by the Environmental Sustainability and Resilience Joint Centre, a research partnership between the University of Exeter and the Chinese University of Hong Kong.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Science and Technology", "Social Issue"],
+  "topics": [
+    "Environment->sustainability",
+    "Environment->environmental pollution",
+    "Science and Technology->scientific research",
+    "Science and Technology->marine science",
+    "Science and Technology->natural science",
+    "Social Issue->social condition",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.sciencedirect.com/science/article/pii/S0308597X2500154X?via%3Dihub",
+    "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/coastal-mega-cities-expose-wildlife-to-relentless-boat-traffic/#:~:text=%E2%80%9CWe%20found%20that%20marine%20species,are%20everywhere%2C%20all%20the%20time.",
+    "https://www.unep.org/resources/kunming-montreal-global-biodiversity-framework",
+    "https://unep.org/resources/kunming-montreal-global-biodiversity-framework",
+    "https://www.news.exeter.ac.uk/faculty-of-environment-science-and-economy/coastal-mega-cities-expose-wildlife-to-relentless-boat-traffic/#:~:text=%E2%80%9CWe%20found%20that%20marine%20species,are%20everywhere%2C%20all%20the%20time.",
+    "https://sciencedirect.com/science/article/pii/S0308597X2500154X?via%3Dihub",
+    "https://www.sciencedirect.com/science/article/pii/S0308597X2500154X"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Phil Doherty",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Greater",
+        "sentiment": "none"
+      },
+      {
+        "name": "Area",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:03:53.837+03:00",
+  "updated": "2025-05-08T12:40:56.422+03:00"
+}

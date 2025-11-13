@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "c1eea9dd2150582b1a2fd5ebf15ce9138b95a57b",
+    "url": "https://www.mdjonline.com/news/local/kekes-breakfast-cafe-opens-in-kennesaw/article_4c8860bc-d9a2-11ef-a351-cb5302a02fad.html",
+    "site_full": "www.mdjonline.com",
+    "site": "mdjonline.com",
+    "site_section": "http://www.mdjonline.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
+    "site_categories": ["media"],
+    "section_title": "www.mdjonline.com - RSS Results in news of type article",
+    "title": "Keke's Breakfast Cafe Opens in Kennesaw",
+    "title_full": "Keke's Breakfast Cafe Opens in Kennesaw",
+    "published": "2025-01-23T17:54:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/assets/v3/editorial/1/7f/17f1e5d4-d9ad-11ef-a30c-6b9cd72685f3/6792784496ccc.image.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 19300,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c1eea9dd2150582b1a2fd5ebf15ce9138b95a57b",
+  "url": "https://www.mdjonline.com/news/local/kekes-breakfast-cafe-opens-in-kennesaw/article_4c8860bc-d9a2-11ef-a351-cb5302a02fad.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jack Lindner jlindner@mdjonline.com",
+  "published": "2025-01-23T17:54:00.000+02:00",
+  "title": "Keke's Breakfast Cafe Opens in Kennesaw",
+  "text": "KENNESAW — Keke’s Breakfast Cafe, a popular Florida-based restaurant chain, has opened in Kennesaw.\nIts newest location at the Kennesaw Walk shopping center opened Thursday, becoming the franchise’s first restaurant in Georgia. But it won’t be alone, as the franchise plans to open another location in Roswell in March.\nLike the name suggests, Keke’s specializes in all-things breakfast from classic pancakes to omelets.\nLocation co-owner Jordan Swan said the menu’s variety is what helps set them apart, since they don’t just serve big pancakes and other large, sugar-filled breakfast items.\n“Keke’s can be as indulging as you want, or as healthy as you want,” Swan said. “You can get healthy omelets, you can get tomato slices as sides ... We definitely cater to customers who have allergies or gluten-free needs.”\nSome of the restaurant’s most popular items include their Greek omelet with baby spinach, diced tomato and feta cheese; the cheese steak omelet with green pepper, onion and white American cheese; and their Florida pancakes topped with strawberries, banana, blueberries and powdered sugar.\nAnother fan-favorite is the stuffed French toast, which comes in seven different varieties and flavors. Each platter of quarter-cut French toast is stuffed with cream cheese and topped with powdered sugar and choice of fruit-based fillings including raspberries, blueberries, apple-cinnamon and banana caramel pecan.\nFor the non-breakfast customers, Keke’s offers various lunch items including paninis, salads, cheeseburgers and wraps.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Lifestyle and Leisure", "Human Interest", "Social Issue"],
+  "topics": [
+    "Lifestyle and Leisure->holiday",
+    "Lifestyle and Leisure->lifestyle",
+    "Social Issue->social networking",
+    "Social Issue->social condition",
+    "Social Issue->communities"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Keke",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Jordan Swan",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "c1eea9dd2150582b1a2fd5ebf15ce9138b95a57b",
+    "first_syndicated": true
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:20:55.076+02:00",
+  "updated": "2025-02-15T05:33:43.555+02:00"
+}

@@ -1,0 +1,118 @@
+{
+  "thread": {
+    "uuid": "8163cba64e14caf55499ee1a8e054c6914d6338e",
+    "url": "https://www.cronica.com.mx:443/nacional/2025/05/07/mexico-espera-hasta-37-ciclones-en-2025-cinco-podrian-impactar-el-pais",
+    "site_full": "www.cronica.com.mx",
+    "site": "cronica.com.mx",
+    "site_section": "https://cronica.com.mx/mundo",
+    "site_categories": ["media"],
+    "section_title": "La Crónica de Hoy México",
+    "site_title": "La Crónica de Hoy México",
+    "title": "México espera hasta 37 ciclones en 2025; cinco podrían impactar el país - La Crónica de Hoy México",
+    "title_full": "México espera hasta 37 ciclones en 2025; cinco podrían impactar el país - La Crónica de Hoy México",
+    "published": "2025-05-08T01:02:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://lacronicadehoy-lacronicadehoy-prod.web.arc-cdn.net/resizer/v2/YICCGLXLDNGKFIVOO5KTJBEYPY.jpg?auth=e9fb30a9736cc5971147ac49b201838ba17b3f028aec40ef09d5eeda56f512d3&amp;width=1200",
+    "performance_score": 0,
+    "domain_rank": 24132,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8163cba64e14caf55499ee1a8e054c6914d6338e",
+  "url": "https://www.cronica.com.mx:443/nacional/2025/05/07/mexico-espera-hasta-37-ciclones-en-2025-cinco-podrian-impactar-el-pais",
+  "ord_in_thread": 0,
+  "author": "Por Alan Rodríguez",
+  "published": "2025-05-08T01:02:00.000+03:00",
+  "title": "México espera hasta 37 ciclones en 2025; cinco podrían impactar el país - La Crónica de Hoy México",
+  "text": "El Gobierno de México alertó este jueves que durante la temporada 2025 podrían formarse hasta 37 ciclones tropicales con nombre en los océanos Atlántico y Pacífico, de los cuales al menos cinco podrían tener un impacto directo sobre el territorio nacional.\nAsí lo informó el titular del Servicio Meteorológico Nacional (SMN), Fabián Vázquez Romaña, durante la reunión nacional de Protección Civil celebrada en Mérida, Yucatán.\nDe acuerdo con el pronóstico oficial, entre 16 y 20 ciclones podrían desarrollarse en el océano Pacífico, y entre 13 y 17 en el Atlántico. Vázquez Romaña detalló que este escenario se considera “cercano o ligeramente por arriba del promedio” respecto a los registros históricos.\nCategorías y comportamiento esperados\nEn el Pacífico, se prevén entre 8 y 9 tormentas tropicales, entre 4 y 5 huracanes de categoría 1 o 2, y entre 4 y 6 huracanes mayores, es decir, de categoría 3, 4 o 5. En cuanto al Atlántico, se espera la formación de 7 a 9 tormentas tropicales, 3 a 4 huracanes categoría 1 o 2 y 3 a 4 huracanes mayores.\nLa temporada de ciclones inicia oficialmente el 15 de mayo en el Pacífico y el 1 de junio en el Atlántico, concluyendo en ambas cuencas el 30 de noviembre. Sin embargo, el titular del SMN subrayó que la cantidad de ciclones pronosticados no equivale al número de impactos directos en el país, y que el comportamiento de cada sistema depende de las condiciones atmosféricas y oceánicas del momento.\nEl Niño y La Niña, determinantes\nUno de los factores climáticos clave para la temporada 2025 será la transición del fenómeno La Niña hacia una fase ENSO neutral (El Niño–Oscilación del Sur), lo que podría influir directamente en la intensidad, frecuencia y trayectoria de los ciclones tropicales, explicó Vázquez Romaña.\n“Esta transición puede modificar la cantidad, intensidad y comportamiento de los fenómenos”, señaló el funcionario, quien pidió a la población mantenerse informada mediante fuentes oficiales y oportunas.\nBalance de la temporada anterior\nEn 2024, México enfrentó una temporada particularmente intensa, con 30 sistemas con nombre: 15 tormentas tropicales y 15 huracanes. En el Pacífico oriental se formaron 12 ciclones tropicales, de los cuales solo la tormenta Ileana y el huracán John impactaron el país. John tocó tierra como categoría 3 en septiembre y provocó 29 muertes en Guerrero, Oaxaca y Michoacán.\nEn el Atlántico se registraron 18 sistemas, de los cuales tres tocaron México: el huracán Beryl y las tormentas Chris y Alberto. Esta última, en junio, provocó la muerte de seis personas en el estado de Nuevo León.\nLas autoridades reiteraron que, más allá del número estimado de ciclones, cada temporada representa un riesgo potencial para comunidades vulnerables, por lo que se mantendrán activos los protocolos de monitoreo, prevención y protección civil a nivel nacional.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment"],
+  "topics": [
+    "Weather->weather warning",
+    "Environment->climate change",
+    "Environment->natural resources",
+    "Environment->global warming"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Fabián Vázquez Romaña",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Atlántico",
+        "sentiment": "none"
+      },
+      {
+        "name": "Pacífico",
+        "sentiment": "none"
+      },
+      {
+        "name": "Yucatán",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Servicio Meteorológico Nacional",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Protección Civil",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "SMN",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:12:51.490+03:00",
+  "updated": "2025-05-07T23:16:58.000+00:00"
+}

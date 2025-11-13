@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "ec55af49785cc596d75f66592b8f09276917eb86",
+    "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/aransas-county/rockport-homeowners-assess-damages-in-the-aftermath-of-alberto",
+    "site_full": "www.kristv.com",
+    "site": "kristv.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": ["media"],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "Rockport residents grateful for minor damages, no reported injuries",
+    "title_full": "Rockport residents grateful for minor damages, no reported injuries",
+    "published": "2024-06-20T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ewscripps.brightspotcdn.com/dims4/default/6d06f63/2147483647/strip/true/crop/3456x1814+0+55/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd1%2F84%2Ffbbe4f7e452e806634bb82185ba0%2Fscreenshot-2024-06-20-at-4-26-19-pm.jpeg",
+    "performance_score": 0,
+    "domain_rank": 23342,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ec55af49785cc596d75f66592b8f09276917eb86",
+  "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/aransas-county/rockport-homeowners-assess-damages-in-the-aftermath-of-alberto",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Adam Beam,Victoria Balderrama,Stefanie Lauber",
+  "published": "2024-06-20T03:00:00.000+03:00",
+  "title": "Rockport residents grateful for minor damages, no reported injuries",
+  "text": "ROCKPORT, Tx — Strong winds and high waters during Tropical Storm Alberto [left several homes damaged in Rockport.](https://www.kristv.com/news/local-news/in-your-neighborhood/rockport/the-national-weather-service-says-at-least-one-tornado-caused-damage-to-homes-in-the-rockport-area) “Everyone’s been driving by taking pictures,\" that's what Harbor Drive resident Mason Jordan has been seeing all morning Thursday. On Wednesday, the strong winds brought down multiple trees on his property and damaging a wooden fence at the front of his home. “It sounded like a freight train coming down the road and then my garage door started shaking and I took off into the house.” Despite the damage, Jordan is grateful that there was no damage to the household itself and was able to joke about his neighborhood celebrity status. On the other side of Highway 35, Bobby Geers also showed high spirits when surveying the damage to his property. “It doesn’t look like the traditional ones you see up North though, you know, where they really touch down and scrape the ground real hard, but something came through here.” The tornado tossed a carport on Geers property from the ground, damaging an SUV. The strong winds also brought down several trees on his property as well. He also noted that he was shocked that a a tropical storm could bring down certain trees. \"They made it through Harvey. They didn’t make it through this.” For the latest local news updates, [click here](https://www.kristv.com/news/local-news), or download the [KRIS 6 News App.](https://www.kristv.com/about-us/kris-6-apps)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Human Interest"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "alberto",
+        "sentiment": "negative"
+      },
+      {
+        "name": "mason jordan",
+        "sentiment": "none"
+      },
+      {
+        "name": "bobby geers",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "rockport",
+        "sentiment": "none"
+      },
+      {
+        "name": "tx",
+        "sentiment": "none"
+      },
+      {
+        "name": "rockport",
+        "sentiment": "none"
+      },
+      {
+        "name": "harbor drive",
+        "sentiment": "none"
+      },
+      {
+        "name": "jordan",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-21T01:58:21.639+03:00",
+  "updated": "2024-06-21T06:49:20.046+03:00"
+}

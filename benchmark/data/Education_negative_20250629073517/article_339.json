@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "a0f68278da8ab31384b5077ee43dbea204ad7143",
+    "url": "https://kesq.com/news/2025/06/25/tom-horne-responde-a-los-cambios-en-el-manual-para-padres-de-esa",
+    "site_full": "kesq.com",
+    "site": "kesq.com",
+    "site_section": "https://www.kesq.com",
+    "site_categories": ["media"],
+    "section_title": "Home - KESQ",
+    "site_title": "Home - KESQ",
+    "title": "Tom Horne responde a los cambios en el manual para padres de ESA",
+    "title_full": "Tom Horne responde a los cambios en el manual para padres de ESA",
+    "published": "2025-06-26T05:48:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 18853,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a0f68278da8ab31384b5077ee43dbea204ad7143",
+  "url": "https://kesq.com/news/2025/06/25/tom-horne-responde-a-los-cambios-en-el-manual-para-padres-de-esa",
+  "ord_in_thread": 0,
+  "author": "Telemundo 23 Yuma-El Centro",
+  "published": "2025-06-26T05:48:00.000+03:00",
+  "title": "Tom Horne responde a los cambios en el manual para padres de ESA",
+  "text": "Michelle Leal\nYUMA, Ariz. (T3) – Después de la aprobación del nuevo manual del programa esa en arizona, padres de familia han expresado preocupación por la falta de claridad en los nuevos lineamientos. Hoy, hablamos con el superintendente estatal para entender cómo se aplicarán las nuevas reglas y qué opciones tienen las familias.\nEn lugar de un monto específico, ahora se evalúan criterios como el propósito educativo, historial de compras y si el precio es razonable. “los números que estaban en el primer borrador del manual son reglas generales, de modo que si una solicitud esta debajo de este numero, nuestros empleados pueden aprobarlas isn mayor investigación.” aseguró tom horne, superintendente de instrucción pública de arizona\nMencionan que lo que es aprobado para un niño, puede ser rechazado para otro. Horne dice que ese tipo de situaciones ya están previstas en el nuevo manual. “hay una disposición especifica en el nuevo manual que establece que la coherencia es uno de los factores para aprobar solicitudes, si hay una inconsistencia, los padres de familia tendrían un buen argumento para pedir al departamento que reconsidere”\nHorne menciona que el mes pasado 4,800 solicitudes fueron recibidas y solamente 362, que equivale al 8% de las solicitudes fueron rechazadas.\nY para quienes temen adelantar dinero sin saber si el gasto será aprobado, el superintendente recuerda que existen alternativas para evitar ese riesgo.“pueden usar class wallet, el pago se hace directamente, y el padre no tiene que adelantar dinero o puede pedirnos aprobación previa, antes de gastar”\nEl departamento de educación asegura que las nuevas reglas buscan ofrecer flexibilidad sin perder control. Esto es algo que se podrá demostrar con el paso del tiempo y el uso de los recursos.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Education", "Politics"],
+  "topics": [
+    "Education->parents group",
+    "Politics->education policy",
+    "Politics->government"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ariz",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Horne",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T10:56:43.243+03:00",
+  "updated": "2025-06-26T07:59:43.000+00:00"
+}

@@ -1,0 +1,133 @@
+{
+  "thread": {
+    "uuid": "312e477b2cd91dae51bc7161f2a56399bdad8d1f",
+    "url": "https://www.nau.ch/people/aus-der-schweiz/maximilian-janisch-erklart-komplexe-mathematik-auf-tiktok-67045217",
+    "site_full": "www.nau.ch",
+    "site": "nau.ch",
+    "site_section": "https://nau.ch",
+    "site_categories": ["advertising", "business"],
+    "section_title": "News für die Schweiz - Nau.ch",
+    "site_title": "News für die Schweiz - Nau.ch",
+    "title": "Maximilian Janisch erklärt komplexe Mathematik auf TikTok",
+    "title_full": "Maximilian Janisch erklärt komplexe Mathematik auf TikTok",
+    "published": "2025-09-18T08:05:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CH",
+    "main_image": "https://c.nau.ch/i/ZPAwGA/1360/680/maximilian-janisch.jpg",
+    "performance_score": 0,
+    "domain_rank": 35640,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "312e477b2cd91dae51bc7161f2a56399bdad8d1f",
+  "url": "https://www.nau.ch/people/aus-der-schweiz/maximilian-janisch-erklart-komplexe-mathematik-auf-tiktok-67045217",
+  "ord_in_thread": 0,
+  "author": "Samantha Reimer",
+  "published": "2025-09-18T08:05:00.000+03:00",
+  "title": "Maximilian Janisch erklärt komplexe Mathematik auf TikTok",
+  "text": "Maximilian Janisch erklärt komplexe Mathematik auf TikTok\nMit 21 Jahren promoviert, erklärt Maximilian Janisch auf TikTok komplexe Mathematik und fasziniert über 210'000 Follower mit seinem Content.\nMaximilian Janisch ist ein Mathematik-Genie aus Zürich. Mit nur 21 Jahren trägt er den Doktortitel der Universität Zürich.\nAnfang September 2025 machte er mit seinen TikTok-Videos eine neue Welle der Begeisterung bei jungen Menschen erleben. Auf der Plattform folgen ihm rund 210'000 Nutzer, die seine kurzweiligen Erklärungen schätzen.\nSo erklärt er zum Beispiel, warum die Zahl 6 eine perfekte Zahl ist, berichtet die «Kleine Zeitung». Auch erklärt er, welchen Einfluss der Flügelschlag eines Schmetterlings theoretisch auf Wetterphänomene haben kann.\nMaximillian Janisch hat einen IQ von 149\nSchon früh zeigte Janisch grosses Talent, da er mit sechs Jahren drei Primarschuljahre übersprang. Er absolvierte die Mathematik-Matura mit neun Jahren, was einem bisher kaum erreichten akademischen Tempo entspricht.\nAuch sein IQ von 149 belegt seine Hochbegabung. Janisch stand jedoch vor Hürden: Weil er die Matura aber nur in Mathematik besass, wurde ihm zunächst der Studienplatz an der ETH Zürich verweigert.\nDarauf hin erhielt er Zugang zu einem speziellen Förderprogramm an der Universität Zürich und wurde privat unterrichtet. Zudem bestand er Prüfungen in Analysis und Linearer Algebra, wie der «SRF Reporter» zeigt.\nKindheitserinnerungen und Zukunftsplänen\nSein Erfolgstalent und die Art, Mathematik verständlich und unterhaltsam zu vermitteln, macht Maximilian Janisch zu einer besonderen Persönlichkeit der Social-Media-Welt.\nSeine Reichweite und sein Einfluss auf junge Menschen zeigen, dass komplexe Wissenschaft auch auf TikTok populär gemacht werden kann. So berichtet es die «Kleine Zeitung» weiter.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": ["Education", "Science and Technology"],
+  "topics": [
+    "Education->college and university",
+    "Education->teachers",
+    "Education->vocational education",
+    "Science and Technology->mathematics",
+    "Science and Technology->scientific publication"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Maximilian Janisch",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Maximillian Janisch",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Zürich",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Universität Zürich",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Kleine Zeitung",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "TikTok",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:08:41.084+03:00",
+  "updated": "2025-09-18T08:12:38.000+03:00"
+}

@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "91219267f14a5ee9ff17402f17f39f41f4974a6d",
+    "url": "https://www.provideocoalition.com/wireless-lighting-control-is-wonderful",
+    "site_full": "www.provideocoalition.com",
+    "site": "provideocoalition.com",
+    "site_section": "https://www.provideocoalition.com",
+    "site_categories": ["tech"],
+    "section_title": "ProVideo Coalition - Official Site",
+    "title": "Wireless lighting control is wonderful",
+    "title_full": "Wireless lighting control is wonderful",
+    "published": "2025-01-23T15:18:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 40108,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "91219267f14a5ee9ff17402f17f39f41f4974a6d",
+  "url": "https://www.provideocoalition.com/wireless-lighting-control-is-wonderful",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@provideo",
+  "published": "2025-01-23T15:18:00.000+02:00",
+  "title": "Wireless lighting control is wonderful",
+  "text": "This is what a lighting department used to look like. Courtesy Pexels user Robert So. Often, development in technology gives us wonderful new things over time. Sometimes, though, it results in a teetering jenga tower of historic standards and modern devices held together with luck, hope, and skilled intervention. So, because we keep getting asked questions about it, let’s talk about the state of DMX lighting control.\nChanging lighting setups without rising to our feet is wonderful. The film industry picked up remote-control lights from theatre almost as soon as it became technically possible. Doing it not only remotely but wirelessly was probably more of a boon to film industry than to theatre, given stage sets stay in place for weeks and film sets don’t. Wireless control is fantastic.\nThe process of setting it up can be less fantastic. We connect keyboards, mice, webcams and other non-trivial devices via USB without even thinking about it. Even via Bluetooth things are fairly straightforward. Getting control commands from a tablet to a movie light, meanwhile, can demand a little bit more. It’s not the fault of the manufacturers, who are mostly just implementing available standards, but there does seem to be some room for considering how things could be easier.\nThis is what a lighting department now looks like. Technology has made gaffing a shoes-optional activity, which is nice. Courtesy Pexels user Timo Miroshnichenko. DMX is Forrest Gump DMX arose in the late 80s. It is basic – effectively a serial port sending numbers by turning the data lines on or off to represent ones and zeroes. One number is eight ones or zeroes (plus some framing). Eight bits means values between 0 and 255. DMX sends 512 of those numbers, followed by a marker indicating the start of the sequence. 512 values are updated at about 44Hz.\nDMX does not define what any of those 512 values mean. Each value controls one function of a light, such as brightness, colour, or on a moving light, it horizontal position. The next value might then control vertical position. We learn this by reading the light’s manual. If we set the light to address ten and the first value for that light controls brightness, then the tenth fader on our lighting desk will control the brightness of that light. There is, mostly, no automatic configuration.\nNow, we have far better ways of sending data over long cables. A single gigabit Ethernet link can carry thousands of times as much, which might be useful for pixel tubes in interactive lighting, which each demand hundreds of channels. Art-Net and sACN are two different protocols designed to send DMX data over Ethernet. That helps get more values to more lights in really large setups, but it doesn’t make the underlying DMX system any less primitive.\nNaturally, once we’re sending data over Ethernet, someone will ponder sending it over WiFi, and that works fine, too.\nThis is actually older than DMX. But not by much. WiFi Lights? The problem is that movie lights generally don’t (or didn’t) have WiFi receivers. Being a WiFi device, and connecting to another device, demands significant computer power and adds a huge amount of complexity to setup which most situations don’t want or need. In many devices, the network interface would be the most difficult part of the process in terms of sheer computer horsepower, and computer networks need IP addresses, passwords, and other setup.\nAs an alternative, we quickly encounter wireless DMX. That’s a phrase which deserves unpacking. It describes a variety of devices which plug into the 5-pin XLR input on a lighting device, and communicate with a transmitter plugged into the corresponding output on a control desk. That’s convenient, though the radio signals may not be compatible between brands. While a plug-in module is a convenient way to make any device wireless, there are often no power pins on a DMX connector, so they must use batteries, which can go flat, or add clutter with an external power supply.\nThe standard in this world is CRMX. It uses a BlueTooth-style pairing procedure in which both the light and the controller are told to connect. There is still no solution to the fact that DMX is just a list of unassigned numbers, but CRMX has features for more robust radio communications, and, crucially, it is built into many lights and controllers. It isn’t built into iPads, though. CRMX is not WiFi. We need an additional bridging device to generate CRMX. We can connect that bridge to the tablet by having the CRMX bridge also publish a WiFi network.\nSo – deep breath – we can run some software on a tablet, tell it which lights we’re using and how their channel layout works (which can change via menu options on modern lights), connect the tablet to the CRMX device using its WiFi network name and password, and send it (say) data. Then, we can pair the lights with the CRMX device, set the right start address, enable DMX mode, and we should be in business, so long as we can remember the login code for the ipad.\nLike so many things we rely on totally\n, this is not a technology we would build this way if we were to develop it from scratch right now. The fact that it is as accessible as it is represents a lot of work by software engineers. Again, none of this is the manufacturers’ fault. If we want to use a tablet to control lights, this is the most direct way to do it, given thirty plus years of technological history.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Lifestyle and Leisure",
+    "Human Interest"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific innovation",
+    "Lifestyle and Leisure->trend",
+    "Lifestyle and Leisure->lifestyle",
+    "Lifestyle and Leisure->house and home"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:38:52.478+02:00",
+  "updated": "2025-01-24T00:38:52.478+02:00"
+}

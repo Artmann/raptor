@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "5de39d2ae5de0e8188be7f8d93fa5ee340da8018",
+    "url": "https://www.firstalert4.com:443/2023/12/29/amber-alert-issued-mother-child-abducted-maine/",
+    "site_full": "www.firstalert4.com",
+    "site": "firstalert4.com",
+    "site_section": "https://firstalert4.com/powernation",
+    "site_categories": [],
+    "section_title": "POWERNATION",
+    "title": "Police in Maine cancel Amber Alert after locating abducted mother, child",
+    "title_full": "Police in Maine cancel Amber Alert after locating abducted mother, child",
+    "published": "2023-12-29T03:57:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-kmov-prod.cdn.arcpublishing.com/resizer/v2/RTUBVZQWRZC4PLETU4F4JQGRJM.jpg?auth=cc4863cac1c40e84b09224f3bbbcaa87d8aaf42fba7be50399919bfd89c18f57&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 35192,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5de39d2ae5de0e8188be7f8d93fa5ee340da8018",
+  "url": "https://www.firstalert4.com:443/2023/12/29/amber-alert-issued-mother-child-abducted-maine/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@KMOV",
+  "published": "2023-12-29T03:57:00.000+02:00",
+  "title": "Police in Maine cancel Amber Alert after locating abducted mother, child",
+  "text": "Police in Maine cancel Amber Alert after locating abducted mother, child SACO, Maine ( [WABI](https://www.wabi.tv/2023/12/29/amber-alert-issued-mother-child-abducted-saco/)/Gray News) - Authorities in Maine say the Amber Alert that was issued at the request of the Saco Police Department for an abducted mother and her child has been canceled. The two were safely located, Maine State Police [said](https://www.facebook.com/MaineSP/posts/pfbid02QaNTABJdYjdFpBmwjV3jagqegazMA797LBi69vyYQiNbx3AaxZ2APSbeK7auvUd4l) early Friday morning. Police say the two, who were residing in the Biddeford area, were initially forced into a white Ford Explorer with New York registration by a male suspect around 11:30 a.m. on Thursday. They say at 3:41 p.m., the vehicle crossed the tolls into New York state. Maine State Police did not immediately provide information about the male suspect’s location after the Amber Alert was canceled. If you have any information, please contact the Saco Police Department at 207-284-4535. Copyright 2023 WABI Gray Media Group, Inc. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Crime, Law and Justice"],
+  "external_links": [
+    "https://www.facebook.com/MaineSP/posts/pfbid02QaNTABJdYjdFpBmwjV3jagqegazMA797LBi69vyYQiNbx3AaxZ2APSbeK7auvUd4l)",
+    "https://www.wabi.tv/2023/12/29/amber-alert-issued-mother-child-abducted-saco/)/Gray",
+    "https://facebook.com/MaineSP/posts/pfbid02QaNTABJdYjdFpBmwjV3jagqegazMA797LBi69vyYQiNbx3AaxZ2APSbeK7auvUd4l)",
+    "https://wabi.tv/2023/12/29/amber-alert-issued-mother-child-abducted-saco/)/Gray"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "saco",
+        "sentiment": "negative"
+      },
+      {
+        "name": "saco police department",
+        "sentiment": "none"
+      },
+      {
+        "name": "wabi gray media group, inc",
+        "sentiment": "none"
+      },
+      {
+        "name": "maine state police",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "maine",
+        "sentiment": "none"
+      },
+      {
+        "name": "new york",
+        "sentiment": "none"
+      },
+      {
+        "name": "biddeford",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T08:13:46.399+02:00",
+  "updated": "2023-12-29T08:13:46.399+02:00"
+}

@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "6cc27ec2908eab8c44755f3278416a4ca7dc16a0",
+    "url": "https://www.21alivenews.com:443/2025/05/08/tomatoes-recalled-more-than-dozen-states-due-possible-salmonella-contamination",
+    "site_full": "www.21alivenews.com",
+    "site": "21alivenews.com",
+    "site_section": "https://wpta21.com/powernation",
+    "site_categories": [],
+    "section_title": "POWERNATION",
+    "site_title": "21Alive | Fort Wayne, IN",
+    "title": "Tomatoes recalled in more than a dozen states due to possible salmonella contamination",
+    "title_full": "Tomatoes recalled in more than a dozen states due to possible salmonella contamination",
+    "published": "2025-05-08T04:16:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-wpta-prod.gtv-cdn.com/resizer/v2/P7EJKLFWNZD3JO35BK5MRXYPI4.jpg?auth=3f1cfa127775170f457106f102f15c5f3515190322254e3fb91636636405001e&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 110922,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6cc27ec2908eab8c44755f3278416a4ca7dc16a0",
+  "url": "https://www.21alivenews.com:443/2025/05/08/tomatoes-recalled-more-than-dozen-states-due-possible-salmonella-contamination",
+  "ord_in_thread": 0,
+  "author": "@ABC21WPTA",
+  "published": "2025-05-08T04:16:00.000+03:00",
+  "title": "Tomatoes recalled in more than a dozen states due to possible salmonella contamination",
+  "text": "Tomatoes recalled in more than a dozen states due to possible salmonella contamination\n(Gray News) - Two tomato recalls have been issued due to potential salmonella contamination.\nThe U.S. Food and Drug Administration shared a recall notice for Ray & Mascari 4-Count Vine Ripe Tomatoes packaged in clamshell containers, as they may be contaminated with salmonella.\nThe recalled tomatoes were sold by Gordon Food Service stores in Illinois, Indiana, Kentucky, Michigan, Missouri, Mississippi, New York, Ohio, Pennsylvania, Tennessee and Wisconsin.\nNo illnesses have been reported, but consumers who have purchased the tomatoes have been urged to discard them immediately.\nAccording to the recall, Ray & Mascari was notified by Hanshaw & Capling Farms of Immokalee, Florida, that they were recalling the lot of tomatoes due to the possible presence of salmonella at the facility.\nThe FDA also released a separate recall notice for tomatoes by Williams Farms Repack LLC, due to a possible salmonella contamination.\nThose tomatoes were distributed between April 23 and April 28 to wholesalers and distributors in Georgia, North Carolina and South Carolina.\nOfficials say no illnesses have been reported, but consumers who purchased any of these tomatoes are encouraged to discard them immediately.\nCopyright 2025 Gray Local Media, Inc. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Environment"],
+  "topics": [
+    "Health->health organisation",
+    "Health->public health",
+    "Health->communicable disease",
+    "Environment->hazardous materials",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/williams-farms-repack-llc-recalls-tomatoes-due-possible-salmonella-contamination",
+    "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ray-mascari-inc-recalls-4-count-vine-ripe-tomatoes-because-possible-health-risk",
+    "https://fda.gov/safety/recalls-market-withdrawals-safety-alerts/ray-mascari-inc-recalls-4-count-vine-ripe-tomatoes-because-possible-health-risk",
+    "https://fda.gov/safety/recalls-market-withdrawals-safety-alerts/williams-farms-repack-llc-recalls-tomatoes-due-possible-salmonella-contamination"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mascari",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "U.S. Food and Drug Administration",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Williams Farms Repack LLC",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Gordon Food Service",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "FDA",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "6cc27ec2908eab8c44755f3278416a4ca7dc16a0",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:29:31.730+03:00",
+  "updated": "2025-05-08T02:35:02.000+00:00"
+}

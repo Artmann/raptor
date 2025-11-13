@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "5fdaac8d4ff36af9d4c35399d23bc8c972a30d60",
+    "url": "https://www.abc.com.py/deportes/futbol/internacional/2025/01/23/3-1-el-lazio-de-taty-castellanos-barre-a-la-real-sociedad",
+    "site_full": "www.abc.com.py",
+    "site": "abc.com.py",
+    "site_section": "https://www.abc.com.py/tag/efe/",
+    "site_categories": ["under_construction"],
+    "section_title": " EFE. Últimas noticias de  EFE en ABC Color",
+    "title": "3-1. El Lazio de 'Taty' Castellanos barre a la Real Sociedad - Fútbol Internacional - ABC Color",
+    "title_full": "3-1. El Lazio de 'Taty' Castellanos barre a la Real Sociedad - Fútbol Internacional - ABC Color",
+    "published": "2025-01-24T03:05:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PY",
+    "main_image": "https://www.abc.com.py/resizer/v2/QMLZMUL7NBG2HLRTAYYC5WVAQA.jpg?auth=c836d649399f387583e24f4391a3387c1742f733112891f714a7e56818adeb0b&amp;width=770&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 17069,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5fdaac8d4ff36af9d4c35399d23bc8c972a30d60",
+  "url": "https://www.abc.com.py/deportes/futbol/internacional/2025/01/23/3-1-el-lazio-de-taty-castellanos-barre-a-la-real-sociedad",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "EFE",
+  "published": "2025-01-24T03:05:00.000+02:00",
+  "title": "3-1. El Lazio de 'Taty' Castellanos barre a la Real Sociedad - Fútbol Internacional - ABC Color",
+  "text": "Fútbol Internacional 3-1. El Lazio de 'Taty' Castellanos barre a la Real Sociedad Roma, 23 ene (EFE).- La Real Sociedad claudicó este jueves ante el Lazio (3-1) en Roma, en un partido que se acabó con la expulsión de Aihen Muñoz a la media hora y que finiquitó sus opciones de entrar a los octavos de final, objetivo que certificó cómodamente el líder del torneo, con gol incluido de 'Taty' Castellanos. Por EFE 23 de enero de 2025 - 19:05",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->soccer",
+    "Sport->sport event",
+    "Sport->sport achievement",
+    "Lifestyle and Leisure->game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Aihen Muñoz",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Lazio",
+        "sentiment": "negative"
+      },
+      {
+        "name": "EFE",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Real Sociedad Roma",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:27:46.092+02:00",
+  "updated": "2025-01-24T00:27:46.092+02:00"
+}

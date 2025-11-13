@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "482bb8a18c8b4327772e8a224be03964048fb7ce",
+    "url": "https://www.reviewjournal.com/local/local-nevada/turkeys-illegally-dumped-in-wildlife-area-north-of-las-vegas-3040246",
+    "site_full": "www.reviewjournal.com",
+    "site": "reviewjournal.com",
+    "site_section": "http://www.reviewjournal.com/rss.xml",
+    "site_categories": ["society", "music", "gay_life", "entertainment"],
+    "section_title": "Las Vegas Review-Journal",
+    "title": "Turkeys illegally dumped near Key Pittman Wildlife Management Area | Local Nevada | Local",
+    "title_full": "Turkeys illegally dumped near Key Pittman Wildlife Management Area | Local Nevada | Local",
+    "published": "2024-04-25T23:47:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.reviewjournal.com/wp-content/uploads/2024/04/19109014_web1_cropped_Truck1.jpg",
+    "performance_score": 0,
+    "domain_rank": 2175,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "482bb8a18c8b4327772e8a224be03964048fb7ce",
+  "url": "https://www.reviewjournal.com/local/local-nevada/turkeys-illegally-dumped-in-wildlife-area-north-of-las-vegas-3040246",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Alan Halaly",
+  "published": "2024-04-25T23:47:00.000+03:00",
+  "title": "Turkeys illegally dumped near Key Pittman Wildlife Management Area | Local Nevada | Local",
+  "text": "State wildlife officials are trying to track down two people who illegally released about 25 turkeys about 110 miles north of Las Vegas.\nOn April 9, officials found the turkeys at Key Pittman Wildlife Management Area, which is home to Nesbitt Lake and more than 24 species of ducks. It’s also a frequent pit stop for migratory birds.\nThe turkeys were either domesticated or wild ones that had been captured and fed, Game Division Administrator Shawn Espinosa said in a statement. Either way, they all would have likely been eaten by predators or died from natural causes, he said.\n“That brings up a myriad of concerns not the least of which is disease,” Espinosa said. “They could have any number of diseases that could be devastating to the wild bird population in the area.”\nGame wardens believe that those responsible are from Clark County because they came from the south and left that way. The wardens found photos of a truck and trailer from a convenience store’s security footage and are asking the public to notify them with any information.\n“Any information could be key to this investigation,” Game Warden Lieutenant John Anderson said in a statement.\nTo provide information to the Nevada Department of Wildlife, people may call its hotline at 1-800-992-3030 or submit an anonymous tip using the department’s Tip app, available for download on any mobile device.\nContact Alan at ahalaly@reviewjournal.com. Follow @AlanHalaly on X.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://twitter.com/@AlanHalaly",
+    "https://www.twitter.com/@AlanHalaly"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "espinosa",
+        "sentiment": "none"
+      },
+      {
+        "name": "shawn espinosa",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "nevada department of wildlife",
+        "sentiment": "negative"
+      },
+      {
+        "name": "key pittman wildlife management area",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "key pittman wildlife management area",
+        "sentiment": "none"
+      },
+      {
+        "name": "nevada",
+        "sentiment": "none"
+      },
+      {
+        "name": "clark county",
+        "sentiment": "none"
+      },
+      {
+        "name": "las vegas",
+        "sentiment": "none"
+      },
+      {
+        "name": "nesbitt lake",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:06:20.027+03:00",
+  "updated": "2024-05-02T03:08:26.880+03:00"
+}

@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "4a2282257a0ce793dd93d09ce504981cf5810b9f",
+    "url": "https://www.elheraldo.co/atlantico/2025/05/08/cortes-de-energia-este-jueves-en-campo-de-la-cruz-por-trabajos-en-linea-de-transmision",
+    "site_full": "www.elheraldo.co",
+    "site": "elheraldo.co",
+    "site_section": "https://www.elheraldo.co/contenidos-en-alianza",
+    "site_categories": ["travel", "caribbean", "top_news_co", "top_news"],
+    "section_title": "Contenidos en Alianza - ELHERALDO.CO",
+    "site_title": "ELHERALDO.CO",
+    "title": "Cortes de energía este jueves en Campo de la Cruz por trabajos en línea de transmisión",
+    "title_full": "Cortes de energía este jueves en Campo de la Cruz por trabajos en línea de transmisión",
+    "published": "2025-05-08T05:49:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CO",
+    "main_image": "https://www.elheraldo.co/resizer/v2/KBQIVHGPOREXJBZPX6YWUGBW4A.jpeg?smart=true&amp;auth=d645f34bd6269056da6fa00f828da0998230b354cd52e7e48e3b24554457a18a&amp;width=1200&amp;height=675",
+    "performance_score": 0,
+    "domain_rank": 24418,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4a2282257a0ce793dd93d09ce504981cf5810b9f",
+  "url": "https://www.elheraldo.co/atlantico/2025/05/08/cortes-de-energia-este-jueves-en-campo-de-la-cruz-por-trabajos-en-linea-de-transmision",
+  "ord_in_thread": 0,
+  "author": "Redacción ELHERALDO.CO",
+  "published": "2025-05-08T05:49:00.000+03:00",
+  "title": "Cortes de energía este jueves en Campo de la Cruz por trabajos en línea de transmisión",
+  "text": "Por medio de un comunicado, la empresa Air-e Intervenida anunció que por trabajos en una línea de transmisión habrá suspensión del servicio de energía en el municipio de Campo de la Cruz este jueves 8 de mayo.\nLeer también: Ponen en marcha plan de contingencia ante posibles emergencias por lluvias\nDe acuerdo al escrito, se realizarán trabajos de emergencia en la línea de transmisión Chinú - Sabanalarga. “Para proteger a nuestro personal durante la realización de las maniobras, debe desconectarse un circuito de Air-e, lo que implicará suspensiones al servicio de energía”, señaló la empresa.\nLa situación financiera de Air-e es solo la punta del iceberg de las comercializadoras: Amylkar Acosta\nLa suspensión del servicio, que de acuerdo al comunicado fue coordinado previamente con XM como operador del mercado, será desde las 10:00 a.m. hasta las 3:00 p.m.\nDe igual forma, Air-e informó que el corte también afectará al municipio de Salamina, en el departamento de Magdalena.\nImportante: Supersalud adelanta agenda en Barranquilla para resolver dificultades de usuarios con EPS\n“Agradecemos la comprensión de los usuarios durante la realización de estos trabajos, los cuales mejoran la infraestructura eléctrica y garantizan un servicio de transmisión de energía confiable y seguro”, finaliza el escrito.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue"],
+  "topics": [
+    "Environment->energy saving",
+    "Social Issue->social services",
+    "Social Issue->public housing",
+    "Social Issue->communities"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Magdalena",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Air-e Intervenida",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "EPS",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:40:08.710+03:00",
+  "updated": "2025-05-08T03:45:22.000+00:00"
+}

@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "ce10494d4cec426a41d53d81c628bcc8b25afc66",
+    "url": "https://www.newsbreak.com/kx-news-1589933/4074302157829-taxpayers-cover-gap-after-state-cuts-school-funding",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/kx-news-1589933",
+    "site_categories": ["under_construction"],
+    "section_title": "KX News&#x27;s Home Page | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Taxpayers cover gap after state cuts school funding - NewsBreak",
+    "title_full": "Taxpayers cover gap after state cuts school funding - NewsBreak",
+    "published": "2025-06-26T05:19:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/2zuSGD_12AMEKvh00",
+    "performance_score": 0,
+    "domain_rank": 3213,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ce10494d4cec426a41d53d81c628bcc8b25afc66",
+  "url": "https://www.newsbreak.com/kx-news-1589933/4074302157829-taxpayers-cover-gap-after-state-cuts-school-funding",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T05:19:00.000+03:00",
+  "title": "Taxpayers cover gap after state cuts school funding - NewsBreak",
+  "text": "BISMARCK, ND ( KXNET ) — Bismarck Public Schools is facing a significant funding loss this year. They are receiving $734,000 less in federal Title I funding, which supports students who need extra help. The cut doesn’t come from a drop in overall federal dollars. Instead, it’s the result of formula changes at both the federal and state levels. Federal Title I funds are distributed based on poverty levels. This year, North Dakota received about 8% less, because, in comparison to other states, its poverty rates appeared lower in the data used. Then, at the state level, North Dakota revised its own formula for how Title I dollars are spread out. That change hit Bismarck especially hard, dropping its allocation by 16%, or roughly $734,000. Title I funding in Bismarck is used almost entirely to support reading and math intervention programs in elementary schools. That includes the teachers and aides who work directly with students who are behind in those core subjects. For the upcoming 2025–26 school year, Bismarck’s Title I allocation will cover nearly all of the $3.27 million needed for salaries and benefits for intervention staff. But it won’t cover all of it. A $103,000 gap remained enough to put some staff positions at risk. At this week’s board meeting, district officials shared that the school board voted to cover that shortfall using local funds. That means taxpayers in Bismarck are stepping in to make sure no teachers or aides are cut this year. The district says it is doing everything possible to preserve staffing in the classroom by cutting elsewhere if needed. Leaders are also pushing for fairer funding formulas at the state and federal levels, ones that don’t penalize fast-growing districts like Bismarck, which may appear less “high need” on paper but still have many students who rely on this support. For now, intervention programs will stay in place for the 2025–26 school year. Families who want to follow updates can attend school board meetings or visit the Bismarck Public Schools website for official notices and reports. Thanks for signing up! Watch for us in your inbox. Subscribe Now For the latest news, weather, sports, and streaming video, head to KX NEWS.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Education"],
+  "topics": [
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->human resources",
+    "Education->students",
+    "Education->school",
+    "Education->state school"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://img.particlenews.com/image.php?url=2zuSGD_12AMEKvh00",
+    "https://www.kxnet.com",
+    "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2zuSGD_12AMEKvh00",
+    "https://www.kxnet.com/news/local-news/taxpayers-cover-gap-after-state-cuts-school-funding/",
+    "https://www.img.particlenews.com/image.php?url=2zuSGD_12AMEKvh00",
+    "https://www.kxnet.com/news/local-news/taxpayers-cover-gap-after-state-cuts-school-funding",
+    "https://img.particlenews.com/image.php",
+    "https://kxnet.com",
+    "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=2zuSGD_12AMEKvh00",
+    "https://kxnet.com/news/local-news/taxpayers-cover-gap-after-state-cuts-school-funding/"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Bismarck",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Bismarck Public Schools",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T08:50:16.241+03:00",
+  "updated": "2025-06-26T06:00:55.000+00:00"
+}

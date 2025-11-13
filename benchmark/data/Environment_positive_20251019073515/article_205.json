@@ -1,0 +1,123 @@
+{
+  "thread": {
+    "uuid": "6eccff57579c8ed3f77f2639c5265f105192a18d",
+    "url": "https://www.bakersfield.com/ap/news/svante-w-rdigt-den-nobelpreis-f-r-chemie-und-best-tigt-dass-die-metall-organic/article_d04161b1-9dc5-5596-86c3-a07d34840287.html",
+    "site_full": "www.bakersfield.com",
+    "site": "bakersfield.com",
+    "site_section": "http://www.bakersfield.com/podcasts/?f=rss&t=article&c=&l=50&s=start_time&sd=desc",
+    "site_categories": ["media"],
+    "section_title": "www.bakersfield.com - RSS Results of type article",
+    "site_title": "bakersfield.com | Kern County news, events, shopping & search",
+    "title": "Svante würdigt den Nobelpreis für Chemie und bestätigt, dass die Metall-Organic-Framework-Technologie für die kommerzielle Kohlenstoffabscheidung von entscheidender Bedeutung ist | News | bakersfield.com",
+    "title_full": "Svante würdigt den Nobelpreis für Chemie und bestätigt, dass die Metall-Organic-Framework-Technologie für die kommerzielle Kohlenstoffabscheidung von entscheidender Bedeutung ist | News | bakersfield.com",
+    "published": "2025-10-16T13:19:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/6/13/6137f6f6-97f9-50ac-8a48-b241926add8f/68f0ca92724d1.image.jpg?crop=1765%2C927%2C0%2C123&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 44731,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6eccff57579c8ed3f77f2639c5265f105192a18d",
+  "url": "https://www.bakersfield.com/ap/news/svante-w-rdigt-den-nobelpreis-f-r-chemie-und-best-tigt-dass-die-metall-organic/article_d04161b1-9dc5-5596-86c3-a07d34840287.html",
+  "ord_in_thread": 0,
+  "author": "Business Wire",
+  "published": "2025-10-16T13:19:00.000+03:00",
+  "title": "Svante würdigt den Nobelpreis für Chemie und bestätigt, dass die Metall-Organic-Framework-Technologie für die kommerzielle Kohlenstoffabscheidung von entscheidender Bedeutung ist | News | bakersfield.com",
+  "text": "BURNABY, British Columbia--(BUSINESS WIRE)--Okt 16, 2025--\nSvante, ein führendes Unternehmen im Bereich der Filtertechnologie zur Kohlenstoffabscheidung und -entfernung auf Basis fester Sorptionsmittel, feierte letzte Woche die Bekanntgabe des Nobelpreises für Chemie 2025, mit dem die Wissenschaftler Susumu Kitagawa, Richard Robson und Omar Yaghi für ihre bahnbrechende Arbeit auf dem Gebiet der metallorganischen Gerüste (MOF) ausgezeichnet wurden. Die Königlich Schwedische Akademie der Wissenschaften verlieh den Preis für die Entwicklung von MOFs und verwies dabei auf deren „enormes Potenzial” und einzigartige molekulare Architektur, die geräumige, poröse Materialien schafft, die in der Lage sind, bestimmte Substanzen, darunter Kohlendioxid, abzuscheiden und zu speichern.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": ["Environment", "Science and Technology"],
+  "topics": [
+    "Environment->climate change",
+    "Environment->energy saving",
+    "Environment->sustainability",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific research",
+    "Science and Technology->chemistry"
+  ],
+  "ai_allow": false,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Susumu Kitagawa",
+        "sentiment": "none"
+      },
+      {
+        "name": "Richard Robson",
+        "sentiment": "none"
+      },
+      {
+        "name": "Omar Yaghi",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "British Columbia",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Königlich Schwedische Akademie der Wissenschaften",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Bakersfield"],
+      "state": ["California"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:59:14.241+03:00",
+  "updated": "2025-10-16T14:11:52.000+03:00"
+}

@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "d5ac5bc53fc09e4b5f4831eca9f4f86d1ecfc07c",
+    "url": "https://finance.sina.com.cn/jjxw/2025-05-08/doc-inevvhce5593384.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "http://finance.sina.cn",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪财经_金融信息服务商",
+    "site_title": null,
+    "title": "沙尘笼罩青海格尔木能见度仅数米|青海省_新浪财经_新浪网",
+    "title_full": "沙尘笼罩青海格尔木能见度仅数米|青海省_新浪财经_新浪网",
+    "published": "2025-05-08T05:52:00.000+03:00",
+    "replies_count": 1,
+    "participants_count": 2,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 259,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d5ac5bc53fc09e4b5f4831eca9f4f86d1ecfc07c",
+  "url": "https://finance.sina.com.cn/jjxw/2025-05-08/doc-inevvhce5593384.shtml",
+  "ord_in_thread": 0,
+  "author": "新京报",
+  "published": "2025-05-08T05:52:00.000+03:00",
+  "title": "沙尘笼罩青海格尔木能见度仅数米|青海省_新浪财经_新浪网",
+  "text": "转自：新京报我们视频\n【#沙尘笼罩青海格尔木能见度仅数米#】#青海局地出现大风强沙尘暴天气# 5月7日，甘肃、青海部分地区出现大风、强沙尘暴天气，青海格尔木沙尘暴形成沙墙缓慢推进，天空逐步呈现出红褐色，街道里的能见度逐步降低，车辆打开应急灯后缓慢通行。格尔木市市民岳先生说，前后半个多小时，天气就发生了明显的变化，出现沙尘后自己呛得不行，能见度也就几米。7日，甘肃敦煌月牙泉景区因大风沙尘持续，景区暂停开放。8日20时至9日20时，甘肃省局地仍有4至5级风，并伴有浮尘天气。（记者：马骏 制作：王子轩）",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Weather"],
+  "topics": [
+    "Environment->environmental pollution",
+    "Environment->air pollution",
+    "Environment->water",
+    "Social Issue->social condition",
+    "Social Issue->mankind",
+    "Social Issue->demographics",
+    "Weather->weather phenomena",
+    "Weather->weather warning"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:41:25.991+03:00",
+  "updated": "2025-05-08T03:47:05.000+00:00"
+}

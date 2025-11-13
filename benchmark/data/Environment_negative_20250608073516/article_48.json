@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "3f3a98d587b3a26047699da16fabb1a84b1853a6",
+    "url": "https://www.kxxv.com/news/local-news/in-your-neighborhood/coryell-county/gatesville/next-30-years-with-texas-water-crisis-looming-gatesville-looks-ahead",
+    "site_full": "www.kxxv.com",
+    "site": "kxxv.com",
+    "site_section": "https://news.google.com/search?q=we%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media", "financial_news", "finance"],
+    "section_title": "Google News - Search",
+    "site_title": "25 News KXXV - Local news serving Waco, Temple and Killeen",
+    "title": "'Next 30 years': With Texas water crisis looming, Gatesville looks ahead",
+    "title_full": "'Next 30 years': With Texas water crisis looming, Gatesville looks ahead",
+    "published": "2025-05-08T00:07:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ewscripps.brightspotcdn.com/dims4/default/d79fd5e/2147483647/strip/true/crop/1170x614+0+16/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fea%2F59%2F38ed8a984e4aa8a906bbdf0d5b32%2Fimg-3836.jpg",
+    "performance_score": 0,
+    "domain_rank": 26284,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3f3a98d587b3a26047699da16fabb1a84b1853a6",
+  "url": "https://www.kxxv.com/news/local-news/in-your-neighborhood/coryell-county/gatesville/next-30-years-with-texas-water-crisis-looming-gatesville-looks-ahead",
+  "ord_in_thread": 0,
+  "author": "Allison Hill",
+  "published": "2025-05-08T00:07:00.000+03:00",
+  "title": "'Next 30 years': With Texas water crisis looming, Gatesville looks ahead",
+  "text": "GATESVILLE, Texas (KXXV) — Texas is facing a looming water shortage that could affect everything from daily life to long-term economic sustainability. While Gatesville is not currently experiencing any water issues, local leaders are working proactively to prepare for the future.\nKXXV 25 News Texas faces water crisis as drought drags on City Manager Brad Hunt said Gatesville is taking steps to address regional concerns and ensure long-term water security.\nKXXV 25 News Brad Hunt, city manager of Gatesville “We are at the Belton Lake intake for the City of Gatesville Water Supply,” Hunt said.\n“Regionally, we talk about water security and what the next 30 years are going to look like and water will start being an asset to communities,” he said. “We want to make sure we do our part to preserve our assets here.”\nKXXV 25 News City of Gatesville’s water intake plant on Lake Belton Hunt said the city’s strategy includes smart growth, conservation and infrastructure improvements.\n“All 30,000 or so plus people we have across the City of Gatesville and all the wholesale customers, North Fort Cavazos, all the prisons in Gatesville, all their water is running through here right now,” Hunt said.\nBlayr Barnard, owner of Barnard Beef Cattle Company in Oglesby, said reliable water access is essential for agriculture in the region.\nKXXV 25 News Blayr Barnard, owner of Barnard Beef Cattle Co. “This is a large area of livestock and agricultural products,” Barnard said. “In life, if you don’t have water, you don’t have anything. We don’t have grass, we don’t have cattle, you don’t have human life, so that’s all problematic,” she said.\nThe city has put a capital improvement project in place to strengthen its infrastructure for years to come. Hunt said the current water supply remains secure.\nKXXV 25 News View of Lake Belton from City of Gatesville's water intake plant “We have good water security in Belton Lake here. It’s very deep,” Hunt said. “It’s not to say that we don’t have any concern about water security here, but we are blessed to have a great facility.”\nAt the state level, lawmakers are considering Senate Joint Resolution 66 and House Joint Resolution 7 . Each proposal would allocate up to $1 billion annually to improve water infrastructure across Texas.\nFollow Allison on social media!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Politics"],
+  "topics": [
+    "Environment->water",
+    "Environment->natural resources",
+    "Social Issue->demographics",
+    "Social Issue->social problem",
+    "Politics->civil rights",
+    "Politics->government policy",
+    "Politics->environmental policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://capitol.texas.gov/tlodocs/89R/billtext/pdf/SJ00066I.pdf",
+    "https://legiscan.com/TX/text/HJR7/2025#:~:text=Texas%20House%20Joint%20Resolution%207&text=Bill%20Title%3A%20Proposing%20a%20constitutional,to%20the%20Texas%20water%20fund.",
+    "https://www.capitol.texas.gov/tlodocs/89R/billtext/pdf/SJ00066I.pdf",
+    "https://www.legiscan.com/TX/text/HJR7/2025#:~:text=Texas%20House%20Joint%20Resolution%207&text=Bill%20Title%3A%20Proposing%20a%20constitutional,to%20the%20Texas%20water%20fund."
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Brad Hunt",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Lake",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T01:30:30.966+03:00",
+  "updated": "2025-05-07T22:35:03.000+00:00"
+}

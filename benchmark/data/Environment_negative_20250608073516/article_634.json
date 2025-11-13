@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "a37faee9dd1ab612add20ee200e1f7a867aa11d0",
+    "url": "https://www.tronweekly.com/crypto-miners-unplugged-wells-in-pennsylvania",
+    "site_full": "www.tronweekly.com",
+    "site": "tronweekly.com",
+    "site_section": "https://news.google.com/search?q=its%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "TronWeekly : Latest Tron, Ripple, Bitcoin, And Blockchain News &amp; Analysis",
+    "title": "Crypto Miner Leaves Unplugged Wells In Pennsylvania, Environmental Concerns Grow",
+    "title_full": "Crypto Miner Leaves Unplugged Wells In Pennsylvania, Environmental Concerns Grow",
+    "published": "2025-05-08T04:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_auto,s_webp:avif/www.tronweekly.com/wp-content/uploads/2025/05/Cboe-Revolutionizes-Crypto-Trading-with-New-Bitcoin-Futures-Product-53-2.jpg",
+    "performance_score": 0,
+    "domain_rank": 43280,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a37faee9dd1ab612add20ee200e1f7a867aa11d0",
+  "url": "https://www.tronweekly.com/crypto-miners-unplugged-wells-in-pennsylvania",
+  "ord_in_thread": 0,
+  "author": "@TronWeekly",
+  "published": "2025-05-08T04:00:00.000+03:00",
+  "title": "Crypto Miner Leaves Unplugged Wells In Pennsylvania, Environmental Concerns Grow",
+  "text": "- Crypto miner Diversified Energy abandoned a Pennsylvania gas-powered mining plant, fueling environmental concerns.\n- Despite a 2021 deal to plug 14 wells, the firm failed to do that, invoking concerns regarding its history of neglecting cleanup duties for aging oil and gas plants.\n- The event falls into growing U.S. backlash against crypto mining.\nCryptocurrency mining firm Diversified Energy has abandoned a natural gas-powered mining facility in Elk County, Pennsylvania. The firm, in a report by a local outlet, left the wells open, a move that violates the law governing mining operations in that region.\nLong dormant since its near-decade-long inactivity, the Longhorn Pad A facility was restarted in 2022 by Diversified Energy. The crypto miner utilized the facility’s vast gas reserves to power generators that fed its bitcoin mining hardware.\nThe report accused the company of neglecting to obtain the air quality permit from the state department of environmental protection (DEP) before starting its operations in 2022. The company did obtain this permit in December 2023.\nMeanwhile, a two-month delay between a site visit by the DEP revealed that Diversified had moved its mining equipment elsewhere. The DEP had to serve a formal notice of violation for well abandonment when it found vacant metal sheds at the site bare of almost all of the company’s production equipment.\nDiversified Energy replied that it didn’t abandon the site, but intended to resume gas production in the near future. But the DEP and environmental experts stated that the company walked away from its responsibilities.\nAs part of a 2021 settlement, the crypto miner agreed to shut down Longhorn A and 13 other wells when it closes. But it has not lived up to that agreement.\nDiversified Energy’s Broken Promises and Mounting Hazards\nThe environmental organizations have long been troubled by the crypto miner’s business model of buying up old, inefficient wells and wringing out the last ounce of production from them, but without shutting them down properly.\nWith a price tag of over $100,000 per site to plug a well, Pennsylvania’s over 350,000 orphaned wells are a disaster waiting to happen. That only adds to the economic and environmental danger.\nIn a separate legal agreement, Diversified Energy agreed to plug 3,000 wells by 2034. But Horton County (where the Longhorn facility is situated) officials indicated the company has not given them any updates.\nU.S. States Push Back Against Crypto Mining Disruptions\nEarlier this year, Arkansas legislators passed a bill to ban the location of crypto miner facilities within 30 miles of military bases across the state. Also, last October, residents of Granbury, Texas, took legal action against Marathon Digital, claiming that its mining facility was polluting their environment with noise.\nRelated Reading | XRP Price Trends: Can the $1.85 Buy Zone Lead to a Breakout to $3.87?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Environment",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Environment->energy resources",
+    "Environment->sustainability",
+    "Environment->environmental pollution",
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->energy and resource",
+    "Social Issue->demographics",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.goerie.com/story/news/state/2025/05/07/crypto-mining-pa-elk-county-diversified-energy/83404895007/",
+    "https://www.goerie.com/story/news/state/2025/05/07/crypto-mining-pa-elk-county-diversified-energy/83404895007",
+    "https://goerie.com/story/news/state/2025/05/07/crypto-mining-pa-elk-county-diversified-energy/83404895007/"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Diversified Energy",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:20:20.831+03:00",
+  "updated": "2025-05-08T02:27:22.000+00:00"
+}

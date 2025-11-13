@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "ee33a4dadd411b655ebcf2734636467f3ab6e95c",
+    "url": "https://www.dvidshub.net/image/9323166/sncoa-als-students-participate-overcoming-adversity-lesson",
+    "site_full": "www.dvidshub.net",
+    "site": "dvidshub.net",
+    "site_section": "https://www.dvidshub.net/rss/image",
+    "site_categories": ["media"],
+    "section_title": "DVIDS RSS Feed: Image",
+    "site_title": "DVIDS - Defense Visual Information Distribution Service",
+    "title": "SNCOA, ALS students participate in Overcoming Adversity lesson [Image 3 of 7]",
+    "title_full": "SNCOA, ALS students participate in Overcoming Adversity lesson [Image 3 of 7]",
+    "published": "2025-09-18T08:09:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2509/9323166/1000w_q95.jpg",
+    "performance_score": 0,
+    "domain_rank": 14792,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ee33a4dadd411b655ebcf2734636467f3ab6e95c",
+  "url": "https://www.dvidshub.net/image/9323166/sncoa-als-students-participate-overcoming-adversity-lesson",
+  "ord_in_thread": 0,
+  "author": "Senior Airman Jacob Wood",
+  "published": "2025-09-18T08:09:00.000+03:00",
+  "title": "SNCOA, ALS students participate in Overcoming Adversity lesson [Image 3 of 7]",
+  "text": "U.S. Air Force Master Sgt. Edward Bailey, 374th Force Support Squadron manpower and organization NCO in charge, participates in a physical team-building activity at Yokota Air Base, Japan, Sept. 12, 2025. Students from Airman Leadership School and Senior Noncommissioned Officer Academy participated in several activities including sandbag carries, four-person pushups, combined exercises and litter carries. (U.S. Air Force photo by Senior Airman Jacob Wood)\nDate Taken: | 09.12.2025 |\nDate Posted: | 09.18.2025 01:09 |\nPhoto ID: | 9323166 |\nVIRIN: | 250912-F-AF991-1128 |\nResolution: | 4127x3302 |\nSize: | 2.9 MB |\nLocation: | YOKOTA AIR BASE, TOKYO, JP |\nWeb Views: | 1 |\nDownloads: | 0 |\nThis work, SNCOA, ALS students participate in Overcoming Adversity lesson [Image 7 of 7], by SrA Jacob Wood, identified by DVIDS, must comply with the restrictions shown on https://www.dvidshub.net/about/copyright.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest"],
+  "topics": [
+    "Education->students",
+    "Education->educational grading",
+    "Education->vocational education"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Edward Bailey",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Jacob Wood",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Yokota Air Base",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "U.S. Air Force",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "374th Force Support Squadron",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:26:05.678+03:00",
+  "updated": "2025-09-18T08:35:50.000+03:00"
+}

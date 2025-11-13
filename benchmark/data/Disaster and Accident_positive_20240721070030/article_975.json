@@ -1,0 +1,127 @@
+{
+  "thread": {
+    "uuid": "c523b6caacbbc4a174cea9e47010ac64345dbc56",
+    "url": "https://www.siasat.com/new-ai-model-to-help-prevent-power-outages-3050148",
+    "site_full": "www.siasat.com",
+    "site": "siasat.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": ["media", "education"],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "New AI model to help prevent power outages",
+    "title_full": "New AI model to help prevent power outages",
+    "published": "2024-06-24T11:48:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://cdn.siasat.com/wp-content/uploads/2022/07/Electricity-poles.png",
+    "performance_score": 0,
+    "domain_rank": 17511,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c523b6caacbbc4a174cea9e47010ac64345dbc56",
+  "url": "https://www.siasat.com/new-ai-model-to-help-prevent-power-outages-3050148",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "https://www.facebook.com/iansnews.in",
+  "published": "2024-06-24T11:48:00.000+03:00",
+  "title": "New AI model to help prevent power outages",
+  "text": "New Delhi: A team of US researchers has developed an artificial intelligence (AI) model that could help electrical grids prevent power outages by automatically rerouting electricity in milliseconds.\nThe automated system, published online in the journal Nature Communications, is an early example of “self-healing grid” technology, which uses AI to detect and repair problems such as outages and storm-damaged power lines on its own without human intervention.\nResearchers from the University of Texas at Dallas demonstrated that their solution can automatically identify alternative routes to transfer electricity to users before an outage occurs. It is because AI has the advantage of speed, the team said. Unlike human-controlled processes that can take minutes to hours, the system can automatically reroute electrical flow in microseconds.\nAlso Read Sony Pictures Networks India appoints Gaurav Banerjee as MD and CEO “Our goal is to find the optimal path to send power to the majority of users as quickly as possible,” said Dr Jie Zhang, associate professor of mechanical engineering at the Erik Jonsson School of Engineering and Computer Science.\n“But more research is needed before this system can be implemented.”\nRoshni Anna Jacob, an electrical engineering doctoral student at the varsity, said that electricity blocked due to line faults can be reconfigured using switches and power from available sources nearby, such as from large-scale solar panels or batteries.\nThe researchers next aim to develop similar technology to repair and restore the grid after a power disruption.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Science and Technology"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://twitter.com/intent/tweet?text={post_title}&url={post_link}&via=TheSiasatDaily",
+    "https://pinterest.com/pin/create/button/?url={post_link}&description={post_title}&media={post_img}",
+    "https://www.linkedin.com/shareArticle?mini=true&url={post_full_link}&title={post_title}",
+    "https://api.whatsapp.com/send?text={post_title}%20{post_link}",
+    "https://telegram.me/share/url?url={post_link}&text={post_title}",
+    "https://www.facebook.com/dialog/send?app_id=5303202981&display=popup&link={post_link}&redirect_uri={post_link}",
+    "https://www.facebook.com/sharer.php?u={post_link}",
+    "https://pinterest.com/pin/create/button/",
+    "https://facebook.com/dialog/send?app_id=5303202981&display=popup&link={post_link}&redirect_uri={post_link}",
+    "https://www.api.whatsapp.com/send?text={post_title}%20{post_link}",
+    "https://linkedin.com/shareArticle?mini=true&url={post_full_link}&title={post_title}",
+    "https://telegram.me/share/url",
+    "https://facebook.com/sharer.php?u={post_link}",
+    "https://www.facebook.com/dialog/send",
+    "https://www.linkedin.com/shareArticle",
+    "https://www.twitter.com/intent/tweet?text={post_title}&url={post_link}&via=TheSiasatDaily",
+    "https://www.facebook.com/sharer.php",
+    "https://www.pinterest.com/pin/create/button/?url={post_link}&description={post_title}&media={post_img}",
+    "https://api.whatsapp.com/send",
+    "https://twitter.com/intent/tweet",
+    "https://www.telegram.me/share/url?url={post_link}&text={post_title}"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "gaurav banerjee",
+        "sentiment": "none"
+      },
+      {
+        "name": "jie zhang",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "nature communications",
+        "sentiment": "none"
+      },
+      {
+        "name": "university of texas",
+        "sentiment": "none"
+      },
+      {
+        "name": "sony pictures networks india",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "new delhi",
+        "sentiment": "none"
+      },
+      {
+        "name": "us",
+        "sentiment": "none"
+      },
+      {
+        "name": "dallas",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-24T17:02:46.677+03:00",
+  "updated": "2024-06-25T03:55:13.946+03:00"
+}

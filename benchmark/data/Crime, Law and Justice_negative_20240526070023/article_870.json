@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "d899e1cfd4a8bb1d5f56a52d559ace19d06141b2",
+    "url": "https://www.news-leader.com/story/news/politics/elections/2024/04/25/clinton-criticizes-scotus-idaho-abortion-ban/73450969007",
+    "site_full": "www.news-leader.com",
+    "site": "news-leader.com",
+    "site_section": "https://electricpower.einnews.com/live_feed",
+    "site_categories": ["media", "business"],
+    "section_title": "Live Feed Wire - Electric Power News Today - EIN Presswire",
+    "title": "Clinton criticizes SCOTUS on oral arguments over Idaho's abortion ban",
+    "title_full": "Clinton criticizes SCOTUS on oral arguments over Idaho's abortion ban",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.gannett-cdn.com/presto/2021/10/18/USAT/989466ef-432d-4608-851a-933d114d6997-XXX_DSC00091.JPG?auto=webp&crop=2999,1687,x1,y255&format=pjpg&width=1200",
+    "performance_score": 0,
+    "domain_rank": 10140,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d899e1cfd4a8bb1d5f56a52d559ace19d06141b2",
+  "url": "https://www.news-leader.com/story/news/politics/elections/2024/04/25/clinton-criticizes-scotus-idaho-abortion-ban/73450969007",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": ", Springfield News-Leader",
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "Clinton criticizes SCOTUS on oral arguments over Idaho's abortion ban",
+  "text": "WASHINGTON — Former Secretary of State Hillary Clinton warned that the Supreme Court's decision on a case centered around Idaho's total near abortion ban could further endanger abortion access. It’s a crime in Idaho to terminate a pregnancy unless the mother’s life is at risk or in cases of rape or incest, if the assaults had been reported to law enforcement and copies of the reports are provided to the abortion providers. The Supreme Court is hearing oral arguments that Idaho’s ban violates the Emergency Medical Treatment and Labor Act. The law prevents hospitals from turning patients away if they couldn’t pay. After the Supreme Court overturned Roe, the Biden administration said it would be using the law to make sure pregnant women in emergency situations get the care they need, even if that includes abortion. “The MAGA Supreme Court majority appears ready to rule that the right to ‘life, liberty, and the pursuit of happiness’ doesn’t extend to women with pregnancy complications or who otherwise need abortions,” Clinton wrote on X , formerly Twitter. “This is horrifying, and it is because of Donald Trump.” Clinton shared a map that shows time zones of different states in a follow up tweet, with Arizona being “1864,” which is when the state implemented the near-total abortion ban. The House narrowly voted to repeal the ban Wednesday. “We won’t allow our daughters and granddaughters to grow up with fewer rights than we had,” Clinton wrote on X. Contributing: Mary Jo Pitzl",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.usatoday.com/story/news/politics/2022/07/08/roe-v-wade-biden-executive-order-protecting-abortion-access/10010822002/",
+    "https://x.com/HillaryClinton/status/1783206085509238953",
+    "https://www.usatoday.com/story/news/politics/elections/2024/04/24/arizona-1864-abortion-ban-repealed-house/73443392007/#:~:text=The%20Arizona%20House%20on%20Wednesday,as%20contrary%20to%20Republican%20values.",
+    "https://www.x.com/HillaryClinton/status/1783206085509238953",
+    "https://www.usatoday.com/story/news/politics/2022/07/08/roe-v-wade-biden-executive-order-protecting-abortion-access/10010822002",
+    "https://usatoday.com/story/news/politics/2022/07/08/roe-v-wade-biden-executive-order-protecting-abortion-access/10010822002/",
+    "https://usatoday.com/story/news/politics/elections/2024/04/24/arizona-1864-abortion-ban-repealed-house/73443392007/#:~:text=The%20Arizona%20House%20on%20Wednesday,as%20contrary%20to%20Republican%20values."
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "hillary clinton",
+        "sentiment": "negative"
+      },
+      {
+        "name": "clinton",
+        "sentiment": "negative"
+      },
+      {
+        "name": "biden",
+        "sentiment": "none"
+      },
+      {
+        "name": "roe",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "supreme court",
+        "sentiment": "negative"
+      },
+      {
+        "name": "state",
+        "sentiment": "negative"
+      },
+      {
+        "name": "maga supreme court",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "washington",
+        "sentiment": "none"
+      },
+      {
+        "name": "idaho",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:40:33.177+03:00",
+  "updated": "2024-04-26T00:40:33.177+03:00"
+}

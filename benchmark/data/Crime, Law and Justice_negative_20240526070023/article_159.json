@@ -1,0 +1,123 @@
+{
+  "thread": {
+    "uuid": "858cdf000c0f3a1f8bb06c542d90af45c077f6c7",
+    "url": "https://www.infowars.com/posts/watch-police-deploy-tasers-rubber-bullets-and-tear-gas-against-protesters-at-emory-university",
+    "site_full": "www.infowars.com",
+    "site": "infowars.com",
+    "site_section": "https://www.infowars.com/rss.xml",
+    "site_categories": ["media"],
+    "section_title": "Infowars: There's a War on for Your Mind!",
+    "title": "Watch: Police Deploy Tasers, Rubber Bullets and Tear Gas Against Protesters at Emory University",
+    "title_full": "Watch: Police Deploy Tasers, Rubber Bullets and Tear Gas Against Protesters at Emory University",
+    "published": "2024-04-25T23:20:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://api-assets.infowars.com/2024/04/arrest3467.jpg",
+    "performance_score": 0,
+    "domain_rank": 4084,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "858cdf000c0f3a1f8bb06c542d90af45c077f6c7",
+  "url": "https://www.infowars.com/posts/watch-police-deploy-tasers-rubber-bullets-and-tear-gas-against-protesters-at-emory-university",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Adan Salazar",
+  "published": "2024-04-25T23:20:00.000+03:00",
+  "title": "Watch: Police Deploy Tasers, Rubber Bullets and Tear Gas Against Protesters at Emory University",
+  "text": "Terms of Service DMCA Advertise with us Affiliates Media Inquiries About Featured Police resorted to riot control measures during pro-Palestine protests at Emory University in Atlanta, Georgia, on Thursday, as demonstrations erupt at campuses nationwide. Footage shows police tackling unruly protesters after tense standoffs as student demonstrators called on the university to cut ties with Israel. Fox 5 Atlanta [reports](https://www.fox5atlanta.com/news/protest-underway-at-emory-university-in-support-of-palestine-stop-cop-city): The protesters say they are “demanding total institutional divestment from Israeli apartheid and Cop City at all Atlanta colleges and universities.” The protesters say Emory University was chosen because it is complicit in genocide and police militarization and it, along with Atlanta University Center Consortium, Georgia State University, and Georgia Tech, have intimidated and repressed students and employees who have spoken out in support of Palestinians. Footage also purported to show an Emory University philosophy professor being arrested by police. Check out photos from the protest below: posted 6 hours ago posted 6 hours ago posted 9 hours ago posted 10 hours ago",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Disaster and Accident",
+    "Crime, Law and Justice"
+  ],
+  "webz_reporter": false,
+  "external_links": [
+    "https://fox5atlanta.com/news/protest-underway-at-emory-university-in-support-of-palestine-stop-cop-city):",
+    "https://www.fox5atlanta.com/news/protest-underway-at-emory-university-in-support-of-palestine-stop-cop-city):"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "emory university",
+        "sentiment": "negative"
+      },
+      {
+        "name": "emory university  featured police",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "georgia tech",
+        "sentiment": "none"
+      },
+      {
+        "name": "atlanta",
+        "sentiment": "none"
+      },
+      {
+        "name": "atlanta university center consortium",
+        "sentiment": "none"
+      },
+      {
+        "name": "fox",
+        "sentiment": "none"
+      },
+      {
+        "name": "georgia state university",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "cop city",
+        "sentiment": "none"
+      },
+      {
+        "name": "atlanta",
+        "sentiment": "none"
+      },
+      {
+        "name": "georgia",
+        "sentiment": "none"
+      },
+      {
+        "name": "israel",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:06:04.863+03:00",
+  "updated": "2024-04-26T03:10:29.907+03:00"
+}

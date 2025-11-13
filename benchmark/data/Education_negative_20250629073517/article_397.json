@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "57481c2ef5cb75c3ae2bb5c86e319e5094fcb680",
+    "url": "https://www.zvw.de/lokales/kaisersbach/ganztagsbetrieb-in-kaisersbacher-grundschule-geplant-woran-er-scheitern-k%C3%B6nnte_arid-970148",
+    "site_full": "www.zvw.de",
+    "site": "zvw.de",
+    "site_section": "https://zvw.de/lokales",
+    "site_categories": ["media"],
+    "section_title": "Nachrichten aus dem Rems-Murr-Kreis - Zeitungsverlag Waiblingen",
+    "site_title": "Nachrichten - Zeitungsverlag Waiblingen",
+    "title": "Ganztagsbetrieb in Kaisersbacher Grundschule geplant: Woran er scheitern könnte",
+    "title_full": "Ganztagsbetrieb in Kaisersbacher Grundschule geplant: Woran er scheitern könnte",
+    "published": "2025-06-26T11:22:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.zvw.de/cms_media/module_img/6795/3397892_1_org_naturparkschule.jpeg",
+    "performance_score": 0,
+    "domain_rank": 82946,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "57481c2ef5cb75c3ae2bb5c86e319e5094fcb680",
+  "url": "https://www.zvw.de/lokales/kaisersbach/ganztagsbetrieb-in-kaisersbacher-grundschule-geplant-woran-er-scheitern-k%C3%B6nnte_arid-970148",
+  "ord_in_thread": 0,
+  "author": "Mathias Ellwanger",
+  "published": "2025-06-26T11:22:00.000+03:00",
+  "title": "Ganztagsbetrieb in Kaisersbacher Grundschule geplant: Woran er scheitern könnte",
+  "text": "KaisersbachGanztagsbetrieb in Kaisersbacher Grundschule geplant: Woran er scheitern könnte Teilen Die Kaisersbacher Grundschule war einst die erste Naturparkschule im Schwäbischen Wald. © Benjamin BuettnerKaisersbach. Kommt ab dem Schuljahr 2026/27 der Ganztagsbetrieb an die Kaisersbacher Grundschule? Wenn es nach Gemeinde und Schulleitung geht, lautet die Antwort: unbedingt. Böte es pädagogisch doch Chancen - außerdem tritt ab September 2026 ohnehin ein Rechtsanspruch auf diese Art der Betreuung in Kraft.Dieser gilt ab dem Schuljahr 2026/27 zunächst für Erstklässler und wird dann stufenweise erweitert. Deshalb ist man in der Gemeinde bemüht, nun die Voraussetzungen Für Familien",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->school",
+    "Education->primary education",
+    "Education->students",
+    "Social Issue->children",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Benjamin BuettnerKaisersbach",
+        "sentiment": "none"
+      },
+      {
+        "name": "Böte",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Schwäbischen Wald",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Kaisersbacher Grundschule",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T11:33:42.729+03:00",
+  "updated": "2025-06-26T08:36:53.000+00:00"
+}

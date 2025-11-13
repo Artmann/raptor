@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "bdb4390efe629b271ba4ed26de345a0075a84a8d",
+    "url": "https://jref.com/threads/u-s-steel-ceases-trading-on-the-nyse-as-japans-nippon-finalizes-takeover.811871",
+    "site_full": "jref.com",
+    "site": "jref.com",
+    "site_section": "https://jref.com",
+    "site_categories": ["japan", "travel"],
+    "section_title": "Discuss All Things Japanese. | Japan Reference",
+    "site_title": "Japan Reference | Japan Reference",
+    "title": "Newsfeed - U.S. Steel ceases trading on the NYSE as Japan's Nippon finalizes takeover | Japan Reference",
+    "title_full": "Newsfeed - U.S. Steel ceases trading on the NYSE as Japan's Nippon finalizes takeover | Japan Reference",
+    "published": "2025-06-19T05:42:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 124429,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bdb4390efe629b271ba4ed26de345a0075a84a8d",
+  "url": "https://jref.com/threads/u-s-steel-ceases-trading-on-the-nyse-as-japans-nippon-finalizes-takeover.811871",
+  "ord_in_thread": 0,
+  "author": "NewsBot",
+  "published": "2025-06-19T05:42:00.000+03:00",
+  "title": "Newsfeed - U.S. Steel ceases trading on the NYSE as Japan's Nippon finalizes takeover | Japan Reference",
+  "text": "NewsBot\nRegistered\n- 6 Aug 2002\n- 2\n- 0\nU.S. Steel shares stopped trading on the New York Stock Exchange after Japan's Nippon Steel completed its acquisition. President Donald Trump has insisted for weeks that the companies would form a \"partnership\" in which U.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Politics", "Social Issue"],
+  "topics": [
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->mergers and acquisitions",
+    "Economy, Business and Finance->business governance",
+    "Politics->international relations",
+    "Politics->government",
+    "Politics->economic policy",
+    "Social Issue->social condition",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Donald Trump",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "U.S. Steel",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Nippon Steel",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:38:42.946+03:00",
+  "updated": "2025-06-19T04:53:44.000+00:00"
+}

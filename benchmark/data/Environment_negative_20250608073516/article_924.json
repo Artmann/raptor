@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "3d624fd8d00fc7b328fd18652d706dbe24c8f746",
+    "url": "https://article.wn.com/view/2025/05/08/Train_cars_carrying_flammable_material_derail_in_Avoyelles_P",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/environment",
+    "site_categories": ["media"],
+    "section_title": "World News - Environment",
+    "site_title": "World News",
+    "title": "Train cars carrying flammable material derail in Avoyelles Parish - Worldnews.com",
+    "title_full": "Train cars carrying flammable material derail in Avoyelles Parish - Worldnews.com",
+    "published": "2025-05-08T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4256,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3d624fd8d00fc7b328fd18652d706dbe24c8f746",
+  "url": "https://article.wn.com/view/2025/05/08/Train_cars_carrying_flammable_material_derail_in_Avoyelles_P",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T03:00:00.000+03:00",
+  "title": "Train cars carrying flammable material derail in Avoyelles Parish - Worldnews.com",
+  "text": "The derailment of a train carrying flammable chemicals Tuesday morning forced the closure of three central Louisiana schools and La. 1 and the evacuations of nearby homes for several hours, and led to conflicting reports about leaking materials. read full story",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Environment", "Social Issue"],
+  "topics": [
+    "Disaster and Accident->fire",
+    "Disaster and Accident->transportation accident and incident",
+    "Environment->environmental pollution",
+    "Environment->hazardous materials",
+    "Environment->sustainability",
+    "Social Issue->discrimination",
+    "Social Issue->social problem",
+    "Social Issue->public housing"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.theadvocate.com/baton_rouge/news/environment/train-cars-carrying-flammable-material-derail-in-avoyelles/article_11df134c-c4ed-47e1-ab7c-2e733c84f1bd.html",
+    "https://theadvocate.com/baton_rouge/news/environment/train-cars-carrying-flammable-material-derail-in-avoyelles/article_11df134c-c4ed-47e1-ab7c-2e733c84f1bd.html"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:45:25.416+03:00",
+  "updated": "2025-05-08T03:57:09.000+00:00"
+}

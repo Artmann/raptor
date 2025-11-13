@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "7367a2bfa1da1b754fea39678c42badc0cf552a1",
+    "url": "https://www.163.com/dy/article/K9O3VHE40517BMJU.html",
+    "site_full": "www.163.com",
+    "site": "163.com",
+    "site_section": "https://www.163.com/war",
+    "site_categories": [
+      "top_news_vn",
+      "top_news_th",
+      "top_news_nz",
+      "top_news_rs",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news_hk",
+      "top_news_my",
+      "top_news"
+    ],
+    "section_title": "网易",
+    "site_title": "网易",
+    "title": "登上《自然》！DeepSeek-R1训练方法发布|数学|推理|编程|deepseek_网易订阅",
+    "title_full": "登上《自然》！DeepSeek-R1训练方法发布|数学|推理|编程|deepseek_网易订阅",
+    "published": "2025-09-18T06:58:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 537,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7367a2bfa1da1b754fea39678c42badc0cf552a1",
+  "url": "https://www.163.com/dy/article/K9O3VHE40517BMJU.html",
+  "ord_in_thread": 0,
+  "author": "网易",
+  "published": "2025-09-18T06:58:00.000+03:00",
+  "title": "登上《自然》！DeepSeek-R1训练方法发布|数学|推理|编程|deepseek_网易订阅",
+  "text": "数据是个宝\n数据宝\n投资少烦恼\nDeepSeek-AI团队梁文锋及其同事17日在《自然》杂志上发表了开源人工智能（AI）模型DeepSeek-R1所采用的大规模推理模型训练方法。研究表明， 大语言模型（LLM）的推理能力可通过纯强化学 习 来提升 ，从而减少增强性能所需的人类输入工作量。训练出的模型在数学、编程竞赛和STEM领域研究生水平问题等任务上，比传统训练的LLM表现更好。\nDeepSeek-R1包含一个在人类监督下的深入训练阶段，以优化推理过程。梁文锋团队报告称，该模型使用了强化学习而非人类示例来开发推理步骤，减少了训练成本和复杂性。DeepSeek-R1在被展示优质的问题解决案例后，会获得一个模板来产生推理过程，即这一模型通过解决问题获得奖励，从而强化学习效果。团队总结说， 未来研究可以聚焦优化奖励过程，以确保推理和任务结果更可靠。\n在评估AI表现的数学基准测试中，DeepSeek-R1-Zero和DeepSeek-R1得分分别为77.9%和79.8%，在编程竞赛及研究生水平的生物学、物理和化学问题上同样表现优异。\n来源：科创板日报、人民日报\n声明：数据宝所有资讯内容不构成投资建议，股市有风险，投资需谨慎。\n责编：何予\n校对：李凌锋\n数据宝",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Education", "Health"],
+  "topics": [
+    "Science and Technology->biomedical science",
+    "Science and Technology->scientific research",
+    "Science and Technology->scientific publication",
+    "Education->educational testing and examinations",
+    "Education->educational grading",
+    "Education->college and university",
+    "Health->medical specialisation",
+    "Health->health treatment and procedure",
+    "Health->health organisation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_vn",
+      "top_news_th",
+      "top_news_nz",
+      "top_news_rs",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news_hk",
+      "top_news_my",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:15:18.574+03:00",
+  "updated": "2025-09-19T10:09:36.000+03:00"
+}

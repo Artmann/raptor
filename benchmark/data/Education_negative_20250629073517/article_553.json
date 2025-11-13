@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "1020c669533b3317d37368e28bb403a43fc01a95",
+    "url": "https://www.augsburger-allgemeine.de/landsberg/iglinger-eltern-muessen-mehr-fuer-die-kinderbetreuung-zahlen-110100774",
+    "site_full": "www.augsburger-allgemeine.de",
+    "site": "augsburger-allgemeine.de",
+    "site_section": "https://augsburger-allgemeine.de/landsberg",
+    "site_categories": [
+      "media",
+      "job_search",
+      "jobs",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "Landsberg: News &amp; Nachrichten aktuell | Landsberger Tagblatt",
+    "site_title": "Augsburger Allgemeine: Aktuelle Nachrichten und Hintergründe",
+    "title": "Iglinger Eltern müssen mehr für die Kinderbetreuung zahlen",
+    "title_full": "Iglinger Eltern müssen mehr für die Kinderbetreuung zahlen",
+    "published": "2025-06-26T12:34:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://images.mgpd.de/img/110169889/crop/c16_9-w1200/1402304204/828940420/starud009.jpg",
+    "performance_score": 0,
+    "domain_rank": 5750,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1020c669533b3317d37368e28bb403a43fc01a95",
+  "url": "https://www.augsburger-allgemeine.de/landsberg/iglinger-eltern-muessen-mehr-fuer-die-kinderbetreuung-zahlen-110100774",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T12:34:00.000+03:00",
+  "title": "Iglinger Eltern müssen mehr für die Kinderbetreuung zahlen",
+  "text": "Der Gemeinderat Igling hat eine neue, nach oben korrigierte Gebührenordnung für die Kindertageseinrichtungen der Gemeinde beschlossen. Nach nur einem Jahr kommen damit ab 1. September 2025 auf die Eltern von Krippen- und Kindergartenkindern erneut höhere Kosten zu. Wie Bürgermeister Günter Först ausführt, haben im Vorfeld viele Gespräche mit Elternbeirat und Eltern stattgefunden und es seien Vorschläge diskutiert worden. Dabei sei unter anderem richtiggestellt worden, dass die Erhöhung nicht mit dem Krippenneubau in Zusammenhang steht. Bauliches sei Aufgabe der Kommune. Elternbeiträge seien für den laufenden Unterhalt bestimmt. Ins Gewicht fallen vor allem die stark gestiegenen Personalkosten. Seit Jahren schon werde das Defizit, das die Gemeinde übernehmen muss, größer. Dieses Problem habe nicht nur Igling – überall werde geklagt. „Die Gemeinden müssen entlastet werden“, so Först. Das sei bereits mehrfach Thema gewesen bei Bürgermeisterdienstbesprechungen und dem Bayerischen Gemeindetag.\nFür die Betreuung für vier bis fünf Stunden pro Tag werden für die Kinderkrippe 310 statt bisher 260 Euro pro Monat fällig. Bei Kindergartennutzung sind es 225 statt bisher 172 Euro. Für sechs bis sieben Stunden täglich bezahlen Eltern von Krippenkindern dann 390 Euro (bislang 310 Euro), der Kindergartenplatz kostet statt 204 dann 275 Euro. Die Gebührenschritte innerhalb der neuen Ordnung sind zwischen geringeren Buchungszeiten bei der Krippe 30 und 50 Euro, beim Kindergarten 25 und 35 Euro.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Politics"],
+  "topics": [
+    "Education->early childhood education",
+    "Education->state school",
+    "Education->parents group",
+    "Social Issue->child care",
+    "Social Issue->social services",
+    "Social Issue->parenting",
+    "Politics->government policy",
+    "Politics->local government and authority"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Günter Först",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T12:58:42.132+03:00",
+  "updated": "2025-06-26T10:11:17.000+00:00"
+}

@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "40f2e31251c2bb4eaf566e95bc9798bf390a48b1",
+    "url": "https://article.wn.com/view/2025/01/23/Bill_Belichicks_North_Carolina_debut_against_TCU_slotted_for",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/football",
+    "site_categories": ["media"],
+    "section_title": "World News - Football",
+    "title": "Bill Belichick's North Carolina debut against TCU slotted for prime-time Monday night kickoff - Worldnews.com",
+    "title_full": "Bill Belichick's North Carolina debut against TCU slotted for prime-time Monday night kickoff - Worldnews.com",
+    "published": "2025-01-23T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3682,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "40f2e31251c2bb4eaf566e95bc9798bf390a48b1",
+  "url": "https://article.wn.com/view/2025/01/23/Bill_Belichicks_North_Carolina_debut_against_TCU_slotted_for",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2025-01-23T02:00:00.000+02:00",
+  "title": "Bill Belichick's North Carolina debut against TCU slotted for prime-time Monday night kickoff - Worldnews.com",
+  "text": "The time and date for Bill Belichick's official North Carolina debut are set. The Tar Heels will host TCU at 7:30 p.m. ET on Monday, Sept. 1 -- Labor Day -- on ESPN, the ACC announced Thursday. That means Belichick, who has generated plenty of buzz after embarking on the first collegiate coaching challenge of his",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->american football",
+    "Sport->sport event",
+    "Sport->sports coaching",
+    "Lifestyle and Leisure->exercise and fitness",
+    "Lifestyle and Leisure->game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Bill Belichick",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "TCU",
+        "sentiment": "negative"
+      },
+      {
+        "name": "ESPN",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:11:10.036+02:00",
+  "updated": "2025-01-24T00:11:10.036+02:00"
+}

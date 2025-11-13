@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "805d056c08758d1c808ffa72973247794ba739f9",
+    "url": "https://www.nbd.com.cn/articles/2025-05-08/3868052.html",
+    "site_full": "www.nbd.com.cn",
+    "site": "nbd.com.cn",
+    "site_section": "http://www.nbd.com.cn/",
+    "site_categories": ["media"],
+    "section_title": "每经网 | 新闻决定影响力 |《每日经济新闻》报社旗下网站",
+    "site_title": "每经网 | 新闻决定影响力 |《每日经济新闻》报社旗下网站",
+    "title": "上海发布大风黄色预警 将有8至10级大风 | 每经网",
+    "title_full": "上海发布大风黄色预警 将有8至10级大风 | 每经网",
+    "published": "2025-05-08T04:59:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 16449,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "805d056c08758d1c808ffa72973247794ba739f9",
+  "url": "https://www.nbd.com.cn/articles/2025-05-08/3868052.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T04:59:00.000+03:00",
+  "title": "上海发布大风黄色预警 将有8至10级大风 | 每经网",
+  "text": "每经AI快讯，上海中心气象台5月8日9时30分发布大风黄色预警信号：预计未来24小时内上海将出现8—10级大风，请加强防范大风对高空作业、交通出行、设施农业等的不利影响。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment", "Social Issue"],
+  "topics": [
+    "Weather->weather warning",
+    "Environment->climate change",
+    "Social Issue->demographics",
+    "Social Issue->population and census",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:57:06.518+03:00",
+  "updated": "2025-05-08T03:03:39.000+00:00"
+}

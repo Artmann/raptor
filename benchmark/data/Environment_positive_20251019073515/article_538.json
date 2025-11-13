@@ -1,0 +1,150 @@
+{
+  "thread": {
+    "uuid": "aecf28ec95f8484ee06c6d7daf8a66ef6827f61f",
+    "url": "https://www.cnbc.com/video/2025/10/16/vexler-theres-been-a-huge-demand-for-nuclear-power-around-the-world.html",
+    "site_full": "www.cnbc.com",
+    "site": "cnbc.com",
+    "site_section": "https://www.cnbc.com/video",
+    "site_categories": [
+      "financial_news",
+      "finance",
+      "top_news_nz",
+      "top_news_au",
+      "top_news_ae",
+      "top_news_us",
+      "top_news_tw",
+      "top_news_gb",
+      "top_news_th",
+      "top_news_kr",
+      "top_news_sg",
+      "top_news_ph",
+      "top_news_hk",
+      "top_news_qa",
+      "top_news_ie",
+      "top_news_pk",
+      "top_news_dk",
+      "top_news_za",
+      "top_news_my",
+      "top_news_il",
+      "top_news_kw",
+      "top_news_ca",
+      "top_news_iq",
+      "top_news"
+    ],
+    "section_title": "CNBC Latest Video News &amp; Clips",
+    "site_title": "International Business, World News &amp; Global Stock Market Analysis",
+    "title": "Vexler: There's been a huge demand for nuclear power around the world",
+    "title_full": "Vexler: There's been a huge demand for nuclear power around the world",
+    "published": "2025-10-16T14:47:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://image.cnbcfm.com/api/v1/image/108212888-5ED1-WEX-101625-Amir.jpg?v=1760615246&amp;w=1920&amp;h=1080",
+    "performance_score": 0,
+    "domain_rank": 438,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "aecf28ec95f8484ee06c6d7daf8a66ef6827f61f",
+  "url": "https://www.cnbc.com/video/2025/10/16/vexler-theres-been-a-huge-demand-for-nuclear-power-around-the-world.html",
+  "ord_in_thread": 0,
+  "author": "@CNBC",
+  "published": "2025-10-16T14:47:00.000+03:00",
+  "title": "Vexler: There's been a huge demand for nuclear power around the world",
+  "text": "Amir Vexler, CEO of Centrus Energy, says the company is expanding uranium enrichment to meet global nuclear demand as the U.S. phases out Russian supply and electrification drives new energy needs. 03:41 17 minutes ago",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Environment"],
+  "topics": [
+    "Science and Technology->scientific exploration",
+    "Science and Technology->technology and engineering",
+    "Environment->energy resources"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Amir Vexler",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Centrus Energy",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "LEU",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [
+      "top_news_nz",
+      "top_news_au",
+      "top_news_ae",
+      "top_news_us",
+      "top_news_tw",
+      "top_news_gb",
+      "top_news_th",
+      "top_news_kr",
+      "top_news_sg",
+      "top_news_ph",
+      "top_news_hk",
+      "top_news_qa",
+      "top_news_ie",
+      "top_news_pk",
+      "top_news_dk",
+      "top_news_za",
+      "top_news_my",
+      "top_news_il",
+      "top_news_kw",
+      "top_news_ca",
+      "top_news_iq",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:06:44.598+03:00",
+  "updated": "2025-10-17T16:19:29.000+03:00"
+}

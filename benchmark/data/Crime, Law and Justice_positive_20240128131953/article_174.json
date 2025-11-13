@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "84d14badac0e69b6f2f10fbca788cd48b79ba80f",
+    "url": "https://news.hitb.org/content/researchers-come-better-idea-prevent-airtag-stalking",
+    "site_full": "news.hitb.org",
+    "site": "hitb.org",
+    "site_section": "https://news.hitb.org/rss.xml",
+    "site_categories": ["social"],
+    "section_title": "HITBSecNews - Keeping Knowledge Free for Over a Decade",
+    "title": "Researchers come up with better idea to prevent AirTag stalking",
+    "title_full": "Researchers come up with better idea to prevent AirTag stalking",
+    "published": "2023-12-29T01:47:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://news.hitb.org/sites/default/files/2023-12/airtag-list-800x533.jpg",
+    "performance_score": 0,
+    "domain_rank": 47968,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "84d14badac0e69b6f2f10fbca788cd48b79ba80f",
+  "url": "https://news.hitb.org/content/researchers-come-better-idea-prevent-airtag-stalking",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "L",
+  "published": "2023-12-29T01:47:00.000+02:00",
+  "title": "Researchers come up with better idea to prevent AirTag stalking",
+  "text": "Researchers come up with better idea to prevent AirTag stalking Apple's AirTags are meant to help you effortlessly find your keys or track your luggage. But the same features that make them easy to deploy and inconspicuous in your daily life have also allowed them to be abused as a sinister tracking tool that domestic abusers and criminals can use to stalk their targets. Over the past year, Apple has taken protective steps to notify iPhone and Android users if an AirTag is in their vicinity for a significant amount of time without the presence of its owner's iPhone, which could indicate that an AirTag has been planted to secretly track their location. Apple hasn't said exactly how long this time interval is, but to create the much-needed alert system, Apple made some crucial changes to the location privacy design the company originally developed a few years ago for its “Find My” device tracking feature. Researchers from Johns Hopkins University and the University of California, San Diego, say, though, that they've developed a cryptographic scheme to bridge the gap—prioritizing detection of potentially malicious AirTags while also preserving maximum privacy for AirTag users. The Find My system uses both public and private cryptographic keys to identify individual AirTags and manage their location tracking. But Apple developed a particularly thoughtful mechanism to regularly rotate the public device identifier—every 15 minutes, according to the researchers. This way, it would be much more difficult for someone to track your location over time using a Bluetooth scanner to follow the identifier around. This worked well for privately tracking the location of, say, your MacBook if it was lost or stolen, but the downside of constantly changing this identifier for AirTags was that it provided cover for the tiny devices to be deployed abusively.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "apple",
+        "sentiment": "negative"
+      },
+      {
+        "name": "johns hopkins university",
+        "sentiment": "none"
+      },
+      {
+        "name": "airtag",
+        "sentiment": "none"
+      },
+      {
+        "name": "university of california",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "san diego",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T05:27:03.189+02:00",
+  "updated": "2024-01-20T18:14:55.363+02:00"
+}

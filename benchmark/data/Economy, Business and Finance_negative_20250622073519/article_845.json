@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "26990c728f1b93b04cb311134c7a27910a807189",
+    "url": "https://www.etnet.com.hk/www/tc/news/categorized_news_detail.php?newsid=ETN350619729&page=1&category=latest",
+    "site_full": "www.etnet.com.hk",
+    "site": "etnet.com.hk",
+    "site_section": "https://etnet.com.hk/www/tc/news/categorized_news.php",
+    "site_categories": ["javascript", "tech"],
+    "section_title": "即時新聞 Stock News - 股票 股市 財經 - etnet 經濟通|香港新聞財經資訊和生活平台",
+    "site_title": "etnet 經濟通|香港新聞財經資訊和生活平台",
+    "title": "信義光能曾跌逾3%失守20天線，現報2.38元 - etnet 經濟通|香港新聞財經資訊和生活平台",
+    "title_full": "信義光能曾跌逾3%失守20天線，現報2.38元 - etnet 經濟通|香港新聞財經資訊和生活平台",
+    "published": "2025-06-19T06:23:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "HK",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 36174,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "26990c728f1b93b04cb311134c7a27910a807189",
+  "url": "https://www.etnet.com.hk/www/tc/news/categorized_news_detail.php?newsid=ETN350619729&page=1&category=latest",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-19T06:23:00.000+03:00",
+  "title": "信義光能曾跌逾3%失守20天線，現報2.38元 - etnet 經濟通|香港新聞財經資訊和生活平台",
+  "text": "信義光能(00968)曾跌逾3%，最低價見2.37元，跌穿20天線（2.422元），現跌2.9%，報2.38元，最高價2.47元；成交2109萬股，成交金額5096萬元；主動買沽比率21:79，資金淨主動賣出2962萬元。現時最大淨被動買入券商為中國投資信息，金額745.86萬元，加權平均成交價2.405元；現時最大淨被動賣出券商為瑞銀，金額58.24萬元，加權平均成交價2.447元。以現價計，該股暫連跌2日，累計跌幅3.3%。\n　　現時，恒生指數報23308，跌401點或1.7%。\n基本資料 現價 2.380 變動 -2.86% 最高價 2.470 最低價 2.370 成交股數 2109萬股 成交金額 5096萬 10天平均 2.467 歷史波幅% 29.113 20天平均 2.422 加權平均價 2.416 50天平均 2.499 RSI14 41.377 股份狀態:跌穿20天線；主動買沽比率21:79，資金淨主動賣出2962萬元；暫連跌2日，累計跌幅3.3%\n表列同板塊或相關股份表現 股份(編號) 現價(元) 變幅(%) 信義光能(00968) 2.380 -2.86 協合新能源(00182) 0.475 -2.06 協鑫新能源(00451) 0.435 -2.25 北京能源國際(00686) 1.230 -3.91 水發興業能源(00750) 0.255 -1.92 陽光能源(00757) 0.069 -2.82 山高新能源(01250) 1.610 無升跌 新特能源(01799) 4.630 -2.32 協鑫科技(03800) 0.850 -2.30 信義能源(03868) 1.020 -3.77\n《經濟通通訊社19日專訊》 【你點睇？】中東局勢再趨緊張，以色列伊朗互相攻擊，你認為局勢會否升級？ ► 立即投票",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Crime, Law and Justice",
+    "Social Issue"
+  ],
+  "topics": [
+    "Economy, Business and Finance->financial service",
+    "Economy, Business and Finance->business reporting and performance",
+    "Economy, Business and Finance->market and exchange",
+    "Social Issue->demographics",
+    "Social Issue->population and census",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:41:12.364+03:00",
+  "updated": "2025-06-19T04:46:25.000+00:00"
+}

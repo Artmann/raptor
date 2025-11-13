@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "722dcee9953df77e3ac5fbafe52d47ddfe0a0818",
+    "url": "https://www.waz.de/lokales/duisburg/article409356768/heimliche-videos-und-chats-lehrer-ringen-mit-dem-tatort-handy.html",
+    "site_full": "www.waz.de",
+    "site": "waz.de",
+    "site_section": "https://www.nrz.de/lokales/wuppertal",
+    "site_categories": ["media", "top_news_de", "top_news"],
+    "section_title": "Hier zu Hause - nrz.de",
+    "site_title": "WAZ | Westdeutsche Allgemeine Zeitung",
+    "title": "Heimliche Videos und Chats: Lehrer ringen mit dem Tatort Handy",
+    "title_full": "Heimliche Videos und Chats: Lehrer ringen mit dem Tatort Handy",
+    "published": "2025-06-26T13:36:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://img.sparknews.funkemedien.de/407514532/407514532_1750934205_v16_9_1600.jpeg",
+    "performance_score": 0,
+    "domain_rank": 12957,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "722dcee9953df77e3ac5fbafe52d47ddfe0a0818",
+  "url": "https://www.waz.de/lokales/duisburg/article409356768/heimliche-videos-und-chats-lehrer-ringen-mit-dem-tatort-handy.html",
+  "ord_in_thread": 0,
+  "author": "Martin Schroers",
+  "published": "2025-06-26T13:36:00.000+03:00",
+  "title": "Heimliche Videos und Chats: Lehrer ringen mit dem Tatort Handy",
+  "text": "Duisburg. Lehrer aus Duisburg berichten: In 80 Prozent der „Problemfälle“ in Schulen spielen Handys eine Rolle. Es geht um Chats und heimlich aufgenommene Videos.\nTextToSpeechModule\nDuisburg. Lehrer aus Duisburg berichten: In 80 Prozent der „Problemfälle“ in Schulen spielen Handys eine Rolle. Es geht um Chats und heimlich aufgenommene Videos.\nKennen Sie schon unsere PLUS-Inhalte?\n Jetzt\nWAZ\ntesten",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->teachers",
+    "Education->school",
+    "Education->students",
+    "Social Issue->social services",
+    "Social Issue->social problem",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Duisburg",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "TextToSpeechModule\nDuisburg",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T13:44:04.718+03:00",
+  "updated": "2025-06-27T11:08:07.000+00:00"
+}

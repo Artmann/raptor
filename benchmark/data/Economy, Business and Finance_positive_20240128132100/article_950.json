@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "3c869259324a710d5d263098ec7c8d087efba1f5",
+    "url": "https://www.koreatimes.co.kr/www/tech/2023/12/419_365961.html",
+    "site_full": "www.koreatimes.co.kr",
+    "site": "koreatimes.co.kr",
+    "site_section": "https://www.koreatimes.co.kr/www/index.asp",
+    "site_categories": ["social"],
+    "section_title": "The Korea Times",
+    "title": "DSF L&I wins Korea ESG Award for reusable cups and containers - The Korea Times",
+    "title_full": "DSF L&I wins Korea ESG Award for reusable cups and containers - The Korea Times",
+    "published": "2023-12-29T02:40:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "KR",
+    "main_image": "https://img.koreatimes.co.kr/upload/thumbnailV2/599a1cd3d01b4678b49f0f40f6480964.png",
+    "performance_score": 0,
+    "domain_rank": 3230,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3c869259324a710d5d263098ec7c8d087efba1f5",
+  "url": "https://www.koreatimes.co.kr/www/tech/2023/12/419_365961.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jhoo Dong-chan",
+  "published": "2023-12-29T02:40:00.000+02:00",
+  "title": "DSF L&I wins Korea ESG Award for reusable cups and containers - The Korea Times",
+  "text": "DSF L&I CEO Park Nam, fifth from left, poses with New Paradigm Institute head Mun Kuk-hyon, fourth from left, and Korean ESG Association President Koo Mun-hyeon, third from right, during the Korea ESG Awards event in Seoul, Dec. 26. Courtesy of DSF L&I\nBy Jhoo Dong-chan DSF L&I won the 1st Korea ESG Award in the small- and medium-sized manufacturer category, the company said in a press release, Tuesday.\nThe logistics service provider emphasized its commitment to fostering an ESG culture, citing initiatives such as the development of reusable cups and a container circulation service utilizing Near Field Communication technology.\n“We are a pioneer in the sector,” said a DSF L&I official. “Our commitment to carbon reduction in the consumer sector is evident through our extensive production of reusable cups and containers.”\nThe company added it is also satisfying the EU’s supply chain due diligence and the U.S.’s climate disclosures in logistics where a number of domestic firms are still experiencing difficulties.\nThis year’s Korea ESG Awards was hosted by the Korean ESG Association jointly with the National Assembly ESG Forum. A number of domestic organizations, including the Korea Automobile Environment Association, also sponsored the event.\njhoo@koreatimes.co.kr More articles by this reporter",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment", "Economy, Business and Finance"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "park nam",
+        "sentiment": "negative"
+      },
+      {
+        "name": "mun kuk-hyon",
+        "sentiment": "negative"
+      },
+      {
+        "name": "jhoo dong-chan dsf l&i",
+        "sentiment": "none"
+      },
+      {
+        "name": "koo mun-hyeon",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "new paradigm institute",
+        "sentiment": "negative"
+      },
+      {
+        "name": "dsf l&i",
+        "sentiment": "negative"
+      },
+      {
+        "name": "eu",
+        "sentiment": "none"
+      },
+      {
+        "name": "korean esg association",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "korea",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "seoul",
+        "sentiment": "none"
+      },
+      {
+        "name": "esg",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T02:44:51.259+02:00",
+  "updated": "2023-12-29T02:44:51.259+02:00"
+}

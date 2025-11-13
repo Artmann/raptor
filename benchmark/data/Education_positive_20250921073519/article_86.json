@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "cfb18ee0ae4a5e0dc8fbcc7fd89543eb27fc61fa",
+    "url": "https://eburg.mk.ru/social/2025/09/18/v-ekaterinburge-za-poslednie-pyat-let-otremontirovali-14-shkol.html",
+    "site_full": "eburg.mk.ru",
+    "site": "mk.ru",
+    "site_section": "https://www.mk.ru/rss/index.xml",
+    "site_categories": ["media", "top_news_ru", "top_news"],
+    "section_title": "Все материалы - Московский Комсомолец",
+    "site_title": "Новости Екатеринбурга и Свердловской области - МК-Урал",
+    "title": "В Екатеринбурге за последние пять лет отремонтировали 14 школ",
+    "title_full": "В Екатеринбурге за последние пять лет отремонтировали 14 школ",
+    "published": "2025-09-18T05:28:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://static.mk.ru/upload/entities/2025/09/17/18/articles/facebookPicture/4c/b6/4c/e4/e39e9020452a8bc7bab1d22afd5a2822.jpg",
+    "performance_score": 0,
+    "domain_rank": 3207,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cfb18ee0ae4a5e0dc8fbcc7fd89543eb27fc61fa",
+  "url": "https://eburg.mk.ru/social/2025/09/18/v-ekaterinburge-za-poslednie-pyat-let-otremontirovali-14-shkol.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T05:28:00.000+03:00",
+  "title": "В Екатеринбурге за последние пять лет отремонтировали 14 школ",
+  "text": "Директор Департамента образования Администрации Екатеринбурга Инна Гумбатова рассказала, что за последние пять лет капитальный ремонт был сделан в зданиях 14 школ и 8 детских садах.\nВ этом учебном году после капитального ремонта свои двери открыли школа № 87 в Чкаловском районе и школа № 72 в Орджоникидзевском. А две школы в Екатеринбурге, наоборот, уходят на капитальный ремонт: школы №№ 69 и 52. Также будут обновлены здания трех детских садов: №№ 12, 188 и 485.\nИнна Гумбатова отметила, что в этом году было отремонтировано два стадиона – в школе № 85 и школе № 10. Всего за пять лет было обновлено семь стадионов.\nК началу нового учебного года также были открыты современные пространства в образовательных учреждениях. Одним из них стал первый муниципальный Кванториум на базе лицея № 110 имени Гришиной. Технопарк площадью 350 квадратных метров предлагает ребятам 8 программ обучения.\nВсего 1 сентября в Екатеринбурге начали учебный год более 210 тысяч учащихся, из них – чуть более 18 тысяч – первоклассники. В 377 детских садах начали занятия 78 603 воспитанника.\n«МК-Урал» ранее писал, что многофункциональная спортивная площадка появилась в школе № 10 Ленинского района Екатеринбурга. В торжественном открытии приняли участие заместитель Главы Екатеринбурга Константин Шевченко, директор Департамента образования Администрации Екатеринбурга Инна Гумбатова и глава администрации Ленинского района Элена Беруашвили.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest"],
+  "topics": [
+    "Education->educational grading",
+    "Education->students",
+    "Education->school",
+    "Human Interest->graduation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ru", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:42:30.792+03:00",
+  "updated": "2025-09-18T07:53:08.000+03:00"
+}

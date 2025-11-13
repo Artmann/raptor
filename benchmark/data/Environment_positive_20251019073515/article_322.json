@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "80cac8a94b409e89af09cbe7625b1be1e703e349",
+    "url": "https://www.novinite.com/articles/234925/Wind+and+Solar+Surpass+Coal%3A+A+Global+Turning+Point+and+What+It+Means+for+Bulgaria",
+    "site_full": "www.novinite.com",
+    "site": "novinite.com",
+    "site_section": "https://thebusinessgazetteonline.com/latest-news",
+    "site_categories": ["media"],
+    "section_title": "Latest News | The Business Gazette Online",
+    "site_title": "Novinite.com - Sofia News Agency, Bulgarian news in English, EU, world",
+    "title": "Wind and Solar Surpass Coal: A Global Turning Point and What It Means for Bulgaria - Novinite.com - Sofia News Agency",
+    "title_full": "Wind and Solar Surpass Coal: A Global Turning Point and What It Means for Bulgaria - Novinite.com - Sofia News Agency",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BG",
+    "main_image": "https://www.novinite.com/media/images/2025-10/photo_verybig_234925.jpg",
+    "performance_score": 0,
+    "domain_rank": 47664,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "80cac8a94b409e89af09cbe7625b1be1e703e349",
+  "url": "https://www.novinite.com/articles/234925/Wind+and+Solar+Surpass+Coal%3A+A+Global+Turning+Point+and+What+It+Means+for+Bulgaria",
+  "ord_in_thread": 0,
+  "author": "M3 Web - http://m3web.bg",
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "Wind and Solar Surpass Coal: A Global Turning Point and What It Means for Bulgaria - Novinite.com - Sofia News Agency",
+  "text": "Shell and TotalEnergies Win LNG Supply Contracts for Bulgaria’s 2025-2026 Deliveries\nEnergy giants Shell and TotalEnergies will supply liquefied natural gas (LNG) to Bulgaria following a successful tender procedure organized by Bulgargaz",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment", "Economy, Business and Finance"],
+  "topics": [
+    "Environment->sustainability",
+    "Environment->energy resources",
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->energy and resource"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Bulgargaz",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Sofia News Agency",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:25:53.054+03:00",
+  "updated": "2025-10-16T14:42:58.000+03:00"
+}

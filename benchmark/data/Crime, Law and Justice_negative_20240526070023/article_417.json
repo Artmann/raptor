@@ -1,0 +1,145 @@
+{
+  "thread": {
+    "uuid": "c58d7e7b145bc1e57094785da098096ad097185c",
+    "url": "https://abcnews.go.com/US/boeing-crash-victims-families-urge-doj-criminally-prosecute/story?id=109597636",
+    "site_full": "abcnews.go.com",
+    "site": "go.com",
+    "site_section": "http://abcnews.go.com/xmldata/rss?id=4380645",
+    "site_categories": ["media"],
+    "section_title": "ABC News: Top Stories",
+    "title": "Boeing crash victims' families urge DOJ to criminally prosecute company - ABC News",
+    "title_full": "Boeing crash victims' families urge DOJ to criminally prosecute company - ABC News",
+    "published": "2024-04-25T23:45:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://i.abcnewsfe.com/a/b6deae0d-ac11-45b0-920c-f898ad630068/boeing-rt-jt-240423_1713887085970_hpMain_16x9.jpg?w=1600",
+    "performance_score": 0,
+    "domain_rank": 142,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c58d7e7b145bc1e57094785da098096ad097185c",
+  "url": "https://abcnews.go.com/US/boeing-crash-victims-families-urge-doj-criminally-prosecute/story?id=109597636",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Leah Sarnoff",
+  "published": "2024-04-25T23:45:00.000+03:00",
+  "title": "Boeing crash victims' families urge DOJ to criminally prosecute company - ABC News",
+  "text": "In this July 20, 2022, file photo, a Boeing 737 Max aircraft is shown during a display at the Farnborough International Airshow, in Farnborough, England. Peter Cziborra/Reuters, FILE The families of victims who died in one of two fatal Boeing 737 MAX 8 crashes met with Department of Justice officials Wednesday regarding the looming decision to prosecute or dismiss charges against the company.\nThe fatal Boeing crashes in October 2018 and March 2019 killed 346 people. Family members of victims of the 2019 crash in Ethiopia met with prosecutors in Washington D.C. Wednesday.\nThe first crash on Oct. 29, 2018, in Jakarta, Indonesia , killed all 189 passengers and crew.\nMORE: Amid Boeing safety probe, clock ticks on effort to disclose details of 2021 DOJ deal over 737 Max crashes\nThe second crash, on March 10, 2019, happened in Addis Ababa, Ethiopia, when a Boeing aircraft crashed minutes after takeoff and killed 157 people onboard .\nIn this July 20, 2022, file photo, a Boeing 737 Max aircraft is shown during a display at the Farnborough International Airshow, in Farnborough, England. Peter Cziborra/Reuters, FILE Both crashes preceded the Alaska Airlines incident earlier this year, when a door plug fell out of the fuselage of a Boeing 737 Max 9, a newer model, after departure.\nAfter a five-hour meeting on Wednesday, lawyers for the families of some of the victims said that they received no additional information about whether the Justice Department will be moving to dismiss charges against Boeing after the deferred prosecution agreement (DPA) it reached with the company.\nLawyers for the families also said they were not given specific information about how prosecutors are investigating the Alaska Airlines blowout.\nIn 2021, the DOJ charged Boeing with \"conspiracy to defraud the United States,\" after a lengthy investigation that the company knowingly misled regulators while seeking approval for its 737 MAX aircraft.\nBoeing entered into the deferred prosecution agreement worth $2.5 billion consisting of a $243 million criminal penalty, $500 million to relatives who lost loved ones and $1.77 billion to global airlines affected by the MAX groundings.\nThe government has until July 7 to decide whether to move to dismiss the criminal case, to extend the agreement or to proceed with a prosecution.\nMORE: 'This is the end': Alaska Airlines passengers sue over door plug blowout\nAttorney Paul G. Cassell told reporters Wednesday, \"The meetings with the Department of Justice were what we feared -- all for show and without substance.\"\n\"It is clear that they are only interested in seeing through the rigged Deferred Prosecution Agreement they brokered with Boeing without the involvement of the very families whose lives were shattered due to the company's fraud and misconduct,\" Cassell claimed.\n\"We will pursue every avenue to continue our challenge of the DPA and ensure Boeing is truly held accountable,\" he said.\nMORE: Boeing safety culture under scrutiny during Senate committee hearing\nCassell told ABC News if the DOJ does drop the charges against Boeing, they will \"aggressively fight Boeing in the Northern District of Texas and any other court if needed.\"\n\"Remember, Boeing has already admitted and committed a crime, their charges have been filed in Texas,\" Cassell said. \"We simply want that case to move forward and let the jury decide whether Boeing is a criminal or not.\"\nBoeing declined ABC News' request for comment.\nBoeing CEO Dave Calhoun, who announced he would step down at the end of the year, said after the January incident, \"Whatever final conclusions are reached, Boeing is accountable for what happened. An event like this must not happen on an airplane that leaves our factory.\"\nThe meeting on Wednesday comes on the same day Boeing announced it lost $355 million on falling revenue in the first quarter, signaling further strains on the aerospace company.\nABC News' James Hill contributed to this report.\nRelated Topics Boeing Airlines",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "max",
+        "sentiment": "negative"
+      },
+      {
+        "name": "peter",
+        "sentiment": "none"
+      },
+      {
+        "name": "peter cziborra",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "boeing",
+        "sentiment": "negative"
+      },
+      {
+        "name": "abc news in",
+        "sentiment": "negative"
+      },
+      {
+        "name": "doj",
+        "sentiment": "negative"
+      },
+      {
+        "name": "farnborough international airshow",
+        "sentiment": "none"
+      },
+      {
+        "name": "international airshow",
+        "sentiment": "none"
+      },
+      {
+        "name": "reuters",
+        "sentiment": "none"
+      },
+      {
+        "name": "department of justice",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "farnbo",
+        "sentiment": "none"
+      },
+      {
+        "name": "jakarta",
+        "sentiment": "none"
+      },
+      {
+        "name": "england",
+        "sentiment": "none"
+      },
+      {
+        "name": "addis ababa",
+        "sentiment": "none"
+      },
+      {
+        "name": "farnborough",
+        "sentiment": "none"
+      },
+      {
+        "name": "washington d.c.",
+        "sentiment": "none"
+      },
+      {
+        "name": "ethiopia",
+        "sentiment": "none"
+      },
+      {
+        "name": "indonesia",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:17:08.730+03:00",
+  "updated": "2024-04-26T00:17:08.730+03:00"
+}

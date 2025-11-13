@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "bc66fa34e280ee204ee175f51e8dba2600d5e195",
+    "url": "https://news.sciencenet.cn/htmlnews/2025/6/546116.shtm",
+    "site_full": "news.sciencenet.cn",
+    "site": "sciencenet.cn",
+    "site_section": "http://www.sciencenet.cn/xml/news-0.aspx?news=0",
+    "site_categories": ["science", "education", "media"],
+    "section_title": "科学网新闻RSS——首页头条",
+    "site_title": null,
+    "title": "OpenAI面临人才保卫战？Meta曾开价1亿美元挖人",
+    "title_full": "OpenAI面临人才保卫战？Meta曾开价1亿美元挖人",
+    "published": "2025-06-19T07:37:44.416+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 10230,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bc66fa34e280ee204ee175f51e8dba2600d5e195",
+  "url": "https://news.sciencenet.cn/htmlnews/2025/6/546116.shtm",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-19T07:37:44.416+03:00",
+  "title": "OpenAI面临人才保卫战？Meta曾开价1亿美元挖人",
+  "text": "中新网6月19日电(吴家驹)据CNBC报道，OpenAI首席执行官山姆·奥特曼(Sam Altman)表示，Meta试图通过提供高达1亿美元的签约奖金和更高的年薪来挖走OpenAI的员工。\n在一档播客节目中，奥特曼表示，虽然Meta试图从OpenAI挖走“很多人”，但“到目前为止，我们最优秀的人才还没有决定接受他们的邀请”。\n“我听说Meta将我们视为他们最大的竞争对手。他们目前在人工智能领域做出的努力，并没有像他们希望的那样奏效，我尊重他们积极进取、不断尝试新事物的做法。”奥特曼说。\nMeta首席执行官马克·扎克伯格(Mark Zuckerberg)正试图亲自为其“超级智能”人工智能实验室，组建一支顶级人工智能团队，并通过其Meta人工智能研究部门，在人工智能领域投入了大量资金，该部门还负责监督Meta的Llama系列开源大语言模型。\n上周，Scale AI创始人亚历山大·王(Alexandr Wang)宣布，他将离职加入Meta，这是Meta以143亿美元收购这家人工智能初创公司49%股份交易的一部分。王补充说，作为协议的一部分，Scale AI的少数员工也将加入Meta。据《纽约时报》报道，王将领导一个研究实验室，研究“超级智能”，即超越人类智能的人工智能系统。\n彭博社报道称，Meta最近还挖走了其他顶尖人才，包括谷歌DeepMind首席研究员杰克·雷(Jack Rae)。报道还称，扎克伯格直接参与了招聘工作。\n据CNBC报道，OpenAI新任招聘主管华金·基尼奥内罗·坎德拉(Joaquín Qui?onero Candela)此前表示，人工智能领域的创新速度，使得OpenAI等企业争夺顶尖人才的压力与日俱增。招聘工作从未像现在这样重要，OpenAI正面临前所未有的增长压力。(完)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance"],
+  "topics": [
+    "Economy, Business and Finance->human resources",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->corporate news and profiles"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:37:44.416+03:00",
+  "updated": "2025-06-19T04:41:07.000+00:00"
+}

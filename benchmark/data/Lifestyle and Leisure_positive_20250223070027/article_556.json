@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "4986c19e521f4c6cf3198d211a5a59d36dbde00d",
+    "url": "https://www.latercera.com:443/la-tercera-tv/noticia/esto-es-bueno-asi-reacciono-speed-al-probar-un-completo-italiano-en-el-centro-de-santiago/MRPOPJPBFFA4FGOK7WSHIAAVSM",
+    "site_full": "www.latercera.com",
+    "site": "latercera.com",
+    "site_section": "https://latercera.com/canal/la-tercera-tv/",
+    "site_categories": [
+      "media",
+      "top_news_co",
+      "top_news_cl",
+      "top_news_pe",
+      "top_news_mx",
+      "top_news_ve",
+      "top_news"
+    ],
+    "section_title": "La Tercera TV",
+    "title": "¡Esto es bueno!: así reaccionó Speed al probar un completo italiano en el centro de Santiago - La Tercera",
+    "title_full": "¡Esto es bueno!: así reaccionó Speed al probar un completo italiano en el centro de Santiago - La Tercera",
+    "published": "2025-01-24T00:11:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CL",
+    "main_image": "https://www.latercera.com/resizer/v2/CSUQXWPQIJHXTBUTMGUG7ANJ5E.jpg?quality=80&amp;smart=true&amp;auth=a4aec9be2ec0dcb15a2c228506fda4c9cab95dd77ce9594eb5e949b621ea5a20&amp;width=1200&amp;height=630",
+    "performance_score": 0,
+    "domain_rank": 5081,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4986c19e521f4c6cf3198d211a5a59d36dbde00d",
+  "url": "https://www.latercera.com:443/la-tercera-tv/noticia/esto-es-bueno-asi-reacciono-speed-al-probar-un-completo-italiano-en-el-centro-de-santiago/MRPOPJPBFFA4FGOK7WSHIAAVSM",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "latercera.com",
+  "published": "2025-01-24T00:11:00.000+02:00",
+  "title": "¡Esto es bueno!: así reaccionó Speed al probar un completo italiano en el centro de Santiago - La Tercera",
+  "text": "Antonia Inostroza Díaz Hace 3 horas Tiempo de lectura: 1 minuto Este jueves, el famoso creador de contenido, “Speed”, arribó en Chile en medio de su gira por Sudamérica. Entre sus primeros panoramas estuvo ir al reconocido portal Fernández Concha a probar el típico completo italiano, acompañado por el influencer chileno “Pollo\" Castillo. Al parecer, este plato tradicional fue de su total agrado, ya que abrazó y felicitó al chef.\ncompartir Comentarios Comenta Los comentarios en esta sección son exclusivos para suscriptores. Suscríbete aquí.\nImperdibles",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Lifestyle and Leisure", "Human Interest"],
+  "topics": [
+    "Lifestyle and Leisure->organic food",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://rudo.video/vod/bTBc6F",
+    "https://x.com/intent/tweet?url=https://www.latercera.com/la-tercera-tv/noticia/esto-es-bueno-asi-reacciono-speed-al-probar-un-completo-italiano-en-el-centro-de-santiago/MRPOPJPBFFA4FGOK7WSHIAAVSM/&text=%C2%A1Esto%20es%20bueno!%3A%20as%C3%AD%20reaccion%C3%B3%20Speed%20al%20probar%20un%20completo%20italiano%20en%20el%20centro%20de%20Santiago",
+    "https://x.com/intent/tweet",
+    "https://x.com/intent/tweet?url=https://latercera.com/la-tercera-tv/noticia/esto-es-bueno-asi-reacciono-speed-al-probar-un-completo-italiano-en-el-centro-de-santiago/MRPOPJPBFFA4FGOK7WSHIAAVSM/&text=%C2%A1Esto%20es%20bueno!%3A%20as%C3%AD%20reaccion%C3%B3%20Speed%20al%20probar%20un%20completo%20italiano%20en%20el%20centro%20de%20Santiago",
+    "https://www.rudo.video/vod/bTBc6F"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Antonia Inostroza Díaz",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Fernández Concha",
+        "sentiment": "none"
+      },
+      {
+        "name": "Castillo",
+        "sentiment": "none"
+      },
+      {
+        "name": "Speed",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "Sudamérica",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:24:46.721+02:00",
+  "updated": "2025-01-24T00:24:46.721+02:00"
+}

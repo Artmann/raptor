@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "aa7138f044f0d1c178c9851c8d36b33f7e03cdb0",
+    "url": "https://www.mercurynews.com/2024/04/25/he-allegedly-killed-unrestrained-9-year-old-girl-in-concord-crash-then-ran-away-but-residents-of-a-nearby-encampment-were-watching",
+    "site_full": "www.mercurynews.com",
+    "site": "mercurynews.com",
+    "site_section": "https://www.usa-today-news.com",
+    "site_categories": ["media"],
+    "section_title": "Usa news",
+    "title": "He allegedly killed unrestrained 9-year-old girl in Concord crash, then ran away. But residents of a nearby encampment were watching",
+    "title_full": "He allegedly killed unrestrained 9-year-old girl in Concord crash, then ran away. But residents of a nearby encampment were watching",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.mercurynews.com/wp-content/uploads/2023/04/MIJ-L-CHP-0729-01-1-1-1-1.jpg?w=1024&#038;h=726",
+    "performance_score": 0,
+    "domain_rank": 965,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "aa7138f044f0d1c178c9851c8d36b33f7e03cdb0",
+  "url": "https://www.mercurynews.com/2024/04/25/he-allegedly-killed-unrestrained-9-year-old-girl-in-concord-crash-then-ran-away-but-residents-of-a-nearby-encampment-were-watching",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Nate Gartrell",
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "He allegedly killed unrestrained 9-year-old girl in Concord crash, then ran away. But residents of a nearby encampment were watching",
+  "text": "CONCORD — After an Oregon resident allegedly flipped over a Mazda, killing a 9-year-old girl and injuring himself and four other occupants, he ran from the scene and disappeared for several days, according to authorities. But 22-year-old Jesus Ivan Dorantes-Guzman allegedly did all of this in plain view of a nearby homeless encampment, whose residents provided consistent accounts of what happened after the deadly accident that could help criminal charges against him stick. Dorantes-Guzman has been charged with child abuse and committing a hit-and-run CRASH that resulted in death, but authorities say the case remains under investigation. Dorantes-Guzman allegedly crashed the Mazda around 5:20 a.m. on April 7, near the Interstate 680 and Highway 242 interchange in Concord. Everyone in the vehicle was injured, and 9-year-old Danna Hernandez Tapia, a resident of Tualatin, Ore., was killed. Two of the passengers identified the driver as “Jesus Ivan” without providing a last name, while others wouldn’t tell police who was driving, authorities said. All five passengers appeared to have not been wearing seatbelts in the Mazda, according to the California Highway Patrol. Just a few yards from the crash site was a small cropping of tents, and many of the people living inside rushed to the crash to help. They would later recall to police how Dorantes-Guzman crawled out from under a car, shoved one of the injured passengers out of his way, and ran toward Concord Avenue while everyone else stayed at the scene, authorities said. These eyewitnesses also reported that Dorantes-Guzman stumbled and appeared to be intoxicated, but also that he had a bloody gash on his head, authorities said. By the time he was arrested in the Colusa County city of Williams, enough time had elapsed that any drugs or alcohol would likely have been flushed from his system. One of the unhoused men who came to help the victims — who police say was the first eyewitness at the scene — reported seeing Dorantes-Guzman unzip his pants, urinate on the vehicle, then run away, authorities said. As he fled, Dorantes-Guzman accidentally left his cellphone at the scene, which aided police in identifying him, authorities said. Dorantes-Guzman has pleaded not guilty, and remains jailed in lieu of $1 million bail, court records show. His preliminary hearing, where a judge will review the prosecution’s evidence against him, is set to begin Friday.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Human Interest"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.eastbaytimes.com/2024/04/12/charges-filed-in-concord-crash-that-killed-9-year-old-girl/",
+    "https://eastbaytimes.com/2024/04/12/charges-filed-in-concord-crash-that-killed-9-year-old-girl/",
+    "https://www.eastbaytimes.com/2024/04/12/charges-filed-in-concord-crash-that-killed-9-year-old-girl"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "jesus ivan dorantes-guzman",
+        "sentiment": "none"
+      },
+      {
+        "name": "jesus ivan”",
+        "sentiment": "none"
+      },
+      {
+        "name": "danna hernandez tapia",
+        "sentiment": "none"
+      },
+      {
+        "name": "guzman",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "mazda",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "oregon",
+        "sentiment": "none"
+      },
+      {
+        "name": "concord",
+        "sentiment": "none"
+      },
+      {
+        "name": "tualatin",
+        "sentiment": "none"
+      },
+      {
+        "name": "ore.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:16:23.383+03:00",
+  "updated": "2024-04-26T00:47:31.002+03:00"
+}

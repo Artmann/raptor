@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "4f941292f7143359dc92fa6d22c04d10f9301a8e",
+    "url": "https://www.derstandard.at/story/3000000275509/zu-heiss-fuer-die-schule-in-wiener-klassenzimmern-hat-es-regelmaessig-ueber-30-grad",
+    "site_full": "www.derstandard.at",
+    "site": "derstandard.at",
+    "site_section": "https://osterreich24.com/time",
+    "site_categories": ["media"],
+    "section_title": "Letzte Nachrichten - Osterreich24.com",
+    "site_title": "derStandard.at",
+    "title": "Zu heiß für die Schule: In Wiener Klassenzimmern hat es regelmäßig über 30 Grad - Edition Zukunft - derStandard.at › Edition Zukunft",
+    "title_full": "Zu heiß für die Schule: In Wiener Klassenzimmern hat es regelmäßig über 30 Grad - Edition Zukunft - derStandard.at › Edition Zukunft",
+    "published": "2025-06-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "AT",
+    "main_image": "https://i.ds.at/rtJmbQ/rs:fill:1200:600/plain/lido-images/2025/06/25/0f537301-7de6-4e5a-9b90-bdbfedbe103e.jpeg",
+    "performance_score": 0,
+    "domain_rank": 2781,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4f941292f7143359dc92fa6d22c04d10f9301a8e",
+  "url": "https://www.derstandard.at/story/3000000275509/zu-heiss-fuer-die-schule-in-wiener-klassenzimmern-hat-es-regelmaessig-ueber-30-grad",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-25T03:00:00.000+03:00",
+  "title": "Zu heiß für die Schule: In Wiener Klassenzimmern hat es regelmäßig über 30 Grad - Edition Zukunft - derStandard.at › Edition Zukunft",
+  "text": "Hitze und Lernen vertragen sich bekanntlich nicht besonders gut: Ist es zu heiß, sind Kinder eher müde, haben Konzentrations- und Lernschwierigkeiten und können in ihrer Entwicklung langfristig zurückfallen. Das zeigen Studien immer wieder auf. Umso ungünstiger ist es laut Expertinnen und Experten, dass es gerade in den Schulen im Zuge des Klimawandels zunehmend heißer wird.\nStudie\nZu heiß für die Schule: In Wiener Klassenzimmern hat es regelmäßig über 30 Grad\nLaut Messungen von Greenpeace und der Boku hatte es in den Klassen des Gymnasiums Maroltingergasse bereits seit Ende Mai an 16 Tagen 30 Grad oder mehr",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->upper secondary education",
+    "Education->school",
+    "Education->students",
+    "Social Issue->children",
+    "Social Issue->social services",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.dak.de/presse/bundesthemen/kinder-jugendgesundheit/drei-viertel-der-kinder-in-deutschland-leiden-bei-hitze_81202",
+    "https://dak.de/presse/bundesthemen/kinder-jugendgesundheit/drei-viertel-der-kinder-in-deutschland-leiden-bei-hitze_81202"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Maroltingergasse",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Greenpeace",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T08:18:50.229+03:00",
+  "updated": "2025-06-26T05:32:28.000+00:00"
+}

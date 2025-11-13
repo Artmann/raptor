@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "0f7a3034b163b0dca444c4db8d542f060289a9ca",
+    "url": "https://www.madriverunion.com/articles/foster-clean-power-project/",
+    "site_full": "www.madriverunion.com",
+    "site": "madriverunion.com",
+    "site_section": "https://world.einnews.com/ajax/headlines",
+    "site_categories": ["media"],
+    "section_title": "",
+    "site_title": "Mad River Union",
+    "title": "Foster Clean Power Project",
+    "title_full": "Foster Clean Power Project",
+    "published": "2025-10-16T13:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.madriverunion.com/wp-content/uploads/images/2025-10-15/8p1-1200x628.jpg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0f7a3034b163b0dca444c4db8d542f060289a9ca",
+  "url": "https://www.madriverunion.com/articles/foster-clean-power-project/",
+  "ord_in_thread": 0,
+  "author": "ops@our-hometown.com",
+  "published": "2025-10-16T13:00:00.000+03:00",
+  "title": "Foster Clean Power Project",
+  "text": "CLEAN POWER Redwood Coast Energy Authority (RCEA) hosted a ribbon cutting ceremony Tuesday, Oct. 7 to celebrate the launch of Foster Clean Power, a new local solar and battery storage project located on the Arcata Bottom. Speakers at the ribbon cutting event included RCEA Executive Director Beth Burks, Renewable America President and CEO Ardi Arian and RCEA Senior Power Resources Manager Jocelyn Gwynn. Attendees included community members, local leaders, project partners and the Arcata Chamber of Commerce. Foster Clean Power is the first new-build, utility-scale solar and storage project under a power purchase agreement with RCEA to be completed in RCEA’s Humboldt County service area. Combining 7 megawatts of solar generation with a 2.5 megawatt/10 megawatt-hour battery system, the facility will provide enough renewable power for approximately 3,000 homes. In addition, Foster Clean Power features pollinator habitat to maintain agricultural value and enhance biodiversity on land formerly owned by Sun Valley Floral Farms. The project was constructed with minimal land disturbance and contributes directly to Humboldt County’s transition to clean, locally sourced power.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->energy resources",
+    "Environment->sustainability",
+    "Environment->energy saving"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jocelyn Gwynn",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ardi Arian",
+        "sentiment": "none"
+      },
+      {
+        "name": "Beth Burks",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Arcata Chamber of Commerce",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Sun Valley Floral Farms",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["McKinleyville", "Mad River", "Arcata"],
+      "state": ["California"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:25:34.947+03:00",
+  "updated": "2025-10-16T14:02:38.000+03:00"
+}

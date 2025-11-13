@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "7d5e05624f5489a493a1f15956cdba00a10f638d",
+    "url": "https://wsfcam.iheart.com/content/2023-12-28-65-magnitude-earthquake-reported/",
+    "site_full": "wsfcam.iheart.com",
+    "site": "iheart.com",
+    "site_section": "https://wsfcam.iheart.com",
+    "site_categories": ["media"],
+    "section_title": "NewsTalk 1240 WSFC - Somerset's Place to Talk",
+    "title": "6.5 Magnitude Earthquake Reported",
+    "title_full": "6.5 Magnitude Earthquake Reported | NewsTalk 1240 WSFC",
+    "published": "2023-12-28T20:53:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://i.iheart.com/v3/re/new_assets/658d7c3edc17662d31f12ae8?ops=gravity(%22north%22),fit(1200,675),quality(65)",
+    "performance_score": 0,
+    "domain_rank": 853,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 2
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7d5e05624f5489a493a1f15956cdba00a10f638d",
+  "url": "https://wsfcam.iheart.com/content/2023-12-28-65-magnitude-earthquake-reported/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jason Hall",
+  "published": "2023-12-28T20:53:00.000+02:00",
+  "title": "6.5 Magnitude Earthquake Reported",
+  "text": "Photo: USGS\nA 6.5-magnitude earthquake struck Russia on Thursday (December 28), according to the United States Geological Survey .\nThe natural disaster was located in Kuril'sk and centered at a depth of 23.8 kilometers (14.8 miles). A 4.7-magnitude earthquake reported to have struck Russia nearly 30 minutes later was believed to be an aftershock.\nThree people claimed to have felt the earthquake at the time of the USGS' preliminary report on Thursday. The European-Mediterranean Seismological Centre said there was no expected threat of a tsunami in relation to the earthquake via the United Kingdom outlet Express .\nThe Crisis24 Risk Management Platform said it suspected \"moderate shaking\" was present \"throughout parts of the southern Kuril Islands and far northeastern parts of Sapporo, Japan,\" via Express .\n\"There have been no initial reports of damage or casualties, though some damage is possible in areas close to the epicenter of the temblor,\" the company added. \"It could take several hours until authorities can conduct comprehensive damage assessments, especially in remote areas. The event has not prompted any tsunami advisories.\"\nLast week, a 6.3-magnitude earthquake struck Adak , Alaska, which is located several hundred miles from Russia. The natural disaster centered at a depth of 33.2 kilometers (20 miles).\nA 6.4-magnitude earthquake was previously reported in Adak on October 16.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident"],
+  "external_links": [
+    "https://express.co.uk/news/world/1849701/russia-tsunami-Iturup-island-japan-earthquake",
+    "https://www.express.co.uk/news/world/1849701/russia-tsunami-Iturup-island-japan-earthquake",
+    "https://www.earthquake.usgs.gov/earthquakes/eventpage/us6000m05c/executive?utm_source=dlvr.it&utm_medium=twitter&utm_campaign=usgs_quakes",
+    "https://earthquake.usgs.gov/earthquakes/eventpage/us6000m05c/executive?utm_source=dlvr.it&utm_medium=twitter&utm_campaign=usgs_quakes",
+    "https://earthquake.usgs.gov/earthquakes/eventpage/us6000m05c/executive"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "usgs",
+        "sentiment": "negative"
+      },
+      {
+        "name": "crisis24 risk management platform",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "russia",
+        "sentiment": "none"
+      },
+      {
+        "name": "sapporo",
+        "sentiment": "none"
+      },
+      {
+        "name": "japan",
+        "sentiment": "none"
+      },
+      {
+        "name": "united kingdom",
+        "sentiment": "none"
+      },
+      {
+        "name": "kuril islands",
+        "sentiment": "none"
+      },
+      {
+        "name": "kuril",
+        "sentiment": "none"
+      },
+      {
+        "name": "mediterranean seismological centre",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:17:44.087+02:00",
+  "updated": "2023-12-29T00:17:44.087+02:00"
+}

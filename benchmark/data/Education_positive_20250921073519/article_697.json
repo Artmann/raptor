@@ -1,0 +1,133 @@
+{
+  "thread": {
+    "uuid": "4827b6274129300a4c8beb5ae868989337c87a7f",
+    "url": "https://omny.fm/shows/news-views-with-joel-heitkamp/ndsu-president-david-cook-joins-joel-heitkamp-after-his-state-of-the-university-address",
+    "site_full": "omny.fm",
+    "site": "omny.fm",
+    "site_section": "https://omny.fm/shows/news-views-with-joel-heitkamp",
+    "site_categories": [],
+    "section_title": "News &amp; Views with Joel Heitkamp clips - Omny.fm",
+    "site_title": "Omny Studio - Omny.fm",
+    "title": "NDSU President David Cook joins Joel Heitkamp after his State of the University address - News & Views with Joel Heitkamp - Omny.fm",
+    "title_full": "NDSU President David Cook joins Joel Heitkamp after his State of the University address - News & Views with Joel Heitkamp - Omny.fm",
+    "published": "2025-09-17T23:09:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://omny.fm/shows/news-views-with-joel-heitkamp/ndsu-president-david-cook-joins-joel-heitkamp-after-his-state-of-the-university-address/image.jpg?t=1758128986&amp;size=wideShare",
+    "performance_score": 0,
+    "domain_rank": 7684,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4827b6274129300a4c8beb5ae868989337c87a7f",
+  "url": "https://omny.fm/shows/news-views-with-joel-heitkamp/ndsu-president-david-cook-joins-joel-heitkamp-after-his-state-of-the-university-address",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-17T23:09:00.000+03:00",
+  "title": "NDSU President David Cook joins Joel Heitkamp after his State of the University address - News & Views with Joel Heitkamp - Omny.fm",
+  "text": "09/17/25: David Cook was named the 15th president of North Dakota State University in 2022. Prior to NDSU he was at the University of Kansas. He joins Joel Heitkamp in the KFGO studio to talk about his recent State of the University address, NDSU's work with AI, updates to campus, and more.\n(Joel Heitkamp is a talk show host on the Mighty 790 KFGO in Fargo-Moorhead. His award-winning program, “News & Views,” can be heard weekdays from 8 – 11 a.m. Follow Joel on X/Twitter @JoelKFGO.)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Politics"],
+  "topics": [
+    "Education->students",
+    "Education->college and university",
+    "Politics->government",
+    "Politics->heads of government",
+    "Politics->education policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Joel Heitkamp",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "David Cook",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Fargo-Moorhead",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "North Dakota State University",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "University of Kansas",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "NDSU",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:51:36.696+03:00",
+  "updated": "2025-09-18T08:58:00.000+03:00"
+}

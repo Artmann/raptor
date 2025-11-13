@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "b150fe5fa5544198e449a8ee646e6f382fc25b81",
+    "url": "https://cj.sina.cn/article/norm_detail?url=https://finance.sina.com.cn/stock/wbstock/2025-10-16/doc-infuauti2458230.shtml&vt=4",
+    "site_full": "cj.sina.cn",
+    "site": "sina.cn",
+    "site_section": "http://finance.sina.com.cn/stock/message/gxq/601988/ggzd.html",
+    "site_categories": [
+      "top_news_hk",
+      "top_news_my",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪财经_金融信息服务商",
+    "site_title": "财经头条_新浪财经_金融信息服务商",
+    "title": "广东海洋经济领跑30年，加速培育蓝色新质生产力",
+    "title_full": "广东海洋经济领跑30年，加速培育蓝色新质生产力",
+    "published": "2025-10-16T13:51:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "https://n.sinaimg.cn/finance/c30320b4/20210712/wx_poster_finance1.png",
+    "performance_score": 0,
+    "domain_rank": 4801,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b150fe5fa5544198e449a8ee646e6f382fc25b81",
+  "url": "https://cj.sina.cn/article/norm_detail?url=https://finance.sina.com.cn/stock/wbstock/2025-10-16/doc-infuauti2458230.shtml&vt=4",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T13:51:00.000+03:00",
+  "title": "广东海洋经济领跑30年，加速培育蓝色新质生产力",
+  "text": "来源：@ 21世纪经济报道 微博\n【#广东 海洋经济 领跑30年#，加速培育蓝色新质生产力】10月16日，2025年粤港澳海洋合作发展论坛上，“海马”号模型再次成为全场焦点。此外，破解观测设备长期供电难题的“海聆”波浪能发电装置、实现水空跨介质 智能 巡检的“三栖智巡” 机器人 、突破6000米级深潜关键技术的“海星6000”遥控与“探索6000”自主水下机器人、胶原蛋白肽等海洋 生物医药 新品，一批来自粤港澳三地 高校 和科研院所、涉海企业的80个 创新 技术成果在论坛展区集中展示，海洋新技术、新产品正挺进 深蓝 。@广东发布 @中国 广州 发布 详见：\n打开App看更多精彩内容",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Environment"],
+  "topics": [
+    "Economy, Business and Finance->business and market analysis",
+    "Economy, Business and Finance->economy",
+    "Environment->natural resources"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_my",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:07:13.536+03:00",
+  "updated": "2025-10-16T14:25:58.000+03:00"
+}

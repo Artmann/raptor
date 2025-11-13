@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "abf74cd87b7ac691c22a9ad502c3bfc5755a82ad",
+    "url": "https://kam24.ru/news/main/20250508/116577.html",
+    "site_full": "kam24.ru",
+    "site": "kam24.ru",
+    "site_section": "https://kam24.ru/weather",
+    "site_categories": ["media"],
+    "section_title": "ИА «Кам 24»: Погода на Камчатке",
+    "site_title": "ИА «Кам 24»: Новости Камчатки",
+    "title": "Четыре пожара тушили на Камчатке за прошедшие сутки: ИА «Кам 24»",
+    "title_full": "Четыре пожара тушили на Камчатке за прошедшие сутки: ИА «Кам 24»",
+    "published": "2025-05-08T01:32:39.234+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://kam24.ru/uploads/wood-flame-fire-yellow-campfire-burning-1014470-pxhere.com_e73fdc9b7ff57d2224aee682b401d810.jpg",
+    "performance_score": 0,
+    "domain_rank": 97636,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "abf74cd87b7ac691c22a9ad502c3bfc5755a82ad",
+  "url": "https://kam24.ru/news/main/20250508/116577.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T01:32:39.234+03:00",
+  "title": "Четыре пожара тушили на Камчатке за прошедшие сутки: ИА «Кам 24»",
+  "text": "Дважды горел мусор, ещё два раза – сухая трава. Общая площадь пала составила 300 квадратных метров, сообщили в пресс-службе ведомства.\nРанее ИА «Кам 24» писало, что на период майских праздников подразделения МЧС перешли на усиленный режим работы.\nПодписывайтесь на новости Камчатки в Telegram. Самые важные новости - весь день на ваш смартфон.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Environment"],
+  "topics": [
+    "Disaster and Accident->fire",
+    "Environment->environmental pollution",
+    "Environment->waste materials",
+    "Environment->environmental clean-up"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T01:32:39.234+03:00",
+  "updated": "2025-05-07T22:36:17.000+00:00"
+}

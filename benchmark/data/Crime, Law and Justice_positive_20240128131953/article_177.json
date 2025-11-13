@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "af82ebff5aa8f5ae3aa29fe37753fdf08f010f53",
+    "url": "https://www.wxyz.com/news/detroit-man-on-a-mission-to-prevent-accidental-shootings-among-children",
+    "site_full": "www.wxyz.com",
+    "site": "wxyz.com",
+    "site_section": "https://www.tv20detroit.com",
+    "site_categories": ["media"],
+    "section_title": "Home",
+    "title": "Detroit man on a mission to prevent accidental shootings among children",
+    "title_full": "Detroit man on a mission to prevent accidental shootings among children",
+    "published": "2023-12-29T05:20:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ewscripps.brightspotcdn.com/dims4/default/9db6400/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2Fe60%2Fbe88c4e651db4a7dbe102614d7272948%2Fe60884eae04f45e1a514731c09b96f67%2Fposter_b2100223e8fe4da08a36ee28271849c7.jpg",
+    "performance_score": 0,
+    "domain_rank": 7057,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 19,
+        "comments": 1,
+        "shares": 23
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "af82ebff5aa8f5ae3aa29fe37753fdf08f010f53",
+  "url": "https://www.wxyz.com/news/detroit-man-on-a-mission-to-prevent-accidental-shootings-among-children",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Tiarra Braddock",
+  "published": "2023-12-29T05:20:00.000+02:00",
+  "title": "Detroit man on a mission to prevent accidental shootings among children",
+  "text": "SOUTHFIELD, Mich. (WXYZ) — A new state law will go into effect in February that will require anyone with a minor in their home to store their firearms safely. If a child gets a hold of a gun and kills themselves or others, the gun owner could be charged with a felony. With that in mind, a Detroit man is on a mission to provide families with the right tools to keep their guns secured and kids safe. William McMurray is the owner of The American RAC, a gun storage device he invented years ago. The RAC is secured to a wall and stores a gun under lock and key. “I am passionate about children not getting ahold of guns,” said McMurray. “Every time that it happens, I feel that I failed to reach that family.” On Wednesday, McMurray and his daughter installed the RAC tool inside the home of the Broadnax family. “We’re installing these because we just don’t want to hear about any more kids finding guns,” McMurray added. “We just don’t want to hear that the RAC could have been the guardian between the gun and a child.” Angel Broadnax has been a gun owner for a little over a year. She says she contacted McMurray about getting the RAC device because she wanted a more secure way to store her gun. “It piqued my interest because it was so different from a standard safety box which the safety box can be moved around,” said Broadnax. According to [Everytown Research and Policy](https://everytownresearch.org/maps/notanaccident/), 16 children in Michigan have been injured or killed due to accidental shootings. Most of the shootings have happened in the metro Detroit area. “It’s heartbreaking and it would eat me up if that were one of my kids so it just can’t ever be one of my kids,” Broadnax added. Meanwhile, McMurray says it doesn’t matter if gun owners have a RAC device, gun lock or safety boxes as long as they secure their guns. “Use something to keep the firearms from being able to be accessed by children,” said McMurry. “That’s really my passion, it came from my friend Adonis Tillman finding a shotgun… he died as a result of playing with a shotgun.” McMurray is offering free RAC installations. Click [here](https://www.theamericanrac.com/application) to find out more.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Crime, Law and Justice"],
+  "external_links": [
+    "https://www.theamericanrac.com/application)",
+    "https://everytownresearch.org/maps/notanaccident/),",
+    "https://theamericanrac.com/application)",
+    "https://www.everytownresearch.org/maps/notanaccident/),"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "broadnax",
+        "sentiment": "none"
+      },
+      {
+        "name": "mcmurray",
+        "sentiment": "none"
+      },
+      {
+        "name": "william mcmurray",
+        "sentiment": "none"
+      },
+      {
+        "name": "angel broadnax",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "the american rac",
+        "sentiment": "none"
+      },
+      {
+        "name": "rac",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "detroit",
+        "sentiment": "none"
+      },
+      {
+        "name": "mich.",
+        "sentiment": "none"
+      },
+      {
+        "name": "southfield",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T05:38:23.247+02:00",
+  "updated": "2023-12-29T05:38:23.247+02:00"
+}

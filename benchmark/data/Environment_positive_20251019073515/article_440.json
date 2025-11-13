@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "b6192154bd45a497511cdd5d71f7b6178a385793",
+    "url": "https://www.nachrichten.at/meine-welt/haus_garten/gruene-oase-in-andrichsfurt-der-garten-gibt-uns-kraft-und-ruhe;art123,4098046",
+    "site_full": "www.nachrichten.at",
+    "site": "nachrichten.at",
+    "site_section": "http://www.nachrichten.at",
+    "site_categories": ["under_construction", "top_news_at", "top_news"],
+    "section_title": "Oberösterreichische Nachrichten | OÖN | Nachrichten.at",
+    "site_title": "Oberösterreichische Nachrichten | OÖN | Nachrichten.at",
+    "title": "Grüne Oase in Andrichsfurt: „Der Garten gibt uns Kraft und Ruhe\" | Nachrichten.at",
+    "title_full": "Grüne Oase in Andrichsfurt: „Der Garten gibt uns Kraft und Ruhe\" | Nachrichten.at",
+    "published": "2025-10-16T14:34:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AT",
+    "main_image": "https://www4.nachrichten.at/images/og_image/?ogimg=https://www.nachrichten.at/storage/image/9/9/1/2/3412199_garten-andrichsfurt-hoehfurtner_facebook_1EYdrE_GyImPu.jpg",
+    "performance_score": 0,
+    "domain_rank": 16081,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "shares": 7
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b6192154bd45a497511cdd5d71f7b6178a385793",
+  "url": "https://www.nachrichten.at/meine-welt/haus_garten/gruene-oase-in-andrichsfurt-der-garten-gibt-uns-kraft-und-ruhe;art123,4098046",
+  "ord_in_thread": 0,
+  "author": "Oberösterreichische Nachrichten",
+  "published": "2025-10-16T14:34:00.000+03:00",
+  "title": "Grüne Oase in Andrichsfurt: „Der Garten gibt uns Kraft und Ruhe\" | Nachrichten.at",
+  "text": "Grüne Oase in Andrichsfurt: „Der Garten gibt uns Kraft und Ruhe“\nANDRICHSFURT. Die OÖNachrichten zu Besuch bei Brigitte Höhfurtner und Eduard Berger in Andrichsfurt im Bezirk Ried\nDer einladende Garten mit Teich und einem kleinen Streichelzoo in Andrichsfurt im Bezirk Ried ist für Brigitte Höhfurtner und ihren Mann Eduard Berger viel mehr als nur ein Stück Land. Es ist ihr gemeinsames Hobby und ein Rückzugsort. „Das Ganze ist zwar viel Aufwand, aber man darf es nicht als Arbeit sehen“, sagt die 58-Jährige.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": ["Lifestyle and Leisure", "Environment"],
+  "topics": ["Lifestyle and Leisure->hobby", "Environment->nature"],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Brigitte Höhfurtner",
+        "sentiment": "none"
+      },
+      {
+        "name": "Eduard Berger",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Andrichsfurt",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ried",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_at", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:47:55.377+03:00",
+  "updated": "2025-10-17T15:07:12.000+03:00"
+}

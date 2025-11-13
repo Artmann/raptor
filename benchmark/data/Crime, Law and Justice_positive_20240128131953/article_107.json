@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "b26c002633f0bceecaf0a417a96af86934bffc66",
+    "url": "https://www.news9.com/story/658e02ec73910c065af8f194/tulsa-police-sees-drop-in-homicide-numbers-credits-proactive-work-",
+    "site_full": "www.news9.com",
+    "site": "news9.com",
+    "site_section": "https://news9.com/tv",
+    "site_categories": ["media"],
+    "section_title": "TV Schedule",
+    "title": "Tulsa Police Sees Drop In Homicide Numbers, Credits Proactive Work",
+    "title_full": "Tulsa Police Sees Drop In Homicide Numbers, Credits Proactive Work",
+    "published": "2023-12-29T01:14:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.field59.com/KOTV/d443a967c8588434663935ae34fb7a6d77deda38.jpg",
+    "performance_score": 0,
+    "domain_rank": 12787,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b26c002633f0bceecaf0a417a96af86934bffc66",
+  "url": "https://www.news9.com/story/658e02ec73910c065af8f194/tulsa-police-sees-drop-in-homicide-numbers-credits-proactive-work-",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "David Griffin",
+  "published": "2023-12-29T01:14:00.000+02:00",
+  "title": "Tulsa Police Sees Drop In Homicide Numbers, Credits Proactive Work",
+  "text": "Thursday, December 28th 2023, 5:14 pm Tulsa Police Chief Wendell Franklin is crediting aggressive and proactive police work for a drop in homicide numbers this year. We are just days away from the New Year, and so far, TPD has investigated 47 homicides this year, compared to 68 in 2022 and as many as 81 back in 2020. Tulsa's Homicide unit is known for having a near-perfect solve rate, and this year, it’s solved 95 percent of the murders. The focus now is trying to prevent murders, and part of that is going after violent repeat offenders. Chief Franklin says a big focus going into 2023 was going after guns, specifically guns in the hands of people who aren't allowed to have them. \"We are focused on how can we prevent homicides. How can we influence the number and reduce that number of homicides? We do that through proactive work. We do that through using our crime gun unit,” said Franklin. The crime gun unit goes after violent people and people using firearms to commit crimes. They investigate shooters who do drive-by shootings or other shootings where no one is hit. The crime gun unit also goes after juveniles running around Tulsa with guns. \"People talk about non-violent, non-violent offenses, those are technically non-violent offenses, but for us, we are going to go after them because we know it is going to make an impact, it is going to make a difference down the road on who may or may not be shot in the future,” said Franklin. Franklin says hammering down on other crime helps, too. He says auto thefts are down 50 percent this year because that unit has been aggressive in going after repeat offenders. \"Stolen vehicles correlate into drive-by shootings and other criminal activity that takes place in our city, so we know that if we can attack those stolen vehicles, then we might make a difference in some of the other crime that takes place in Tulsa,” said Franklin. Franklin says the officers and detectives do great work solving crimes but help from the community is key, especially being able to solve 95 percent of murders. \"You look at some of the other cities, you look at Chicago and their solve rate; why can't they do that? Why can't they replicate that? It is because they don't have that relationship with the community like we do,” said Franklin. December 28th, 2023 December 28th, 2023 December 28th, 2023 December 28th, 2023 December 28th, 2023 December 28th, 2023 December 28th, 2023 December 28th, 2023",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "wendell franklin",
+        "sentiment": "negative"
+      },
+      {
+        "name": "franklin",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "tulsa police",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "tulsa",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:54:35.844+02:00",
+  "updated": "2023-12-29T01:54:35.844+02:00"
+}

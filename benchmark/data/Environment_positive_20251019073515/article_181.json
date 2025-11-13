@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "2f2654b653eb31833a70382278353325b300b8a9",
+    "url": "https://www.semafor.com/article/10/16/2025/norway-declares-victory-in-move-away-from-gas-cars",
+    "site_full": "www.semafor.com",
+    "site": "semafor.com",
+    "site_section": "https://www.semafor.com",
+    "site_categories": [],
+    "section_title": "Semafor - An intelligent, transparent global news platform for breaking stories, analysis and video",
+    "site_title": "Semafor - An intelligent, transparent global news platform for breaking stories, analysis and video",
+    "title": "Norway declares victory in move away from gas cars",
+    "title_full": "Norway declares victory in move away from gas cars",
+    "published": "2025-10-16T13:51:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.semafor.com/422860b4cde1570ad578ab559db7f88cecd0d0e6-5359x3576.jpg?rect=0,382,5359,2813&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format",
+    "performance_score": 0,
+    "domain_rank": 22686,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2f2654b653eb31833a70382278353325b300b8a9",
+  "url": "https://www.semafor.com/article/10/16/2025/norway-declares-victory-in-move-away-from-gas-cars",
+  "ord_in_thread": 0,
+  "author": "Tom Chivers",
+  "published": "2025-10-16T13:51:00.000+03:00",
+  "title": "Norway declares victory in move away from gas cars",
+  "text": "Norway declared victory in its effort to phase out gas car sales by 2025.\nA slew of tax exemptions, free access to toll roads, and other incentives have rapidly driven uptake of electric vehicles in the country; last year, 89% of all cars sold were electric, and that figure has risen to over 95% this year.\nOslo will now start to roll back some tax exemptions over the next two years.\nNorway is an outlier, though: About one in five cars sold in Europe in 2024 was electric, and several larger European markets, including Germany and France, have begun rolling back subsidies. After years of increasing European market share, EV growth has slowed, the International Energy Agency reported this year.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment", "Politics"],
+  "topics": [
+    "Environment->sustainability",
+    "Environment->energy saving",
+    "Politics->government policy",
+    "Politics->environmental policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://electrek.co/2025/10/15/norway-says-mission-accomplished-on-going-100-ev-proposes-incentive-changes/",
+    "https://www.iea.org/reports/global-ev-outlook-2025/trends-in-electric-car-markets-2",
+    "https://www.electrek.co/2025/10/15/norway-says-mission-accomplished-on-going-100-ev-proposes-incentive-changes/",
+    "https://iea.org/reports/global-ev-outlook-2025/trends-in-electric-car-markets-2",
+    "https://electrek.co/2025/10/15/norway-says-mission-accomplished-on-going-100-ev-proposes-incentive-changes"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Europe",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "International Energy Agency",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "2f2654b653eb31833a70382278353325b300b8a9",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:55:05.980+03:00",
+  "updated": "2025-10-16T14:14:40.000+03:00"
+}

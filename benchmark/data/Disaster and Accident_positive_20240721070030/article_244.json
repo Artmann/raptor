@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "3f25aff7bee6b3e77453e8f4ddcee6b771d5cd22",
+    "url": "https://www.wrtv.com/news/local-news/marion-county/indot-announces-plans-to-reopen-i-465-southbound",
+    "site_full": "www.wrtv.com",
+    "site": "wrtv.com",
+    "site_section": "https://www.wrtv.com",
+    "site_categories": ["media", "television", "entertainment"],
+    "section_title": "Indianapolis News and Headlines | ABC Channel 6 | WRTV - TV | TheIndyChannel.com",
+    "title": "INDOT announces plans to reopen I-465 southbound",
+    "title_full": "INDOT announces plans to reopen I-465 southbound",
+    "published": "2024-06-21T19:04:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ewscripps.brightspotcdn.com/dims4/default/8899472/2147483647/strip/true/crop/5760x3024+0+3/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F47%2F18%2F7b58d24842ac9a7cb1717b1fb2fe%2Fstreet-construction-1001.jpg",
+    "performance_score": 0,
+    "domain_rank": 11364,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3f25aff7bee6b3e77453e8f4ddcee6b771d5cd22",
+  "url": "https://www.wrtv.com/news/local-news/marion-county/indot-announces-plans-to-reopen-i-465-southbound",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "James Howell Jr.",
+  "published": "2024-06-21T19:04:00.000+03:00",
+  "title": "INDOT announces plans to reopen I-465 southbound",
+  "text": "INDIANAPOLIS — I-465 southbound on the city's southeast side will soon reopen. On Friday, INDOT announced their plans to roll out the reopening of the interstate after a three week closure. The closure of I-465 southbound between I-70 and I-65 on the southeast side started on May 31 as crews worked on pavement restoration and bridge work. Now, three weeks later, the road is ready for traffic again. 📍 Marion County— INDOT East Central (@INDOTEast) Here's what to expect for the reopening of the I-465 southbound lanes and ramps. 👇 We start with restriping all of the lanes to get them back to their original configuration. This is a long process - expect the lanes to steadily reopen. [pic.twitter.com/7cdXGy7Lnf] [June 21, 2024] Lanes and ramps will open between late Friday and Saturday morning. Meanwhile, lane restriping will be done slightly north of the reopening — between 46th Street and I-70. Don't breathe too easy though Hoosiers. WATCH | Indiana's Latest Headlines After a three week break, INDOT will close I-465 northbound through the same stretch. That closure is expected to start on July 12.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "indot",
+        "sentiment": "negative"
+      },
+      {
+        "name": "hoosiers",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "indianapolis",
+        "sentiment": "none"
+      },
+      {
+        "name": "indiana",
+        "sentiment": "none"
+      },
+      {
+        "name": "marion county",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-21T20:07:56.982+03:00",
+  "updated": "2024-06-21T20:07:56.982+03:00"
+}

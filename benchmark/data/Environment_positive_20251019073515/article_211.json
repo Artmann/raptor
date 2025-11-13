@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "9223367f4135cc4ccfe9f7f7d8b70931d94e7ebf",
+    "url": "https://es.nhandan.vn/unesco-aprueba-iniciativa-de-vietnam-sobre-el-decenio-internacional-de-la-cultura-para-el-desarrollo-sostenible-post82288.html",
+    "site_full": "es.nhandan.vn",
+    "site": "nhandan.vn",
+    "site_section": "https://es.nhandan.vn",
+    "site_categories": [],
+    "section_title": "Nhan Dan en línea en español ",
+    "site_title": "Báo Nhân Dân điện tử",
+    "title": "Unesco aprueba iniciativa de Vietnam sobre el \"Decenio Internacional de la Cultura para el Desarrollo Sostenible\" | Nhan Dan Online",
+    "title_full": "Unesco aprueba iniciativa de Vietnam sobre el \"Decenio Internacional de la Cultura para el Desarrollo Sostenible\" | Nhan Dan Online",
+    "published": "2025-10-16T07:16:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://es-cdn.nhandan.vn/images/8ad87fc5649593031c8c2e388b55631d6c7b7dc33d43aa0f7dff48bc6caf6df5a671ae5a3434c3c975ffce1dc771302dfa6d7ea7dbf00cf2e9a642eecd5686e3/img-8818.jpg.webp",
+    "performance_score": 0,
+    "domain_rank": 27195,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9223367f4135cc4ccfe9f7f7d8b70931d94e7ebf",
+  "url": "https://es.nhandan.vn/unesco-aprueba-iniciativa-de-vietnam-sobre-el-decenio-internacional-de-la-cultura-para-el-desarrollo-sostenible-post82288.html",
+  "ord_in_thread": 0,
+  "author": "Nhan Dan Online",
+  "published": "2025-10-16T07:16:00.000+03:00",
+  "title": "Unesco aprueba iniciativa de Vietnam sobre el \"Decenio Internacional de la Cultura para el Desarrollo Sostenible\" | Nhan Dan Online",
+  "text": "La embajadora Nguyen Thi Van Anh, jefa de la delegación permanente de Vietnam ante la Unesco, fue la encargada de presentar esa propuesta ante el Consejo.\nDurante su intervención, destacó que el objetivo principal de la iniciativa es resaltar el papel fundamental de la cultura en la promoción del desarrollo sostenible en todo el mundo, además de contribuir a enfrentar los desafíos complejos que vive la humanidad y garantizar un futuro más seguro y próspero para todos.\nSegún lo establecido en el proceso, la propuesta será presentada en la Asamblea General de la Unesco en su reunión de noviembre de 2025, y posteriormente se someterá a votación en la Asamblea General de la ONU en 2026.\nLa aprobación unánime por parte del Consejo Ejecutivo de la Unesco marca un hito clave para el futuro anuncio oficial del \"Decenio Internacional de la Cultura para el Desarrollo Sostenible\", una iniciativa que resalta la impronta de Vietnam en el escenario internacional.\nEsa propuesta refleja los esfuerzos y pasos concretos de Vietnam por implementar las orientaciones y políticas del Partido y del Estado en cuanto a una integración internacional más profunda en el nuevo contexto.\nAl mismo tiempo, refuerza el impulso para revitalizar y desarrollar la cultura vietnamita en esta nueva era, así como fortalecer su participación en la diplomacia multilateral, la diplomacia cultural y la proyección internacional de su cultura.\nSe trata de una valiosa contribución de Vietnam al fortalecimiento de la misión, los objetivos y el rol de la Unesco, especialmente en el ámbito cultural. Además, pone de manifiesto la actitud proactiva, positiva y responsable de Vietnam como miembro del Consejo Ejecutivo de la Unesco para el período 2021-2025, actitud que ha sido ampliamente valorada por numerosos países y por los líderes de la organización.\nLa decisión del Consejo Ejecutivo de la Unesco de respaldar dicha propuesta reafirma el prestigio, la posición y el liderazgo de Vietnam tanto dentro de la Unesco como a nivel internacional.\nAsimismo, demuestra que la iniciativa vietnamita responde a las preocupaciones y aspiraciones comunes de la comunidad global, en un momento en que el mundo enfrenta desafíos particularmente complejos.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Education", "Environment"],
+  "topics": ["Education->social learning", "Environment->sustainability"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Nguyen Thi Van Anh",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Asamblea General de la Unesco",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Consejo Ejecutivo de la Unesco",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Estado",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:00:31.174+03:00",
+  "updated": "2025-10-16T14:18:22.000+03:00"
+}

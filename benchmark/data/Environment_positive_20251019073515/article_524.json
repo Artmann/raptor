@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "fe995e0af6288573f3ef17085bb8bb144c767210",
+    "url": "https://www.aa.com.tr/en/energy/renewable/global-energy-transition-enters-new-phase-as-battery-storage-surges-toward-1500-gw-target/52332",
+    "site_full": "www.aa.com.tr",
+    "site": "aa.com.tr",
+    "site_section": "https://www.aa.com.tr/en/energy",
+    "site_categories": ["media", "top_news_iq", "top_news_tr", "top_news"],
+    "section_title": "Anadolu Agency",
+    "site_title": "Anadolu Ajansı",
+    "title": "Global energy transition enters new phase as battery storage surges toward 1500 GW target",
+    "title_full": "Global energy transition enters new phase as battery storage surges toward 1500 GW target",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "TR",
+    "main_image": "https://cdnuploads.aa.com.tr/uploads/enerjiterminali/Contents/2025/10/16/thumbs_b_c_b4187dd4033890eebdf2050fbdd63253.jpg?v=142403",
+    "performance_score": 0,
+    "domain_rank": 4827,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fe995e0af6288573f3ef17085bb8bb144c767210",
+  "url": "https://www.aa.com.tr/en/energy/renewable/global-energy-transition-enters-new-phase-as-battery-storage-surges-toward-1500-gw-target/52332",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "Global energy transition enters new phase as battery storage surges toward 1500 GW target",
+  "text": "The global energy transition is entering a critical phase, with the electricity storage sector standing out, driven by the goal of reaching 1500 gigawatts of capacity by 2030, according to a new report.\nAlthough investments in this field are growing rapidly, gaps in market mechanisms are preventing the technology from reaching its full potential, the Supercharging Battery Storage Initiative say in its \"The Value of Electricity Storage\" report.\nAccording to the report, electricity storage technologies, highlighted as one of the key components of the clean energy transition, have become a major focus of rapidly increasing investments worldwide.\nIn this context, the goal is to reach 1500 gigawatts of storage capacity by 2030, a figure nearly six times higher than the capacity recorded in 2023.\nEnergy storage investments have multiplied over the past decade, in part supported by a 90% decline in the cost of lithium-ion batteries, which has strengthened the financial feasibility of projects.\nBattery investments are now approaching the level of global natural gas investments and are expected to surpass them in the coming years.\nStorage systems not only balance supply and demand but also play a vital role in providing grid flexibility, frequency regulation, and uninterrupted energy supply during emergencies. By 2030, 60% of carbon emission reductions in the energy sector are expected to be linked to battery solutions.\n- Investors cautious over high costs and uncertain revenue streams\nHowever, the report also draws attention to an economic gap. While the technical benefits of storage are rapidly increasing, current market mechanisms do not adequately value these services.\nHigh capital costs and uncertain revenue streams make investors cautious about new projects. Countries such as Germany, the UK, and Canada are working to address this gap through new regulations.\nInternational examples also reveal the economic and environmental benefits of storage. In Germany, large-scale battery storage projects are estimated to provide €12 billion in economic benefits by 2050 and prevent 6.2 million tons of carbon dioxide emissions by 2030.\nAdditionally, Spain's Alcantara 2 hydroelectric project, with a capacity of 16 gigawatt-hours, is planned to function as a \"giant battery\" supporting renewable integration.\nThe report emphasizes that to achieve the 2030 target, markets must be restructured to recognize all the services offered by storage, diversify supply chains, and implement mechanisms that enhance investor confidence.\nBy Murat Temizer in Brussels\nAnadolu Agency\nenergy@aa.com.tr",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment", "Economy, Business and Finance"],
+  "topics": [
+    "Environment->sustainability",
+    "Environment->energy resources",
+    "Economy, Business and Finance->business and market analysis",
+    "Economy, Business and Finance->energy and resource"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "fe995e0af6288573f3ef17085bb8bb144c767210",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": null,
+    "top_news": ["top_news_iq", "top_news_tr", "top_news"],
+    "bias": "right",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:04:02.739+03:00",
+  "updated": "2025-10-16T15:13:00.000+03:00"
+}

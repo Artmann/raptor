@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "2badecacd1750298e6596142dd00869137cda509",
+    "url": "https://www.dailybulletin.com/2023/12/28/fireplace-wood-burning-ban-extended-for-southern-california/",
+    "site_full": "www.dailybulletin.com",
+    "site": "dailybulletin.com",
+    "site_section": "https://www.dailybulletin.com/feed",
+    "site_categories": ["media"],
+    "section_title": "Daily Bulletin",
+    "title": "Fireplace wood-burning ban extended for Southern California",
+    "title_full": "Fireplace wood-burning ban extended for Southern California",
+    "published": "2023-12-28T16:45:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.dailybulletin.com/wp-content/uploads/2023/12/OCR-Z-AIR-QUALITY-1.jpg?w=1024&#038;h=603",
+    "performance_score": 0,
+    "domain_rank": 17419,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2badecacd1750298e6596142dd00869137cda509",
+  "url": "https://www.dailybulletin.com/2023/12/28/fireplace-wood-burning-ban-extended-for-southern-california/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "City News Service",
+  "published": "2023-12-28T16:45:00.000+02:00",
+  "title": "Fireplace wood-burning ban extended for Southern California",
+  "text": "LOS ANGELES — A\nban on indoor and outdoor wood burning in much of Southern California has been extended through Friday due to a forecast of high air pollution in the area, air quality regulators said.\nThe residential wood-burning ban, which began on Christmas Day, will be in effect until at least 11:59 p.m. Friday for all those in the South Coast Air Basin, including the non-desert portions of Los Angeles, Riverside and San Bernardino counties, and all of Orange County.\nThe order does not apply to mountain communities above 3,000 feet, the Coachella Valley or the high desert, according to the South Coast Air Quality Management District. Homes that rely on wood as a sole source of heat, low-income households and those without natural gas service also are exempt from the requirement.\nResidents in the affected areas are reminded that burning wood in their fireplaces or any indoor or outdoor wood-burning device is prohibited, as is burning manufactured fire logs, such as those made from wax or paper.\nFine particles in wood smoke, also known as particulate matter or PM2.5, can get deep into the lungs and cause respiratory problems such as asthma.\nResidents can receive no-burn day notifications by signing up for Air Alerts via email or text at www.AirAlerts.org.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Environment", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "southern california los angeles",
+        "sentiment": "negative"
+      },
+      {
+        "name": "south coast air quality management district",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "southern california",
+        "sentiment": "none"
+      },
+      {
+        "name": "coachella valley",
+        "sentiment": "none"
+      },
+      {
+        "name": "san bernardino",
+        "sentiment": "none"
+      },
+      {
+        "name": "orange county",
+        "sentiment": "none"
+      },
+      {
+        "name": "south coast air basin",
+        "sentiment": "none"
+      },
+      {
+        "name": "los angeles",
+        "sentiment": "none"
+      },
+      {
+        "name": "riverside",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:58:15.982+02:00",
+  "updated": "2023-12-29T00:58:15.982+02:00"
+}

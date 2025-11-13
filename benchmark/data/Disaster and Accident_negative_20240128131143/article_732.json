@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "4bffa1ca41ed7d69fc397fcd3d9406c2b3520e65",
+    "url": "https://www.tellerreport.com/news/2023-12-28-in-madagascar--the-ariary-is-in-free-fall-against-the-euro.Skg8uA_jD6.html",
+    "site_full": "www.tellerreport.com",
+    "site": "tellerreport.com",
+    "site_section": "https://www.tellerreport.com:443/",
+    "site_categories": ["media"],
+    "section_title": "Teller Report",
+    "title": "In Madagascar, the ariary is in free fall against the euro - Teller Report",
+    "title_full": "In Madagascar, the ariary is in free fall against the euro - Teller Report",
+    "published": "2023-12-29T01:02:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://s.rfi.fr/media/display/f191c3ee-1a4f-11eb-a1c8-005056a98db9/w:1280/p:16x9/ariary_0.jpg",
+    "performance_score": 0,
+    "domain_rank": 17647,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4bffa1ca41ed7d69fc397fcd3d9406c2b3520e65",
+  "url": "https://www.tellerreport.com/news/2023-12-28-in-madagascar--the-ariary-is-in-free-fall-against-the-euro.Skg8uA_jD6.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Anonym",
+  "published": "2023-12-29T01:02:00.000+02:00",
+  "title": "In Madagascar, the ariary is in free fall against the euro - Teller Report",
+  "text": "Since the beginning of November 2023, Madagascar has recorded a sharp depreciation of the ariary against the euro. On the interbank currency market, one euro is now exchanged for 4,984 ariary, flirting with the fateful 5,000 ariary mark, while last year, at the same time, it was worth 4,650 ariary. A jump that worries the population, already stunned by a current inflation rate of 12%. Ariary banknotes, the Malagasy currency. Sarah Tétaud/RFI By: RFI Follow Advertising Read More With our correspondent in Antananarivo, Sarah Tétaud There are many reasons for this depreciation. Among them, there is in particular that of the Malagasy trade balance, which is in perpetual imbalance. This phenomenon is amplified during the holiday season, explains David Rakoto, professor of economics at the University of Antananarivo. « There are more imports than exports compared to usual during these holidays. In order to acquire foreign goods, they must be purchased with foreign currency. And because of this, the demand for euros has increased, compared to the supply of currencies in the interbank currency market,\" he says. Lack of foreign currency Exports of vanilla and lychees, below normal volumes, were not enough to make up for the lack of foreign exchange. As a result, \"In Madagascar, the exchange rate has never been as low as it is today, since 1980 and the establishment of the interbank currency market. While this situation may benefit some, such as exporters, for example, for the majority of Malagasy people, the immediate effect is inflation. And that's why we reached a very high inflation rate of 12%,\" continues David Rakoto. However, the governor of the Central Bank of Madagascar, Aivo Andrianarivelo, is keen to put the situation into perspective: \"There is always what is called the psychological impact of a rate. And the psychological impact on the population is the variation of the euro, more than the dollar. At the Central Bank, we only manage the dollar/ariary parity. However, the depreciation of the ariary against the dollar is minimal: we should not worry about this because it remains stable.» In the country, almost 60% of the trading volume is made in dollars, compared to 40% in euros. While the situation is far from dramatic in the eyes of the governor, the continued depreciation of the dollar on the international market, as is the current trend, could worsen the situation for Madagascar in the coming months. Read alsoMadagascar: faced with the sudden rise in rice prices, the capital's markets are getting by NewsletterGet all the latest international news straight to your inbox Subscribe now Keep up to date with all the latest international news by downloading the RFI app Share: Read on the same topics: - Madagascar - Currencies",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Politics",
+    "Economy, Business and Finance",
+    "Disaster and Accident"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "mad",
+        "sentiment": "negative"
+      },
+      {
+        "name": "sarah tétaud",
+        "sentiment": "none"
+      },
+      {
+        "name": "sarah",
+        "sentiment": "none"
+      },
+      {
+        "name": "david rakoto",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "university of antananarivo",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "madagascar",
+        "sentiment": "none"
+      },
+      {
+        "name": "antananarivo",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:08:51.597+02:00",
+  "updated": "2023-12-29T01:12:25.617+02:00"
+}

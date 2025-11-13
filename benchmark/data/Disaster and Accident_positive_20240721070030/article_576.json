@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "2d1acf008c901dc05c0b333f965851464c22d2d0",
+    "url": "https://justthenews.com/events/combat-antisemitism-movement-holds-fundraiser-israelis-caught-wildfires-created-hezbollah",
+    "site_full": "justthenews.com",
+    "site": "justthenews.com",
+    "site_section": "https://justthenews.com/rss.xml",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "Just The News - Not The Noise",
+    "title": "Combat Antisemitism movement holds fundraiser for Israelis caught in wildfires created by Hezbollah",
+    "title_full": "Combat Antisemitism movement holds fundraiser for Israelis caught in wildfires created by Hezbollah",
+    "published": "2024-06-22T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://justthenews.com/sites/default/files/styles/social_media_share/public/2024-05/GettyImages-886135252.jpg?h=ea11ab6b&amp;itok=YomMALou",
+    "performance_score": 0,
+    "domain_rank": 15203,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2d1acf008c901dc05c0b333f965851464c22d2d0",
+  "url": "https://justthenews.com/events/combat-antisemitism-movement-holds-fundraiser-israelis-caught-wildfires-created-hezbollah",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Charlotte Hazard",
+  "published": "2024-06-22T08:00:00.000+03:00",
+  "title": "Combat Antisemitism movement holds fundraiser for Israelis caught in wildfires created by Hezbollah",
+  "text": "Combat Antisemitism movement holds fundraiser for Israelis caught in wildfires created by Hezbollah According to the fundraiser details, between 20 and 150 rockets are launched daily at northern Israel, hitting rural areas and agricultural land. The Combat Antisemitism Movement is hosting an [online fundraiser](https://givebutter.com/FireNorth) to support Israelis in northern Israel affected by wildfires caused by attacks from Hezbollah, the Iranian proxy group that dominates Lebanon. \"Urgent: Northern Israel is under fire! Hezbollah's relentless rocket attacks are igniting devastating wildfires,\" the Combat Antisemitism Movement's CEO Sacha Roytman wrote on [the social media platform, X](https://x.com/sacharoytman/status/1803887305478017471?s=43). \"We need your help now! Join our emergency fundraiser to equip 33 rural communities with essential firefighting kits. Act fast—lives and homes are at stake!\" the post continued. According to the fundraiser details, between 20 and 150 rockets and drones are launched daily at northern Israel, hitting rural areas and agricultural land. \"In just the past two months, these rocket-induced fires have devastated hundreds of acres, leaving homes reduced to ashes and communities in peril,\" the website says. \"Our firefighting efforts are critically undermined by a shortage of resources, with many affected areas being difficult to reach with traditional firefighting equipment.\" Israel has been at war since Oct. 7, 2023, when the terrorist group, Hamas, conducted a surprise attack from Gaza and killed approximately 1,200 Israelis. The war has been ongoing for months and Israeli Prime Minister Benjamin Netanyahu is expected to address Congress in July.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Disaster and Accident", "Social Issue"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://givebutter.com/FireNorth",
+    "https://x.com/sacharoytman/status/1803887305478017471?s=43",
+    "https://www.givebutter.com/FireNorth",
+    "https://x.com/sacharoytman/status/1803887305478017471",
+    "https://www.x.com/sacharoytman/status/1803887305478017471?s=43"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "sacha roytman",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "hezbollah",
+        "sentiment": "negative"
+      },
+      {
+        "name": "hezbollah combat antisemitism",
+        "sentiment": "negative"
+      },
+      {
+        "name": "combat antisemitism movement",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "lebanon",
+        "sentiment": "none"
+      },
+      {
+        "name": "israel",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-22T20:32:23.724+03:00",
+  "updated": "2024-06-23T00:37:02.730+03:00"
+}

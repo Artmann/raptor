@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "4b94f9fb319d7a341fec24677c1354eee0615f00",
+    "url": "https://qldclibraries.govt.nz/whats-on/2025/september/esol-frankton",
+    "site_full": "qldclibraries.govt.nz",
+    "site": "qldclibraries.govt.nz",
+    "site_section": "https://qldclibraries.govt.nz/library-locations/frankton-library",
+    "site_categories": [],
+    "section_title": "Frankton Library",
+    "site_title": "Home",
+    "title": "ESOL Frankton",
+    "title_full": "ESOL Frankton",
+    "published": "2025-09-18T08:49:11.742+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": null,
+    "main_image": "https://qldclibraries.govt.nz/media/1n3nm5ma/qldc_libraries_queenstown_lakes_logo.png",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4b94f9fb319d7a341fec24677c1354eee0615f00",
+  "url": "https://qldclibraries.govt.nz/whats-on/2025/september/esol-frankton",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T08:49:11.742+03:00",
+  "title": "ESOL Frankton",
+  "text": "Looking to improve your English conversation skills?\nFrankton Library is hosting a series of FREE informal English sessions with an experienced tutor!\nJoin us on the third Thursday of every month to:\nContact Frankton Library to book or for more information.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->adult and continuing education",
+    "Education->students",
+    "Education->teachers",
+    "Social Issue->adults",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:49:11.742+03:00",
+  "updated": "2025-09-18T08:53:43.000+03:00"
+}

@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "825742a9b3072b2d53bbcf695a7f9202c6eb423e",
+    "url": "https://siouxcityjournal.com/chix-chicken-waffles/image_9a58252c-0336-11ef-aac0-67655602b539.html",
+    "site_full": "siouxcityjournal.com",
+    "site": "siouxcityjournal.com",
+    "site_section": "http://siouxcityjournal.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5b%5d=%23topstory",
+    "site_categories": ["media"],
+    "section_title": "siouxcityjournal.com - RSS Results",
+    "title": "Chix Chicken & Waffles",
+    "title_full": "Chix Chicken & Waffles",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/9/a5/9a58252c-0336-11ef-aac0-67655602b539/662aa92c6ba7a.image.jpg?crop=1763%2C926%2C0%2C125&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 14803,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "825742a9b3072b2d53bbcf695a7f9202c6eb423e",
+  "url": "https://siouxcityjournal.com/chix-chicken-waffles/image_9a58252c-0336-11ef-aac0-67655602b539.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jesse Brothers, Sioux City Journal",
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "Chix Chicken & Waffles",
+  "text": "Chix Chicken & Waffles - Jesse Brothers, Sioux City Journal - - 0 Most Popular - [Body of missing Wall Lake trucker David Schultz found in Sac County](/news/local/crime-courts/davidschultz-saccounty-trucker-missingperson-walllake-saccountysheriff/article_8f19feda-0299-11ef-80e8-afcd34bd0b5f.html) - [Jarrod DeGeorgia, former Sioux City Bandits coach and quarterback, dead at age 49](/sports/professional/jarrod-degeorgia-sioux-city-bandits-quarterback/article_36c3061e-ff42-11ee-96e6-9bfddd99adb0.html) - [Developer wants former nursing home on Sioux City's north side rezoned](/news/local/government-politics/touchstone-nursinghome-housing-rezoning-siouxcity-citycouncil/article_0521eaac-fe5d-11ee-a8bc-b76082303f3c.html) - [Authorities investigating Harrison County homicide](/news/local/crime-courts/homicide-harrison-county-missouri-valley/article_b1f0adb4-00b9-11ef-84fe-db8cbb6eab44.html) - [DEAR ABBY: Flurry of new sounds drifts through quiet neighborhood](/opinion/column/dear-abby-advice-quiet-neighborhood/article_305ff694-f81a-11ee-adaa-3fdb552c33b5.html)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "jesse brothers",
+        "sentiment": "negative"
+      },
+      {
+        "name": "david schultz",
+        "sentiment": "none"
+      },
+      {
+        "name": "jarrod degeorgia",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "chix chicken & waffles chix chicken & waffles",
+        "sentiment": "negative"
+      },
+      {
+        "name": "sioux city journal",
+        "sentiment": "negative"
+      },
+      {
+        "name": "sioux city bandits",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "harrison county",
+        "sentiment": "none"
+      },
+      {
+        "name": "sac county",
+        "sentiment": "none"
+      },
+      {
+        "name": "sioux city",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:03:02.403+03:00",
+  "updated": "2024-04-26T00:03:02.403+03:00"
+}

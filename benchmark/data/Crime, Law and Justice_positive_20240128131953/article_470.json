@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "dd8d5bc92288d04722d5af2f7e4bc3e781cf00b6",
+    "url": "https://www.androidheadlines.com/2023/12/microsoft-edge-stopped-127-million-phishing-attacks.html",
+    "site_full": "www.androidheadlines.com",
+    "site": "androidheadlines.com",
+    "site_section": "http://www.androidheadlines.com/feed",
+    "site_categories": ["cell_phones", "tech", "palmtops_pdas"],
+    "section_title": "Android Headlines",
+    "title": "Microsoft Edge stopped 127 million phishing attacks this year",
+    "title_full": "Microsoft Edge stopped 127 million phishing attacks this year",
+    "published": "2023-12-29T15:39:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.androidheadlines.com/wp-content/uploads/2018/12/AH-Microsoft-Edge-New.jpg",
+    "performance_score": 0,
+    "domain_rank": 8487,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "shares": 6
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "dd8d5bc92288d04722d5af2f7e4bc3e781cf00b6",
+  "url": "https://www.androidheadlines.com/2023/12/microsoft-edge-stopped-127-million-phishing-attacks.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Abhinav Anand",
+  "published": "2023-12-29T15:39:00.000+02:00",
+  "title": "Microsoft Edge stopped 127 million phishing attacks this year",
+  "text": "Microsoft Edge stopped 127 million phishing attacks this year By Abhinav Anand December 29, 2023 Microsoft Edge is striving hard to gain momentum. This year, the company has packed its browser with several useful tools, including Copilot . This follows Microsoft’s in-app attempt to bash you when you try downloading Google Chrome . But that’s the least to speak of. Microsoft recently released the Edge stats for 2023, showing how people use the browser in everyday life. Some revelations that caught our eyes are, as follows. First, Edge and Bing users used Copilot more than 1.9 million times. It’s the era of AI. So, here comes another: the users generated over 1.8 billion AI-generated images. The best part of this report is, Microsoft Edge notably saved users from over 127 million phishing attacks.\nMicrosoft Edge saved users from over 127 million phishing attacks As the internet advanced and technology became more accessible, it also opened doors for scammers, data thieves, and others alike. In its latest report, Microsoft claims it stopped over four phishing attacks every second throughout the year. Advertisement Advertisement\nMicrosoft Edge comes with built-in shopping assistants to help users save a few bucks. It released Copilot Shopping services in November which helps find the best deals for any product using prompts. The released stats say the US saved an average of $400 annually, while global shoppers received over $4 billion in savings through Edge.\nIt doesn’t stop here; Microsoft also offered over 148 million reward points to gamers throughout the year. That’s about the cost of 1,000 years of an Xbox Game Pass Ultimate subscription, as per the company. You can read the full report here for more interesting stats.\nAll in all, Microsoft’s web browser is surpassing the expectations of users, making a place for itself amid the dominating competition, and trying to reclaim the lost crown. And as Microsoft’s co-founder Bill Gates once said, “Competition is always a fantastic thing, and the computer industry is intensely competitive.” While its plans remain under wraps, Microsoft Edge is likely to integrate more AI tools in the coming months…and years.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [
+    "https://www.xda-developers.com/microsoft-edge-blocked-phishing-saved-billion-shoppers-2023",
+    "https://xda-developers.com/microsoft-edge-blocked-phishing-saved-billion-shoppers-2023/",
+    "https://blogs.windows.com/msedgedev/2023/12/28/microsoft-edge-looking-back-at-an-unforgettable-2023",
+    "https://www.blogs.windows.com/msedgedev/2023/12/28/microsoft-edge-looking-back-at-an-unforgettable-2023/",
+    "https://www.neowin.net/news/microsoft-says-shopping-tools-helped-edge-users-save-on-average-400-per-year/",
+    "https://neowin.net/news/microsoft-says-shopping-tools-helped-edge-users-save-on-average-400-per-year/",
+    "https://www.neowin.net/news/microsoft-says-shopping-tools-helped-edge-users-save-on-average-400-per-year",
+    "https://blogs.windows.com/msedgedev/2023/12/28/microsoft-edge-looking-back-at-an-unforgettable-2023/",
+    "https://www.xda-developers.com/microsoft-edge-blocked-phishing-saved-billion-shoppers-2023/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "abhinav anand",
+        "sentiment": "negative"
+      },
+      {
+        "name": "bing",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "microsoft edge",
+        "sentiment": "negative"
+      },
+      {
+        "name": "google",
+        "sentiment": "none"
+      },
+      {
+        "name": "microsoft",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T15:43:23.241+02:00",
+  "updated": "2024-01-06T00:15:31.685+02:00"
+}

@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "6cefc32ff92f8a0822a51630920ff4d186b4b34d",
+    "url": "https://laprovinciapavese.gelocal.it/pavia/cronaca/2025/05/08/news/un_nubifragio_nella_notte_allagate_due_aule_a_scuola-15136686",
+    "site_full": "laprovinciapavese.gelocal.it",
+    "site": "gelocal.it",
+    "site_section": "https://laprovinciapavese.gelocal.it/pavia",
+    "site_categories": ["media"],
+    "section_title": "\n   La Provincia Pavese\n  ",
+    "site_title": null,
+    "title": "Un nubifragio nella notte allagate due aule a scuola",
+    "title_full": "Un nubifragio nella notte allagate due aule a scuola",
+    "published": "2025-05-08T01:18:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://www.gedistatic.it/content/gnn/img/laprovinciapavese/2025/05/08/001809791-b1703fe7-0c94-44e0-9799-dea07e039692.jpg",
+    "performance_score": 0,
+    "domain_rank": 7381,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6cefc32ff92f8a0822a51630920ff4d186b4b34d",
+  "url": "https://laprovinciapavese.gelocal.it/pavia/cronaca/2025/05/08/news/un_nubifragio_nella_notte_allagate_due_aule_a_scuola-15136686",
+  "ord_in_thread": 0,
+  "author": "La Provincia Pavese",
+  "published": "2025-05-08T01:18:00.000+03:00",
+  "title": "Un nubifragio nella notte allagate due aule a scuola",
+  "text": "SANTA MARIA DELLA VERSA Un violento nubifragio ha colpito, nella notte tra lunedì e martedì, il centro abitato di Santa Maria della Versa, con allagamenti, fango e detriti in strada. Ieri mattina il Comune ha dovuto sospendere le lezioni in due classi delle elementari, per delle perdite d’acqua nelle aule. Amministrazione comunale e volontari della protezion…",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Environment", "Human Interest"],
+  "topics": [
+    "Disaster and Accident->emergency response",
+    "Disaster and Accident->natural disaster",
+    "Environment->natural resources",
+    "Environment->water",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Versa",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "MARIA",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:29:05.280+03:00",
+  "updated": "2025-05-07T23:33:32.000+00:00"
+}

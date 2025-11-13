@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "d78998d92045c9cbe77d2e6994ac73482b30fc73",
+    "url": "https://m.dailyhunt.in/news/india/english/midday-epaper-dh291c7a18b98e48499f645d4af4160fb8/malad+septic+tank+deaths+plumbing+supervisor+held+by+police+for+negligence-newsid-n603366600",
+    "site_full": "m.dailyhunt.in",
+    "site": "dailyhunt.in",
+    "site_section": "https://m.dailyhunt.in/news/india/epaper-gizvideo",
+    "site_categories": ["media", "top_news"],
+    "section_title": "Dailyhunt",
+    "title": "Malad septic tank deaths: Plumbing supervisor held by police for negligence",
+    "title_full": "Malad septic tank deaths: Plumbing supervisor held by police for negligence",
+    "published": "2024-04-25T18:38:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://assets-news-bcdn.dailyhunt.in/cmd/resize/1200x630_90/fetchdata16/images/83/14/d7/8314d787ff65830846e367f8653e13cdfb3e602303e2e66abd6c53c556947de5.jpg",
+    "performance_score": 0,
+    "domain_rank": 18280,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d78998d92045c9cbe77d2e6994ac73482b30fc73",
+  "url": "https://m.dailyhunt.in/news/india/english/midday-epaper-dh291c7a18b98e48499f645d4af4160fb8/malad+septic+tank+deaths+plumbing+supervisor+held+by+police+for+negligence-newsid-n603366600",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@Dailyhuntapp",
+  "published": "2024-04-25T18:38:00.000+03:00",
+  "title": "Malad septic tank deaths: Plumbing supervisor held by police for negligence",
+  "text": "The Dindoshi Police in Mumbai arrested a 51-year-old plumbing supervisor of Raheja Tower for alleged death of two individuals due to negligence, the police said on Thursday.\nThe deceased were identified as Raghu Solanki and Javed Shaikh, 35, another individual, identified as Akib Shaikh,19, was admitted in the hospital after being injured in the incident. His condition was critical, the officials said.\nAccording to the officials, the incident occurred on Wednesday evening, involving drowning of Solanki, Shaikh, Akib while they were cleaning a drain sewer on the premises of Raheja Tower in Malad East area of Mumbai.\nThe Mumbai Fire Brigade (MFB) responded to the emergency situation and the trio stranded in the drain were rescued. They were later shifted to the Hinduhridaysamrat Balasaheb Thackeray Trauma Care Hospital in Jogeshwari East.\nSolanki and Shaikh were declared dead before the admission at the hospital while Akib was unconscious and his condition was critical, he is undergoing treatment, the officials said.\n\"We have registered a case under sections 304 (a), 336, and 338 of the IPC and booked the supervisor identified as Manohar Nadar. He was arrested and he was produced before the court on Thursday,\" said Senior Inspector Irfan Shaikh of Dindoshi Police Station.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "shaikh",
+        "sentiment": "none"
+      },
+      {
+        "name": "solanki",
+        "sentiment": "none"
+      },
+      {
+        "name": "raghu solanki",
+        "sentiment": "none"
+      },
+      {
+        "name": "akib",
+        "sentiment": "none"
+      },
+      {
+        "name": "javed shaikh",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "dindoshi police",
+        "sentiment": "negative"
+      },
+      {
+        "name": "mumbai fire brigade",
+        "sentiment": "none"
+      },
+      {
+        "name": "hinduhridaysamrat balasaheb thackeray trauma care hospital",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "raheja tower",
+        "sentiment": "none"
+      },
+      {
+        "name": "malad",
+        "sentiment": "none"
+      },
+      {
+        "name": "mumbai",
+        "sentiment": "none"
+      },
+      {
+        "name": "malad east",
+        "sentiment": "none"
+      },
+      {
+        "name": "jogeshwari east",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:00:56.237+03:00",
+  "updated": "2024-04-26T00:00:56.237+03:00"
+}

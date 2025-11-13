@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "97d3378b0a8e0c09270ffa48188f0a47b6db3129",
+    "url": "https://www.fema.gov/press-release/20240624/fema-assisting-new-mexico-residents-where-they-are",
+    "site_full": "www.fema.gov",
+    "site": "fema.gov",
+    "site_section": "https://www.fema.gov/news/recentnews_rss.fema",
+    "site_categories": [
+      "society",
+      "law_government_and_politics",
+      "us_government_resources"
+    ],
+    "section_title": "Press Releases",
+    "title": "FEMA is Assisting New Mexico Residents Where They Are",
+    "title_full": "FEMA is Assisting New Mexico Residents Where They Are",
+    "published": "2024-06-24T15:47:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.fema.gov/sites/default/files/2020-04/fema_logo_horizontal.png",
+    "performance_score": 0,
+    "domain_rank": 1006,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "97d3378b0a8e0c09270ffa48188f0a47b6db3129",
+  "url": "https://www.fema.gov/press-release/20240624/fema-assisting-new-mexico-residents-where-they-are",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "alexa.brown",
+  "published": "2024-06-24T15:47:00.000+03:00",
+  "title": "FEMA is Assisting New Mexico Residents Where They Are",
+  "text": "DENTON, Texas – Recovering from wildfires is difficult and overwhelming. FEMA’s Disaster Survivor Assistance (DSA) crews are meeting New Mexico residents where they are to help them apply for FEMA assistance and to assist them on their road to recovery.\nMany residents, in the impacted areas, are staying with family, friends or at shelters due to mandatory evacuations. To ensure these residents have the help they need, these DSA crews are visiting area shelters to help New Mexicans apply for federal assistance, identify potential needs and help make connections with local, state, federal and voluntary agencies.\nThese crews are easily recognizable by their official photo identification (ID). If you meet people offering assistance, first ask to see their ID before giving them your personal information. They may have FEMA clothing, but that can be easily imitated.\nThe FEMA crews can help New Mexico residents in several ways including:\n- Checking the status of an application already in the system and making minor changes to applications.\n- Identifying organizations providing disaster-related services and/or resources to the public for immediate and long-term recovery.\n- Gathering situational awareness about impacts to communities.\n- Providing civil rights and disability integration assistance information to ensure equal access.\nNew Mexico residents can apply to FEMA in several ways:\n- Going online to\nDisasterAssistance.gov\n- Downloading the\nFEMA Appfor mobile devices\n- Calling the FEMA Helpline at 800-621-3362. Calls are accepted every day from 7 a.m. to 10 p.m. MT. Help is available in most languages. If you use a relay service, such as video relay (VRS), captioned telephone or other service, give FEMA the number for that service.\nTo view an accessible video about how to apply visit:\nThree Ways to Register for FEMA Disaster Assistance - YouTube.\nFor the latest information, visit\nfema.gov/disaster/4795. Follow FEMA Region 6 on social media at x.com/FEMARegion6 and facebook.com/femaregion6.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.disasterassistance.gov/",
+    "http://www.youtube.com/watch?v=LU7wzRjByhI",
+    "https://x.com/FEMARegion6",
+    "https://www.facebook.com/femaregion6",
+    "https://www.x.com/FEMARegion6",
+    "https://disasterassistance.gov/",
+    "https://facebook.com/femaregion6",
+    "http://youtube.com/watch?v=LU7wzRjByhI",
+    "https://www.disasterassistance.gov",
+    "http://www.youtube.com/watch"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "fema",
+        "sentiment": "negative"
+      },
+      {
+        "name": "dsa",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "new mexico",
+        "sentiment": "none"
+      },
+      {
+        "name": "texas",
+        "sentiment": "none"
+      },
+      {
+        "name": "denton",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-24T18:16:59.409+03:00",
+  "updated": "2024-06-24T18:16:59.409+03:00"
+}

@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "01374ff7f2ce07e75b98cd301073ec0b86c81302",
+    "url": "https://www.upmedia.mg/news_info.php?Type=24&SerialNo=232987",
+    "site_full": "www.upmedia.mg",
+    "site": "upmedia.mg",
+    "site_section": "https://upmedia.mg/news_list.php?type=9",
+    "site_categories": ["media", "top_news_hk", "top_news_tw", "top_news"],
+    "section_title": "上報 / 要聞",
+    "site_title": "上報 Up Media",
+    "title": "淘寶買家注意！財政部新規上路　6/20起不開放海外IP申請 -- 上報 / 焦點",
+    "title_full": "淘寶買家注意！財政部新規上路　6/20起不開放海外IP申請 -- 上報 / 焦點",
+    "published": "2025-06-19T07:36:47.869+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://www.upmedia.mg/upload/article/20250619111832752504.jpeg",
+    "performance_score": 10,
+    "domain_rank": 78471,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 2059,
+        "comments": 408,
+        "shares": 10228
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "01374ff7f2ce07e75b98cd301073ec0b86c81302",
+  "url": "https://www.upmedia.mg/news_info.php?Type=24&SerialNo=232987",
+  "ord_in_thread": 0,
+  "author": "上報快訊／李唯甄",
+  "published": "2025-06-19T07:36:47.869+03:00",
+  "title": "淘寶買家注意！財政部新規上路　6/20起不開放海外IP申請 -- 上報 / 焦點",
+  "text": "--> 針對海外貨物來台，實名認證APP「EZ WAY易利委」6月20日起將禁止海外IP申請。（資料照片）\n近來「618購物節」吸引各大電商搶攻，推出各種折扣潮搶訂單，不過財政部關務署突然針對海外貨物通關來台認證祭出新規定，下單報關的實名認證APP「EZ WAY易利委」從明天（20日）起將禁止海外IP申請，此舉一出也引起網購族熱烈討論。\n「EZ WAY易利委」實名認證APP推出5年多，突然首度公告不再支援海外IP申請認證，引發淘寶網購買家質疑，這項新規是為了在台美 關稅 談判時展現誠意。對此，財政部官員指出，這項措施是為了防止境外IP冒名連線，不讓爭議IP從海外報關，以降低交易糾紛。\n海外 電商 進口貨品來台愈來愈興盛，財政部關務署在2017年修法，規定商品價值在2000元以下，且半年內進口次數不超過6次、符合規定的貨物進口來台，可免除關稅、貨物稅和營業稅。為讓民眾方便申報通關，2020年5月推出「EZ WAY易利委」實名認證APP，藉由手機操作就可完成報關手續。（責任編輯：呂品逸）\n「EZ WAY易利委」實名認證APP突公告不再支援海外IP申請認證。（翻攝自EZ WAY易利安 ）\n（延伸閱讀： 網購國外3C產品收審查費750元惹議　NCC說明：國內產品維修換新免收費 ）",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Politics", "Social Issue"],
+  "topics": [
+    "Economy, Business and Finance->sales channel",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->financial and economic news",
+    "Politics->government policy",
+    "Politics->economic policy",
+    "Politics->regulation of industry",
+    "Social Issue->social services",
+    "Social Issue->demographics",
+    "Social Issue->immigration"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://line.naver.jp/R/msg/text/?測試test",
+    "https://www.facebook.com/UPMEDIA.MG",
+    "https://www.youtube.com/embed/FsNsNQScfZM?autoplay=1&mute=1&loop=1&playlist=FsNsNQScfZM",
+    "https://youtube.com/embed/FsNsNQScfZM?autoplay=1&mute=1&loop=1&playlist=FsNsNQScfZM",
+    "https://www.youtube.com/embed/FsNsNQScfZM",
+    "https://line.naver.jp/R/msg/text/",
+    "https://facebook.com/UPMEDIA.MG",
+    "https://www.line.naver.jp/R/msg/text/?測試test"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_hk", "top_news_tw", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:36:47.869+03:00",
+  "updated": "2025-06-20T05:10:37.000+00:00"
+}

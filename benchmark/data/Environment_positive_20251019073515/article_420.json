@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "ad99e39a70ae8b53cda54a89323666af135a0823",
+    "url": "https://brescia.coldiretti.it/news/lavoro-le-idee-giovani-dalle-campagne-lombarde/",
+    "site_full": "brescia.coldiretti.it",
+    "site": "coldiretti.it",
+    "site_section": "https://brescia.coldiretti.it/news",
+    "site_categories": [],
+    "section_title": "Coldiretti - BRESCIA",
+    "site_title": "Coldiretti",
+    "title": "Coldiretti - BRESCIA",
+    "title_full": "Coldiretti - BRESCIA",
+    "published": "2025-09-30T12:22:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://lombardia.coldiretti.it/wp-content/uploads/2024/10/Oscar-Green-Lombardia_Bergamo_1-ottobre-2024-2-scaled.jpg",
+    "performance_score": 0,
+    "domain_rank": 141810,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ad99e39a70ae8b53cda54a89323666af135a0823",
+  "url": "https://brescia.coldiretti.it/news/lavoro-le-idee-giovani-dalle-campagne-lombarde/",
+  "ord_in_thread": 0,
+  "author": "Sara Vecchiati",
+  "published": "2025-09-30T12:22:00.000+03:00",
+  "title": "Coldiretti - BRESCIA",
+  "text": "Gli Oscar Green della Coldiretti ai progetti innovativi\ntra nuove tecnologie e salvaguardia della biodiversità\nL’ingegno e la creatività dei giovani agricoltori lombardi per far crescere imprese innovative, grazie alle nuove tecnologie e agli strumenti digitali, senza però dimenticare la tutela della biodiversità e la sostenibilità saranno al centro dell’evento organizzato da Coldiretti Lombardia in occasione della consegna degli Oscar Green 2025, i premi promossi da Coldiretti Giovani Impresa.\nL’appuntamento è per mercoledì 1 ottobre 2025 a Gravedona ed Uniti, in provincia di Como, presso Palazzo Gallio in via per Cernobbio, 28: dalle ore 16.30 sarà aperto lo spazio espositivo con le idee e i progetti imprenditoriali più interessanti e curiosi sviluppati su tutto il territorio regionale. Saranno illustrati direttamente dai giovani agricoltori che li hanno ideati. Dalle ore 17.30, la cerimonia di premiazione con la consegna degli Oscar Green 2025 della Lombardia.\nInsieme ai giovani agricoltori lombardi provenienti da tutte le province, capitanati dal delegato Giovani Impresa di Coldiretti Lombardia Giovanni Bellei, ci saranno tra gli altri: il presidente dei giovani di Coldiretti Enrico Parisi; il segretario nazionale di Coldiretti Giovani Impresa Stefano Leporati; il presidente di Coldiretti Lombardia Gianfranco Comincioli; l’assessore regionale all’Agricoltura, Sovranità alimentare e Foreste Alessandro Beduschi; l’assessore regionale all’Università, Ricerca e Innovazione Alessandro Fermi; il presidente della Provincia di Como Fiorenzo Bongiasca.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->sustainability"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Dalle",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "via per Cernobbio",
+        "sentiment": "none"
+      },
+      {
+        "name": "provincia di Como",
+        "sentiment": "none"
+      },
+      {
+        "name": "Palazzo Gallio",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Coldiretti Lombardia",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:43:22.090+03:00",
+  "updated": "2025-10-16T14:51:32.000+03:00"
+}

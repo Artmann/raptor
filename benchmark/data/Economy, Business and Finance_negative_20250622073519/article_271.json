@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "24c52ea7dbe64883a1ae2b4a98c2f281371dd1b1",
+    "url": "https://www.163.com/dy/article/K2DN52O10529AQIE.html",
+    "site_full": "www.163.com",
+    "site": "163.com",
+    "site_section": "http://news.163.com/",
+    "site_categories": [
+      "top_news_vn",
+      "top_news_th",
+      "top_news_nz",
+      "top_news_rs",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news_hk",
+      "top_news_my",
+      "top_news"
+    ],
+    "section_title": "网易新闻",
+    "site_title": "网易",
+    "title": "太阳报：英格兰U21对阵德国比赛因球场灯光问题一度暂停|荷兰|欧青赛|新球场_网易订阅",
+    "title_full": "太阳报：英格兰U21对阵德国比赛因球场灯光问题一度暂停|荷兰|欧青赛|新球场_网易订阅",
+    "published": "2025-06-19T06:12:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 273,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "24c52ea7dbe64883a1ae2b4a98c2f281371dd1b1",
+  "url": "https://www.163.com/dy/article/K2DN52O10529AQIE.html",
+  "ord_in_thread": 0,
+  "author": "网易",
+  "published": "2025-06-19T06:12:00.000+03:00",
+  "title": "太阳报：英格兰U21对阵德国比赛因球场灯光问题一度暂停|荷兰|欧青赛|新球场_网易订阅",
+  "text": "直播吧6月19日讯 《太阳报》报道，英格兰U21和德国U21的比赛一度因为球场灯光问题而暂停。\n今天凌晨，英格兰U21在欧青赛中1-2不敌德国，上半场补时最后一分钟，球场一侧照明系统突然失效，迫使荷兰主裁判桑德-范德艾克中止比赛。尽管另一侧灯光正常，但半座球场陷入昏暗，双方球员只得在微光中徘徊。\n经紧急协商，裁判提前30秒吹响半场哨，技术人员随即展开抢修。这次意外为英格兰的糟糕半场画上句点，当时球队已两球落后。\n中场休息期间，欧足联应急团队成功修复故障，确保下半场准时开赛，但英格兰已面临背水一战，最终球队只能追回一球，输掉了比赛。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Sport", "Human Interest", "Economy, Business and Finance"],
+  "topics": [
+    "Sport->sport event",
+    "Sport->regular competition",
+    "Sport->soccer",
+    "Human Interest->record and achievement",
+    "Economy, Business and Finance->tourism and leisure industry",
+    "Economy, Business and Finance->media and entertainment industry"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_vn",
+      "top_news_th",
+      "top_news_nz",
+      "top_news_rs",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news_hk",
+      "top_news_my",
+      "top_news"
+    ],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:38:44.139+03:00",
+  "updated": "2025-06-20T05:06:41.000+00:00"
+}

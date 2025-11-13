@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "f8fc92da1022b335be305c936c74393c5ee11262",
+    "url": "https://diariohoy.net/politica/jornada-federal-de-lucha-por-la-universidad-publica-paro-y-protestas-en-el-pais-271198",
+    "site_full": "diariohoy.net",
+    "site": "diariohoy.net",
+    "site_section": "https://diariohoy.net/politica",
+    "site_categories": ["uncategorized"],
+    "section_title": "Política - Diario Hoy",
+    "site_title": null,
+    "title": "Jornada federal de lucha por la universidad pública: paro y protestas en el país",
+    "title_full": "Jornada federal de lucha por la universidad pública: paro y protestas en el país",
+    "published": "2025-06-26T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "https://diariohoynet.nyc3.cdn.digitaloceanspaces.com/adjuntos/galerias/000/649/0000649186.jpg",
+    "performance_score": 0,
+    "domain_rank": 135062,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f8fc92da1022b335be305c936c74393c5ee11262",
+  "url": "https://diariohoy.net/politica/jornada-federal-de-lucha-por-la-universidad-publica-paro-y-protestas-en-el-pais-271198",
+  "ord_in_thread": 0,
+  "author": "@diariohoynet",
+  "published": "2025-06-26T03:00:00.000+03:00",
+  "title": "Jornada federal de lucha por la universidad pública: paro y protestas en el país",
+  "text": "Jornada federal de lucha por la universidad pública: paro y protestas en el país\nEsta tarde habrá movilizaciones, clases públicas y un paro docente de 48 horas en defensa del sistema universitario.\nEste jueves 26 de junio comienza una nueva jornada nacional de lucha universitaria. Docentes, no docentes, estudiantes y autoridades de las 61 universidades públicas del país convocaron a protestas en todo el territorio en reclamo de una solución urgente a la crisis presupuestaria que atraviesa el sistema. Además, se inicia un paro de 48 horas impulsado por las principales federaciones docentes del país: Conadu y Conadu Histórica.\nEn la Ciudad de Buenos Aires, la jornada comenzará con un abrazo simbólico al Hospital de Clínicas a las 10 de la mañana. Más tarde, a las 17, se realizará una marcha de antorchas desde Plaza Houssay hasta el Palacio Pizzurno. Desde el Consejo Interuniversitario Nacional (CIN) exigieron la aprobación de la Ley de Financiamiento Universitario, presentada el 28 de mayo. “Si no hay una solución, el sistema puede colapsar”, advirtió su presidente, Oscar Alpa. Además, se impulsa una campaña para reunir un millón de firmas en apoyo al proyecto.\nRepresentantes de la comunidad universitaria insisten en que la falta de presupuesto, los bajos salarios y la paralización de obras ponen en riesgo la continuidad del sistema.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Politics", "Social Issue", "Education"],
+  "topics": [
+    "Politics->civil rights",
+    "Politics->political process",
+    "Politics->government",
+    "Social Issue->social problem",
+    "Social Issue->social services",
+    "Education->students",
+    "Education->college and university",
+    "Education->teachers"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Oscar Alpa",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Hospital de Clínicas",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ciudad de",
+        "sentiment": "none"
+      },
+      {
+        "name": "Pizzurno",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Consejo Interuniversitario Nacional",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T08:22:36.105+03:00",
+  "updated": "2025-06-26T05:32:23.000+00:00"
+}

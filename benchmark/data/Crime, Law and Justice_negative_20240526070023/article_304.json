@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "400684571fd67ca7534db764f718363d37b0e730",
+    "url": "https://www.gbnews.com/lifestyle/cars/tesla-driver-collision-autopilot-killed-motorcyclist-maltby-washington",
+    "site_full": "www.gbnews.com",
+    "site": "gbnews.com",
+    "site_section": "https://www.gbnews.com/feeds/feed.rss",
+    "site_categories": [],
+    "section_title": "GB News",
+    "title": "Tesla driver 'using autopilot' charged after car 'lurched forward' and killed motorcyclist",
+    "title_full": "Tesla driver 'using autopilot' charged after car 'lurched forward' and killed motorcyclist",
+    "published": "2024-04-26T00:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.gbnews.com/media-library/watch-tesla-ignores-stop-sign-during-experiment.jpg?id=50932967&width=1200&height=600&coordinates=0%2C79%2C0%2C92",
+    "performance_score": 0,
+    "domain_rank": 20131,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "400684571fd67ca7534db764f718363d37b0e730",
+  "url": "https://www.gbnews.com/lifestyle/cars/tesla-driver-collision-autopilot-killed-motorcyclist-maltby-washington",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Georgina Cutler",
+  "published": "2024-04-26T00:00:00.000+03:00",
+  "title": "Tesla driver 'using autopilot' charged after car 'lurched forward' and killed motorcyclist",
+  "text": "Published: 25/04/2024- 21:23 Updated: 25/04/2024- 22:15 Don't Miss Most Read Trending on GB News A Tesla driver has been charged with vehicular homicide after his car in autopilot mode killed a motorcyclist, documents show. The vehicle collided with motorcyclist Jeffrey Nissen at around 3.45 pm on Friday in Maltby - a suburban area about 15 miles outside of Seattle. The 56-year-old Tesla driver told emergency services that the vehicle in autopilot mode \"lurched forward as it accelerated and collided with the motorcycle in front of him.\" Court documents also stated that the driver admitted to having one drink before the crash, but passed field and blood tests. A Tesla driver has been charged with vehicular homicide after his car in autopilot mode killed a motorcyclist, documents showGetty The driver of a 2022 Tesla Model S told a Washington State Patrol trooper that he had looked at his phone while the Tesla was moving, Fox News reports. The trooper wrote in a probable-cause document: \"The next thing he knew there was a bang and the vehicle lurched forward as it accelerated and collided with the motorcycle in front of him.\" According to the document, the driver was arrested for investigation of vehicular homicide \"based on the admitted inattention to driving, while on Autopilot mode, and the distraction of the cell phone while moving forward, putting trust in the machine to drive for him.\" Authorities said they have not yet verified whether Autopilot was in use at the time of the incident. LATEST DEVELOPMENTS: Washington State Patrol Capt. Deion Glover said: \"We have not gotten that far yet. It’s very early stages of the investigation.\" Nissen, 28, died at the scene after he was ejected from the bike before being run over by the Tesla. His death comes four months after US auto safety regulators pressured Tesla into recalling more than 2 million vehicles to fix a defective system which is supposed to ensure drivers pay attention while using Autopilot. Tesla states on its website that Autopilot is intended \"for use with a fully attentive driver, who has their hands on the wheel and is prepared to take over at any moment.\" The driver of a 2022 Tesla Model S told a Washington State Patrol trooper that he had looked at his phone while the Tesla was moving, Fox News reports (stock image) Getty It is unknown whether the Tesla involved in the Washington collision had the software update specified in the recall. Speaking about Nissen's death, his sister Jenessa Fagerlie said: \"[Jeff] was such a loving person, such a loving uncle. He loved his nieces and nephews. \"We were hoping someday that he would have kids, but he got taken too soon,\" she told FOX 13.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "tesla",
+        "sentiment": "negative"
+      },
+      {
+        "name": "jeffrey nissen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "washington state patrol",
+        "sentiment": "none"
+      },
+      {
+        "name": "fox news",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "tesla",
+        "sentiment": "none"
+      },
+      {
+        "name": "seattle",
+        "sentiment": "none"
+      },
+      {
+        "name": "maltby",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:11:51.883+03:00",
+  "updated": "2024-04-26T01:03:19.175+03:00"
+}

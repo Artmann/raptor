@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "995e5e6b05e773a30f92e7688bbc740a7c99de71",
+    "url": "https://elcomercio.pe/lima/senamhi-hasta-10-c-por-las-noches-advierten-descenso-de-temperatura-en-la-costa-ultimas-noticia",
+    "site_full": "elcomercio.pe",
+    "site": "elcomercio.pe",
+    "site_section": "https://elcomercio.pe/arcio/rss/category/peru/?ref=economia&ft=menu",
+    "site_categories": [
+      "media",
+      "world_soccer",
+      "sports",
+      "top_news_ar",
+      "top_news_ve",
+      "top_news_pe",
+      "top_news_co",
+      "top_news_mx",
+      "top_news_cl",
+      "top_news"
+    ],
+    "section_title": "",
+    "site_title": "Noticias del Perú y el Mundo de último minuto-- | EL COMERCIO PERÚ",
+    "title": "Hasta 10 °C por las noches: Senamhi advierte descenso de temperatura en la costa",
+    "title_full": "Hasta 10 °C por las noches: Senamhi advierte descenso de temperatura en la costa",
+    "published": "2025-05-08T02:42:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PE",
+    "main_image": "https://elcomercio.pe/resizer/v2/ATBXSC4J6VAU5MCQBIE2QNBIDI.jpg?auth=6e701dde07ea606e5485de58384cc26c418657efa2f5ab81dd2db0dd9bb706bc&amp;width=980&amp;height=528&amp;quality=75&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 4733,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "995e5e6b05e773a30f92e7688bbc740a7c99de71",
+  "url": "https://elcomercio.pe/lima/senamhi-hasta-10-c-por-las-noches-advierten-descenso-de-temperatura-en-la-costa-ultimas-noticia",
+  "ord_in_thread": 0,
+  "author": "Redacción EC",
+  "published": "2025-05-08T02:42:00.000+03:00",
+  "title": "Hasta 10 °C por las noches: Senamhi advierte descenso de temperatura en la costa",
+  "text": "Saber más\nEl Servicio Nacional de Meteorología e Hidrología del Perú (Senamhi) informó que se prevé un descenso de las temperaturas nocturnas en la costa peruana entre el 10 y el 15 de mayo. La entidad, adscrita al Ministerio del Ambiente, detalló que este fenómeno afectará principalmente a las regiones desde Ica hasta Piura.\nDe acuerdo con el pronóstico, las temperaturas nocturnas oscilarán entre los 10 °C y 15 °C en Ica; entre 14 °C y 17 °C para Lima; entre 15 °C y 17 °C en Áncash; entre 14 °C y 18 °C en La Libertad; entre 15 °C y 17 °C en Lambayeque; y entre 17 °C y 20 °C en Piura. En tanto, en Lima Metropolitana se esperan temperaturas mínimas entre los 15 °C y 16 °C.\nMIRA:[Extorsionadores dejan dos explosivos en colegio particular de Comas]\nEl Senamhi explicó que este descenso se debe, principalmente, a la presencia de aguas frías frente al litoral peruano. A ello se suma la intensificación de los vientos del sur, que contribuyen a generar mayor nubosidad durante las mañanas y condiciones más frías en zonas costeras.\nSegún la entidad, la sensación térmica será más baja especialmente en los distritos cercanos al mar durante las mañanas. No obstante, se prevé presencia de brillo solar hacia el mediodía.\nEl Senamhi recomendó a la población tomar las precauciones necesarias. Asimismo, sugirió mantenerse informado a través de sus canales oficiales para conocer los pronósticos actualizados.\n¿Cuándo empieza el invierno en el Perú en 2025?\nEl invierno astronómico en el Perú comenzará el 20 de junio de 2025 a las 9:42 p. m., de acuerdo con el calendario del hemisferio sur.\nCabe señalar que las estaciones astronómicas son las mismas para la costa, sierra y selva del territorio nacional. Sin embargo, cada región presentará características climáticas propias durante el invierno, influenciadas por su ubicación geográfica y altitud.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment"],
+  "topics": [
+    "Weather->weather warning",
+    "Environment->energy resources",
+    "Environment->climate change"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:44:35.008+03:00",
+  "updated": "2025-05-08T00:49:38.000+00:00"
+}

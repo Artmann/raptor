@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "756b3515ac95cab9bcff26dd8a3800a935544bde",
+    "url": "https://uk.investing.com/news/stock-market-news/exclusive-coindesk-is-ready-for-mass-adoption-of-digital-assets-managing-director-andrew-baehr-says-3282503",
+    "site_full": "uk.investing.com",
+    "site": "investing.com",
+    "site_section": "https://uk.investing.com/news/stock-market-news",
+    "site_categories": ["finance"],
+    "section_title": "Stock Market News | Share News - Investing.com UK",
+    "title": "EXCLUSIVE: CoinDesk Is Ready For Mass Adoption Of Digital Assets, Managing Director Andrew Baehr Says By Benzinga",
+    "title_full": "EXCLUSIVE: CoinDesk Is Ready For Mass Adoption Of Digital Assets, Managing Director Andrew Baehr Says By Benzinga",
+    "published": "2023-12-28T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IL",
+    "main_image": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_L.jpg",
+    "performance_score": 0,
+    "domain_rank": 1378,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "756b3515ac95cab9bcff26dd8a3800a935544bde",
+  "url": "https://uk.investing.com/news/stock-market-news/exclusive-coindesk-is-ready-for-mass-adoption-of-digital-assets-managing-director-andrew-baehr-says-3282503",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Benzinga",
+  "published": "2023-12-28T02:00:00.000+02:00",
+  "title": "EXCLUSIVE: CoinDesk Is Ready For Mass Adoption Of Digital Assets, Managing Director Andrew Baehr Says By Benzinga",
+  "text": "© Reuters. EXCLUSIVE: CoinDesk Is Ready For Mass Adoption Of Digital Assets, Managing Director Andrew Baehr Says GPAGF 0.00% Add to/Remove from a Portfolio Add to Watchlist Add Position Position added successfully to:\nPlease name your holdings portfolio Type: BUY SELL Date: Amount: Price Point Value: Leverage: 1:1 1:10 1:25 1:50 1:100 1:200 1:400 1:500 1:1000 Commission: Create New Watchlist Create Create a new holdings portfolio Add Create + Add another position Close Benzinga - by Stjepan Kalinic, Benzinga Staff Writer.\nFollowing Bullish ‘s acquisition of CoinDesk , Benzinga sat down with CoinDesk Indices managing director Andrew Baehr to reflect on this year and set the expectations for 2024.\nBZ: Y ou have worked in traditional finance. Your generation is now among the last ones that have worked in \"the old world\" before digitalization. C an you share a bit of this perspective? Baehr: Entering the finance business in the mid-’90s already felt like stepping into a new world due to a technology overhaul. The use of paper tickets on the New York Stock Exchange floor marked the era, and Ph. D.s began participating in derivative markets to understand and model prices better.\nThe subsequent crises, such as the ’97 Emerging Market crisis and the ’98 Russian Ruble crisis, tested assumptions in an institutional risk environment. The NASDAQ bubble in ’99 saw a shift toward active and emotional retail trading, leading to cognitive biases and a burst bubble.\nA slow rebuild of trust followed these events, influenced by factors like declining interest rates and a continuous search for new yield sources. The financial crisis exposed risks in trying to replace yield with complex financial products, with housing becoming a focal point.\nPost-crisis, interest rates remained low, prompting a new boom in lending, real estate, and credit, supported by central bank interventions. The COVID crisis accelerated momentum, driving retail interest in cryptocurrencies due to concerns about currency stability and alternative yield sources.\nThe cryptocurrency business has largely remained a retail conversation, driven by curiosity, distrust of the traditional financial system, and a fascination with technology. While some achieved wealth, for most, it became an interesting hobby rather than a retirement plan.\nPeople prefer trusted systems, whether buying a car, getting healthcare, or engaging in financial services. Despite not always being in their best interest, traditional financial avenues like 401(k)s, brokerage accounts, and financial advisors get a pass due to their familiarity and regulation.\nComparing it to health decisions, individuals might take vitamins but wouldn’t attempt surgery themselves. Similarly, while individuals may buy Bitcoin as a meaningful hobby, staking their retirement on it requires a more familiar path. The last mile of delivery, the interface with familiar systems, becomes crucial for mass adoption, prompting individuals to include digital assets in their portfolios through trusted avenues like advisors or 401(k)s.\nCoinDesk seems like it’s positioned for mass adaptation. Yet, you have also introduced some innovative tools. Can you tell us more about that? Coindesk has strategically positioned itself for widespread adoption over the years. In the early days, determining the price of Bitcoin was not straightforward, given the existence of various independent exchanges without a consolidated tape, unlike equities. The concept of a consolidated tape, which people now take for granted in traditional markets, was absent. Recognizing this gap, Coindesk took a pivotal step by introducing XBX, the predecessor to our current indices. Since 2014, XBX has provided the most widely referenced price of Bitcoin, updating once per second. This development played a crucial role in supporting the Grayscale Bitcoin Trust (GBTC) initially and has since extended its influence to various ETFs, futures contracts, and other financial instruments.\nOur initial focus was on establishing a consensus on the price of individual tokens. Subsequently, we expanded our efforts to address the diversity of tokens in the market. Two years ago, Coindesk Indices launched the Dax, a taxonomy that categorizes 500 tokens into sectors and industry groups. This framework has become the basis for all our multi-token indices. By leveraging this taxonomy, our analysts classify tokens into different categories and sectors.\nBuilding upon this foundation, we introduced various indices such as the Coindesk Market Index and sector-specific indices. Furthermore, we launched dynamic strategies designed to enhance outcomes for users. These strategies incorporate trend indicators, allowing users to make informed decisions based on market trends. In essence, our commitment to providing reliable benchmarks and innovative tools reflects our dedication to facilitating a deeper understanding of the cryptocurrency market and supporting a diverse range of financial instruments.\nA Bitcoin trend indicator sounds like something that might interest our readers. Can you explain the logic behind it? The logic behind the Bitcoin indicator revolves around the concept of time series momentum, a phenomenon observed in various financial assets. In essence, when prices initiate a directional movement, whether upward or downward, they tend to sustain that trend. This persistence is attributed to the delayed dissemination of news impacting the underlying assets across different market segments. While some participants immediately grasp the implications of new information, others may take time to interpret it accurately. Consequently, the price of an asset, which should theoretically change instantly based on new information, may gradually move towards its revised value.\nTo quantify this phenomenon, historical price data is analyzed. If the price of an asset shows a consistent upward movement, say from 100 to 125, it indicates a likely continuation of the trend, and the eventual destination is probably higher than the starting point—perhaps around 150 rather than 110. This principle is well-documented in academic literature and is particularly evident in certain digital assets, including Bitcoin.\nBitcoin, along with some other digital assets, exhibits strong time-series momentum. Changes in factors such as interest rates, regulatory developments, growth patterns, or wallet activity are reflected slowly in Bitcoin prices. For instance, during the period between mid-October and now, Bitcoin has demonstrated a robust uptrend.\nCoindesk Indices leverages the observed strength of time series momentum in Bitcoin to create the Bitcoin Trend indicator. This indicator analyzes various historical periods of Bitcoin prices to calculate the current trend. Since mid-October, the trend has notably been upward. Clients utilize this information to develop products that dynamically allocate between Bitcoin and cash.\nThe rationale behind these allocation strategies is rooted in addressing emotional trading tendencies. Past experiences, such as the crypto market challenges a year ago, led some investors to sell Bitcoin at a lower price due to emotional reactions. The Bitcoin Trend indicator assists in overcoming emotional biases by dynamically reallocating to cash during downtrends, allowing investors to avoid losses. When the trend reverses and prices start trending upward again, the strategies automatically reallocate to Bitcoin, providing a systematic and disciplined approach to market participation.\nYou have partnered up with a Florida-based hedge fund Hyperion Decimus, and launched HD CoinDesk TrendMax Strategy. Can our readers participate? Are there restrictions? For example, is it for accredited investors only? Initially, the HD Coindesk TrendMAX strategy is available via SMA through Coinbase and is soon to be available at SFOX and OKEX. At present, the strategy is available to accredited and institutional investors, but ultimately that decision lies with the platform. Mechanically, interested clients contact our team first, and we can then coordinate with Coinbases' team for onboarding.\n2023 is almost behind us and it was a big year for crypto. Looking forward to 2024 – What kind of challenges do you see for investors? I believe that in 2023, especially within the United States, we faced a substantial clean-up process after the altcoin bubble, with a regulatory reset taking place. There were numerous challenges, both in terms of the industry addressing its own issues and the prevalent negative behaviors from 2022 and earlier. This misconduct was directly linked to an underregulated and under-monitored new industry. Fortunately, regulatory systems, law enforcement, the justice department, and the courts played a crucial role in swiftly resolving many problems from the previous years. The distractions caused by improper behavior had significantly slowed down progress, affecting price action and interest levels.\nHowever, despite these challenges, countries worldwide continued to advance. In June, Hong Kong’s regulator, the SFC, published commendable rules for exchanges and asset managers, outlining how they could offer digital asset products to retail clients. Innovations in places like Dubai, Switzerland, Latin America, and Europe demonstrated a strong evolution of thought, recognizing the growing demand for digital assets.\nThis year marked a post-altcoin bubble era characterized by a regulatory reset and the metaphorical ‘dirty dishes’ of the industry. Yet, the pace of U.S. regulation was frustratingly slow, partly due to the unique characteristic of having separate regulatory bodies, the CFTC and the SEC, causing some ambiguity about who should regulate digital assets.\nThe news landscape was littered with court cases and SEC approvals of spot Bitcoin ETFs, creating a somewhat limited narrative. Overcoming these regulatory hurdles would likely pave the way for a more constructive and forward-looking news cycle. Once people can easily access Bitcoin through an ETF, attention will likely shift to other assets like Ethereum, staking, and emerging players such as Solana.\nLooking ahead to 2024, my prediction is that digital assets will be officially recognized as an asset class. This shift will redefine conversations, moving away from solely discussing Bitcoin to a broader consideration of the entire asset class. I anticipate that people will start referring to indices representing the digital asset class, similar to how we discuss equities through indices rather than individual stocks. This recognition will highlight the asset class’s open-for-business status, its diversification properties, liquidity, and familiar investment avenues like ETFs, funds, futures contracts, and managed accounts.\n2023 was also a big year for CoinDesk. Following the acquisition by Bullish Group. What can we expect from CoinDesk in 2024? It is wonderful to be a part of Bullish. I enjoy what Bullish does, and for the market’s sake and our clients – everybody wants Coindesk to be able to maintain its independent decision-making right, first of all, editorial independence. We've taken a lot of steps to maintain that because you want an index company treating data and opportunities independently.\nI'd say that Bullish's CEO Tom Farley, who was the head of the New York Stock Exchange, is not a person coming into this frivolously. Bullish is a fascinating company with an exciting business plan and it is fun to be a part of an organization that's moving fast and doing cool stuff.\nDo you have any advice for our readers who are just starting with cryptocurrencies? If they're just getting started and they want to understand Bitcoin, it is great to understand how it trades, that it is a scarce limited supply store of value and think about all the ways it's used today.\nWhen it comes to Ethereum, they need a blank piece of paper to start. It makes sense to spend time understanding a proof of stake consensus chain and the yield that comes out of that which is something that we measure and have a product around. Also, consider all the protocols that use Ethereum and to the extent that USDC trades on it – meaning it is also good for it. So, even a stablecoin or another token or another smart contract is a positive factor.\nI think once you understand Bitcoin and Ethereum, how they're different and why they exist – it gives you a great head start to compare other ideas even before you get to other things like DeFi. I suggest using some time over the holidays to read about and appreciate those two blockchains which have been around for quite some time.\nNow Read: Taylor Swift’s ‘1989 (Taylor’s Version)’ Matches Elvis Presley’s Billboard Record In Spectacular 2023 Run\n© 2023 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.\nRead the original article on Benzinga\nEXCLUSIVE: CoinDesk Is Ready For Mass Adoption Of Digital Assets, Managing Director Andrew Baehr Says",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Science and Technology"],
+  "external_links": [
+    "https://www.benzinga.com/markets/cryptocurrency/23/12/36417842/exclusive-coindesk-is-ready-for-mass-adoption-of-digital-assets-managing-director-andrew-b?utm_campaign=partner_feed&utm_source=InvestingUK&utm_medium=partner_feed&utm_content=TopStories",
+    "https://invst.ly/12tygr",
+    "https://www.facebook.com/sharer/sharer.php?app_id=179222828858436&u=https%3A%2F%2Fuk.investing.com%2Fnews%2Fstock-market-news%2Fexclusive-coindesk-is-ready-for-mass-adoption-of-digital-assets-managing-director-andrew-baehr-says-3282503&display=popup&ref=plugin",
+    "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fuk.investing.com%2Fnews%2Fstock-market-news%2Fexclusive-coindesk-is-ready-for-mass-adoption-of-digital-assets-managing-director-andrew-baehr-says-3282503&title=EXCLUSIVE%3A+CoinDesk+Is+Ready+For+Mass+Adoption+Of+Digital+Assets%2C+Managing+Director+Andrew+Baehr+Says&summary=",
+    "https://benzinga.com/markets/cryptocurrency/23/12/36417842/exclusive-coindesk-is-ready-for-mass-adoption-of-digital-assets-managing-director-andrew-b?utm_campaign=partner_feed&utm_source=InvestingUK&utm_medium=partner_feed&utm_content=TopStories",
+    "https://www.invst.ly/12tygr",
+    "https://www.benzinga.com/markets/cryptocurrency/23/12/36417842/exclusive-coindesk-is-ready-for-mass-adoption-of-digital-assets-managing-director-andrew-b",
+    "http://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fuk.investing.com%2Fnews%2Fstock-market-news%2Fexclusive-coindesk-is-ready-for-mass-adoption-of-digital-assets-managing-director-andrew-baehr-says-3282503&title=EXCLUSIVE%3A+CoinDesk+Is+Ready+For+Mass+Adoption+Of+Digital+Assets%2C+Managing+Director+Andrew+Baehr+Says&summary=",
+    "https://www.facebook.com/sharer/sharer.php",
+    "https://facebook.com/sharer/sharer.php?app_id=179222828858436&u=https%3A%2F%2Fuk.investing.com%2Fnews%2Fstock-market-news%2Fexclusive-coindesk-is-ready-for-mass-adoption-of-digital-assets-managing-director-andrew-baehr-says-3282503&display=popup&ref=plugin",
+    "http://www.linkedin.com/shareArticle"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "andre",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "andrew baehr",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "stjepan kalinic",
+        "sentiment": "none"
+      },
+      {
+        "name": "benzinga",
+        "sentiment": "none"
+      },
+      {
+        "name": "baehr",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "benzinga © reuters",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "mass adoption of digital assets",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "new york stock exchange",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:07:23.795+02:00",
+  "updated": "2023-12-29T00:07:23.795+02:00"
+}

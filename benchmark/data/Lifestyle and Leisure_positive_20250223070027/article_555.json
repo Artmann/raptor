@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "6a669a2a70ff59bd8f14c5af5b8f6c9f8c5f82bd",
+    "url": "https://www.cbc.ca/player/play/video/9.6621873",
+    "site_full": "www.cbc.ca",
+    "site": "cbc.ca",
+    "site_section": "https://www.cbc.ca/player/news",
+    "site_categories": ["media", "top_news_ca", "top_news"],
+    "section_title": "News - Video | CBC.ca",
+    "title": "The wait is over. New QMJHL team named Newfoundland Regiment | CBC.ca",
+    "title_full": "The wait is over. New QMJHL team named Newfoundland Regiment | CBC.ca",
+    "published": "2025-01-24T06:12:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://i.cbc.ca/ais/d4b7a536-ccc6-4102-bf07-fda8fe786dad,1737670316152/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%281180%29",
+    "performance_score": 0,
+    "domain_rank": 331,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6a669a2a70ff59bd8f14c5af5b8f6c9f8c5f82bd",
+  "url": "https://www.cbc.ca/player/play/video/9.6621873",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2025-01-24T06:12:00.000+02:00",
+  "title": "The wait is over. New QMJHL team named Newfoundland Regiment | CBC.ca",
+  "text": "Fans have been waiting weeks for the unveiling of the name and official colours of St. John’s newest Quebec Maritime Junior Hockey League team. The league put rumours and speculation to rest Thursday, when the team’s owners announced the club would be called the Newfoundland Regiment. The CBC’s Terry Roberts was there.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->sport event",
+    "Sport->regular competition",
+    "Sport->ice hockey",
+    "Human Interest->record and achievement",
+    "Lifestyle and Leisure->game",
+    "Lifestyle and Leisure->trend"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Terry Roberts",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Quebec Maritime Junior Hockey League",
+        "sentiment": "none"
+      },
+      {
+        "name": "CBC",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "6a669a2a70ff59bd8f14c5af5b8f6c9f8c5f82bd",
+    "first_syndicated": true
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:24:45.061+02:00",
+  "updated": "2025-01-24T00:24:45.061+02:00"
+}

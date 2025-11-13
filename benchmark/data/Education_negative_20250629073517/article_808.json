@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "3fe47e3712f09ffe6fed52bec905c7f608390588",
+    "url": "https://www.tecnicadellascuola.it/dopo-tre-note-disciplinari-uno-studente-e-escluso-dalla-gita-e-la-famiglia-fa-ricorso-ecco-la-decisione-del-tar",
+    "site_full": "www.tecnicadellascuola.it",
+    "site": "tecnicadellascuola.it",
+    "site_section": "https://www.professionedocente.com",
+    "site_categories": ["education", "k_6_educators"],
+    "section_title": "Home - Professione Docente",
+    "site_title": "Tecnica della Scuola - Notizie sulla Scuola",
+    "title": "Dopo tre note disciplinari uno studente è escluso dalla gita e la famiglia fa ricorso. Ecco la decisione del Tar",
+    "title_full": "Dopo tre note disciplinari uno studente è escluso dalla gita e la famiglia fa ricorso. Ecco la decisione del Tar",
+    "published": "2025-06-26T12:18:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://www.tecnicadellascuola.it/wp-content/uploads/2018/03/Gita-scolastica.jpg",
+    "performance_score": 0,
+    "domain_rank": 121177,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3fe47e3712f09ffe6fed52bec905c7f608390588",
+  "url": "https://www.tecnicadellascuola.it/dopo-tre-note-disciplinari-uno-studente-e-escluso-dalla-gita-e-la-famiglia-fa-ricorso-ecco-la-decisione-del-tar",
+  "ord_in_thread": 0,
+  "author": "Redazione",
+  "published": "2025-06-26T12:18:00.000+03:00",
+  "title": "Dopo tre note disciplinari uno studente è escluso dalla gita e la famiglia fa ricorso. Ecco la decisione del Tar",
+  "text": "Escluso dalla gita scolastica per motivi disciplinari, uno studente si è visto negare la partecipazione a un viaggio d’istruzione in programma a maggio 2023 . La decisione del Collegio dei docenti, basata sull’articolo 12.5 del Regolamento di Istituto – che prevede l’esclusione automatica in presenza di tre note – è stata contestata dai genitori, i quali hanno presentato ricorso al Tribunale amministrativo regionale della Campania. Ma i giudici della Quarta Sezione hanno confermato la legittimità del provvedimento.\nI motivi delle note disciplinari Secondo quanto riportato dal Corriere della Sera , la vicenda prende avvio con tre episodi contestati allo studente: il primo a settembre 2022, quando “durante la lezione di grammatica, mentre una compagna era alla Lim a svolgere gli esercizi, gli alunni in questione ridevano in maniera scomposta e fragorosa, disturbando la lezione e dimostrando nullo interesse per la disciplina e scarsissimo rispetto per la docente “. A seguire, a dicembre, viene segnalato “un comportamento poco corretto nei riguardi della docente” e, infine, a marzo 2023, si registra che “l’alunno indispone e non accetta le consegne”.\nI genitori hanno provato a far valere le proprie ragioni, sottolineando che il figlio non aveva mai assunto atteggiamenti pericolosi, violenti o di bullismo, e che non esistevano elementi che giustificassero una sanzione così drastica. Ma la sentenza è stata netta: “Sono circostanze – scrivono i giudici – del tutto irrilevanti, ai fini che ci occupano: il Regolamento di Istituto testé citato, infatti, è chiaro nel ricollegare la sanzione disciplinare […] alla semplice presenza di tre note disciplinari. Ciò a prescindere dal contenuto di tali note o dalle vicende che le hanno determinate”.\nNeppure il rendimento scolastico positivo è bastato a evitare l’esclusione. “È del tutto irrilevante – prosegue la sentenza – ai fini della non operatività della sanzione disciplinare, stante l’esistenza incontestata delle tre note disciplinari che, per come previsto dalle norme interne di Istituto, fanno, di per sé, scattare la sanzione”.\nLa decisione dei giudici Infine, i giudici ribadiscono il valore educativo della misura adottata: “Non vi è traccia, negli atti gravati, di alcun intento meramente punitivo da parte della Scuola, stante, al contrario, la indubbia funzione educativa della sanzione […] volta a rafforzare il senso di responsabilità del figlio dei ricorrenti ed al contempo mirante a ripristinare la correttezza dei rapporti all’interno della comunità scolastica”.\nIl ricorso è stato dunque respinto. I genitori, però, potranno ancora rivolgersi al Consiglio di Stato.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": ["Education", "Crime, Law and Justice", "Social Issue"],
+  "topics": [
+    "Education->students",
+    "Education->educational grading",
+    "Education->school",
+    "Crime, Law and Justice->civil law",
+    "Crime, Law and Justice->court",
+    "Crime, Law and Justice->law",
+    "Social Issue->discrimination",
+    "Social Issue->social services",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Campania",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Tribunale amministrativo regionale",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Corriere della Sera",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Lim",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:54:12.117+03:00",
+  "updated": "2025-06-26T16:15:49.244+03:00"
+}

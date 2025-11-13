@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "161566702c61a46039b3137c393e0d0335edd477",
+    "url": "https://news.tvbs.com.tw/life/2992513",
+    "site_full": "news.tvbs.com.tw",
+    "site": "tvbs.com.tw",
+    "site_section": "https://news.tvbs.com.tw/pack/packdetail/866/1",
+    "site_categories": ["media"],
+    "section_title": "棒球│TVBS新聞網",
+    "site_title": null,
+    "title": "東海七十週年啟用全國最節能AI PC教室 校友產業攜手推動數位教育│TVBS新聞網",
+    "title_full": "東海七十週年啟用全國最節能AI PC教室 校友產業攜手推動數位教育│TVBS新聞網",
+    "published": "2025-09-18T07:47:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://cc.tvbs.com.tw/img/upload/2025/09/18/20250918124428-173c196e.jpg",
+    "performance_score": 0,
+    "domain_rank": 7785,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "161566702c61a46039b3137c393e0d0335edd477",
+  "url": "https://news.tvbs.com.tw/life/2992513",
+  "ord_in_thread": 0,
+  "author": "廖凡漪",
+  "published": "2025-09-18T07:47:00.000+03:00",
+  "title": "東海七十週年啟用全國最節能AI PC教室 校友產業攜手推動數位教育│TVBS新聞網",
+  "text": "在高效能運算常被視為高耗能的印象下，東海大學選擇以實際行動翻轉迷思。適逢創校七十週年，東海大學在全國校友總會號召下，於短短兩週內募得新台幣650萬元，並結合戴爾科技集團與輝達NVIDIA的技術協助，成功建置全國最節能的AI PC教室。新設備能在僅需360W電力的情況下運行，整體節能效益達50%，讓「高效能」與「低耗能」得以並存。\n9月18日，校方舉辦「AI PC教室暨M025教室啟用儀式」，包括台中市副市長鄭照新、校友總會長葉世宗，以及產業夥伴代表皆出席，見證產學合作與校友力量的成果。教室內共配置65台Dell Pro Max Tower T2 AI工作站，搭載最新處理器與NVIDIA GeForce RTX 5070 GPU，不僅性能達市場水準頂尖，也兼顧永續設計。\n校長張國恩指出，這間AI PC教室不只是硬體升級，更象徵東海在數位轉型與AI教育的實踐力。他表示，校友與企業的支持，是學校持續進步、並在國際排名上展現亮眼表現的重要動能。鄭照新副市長則肯定東海結合節能與AI應用，將為中部地區打造與產業接軌的專業平台。\n校友總會長葉世宗提到，此次捐建是母校七十週年的獻禮，各地校友踴躍響應，新竹校友會更在一天內捐出200萬元，展現強大凝聚力。圖書資訊處長楊朝棟則回顧，早在2017年東海即攜手戴爾建置全台首間3D電腦教室，此次再度合作，將支援影片剪輯、圖像生成與本地大語言模型運算，兼具機密性與擴充性。\n戴爾科技代表則指出，東海案例證明教育端能在效能與永續間取得平衡，不必二選一。此舉讓東海大學在AI教育與永續發展上再度走在全台前端。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chineset",
+  "sentiment": "positive",
+  "categories": ["Education", "Science and Technology", "Environment"],
+  "topics": [
+    "Education->online and remote learning",
+    "Education->college and university",
+    "Education->vocational education",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering",
+    "Environment->energy saving",
+    "Environment->sustainability",
+    "Environment->nature"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:01:07.231+03:00",
+  "updated": "2025-09-18T08:08:12.000+03:00"
+}

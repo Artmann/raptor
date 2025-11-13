@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "c10487ca9e77dfe2a3d99c33ac18083b780c7d2a",
+    "url": "https://elceo.com/economia/consumo-privado-e-inversion-de-corto-plazo-entran-en-fase-de-crisis",
+    "site_full": "elceo.com",
+    "site": "elceo.com",
+    "site_section": "https://www.elceo.com",
+    "site_categories": [
+      "real_estate",
+      "financial_news",
+      "buying_selling_homes",
+      "finance"
+    ],
+    "section_title": "EL CEO | Noticias de negocios, mercados, economía, tecnología y política, la información oportuna para líderes y tomadores de decisiones.",
+    "site_title": "EL CEO | Noticias de negocios, mercados, economía, tecnología y política, la información oportuna para líderes y tomadores de decisiones.",
+    "title": "Consumo e inversión dan señales de una fase de crisis, revelan datos del INEGI",
+    "title_full": "Consumo e inversión dan señales de una fase de crisis, revelan datos del INEGI",
+    "published": "2025-06-19T01:12:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://elceo.com/wp-content/uploads/2025/06/demanda_agregada_1t25.jpg",
+    "performance_score": 0,
+    "domain_rank": 131709,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c10487ca9e77dfe2a3d99c33ac18083b780c7d2a",
+  "url": "https://elceo.com/economia/consumo-privado-e-inversion-de-corto-plazo-entran-en-fase-de-crisis",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-19T01:12:00.000+03:00",
+  "title": "Consumo e inversión dan señales de una fase de crisis, revelan datos del INEGI",
+  "text": "Durante el primer trimestre del año, los indicadores más importantes de la economía mexicana entraron en una fase de crisis: consumo de los hogares e inversión de corto plazo .\nDe acuerdo con datos desestacionalizados del Instituto Nacional de Estadística y Geografía (INEGI), la demanda agregada, que es el volumen de bienes y servicios requeridos por la economía del país , cayó 1.08% a tasa trimestral en el periodo enero-marzo de 2025.\nEste resultado significó la segunda disminución consecutiva , así como el retroceso más pronunciado desde 2020, año de la pandemia que paralizó las actividades económicas del territorio nacional.\nEn términos generales y teóricos, la demanda agregada de México cumple uno de los requisitos para considerar que se ubica en una recesión técnica al registrar dos descensos al hilo. ¿Cómo le fue a sus componentes?\nLa demanda agregada cayó 1.08% en el primer trimestre del año, que significó la segunda disminución consecutiva, así como el retroceso más pronunciado desde 2020. Fotoarte: Mariana Flores Consumo e inversión, a la baja El principal indicador de la demanda agregada de México es el consumo privado, con 48.6% de participación , el cual disminuyó 0.39% trimestral en el periodo de referencia, siendo la segunda baja seguida.\nEn tanto, la formación bruta de capital fijo, que es la inversión pública y privada de corto plazo , siguió el mismo comportamiento; su caída de 3.97% en el primer trimestre del año fue la segunda de forma consecutiva.\nEn su interior tanto la inversión pública como la privada se contrajeron, 7.79 y 3.55%, respectivamente; destaca que la primera hiló un año completo con variaciones negativas .\nLo positivo Del lado positivo de la demanda, las exportaciones de bienes y servicios y el consumo del gobierno mostraron ascensos trimestrales durante los primeros tres meses del año en curso.\nEl gasto de realizan los diferentes niveles de gobierno creció 0.39% en el lapo de análisis , aunque dicha alza se dio tras una disminución previa, es decir, se manifestó un efecto rebote.\nPor su parte, pese a un entorno de incertidumbre comercial generada por Estados Unidos, las exportaciones mexicanas continuaron con buen dinamismo , ya que su aumento de 1.11% trimestral representó hilar un año y medio con variaciones positivas.\nTe puede interesar:\nPara más información visita nuestro canal de YouTube",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Social Issue", "Politics"],
+  "topics": [
+    "Economy, Business and Finance->business reporting and performance",
+    "Economy, Business and Finance->economy",
+    "Economy, Business and Finance->financial and economic news",
+    "Social Issue->social problem",
+    "Social Issue->social condition",
+    "Social Issue->population and census",
+    "Politics->government budget",
+    "Politics->economic policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "http://www.youtube.com/watch?v=RcT9jB5amnw",
+    "http://www.youtube.com/watch",
+    "http://youtube.com/watch?v=RcT9jB5amnw"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Instituto Nacional de Estadística y Geografía",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "INEGI",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:38:23.411+03:00",
+  "updated": "2025-06-19T04:43:08.000+00:00"
+}

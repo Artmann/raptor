@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "fbedd8c8e075baaa0d5d1893df5795b06d54c28f",
+    "url": "https://granitegeek.concordmonitor.com/2025/10/16/new-england-wind-power-sets-a-new-record-barely/",
+    "site_full": "granitegeek.concordmonitor.com",
+    "site": "concordmonitor.com",
+    "site_section": "https://granitegeek.concordmonitor.com",
+    "site_categories": ["running_jogging", "sports"],
+    "section_title": "Home - Granite Geek",
+    "site_title": "Concord Monitor",
+    "title": "New England wind power sets a new record (barely) - Granite Geek",
+    "title_full": "New England wind power sets a new record (barely) - Granite Geek",
+    "published": "2025-10-16T14:56:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 50400,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fbedd8c8e075baaa0d5d1893df5795b06d54c28f",
+  "url": "https://granitegeek.concordmonitor.com/2025/10/16/new-england-wind-power-sets-a-new-record-barely/",
+  "ord_in_thread": 0,
+  "author": "David Brooks",
+  "published": "2025-10-16T14:56:00.000+03:00",
+  "title": "New England wind power sets a new record (barely) - Granite Geek",
+  "text": "ISO-NE, the folks who run the six-state power grid, says we had 1,332 MW of wind power on the grid at about 7 am. Thursday. That represented almost 10% of the total system load at the time and was a record output – but only by 17 MW. Worse, it was less than 100 MW more than the record set 16 months earlier. So the region’s output of electricity from wind turbines is barely increasing.\nIf the original Vineyard Wind hadn’t been blocked by rich people, we could have three or four times that amount by now. With Windmill Hater Man in office, we’ll be lucky if the current turbines aren’t forced to shut down.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->sustainability", "Environment->energy resources"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.iso-ne.com/isoexpress/",
+    "https://iso-ne.com/isoexpress/",
+    "https://www.iso-ne.com/isoexpress"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": ["Concord"],
+      "state": ["New Hampshire"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:37:43.921+03:00",
+  "updated": "2025-10-16T16:01:48.000+03:00"
+}

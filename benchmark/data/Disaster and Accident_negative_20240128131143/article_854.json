@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "0fe3d24e55a36a38bf30845eb9069aad52a675d9",
+    "url": "http://www.cnnphilippines.com/business/2023/12/29/boeing-737-max-loose-bolt.html",
+    "site_full": "www.cnnphilippines.com",
+    "site": "cnnphilippines.com",
+    "site_section": "https://cnnphilippines.com",
+    "site_categories": ["media"],
+    "section_title": "CNN Philippines",
+    "title": "Missing piece on aircraft prompts Boeing to ask airlines to inspect all 737 Max jets",
+    "title_full": "Missing piece on aircraft prompts Boeing to ask airlines to inspect all 737 Max jets",
+    "published": "2023-12-29T01:19:05.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PH",
+    "main_image": "https://www.cnnphilippines.com/.imaging/default/dam/cnn/2023/12/29/Boeing-737-MAX-airplanes.JPG/jcr:content.JPG?width=750&height=450&crop:1:1,smart",
+    "performance_score": 0,
+    "domain_rank": 12041,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0fe3d24e55a36a38bf30845eb9069aad52a675d9",
+  "url": "http://www.cnnphilippines.com/business/2023/12/29/boeing-737-max-loose-bolt.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Gregory Wallace; CNN",
+  "published": "2023-12-29T01:19:05.000+02:00",
+  "title": "Missing piece on aircraft prompts Boeing to ask airlines to inspect all 737 Max jets",
+  "text": "Missing piece on aircraft prompts Boeing to ask airlines to inspect all 737 Max jets maxItemsPerPage: 10 totalITemsFound: maxPaginationLinks: 10 maxPossiblePages: startIndex: endIndex: (CNN) — Boeing has asked airlines to inspect all of their 737 Max jets for a potential loose bolt in the rudder system after an airline discovered a potential problem with a key part on two aircraft. An unnamed international airline found a bolt with a missing nut in a rudder-control linkage mechanism while conducting routine maintenance – and it found a similar bolt that wasn’t properly tightened in a yet-to-be delivered plane. An airplane’s rudder is used to control and stabilize the aircraft while in flight. Boeing said the plane with the missing bolt was fixed, but it wants to ensure all 1,370 737 Max planes in service worldwide are checked for similar problems. “The issue identified on the particular airplane has been remedied,” a Boeing spokesperson said in a statement. “Out of an abundance of caution, we are recommending operators inspect their 737 Max airplanes and inform us of any findings.” Boeing informed the Federal Aviation Administration, which said Thursday that the inspection involves looking for “a possible loose bolt in the rudder control system.” The task takes about two hours, according to the FAA, and airlines will report progress of their inspections to the regulator. Boeing said the repair involves removing an access panel and visually validating the nuts and bolts. Boeing will perform the inspection on all new aircraft going forward. The FAA said it would “consider additional action based on any further discovery of loose or missing hardware.” The part in question is a critical safety item, for which the FAA requires double inspection. That means two sets of eyes must sign off that it is ready for flight. Boeing’s engineering and quality problems have posed major challenges for the company. The crashes of two of 737 Max jets that killed all 346 people on board the flights led to a crippling 20-month grounding of the plane. It also was one of the most expensive corporate tragedies in history, costing Boeing more than $20 billion. The Max returned to the air carrying passengers in most markets around the globe beginning in late December 2020. But it has encountered other problems, including in April when Boeing said it has discovered a manufacturing issue with some 737 Max aircraft after a supplier used a “non-standard manufacturing process” during the installation of two fittings in the rear fuselage – although Boeing insisted the problem did not constitute a safety risk. The Max has faced numerous notices for additional inspections since it returned to service. Boeing says that’s a result of its increased focus on safety, but a missing nut on a crucial system cannot be explained away, noted CNN safety analyst David Soucie. “If the airplane left the factory with this missing part, it indicates the past three years of safety culture improvements and improved inspections on critical safety of flight systems at Boeing isn’t working,” Soucie said. Boeing has faced problems, delays and financial charges for just about all of its other passenger jets too: The FAA flagged quality problems with the company’s 787 Dreamliners, leading Boeing to temporarily halt deliveries last year. Though the Dreamliner was not grounded like the Max, it still hurt the company’s bottom line. Boeing has faced massive operating losses in recent quarters as it tries to deliver the huge backlog of 737 Max planes to customers and racks up cost overruns on other planes, including the aircraft that will replace the current Air Force One jets.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Economy, Business and Finance"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "boeing",
+        "sentiment": "negative"
+      },
+      {
+        "name": "cnn",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:19:09.803+02:00",
+  "updated": "2023-12-29T01:19:09.803+02:00"
+}

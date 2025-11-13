@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "b51dec0f616958217778f15ba166b4f1824d882c",
+    "url": "https://www.2news.com/news/drought-continues-for-parts-of-nevada/article_9a0c4f6c-1d44-44c4-8d53-c8ec28cac155.html",
+    "site_full": "www.2news.com",
+    "site": "2news.com",
+    "site_section": "https://2news.com",
+    "site_categories": [],
+    "section_title": "2news.com",
+    "site_title": "2news.com",
+    "title": "Drought continues for parts of Nevada | News | 2news.com",
+    "title_full": "Drought continues for parts of Nevada | News | 2news.com",
+    "published": "2025-05-08T04:01:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/2news.com/content/tncms/assets/v3/editorial/5/67/567b3f16-a747-42bc-9403-a5cfcef7bd37/681c0421d3ac3.image.jpg?crop=1907%2C1001%2C0%2C0&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 26161,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b51dec0f616958217778f15ba166b4f1824d882c",
+  "url": "https://www.2news.com/news/drought-continues-for-parts-of-nevada/article_9a0c4f6c-1d44-44c4-8d53-c8ec28cac155.html",
+  "ord_in_thread": 0,
+  "author": "Angela Schilling",
+  "published": "2025-05-08T04:01:00.000+03:00",
+  "title": "Drought continues for parts of Nevada | News | 2news.com",
+  "text": "Even though we finished the snow season in April around average, parts of Nevada are in a drought. Especially southern Nevada, where Clark County is in an extreme drought. Conditions improve north of Highway 50, but parts of Washoe County, including Reno is abnormally dry. Fernley is in a moderate drought. As of April 29th, half of the state of Nevada is in a drought, which is a much higher percentage than last July, where only 1% of the state was in a drought. Reno still has almost an inch and a half of ground to make up for the water year, which goes from October 1st through the end of September. Most of Nevada's reservoirs are at or above the median for storage. This includes Donner, Tahoe, Boca, and Prosser.\nAccording to the Climate Prediction Center, the month of May is leaning wetter than average. It's not a huge probability, but the chance is there for a wetter than normal May. Dry and hot weather is in the forecast through Saturday, before cooler and wetter weather moves in next week. An area of low pressure moves in by late Sunday into Monday, dropping temperatures as well as giving the Sierra a chance for snow and rain in the valley. It will be windy as well. The temperature roller coaster ride continues. Our upcoming storm might be skewing the monthly outlook.\nAccording to hydrologist, Tim Bardsley the Eastern Sierra's snowpack combining the Tahoe, Truckee, Carson, and Walker are 85% of median as of May 7th, and 44% of median peak. Storm water equivalent values are dropping somewhat ahead of schedule. Lower elevations are bare with no snow now.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Politics"],
+  "topics": [
+    "Environment->natural resources",
+    "Environment->water",
+    "Social Issue->population and census",
+    "Social Issue->social problem",
+    "Social Issue->demographics",
+    "Politics->government",
+    "Politics->environmental policy"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Prosser",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Washoe County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:42:59.770+03:00",
+  "updated": "2025-05-08T02:45:47.000+00:00"
+}

@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "711b1d6321f06fb1175660bdd1c45f2e300f35d3",
+    "url": "http://stock.10jqka.com.cn/20250918/c671233847.shtml",
+    "site_full": "stock.10jqka.com.cn",
+    "site": "10jqka.com.cn",
+    "site_section": "http://stock.10jqka.com.cn/companynews_list/",
+    "site_categories": ["stocks", "finance", "financial_news"],
+    "section_title": "公司资讯_股票_同花顺财经",
+    "site_title": null,
+    "title": "科大讯飞发布面向东盟多语言大模型及系列产品",
+    "title_full": "科大讯飞发布面向东盟多语言大模型及系列产品",
+    "published": "2025-09-18T07:08:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4785,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "711b1d6321f06fb1175660bdd1c45f2e300f35d3",
+  "url": "http://stock.10jqka.com.cn/20250918/c671233847.shtml",
+  "ord_in_thread": 0,
+  "author": "上海证券报·中国证券网",
+  "published": "2025-09-18T07:08:00.000+03:00",
+  "title": "科大讯飞发布面向东盟多语言大模型及系列产品",
+  "text": "上证报中国证券网讯（记者 孙小程）9月17日，第22届中国—东盟博览会（以下简称“东博会”）在广西南宁开幕。 科大讯飞 （ 002230 ）介绍，当日，公司于东博会上发布了专门为东盟十国打造的星火东盟多语言大模型底座，这是基于纯国产化软硬件打造的完全自主可控的东盟多语言通用大模型底座。\n　　模型根据东盟地区的语言特点，在星火多语言大模型的基础上专题训练提升面向东盟地区十种语言的通用效果，覆盖马来语、印尼语、泰语、越南语、菲律宾语、缅甸语、高棉语、老挝语、泰米尔语及爪哇语十种语言，具备语言理解、机器翻译、知识问答、文本生成、数学能力、常识推理等能力。\n　　科大讯飞介绍，基于完备的工具链，星火东盟多语言大模型底座能支持东盟各国行业应用高效安全落地，训练优化成本比业界同行低一个数量级，同时，提供全栈行业落地方案。基于星火东盟多语言大模型底座，科大讯飞也对东盟多语言语音识别与合成大模型进行了优化。\n　　东博会期间，科大讯飞与华为共同启动了区域智能生态合作，并与多家机构现场签署合作协议，包括老挝科技与通讯部、马来西亚好享广播电视电影集团、泰国北榄府教育局以及马来西亚汉文化中心、印度尼西亚慧科教育科技有限公司、缅甸金光教育学院、新加坡AiPilot等东盟教育科技单位，并联合国内高校如广西民族大学、桂林电子科技大学、桂林理工大学，以及中国银行广西分行、南宁市勘测设计院等国内机构，助力中国—东盟人工智能创新合作中心建设与区域AI产业生态共荣。\n　　科大讯飞表示，未来将进一步深化与广西的合作，以中国—东盟人工智能创新合作中心建设为抓手，推进东盟语料库建设、智慧教育与智慧医疗系统落地、跨境电商数智化升级等重点项目，在实践中将“广西经验”转化成更贴合东盟需求的“东盟方案”，与广西携手打造面向东盟的人工智能合作新高地，为构建更为紧密的中国—东盟AI多元化生态注入源源不断的科技动能。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Education"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->products and services",
+    "Education->online and remote learning",
+    "Education->educational testing and examinations",
+    "Education->educational grading"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:51:26.052+03:00",
+  "updated": "2025-09-18T07:59:31.000+03:00"
+}

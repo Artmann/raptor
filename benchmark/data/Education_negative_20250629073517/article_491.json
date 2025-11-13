@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "ba59ccb1184824afac9f17147e4cfd7762dcabf1",
+    "url": "https://www.cairo24.com/2235001",
+    "site_full": "www.cairo24.com",
+    "site": "cairo24.com",
+    "site_section": "https://cairo24.com/rss.aspx",
+    "site_categories": [
+      "uncategorized",
+      "top_news_iq",
+      "top_news_kw",
+      "top_news_eg",
+      "top_news"
+    ],
+    "section_title": "جميع الموضوعات",
+    "site_title": "القاهرة 24",
+    "title": "تعرض 5 طالبات للإغماء خلال تأدية امتحانات الثانوية العامة في بني سويف",
+    "title_full": "تعرض 5 طالبات للإغماء خلال تأدية امتحانات الثانوية العامة في بني سويف",
+    "published": "2025-06-26T12:30:51.474+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "EG",
+    "main_image": "https://www.cairo24.com/UploadCache/libfiles/160/1/600x338o/259.jpeg",
+    "performance_score": 0,
+    "domain_rank": 136281,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ba59ccb1184824afac9f17147e4cfd7762dcabf1",
+  "url": "https://www.cairo24.com/2235001",
+  "ord_in_thread": 0,
+  "author": "@cairo24_",
+  "published": "2025-06-26T12:30:51.474+03:00",
+  "title": "تعرض 5 طالبات للإغماء خلال تأدية امتحانات الثانوية العامة في بني سويف",
+  "text": "تعرض 5 طالبات للإغماء خلال تأدية امتحانات الثانوية العامة في بني سويف\nأصيبت 5 طالبات بالثانوية العامة، اليوم الخميس، بحالة من الإغماء خلال تأدية امتحانات الثانوية العامة داخل عدد من اللجان بمدينة بني سويف ومراكز ناصر وسمسطا والفشن، وتم نقلهن إلى المستشفى لتلقي العلاج اللازم.\nنقل الطالبات المصابات إلى المستشفى\nونقلت سيارات الإسعاف المتمركزة بجوار اللجان الطالبة؛ \"مريم.م.ع\" 18 سنة، أثناء تأدية الامتحان بمدرسة محمد فريد الابتدائية بمركز ناصر، وتم نقلها إلى مستشفى بني سويف الجامعي، والطالبة \"شيماء.ش. ن\" 18 سنة، أثناء تأدية الامتحان بمدرسة السيدة خديجة الثانوية العامة بمركز سمسطا، وتم نقلها إلى مستشفى سمسطا المركزي.\nوالطالبة \"خلود.م. ص\" أثناء تأدية الامتحان بالمدرسة الثانوية العسكرية بالفشن، وتم نقلها إلى مستشفى الفشن المركزي، والطالبة \"فيريالة.م.ا\" 18 سنة أثناء تأدية الامتحان بمدرسة السيدة خديجة الثانوية بنات بمدينة بني سويف، وتم نقلها إلى مستشفى بني سويف الجامعي، والطالبة \"ملك.م.س\" أثناء تأدية الامتحان بمدرسة الشهيد محمد جابر قصلة بمدينة بني سويف، وتم نقلها إلى مستشفى بني سويف الجامعي.\nتم تقديم الإسعافات الأولية اللازمة للطالبات داخل المستشفيات.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "arabic",
+  "sentiment": "negative",
+  "categories": ["Health", "Education"],
+  "topics": [
+    "Health->health facility",
+    "Health->medical condition",
+    "Education->upper secondary education",
+    "Education->educational testing and examinations",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_iq", "top_news_kw", "top_news_eg", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T12:30:51.474+03:00",
+  "updated": "2025-06-27T10:05:04.000+00:00"
+}

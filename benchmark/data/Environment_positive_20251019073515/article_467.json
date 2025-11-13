@@ -1,0 +1,129 @@
+{
+  "thread": {
+    "uuid": "cbfcaff47a288c29e6dd6a0a8a5538047943ed41",
+    "url": "https://www.europapress.es/illes-balears/noticia-govern-licita-obras-red-agua-alta-manacor-preve-finalicen-dos-anos-20251016134604.html",
+    "site_full": "www.europapress.es",
+    "site": "europapress.es",
+    "site_section": "https://www.europapress.es/noticias/",
+    "site_categories": ["media", "top_news_es", "top_news_pe", "top_news"],
+    "section_title": "\r\n\t Últimas Noticias - EUROPA PRESS\r\n",
+    "site_title": "Europa Press -  Agencia de noticias",
+    "title": "El Govern licita las obras de la red de agua en alta hacia Manacor y prevé que finalicen en dos años",
+    "title_full": "El Govern licita las obras de la red de agua en alta hacia Manacor y prevé que finalicen en dos años",
+    "published": "2025-10-16T14:46:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://img.europapress.es/fotoweb/fotonoticia_20251016134604_1200.jpg",
+    "performance_score": 0,
+    "domain_rank": 4744,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cbfcaff47a288c29e6dd6a0a8a5538047943ed41",
+  "url": "https://www.europapress.es/illes-balears/noticia-govern-licita-obras-red-agua-alta-manacor-preve-finalicen-dos-anos-20251016134604.html",
+  "ord_in_thread": 0,
+  "author": "Europa Press Islas Baleares",
+  "published": "2025-10-16T14:46:00.000+03:00",
+  "title": "El Govern licita las obras de la red de agua en alta hacia Manacor y prevé que finalicen en dos años",
+  "text": "Lafuente considera las obras una inversión \"muy importante\" y destaca que se reducirá la presión sobre los acuíferos\nPALMA, 16 Oct. (EUROPA PRESS) -\nEl Govern ha licitado las obras de la red de agua en alta hacia Manacor para garantizar su suministro y prevé que, una vez iniciadas las obras, en un plazo de dos años el municipio disponga de agua de calidad.\nAsí lo han presentado este jueves el conseller del Mar y Ciclo del Agua, Juan Manuel Lafuente; el alcalde de Manacor, Miquel Oliver; el director general de Recursos Hídricos, Joan Calafat; y el gerente de la Agencia Balear del Agua y de la Calidad Ambiental (Abaqua), Emeterio Moles.\nLa actuación supone una inversión de 21 millones de euros, aprobada en Consell de Govern, para hacer llegar agua desde Petra hasta Manacor. Según la Conselleria, el proyecto que se licita prevé que, una vez iniciadas las obras, en dos años el municipio disponga de agua de calidad.\nLa conexión a la red en alta permitirá reducir las extracciones subterráneas, garantizando un suministro de calidad y sostenible a medio y largo plazo.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Environment"],
+  "topics": [
+    "Economy, Business and Finance->construction and property",
+    "Economy, Business and Finance->utilities",
+    "Environment->water"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Juan Manuel Lafuente",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Emeterio Moles",
+        "sentiment": "none"
+      },
+      {
+        "name": "Miquel Oliver",
+        "sentiment": "none"
+      },
+      {
+        "name": "Joan Calafat",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Recursos Hídricos",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Conselleria",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Govern",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_es", "top_news_pe", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:53:12.825+03:00",
+  "updated": "2025-10-16T15:06:32.000+03:00"
+}

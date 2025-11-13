@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "871c34f7a562fd31de83832239ebe06663c39b81",
+    "url": "https://corrieredibologna.corriere.it/notizie/cronaca/25_giugno_26/bianca-maria-piraccini-si-e-dimessa-dall-universita-di-bologna-la-primaria-di-dermatologia-sospesa-per-le-visite-private-vietate-e52c493f-cc94-477c-a474-f9febd861xlk.shtml",
+    "site_full": "corrieredibologna.corriere.it",
+    "site": "corriere.it",
+    "site_section": "http://corrieredibologna.corriere.it",
+    "site_categories": ["media", "top_news_ch", "top_news_it", "top_news"],
+    "section_title": "Corriere di Bologna: le ultime news da Bologna",
+    "site_title": "Corriere della Sera: News e Ultime notizie in tempo reale da Italia e Mondo",
+    "title": "Bianca Maria Piraccini si è dimessa dall'Università di Bologna: la primaria di Dermatologia era stata sospesa per le visite private vietate | Corriere.it",
+    "title_full": "Bianca Maria Piraccini si è dimessa dall'Università di Bologna: la primaria di Dermatologia era stata sospesa per le visite private vietate | Corriere.it",
+    "published": "2025-06-26T07:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2025/06/25/685c4cefd4ba8.jpeg",
+    "performance_score": 7,
+    "domain_rank": 1294,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 239,
+        "comments": 82,
+        "shares": 22
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "871c34f7a562fd31de83832239ebe06663c39b81",
+  "url": "https://corrieredibologna.corriere.it/notizie/cronaca/25_giugno_26/bianca-maria-piraccini-si-e-dimessa-dall-universita-di-bologna-la-primaria-di-dermatologia-sospesa-per-le-visite-private-vietate-e52c493f-cc94-477c-a474-f9febd861xlk.shtml",
+  "ord_in_thread": 0,
+  "author": "Federica Nannetti",
+  "published": "2025-06-26T07:30:00.000+03:00",
+  "title": "Bianca Maria Piraccini si è dimessa dall'Università di Bologna: la primaria di Dermatologia era stata sospesa per le visite private vietate | Corriere.it",
+  "text": "Vai a tutte le notizie di Bologna Iscriviti alla newsletter del Corriere di Bologna 26 giugno 2025 ( modifica il 26 giugno 2025 | 08:43) © RIPRODUZIONE RISERVATA",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Health", "Education"],
+  "topics": [
+    "Crime, Law and Justice->corruption",
+    "Health->medical profession",
+    "Health->health organisation",
+    "Health->health care approach",
+    "Education->teachers",
+    "Education->college and university",
+    "Education->educational grading"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Bologna Iscriviti",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": null,
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T09:53:20.631+03:00",
+  "updated": "2025-06-27T07:08:28.000+00:00"
+}

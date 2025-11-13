@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "1820c872e2f47a90c09f2fe526e8c46c204e82ac",
+    "url": "https://www.ner.gov.tw/news/68cb8495ca175600223c5bdd",
+    "site_full": "www.ner.gov.tw",
+    "site": "ner.gov.tw",
+    "site_section": "https://www.ner.gov.tw/api/rss/news",
+    "site_categories": [
+      "law_government_and_politics",
+      "entertainment",
+      "radio",
+      "music",
+      "hobbies_and_interests",
+      "us_government_resources"
+    ],
+    "section_title": "",
+    "site_title": "國立教育廣播電臺",
+    "title": "祝賀教師節 教育部表揚師鐸獎72人教育奉獻獎20人資深優良教師523人",
+    "title_full": "祝賀教師節 教育部表揚師鐸獎72人教育奉獻獎20人資深優良教師523人",
+    "published": "2025-09-18T06:11:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 328145,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1820c872e2f47a90c09f2fe526e8c46c204e82ac",
+  "url": "https://www.ner.gov.tw/news/68cb8495ca175600223c5bdd",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T06:11:00.000+03:00",
+  "title": "祝賀教師節 教育部表揚師鐸獎72人教育奉獻獎20人資深優良教師523人",
+  "text": "Your browser does not support JavaScript. If the webpage function is not working properly, please enable the browser JavaScript status.\n您的瀏覽器不支援JavaScript功能，若網頁功能無法正常使用時，請開啟瀏覽器JavaScript狀態。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chineset",
+  "sentiment": "positive",
+  "categories": ["Education"],
+  "topics": [
+    "Education->social learning",
+    "Education->educational grading",
+    "Education->teachers"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:26:32.451+03:00",
+  "updated": "2025-09-18T09:29:12.000+03:00"
+}

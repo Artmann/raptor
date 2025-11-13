@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "54f8fda7ebf1db215914c89d4bd7be6a1f2700b3",
+    "url": "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/ev-edu-safety-sister-sinner",
+    "site_full": "www.kcrw.com",
+    "site": "kcrw.com",
+    "site_section": "https://news.google.com/search?q=under%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["music", "", "entertainment"],
+    "section_title": "Google News - Search",
+    "site_title": "KCRW 89.9FM | Music, NPR News, Culture Los Angeles | KCRW",
+    "title": "Energy Star and CA EVs under attack, 'Sister, Sinner' book | Press Play",
+    "title_full": "Energy Star and CA EVs under attack, 'Sister, Sinner' book | Press Play",
+    "published": "2025-05-08T03:45:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/ev-edu-safety-sister-sinner/@@images/rectangular_image/page-header?v=1746665144.32",
+    "performance_score": 0,
+    "domain_rank": 6144,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "54f8fda7ebf1db215914c89d4bd7be6a1f2700b3",
+  "url": "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/ev-edu-safety-sister-sinner",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T03:45:00.000+03:00",
+  "title": "Energy Star and CA EVs under attack, 'Sister, Sinner' book | Press Play",
+  "text": "Trump and Republicans are trying to end the Energy Star program and stop California from phasing out the sale of new gas vehicles. On EVs, they enjoy some Democratic support.\nCA school districts are paying a hefty sum for on-campus police. Little oversight exists on how those dollars are spent and how officers behave inside campus gates.\nPopular LA evangelist Aimee Semple McPherson was reportedly kidnapped and held prisoner in Mexico in the 1920s, then fled on foot through the desert. A new book traces her story.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": ["Environment->energy resources", "Environment->sustainability"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Aimee Semple McPherson",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Energy Star",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:01:35.993+03:00",
+  "updated": "2025-05-08T02:04:03.000+00:00"
+}

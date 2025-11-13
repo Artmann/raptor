@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "f81813671cc794230737bea95adbd4bec1b0fe5c",
+    "url": "https://www.elbalad.news/6616401",
+    "site_full": "www.elbalad.news",
+    "site": "elbalad.news",
+    "site_section": "https://elbalad.news/category/2066",
+    "site_categories": [
+      "media",
+      "top_news_ma",
+      "top_news_iq",
+      "top_news_il",
+      "top_news_ae",
+      "top_news_qa",
+      "top_news_eg",
+      "top_news_sa",
+      "top_news_kw",
+      "top_news"
+    ],
+    "section_title": "صدى البلد  | مقالات",
+    "site_title": "صدى البلد",
+    "title": "إصابة 4 طلاب ومراقب بـ إعياء خلال امتحاني الفيزياء والتاريخ بالمنيا",
+    "title_full": "إصابة 4 طلاب ومراقب بـ إعياء خلال امتحاني الفيزياء والتاريخ بالمنيا",
+    "published": "2025-06-26T14:26:19.433+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "EG",
+    "main_image": "https://media.elbalad.news/2025/6/large/692182993181420250626020726726.jpg",
+    "performance_score": 2,
+    "domain_rank": 54171,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 23,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f81813671cc794230737bea95adbd4bec1b0fe5c",
+  "url": "https://www.elbalad.news/6616401",
+  "ord_in_thread": 0,
+  "author": "@ElBaladOfficial",
+  "published": "2025-06-26T14:26:19.433+03:00",
+  "title": "إصابة 4 طلاب ومراقب بـ إعياء خلال امتحاني الفيزياء والتاريخ بالمنيا",
+  "text": "أصيب 4 طلاب ومراقب بحالة اعياء شديد خلال أداء امتحانات الفيزياء والتاريخ في الشهادة الثانوية العامة في المنيا.\nتلقت الأجهزة الأمنية، إخطارا من غرفة عمليات النجدة يتضمن إصابة عدد من الطلاب ومراقب بحالة إعياء مفاجئ خلال أداء امتحانات الفيزياء والتاريخ في عدد من مراكز المنيا.\nعلى الفور إنتقلت سيارات الإسعاف والأجهزة الأمنية إلى موقع البلاغ وتبين إصابة 4 طلاب ومراقب تنوعت إصابتهم مابين مغص كلوي ومعوي وهبوط في الدورة الدموية .\nنقل المصابين\nتم نقل المصابين إلى المستشفيات لتلقي العلاج اللازم، وتحرر محضر بالواقعة وأخطرت النيابة العامة لمباشرة التحقيقات.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "arabic",
+  "sentiment": "negative",
+  "categories": ["Education", "Health"],
+  "topics": [
+    "Education->educational testing and examinations",
+    "Education->school",
+    "Education->students",
+    "Health->medical service",
+    "Health->emergency care",
+    "Health->medical condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_ma",
+      "top_news_iq",
+      "top_news_il",
+      "top_news_ae",
+      "top_news_qa",
+      "top_news_eg",
+      "top_news_sa",
+      "top_news_kw",
+      "top_news"
+    ],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:26:19.433+03:00",
+  "updated": "2025-06-27T12:07:17.000+00:00"
+}

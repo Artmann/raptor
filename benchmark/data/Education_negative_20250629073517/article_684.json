@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "3ff103f1343a7d83ca5364f27bab6041ec3779be",
+    "url": "https://comunicacion.umh.es/2025/06/26",
+    "site_full": "comunicacion.umh.es",
+    "site": "umh.es",
+    "site_section": "https://comunicacion.umh.es/accesibilidad",
+    "site_categories": [
+      "real_estate",
+      "photography",
+      "hobbies_and_interests",
+      "apartments"
+    ],
+    "section_title": "Servicio de Comunicación, Marketing y Atención al Estudiantado &raquo; ACCESIBILIDAD",
+    "site_title": null,
+    "title": "Servicio de Comunicación, Marketing y Atención al Estudiantado » 2025 » junio » 26",
+    "title_full": "Servicio de Comunicación, Marketing y Atención al Estudiantado » 2025 » junio » 26",
+    "published": "2025-06-26T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 22251,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3ff103f1343a7d83ca5364f27bab6041ec3779be",
+  "url": "https://comunicacion.umh.es/2025/06/26",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T03:00:00.000+03:00",
+  "title": "Servicio de Comunicación, Marketing y Atención al Estudiantado » 2025 » junio » 26",
+  "text": "La ingesta de alimentos ultraprocesados afecta negativamente a la flora intestinal, según un estudio en el que colabora la UMH\nEl aumento global del consumo de alimentos ultraprocesados se ha convertido en un fenómeno preocupante, ya que ha sido vinculado con diversos problemas de salud como la obesidad, las enfermedades cardiovasculares y los trastornos metabólicos. Normalmente, la investigación respecto a este tema está centrada en las características nutricionales de estos alimentos y no en su [...]\nLa piscina del campus de Elche de la Universidad Miguel Hernández (UMH) será uno de los escenarios de la Superfinal de Waterpolo Kids Tour 2025, junto con la piscina cubierta del Pabellón Esperanza Lag y la piscina descubierta de la Ciudad Deportiva de Elche. El evento se desarrollará desde hoy y hasta el 29 de [...]",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Health", "Social Issue", "Education"],
+  "topics": [
+    "Health->health treatment and procedure",
+    "Health->diet",
+    "Health->health organisation",
+    "Social Issue->social problem",
+    "Social Issue->social services",
+    "Education->students",
+    "Education->educational grading",
+    "Education->curriculum"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Miguel Hernández",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Elche",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Universidad",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "UMH",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T13:58:06.469+03:00",
+  "updated": "2025-06-26T11:07:28.000+00:00"
+}

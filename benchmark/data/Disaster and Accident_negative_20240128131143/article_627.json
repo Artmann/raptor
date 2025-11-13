@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "3d5dc9163560f50bdf95634d14d77e3469738708",
+    "url": "https://www.hawaiipublicradio.org/local-news/2023-12-28/another-shipping-container-filled-with-illegal-fireworks-was-seized-by-law-enforcement",
+    "site_full": "www.hawaiipublicradio.org",
+    "site": "hawaiipublicradio.org",
+    "site_section": "https://www.hawaiipublicradio.org",
+    "site_categories": ["media", "music", "entertainment"],
+    "section_title": "Hawai‘i Public Radio | Hawai&#x27;i Public Radio",
+    "title": "Another shipping container filled with illegal fireworks was seized by law enforcement | Hawai'i Public Radio",
+    "title_full": "Another shipping container filled with illegal fireworks was seized by law enforcement | Hawai'i Public Radio",
+    "published": "2023-12-28T23:38:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://npr.brightspotcdn.com/dims4/default/67a3f47/2147483647/strip/true/crop/1248x655+0+41/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2F2a%2Fd28f24694f989d825adb6dfe721f%2Ffireworks1227b.png",
+    "performance_score": 0,
+    "domain_rank": 34061,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3d5dc9163560f50bdf95634d14d77e3469738708",
+  "url": "https://www.hawaiipublicradio.org/local-news/2023-12-28/another-shipping-container-filled-with-illegal-fireworks-was-seized-by-law-enforcement",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "HPR News Staff",
+  "published": "2023-12-28T23:38:00.000+02:00",
+  "title": "Another shipping container filled with illegal fireworks was seized by law enforcement | Hawai'i Public Radio",
+  "text": "Another shipping container filled with illegal fireworks was seized by law enforcement Officials seized 34,000 pounds of illegal fireworks from a shipping container on Wednesday in Honolulu. The contents in the container were falsely declared as other items. The Illegal Fireworks Task Force says the shipment contained illegal aerials and an assortment of other illegal fireworks. They were also packaged in amounts that exceeded what any single package may contain under state law. Officials suspect the fireworks were likely headed to the black market for sale. “The Illegal Fireworks Task Force is committed to interdicting fireworks wherever and whenever we can locate them. We are currently investigating these illegal shipments and believe that additional seizures of illegal fireworks may be imminent,” said Hawaiʻi Department of Law Enforcement Director Jordan Lowe. The investigation into this shipment and a previous shipment of illegal fireworks [seized a week prior](https://www.hawaiipublicradio.org/local-news/2023-12-21/tons-of-illegal-fireworks-seized-in-a-bust-before-new-years-eve) is still ongoing. The task force has seized nearly 70,000 pounds of illegal fireworks since it was established in July.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "jordan lowe",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "public radio another",
+        "sentiment": "negative"
+      },
+      {
+        "name": "illegal fireworks task force",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "honolulu",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:53:46.233+02:00",
+  "updated": "2023-12-29T00:53:46.233+02:00"
+}

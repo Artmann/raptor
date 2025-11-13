@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "8a27d8ff38a7b536ec7e40399030916bf9b593ef",
+    "url": "https://www.lr-online.de/nachrichten/brandenburg/schule-in-brandenburg-gespraech-mit-woidke-warum-lehrer-veraergert-abwinken-78143809.html",
+    "site_full": "www.lr-online.de",
+    "site": "lr-online.de",
+    "site_section": "https://www.lr-online.de/nachrichten",
+    "site_categories": ["media"],
+    "section_title": "Nachrichten | Lausitzer Rundschau",
+    "site_title": "Startseite | Lausitzer Rundschau",
+    "title": "Schule in Brandenburg: Gespräch mit Woidke? Warum Lehrer verärgert abwinken",
+    "title_full": "Schule in Brandenburg: Gespräch mit Woidke? Warum Lehrer verärgert abwinken",
+    "published": "2025-06-26T07:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://cdn.lr-online.de/2025/06/25/82459a5e-21d5-453e-bb56-d1c47ad0690b.jpeg?width=1200&crop=4000%2C2250%2C0%2C0&format=webp&token=6729fb11423d7628c3921b2c55d89439dc276e6344b96e39ea5d2ad12e4678b7",
+    "performance_score": 0,
+    "domain_rank": 34490,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8a27d8ff38a7b536ec7e40399030916bf9b593ef",
+  "url": "https://www.lr-online.de/nachrichten/brandenburg/schule-in-brandenburg-gespraech-mit-woidke-warum-lehrer-veraergert-abwinken-78143809.html",
+  "ord_in_thread": 0,
+  "author": "Mathias Hausding",
+  "published": "2025-06-26T07:00:00.000+03:00",
+  "title": "Schule in Brandenburg: Gespräch mit Woidke? Warum Lehrer verärgert abwinken",
+  "text": "Schule in Brandenburg: Gespräch mit Woidke? Warum Lehrer verärgert abwinken\nNach der Streichung von 445 Lehrerstellen im Haushalt ruft Brandenburgs SPD-Ministerpräsident Dietmar Woidke die Pädagogen zum Dialog auf. Die Reaktion des Verbandspräsidenten fällt harsch aus.\nPotsdam\nEin Artikel von",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Politics", "Social Issue"],
+  "topics": [
+    "Education->teachers",
+    "Education->upper secondary education",
+    "Education->school",
+    "Politics->government policy",
+    "Politics->education policy",
+    "Social Issue->social condition",
+    "Social Issue->social services",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Dietmar Woidke",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Brandenburgs",
+        "sentiment": "none"
+      },
+      {
+        "name": "Potsdam",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T07:54:49.584+03:00",
+  "updated": "2025-06-26T05:01:41.000+00:00"
+}

@@ -1,0 +1,132 @@
+{
+  "thread": {
+    "uuid": "23bbded2bb9c42d3562274bccce4c394e3801da8",
+    "url": "https://afro.com/dc-air-quality-failing-grade",
+    "site_full": "afro.com",
+    "site": "afro.com",
+    "site_section": "https://www.afro.com",
+    "site_categories": ["media"],
+    "section_title": "AFRO American Newspapers",
+    "site_title": "AFRO American Newspapers",
+    "title": "D.C. gets 'F' for air quality in 2025 State of the Air Report",
+    "title_full": "D.C. gets 'F' for air quality in 2025 State of the Air Report",
+    "published": "2025-05-08T04:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://i0.wp.com/afro.com/wp-content/uploads/2025/05/ddp-NiIoJBrsgCw-unsplash-scaled.jpg?fit=2560%2C1707&ssl=1",
+    "performance_score": 0,
+    "domain_rank": 29338,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "23bbded2bb9c42d3562274bccce4c394e3801da8",
+  "url": "https://afro.com/dc-air-quality-failing-grade",
+  "ord_in_thread": 0,
+  "author": "Tashi McQueen AFRO Political Writer",
+  "published": "2025-05-08T04:00:00.000+03:00",
+  "title": "D.C. gets 'F' for air quality in 2025 State of the Air Report",
+  "text": "Washington, D.C., continues to grapple with worsening air quality, earning an “F” in the 2025 State of the Air Report. Despite local efforts to reduce pollution, health experts warn that air quality remains a significant concern, especially for vulnerable communities. (Photo Credit: Unsplash / DDP)\nBy Tashi McQueen\nAFRO Staff Writer\ntmcqueen@afro.com\nWashington, D.C.’s air quality was given a failing grade in The 2025 State of the Air Report by the American Lung Association (ALA).\nThe recently released report found that between 2021 and 2023, D.C. experienced a drop in air quality. Due to increases in particle pollution, the region averaged 3.7 unhealthy days per year, dropping them from a “C” in the 2024 report to an “F” this year.\n“The air pollutants highlighted in this report are widespread and pose a risk to everyone’s health,” said Aleks Casper, advocacy director of the Delaware, Maryland, Virginia, and DC · American Lung Association, in a statement on April 23. “Both ozone and particle pollution can lead to premature death and cause serious health issues such as asthma attacks, heart attacks, strokes, preterm births and even problems with cognitive function later in life.”\nAccording to the report, from 2021 to 2023, 37 percent of the population – 125.2 million individuals – was exposed to unhealthy ozone levels, a reactive gas that can damage a person’s lungs when inhaled.\nSince 2000, the ALA has released its State of the Air Report, which aims to inform the public about the air quality in their cities and states, locate at-risk populations and recommend actions local leaders and legislators can take to improve air quality.\nAccording to a 2021 report by Advancing Earth and Space Sciences, a global community of earth and space sciences professionals, the top 10 D.C. neighborhoods impacted by air pollution have a 54 percent higher proportion of Black residents and a 44 percent lower proportion of White residents.\n“The District of Columbia takes air pollution seriously and has done a lot over the past decade to reduce air pollution, [ including ] limiting pollution on boilers, tackling nuisance odors, adopting strict vehicle standards and funding projects to reduce pollution from trains and buses,” said Nicole Goines, a public information officer of the D.C. Department of Energy and Environment.\nGoines claimed that the ALA report is misleading, as it relies in part on data from the District during the “once-in-a-decade” wildfires in the Canadian provinces of Alberta and Nova Scotia that occurred in 2023.\n“Even if the District produced no pollution, our air quality during the wildfires in June 2023 would still have been hazardous,” she said.\n“In more typical summers, modeling shows that 90 percent of our pollution comes from outside of the District borders,” she added. “We will not be able to achieve these goals alone and must have strong international, federal and regional partners to limit harmful air pollution.”\nThe post D.C. gets ‘F’ for air quality in 2025 State of the Air Report appeared first on AFRO American Newspapers .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Politics", "Social Issue"],
+  "topics": [
+    "Environment->air pollution",
+    "Environment->environmental pollution",
+    "Politics->environmental policy",
+    "Social Issue->social services",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://everlit.audio/embeds/artl_2QdBki9Z0ba?client=wp&preview=true&client_version=1.10.5",
+    "https://www.lung.org/getmedia/5d8035e5-4e86-4205-b408-865550860783/State-of-the-Air-2025.pdf",
+    "https://www.everlit.audio/embeds/artl_2QdBki9Z0ba?client=wp&preview=true&client_version=1.10.5",
+    "https://everlit.audio/embeds/artl_2QdBki9Z0ba",
+    "https://lung.org/getmedia/5d8035e5-4e86-4205-b408-865550860783/State-of-the-Air-2025.pdf"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Aleks Casper",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "D.C.",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "ford",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "F",
+            "exchange": "NYSE"
+          }
+        ]
+      },
+      {
+        "name": "ALA",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "ALA",
+            "exchange": "TSE"
+          }
+        ]
+      },
+      {
+        "name": "Citigroup",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "C",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "left",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:13:51.065+03:00",
+  "updated": "2025-05-08T05:22:43.201+03:00"
+}

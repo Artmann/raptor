@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "f03facae9cda49c616b72ab71e9e17744319751d",
+    "url": "https://www.lanacion.com.ar/estados-unidos/arizona/la-ciudad-de-arizona-que-tiene-una-de-las-peores-contaminaciones-del-aire-en-eeuu-nid07052025",
+    "site_full": "www.lanacion.com.ar",
+    "site": "lanacion.com.ar",
+    "site_section": "http://contenidos.lanacion.com.ar/herramientas/rss/categoria_id=7775",
+    "site_categories": [
+      "media",
+      "law_government_and_politics",
+      "politics",
+      "top_news_co",
+      "top_news_cl",
+      "top_news_es",
+      "top_news_us",
+      "top_news_pe",
+      "top_news_mx",
+      "top_news_ar",
+      "top_news_ve",
+      "top_news"
+    ],
+    "section_title": "",
+    "site_title": "Últimas noticias de Argentina y el mundo - LA NACION",
+    "title": "La ciudad de Arizona que tiene una de las peores contaminaciones del aire en EE.UU. - LA NACION",
+    "title_full": "La ciudad de Arizona que tiene una de las peores contaminaciones del aire en EE.UU. - LA NACION",
+    "published": "2025-05-08T02:23:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "https://resizer.glanacion.com/resizer/v2/mas-de-45-millones-de-personas-en-el-area-KERRGW3OJBFBHJSADVKJLXYHDI.png?auth=b4303d1f1f7aba3f38d11703c59351cd5872bf347a30d7bb1ba2e3128913c176&amp;width=1200&amp;quality=70&amp;smart=false&amp;height=800",
+    "performance_score": 0,
+    "domain_rank": 2447,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f03facae9cda49c616b72ab71e9e17744319751d",
+  "url": "https://www.lanacion.com.ar/estados-unidos/arizona/la-ciudad-de-arizona-que-tiene-una-de-las-peores-contaminaciones-del-aire-en-eeuu-nid07052025",
+  "ord_in_thread": 0,
+  "author": "@LANACION",
+  "published": "2025-05-08T02:23:00.000+03:00",
+  "title": "La ciudad de Arizona que tiene una de las peores contaminaciones del aire en EE.UU. - LA NACION",
+  "text": "En ciertos rincones del sudoeste de Estados Unidos , los cielos soleados esconden una realidad menos alentadora. La calidad del aire , afectada por factores tanto naturales como humanos, se convirtió en una preocupación creciente para millones de residentes. Uno de los nombres más recurrentes en los informes anuales sobre contaminación vuelve a figurar entre los primeros puestos . La ciudad de Arizona con peor contaminación por ozono El Valle de Phoenix–Mesa, a pesar de registrar índices buenos de forma general, acumula un número elevado de días con niveles de ozono y partículas finas por encima de lo aconsejable. Profundizamos en las razones de esta clasificación y en las respuestas que ya se despliegan en Arizona.\nLa contaminación por ozono sigue siendo uno de los mayores riesgos ambientales en ciudades como Phoenix-Mesa, con impactos directos en la salud respiratoria Freepik - Freepik",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Environment", "Health", "Social Issue"],
+  "topics": [
+    "Environment->sustainability",
+    "Environment->air pollution",
+    "Environment->environmental pollution",
+    "Health->public health",
+    "Social Issue->social condition",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:17:28.343+03:00",
+  "updated": "2025-05-08T00:24:17.000+00:00"
+}

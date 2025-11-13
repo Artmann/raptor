@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "e000c0d90e61ce1038c9f0bb210f63eb0529d8c5",
+    "url": "https://flipboard.com/topic/brucewesterman/-/a-gdE9U-ObRdOSh3eRbqMYYg%3Aa%3A3199657-%2F0",
+    "site_full": "flipboard.com",
+    "site": "flipboard.com",
+    "site_section": "https://flipboard.com/topic/brucewesterman",
+    "site_categories": ["family_and_parenting", "eldercare"],
+    "section_title": "Discover More in Bruce Westerman on Flipboard",
+    "site_title": "Flipboard: Your Social Magazine",
+    "title": "Smoke from climate-fueled wildfires contributed to thousands of US deaths over 15 years, study says | Flipboard",
+    "title_full": "Smoke from climate-fueled wildfires contributed to thousands of US deaths over 15 years, study says | Flipboard",
+    "published": "2025-05-08T01:57:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ic-cdn.flipboard.com/hdnux.com/d615b67319825c0c096bf33d1240e58587595b52/_medium.jpeg",
+    "performance_score": 0,
+    "domain_rank": 1243,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e000c0d90e61ce1038c9f0bb210f63eb0529d8c5",
+  "url": "https://flipboard.com/topic/brucewesterman/-/a-gdE9U-ObRdOSh3eRbqMYYg%3Aa%3A3199657-%2F0",
+  "ord_in_thread": 0,
+  "author": "SFGate - DORANY PINEDA",
+  "published": "2025-05-08T01:57:00.000+03:00",
+  "title": "Smoke from climate-fueled wildfires contributed to thousands of US deaths over 15 years, study says | Flipboard",
+  "text": "Smoke from climate-fueled wildfires contributed to thousands of US deaths over 15 years, study says Wildfires driven by climate change contribute to as many as thousands of annual deaths and billions of dollars in economic costs from wildfire smoke in the United States, according to a new study. The paper, published Friday in the journal Nature Communications Earth & Environment, found that from …\nSFGate - DORANY PINEDA • 2h",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->environmental pollution",
+    "Environment->air pollution",
+    "Environment->climate change"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Nature Communications Earth & Environment",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:23:45.352+03:00",
+  "updated": "2025-05-08T01:28:53.000+00:00"
+}

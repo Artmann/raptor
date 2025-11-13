@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "fbc3ca3091bc6582155355d4af0857328d923903",
+    "url": "https://gazette.com/opinion/guest-column-whole-person-care-supports-patients-saves-money/article_5e68f1a8-a4cd-11ee-a9e4-efd46896e071.html",
+    "site_full": "gazette.com",
+    "site": "gazette.com",
+    "site_section": "http://gazette.com/search/?f=rss&t=article&c=opinion&l=50&s=start_time&sd=desc",
+    "site_categories": ["media", "education", "business"],
+    "section_title": "gazette.com - RSS Results in opinion of type article",
+    "title": "GUEST COLUMN: Whole-person care supports patients, saves money",
+    "title_full": "GUEST COLUMN: Whole-person care supports patients, saves money",
+    "published": "2023-12-28T19:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/1/1d/11db2166-a4ce-11ee-84ca-a3b9acd64c39/658c453df2462.image.jpg?crop=323%2C323%2C57%2C69&amp;resize=200%2C200&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 5518,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fbc3ca3091bc6582155355d4af0857328d923903",
+  "url": "https://gazette.com/opinion/guest-column-whole-person-care-supports-patients-saves-money/article_5e68f1a8-a4cd-11ee-a9e4-efd46896e071.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Amy Yutzy",
+  "published": "2023-12-28T19:00:00.000+02:00",
+  "title": "GUEST COLUMN: Whole-person care supports patients, saves money",
+  "text": "The pandemic-prompted Public Health Emergency ensured that members of Health First Colorado, our state’s Medicaid program, benefited from continuous health coverage during a tumultuous time.\nBut that emergency period expired in May. Since then, Colorado has worked hard so that anyone eligible for Health First Colorado continues to benefit from health coverage.\nWhile maintaining coverage is critical, it’s only half of the equation to better health.\nImproving the overall health of Coloradans also requires that those with health coverage can access high-quality, comprehensive care.\nFor Health First Colorado members, that increasingly includes wrap-around services that promote their well-being.\nA person’s health depends on more than what can be addressed in a doctor’s office. It’s influenced by broader factors known as social determinants of health.\nThe understanding of the drivers of good health requires an expanded focus on “whole person care.”\nWe cannot fully care for patients unless we ask them about and address their full spectrum of needs.\nPeople cannot thrive without consistent access to nutritious food and a roof over their heads, for example. Sometimes, the needs are even more specific.\nThe growing Food as Medicine movement acknowledges that some people have special dietary needs because of a health condition or to support their treatment. Meals that meet their health needs help keep them out of the hospital and support healing. This can include “produce prescriptions” for fruits and vegetables.\nFor example, the Colorado Community Health Alliance has collaborated with Project Angel Heart to reduce hospital stays for Health First Colorado members with diabetes.\nOur pilot program provided an eight-week dietary-tailored meal service. The alliance paid for the meals that Project Angel Heart provided.\nHere’s an example of how it has played out:\nA pregnant single mother of two other children was induced due to gestational diabetes. The challenging situation was compounded when her newborn had to stay in the hospital.\nProject Angel Heart swiftly initiated a meal delivery program that proved to be a lifeline. The consistent, healthy meal deliveries not only eased the new mom’s daily burdens but also helped her successfully manage her blood sugar levels.\n“The meals helped me take better care of myself,” the mom told Colorado Community Health Alliance.\nData supports the case for this support.\nMembers who completed the meal service program decreased their inpatient care costs. On average, these members had inpatient costs of $1,834 per member per month before receiving meals and an average of $692 per member per month after receiving their meals. These savings far exceeded the cost of delivering the meals.\nThis also demonstrates that healthier outcomes don’t just benefit the patient but also reduce the costs of taxpayer-supported programs like Health First Colorado.\nWith the success of this project, the alliance is continuing this pilot project and expanding it to other chronic conditions beyond diabetes. It is also offering it to high-risk pregnant or postpartum women.\nThose of us who provide health coverage and care must respond to this expanded understanding of how to support patients’ health.\nIf we build on this progress, we will support a healthier, happier Colorado while saving money for the state.\nAmy Yutzy is executive director of Medicaid Programs with the Colorado Community Health Alliance. She lives in Palmer Lake. Colorado Community Health Alliance is the Health First Colorado regional organization for the counties of Boulder, Broomfield, Clear Creek, El Paso, Gilpin, Jefferson, Park and Teller.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Health", "Economy, Business and Finance", "Social Issue"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "health first colorado",
+        "sentiment": "negative"
+      },
+      {
+        "name": "public health emergency",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "colorado",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:27:05.043+02:00",
+  "updated": "2023-12-29T00:27:05.043+02:00"
+}

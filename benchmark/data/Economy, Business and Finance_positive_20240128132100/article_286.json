@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "ffb77429074d8745208e5166b9c40bc7be31e88d",
+    "url": "https://biz.crast.net/a-look-at-the-intrinsic-value-of-maxis-berhad-klsemaxis/",
+    "site_full": "biz.crast.net",
+    "site": "crast.net",
+    "site_section": "https://biz.crast.net",
+    "site_categories": [],
+    "section_title": "Business News - The latest Economics and financial news",
+    "title": "A look at the intrinsic value of Maxis Berhad (KLSE:MAXIS) - Business News",
+    "title_full": "A look at the intrinsic value of Maxis Berhad (KLSE:MAXIS) - Business News",
+    "published": "2023-12-28T23:31:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://i0.wp.com/media.zenfs.com/en/simply_wall_st__316/f928ca386683eccc57c93fd764c6866f",
+    "performance_score": 0,
+    "domain_rank": 73079,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ffb77429074d8745208e5166b9c40bc7be31e88d",
+  "url": "https://biz.crast.net/a-look-at-the-intrinsic-value-of-maxis-berhad-klsemaxis/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Sylvia Quarles",
+  "published": "2023-12-28T23:31:00.000+02:00",
+  "title": "A look at the intrinsic value of Maxis Berhad (KLSE:MAXIS) - Business News",
+  "text": "key insights - Estimated fair value for Maxis Berhad is RM4.67 based on 2 stage free cash flow to equity - The current share price of RM3.86 suggests that Maxis Berhad is potentially trading close to its fair value - Our fair value estimate is 14% above Maxis Berhad's analyst price target of RM4.10 Today we will perform a simple examination of the valuation methodology used to estimate the attractiveness of Maxis Berhad (KLSE:MAXIS) as an investment opportunity by taking into account estimated future cash flows and discounting them to their present value . We will leverage the Discounted Cash Flow (DCF) model for this purpose. Such models may seem beyond the understanding of a common person, but they are quite easy to follow. We would caution that there are many ways to value a company and, like DCF, each technique has advantages and disadvantages in certain scenarios. If you want to learn more about discounted cash flow, the logic behind this calculation can be read in detail in the Simply Wall St analysis model. See our latest analysis for Maxis Berhad Step by step through calculations We are using a 2-stage growth model, which simply means we take into account two stages of company growth. The growth rate of the company may be high in the initial period and the second phase is usually considered to have a stable growth rate. To start, we need to get an estimate of cash flows for the next ten years. Where possible we use analyst estimates, but when these are not available we estimate the previous free cash flow (FCF) from the previous estimate or reported price. We believe that companies with decreasing free cash flow will have their contraction rate slow, and companies with growing free cash flow will have their growth rate slow over this period. We do this to reflect that growth in the early years tends to be more slow than in later years. Generally we assume that a dollar today is more valuable than a dollar in the future, and so the sum of future cash flows is discounted by today's value: 10-Year Free Cash Flow (FCF) Forecast | | 2024 | | 2025 | | 2026 | | 2027 | | 2028 | | 2029 | | 2030 | | 2031 | | 2032 | | 2033 | | Levered FCF (MYR, millions) | | RM2.08b | | RM2.20b | | RM2.23b | | RM2.27b | | RM2.32b | | RM2.38b | | RM2.45b | | RM2.53b | | RM2.61b | | RM2.70b | | growth rate estimates source | | analyzer x6 | | analyzer x6 | | analyzer x1 | | Estimate @ 1.77% | | Estimate @ 2.31% | | Estimate @ 2.68% | | Estimate @ 2.94% | | Estimate @ 3.12% | | Estimate @ 3.25% | | Estimate @ 3.34% | | Present value (MYR, millions) discounted at 9.0% | | RM1.9k | | RM1.9k | | RM1.7k | | RM1.6k | | RM1.5k | | RM1.4k | | RM1.3k | | RM1.3k | | RM1.2k | | RM1.1k (“Estimate” = Estimated FCF growth rate by Simply Wall St.) Present value of 10-year cash flows (PVCF) = RM15b The second stage, also known as terminal value, is the cash flow of the business after the first stage. The Gordon Growth Formula is used to calculate the terminal value of a 10-year government bond yield at a future annual growth rate equal to the 5-year average of 3.6%. We discount the terminal cash flows to today's value at a cost of equity of 9.0%. Terminal Value (TV)= FCF2033 × (1 + G) ÷ (R – G) = RM2.7b × (1 + 3.6%) ÷ (9.0%-3.6%) = RM51b Present Value of Terminal Value (PVTV)= TV / (1 + R)10= RM51b÷ (1 + 9.0%)10= RM22b The total value is the sum of the cash flows for the next ten years and the discounted terminal value, resulting in the total equity value, which in this case is RM37b. To get the intrinsic value per share, we divide it by the total number of shares outstanding. Relative to the current share price of RM3.9, the company appears to be about fair valued at a 17% discount to the stock price it currently trades at. However, remember that this is only an approximate assessment, and like any complex formula – garbage in, garbage out. KLSE:Maxis Discounted Cash Flow Dec 28, 2023 Estimate The above calculations rely heavily on two assumptions. The first is the discount rate and the second is the cash flows. You don't have to agree with these inputs, I recommend redoing the calculations yourself and playing with them. DCF also does not consider the potential cyclicality of an industry, or a company's future capital requirements, so it does not give a complete picture of a company's potential performance. Given that we are looking at Maxis Berhad as potential shareholders, the cost of equity is used as the discount rate rather than the cost of capital (or weighted average cost of capital, WACC), which is used for debt. Is responsible. In this calculation we have used 9.0%, which is based on a leveraged beta of 0.800. Beta is a measure of a stock's volatility compared to the overall market. We derive our beta from the industry average beta of comparable companies globally, which has a range between 0.8 and 2.0, which is a reasonable range for a stable business. SWOT Analysis for Maxis Berhad Strength weakness opportunity Threat Next Steps: While important, the DCF calculation is just one of many factors you need to assess for a company. The DCF model is not an ideal stock valuation tool. Instead the best use of the DCF model is to test certain assumptions and theories to see if they would under- or overvalue the company. For example, changes in a company's cost of equity or the risk-free rate can have a significant impact on valuation. For Maxis Berhad, we've compiled three additional factors you should consider: - risk: For example, we have discovered 2 warning signs for Maxis Berhad You should know about this before investing here. - future earnings: How does MAXIS's growth rate compare to its competitors and the broader market? Get a deeper dive into analyst consensus numbers for the coming years by interacting with our free Analyst Growth Expectations chart. - Other high quality options: Do you like a good all-rounder? Check out our interactive list of high-quality stocks to find out what else you're missing! P.S. The Simply Wall St app conducts discounted cash flow valuations for every stock on the KLSE every day. If you want to know other stock calculations just search here. Have any feedback on this article? Concerned about ingredients? keep in touch directly with us. Alternatively, email editorial-team(at)Simplewallst.com. This article from Simply Wall St is of a general nature. We only provide commentary based on historical data and analyst forecasts using unbiased methodology and our articles are not intended to provide financial advice. It does not recommend buying or selling any stock, and does not take into account your objectives, or your financial situation. Our goal is to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not take into account the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any of the stocks mentioned.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "maxis berhad",
+        "sentiment": "negative"
+      },
+      {
+        "name": "maxis",
+        "sentiment": "none"
+      },
+      {
+        "name": "dcf",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:33:33.866+02:00",
+  "updated": "2023-12-29T00:33:33.866+02:00"
+}

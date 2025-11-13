@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "b3ed5be511c646ed6ef1c93faddc6be8a32d9365",
+    "url": "https://www.which.co.uk/news/article/how-to-beat-the-windows-defender-scam-ajZZ98N5VpPa",
+    "site_full": "www.which.co.uk",
+    "site": "which.co.uk",
+    "site_section": "https://www.which.co.uk/news/#home",
+    "site_categories": ["home_and_garden", "appliances"],
+    "section_title": "Latest consumer news - Which? News - Which? News",
+    "title": "Revealed: How to beat the 'Windows Defender' scam - Which? News",
+    "title_full": "Revealed: How to beat the 'Windows Defender' scam - Which? News",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/a7b1a71b5cad-windows-defender-scamlead.jpg",
+    "performance_score": 0,
+    "domain_rank": 2561,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b3ed5be511c646ed6ef1c93faddc6be8a32d9365",
+  "url": "https://www.which.co.uk/news/article/how-to-beat-the-windows-defender-scam-ajZZ98N5VpPa",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Which? Team",
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "Revealed: How to beat the 'Windows Defender' scam - Which? News",
+  "text": "Scammers are using fake Windows Defender pop-up messages to convince PC users to hand over hundreds of pounds. In reality, however, these warnings are completely false and have nothing to do with Microsoft. They are caused by trojan malware that can delete, block, modify, leak or copy data. But your device isn't affected by this trojan – it's simply a window trying to convince you to call the number on-screen. Below, we explain how to remove these pop-ups for good. Plus, we've got details on how we uncover the best free and paid-for antivirus software. Join Which? Tech Support – stay on top of your tech and get unlimited expert 1-2-1 support by phone, email, remote fix and in print. Already a Tech Support member? For one-to-one technical advice, scan the QR code to go to our Tech Support webpage. If you're reading this on your phone or tablet, click on our Tech Support appointment page . 'I've had a Windows Defender pop-up message appear on my laptop that I can't get rid of – it's taken over my screen and is telling me my device is under threat from a detected Trojan program and I need to contact Microsoft. What should I do?' Which? Tech Support member 'This is a well-known scam that we regularly get contacted about – it has nothing to do with Microsoft, is extremely annoying and very convincing. The message can take over your entire screen, so you can see why some people feel obliged to call the on-screen number. The call usually revolves around the scammer convincing you that your machine is 'infected' and a payment (typically a few hundred pounds) by bank transfer or gift cards will resolve the issue. The scammers are usually very persistent. Don't call the number, though, as there's an easy fix. Just follow the steps below.' Which? Tech Support There are no residual effects once the page is closed and notifications are turned off – your computer will not be infected in any way. News, deals and stuff the manuals don't tell you. Sign up for our Tech newsletter, it's free monthly If you're looking for an effective program to safeguard your personal data, the results of our in-depth lab tests can help. To uncover the top free and paid-for antivirus software, we run through a series of checks. Our experts bombard software with tens of thousands of threats, including viruses, ransomware and phishing attacks. This process is repeated multiple times a year, as calls to Which? Tech Support confirm that new threats are emerging all the time. To calculate an overall score for antivirus software, we also study how easy it is to use and how many pop-ups you'll have to deal with while you use it. For more details, see best antivirus 2024 . Which? Tech subscribers, you can take a look back at the April issue of Which? Tech magazine. Get tailored 1-to-1 support from our friendly experts for £49 a year - less than £1 a week Which? Tech Support can help you keep on top of your home tech. Our experts explain things clearly so you can resolve issues and feel more confident using your devices. Get unlimited 1-2-1 expert support: You can join Which? Tech Support for £49 a year. You can cancel at any time.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Science and Technology"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "microsoft",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:07:29.529+03:00",
+  "updated": "2024-04-26T00:07:29.529+03:00"
+}

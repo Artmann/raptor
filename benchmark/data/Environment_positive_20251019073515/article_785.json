@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "141057627fdaa9cfe95cf99ee2e7f649d90d4ad3",
+    "url": "https://ndmais.com.br/tempo/sc-opera-barragem-pela-internet-pela-1a-vez-na-historia-veja-como-isso-pode-evitar-enchentes/",
+    "site_full": "ndmais.com.br",
+    "site": "ndmais.com.br",
+    "site_section": "https://ndmais.com.br/tag/noticia/feed/",
+    "site_categories": [],
+    "section_title": "Notícia &#8211; ND Mais",
+    "site_title": "ND Mais - Portal de Notícias de Santa Catarina e do Brasil",
+    "title": "SC opera barragem pela internet pela 1ª vez na história; veja como isso pode evitar enchentes",
+    "title_full": "SC opera barragem pela internet pela 1ª vez na história; veja como isso pode evitar enchentes",
+    "published": "2025-10-16T15:31:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BR",
+    "main_image": "https://static.ndmais.com.br/2025/10/como-funciona-a-barragem-que-agora-e-operada-pela-internet-em-sc-1-1200x675.jpg",
+    "performance_score": 0,
+    "domain_rank": 7350,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "141057627fdaa9cfe95cf99ee2e7f649d90d4ad3",
+  "url": "https://ndmais.com.br/tempo/sc-opera-barragem-pela-internet-pela-1a-vez-na-historia-veja-como-isso-pode-evitar-enchentes/",
+  "ord_in_thread": 0,
+  "author": "Olga Helena de Paula",
+  "published": "2025-10-16T15:31:00.000+03:00",
+  "title": "SC opera barragem pela internet pela 1ª vez na história; veja como isso pode evitar enchentes",
+  "text": "Pela primeira vez na história, Santa Catarina pode abrir e fechar as comportas de uma barragem pela internet. A tecnologia foi implantada na Barragem Sul, em Ituporanga, e permite que técnicos da Defesa Civil controlem o sistema a 148,7 quilômetros de distância, direto de Florianópolis.\nA inovação integra o projeto de modernização da estrutura, construída na década de 1970, e marca um avanço inédito no controle das cheias do Vale do Itajaí.\nO investimento total foi de R$ 23,3 milhões, o maior desde a construção da barragem.\nEntre no grupo\nSC opera barragem pela internet pela 1ª vez na história; veja como isso pode evitar enchentes\nO novo sistema permite que as cinco comportas principais e o canal de desvio da Barragem Sul sejam abertos ou fechados tanto presencialmente quanto via internet.\nEm caso de falta de energia, o sistema é automaticamente sustentado por um gerador de backup, além de um banco de baterias que garante o funcionamento contínuo.\nA comunicação é feita por rede de fibra óptica, com conexão via satélite (Starlink) como suporte secundário, assegurando a estabilidade do sinal mesmo em condições adversas.\nAlém da automação, as cinco comportas foram substituídas, o sistema elétrico foi modernizado e as galerias internas receberam melhorias estruturais.\nControle de cheias\nDurante períodos de cheia, o nível do Rio Itajaí-Açu é monitorado em tempo real por uma estação hidrometeorológica em Rio do Sul.\nA partir desses dados, as comportas são operadas de forma coordenada para reduzir o impacto das águas e evitar a erosão das margens.\nO fechamento segue um protocolo técnico: primeiro as comportas laterais (1 e 5), depois as intermediárias (2 e 4) e, por último, a central (3).\nA abertura ocorre em ordem inversa, garantindo o equilíbrio da pressão e a segurança da estrutura.\nPróximas modernizações\nConforme a SPDC, o modelo implantado em Ituporanga servirá de referência para as demais barragens estaduais: a Barragem Oeste, em Taió, e a Barragem Norte, em José Boiteux, que também devem receber sistemas de automação e novas comportas.\nAinda está em andamento uma licitação para recuperação do vertedouro e de outras estruturas da Barragem Sul, incluindo o salto esqui, responsável por dissipar a energia da água que desce pelo vertedouro.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "portuguese",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->water"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:09:53.925+03:00",
+  "updated": "2025-10-16T16:41:51.000+03:00"
+}

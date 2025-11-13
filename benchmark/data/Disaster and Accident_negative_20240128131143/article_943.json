@@ -1,0 +1,188 @@
+{
+  "thread": {
+    "uuid": "fd9f6987f9ccccbdb15758578f237fc9cc88cfcd",
+    "url": "https://www.nvdaily.com/nvdaily/college-news/article_e317c988-84e9-5cb9-9953-c9c3a534b0d9.html",
+    "site_full": "www.nvdaily.com",
+    "site": "nvdaily.com",
+    "site_section": "http://www.nvdaily.com/search/?f=rss&t=article&c=life&l=50&s=start_time&sd=desc",
+    "site_categories": ["travel", "hotels"],
+    "section_title": "www.nvdaily.com - RSS Results in life of type article",
+    "title": "College news",
+    "title_full": "College news",
+    "published": "2023-12-28T12:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/custom/image/f49c34a0-9ca4-11e8-8115-4714fd783b28.png?resize=600%2C315",
+    "performance_score": 0,
+    "domain_rank": 75742,
+    "domain_rank_updated": "2023-12-26T12:06:35.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fd9f6987f9ccccbdb15758578f237fc9cc88cfcd",
+  "url": "https://www.nvdaily.com/nvdaily/college-news/article_e317c988-84e9-5cb9-9953-c9c3a534b0d9.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2023-12-28T12:00:00.000+02:00",
+  "title": "College news",
+  "text": "College news\n• Katelyn Bern and Andrew Thomas, both of Front Royal, were named to the dean’s list for the fall semester at Pennsylvania Western University.\n• The following students, along with their major of study, were named to the dean’s list at Bridgewater College for the fall semester:\nEdinburg: Kaitlyn Atchison, art; Ashley Dodd, health and exercise science; Hunter Frazier, business administration; and Emily Poole, liberal studies.\nFront Royal: Judd Schuman, health and exercise science; Jazmine White, biology.\nMiddletown: Jessica Arnold, communication technology and culture and psychology\nMount Jackson: Kerigan Moomaw, health and exercise science; and Kassie Sawyer, family consumer science.\nNew Market: Jamie Hinegardner, health and exercise science.\nStephens City: Jaiden Polston, human development and family science; Lance Rauser, history.\nStrasburg: Jaden Alsberry, Brittany Coffelt and Bella Rhodes, each health and exercise science majors; Anthony Cadle, health and physical education; Collin Nicholson, political science; Samuel Rinehart, environmental science.\nTimberville: Sydney Collins, psychology.\nToms Brook: Trevor Sager, biology.\nWoodstock: Robert Klinko III, health and exercise science.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Social Issue", "Disaster and Accident", "Human Interest"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "katelyn bern",
+        "sentiment": "negative"
+      },
+      {
+        "name": "andrew thomas",
+        "sentiment": "negative"
+      },
+      {
+        "name": "samuel rinehart",
+        "sentiment": "none"
+      },
+      {
+        "name": "jaden alsberry",
+        "sentiment": "none"
+      },
+      {
+        "name": "kassie sawyer",
+        "sentiment": "none"
+      },
+      {
+        "name": "stephens",
+        "sentiment": "none"
+      },
+      {
+        "name": "brittany coffelt",
+        "sentiment": "none"
+      },
+      {
+        "name": "strasburg",
+        "sentiment": "none"
+      },
+      {
+        "name": "bella rhodes",
+        "sentiment": "none"
+      },
+      {
+        "name": "ashley dodd",
+        "sentiment": "none"
+      },
+      {
+        "name": "hunter frazier",
+        "sentiment": "none"
+      },
+      {
+        "name": "jazmine white",
+        "sentiment": "none"
+      },
+      {
+        "name": "anthony cadle",
+        "sentiment": "none"
+      },
+      {
+        "name": "jessica arnold",
+        "sentiment": "none"
+      },
+      {
+        "name": "emily poole",
+        "sentiment": "none"
+      },
+      {
+        "name": "kaitlyn atchison",
+        "sentiment": "none"
+      },
+      {
+        "name": "jaiden polston",
+        "sentiment": "none"
+      },
+      {
+        "name": "sydn",
+        "sentiment": "none"
+      },
+      {
+        "name": "collin nicholson",
+        "sentiment": "none"
+      },
+      {
+        "name": "lance rauser",
+        "sentiment": "none"
+      },
+      {
+        "name": "judd schuman",
+        "sentiment": "none"
+      },
+      {
+        "name": "kerigan moomaw",
+        "sentiment": "none"
+      },
+      {
+        "name": "jamie hinegardner",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "front royal",
+        "sentiment": "negative"
+      },
+      {
+        "name": "bridgewater college",
+        "sentiment": "none"
+      },
+      {
+        "name": "pennsylvania western university",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "edinburg",
+        "sentiment": "none"
+      },
+      {
+        "name": "mount jackson",
+        "sentiment": "none"
+      },
+      {
+        "name": "middletown",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:34:14.355+02:00",
+  "updated": "2023-12-29T01:34:14.355+02:00"
+}

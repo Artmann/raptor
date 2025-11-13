@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "ff3aebfcc6852ede4c66ad7caab409a93d16e64a",
+    "url": "https://www.virgilio.it/italia/faenza/notizielocali/ettari_di_suolo_sottratti_alle_lottizzazioni_diventeranno_aree_verdi-75881847.html",
+    "site_full": "www.virgilio.it",
+    "site": "virgilio.it",
+    "site_section": "https://www.virgilio.it/italia/firenzuola/notizielocali",
+    "site_categories": ["media", "top_news_it", "top_news"],
+    "section_title": "Notizie di Firenzuola - Virgilio Firenzuola",
+    "site_title": "Virgilio: Mail, Login, Ultime Notizie in tempo reale e tanto altro!",
+    "title": "Ettari di Suolo Sottratti alle Lottizzazioni Diventeranno Aree Verdi - Faenza",
+    "title_full": "Ettari di Suolo Sottratti alle Lottizzazioni Diventeranno Aree Verdi - Faenza",
+    "published": "2025-10-16T14:02:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://img.plug.it/img_newsreg_mid/5/3/3/55667335.jpg",
+    "performance_score": 0,
+    "domain_rank": 5429,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ff3aebfcc6852ede4c66ad7caab409a93d16e64a",
+  "url": "https://www.virgilio.it/italia/faenza/notizielocali/ettari_di_suolo_sottratti_alle_lottizzazioni_diventeranno_aree_verdi-75881847.html",
+  "ord_in_thread": 0,
+  "author": "Ravenna Web Tv",
+  "published": "2025-10-16T14:02:00.000+03:00",
+  "title": "Ettari di Suolo Sottratti alle Lottizzazioni Diventeranno Aree Verdi - Faenza",
+  "text": "Ettari di suolo sottratti alle lottizzazioni, diventeranno aree verdi\nLa Giunta Comunale di Faenza ha approvato una delibera di indirizzo strategico che mira alla riduzione del consumo di suolo nel territorio urbano. Il provvedimento stabilisce che quasi tre ettari (per... Leggi tutta la notizia\nCRONACA",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": ["Environment", "Lifestyle and Leisure"],
+  "topics": [
+    "Environment->parks",
+    "Environment->sustainability",
+    "Lifestyle and Leisure->outdoor recreational activities"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.ravennawebtv.it/ettari-di-suolo-sottratti-alle-lottizzazioni-diventeranno-aree-verdi/",
+    "https://www.ravennawebtv.it/ettari-di-suolo-sottratti-alle-lottizzazioni-diventeranno-aree-verdi",
+    "https://ravennawebtv.it/ettari-di-suolo-sottratti-alle-lottizzazioni-diventeranno-aree-verdi/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Giunta Comunale di Faenza",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_it", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:49:58.767+03:00",
+  "updated": "2025-10-17T15:06:03.000+03:00"
+}

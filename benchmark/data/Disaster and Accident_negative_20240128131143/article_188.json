@@ -1,0 +1,119 @@
+{
+  "thread": {
+    "uuid": "089d058292dde70f35d2846ae29ca6d3d5ffbcc8",
+    "url": "https://www.localmemphis.com/article/news/crime/mlgw-truck-stolen-east-memphis/522-96759b6f-75ba-4797-83a3-70f0b19c3739",
+    "site_full": "www.localmemphis.com",
+    "site": "localmemphis.com",
+    "site_section": "https://localmemphis.com/life",
+    "site_categories": ["media"],
+    "section_title": "Life| Memphis, TN | WATN | localmemphis.com",
+    "title": "MLGW truck stolen in East Memphis, MPD says | localmemphis.com",
+    "title_full": "MLGW truck stolen in East Memphis, MPD says | localmemphis.com",
+    "published": "2023-12-28T10:26:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.tegna-media.com/assets/WATN/images/b5acfc86-b851-4960-9e37-33f58e590d53/b5acfc86-b851-4960-9e37-33f58e590d53_1140x641.jpg",
+    "performance_score": 0,
+    "domain_rank": 24412,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "089d058292dde70f35d2846ae29ca6d3d5ffbcc8",
+  "url": "https://www.localmemphis.com/article/news/crime/mlgw-truck-stolen-east-memphis/522-96759b6f-75ba-4797-83a3-70f0b19c3739",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Judy Black",
+  "published": "2023-12-28T10:26:00.000+02:00",
+  "title": "MLGW truck stolen in East Memphis, MPD says | localmemphis.com",
+  "text": "MEMPHIS, Tenn. — According to the Memphis Police Department (MPD), a man stole an MLGW truck in East Memphis on Thursday.\nAround noon, officers said they responded to a call on the 4900 block of Briarcliff Rd.\nAn MLGW technician told police that he was working a water meter, and his truck was parked but still running, powering the water pump that was plugged into the front of it, police said.\nThe technician said a man then got into the truck and began driving it westbound on Briarcliff. He said the man was wearing a black toboggan, according to MPD.\nThe truck contained a laptop, radio and equipment, and it is altogether valued at around $75,000, police said.\nAccording to MPD, MLGW personnel were able to track the radio in the truck, and its last known location was in the area of 83 S Highland St. Later, the radio went offline, police said.\nMemphis Police have been unable to find the stolen truck and have no additional information about the suspect.\nRelated Articles Person dies after going down embankment and crashing Burglars break into GameStop in Midtown, steal PS5",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Disaster and Accident",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "mpd",
+        "sentiment": "negative"
+      },
+      {
+        "name": "memphis police department",
+        "sentiment": "negative"
+      },
+      {
+        "name": "mlgw",
+        "sentiment": "negative"
+      },
+      {
+        "name": "gamestop",
+        "sentiment": "none"
+      },
+      {
+        "name": "memphis police",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "tenn.",
+        "sentiment": "none"
+      },
+      {
+        "name": "memphis",
+        "sentiment": "none"
+      },
+      {
+        "name": "east memphis",
+        "sentiment": "none"
+      },
+      {
+        "name": "highland st. later",
+        "sentiment": "none"
+      },
+      {
+        "name": "briarcliff",
+        "sentiment": "none"
+      },
+      {
+        "name": "memphis",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:15:34.290+02:00",
+  "updated": "2023-12-29T00:15:34.290+02:00"
+}

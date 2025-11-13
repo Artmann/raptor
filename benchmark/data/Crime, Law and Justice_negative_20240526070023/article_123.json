@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "ca0e5485c2b745e4856603804a56d3f4335c4a8f",
+    "url": "https://www.cbsnews.com/sanfrancisco/news/petaluma-parolee-arrested-alleged-assault-apartment-complex",
+    "site_full": "www.cbsnews.com",
+    "site": "cbsnews.com",
+    "site_section": "https://www.cbsnews.com/sanfrancisco/latest/rss/main",
+    "site_categories": ["media", "television", "entertainment", "top_news"],
+    "section_title": "Home - CBS San Francisco",
+    "title": "Parolee arrested for alleged assault at Petaluma apartment complex - CBS San Francisco",
+    "title_full": "Parolee arrested for alleged assault at Petaluma apartment complex - CBS San Francisco",
+    "published": "2024-04-25T16:01:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets3.cbsnewsstatic.com/hub/i/r/2016/03/05/f28fefd4-1051-414c-82f0-7b4275908aa8/thumbnail/1200x630/a7b971bf2efc0da461c5af423976d82d/gunstore-petaluma_policecar.jpg?v=63c131a0051f3823d92b0d1dffb5e0e4",
+    "performance_score": 0,
+    "domain_rank": 188,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ca0e5485c2b745e4856603804a56d3f4335c4a8f",
+  "url": "https://www.cbsnews.com/sanfrancisco/news/petaluma-parolee-arrested-alleged-assault-apartment-complex",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-04-25T16:01:00.000+03:00",
+  "title": "Parolee arrested for alleged assault at Petaluma apartment complex - CBS San Francisco",
+  "text": "Petaluma officers arrested a parolee for allegedly assaulting someone at an apartment complex in the city earlier this week, according to police.\nAt 3:43 a.m. Tuesday, Petaluma officers and firefighters were dispatched to the Studios at Montero residential complex for an assault victim who was down and needing emergency medical aid.\nUpon arrival, they found the victim with significant facial and head injuries who was actively bleeding. Medics treated the victim on scene and transported him to a hospital for further treatment.\nThe victim and witnesses identified the suspect as Hiram Joseph. According to police, they learned that Joseph had arrived at the Studios at Montero and contacted the victim at the door of one of the rooms. He then assaulted the victim, causing facial and head injuries.\nDuring the assault, the victim lost consciousness. Joseph then fled the scene in a vehicle before authorities arrived.\nPolice said Joseph was on active parole at the time of the alleged crime. They also learned the terms of his parole required that he wear a GPS ankle monitor.\nOfficers tracked Joseph to the area of south Santa Rosa, and with assistance from the Sonoma County Sheriff's Office, the suspect was found and detained.\nOfficers booked him into the Sonoma County Jail Main Adult Detention Facility on suspicion of assault causing great bodily injury and parole violation.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "hiram joseph",
+        "sentiment": "none"
+      },
+      {
+        "name": "jo",
+        "sentiment": "none"
+      },
+      {
+        "name": "joseph",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "petaluma",
+        "sentiment": "none"
+      },
+      {
+        "name": "cbs san francisco petaluma",
+        "sentiment": "none"
+      },
+      {
+        "name": "montero",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:04:35.232+03:00",
+  "updated": "2024-04-26T07:55:09.734+03:00"
+}

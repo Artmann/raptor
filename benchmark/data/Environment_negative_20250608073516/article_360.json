@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "6eb825fa9a917ce183929dfa81a8bf91aea83ece",
+    "url": "https://finance.sina.com.cn/jjxw/2025-05-08/doc-inevuzvk0511994.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "https://finance.sina.cn",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪财经_金融信息服务商",
+    "site_title": null,
+    "title": "冰雹、局地超10级雷暴大风！安徽发布暴雨蓝色预警|暴雨_新浪财经_新浪网",
+    "title_full": "冰雹、局地超10级雷暴大风！安徽发布暴雨蓝色预警|暴雨_新浪财经_新浪网",
+    "published": "2025-05-08T02:40:00.000+03:00",
+    "replies_count": 1,
+    "participants_count": 2,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 259,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6eb825fa9a917ce183929dfa81a8bf91aea83ece",
+  "url": "https://finance.sina.com.cn/jjxw/2025-05-08/doc-inevuzvk0511994.shtml",
+  "ord_in_thread": 0,
+  "author": "sina.com.cn",
+  "published": "2025-05-08T02:40:00.000+03:00",
+  "title": "冰雹、局地超10级雷暴大风！安徽发布暴雨蓝色预警|暴雨_新浪财经_新浪网",
+  "text": "安徽省气象台2025年05月07日16时40分发布 暴雨蓝色预警 。预计 8日白天和夜里，六安、安庆、合肥、池州、铜陵、芜湖、马鞍山、宣城、黄山市等地有暴雨，其中六安、安庆、池州、黄山市部分地区大暴雨（100-160毫米），并伴有短时强降水（最大雨强30-50毫米/小时，局地超过60毫米/小时）、雷暴大风（8-10级，局地超过10级）或冰雹等强对流天气。\n防御指南\n1.政府及相关部门按照职责做好防暴雨准备工作。2.公众做好户外活动自身安全防范，行人应避开积水点通行，不要贸然涉水前行，避免在桥底、涵洞等低洼易涝危险区域避雨。3.检查城市、农田、鱼塘等排水系统，做好排涝准备。\n来源：安徽气象",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment"],
+  "topics": [
+    "Weather->weather warning",
+    "Weather->weather phenomena",
+    "Environment->climate change",
+    "Environment->natural resources",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:32:34.642+03:00",
+  "updated": "2025-05-08T00:37:01.000+00:00"
+}

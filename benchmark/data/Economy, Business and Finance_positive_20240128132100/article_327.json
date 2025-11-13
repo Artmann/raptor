@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "991baf07c91e56e5472ac186e2e9abae62fdc5f8",
+    "url": "https://www.tweaktown.com/news/95201/cd-projekt-confident-it-can-self-fund-all-new-game-projects/index.html",
+    "site_full": "www.tweaktown.com",
+    "site": "tweaktown.com",
+    "site_section": "http://www.tweaktown.com/news-feed",
+    "site_categories": ["tech"],
+    "section_title": "TweakTown News",
+    "title": "CD Projekt confident it can self-fund all new game projects",
+    "title_full": "CD Projekt confident it can self-fund all new game projects",
+    "published": "2023-12-29T00:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://static.tweaktown.com/news/9/5/95201_3_cd-projekt-confident-it-can-self-fund-all-new-game-projects_full.png",
+    "performance_score": 0,
+    "domain_rank": 7338,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 1
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "991baf07c91e56e5472ac186e2e9abae62fdc5f8",
+  "url": "https://www.tweaktown.com/news/95201/cd-projekt-confident-it-can-self-fund-all-new-game-projects/index.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Derek Strickland",
+  "published": "2023-12-29T00:30:00.000+02:00",
+  "title": "CD Projekt confident it can self-fund all new game projects",
+  "text": "CD Projekt Group is confident it can self-fund all 5 of its new video game projects, including a new Witcher trilogy. Following 2015's best-selling The Witcher 3, and 2020's record-breaking Cyberpunk 2077, CD Projekt has been able to consistently generated high sales revenues from its games. During Cyberpunk's controversial launch, the company sold 13 million copies and made $541 million in sales--almost 5x the budget of the game. Alongside a multi-faceted business model that includes a fully-fledged software distribution storefront, the sci-fi shooter's performance helped CD Projekt amass a significant asset pile to fund future games and growth. Cyberpunk 2077 has seen various price fluctuations and re-releases, including steep discounts post-launch, a game-of-the-year-style re-release for next-gen consoles, and the standalone launch of the Phantom Liberty expansion. The company also re-released The Witcher 3 for PS5 and Xbox Series X/S. This cyclical product slate is often used in the industry, and it's a key part of CD Projekt's business model. Armed with years of successful game sales across both retail and digital channels, CD Projekt management believes that there's plenty of funds for its large multi-year project slate. This plan includes video games and transmedia. In a recent interview with Polish newspaper [Parkiet](https://www-parkiet-com.translate.goog/technologie/art39620191-adam-kicinski-ceo-cd-projektu-jestesmy-znow-na-ringu-w-pelni-sil?_x_tr_hl=en&_x_tr_pto=wapp&_x_tr_sl=auto&_x_tr_tl=en&utm_source=pocket_reader), CD Projekt CEO Adam Kicinski talks about the firm's financial guardrails that help ensure long-term success and continued investment: \"There have been various difficult situations in the history of CD Projekt so far. We have drawn conclusions from them and have been operating on the principle of having large buffers for years. We feel safe with the cash we have. \"Our strategy is well calculated. We believe that we will implement it from start to finish using our own funds. We do not need to reach for additional sources of financing.\" The news comes shortly after Kicisnki said that CD Projekt has [no intention of being acquired by a larger company](https://www.tweaktown.com/news/95178/cd-projekt-still-not-interested-in-being-acquired-we-value-our-independence/index.html). As per a [Q3 2023 results filing](https://www.cdprojekt.com/en/investors/regulatory-announcements/consolidated-report-for-q3-2023/) made last month, the company currently has over $600 million in assets.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Economy, Business and Finance"],
+  "external_links": [
+    "https://cdprojekt.com/en/investors/regulatory-announcements/consolidated-report-for-q3-2023/",
+    "https://www-parkiet-com.translate.goog/technologie/art39620191-adam-kicinski-ceo-cd-projektu-jestesmy-znow-na-ringu-w-pelni-sil",
+    "https://www.cdprojekt.com/en/investors/regulatory-announcements/consolidated-report-for-q3-2023/",
+    "https://www-parkiet-com.translate.goog/technologie/art39620191-adam-kicinski-ceo-cd-projektu-jestesmy-znow-na-ringu-w-pelni-sil?_x_tr_hl=en&_x_tr_pto=wapp&_x_tr_sl=auto&_x_tr_tl=en&utm_source=pocket_reader",
+    "https://parkiet-com.translate.goog/technologie/art39620191-adam-kicinski-ceo-cd-projektu-jestesmy-znow-na-ringu-w-pelni-sil?_x_tr_hl=en&_x_tr_pto=wapp&_x_tr_sl=auto&_x_tr_tl=en&utm_source=pocket_reader",
+    "https://www.cdprojekt.com/en/investors/regulatory-announcements/consolidated-report-for-q3-2023"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "witcher",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "projekt group",
+        "sentiment": "positive"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:38:25.950+02:00",
+  "updated": "2023-12-29T03:48:15.842+02:00"
+}

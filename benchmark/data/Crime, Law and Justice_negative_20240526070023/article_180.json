@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "c32afac23ec5773106b3441f509c639c4eccad56",
+    "url": "https://vancouver.citynews.ca/2024/04/25/north-vancouver-break-ins-thefts-sentence",
+    "site_full": "vancouver.citynews.ca",
+    "site": "citynews.ca",
+    "site_section": "https://vancouver.citynews.ca",
+    "site_categories": ["top_news"],
+    "section_title": "Breaking News | Top Local Stories | CityNews Vancouver",
+    "title": "Man sentenced in North Van break-ins",
+    "title_full": "Man sentenced in North Van break-ins",
+    "published": "2024-04-25T23:48:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2022/12/11/Delta-Police-Generic-3.png",
+    "performance_score": 0,
+    "domain_rank": 4694,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c32afac23ec5773106b3441f509c639c4eccad56",
+  "url": "https://vancouver.citynews.ca/2024/04/25/north-vancouver-break-ins-thefts-sentence",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Maria Vinca, Hana Mae Nassar",
+  "published": "2024-04-25T23:48:00.000+03:00",
+  "title": "Man sentenced in North Van break-ins",
+  "text": "The North Vancouver RCMP says a man has been handed a six-month sentence in connection with a series of break-ins last year. Mounties say they began an investigation after police received multiple reports between March and June of 2023. In early March of last year, officers were called to an underground parking lot, where they discovered several vehicles that had been broken into. A suspect was identified with the help of surveillance footage. In May, the RCMP received reports of a break and enter at an Edgemont Village business. A suspect was arrested with “several iPads stolen from the business,” Mounties explain. Then, just over a month later, police were called to a Marine Drive dealership parking lot for reports of a “suspicious male.” The RCMP says, in this case, several vehicles had again been broken into. A suspect was arrested in this instance as well. Police say Cole Lambert was found guilty on April 18 of this year, after being charged with two counts of break and enter and one count of theft under $5,000. He was handed six months in jail and was given credit for 69 days in custody pre-sentence.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "cole lambert",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "north vancouver rcmp",
+        "sentiment": "negative"
+      },
+      {
+        "name": "rcmp",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "north van",
+        "sentiment": "none"
+      },
+      {
+        "name": "edgemont village",
+        "sentiment": "none"
+      },
+      {
+        "name": "marine drive",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:07:03.745+03:00",
+  "updated": "2024-04-26T00:07:03.745+03:00"
+}

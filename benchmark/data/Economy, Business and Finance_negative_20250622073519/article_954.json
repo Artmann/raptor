@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "68b823b64b941e156b3b2ba802707e356d2d4472",
+    "url": "https://www.sportingnews.com/ca/mlb/atlanta-braves/news/braves-make-decision-trading-chris-sale-shutting-out-mets/779a161cad3f40350a9657ee",
+    "site_full": "www.sportingnews.com",
+    "site": "sportingnews.com",
+    "site_section": "https://news.google.com/search?q=after%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+    "site_categories": ["sports"],
+    "section_title": "Google News - Search",
+    "site_title": "Sporting News - NFL | NBA | MLB | NCAA | Boxing | Soccer | NASCAR",
+    "title": "Braves make decision on trading Chris Sale after shutting out the Mets | Sporting News Canada",
+    "title_full": "Braves make decision on trading Chris Sale after shutting out the Mets | Sporting News Canada",
+    "published": "2025-06-19T06:01:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2025-06/USATSI_26487687.jpg.webp?itok=HJtT_TcE",
+    "performance_score": 0,
+    "domain_rank": 2178,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "68b823b64b941e156b3b2ba802707e356d2d4472",
+  "url": "https://www.sportingnews.com/ca/mlb/atlanta-braves/news/braves-make-decision-trading-chris-sale-shutting-out-mets/779a161cad3f40350a9657ee",
+  "ord_in_thread": 0,
+  "author": "Billy Heyen",
+  "published": "2025-06-19T06:01:00.000+03:00",
+  "title": "Braves make decision on trading Chris Sale after shutting out the Mets | Sporting News Canada",
+  "text": "The Atlanta Braves are way further out of the playoff race than anyone would've expected.\nTechnically, a hot streak could change that, but it's certainly an uphill climb.\nThat has invited trade speculation, but president of baseball operations Alex Anthopoulos went on local radio station 680 The Fan on Wednesday to push back against those.\nAnthopoulos spoke specifically about the idea of trading away Chris Sale.\n\"I’ve seen the speculation,\" Anthopoulos said . \"It’s completely ridiculous to me. We are not selling, especially someone that has club control beyond the current year. Will not happen. I never make definitive statements unless I’m going to stick to them. Once you make definitive statements and then you go back on them, you’re a liar and you’re done.\"\nMORE: How Dodgers' Max Muncy, Athletics' Max Muncy have so much in common\nThat's pretty emphatic, but Anthopoulos wasn't done.\n\"Will. Not. Happen,\" he emphasized. \"Bold, italicize it, caps. So much so that I’m trying to make a trade now — it’s very hard to make a trade in June — just to signal to everybody that we will not sell. (If) you get to the end of July and things are completely changed, I guess we would reevaluate, but you’d have to be extreme. We’re built to win. Our expectations are to win. Our expectations are to go for it the entire time.”\nSale has been one of the bright spots in a rough season.\nHe threw a gem on Wednesday night against the Mets, too, going 8.2 shutout innings with seven strikeouts to lower his ERA to 2.52.\nSounds like he'll get the chance to keep doing that in a Braves uniform.\nMORE MLB NEWS:\nMets catcher makes boneheaded mistake you’ve never seen before Cubs' Pete Crow-Armstrong just played the most MVP-worthy inning Orioles had an 8-0 lead and somehow lost anyway Red Sox ace Garrett Crochet joins Pedro Martinez in franchise history Royals risk losing 45-year old star thanks to odd decision Dodgers' legendary pitcher was a better hitter than the 2025 Pittsburgh Pirates",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Sport", "Economy, Business and Finance", "Human Interest"],
+  "topics": [
+    "Sport->sports transaction",
+    "Sport->sport event",
+    "Sport->baseball",
+    "Economy, Business and Finance->mergers and acquisitions",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->tourism and leisure industry",
+    "Human Interest->record and achievement"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://x.com/680TheFan/status/1935357163565625641",
+    "https://www.x.com/680TheFan/status/1935357163565625641"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Chris Sale",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Alex Anthopoulos",
+        "sentiment": "none"
+      },
+      {
+        "name": "Max Muncy",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Atlanta Braves",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:43:17.186+03:00",
+  "updated": "2025-06-19T04:49:34.000+00:00"
+}

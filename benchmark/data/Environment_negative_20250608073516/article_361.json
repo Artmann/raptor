@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "b02b2dabae0a8dbed471c1c6bcbbf55a2e3cee33",
+    "url": "https://c.m.163.com/news/a/JV15F0JH051191D6.html",
+    "site_full": "c.m.163.com",
+    "site": "163.com",
+    "site_section": "https://c.m.163.com",
+    "site_categories": [
+      "sports",
+      "top_news_vn",
+      "top_news_th",
+      "top_news_nz",
+      "top_news_rs",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news_hk",
+      "top_news_my",
+      "top_news"
+    ],
+    "section_title": "网易新闻客户端",
+    "site_title": "网易",
+    "title": "氧气终将耗尽？科学家预测10亿年后大气无法维持生命",
+    "title_full": "氧气终将耗尽？科学家预测10亿年后大气无法维持生命",
+    "published": "2025-05-08T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 299,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b02b2dabae0a8dbed471c1c6bcbbf55a2e3cee33",
+  "url": "https://c.m.163.com/news/a/JV15F0JH051191D6.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T03:00:00.000+03:00",
+  "title": "氧气终将耗尽？科学家预测10亿年后大气无法维持生命",
+  "text": "【CNMO科技消息】地球上的氧气终将耗尽，这不是科幻电影的剧本，也不是遥远的未来预言。近日，NASA（系外行星系统科学研究所）与东京大学的研究人员已经给出了一个时间节点：地球大气层将在大约10亿年后失去维持生命的能力，而这一切的根源在于二氧化碳的减少。\n科学家们发现，随着太阳持续变暖（这一过程已经持续了数百万年），一系列连锁反应将被触发，对复杂生命极为不利。太阳变暖会破坏大气中的二氧化碳分子，导致二氧化碳水平大幅下降。当二氧化碳浓度降低到一定程度时，植物将无法进行光合作用，而没有光合作用，地球上的氧气也将逐渐耗尽。这一过程将使地球逐渐荒漠化，最终回归数十亿年前的状态——一颗巨大的岩石星球。\n科学家们指出，这一转变可能在大约1万年后开始，一旦开始，便无法逆转。没有氧气，地球的臭氧层也将消失，地球将暴露在致命的太阳辐射之下。唯一可能适应这种新环境的是厌氧微生物，其他生物将逐渐灭绝。\n除了氧气耗尽，地球大气的另一个变化是甲烷水平的上升。这将进一步加速大气的恶化，使空气变得越来越有毒，许多物种将因此灭绝。未来的地球将与我们今天所熟知的地球截然不同。\n尽管这一过程距离我们还非常遥远，但它提醒我们，地球上的生命平衡是如此脆弱，即使是维持我们生存的基本元素——氧气，也不是永恒的。这一发现也促使我们重新思考一个行星需要满足哪些条件才能真正宜居，以及这种宜居状态能持续多久。地球虽然曾是完美的家园，但这一角色也有其“保质期”。\n这一研究结果不应让我们感到恐慌，但它确实提醒我们，宇宙中的一切都在不断变化，没有什么是永恒不变的。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Science and Technology", "Environment", "Social Issue"],
+  "topics": [
+    "Science and Technology->natural science",
+    "Science and Technology->scientific research",
+    "Science and Technology->biology",
+    "Environment->climate change",
+    "Environment->global warming",
+    "Environment->sustainability",
+    "Social Issue->mankind",
+    "Social Issue->demographics",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:32:44.152+03:00",
+  "updated": "2025-05-08T00:37:39.000+00:00"
+}

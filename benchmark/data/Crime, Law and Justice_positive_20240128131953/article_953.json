@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "f1ddb1e4f0d3469bfa2a11350e98528ed27653b4",
+    "url": "https://news.yahoo.com/bittersweet-goodbye-spokane-police-chief-030400897.html",
+    "site_full": "news.yahoo.com",
+    "site": "yahoo.com",
+    "site_section": "https://upstract.com/feed",
+    "site_categories": ["media"],
+    "section_title": "Upstract",
+    "title": "A bittersweet goodbye: Spokane Police Chief Craig Meidl reflects on his time leading department",
+    "title_full": "A bittersweet goodbye: Spokane Police Chief Craig Meidl reflects on his time leading department",
+    "published": "2023-12-30T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+    "performance_score": 0,
+    "domain_rank": 37,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f1ddb1e4f0d3469bfa2a11350e98528ed27653b4",
+  "url": "https://news.yahoo.com/bittersweet-goodbye-spokane-police-chief-030400897.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Yahoo Sports",
+  "published": "2023-12-30T02:00:00.000+02:00",
+  "title": "A bittersweet goodbye: Spokane Police Chief Craig Meidl reflects on his time leading department",
+  "text": "The Spokesman-Review, Spokane, Wash. A bittersweet goodbye: Spokane Police Chief Craig Meidl reflects on his time leading department Emma Epperly, The Spokesman-Review, Spokane, Wash. December 30, 2023 at 6:04 AM · 3 min read Link Copied Read full article\nDec. 29—The six weeks since Spokane Police Chief Craig Meidl announced his resignation have been bittersweet.\nThe hundreds of messages and dozens of honors have been \"beyond my wildest imaginations,\" Meidl said Friday, his last day.\nBut he said giving up the career he has dreamed of since being a little boy has been tough. Meidl has said he intended to step down soon regardless of who won the mayoral race, but he believes his views on policing wouldn't mesh with incoming Mayor Lisa Brown's.\nMeidl was born in California then moved around quite a bit, ending up in Seattle.\n\"All of those states that I lived in, all those places that I lived in, all of it,\" Meidl said. \"I wanted to be a police officer.\"\nHe came to the Spokane Police Department in January 1994 and never left, rising through the ranks until he became chief seven years ago.\n\"It has just been a tremendous honor,\" Meidl said of leading the department, especially over the last few challenging years with nationwide calls for police reform and the COVID-19 pandemic.\nMeidl's leadership through difficult times was recognized when Assistant Police Chief Justin Lundgren presented Meidl with the Distinguished Service Medal this week.\n\"During his tenure as Chief, the state and nation experienced significant and sustained challenges making his time at the helm one of the most challenging periods in modern law enforcement history,\" Lundgren wrote in his nomination.\nLundgren noted Meidl served as president of the Washington Association of Sheriff's and Police Chiefs, and was recognized statewide for his leadership.\nThe Distinguished Service Medal was just one of a slew of awards presented to Meidl over the last six weeks, said Julie Humphreys, department spokesperson.\nThose awards included recognition from the local contingent of the Drug Enforcement Administration, the United States Attorney for the Eastern District of Washington, Frontier Behavioral Health, U.S. Rep. Cathy McMorris Rodgers and outgoing Mayor Nadine Woodward.\n\"The depth of support and appreciation that I have heard from the community members was something that I never fathomed,\" Meidl said, before noting all his accomplishments are really due to his team.\n\"My entire team deserves that level of support, because you cannot do this job by yourself,\" Meidl said.\nOne of the best parts of the job, Meidl said, has been connecting with so many facets of the community in such a unique way.\n\"I want this community to know honestly how amazing they are,\" he said.\nMeidl hopes the Spokane community knows their support is a huge reason many people apply to work for the Spokane Police Department.\n\"We do have an amazing department of men and women. We hire humans, so we have to acknowledge they make mistakes and do things we'd prefer they not do,\" Meidl said. \"But overwhelmingly, every employee comes in every day and does the best for their community, and that is not going to change no matter who the chief is.\"\nAs for Meidl, he still hasn't solidified his plans but is excited for the next chapter. He recently went to Montana to watch his son, Matthew Meidl, 23, graduate from the Montana Highway Patrol academy.\nIt was a bit of a passing of the torch, he said.\n\"He has such a good heart, and he is doing such a good job as well,\" Meidl said.\nLundgren was selected by incoming Brown to take over the department as acting chief.\nView comments",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Crime, Law and Justice", "Social Issue", "Human Interest"],
+  "external_links": [
+    "https://www.spokesman.com/",
+    "https://spokesman.com/",
+    "https://www.spokesman.com"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "craig meidl",
+        "sentiment": "positive"
+      },
+      {
+        "name": "lisa brown",
+        "sentiment": "none"
+      },
+      {
+        "name": "meidl",
+        "sentiment": "none"
+      },
+      {
+        "name": "emma epperly",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "spokane police",
+        "sentiment": "positive"
+      },
+      {
+        "name": "spokane police department",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "wash",
+        "sentiment": "none"
+      },
+      {
+        "name": "spokane",
+        "sentiment": "none"
+      },
+      {
+        "name": "seattle",
+        "sentiment": "none"
+      },
+      {
+        "name": "california",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-30T06:05:57.257+02:00",
+  "updated": "2023-12-30T06:05:57.257+02:00"
+}

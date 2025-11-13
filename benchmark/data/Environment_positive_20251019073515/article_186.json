@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "433827bb1ed80de43fef0ec7c5103e31b2fd4935",
+    "url": "https://www.europapress.es/cantabria/noticia-cantabria-aprueba-dos-millones-ayudas-entidades-locales-mejora-pastos-comunales-20251016124656.html",
+    "site_full": "www.europapress.es",
+    "site": "europapress.es",
+    "site_section": "https://europapress.es/sociedad",
+    "site_categories": ["media", "top_news_es", "top_news_pe", "top_news"],
+    "section_title": "\r\n\tNoticias sociales de hoy | EUROPA PRESS\r\n",
+    "site_title": "Europa Press -  Agencia de noticias",
+    "title": "Cantabria aprueba dos millones en ayudas a las entidades locales para mejora de pastos comunales",
+    "title_full": "Cantabria aprueba dos millones en ayudas a las entidades locales para mejora de pastos comunales",
+    "published": "2025-10-16T13:46:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://img.europapress.es/fotoweb/fotonoticia_20251016124656_1200.jpg",
+    "performance_score": 0,
+    "domain_rank": 4744,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "433827bb1ed80de43fef0ec7c5103e31b2fd4935",
+  "url": "https://www.europapress.es/cantabria/noticia-cantabria-aprueba-dos-millones-ayudas-entidades-locales-mejora-pastos-comunales-20251016124656.html",
+  "ord_in_thread": 0,
+  "author": "Europa Press Cantabria",
+  "published": "2025-10-16T13:46:00.000+03:00",
+  "title": "Cantabria aprueba dos millones en ayudas a las entidades locales para mejora de pastos comunales",
+  "text": "Ha autorizado un millón de euros para la primera fase del proyecto de la Red de Caminos de Concentración Parcelaria de Campoo de Enmedio\nSANTANDER, 16 Oct. (EUROPA PRESS) -\nEl Consejo de Gobierno de Cantabria ha aprobado este jueves dos millones de euros en ayudas a las entidades locales para realizar inversiones de mejora de los pastizales de aprovechamiento común. Están cofinanciados por los fondos FEADER (860.000 euros), el Ministerio de Agricultura (400.000 euros) y los Presupuestos Generales de Cantabria para 2026 (750.000 euros).\nEsta iniciativa, enmarcada en el Plan Estratégico de la PAC 2023-2027, busca fomentar la biodiversidad, mejorar los servicios ecosistémicos, prevenir incendios forestales y apoyar la actividad ganadera extensiva en montes públicos, según ha informado el Ejecutivo regional.\nLas entidades locales podrán presentar sus solicitudes hasta el 9 de enero de 2026 y se valorarán criterios como la situación demográfica, la superficie comunal adjudicada, la ausencia de quemas no autorizadas y la ubicación en zonas de montaña.\nLa concesión de las ayudas estará sujeta a la existencia de crédito adecuado y suficiente en el momento de la resolución.\nPRIMERA FASE DE LA RED DE CONCENTRACIÓN PARCELARIA",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->nature"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_es", "top_news_pe", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:57:18.056+03:00",
+  "updated": "2025-10-16T14:05:04.000+03:00"
+}

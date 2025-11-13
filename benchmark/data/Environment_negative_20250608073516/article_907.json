@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "1bc3108bdf60efc07fc9d28f063960a294f89c1d",
+    "url": "https://www.eleconomista.com.mx/empresas/pemex-reporta-dos-fugas-oleoducto-llega-terminal-maritima-dos-bocas-20250507-758120.html",
+    "site_full": "www.eleconomista.com.mx",
+    "site": "eleconomista.com.mx",
+    "site_section": "https://www.eleconomista.com.mx",
+    "site_categories": ["media", "top_news_pe", "top_news_mx", "top_news"],
+    "section_title": "El Economista | Periódico especializado en economía, finanzas y negocios",
+    "site_title": "El Economista | Periódico especializado en economía, finanzas y negocios",
+    "title": "Pemex reporta dos fugas en oleoducto que llega a la terminal marítima de Dos Bocas",
+    "title_full": "Pemex reporta dos fugas en oleoducto que llega a la terminal marítima de Dos Bocas",
+    "published": "2025-05-08T05:46:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://imagenes.eleconomista.com.mx/files/image_1200_600/uploads/2025/03/24/67e1b9c8db6d1.jpeg",
+    "performance_score": 0,
+    "domain_rank": 6570,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 1,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1bc3108bdf60efc07fc9d28f063960a294f89c1d",
+  "url": "https://www.eleconomista.com.mx/empresas/pemex-reporta-dos-fugas-oleoducto-llega-terminal-maritima-dos-bocas-20250507-758120.html",
+  "ord_in_thread": 0,
+  "author": "@eleconomista",
+  "published": "2025-05-08T05:46:00.000+03:00",
+  "title": "Pemex reporta dos fugas en oleoducto que llega a la terminal marítima de Dos Bocas",
+  "text": "Empresas\nLectura 1:00 min\nPemex reporta dos fugas en oleoducto que llega a la terminal marítima de Dos Bocas\nLa petrolera estatal señaló que se estaban realizando los preparativos para verificar la estanqueidad del oleoducto y reanudar su funcionamiento.\nPetróleos Mexicanos (Pemex) informó el miércoles por la noche de que había subsanado dos fugas en un oleoducto que transporta petróleo desde su plataforma Akal-C hasta la terminal marítima de Dos Bocas, en el sureño estado de Tabasco.\nEn un comunicado, Pemex señaló que se estaban realizando los preparativos para verificar la estanqueidad del oleoducto y reanudar su funcionamiento.\nTe puede interesar\nEl anuncio se produce después de que medios locales informaran el miércoles de una fuga de petróleo en el golfo de México.\nPemex dijo que el petróleo había alcanzado un tramo de siete kilómetros (4.35 millas) de la costa en la Terminal Marítima de Dos Bocas en el municipio de Paraíso, Tabasco. El comunicado de la empresa añadía que se esperaba que la limpieza finalizara en las próximas horas y que estaba trabajando con las comunidades locales para ayudarles a reanudar la pesca.\nEl anuncio de Pemex se produce una semana después de que un incidente paralizara temporalmente las operaciones en la refinería Olmeca de la empresa, adyacente a la terminal de Dos Bocas.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Environment", "Economy, Business and Finance"],
+  "topics": [
+    "Environment->energy resources",
+    "Environment->hazardous materials",
+    "Environment->environmental pollution",
+    "Economy, Business and Finance->energy and resource",
+    "Economy, Business and Finance->business governance"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Petróleos Mexicanos",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:42:25.283+03:00",
+  "updated": "2025-05-08T03:47:34.000+00:00"
+}

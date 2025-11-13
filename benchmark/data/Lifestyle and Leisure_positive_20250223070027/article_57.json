@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "895cf6d17395f86978ad7e3689447180a4f9227d",
+    "url": "https://www.oasport.it/2025/01/rally-montecarlo-2025-neuville-leader-dopo-la-prima-giornata-ogier-sbaglia-ma-resta-in-agguato",
+    "site_full": "www.oasport.it",
+    "site": "oasport.it",
+    "site_section": "http://www.olimpiazzurra.com/feed/",
+    "site_categories": ["tennis", "sports"],
+    "section_title": "OA Sport",
+    "title": "Rally Montecarlo 2025, Neuville leader dopo la prima giornata. Ogier sbaglia ma resta in agguato",
+    "title_full": "Rally Montecarlo 2025, Neuville leader dopo la prima giornata. Ogier sbaglia ma resta in agguato",
+    "published": "2025-01-23T23:46:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://www.oasport.it/wp-content/uploads/2025/01/IPA_Agency_IPA53229939.jpg",
+    "performance_score": 0,
+    "domain_rank": 133642,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "895cf6d17395f86978ad7e3689447180a4f9227d",
+  "url": "https://www.oasport.it/2025/01/rally-montecarlo-2025-neuville-leader-dopo-la-prima-giornata-ogier-sbaglia-ma-resta-in-agguato",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Erik Nicolaysen",
+  "published": "2025-01-23T23:46:00.000+02:00",
+  "title": "Rally Montecarlo 2025, Neuville leader dopo la prima giornata. Ogier sbaglia ma resta in agguato",
+  "text": "Grande equilibrio tra gli equipaggi di vertice nella prima giornata del Rally Montecarlo 2025 , tappa inaugurale del Mondiale WRC. Quest’oggi si sono disputate tre prove speciali, tutte in notturna e vinte dalle Toyota GR Yaris Rally1, ma a guidare la classifica generale provvisoria dell’evento monegasco c’è la Hyundai del belga Thierry Neuville .\nIl campione iridato in carica e vincitore dell’ultima edizione del rally del Principato non ha commesso sbavature, facendo valere la sua costanza di rendimento nei tre stage odierni e portandosi davanti a tutti in attesa del weekend. Neuville deve però guardarsi le spalle dalla Toyota del gallese Elfyn Evans , distante soli 2 secondi dal leader della graduatoria.\nQualche rimpianto per il padrone di casa transalpino (che vanta 9 successi in carriera a Montecarlo) Sebastien Ogier , che ha commesso un errore nella PS3 al volante della sua Toyota perdendo del tempo prezioso e scivolando dal primo al terzo posto nell’overall con un gap di 12″8 dalla vetta.\nDistacchi più pesanti per gli altri big, con l’estone Ott Tanak (Hyundai) quarto a 27″ ed il fenomeno finlandese due volte campione mondiale Kalle Rovanpera (Toyota) sesto a 43″9 al termine di una serata problematica. Buona quinta posizione provvisoria per la Hyundai del francese Adrien Fourmaux a 30″ dalla testa.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->sport event",
+    "Sport->motor car racing",
+    "Lifestyle and Leisure->outdoor recreational activities",
+    "Lifestyle and Leisure->game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Thierry Neuville",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sebastien Ogier",
+        "sentiment": "none"
+      },
+      {
+        "name": "Elfyn Evans",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Hyundai",
+        "sentiment": "none"
+      },
+      {
+        "name": "Toyota",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:02:24.698+02:00",
+  "updated": "2025-01-24T00:39:10.836+02:00"
+}

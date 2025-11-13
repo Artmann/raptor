@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "ea3f315cfdb2481830ee694dd5985923d039c13d",
+    "url": "https://www.newsbreak.com/palm-beach-fl/3279903171340-travelers-at-pbia-greeted-with-long-lines-delays",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/wptv-west-palm-beach-563672",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "WPTV West Palm Beach | NewsBreak",
+    "title": "Travelers at PBIA greeted with long lines, delays",
+    "title_full": "Travelers at PBIA greeted with long lines, delays",
+    "published": "2023-12-29T00:18:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/1DrSzM_0qSugfhe00?type=thumbnail_1600x1200",
+    "performance_score": 0,
+    "domain_rank": 3324,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ea3f315cfdb2481830ee694dd5985923d039c13d",
+  "url": "https://www.newsbreak.com/palm-beach-fl/3279903171340-travelers-at-pbia-greeted-with-long-lines-delays",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NewsBreak Original",
+  "published": "2023-12-29T00:18:00.000+02:00",
+  "title": "Travelers at PBIA greeted with long lines, delays",
+  "text": "The post-holiday travel delays across the country, including at Palm Beach International Airport, continued to create headaches for flyers Thursday. Neil Phillips and his family were headed back to Connecticut after a family vacation in the Sunshine State. While waiting to board their plane, his two boys were bored because their flight had a serious delay. \"Our flight was supposed to take off at noon, and now it's showing about 3 p.m.,\" Phillips said. It's not ideal and Phillips understood the delay was weather-related. So, he and his family sat tight and figured out how to pass the time. \"Talking to each other, reading a book, watching something on their phones,\" Phillips said. \"The phones seem to keep us distracted enough to make it easier to deal with the delay.\" Folks were rushing to get to Palm Beach International Airport to catch their flights and quickly realized that waiting for them were long lines and delays. By 3 p.m., PBIA was dealing with 116 delays, which included inbound and outbound flights. Because of those delays, long lines for travelers were the norm. \"I don't know what's going on, but it's not the best, it's not looking the best,\" traveler Paris Kinsey said. The FAA issued a ground delay for PBIA for the third day in a row. The new ground delay was expected to last through the early evening, causing an hour-and-a-half-half delay. \"You can't control the weather. We're stuck here for a little bit,\" traveler Josh Kelsinski said. \"There's nothing we can do, and that's fine. I'm not going to get too worked up about it.\" Phillips said he's trying to take the delay in stride considering he's had worse. \"I've had longer delays than this, so I'm just glad the plane is en route,\" Phillips said. Travelers are urged to check with their airline before heading to the airport. Plus, give yourself a little extra time when navigating through the TSA checkpoint. On a busy day, PBIA it takes travelers about 20 minutes to get through security. With volumes of people trying to catch their flight, it may take longer.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "neil phillips",
+        "sentiment": "none"
+      },
+      {
+        "name": "phillips",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "pbia",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "palm beach international airport",
+        "sentiment": "none"
+      },
+      {
+        "name": "connecticut",
+        "sentiment": "none"
+      },
+      {
+        "name": "sunshine state",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:43:52.438+02:00",
+  "updated": "2023-12-29T00:43:52.438+02:00"
+}

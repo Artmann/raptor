@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "c5c2f8f64de978f4f7b9536776f886fb3b7abfc5",
+    "url": "https://www.welt.de/regionales/thueringen/article256308990/Linke-fordert-Kindergarten-Moratorium.html",
+    "site_full": "www.welt.de",
+    "site": "welt.de",
+    "site_section": "https://www.welt.de/",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "section_title": "WELT - Aktuelle Nachrichten, News, Hintergründe &amp; Videos",
+    "site_title": "WELT - Aktuelle Nachrichten, News, Hintergründe &amp; Videos",
+    "title": "Linke fordert Kindergarten-Moratorium - WELT",
+    "title_full": "Linke fordert Kindergarten-Moratorium - WELT",
+    "published": "2025-06-26T12:20:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://images.welt.de/685d10ea68273a6fda1e16e2/b5acbff78306cae38aca981b740c60e0-master/ci16x9-w1200/kindergarten",
+    "performance_score": 0,
+    "domain_rank": 960,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c5c2f8f64de978f4f7b9536776f886fb3b7abfc5",
+  "url": "https://www.welt.de/regionales/thueringen/article256308990/Linke-fordert-Kindergarten-Moratorium.html",
+  "ord_in_thread": 0,
+  "author": "@welt",
+  "published": "2025-06-26T12:20:00.000+03:00",
+  "title": "Linke fordert Kindergarten-Moratorium - WELT",
+  "text": "In Thüringen sinkt wie in anderen ostdeutschen Bundesländern die Zahl der Kindergartenkinder. Mancherorts werden schon Einrichtungen geschlossen. Die Linke fordert ein Umsteuern.\nAnzeige Die Thüringer Linke-Fraktion hat ein Personal-Moratorium für Kindergärten gefordert, damit keine Erzieherinnen und Erzieher entlassen werden. «Ein Moratorium, wie der Freistaat Sachsen es gemacht hat, dass bis zum 31.12.2026 keine Erzieherinnen entlassen werden», sagte die Linke-Bildungspolitikerin Ulrike Grosse-Röthig.\nHintergrund sind massiv sinkende Kinderzahlen in den Einrichtungen des Landes aufgrund des demografischen Wandels. In etlichen Kommunen werden Kindergärten geschlossen, teils setzen Träger Fachkräfte bei den Wochenarbeitsstunden herunter.\nAnzeige «Kein Kindergarten kostet mehr, nur weil weniger Kinder drin sind», sagte Grosse-Röthig. Nur die Einnahmen aus Elternbeiträgen würden sinken. «Und da sind wir als Land in der Pflicht.»\nLinke: Kindergarten im Dorf lassen Die Linke-Fraktion fordert in einem Maßnahmen-Papier zur frühkindlichen Bildung ein «Kindergarten-im Dorf-Gesetz». Damit sollen Kindergärten erhalten bleiben, auch wenn sie künftig nicht die geforderte Mindestkinderzahl erreichen. «Dazu gehört, dass Einnahmeausfälle durch demografischen Wandel ausgeglichen werden und damit der Kindergarten buchstäblich im Dorf bleiben kann», heißt es in dem Papier.\nAnzeige Die stark sinkenden Kinderzahlen sind schon seit längerem bekannt. Mit einer Änderung des Betreuungsschlüssels noch unter der rot-rot-grünen Minderheitsregierung sollten die Folgen daraus abgemildert und Arbeitsplätze in den Einrichtungen gesichert werden.\nEine Erzieherin oder ein Erzieher muss sich nach dem neuen Betreuungsschlüssel um weniger Kinder gleichzeitig kümmern als bisher. Die Änderung gilt seit Anfang des Jahres. Für die Umsetzung haben Kommunen eine Übergangszeit. Nach Angaben des Bildungsministeriums von Ende Mai setzt knapp die Hälfte der Einrichtungen die neuen Vorgaben um.\ndpa-infocom GmbH",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Politics"],
+  "topics": [
+    "Education->early childhood education",
+    "Social Issue->social services",
+    "Social Issue->children",
+    "Politics->education policy",
+    "Politics->government policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.welt.de%2Fregionales%2Fthueringen%2Farticle256308990%2FLinke-fordert-Kindergarten-Moratorium.html%3Fcid%3Dsocialmedia.linkedin.shared.web",
+    "https://linkedin.com/shareArticle?url=https%3A%2F%2Fwww.welt.de%2Fregionales%2Fthueringen%2Farticle256308990%2FLinke-fordert-Kindergarten-Moratorium.html%3Fcid%3Dsocialmedia.linkedin.shared.web",
+    "https://www.linkedin.com/shareArticle"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ulrike Grosse-Röthig",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Thüringen",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sachsen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Die Linke",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_de", "top_news_ch", "top_news_at", "top_news"],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T13:04:20.577+03:00",
+  "updated": "2025-06-27T10:09:06.000+00:00"
+}

@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "4913978eaf6793a4439f4905e6e83bf98e1b641a",
+    "url": "https://local.newsbreak.com/wyoming-news-1591703/3996646771721-donald-trump-has-long-been-hostile-to-electric-vehicles-and-has-ordered-the-withholding-of-funding-for-a-network-of-chargers",
+    "site_full": "local.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://local.newsbreak.com/wyoming-news-1591703",
+    "site_categories": [],
+    "section_title": "Wyoming News&#x27;s Home Page | NewsBreak",
+    "site_title": "404 Not Found",
+    "title": "Donald Trump has long been hostile to electric vehicles and has ordered the withholding of funding for a network of chargers - NewsBreak",
+    "title_full": "Donald Trump has long been hostile to electric vehicles and has ordered the withholding of funding for a network of chargers - NewsBreak",
+    "published": "2025-05-08T04:03:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/3qpvgj_10w6fAwN00",
+    "performance_score": 0,
+    "domain_rank": 3115,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4913978eaf6793a4439f4905e6e83bf98e1b641a",
+  "url": "https://local.newsbreak.com/wyoming-news-1591703/3996646771721-donald-trump-has-long-been-hostile-to-electric-vehicles-and-has-ordered-the-withholding-of-funding-for-a-network-of-chargers",
+  "ord_in_thread": 0,
+  "author": "Patrick T. Fallon",
+  "published": "2025-05-08T04:03:00.000+03:00",
+  "title": "Donald Trump has long been hostile to electric vehicles and has ordered the withholding of funding for a network of chargers - NewsBreak",
+  "text": "Donald Trump has long been hostile to electric vehicles and has ordered the withholding of funding for a network of chargers Subscribe to Wyoming News",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Politics", "Environment"],
+  "topics": [
+    "Politics->economic policy",
+    "Politics->government policy",
+    "Environment->sustainability",
+    "Environment->energy resources",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://img.particlenews.com/image.php?url=3qpvgj_10w6fAwN00",
+    "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3qpvgj_10w6fAwN00",
+    "https://wyomingnews.com/subscribe",
+    "https://img.particlenews.com/image.php",
+    "https://www.wyomingnews.com/subscribe",
+    "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=3qpvgj_10w6fAwN00",
+    "https://www.img.particlenews.com/image.php?url=3qpvgj_10w6fAwN00"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Donald Trump",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:52:51.713+03:00",
+  "updated": "2025-05-08T02:57:29.000+00:00"
+}

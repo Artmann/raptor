@@ -1,0 +1,127 @@
+{
+  "thread": {
+    "uuid": "b83d72606044c52dd3d56ff48d07c74b75f60d1e",
+    "url": "https://events.columbian.com/event/art-journaling-classes/2025-09-17/",
+    "site_full": "events.columbian.com",
+    "site": "columbian.com",
+    "site_section": "https://events.columbian.com/event",
+    "site_categories": [],
+    "section_title": "Events from June 22, 2022 &#8211; July 15, 2022 &#8211; Events",
+    "site_title": "The Columbian - Latest News from Vancouver, Washington &amp; Clark County WA - The Columbian",
+    "title": "Art Journaling Classes - Events",
+    "title_full": "Art Journaling Classes - Events",
+    "published": "2025-09-17T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 27346,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b83d72606044c52dd3d56ff48d07c74b75f60d1e",
+  "url": "https://events.columbian.com/event/art-journaling-classes/2025-09-17/",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-17T03:00:00.000+03:00",
+  "title": "Art Journaling Classes - Events",
+  "text": "Art Zone, 6929 N.W. Friberg-Strunk St., Suite 230, Camas, is offering a five-week Art Journaling class at its studio. Art journaling is great for beginners as well as seasoned artmakers. Students will discover and expand their visual vocabulary to express themselves through mixed-media techniques such as collage, paint and watercolor paint as well as distress inks, rubber stamps and art crayons. Students should bring their own journals or folders to hold their finished pages. All other materials and supplies — glitter, embossing tools, Cricut die cutting machine, paper shapers — are included in the class fee of $33.85 per session or $169.25 for all five sessions. Class meets 7-8:30 p.m. Wednesday evenings July 2, 9, 16, 23 and 30. Register at eventbrite.com/e/art-journaling-how-to-registration-1411098998089.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Arts, Culture and Entertainment",
+    "Lifestyle and Leisure",
+    "Education"
+  ],
+  "topics": [
+    "Arts, Culture and Entertainment->culture",
+    "Arts, Culture and Entertainment->visual arts",
+    "Arts, Culture and Entertainment->arts and entertainment",
+    "Lifestyle and Leisure->wellness",
+    "Lifestyle and Leisure->hobby",
+    "Education->adult and continuing education",
+    "Education->students",
+    "Education->teachers"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://artzonecamas.com/",
+    "https://www.eventbrite.com/e/art-journaling-how-to-registration-1411098998089",
+    "https://artzonecamas.com",
+    "https://www.artzonecamas.com/",
+    "https://eventbrite.com/e/art-journaling-how-to-registration-1411098998089"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Camas",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Home",
+        "Battle Ground",
+        "Salmon Creek",
+        "Brush Prairie",
+        "Lewisville",
+        "Venersborg",
+        "Five Corners",
+        "Yacolt",
+        "Amboy",
+        "Vancouver",
+        "Town and Country",
+        "Camas",
+        "Ridgefield",
+        "La Center",
+        "Lake Shore",
+        "Valley",
+        "Felida",
+        "Orchards",
+        "Washougal"
+      ],
+      "state": ["Washington"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:30:39.287+03:00",
+  "updated": "2025-09-18T08:37:59.000+03:00"
+}

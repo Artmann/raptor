@@ -1,0 +1,168 @@
+{
+  "thread": {
+    "uuid": "3ea5f997e2745c161808e85d4d50f40c5bc2a113",
+    "url": "https://www.qatar-tribune.com/article/100003/sports/man-city-move-back-into-top-four-with-everton-win",
+    "site_full": "www.qatar-tribune.com",
+    "site": "qatar-tribune.com",
+    "site_section": "https://www.qatar-tribune.com/sports",
+    "site_categories": ["media"],
+    "section_title": "Sports - Read Qatar Tribune on the go for unrivalled news coverage",
+    "title": "Man City move back into top four with Everton win - Read Qatar Tribune on the go for unrivalled news coverage",
+    "title_full": "Man City move back into top four with Everton win - Read Qatar Tribune on the go for unrivalled news coverage",
+    "published": "2023-12-29T00:08:09.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "QA",
+    "main_image": "https://www.qatar-tribune.com/theme_watanqataren/images/no-image.jpg",
+    "performance_score": 0,
+    "domain_rank": 97429,
+    "domain_rank_updated": "2023-12-26T12:06:35.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3ea5f997e2745c161808e85d4d50f40c5bc2a113",
+  "url": "https://www.qatar-tribune.com/article/100003/sports/man-city-move-back-into-top-four-with-everton-win",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Qatar Tribune",
+  "published": "2023-12-29T00:08:09.000+02:00",
+  "title": "Man City move back into top four with Everton win - Read Qatar Tribune on the go for unrivalled news coverage",
+  "text": "PA Media/DPA\nLondon\nManchester City came from behind to beat Everton 3-1 and close the gap on the Premier League leaders.\nPhil Foden, Julian Alvarez - from the spot - and Bernardo Silva scored in the second half as City hit back.\nJack Harrison gave Everton, a point above the relegation zone, a first-half lead when he converted Dwight McNeil’s low cross.\nVictory moved Pep Guardiola’s side, crowned Club World Cup champions this month, into fourth and five points behind leaders Liverpool, with a game in hand.\nNoni Madueke’s late penalty gave mid-table Chelsea a morale-boosting 2-1 win over Crystal Palace.\nMykhailo Mudryk netted from close range from Malo Gusto’s cutback but Michael Olise levelled just before the break when he controlled Jordan Ayew’s pass to fire in.\nNicolas Jackson had a goal ruled out by VAR for offside in the second half but Chelsea won it with three minutes left.\nReferee Michael Salisbury awarded a penalty after going to the monitor following Eberechi Eze’s challenge on Madueke and he scored from the spot.\nThe victory stopped Wolves leapfrogging Chelsea after an impressive 4-1 win at Brentford.\nA sensational cross by Pablo Sarabia was headed in by Mario Lemina to give Wolves, who sit 11th, a 13th-minute opener.\nJust 83 seconds later Wolves doubled their lead when, straight from kick-off, a short pass from Nathan Collins saw Hwang Hee-chan steal in ahead of Mark Flekken to net his ninth Premier League goal of the season.\nBut Brentford - who suffered a sixth defeat in seven games - pulled a goal back just two minutes later when Yoane Wissa fired in from Neal Maupay’s pass.\nHwang made it 3-1 after 28 minutes when more sloppy play from Brentford allowed the striker to latch onto Toti Gomes’ header, brilliantly lift the ball past Ethan Pinnock, and fire in a second. Hwang was forced off with a back problem in first-half stoppage time but Wolves made light work of his absence.\n Copy 29/12/2023 10",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Sport",
+    "Economy, Business and Finance",
+    "Lifestyle and Leisure"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "mykhailo mudryk",
+        "sentiment": "none"
+      },
+      {
+        "name": "nicolas jackson",
+        "sentiment": "none"
+      },
+      {
+        "name": "dwight mcneil",
+        "sentiment": "none"
+      },
+      {
+        "name": "madueke",
+        "sentiment": "none"
+      },
+      {
+        "name": "bernardo silva",
+        "sentiment": "none"
+      },
+      {
+        "name": "julian alvarez",
+        "sentiment": "none"
+      },
+      {
+        "name": "jordan ayew",
+        "sentiment": "none"
+      },
+      {
+        "name": "jack harrison",
+        "sentiment": "none"
+      },
+      {
+        "name": "eberechi eze",
+        "sentiment": "none"
+      },
+      {
+        "name": "chelsea",
+        "sentiment": "none"
+      },
+      {
+        "name": "phil foden",
+        "sentiment": "none"
+      },
+      {
+        "name": "pep guardiola",
+        "sentiment": "none"
+      },
+      {
+        "name": "noni madueke",
+        "sentiment": "none"
+      },
+      {
+        "name": "michael olise",
+        "sentiment": "none"
+      },
+      {
+        "name": "michael salisbury",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "everton",
+        "sentiment": "negative"
+      },
+      {
+        "name": "pa media/dpa london manchester city",
+        "sentiment": "negative"
+      },
+      {
+        "name": "read qatar tribune",
+        "sentiment": "negative"
+      },
+      {
+        "name": "liverpool",
+        "sentiment": "none"
+      },
+      {
+        "name": "crystal palace",
+        "sentiment": "none"
+      },
+      {
+        "name": "var",
+        "sentiment": "none"
+      },
+      {
+        "name": "chelsea",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "man city",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:08:09.423+02:00",
+  "updated": "2023-12-29T00:08:09.423+02:00"
+}

@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "d00bc58ba7e4c27add3cf9ad021f49dbc3e8713c",
+    "url": "https://techcentral.co.za/byd-supercharges-south-africa-electric-future/272943/",
+    "site_full": "techcentral.co.za",
+    "site": "techcentral.co.za",
+    "site_section": "https://news.co.za/feed",
+    "site_categories": ["media", "tech"],
+    "section_title": "News South Africa",
+    "site_title": "TechCentral | Technology News Leader in South Africa",
+    "title": "BYD supercharges South Africa's electric future",
+    "title_full": "BYD supercharges South Africa's electric future",
+    "published": "2025-10-16T16:27:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ZA",
+    "main_image": "https://techcentral.co.za/wp-content/uploads/2025/10/stella-li-byd-2500-1200.jpg",
+    "performance_score": 0,
+    "domain_rank": 98074,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d00bc58ba7e4c27add3cf9ad021f49dbc3e8713c",
+  "url": "https://techcentral.co.za/byd-supercharges-south-africa-electric-future/272943/",
+  "ord_in_thread": 0,
+  "author": "Duncan McLeod",
+  "published": "2025-10-16T16:27:00.000+03:00",
+  "title": "BYD supercharges South Africa's electric future",
+  "text": "TechCentral broke the news earlier on Thursday that BYD – often called “China’s Tesla” – plans to build a megawatt-class EV charging network in South Africa.\nThis is a significant development – and forms part of a far bigger story taking shape in China, one that promises to transform electric mobility in South Africa in the coming years.\nBYD plans to deploy ultra-fast chargers capable of delivering up to 1MW of power, forming the backbone of a new national EV charging network in South Africa. It will build these stations at its own network of dealerships – which it is expanding at a furious pace – as well as in main urban centres and along South Africa’s highways.\nThe network, BYD executive vice president Stella Li told TechCentral in an interview on Thursday, will use both solar power – to be deployed by BYD – and grid energy supplied by Eskom.\nIndeed, just a month ago BYD and Eskom signed a memorandum of cooperation (MoC) to explore the deployment of charging infrastructure in the country. Details about how they will work together are still scant, but the move suggests Eskom will have BYD’s back in its planned roll-out.\nEskom has already dipped its toes into EV infrastructure, having recently introduced 20 EVs and 10 charging stations for internal use. But what BYD has planned is on another scale entirely.\nThe Eskom and BYD agreement creates a range of possibilities that are worth speculating about. For one thing, Eskom could act as distribution gatekeeper – channelling grid upgrades, load management and regulatory access for BYD’s charging nodes.\nAnything but trivial\nIt also raises questions about demand-side management and vehicle-to-grid (V2G) potential. BYD has previously experimented with V2G models in China (where EVs can feed energy back to the grid during peak demand times).\nIts MoC with Eskom hints at exploring “integrating EVs into Eskom’s demand-side management programmes” as part of balancing electricity supply and demand. If BYD’s Flash chargers can act not just as energy sinks but as flexible grid assets, that could transform them from cost centres into stabilising nodes.\nOn the flip side, this also intensifies pressure on Eskom’s already strained infrastructure. In a country battling load shedding, integrating megawatt-scale power draws is anything but trivial. The deal suggests BYD and Eskom are already considering energy storage buffers, possibly solar or battery farms co-located with charging hubs, to decouple instantaneous demand from on-grid stress. But that’s purely speculation — for now.\nRead: BYD debuts R340 000 EV in South Africa\nWhat is clear is Thursday’s announcement aligns South Africa closely with BYD’s strategy in China, where it is racing to blanket Chinese highways and cities with next-gen charging stations built around the Flash Charging technology.\nAnnounced in March, Flash Charging represents BYD’s biggest step yet towards eliminating one of the biggest psychological barriers to EV adoption: waiting times at public charging facilities.\nThe company claims the system can add roughly 400km of range in five minutes on supported vehicles, thanks to the integration of its high-voltage battery platform, new power electronics and advanced liquid-cooled connectors.\nChina is the testing ground for BYD’s new infrastructure ambitions. The company plans to deploy 15 000 megawatt-class Flash Charging stations across the country by the end of the decade.\nRather than owning every site, BYD is adopting a “co-build” model – partnering with established charging operators and local governments to accelerate coverage. It hasn’t yet explained how it plans to approach the South African roll-out, but it may follow a similar model here.\nAlready, BYD has more than 500 branded charging sites across 200 cities in China, with plans for thousands more. But for BYD, the goal isn’t just convenience – it’s also about ecosystem control. The company designs the vehicle, the battery and, increasingly, the charger itself, creating an integrated loop that keeps users within the BYD environment.\nBYD’s approach in China is also deliberately proprietary: Flash Charging is built for its own vehicles and optimised for its next-generation architectures. It’s not yet clear whether it will take the same approach in the (much smaller) South African market, but it might. It has, however, signalled that it will work on interoperability with other EV manufacturers once standards align.\nThe Flash system sits on top of BYD’s Super e-Platform 3.0 Plus, a 1 000V, 1 000A setup capable of delivering a theoretical 1MW per vehicle. Central to this is the Flash Charging battery, a high-rate variant of BYD’s Blade battery chemistry, capable of accepting 10 C charge rates, or 10 times its capacity per hour.\nCaveats\nIn demonstration tests, the new Han L sedan gained around 400km of potential range in just five minutes, or about 20km every 10 seconds! The system relies on liquid-cooled charging cables and advanced thermal management to handle heat and maintain safety.\nTo mitigate against grid stress, BYD’s chargers use on-site energy-storage buffers – battery packs or supercapacitors that draw power gradually and discharge it rapidly during charging sessions. This architecture not only stabilises grid load but also allows for smoother integration with renewable energy sources.\nRead: BYD to blanket South Africa with megawatt-scale EV charging network\nThe promise of five-minute charging comes with caveats. Maximum charge rates occur only under ideal conditions – a low state of charge, moderate temperatures and active cooling. As the battery fills, internal resistance rises and charging speed tapers.\nThere are interoperability and cost constraints, too. The Flash system is currently proprietary, and megawatt-class hardware – converters, liquid-cooled cables and reinforced grid connections – carries a high capital cost. Outside China, widespread deployment will depend on partnerships with utilities and local governments, the same model BYD is now presumably planning to test in South Africa.\nIn South Africa, success will likely depend on grid readiness, battery-backed load balancing and renewable integration – areas still maturing but rapidly advancing. No doubt the company will learn a lot from South Africa about how to deploy advanced charging infrastructure in developing markets, and use those learnings as it expands its network elsewhere in Africa.\nFor South Africa, where BYD’s network roll-out is only beginning, it will offer motorists a glimpse of a future where charging an electric car could take less time than drinking a cup of coffee. – © 2025 NewsCentral Media\nGet breaking news from TechCentral on WhatsApp. Sign up here.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Environment"],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Environment->energy resources"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://globalchinaev.com/post/byd-to-build-15000-megawatt-flash-charging-piles-with-partners",
+    "https://insidechinaauto.com/2025/03/24/byd-announces-first-megawatt-fast-charging-ev-platform/",
+    "https://www.theecoexperts.co.uk/news/byd-flash-charging-technology",
+    "https://www.whatsapp.com/channel/0029VaABUwFFXUubh0N8JT36",
+    "https://theecoexperts.co.uk/news/byd-flash-charging-technology",
+    "https://www.globalchinaev.com/post/byd-to-build-15000-megawatt-flash-charging-piles-with-partners",
+    "https://insidechinaauto.com/2025/03/24/byd-announces-first-megawatt-fast-charging-ev-platform",
+    "https://www.insidechinaauto.com/2025/03/24/byd-announces-first-megawatt-fast-charging-ev-platform/",
+    "https://whatsapp.com/channel/0029VaABUwFFXUubh0N8JT36"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Stella Li",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Eskom",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:48:27.417+03:00",
+  "updated": "2025-10-16T16:58:46.000+03:00"
+}

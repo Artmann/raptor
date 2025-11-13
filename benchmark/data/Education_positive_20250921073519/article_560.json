@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "b7f829f4aeb501e26d2ed7dd90bd64c6f4d1ebd7",
+    "url": "https://www.deia.eus/opinion/columnistas/2025/09/18/educar-estres-10096241.html",
+    "site_full": "www.deia.eus",
+    "site": "deia.eus",
+    "site_section": "https://www.deia.eus/opinion/columnistas",
+    "site_categories": ["uncategorized", "top_news_es", "top_news"],
+    "section_title": "\n    Columnistas - Deia\n            ",
+    "site_title": "Deia - Noticias en Bizkaia, Bilbao y última hora del Athletic",
+    "title": "Educar sin estrés",
+    "title_full": "Educar sin estrés",
+    "published": "2025-09-18T08:15:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://www.deia.eus/images/og-facebook/deia.jpg?id=0-178-0",
+    "performance_score": 0,
+    "domain_rank": 37784,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b7f829f4aeb501e26d2ed7dd90bd64c6f4d1ebd7",
+  "url": "https://www.deia.eus/opinion/columnistas/2025/09/18/educar-estres-10096241.html",
+  "ord_in_thread": 0,
+  "author": "Iñaki González",
+  "published": "2025-09-18T08:15:00.000+03:00",
+  "title": "Educar sin estrés",
+  "text": "El Ministerio de Educación va a reducir el número de horas lectivas al profesorado del sector público y la ratio de niños por aula. Supongo su origen en un estudio sobre aprovechamiento escolar del que se deducirá que, quienes forman a nuestros hijos, preparan cada clase como si fuera la primera y eso absorbe muchas horas adicionales; el mismo diagnóstico traducirá la rebaja de ratios en un alumnado más preparado. Porque, si fuera una mera concesión a la paz laboral para mantener el número de educadores pese a la menor natalidad y la recurrencia de los temarios, aparcando la prioridad de los escolares, sería un error.\nKiosko",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Education"],
+  "topics": [
+    "Education->school",
+    "Education->educational grading",
+    "Education->teachers"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.presst.net/Subscribers",
+    "https://presst.net/Subscribers"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Ministerio de Educación",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_es", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:36:38.193+03:00",
+  "updated": "2025-09-19T09:06:30.000+03:00"
+}

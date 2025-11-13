@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "38f6d7ab442043edf8c9e13f4a81c94e42e4871f",
+    "url": "https://www.abc.com.py/nacionales/2025/05/07/los-incendios-provocados-tienen-que-acabar-reclama-la-capitan-pereira",
+    "site_full": "www.abc.com.py",
+    "site": "abc.com.py",
+    "site_section": "https://www.abc.com.py/nacionales",
+    "site_categories": ["under_construction"],
+    "section_title": "Noticias nacionales y políticas de última hora en Paraguay hoy | ABC Color PY",
+    "site_title": "Noticias de Paraguay y el mundo de último momento hoy en ABC Color",
+    "title": "\"Los incendios provocados tienen que acabar\", reclama la capitán Pereira - Nacionales - ABC Color",
+    "title_full": "\"Los incendios provocados tienen que acabar\", reclama la capitán Pereira - Nacionales - ABC Color",
+    "published": "2025-05-08T02:28:17.846+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PY",
+    "main_image": "https://www.abc.com.py/resizer/v2/UGV3MJWVSRBC5KHOH65H4K2GFU.jpg?auth=5c0e9a8063b4b64ed98f02690bbf8083140eaa095410af59bfa0be051185e504&amp;width=770&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 17235,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "38f6d7ab442043edf8c9e13f4a81c94e42e4871f",
+  "url": "https://www.abc.com.py/nacionales/2025/05/07/los-incendios-provocados-tienen-que-acabar-reclama-la-capitan-pereira",
+  "ord_in_thread": 0,
+  "author": "Faustina Agüero",
+  "published": "2025-05-08T02:28:17.846+03:00",
+  "title": "\"Los incendios provocados tienen que acabar\", reclama la capitán Pereira - Nacionales - ABC Color",
+  "text": "Nacionales “Los incendios provocados tienen que acabar”, reclama la capitán Pereira La capitán de Bomberos Voluntarios del Paraguay, Estela Pereira, lamentó el incendio provocado ocurrido este miércoles en la zona de Luque-San Bernardino donde se tuvo la pérdida 70 hectáreas de vegetación. Indicó que aún quedan un par de horas más de trabajo para extinguir totalmente el fuego, con los recursos limitados de los que disponen. Por Faustina Agüero 07 de mayo de 2025 - 18:48 Incendio en San Bernardino. Faustina Agüero",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue"],
+  "topics": [
+    "Environment->conservation",
+    "Environment->environmental pollution",
+    "Environment->sustainability",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Faustina Agüero",
+        "sentiment": "none"
+      },
+      {
+        "name": "Estela Pereira",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Luque-San Bernardino",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:28:17.846+03:00",
+  "updated": "2025-05-07T23:31:45.000+00:00"
+}

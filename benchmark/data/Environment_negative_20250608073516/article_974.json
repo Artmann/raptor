@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "b5b7d0b1d3927be7ebf06b5e8e4e6629c7597191",
+    "url": "https://www.eldesmarque.com/coches-y-motos/20250508/toyota-desmonta-gran-argumento-electricos-d1s23_300659091.html",
+    "site_full": "www.eldesmarque.com",
+    "site": "eldesmarque.com",
+    "site_section": "https://www.eldesmarque.com/coches-y-motos",
+    "site_categories": ["sports"],
+    "section_title": "Coches y Motos: Novedades del Mercado, Seguridad Vial y Ofertas - ElDesmarque",
+    "site_title": "ElDesmarque - Noticias deportivas: Fútbol, motor, videojuegos y más",
+    "title": "Toyota desmonta este gran argumento de los eléctricos",
+    "title_full": "Toyota desmonta este gran argumento de los eléctricos",
+    "published": "2025-05-08T06:12:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 34706,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b5b7d0b1d3927be7ebf06b5e8e4e6629c7597191",
+  "url": "https://www.eldesmarque.com/coches-y-motos/20250508/toyota-desmonta-gran-argumento-electricos-d1s23_300659091.html",
+  "ord_in_thread": 0,
+  "author": "Coches y Motos",
+  "published": "2025-05-08T06:12:00.000+03:00",
+  "title": "Toyota desmonta este gran argumento de los eléctricos",
+  "text": "Toyota desmonta este gran argumento de los eléctricos\n-\nEl presidente de Toyota hunde el mito de que los coches eléctricos son los que menos contaminan\n-\nLos datos no mienten: los eléctricos contaminan tres veces más\n-\nLa estrategia de Toyota que arrincona a los coches eléctricos\nDesde el principio, tanto fabricantes de coches eléctricos y responsables de la industria, así como instituciones anticontaminación y gobiernos de muchos países, nos han vendido que buena parte de la solución para salvar el plantea pasa por eliminar los coches de combustión y apostar por los eléctricos. Automóviles que están intentando hacer tragar por activa y por pasiva a los consumidores.\nSin embargo, el mundo de los coches eléctricos tiene muchos puntos negros y esconde muchos secretos que, si se contaran, desmontarían muchos mitos. Akio Toyoda, presidente de Toyota, ha destrozado uno de los más importantes con un dato totalmente objetivo. Si los fabricantes no habían conseguido convencer a los consumidores, ahora estos serán menos tontos que nunca.\nLos coches eléctricos no son los que menos contaminan\n“Hemos vendido unos 27 millones de híbridos. Esos híbridos han tenido el mismo impacto que 9 millones de vehículos eléctricos de batería en circulación”. En otras palabras, Los coches eléctricos contaminan tres veces más que los híbridos. ¿No se supone que era al revés?\nLa clave está en la neutralidad de carbono. Es decir, que hay que tener en cuenta la contaminación que implica un coche, sea del tipo que sea, desde que se empieza a fabricar hasta que lo llevamos al desguace, pasando por el modo en que se genera la energía con la que se mueve. En este sentido, si la electricidad de las baterías no se obtiene de energías renovables, contamina tanto o más que un vehículo de combustión. Por no hablar de lo que cuesta extraer los materiales de las baterías o la destrucción de las mismas cuando a no sirven.\nToyota apuesta por mantener todas las opciones mecánicas\n“Si hubiéramos fabricado 9 millones de vehículos eléctricos de batería en Japón, en realidad habríamos aumentado las emisiones de carbono. Esto se debe a que Japón depende de las centrales térmicas para obtener electricidad, ha apuntado el ejecutivo.\nEs por eso que en Toyota siguen viendo más viable y recomendable seguir apostando por los modelos híbridos. “Deberíamos considerar todas las opciones y trabajar en todas las direcciones. Como empresa, hemos sido muy consecuentes al afirmar que luchamos contra el dióxido de carbono”, ha sentenciado.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Environment",
+    "Social Issue"
+  ],
+  "topics": [
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->products and services",
+    "Economy, Business and Finance->manufacturing and engineering",
+    "Environment->energy resources",
+    "Environment->environmental pollution",
+    "Environment->sustainability",
+    "Social Issue->social networking",
+    "Social Issue->social problem",
+    "Social Issue->values"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.toyota.es/",
+    "https://www.toyota.es",
+    "https://toyota.es/"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Akio Toyoda",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Toyota",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:55:59.995+03:00",
+  "updated": "2025-05-08T03:58:39.000+00:00"
+}

@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "52d768899be9ac4300323ca251a7d1784680111f",
+    "url": "https://www.solothurnerzeitung.ch/schweiz/podcast-hinter-der-schlagzeile-das-ende-der-gratiszeitung-20-minuten-ld.2785826",
+    "site_full": "www.solothurnerzeitung.ch",
+    "site": "solothurnerzeitung.ch",
+    "site_section": "https://solothurnerzeitung.ch",
+    "site_categories": ["media", "top_news_ch", "top_news"],
+    "section_title": "Solothurner Zeitung | Nachrichten Region Solothurn",
+    "site_title": "Solothurner Zeitung | Nachrichten Region Solothurn",
+    "title": "20 Minuten print Zeitung: Die letzte Gratiszeitung wird eingestellt",
+    "title_full": "20 Minuten print Zeitung: Die letzte Gratiszeitung wird eingestellt",
+    "published": "2025-06-19T06:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CH",
+    "main_image": "https://chm-images-prd.forward-publishing.io/2025/06/18/1889b427-1eeb-46c4-9853-80e92f1894f0.jpeg?auto=format&amp;s=ef7b02a4c936d14be4d5d8a1e6ff2d7b&amp;rect=0%2C405%2C7768%2C4369&amp;w=1200&amp;h=675",
+    "performance_score": 0,
+    "domain_rank": 148537,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "52d768899be9ac4300323ca251a7d1784680111f",
+  "url": "https://www.solothurnerzeitung.ch/schweiz/podcast-hinter-der-schlagzeile-das-ende-der-gratiszeitung-20-minuten-ld.2785826",
+  "ord_in_thread": 0,
+  "author": "Joëlle Weil,Francesco Benini",
+  "published": "2025-06-19T06:00:00.000+03:00",
+  "title": "20 Minuten print Zeitung: Die letzte Gratiszeitung wird eingestellt",
+  "text": "Das Ende der Gratiszeitung «20 Minuten»\nGratiszeitungen und die Schweiz waren einst eine grosse Liebesgeschichte. Bald verabschiedet sich die letzte Pendlerzeitung, nämlich die Printversion von «20 Minuten». Eine einstige Erfolgstory, die am Zeitgeist scheiterte.\nIn den 2000er Jahren gab es keinen grösseren Bahnhof, Tram- oder Bushaltestelle ohne Zeitungsboxen: Die Gratiszeitungen lagen nebeneinander auf, man griff beherzt zu und nach wenigen Stunden waren alle Exemplare vergriffen. Man beklagte die Papierflut und blätterte weiter. Tempi passati. Die einzige Gratiszeitung, die bis heute überlebt hat, ist «20 Minuten». Per Ende 2025 wird die Printausgabe jedoch eingestellt.\n«Der frühere Plan der Gratiszeitungen und deren Verlage ging langfristig nicht auf», sagt Francesco Benini, Reporter bei CH Media. «Und trotzdem war ‹20 Minuten› relevant. Nicht wegen der journalistischen Qualität, aber wegen der Masse, welche die Zeitung erreichte.»\nWie haben Gratiszeitungen unseren Medienkonsum beeinflusst? Wie wurden sie so erfolgreich? Und wie konnte sich «20 Minuten» so lange halten?\nAbonnieren Sie «Hinter der Schlagzeile» auf Ihrer Podcast-App:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Politics", "Social Issue"],
+  "topics": [
+    "Economy, Business and Finance->media and entertainment industry",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->corporate news and profiles",
+    "Politics->censorship and freedom of speech",
+    "Politics->freedom of the press",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Francesco Benini",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Schweiz",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "CH Media",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ch", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:37:59.063+03:00",
+  "updated": "2025-06-20T05:06:36.000+00:00"
+}

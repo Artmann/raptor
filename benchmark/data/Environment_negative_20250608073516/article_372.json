@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "826c70ea96eb90998b7d163366902314a2a74ac8",
+    "url": "https://article.wn.com/view/2025/05/08/How_to_bring_down_Britain_s_power_grid",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/europe",
+    "site_categories": ["media"],
+    "section_title": "World News - Europe",
+    "site_title": "World News",
+    "title": "How to bring down Britain's power grid - Worldnews.com",
+    "title_full": "How to bring down Britain's power grid - Worldnews.com",
+    "published": "2025-05-08T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4256,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "826c70ea96eb90998b7d163366902314a2a74ac8",
+  "url": "https://article.wn.com/view/2025/05/08/How_to_bring_down_Britain_s_power_grid",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T03:00:00.000+03:00",
+  "title": "How to bring down Britain's power grid - Worldnews.com",
+  "text": "At the end of last month, a fire at an electrical substation in Maida Vale caused chaos in west London. Homes lost power. Transport services ground to a halt. It came in the same week as outages",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Environment",
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Environment->energy resources",
+    "Environment->environmental pollution",
+    "Environment->sustainability",
+    "Social Issue->public housing",
+    "Social Issue->social problem",
+    "Social Issue->social condition",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->utilities"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Maida",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:35:29.406+03:00",
+  "updated": "2025-05-08T00:39:05.000+00:00"
+}

@@ -1,0 +1,128 @@
+{
+  "thread": {
+    "uuid": "d2cf27f63da05c057c2c0fa766b75b148e2807fc",
+    "url": "https://www.cbsnews.com/sacramento/news/teen-killed-driver-severely-injured-after-vehicle-coillides-with-tree-in-tuolumne-county/",
+    "site_full": "www.cbsnews.com",
+    "site": "cbsnews.com",
+    "site_section": "https://cbsnews.com/sacramento/weather",
+    "site_categories": ["media", "television", "entertainment"],
+    "section_title": "Sacramento area weather and First Alert Weather forecasts - CBS Sacramento",
+    "title": "Teen killed, driver severely injured after vehicle coillides with tree in Tuolumne County - CBS Sacramento",
+    "title_full": "Teen killed, driver severely injured after vehicle coillides with tree in Tuolumne County - CBS Sacramento",
+    "published": "2023-12-28T22:31:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/02/08/62ad8cba-9bdd-4f9d-96cf-ec0c9c5597e5/thumbnail/1200x630/2eaed0817e46badc2ee96e6cf15b10d9/gettyimages-909412078.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
+    "performance_score": 0,
+    "domain_rank": 187,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d2cf27f63da05c057c2c0fa766b75b148e2807fc",
+  "url": "https://www.cbsnews.com/sacramento/news/teen-killed-driver-severely-injured-after-vehicle-coillides-with-tree-in-tuolumne-county/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Richard Ramos",
+  "published": "2023-12-28T22:31:00.000+02:00",
+  "title": "Teen killed, driver severely injured after vehicle coillides with tree in Tuolumne County - CBS Sacramento",
+  "text": "TUOLUMNE COUNTY — A teen passenger died and a driver suffered severe injuries after a vehicle collided with a tree near Don Pedro Lake in Tuolumne County earlier this week.\nThe California Highway Patrol Sonora said 20-year-old Sebastian Pendergast of La Grange in Stanislaus County was traveling with a 17-year-old girl in the front passenger seat along State Route 132 on the evening of December 26.\nPendergast was traveling at a high rate of speed when he failed to make a turn in the roadway, causing the vehicle to veer off the side and collide with a tree between Zazamora Street and Bonds Flat Road on the south side of the lake, authorities said.\nThe teen was declared dead at the scene while Pendergast was airlifted to UC Davis Medical Center in Sacramento for treatment of his injuries.\nIt is not yet known what exactly led to the crash. The CHP said it has not yet determined if drugs or alcohol were factors.\nThe deceased has not yet been identified.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Disaster and Accident", "Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "pendergast",
+        "sentiment": "none"
+      },
+      {
+        "name": "richard ramos richard ramos",
+        "sentiment": "none"
+      },
+      {
+        "name": "sebastian pendergast",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cbs",
+        "sentiment": "negative"
+      },
+      {
+        "name": "chp",
+        "sentiment": "none"
+      },
+      {
+        "name": "california highway patrol sonora",
+        "sentiment": "none"
+      },
+      {
+        "name": "uc davis medical center",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "sacramento",
+        "sentiment": "none"
+      },
+      {
+        "name": "tuolumne county",
+        "sentiment": "none"
+      },
+      {
+        "name": "bonds flat road",
+        "sentiment": "none"
+      },
+      {
+        "name": "don pedro lake",
+        "sentiment": "none"
+      },
+      {
+        "name": "zazamora street",
+        "sentiment": "none"
+      },
+      {
+        "name": "stanislaus county",
+        "sentiment": "none"
+      },
+      {
+        "name": "state route 132",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:39:15.293+02:00",
+  "updated": "2023-12-29T13:23:56.362+02:00"
+}

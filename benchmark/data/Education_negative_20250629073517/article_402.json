@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "e9844d32cd243112a64a8bba8ad983d44f29ea02",
+    "url": "https://www.butenunbinnen.de/nachrichten/schulausfall-schwanewede-eichen-prozessionsspinner-100.html",
+    "site_full": "www.butenunbinnen.de",
+    "site": "butenunbinnen.de",
+    "site_section": "https://www.radiobremen.de",
+    "site_categories": ["hobbies_and_interests", "radio"],
+    "section_title": "Startseite - Radio Bremen",
+    "site_title": "News, Videos und Liveticker für Bremen und Bremerhaven - buten un binnen",
+    "title": "Giftige Raupen sorgen für Schulausfall in Schwanewede - buten un binnen",
+    "title_full": "Giftige Raupen sorgen für Schulausfall in Schwanewede - buten un binnen",
+    "published": "2025-06-26T11:20:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.butenunbinnen.de/bilder/imago-eichenprozessionsspinner-100~_v-1280x720_c-1750925668582.jpg",
+    "performance_score": 0,
+    "domain_rank": 45697,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e9844d32cd243112a64a8bba8ad983d44f29ea02",
+  "url": "https://www.butenunbinnen.de/nachrichten/schulausfall-schwanewede-eichen-prozessionsspinner-100.html",
+  "ord_in_thread": 0,
+  "author": "buten un binnen",
+  "published": "2025-06-26T11:20:00.000+03:00",
+  "title": "Giftige Raupen sorgen für Schulausfall in Schwanewede - buten un binnen",
+  "text": "Giftige Raupen sorgen für Schulausfall in Schwanewede\nAn der Waldschule fällt am Donnerstag für die mehr als 1.000 Schüler der Unterricht aus, weil an der Schule der Eichenprozessionsspinner gefunden wurde. Das hat die Schulleitung mitgeteilt. Die Raupen wurden demnach auf dem Schulhof entdeckt. Die Haare des Eichenprozessionsspinners können heftige allergische Reaktionen verursachen. Die Schule bietet eine Notbetreuung an.\nDieses Thema im Programm: Bremen Eins, Nachrichten, 26. Juni 2025, 10 Uhr",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Education", "Social Issue"],
+  "topics": [
+    "Disaster and Accident->emergency response",
+    "Education->school",
+    "Education->students",
+    "Social Issue->social problem",
+    "Social Issue->social services",
+    "Social Issue->children"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Schwanewede",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Waldschule",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Bremen Eins",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T11:37:23.532+03:00",
+  "updated": "2025-06-26T08:47:15.000+00:00"
+}

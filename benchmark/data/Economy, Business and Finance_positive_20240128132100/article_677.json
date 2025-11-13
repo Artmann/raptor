@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "f190563cb083187500e3431573ac8d7669986aa3",
+    "url": "https://idahonews.com/news/local/idaho-leads-nation-in-median-household-income-growth-report-highlights-key-factors",
+    "site_full": "idahonews.com",
+    "site": "idahonews.com",
+    "site_section": "https://idahonews.com",
+    "site_categories": ["media"],
+    "section_title": "chevron-right",
+    "title": "chevron-right",
+    "title_full": "chevron-right",
+    "published": "2023-12-28T22:33:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://idahonews.com/resources/media/f4e10231-309d-4ac9-ab61-d0d46672cf70-large16x9_thumb_440.png",
+    "performance_score": 0,
+    "domain_rank": 43303,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f190563cb083187500e3431573ac8d7669986aa3",
+  "url": "https://idahonews.com/news/local/idaho-leads-nation-in-median-household-income-growth-report-highlights-key-factors",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "CBS2 News Staff",
+  "published": "2023-12-28T22:33:00.000+02:00",
+  "title": "chevron-right",
+  "text": "BOISE, Idaho (CBS2) — A report by the Idaho Department of Labor shows that Idaho led the nation in median household income growth, with a rate of 15% growth over the last five years compared to 2013-2017. The survey compares all 50 states, the District of Columbia, and Puerto Rico. Idaho ranks #1 for highest growth percentage at 15%, followed by California, Oregon, Washington, and Arizona. Idaho still sits in the top 5 when that is converted to growth in dollars for median household income, an increase of $9,153. Trailing narrowly behind first ranked California, which grew by $11,463. The rapid growth in median household income is likely due to several factors, including the population growth during COVID-19, the number of entry level jobs outpacing the number of workers, and the exit of retirees from the workforce. Wages for long tenured employees can be lower than retaining and recruiting new hires. Labor Economist Jan Roeser says that Idaho's increase may be influenced by the influx of remote workers moving to Idaho. Many of them bring higher wage jobs from places like California or Washington but chose to live in Idaho for any number of different reasons. \"High housing costs may be a motivator for low wage earners to leave the state for more affordable housing,” Roeser said. “People in the higher income brackets are becoming a larger share of Idaho’s total households with some in-migrating from other states.\" Idaho is also among the top 5 in housing growth, ranking 4th behind D.C., Utah, and Texas at 8.2%. Nearly 57,000 units were added between the two five-year periods, with more than 60% of that being concentrated in the Boise Metropolitan Statistical Area. The only wage group studied that showed a decline between the two five-year periods is for wage earners making less than $35,000. Groups from $35k-$74.9k and up have all seen increases. High housing costs may be motivating low wage earners to leave the state for more affordable housing, says Roeser.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "jan roeser",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "idaho department of labor",
+        "sentiment": "negative"
+      },
+      {
+        "name": "labor economist",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "boise",
+        "sentiment": "none"
+      },
+      {
+        "name": "idaho",
+        "sentiment": "none"
+      },
+      {
+        "name": "oregon",
+        "sentiment": "none"
+      },
+      {
+        "name": "district of columbia",
+        "sentiment": "none"
+      },
+      {
+        "name": "puerto rico",
+        "sentiment": "none"
+      },
+      {
+        "name": "california",
+        "sentiment": "none"
+      },
+      {
+        "name": "washington",
+        "sentiment": "none"
+      },
+      {
+        "name": "arizona",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:49:07.701+02:00",
+  "updated": "2023-12-29T01:49:07.701+02:00"
+}

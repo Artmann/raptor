@@ -1,0 +1,110 @@
+{
+  "thread": {
+    "uuid": "926f2434f40a6eb37ede2cbd5e7bb6abd98a841f",
+    "url": "https://article.wn.com/view/2025/09/18/scg_8217s_8216sharing_the_dream_8217_program_marks_its_17th_/",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/it\\",
+    "site_categories": ["media"],
+    "section_title": "WN - it\\",
+    "site_title": "World News",
+    "title": "SCG's 'Sharing the Dream' program marks its 17th year of nurturing the next generation of Filipino leaders",
+    "title_full": "SCG's 'Sharing the Dream' program marks its 17th year of nurturing the next generation of Filipino leaders",
+    "published": "2025-09-18T08:05:25.758+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 8219,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "926f2434f40a6eb37ede2cbd5e7bb6abd98a841f",
+  "url": "https://article.wn.com/view/2025/09/18/scg_8217s_8216sharing_the_dream_8217_program_marks_its_17th_/",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T08:05:25.758+03:00",
+  "title": "SCG's 'Sharing the Dream' program marks its 17th year of nurturing the next generation of Filipino leaders",
+  "text": "Toggle navigation\nMANILA- In a country where educational opportunities\n...\nRead Full Article\nAbout WN\n|\nSitemap\n|\nPrivacy Policy\n|\nContact\n|\nFeedback\n|\nNewsletter\n© 2025 All Rights Reserved, World News Inc.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": [
+    "Education->early childhood education",
+    "Education->educational grading",
+    "Education->students",
+    "Human Interest->graduation",
+    "Social Issue->social services",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "SCG",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": "SCG",
+            "exchange": "NYSE"
+          }
+        ]
+      },
+      {
+        "name": "World News Inc",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:05:25.758+03:00",
+  "updated": "2025-09-18T08:10:53.000+03:00"
+}

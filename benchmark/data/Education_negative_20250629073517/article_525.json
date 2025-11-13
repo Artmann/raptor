@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "faaec6b5e5b8bb7db5045f2579a6c971a765a5e4",
+    "url": "https://de.statista.com/statistik/daten/studie/1314960/umfrage/herausforderungen-an-schulen-aus-sicht-von-lehrkraeften",
+    "site_full": "de.statista.com",
+    "site": "statista.com",
+    "site_section": "https://de.statista.com",
+    "site_categories": ["media", "business", "marketing"],
+    "section_title": "Statista - das Statistik-Portal: Statistiken, Marktdaten &amp; Studien",
+    "site_title": "Statista - The Statistics Portal for Market Data, Market Research and Market Studies",
+    "title": "Schulen: Herausforderungen für Lehrkräfte 2024| Statista",
+    "title_full": "Schulen: Herausforderungen für Lehrkräfte 2024| Statista",
+    "published": "2025-06-25T15:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://cdn.statcdn.com/Statistic/1310000/1314960-blank-355.png",
+    "performance_score": 0,
+    "domain_rank": 140,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "faaec6b5e5b8bb7db5045f2579a6c971a765a5e4",
+  "url": "https://de.statista.com/statistik/daten/studie/1314960/umfrage/herausforderungen-an-schulen-aus-sicht-von-lehrkraeften",
+  "ord_in_thread": 0,
+  "author": "Statista Research Department",
+  "published": "2025-06-25T15:00:00.000+03:00",
+  "title": "Schulen: Herausforderungen für Lehrkräfte 2024| Statista",
+  "text": "Umfrage unter Lehrkräften zu Herausforderungen in den Jahren 2023 und 2024\nEnde 2024 gaben ** Prozent der befragten Lehrkräfte an, dass das Verhalten der Schülerinnen und Schüler aktuell zu den größten Herausforderungen in ihrer beruflichen Tätigkeit gehört. Am zweithäufigsten wurde mit ** Prozent der Punkt Arbeitsbelastung und Zeitmangel genannt, am dritthäufigsten Heterogenität (** Prozent). Mehrfachnennungen waren bei der Befragung erlaubt.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->teachers",
+    "Education->school",
+    "Education->educational grading",
+    "Social Issue->social condition",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T12:46:12.325+03:00",
+  "updated": "2025-06-26T09:49:23.000+00:00"
+}

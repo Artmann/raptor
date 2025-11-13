@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "d39891aa95167cdea962241a04c9604ac7e4a69d",
+    "url": "https://wjno.iheart.com/featured/florida-news/content/2025-05-07-woman-killed-by-alligator-in-lake-kissimmee",
+    "site_full": "wjno.iheart.com",
+    "site": "iheart.com",
+    "site_section": "https://wjno.iheart.com/content",
+    "site_categories": ["media"],
+    "section_title": "Latest Stories | 1290 WJNO",
+    "site_title": "Listen to the Best Podcasts &amp; Shows Online, Free | iHeart",
+    "title": "Woman Killed By Alligator In Lake Kissimmee | 1290 WJNO | Florida News",
+    "title_full": "Woman Killed By Alligator In Lake Kissimmee | 1290 WJNO | Florida News",
+    "published": "2025-05-08T02:43:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://i.iheart.com/v3/re/assets.getty/681beff16018f2973ad95d94?ops=gravity(%22north%22),fit(1200,675),quality(65)",
+    "performance_score": 0,
+    "domain_rank": 800,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d39891aa95167cdea962241a04c9604ac7e4a69d",
+  "url": "https://wjno.iheart.com/featured/florida-news/content/2025-05-07-woman-killed-by-alligator-in-lake-kissimmee",
+  "ord_in_thread": 0,
+  "author": "iheart.com",
+  "published": "2025-05-08T02:43:00.000+03:00",
+  "title": "Woman Killed By Alligator In Lake Kissimmee | 1290 WJNO | Florida News",
+  "text": "Photo: Jonathan Bachman / Getty Images Sport / Getty Images\nThe state Fish and Wildlife Conservation Commission says a 61-year-old woman from Davenport died in Tuesday's alligator attack in Lake Kissimmee. F-W-C Major Evan\nLaskoski says Cynthia Diekema and her husband were on a 14-foot canoe when the gator reared up. The gator bit the victim. Her husband tried to fight it off.\nOfficers later recovered the woman's body. They've removed two alligators from the lake, each meaasuring 10 to 11 feet in length. F-W-C says the gator was probably reacting defensively after being bumped by the canoe.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Disaster and Accident", "Health"],
+  "topics": [
+    "Environment->ecosystem",
+    "Environment->animal",
+    "Environment->nature",
+    "Disaster and Accident->emergency response",
+    "Disaster and Accident->natural disaster",
+    "Health->communicable disease",
+    "Health->injury",
+    "Health->health care approach"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.nbcmiami.com/news/local/officials-identify-woman-killed-in-gator-attack-while-canoeing-in-florida/3609329/",
+    "https://www.nbcmiami.com/news/local/officials-identify-woman-killed-in-gator-attack-while-canoeing-in-florida/3609329",
+    "https://nbcmiami.com/news/local/officials-identify-woman-killed-in-gator-attack-while-canoeing-in-florida/3609329/"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jonathan Bachman",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Cynthia Diekema",
+        "sentiment": "none"
+      },
+      {
+        "name": "Evan\nLaskoski",
+        "sentiment": "none"
+      },
+      {
+        "name": "Davenport",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Lake",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Getty Images Sport / Getty",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "d39891aa95167cdea962241a04c9604ac7e4a69d",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:38:46.739+03:00",
+  "updated": "2025-05-08T00:48:11.000+00:00"
+}

@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "05aae3b41f2cdac3a09f83c7cf28d32ce6a4aa64",
+    "url": "https://www.clickondetroit.com/news/local/2024/06/21/livonia-lifts-boil-water-notice-issued-after-water-pressure-loss",
+    "site_full": "www.clickondetroit.com",
+    "site": "clickondetroit.com",
+    "site_section": "https://www.newsbreak.com/west-bloomfield-township-mi",
+    "site_categories": ["media"],
+    "section_title": "West Bloomfield Township News, Weather, Safety, Sports | NewsBreak West Bloomfield Township, MI",
+    "title": "Livonia lifts boil water notice issued after water pressure loss",
+    "title_full": "Livonia lifts boil water notice issued after water pressure loss",
+    "published": "2024-06-21T18:38:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/MRG4XIMUIND3JAZV5ZNBPZMIAY.jpg?_a=ATAPphC0",
+    "performance_score": 0,
+    "domain_rank": 5189,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "05aae3b41f2cdac3a09f83c7cf28d32ce6a4aa64",
+  "url": "https://www.clickondetroit.com/news/local/2024/06/21/livonia-lifts-boil-water-notice-issued-after-water-pressure-loss",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Cassidy Johncox",
+  "published": "2024-06-21T18:38:00.000+03:00",
+  "title": "Livonia lifts boil water notice issued after water pressure loss",
+  "text": "LIVONIA, Mich. – A [boil water notice issued this week](https://www.clickondetroit.com/news/local/2024/06/19/part-of-livonia-under-boil-water-alert-after-loss-of-water-pressure/) for about two-thirds of Livonia was lifted on Friday, according to the city. The city of Livonia lifted a boil water alert on Friday, June 21 for the area within 7 Mile, Joy, Wayne, and Inkster roads. An alert was made Wednesday, June 19 after the area experienced a loss in water pressure following a mechanical malfunction in a pressure-reducing valve. Residents south of 7 Mile Road, north of Joy Road, east of Wayne Road, and west of Inkster Road were asked to boil their water before use or consumption while a contractor evaluated the valve failure. That boil water request was no longer necessary as of Friday. Officials said water samples were tested and the results were negative for contamination. Residents and business owners in the area are being asked to \"run cold water at the lowest point in their residence or building for about one minute to provide a quick flush of their pipes,” the city said Friday. On Wednesday, officials reported that [some buildings completely lost water](https://www.clickondetroit.com/news/local/2024/06/19/city-of-livonia-experiencing-water-pressure-problems-some-lost-water-completely/), while others experienced a decrease in water pressure. The police department was among those that lost water entirely.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "cassidy johncox",
+        "sentiment": "negative"
+      },
+      {
+        "name": "wayne",
+        "sentiment": "none"
+      },
+      {
+        "name": "inkster",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "mich.",
+        "sentiment": "none"
+      },
+      {
+        "name": "livonia",
+        "sentiment": "none"
+      },
+      {
+        "name": "livonia",
+        "sentiment": "none"
+      },
+      {
+        "name": "inkster road",
+        "sentiment": "none"
+      },
+      {
+        "name": "joy road",
+        "sentiment": "none"
+      },
+      {
+        "name": "wayne road",
+        "sentiment": "none"
+      },
+      {
+        "name": "mile road",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-21T19:14:02.227+03:00",
+  "updated": "2024-06-21T19:40:57.141+03:00"
+}

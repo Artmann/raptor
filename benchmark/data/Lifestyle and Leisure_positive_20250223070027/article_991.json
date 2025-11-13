@@ -1,0 +1,114 @@
+{
+  "thread": {
+    "uuid": "f58c8c7dd4118f258ba5db8bb3b73150d4fd5b45",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/sean-baker-jacques-audiard-multiple-oscar-nominations-2025-1236116331",
+    "site_full": "www.hollywoodreporter.com",
+    "site": "hollywoodreporter.com",
+    "site_section": "https://www.imdb.com/news",
+    "site_categories": ["television", "non_standard_content", "entertainment"],
+    "section_title": "Top News - IMDb",
+    "title": "Oscars: Sean Baker, Jacques Audiard, James Mangold Nominated for Multiple Awards",
+    "title_full": "Oscars: Sean Baker, Jacques Audiard, James Mangold Nominated for Multiple Awards",
+    "published": "2025-01-23T22:06:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/01/Sean-Baker-Jaques-Audiard-James-Mangold-Split-2025.jpg?w=1296&#038;h=730&#038;crop=1",
+    "performance_score": 0,
+    "domain_rank": 586,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f58c8c7dd4118f258ba5db8bb3b73150d4fd5b45",
+  "url": "https://www.hollywoodreporter.com/movies/movie-news/sean-baker-jacques-audiard-multiple-oscar-nominations-2025-1236116331",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Ryan Gajewski",
+  "published": "2025-01-23T22:06:00.000+02:00",
+  "title": "Oscars: Sean Baker, Jacques Audiard, James Mangold Nominated for Multiple Awards",
+  "text": "Sean Baker, Jacques Audiard, James Mangold, Coralie Fargeat and Brady Corbet were among those nominated in multiple categories for the 97th Academy Awards when Oscar nominations were announced Thursday.\nEmilia Pérez led the 2025 Oscars pack with 13 total nominations , setting a record for the most for a film not in the English language. This included three for filmmaker Audiard, who was nominated for best director, adapted screenplay and original song. (The movie is also nominated for best international feature, but the Academy has not specified who would receive a trophy for that category.)\nFollowing closely behind in the nominations tally was The Brutalist with 10. Corbet was the recipient of two of those, with the filmmaker nominated for best director and original screenplay.\nA Complete Unknown , the biopic starring Timothée Chalamet as music legend Bob Dylan, landed eight nominations. This included three for Mangold, who was recognized for best picture, director and adapted screenplay.\nAnora collected six nominations , with four of those going to Baker. The filmmaker was nominated for best picture, director, original screenplay and film editing.\nAlso picking up a pair of nominations was The Substance filmmaker Fargeat for best director and original screenplay. The Substance received five nominations .\nAdditionally, Emilia Pérez songwriters Camille and Clément Ducol landed two nominations apiece for their work on “El Mal” and “Mi Camino,” both of which are in the running for best original song.\nConan O’Brien hosts the 97th Academy Awards ceremony on Sunday, March 2. (The categories of best picture, animated feature and documentary feature include films with individual nominees that have not yet been determined.)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Arts, Culture and Entertainment",
+    "Lifestyle and Leisure",
+    "Human Interest"
+  ],
+  "topics": [
+    "Arts, Culture and Entertainment->mass media",
+    "Arts, Culture and Entertainment->culture",
+    "Arts, Culture and Entertainment->cinema",
+    "Lifestyle and Leisure->lifestyle",
+    "Human Interest->award and prize"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Coralie Fargeat",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Sean Baker",
+        "sentiment": "negative"
+      },
+      {
+        "name": "James Mangold",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Jacques Audiard",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Brady Corbet",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Timothée Chalamet",
+        "sentiment": "none"
+      },
+      {
+        "name": "Emilia Pérez",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bob Dylan",
+        "sentiment": "none"
+      },
+      {
+        "name": "Anora",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:45:24.798+02:00",
+  "updated": "2025-01-24T02:03:36.686+02:00"
+}

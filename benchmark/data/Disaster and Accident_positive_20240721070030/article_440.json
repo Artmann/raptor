@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "8f609ef8229a9af5787ec250b73c0f77e2c032e3",
+    "url": "https://globalnews.ca/news/10580527/walden-volunteer-fire-department-wildfire-nova-scotia-heat-wave",
+    "site_full": "globalnews.ca",
+    "site": "globalnews.ca",
+    "site_section": "https://banking.einnews.com:443/live_feed",
+    "site_categories": ["media", "health", "cold_and_flu", "top_news"],
+    "section_title": "Live Feed Wire - Banking Industry Today - EIN Presswire",
+    "title": "A wildfire almost broke out in N.S. during the heat wave. ‘Quick actions’ prevented it - Halifax | Globalnews.ca",
+    "title_full": "A wildfire almost broke out in N.S. during the heat wave. ‘Quick actions’ prevented it - Halifax | Globalnews.ca",
+    "published": "2024-06-22T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://globalnews.ca/wp-content/uploads/2024/06/Image-8-1.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+    "performance_score": 0,
+    "domain_rank": 930,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8f609ef8229a9af5787ec250b73c0f77e2c032e3",
+  "url": "https://globalnews.ca/news/10580527/walden-volunteer-fire-department-wildfire-nova-scotia-heat-wave",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Mitchell Bailey",
+  "published": "2024-06-22T03:00:00.000+03:00",
+  "title": "A wildfire almost broke out in N.S. during the heat wave. ‘Quick actions’ prevented it - Halifax | Globalnews.ca",
+  "text": "A volunteer firefighter is praising the quick thinking of a construction worker in Lunenburg County as first responders were able to put out a growing wildfire before it worsened.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.halifax.ca/fire-police/fire-emergency-management/fire-prevention-safety/home-safety/firesmart",
+    "https://novascotia.ca/burnsafe/",
+    "https://halifax.ca/fire-police/fire-emergency-management/fire-prevention-safety/home-safety/firesmart",
+    "https://novascotia.ca/burnsafe",
+    "https://www.novascotia.ca/burnsafe/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "melanie langille",
+        "sentiment": "none"
+      },
+      {
+        "name": "langille",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "walden fire department",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "lunenburg county",
+        "sentiment": "none"
+      },
+      {
+        "name": "halifax",
+        "sentiment": "none"
+      },
+      {
+        "name": "n.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "walden",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-22T11:09:31.203+03:00",
+  "updated": "2024-06-22T16:10:47.633+03:00"
+}

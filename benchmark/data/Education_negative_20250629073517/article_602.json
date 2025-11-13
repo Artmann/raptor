@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "660e941577e02f86cc70c72e2b754a80204fd4fc",
+    "url": "https://www.shorouknews.com/news/view.aspx?cdate=26062025&amp;id=887f84a9-a107-4d05-b45a-6b819dae487c",
+    "site_full": "www.shorouknews.com",
+    "site": "shorouknews.com",
+    "site_section": "https://www.shorouknews.com/local/rss",
+    "site_categories": [
+      "media",
+      "top_news_iq",
+      "top_news_eg",
+      "top_news_sa",
+      "top_news"
+    ],
+    "section_title": "محتوى جريدة الشروق RSS - محافظات- بوابة الشروق",
+    "site_title": "بوابة الشروق",
+    "title": "ضغط وسكر وحالات نفسية.. إصابة 8 طلاب أثناء امتحانات الثانوية العامة في الشرقية - بوابة الشروق",
+    "title_full": "ضغط وسكر وحالات نفسية.. إصابة 8 طلاب أثناء امتحانات الثانوية العامة في الشرقية - بوابة الشروق",
+    "published": "2025-06-26T13:19:19.978+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "EG",
+    "main_image": "https://www.shorouknews.com/uploadedimages/Sections/Egypt/original/510470950_1890323074841838_1452604491899331628_n.jpg",
+    "performance_score": 0,
+    "domain_rank": 56416,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "660e941577e02f86cc70c72e2b754a80204fd4fc",
+  "url": "https://www.shorouknews.com/news/view.aspx?cdate=26062025&amp;id=887f84a9-a107-4d05-b45a-6b819dae487c",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T13:19:19.978+03:00",
+  "title": "ضغط وسكر وحالات نفسية.. إصابة 8 طلاب أثناء امتحانات الثانوية العامة في الشرقية - بوابة الشروق",
+  "text": "أصيبت 6 طالبات وطالبين اثنين بحالات نفسية وانخفاض في ضغط الدم وارتفاع في نسبة السكر وحالة اشتباه في الإصابة بالزائدة الدودية، اليوم الخميس؛ وذلك في أثناء تأدية امتحانات الثانوية العامة في مدن الزقازيق والعاشر من رمضان والحسينية وفاقوس بمحافظة الشرقية.\nوتلقت غرفة عمليات متابعة امتحانات الثانوية العامة بمحافظة الشرقية، إشارة تفيد بإصابة طالبة بحالة اشتباه في الإصابة بالزائدة الدودية داخل لجنة امتحانات الثانوية العامة بمدرسة السادات الثانوية بنات بمدينة الزقازيق، وإصابة 3 طلاب آخرين بحالة نفسية داخل لجان الامتحان في مدينتي العاشر من رمضان والزقازيق.\nكما أصيب 3 طلاب آخرين بانخفاض في ضغط الدم، وأصيب طالبين اثنين بارتفاع نسبة السكر في الدم، وتم نقلهم إلى المستشفيات القريبة لتلقي الإسعافات اللازمة.\nوأدى طلاب الشعبة العلمية اليوم امتحان الفيزياء، فيما أدى طلاب الأدبي امتحان التاريخ.\nويؤدي 62207 طلاب وطالبات امتحانات الثانوية العامة في محافظة الشرقية، منهم 61171 طالب وطالبة نظام حديث، و1062 طالب وطالبة نظام قديم، يؤدون الامتحانات أمام 155 لجنة موزعة على مستوى 20 إدارة تعليمية بمختلف مراكز ومدن المحافظة.\nوانطلقت امتحانات الثانوية العامة للعام الدراسي 2024 - 2025 يوم الأحد 15 يونيو 2025، وتستمر حتى يوم الخميس 10 يوليو المقبل 2025.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "arabic",
+  "sentiment": "negative",
+  "categories": ["Health", "Education", "Social Issue"],
+  "topics": [
+    "Health->health care approach",
+    "Health->mental health and disorder",
+    "Health->medical condition",
+    "Education->educational testing and examinations",
+    "Education->upper secondary education",
+    "Education->students",
+    "Social Issue->children",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_iq", "top_news_eg", "top_news_sa", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T13:19:19.978+03:00",
+  "updated": "2025-06-27T11:04:49.000+00:00"
+}

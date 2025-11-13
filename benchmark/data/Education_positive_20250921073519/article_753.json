@@ -1,0 +1,151 @@
+{
+  "thread": {
+    "uuid": "835bd6c446b62716b3cf6602ee8f87c8b83967a9",
+    "url": "https://www.2news.com/news/desert-research-institute-opens-new-stem-colab/article_776db003-eea9-4007-b13e-7637c9aece40.html",
+    "site_full": "www.2news.com",
+    "site": "2news.com",
+    "site_section": "https://2news.com",
+    "site_categories": [],
+    "section_title": "2news.com",
+    "site_title": "2news.com",
+    "title": "Desert Research Institute opens new STEM CoLab | News | 2news.com",
+    "title_full": "Desert Research Institute opens new STEM CoLab | News | 2news.com",
+    "published": "2025-09-18T05:04:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/2news.com/content/tncms/assets/v3/editorial/e/8b/e8bff327-21a6-517f-b390-79bc0320848c/68cb9a382db5d.image.jpg?crop=1280%2C672%2C0%2C23&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 77362,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "835bd6c446b62716b3cf6602ee8f87c8b83967a9",
+  "url": "https://www.2news.com/news/desert-research-institute-opens-new-stem-colab/article_776db003-eea9-4007-b13e-7637c9aece40.html",
+  "ord_in_thread": 0,
+  "author": "Alexandra Rae",
+  "published": "2025-09-18T05:04:00.000+03:00",
+  "title": "Desert Research Institute opens new STEM CoLab | News | 2news.com",
+  "text": "On Wednesday, the Desert Research Institute held a grand opening for a new STEM CoLab.\nIt was built to be a dedicated space for educator training and STEM events for the community.\nThe new facility also includes a STEM education lending library designed to help Washoe County educators with STEM requirements in their classrooms.\nDRI is part of the Nevada System of Higher Education, an institute filled with research scientists conducting global research on a variety of environmental topics, taking a closer look at human impacts on the environment and the environment's impact on humans.\nThey opened the Robert D. Hawkins STEM Education CoLab to provide STEM education resources for students in kindergarten through college, as well as educators in the state of Nevada.\nThe Robert D. Hawkins Foundation funded the STEM labs at around $30,000.\nEmily McDonald-Williams, the director of the STEM Education Program, says, \"Both students and educators will be able to come into this training space and learn how to use a variety of STEM education equipment and tools like 3D printers, 3D print pens, Makey Makeys, crickets, robots, and a variety of STEM education tools.\"\nThe lab is also a lending library, so educators will be able to check out classroom sets of all of these tools to use them free of charge at any point in time in their classrooms in northern Nevada.\nMcDonald-Williams says, \"We're really looking to inspire interest and engagement in STEM topics. We want STEM to be accessible to students from K through 12th grade, and for resources to not be a barrier. The idea here is we want to inspire students at a younger age to get them interested in STEM topics and hopefully pursue STEM careers at a later date.\"\nThis also helps educators increase confidence and competency while teaching a younger age level.\nMcDonald-Williams tells us, \"STEM careers are really cutting edge. STEM careers are growing. There are a large number of STEM careers, and they're going underfilled, so we need to prepare the next generation to step into these roles for higher-paying jobs but also to help innovate the world of tomorrow.\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education"],
+  "topics": [
+    "Education->educational grading",
+    "Education->vocational education",
+    "Education->teachers"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Emily McDonald-Williams",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Washoe County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Desert Research Institute",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Nevada System of Higher Education",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Robert D. Hawkins Foundation",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "STEM Education Program",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "DRI",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Lakeridge",
+        "Wells",
+        "Orovada",
+        "Fernley",
+        "Silver City",
+        "Carson City",
+        "East Valley",
+        "Lemmon Valley",
+        "Elko",
+        "Mogul",
+        "Mountain City",
+        "Reno",
+        "Washoe Valley",
+        "Verdi",
+        "Glenbrook",
+        "Lovelock",
+        "Winnemucca",
+        "Dayton",
+        "Sparks",
+        "Double Spring",
+        "Valmy",
+        "Sun Valley",
+        "Preston"
+      ],
+      "state": ["Nevada"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:58:32.984+03:00",
+  "updated": "2025-09-18T09:02:43.000+03:00"
+}

@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "8f65555099589c20902e72d6bbb3cb3e62e3144e",
+    "url": "https://www.shorouknews.com/news/view.aspx?cdate=26062025&amp;id=02adcb19-dee5-4495-bfca-7b48072b5fbc",
+    "site_full": "www.shorouknews.com",
+    "site": "shorouknews.com",
+    "site_section": "https://www.shorouknews.com/",
+    "site_categories": [
+      "media",
+      "top_news_iq",
+      "top_news_eg",
+      "top_news_sa",
+      "top_news"
+    ],
+    "section_title": "\r\n\tبوابة الشروق\r\n",
+    "site_title": "بوابة الشروق",
+    "title": "التعليم تحقق في تداول امتحان الفيزياء علي صفحات الغش الإلكتروني - بوابة الشروق",
+    "title_full": "التعليم تحقق في تداول امتحان الفيزياء علي صفحات الغش الإلكتروني - بوابة الشروق",
+    "published": "2025-06-26T09:48:17.642+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "EG",
+    "main_image": "https://www.shorouknews.com/uploadedimages/Other/original/fthtgjuriuytitikty.JPG",
+    "performance_score": 0,
+    "domain_rank": 56416,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8f65555099589c20902e72d6bbb3cb3e62e3144e",
+  "url": "https://www.shorouknews.com/news/view.aspx?cdate=26062025&amp;id=02adcb19-dee5-4495-bfca-7b48072b5fbc",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T09:48:17.642+03:00",
+  "title": "التعليم تحقق في تداول امتحان الفيزياء علي صفحات الغش الإلكتروني - بوابة الشروق",
+  "text": "تداولت صفحات الغش الإلكتروني على موقع تليجرام أسئلة لمتحان الفيزياء للشعبة العلمية.\nوتتابع غرفة العمليات المركزية بوزارة التربية والتعليم مصدر الأسئلة للتحقق من صحتها وضبط من قام بتداولها في حالة تطابق الأسئلة مع الامتحان الذي يؤديه الطلاب اليوم.\nوأكدت الوزارة أنه سيتم تحويل الطالب الذي يتم ضبطه في حالة غش أثناء أداء الامتحان، إلى لجنة خاصة لاستكمال الامتحانات بها، مشيرة إلى أن هذا الإجراء يأتي في إطار الحرص على ضمان نزاهة وشفافية سير العملية الامتحانية، وتطبيق القوانين واللوائح المنظمة، بما يحقق مبدأ تكافؤ الفرص بين جميع الطلاب.\nوتابع محمد عبداللطيف وزير التربية والتعليم من داخل غرفة العمليات المركزية بمقر الوزارة، الاستعدادات في كل اللجان الامتحانية على مستوى الجمهورية لانطلاق امتحانات شهادة إتمام الثانوية العامة ووصول ورق الأسئلة للجان.\nوشدد الوزير على ضرورة الحسم والحزم في التفتيش قبل دخول اللجان والعمل على توفير الهدوء للطلاب أثناء سير العملية الامتحانية.\nيذكر أن لجان الثانوية العامة فتحت أبوابها لاستقبال الطلاب اليوم امتحان وسط إجراءات أمنية مشددة وتفتيش للطلاب لمنع دخول الموبايل أو أي أجهزة الكترونية أخري تساعد علي الغش.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "arabic",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Education", "Social Issue"],
+  "topics": [
+    "Crime, Law and Justice->law enforcement",
+    "Crime, Law and Justice->corruption",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Education->students",
+    "Education->educational testing and examinations",
+    "Education->teachers",
+    "Social Issue->discrimination",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_iq", "top_news_eg", "top_news_sa", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T09:48:17.642+03:00",
+  "updated": "2025-06-27T07:06:41.000+00:00"
+}

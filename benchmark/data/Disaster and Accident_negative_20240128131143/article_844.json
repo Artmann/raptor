@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "758c6e0f46c215b29208eb1db3b53b647da73757",
+    "url": "https://www.independent.ie/regionals/wexford/new-ross-news/glass-falls-onto-main-street-of-co-wexford-town-on-busy-christmas-shopping-day/a1575045845.html",
+    "site_full": "www.independent.ie",
+    "site": "independent.ie",
+    "site_section": "https://www.independent.ie/regionals/wexford/new-ross-news/rss/",
+    "site_categories": ["media", "rugby", "sports"],
+    "section_title": "Independent.ie : New Ross",
+    "title": "Glass falls onto main street of Co Wexford town on busy Christmas shopping day",
+    "title_full": "Glass falls onto main street of Co Wexford town on busy Christmas shopping day",
+    "published": "2023-12-28T23:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IE",
+    "main_image": "https://focus.independent.ie/thumbor/pn5dhJtBkBBRnH6-DduMhJZIc6A=/0x593:1440x1553/1440x960/prod-mh-ireland/c7b5c5ba-9508-4bca-9ab5-c96aeae8feaf/9e7faf9d-3ad7-42ae-820c-6696abd8428a/c7b5c5ba-9508-4bca-9ab5-c96aeae8feaf.jpg",
+    "performance_score": 0,
+    "domain_rank": 1646,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 14
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "758c6e0f46c215b29208eb1db3b53b647da73757",
+  "url": "https://www.independent.ie/regionals/wexford/new-ross-news/glass-falls-onto-main-street-of-co-wexford-town-on-busy-christmas-shopping-day/a1575045845.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "David Looby",
+  "published": "2023-12-28T23:00:00.000+02:00",
+  "title": "Glass falls onto main street of Co Wexford town on busy Christmas shopping day",
+  "text": "Glass falls onto main street of Co Wexford town on busy Christmas shopping day\nSecond ‘dangerous’ incident in a month on busy street prompts call for action from councillor\nA review of New Ross town’s old buildings has been suggested after a pane of glass fell onto a footpath on South Street on one of the busy shopping days leading up to Christmas.\nGlass fell from an upstairs window at Doran’s jewellers on Thursday morning – a day which saw strong gusts of winds hit the town and area.\nIt follows on from mortar falling from the side of a four storey premises on the same street just before lunch on Black Friday, November 24. On that occasion part of South Street was closed to traffic for a short time and a follow up structural check on the building was carried out by council staff.\nNew Ross Municipal District manager Alan Fitzhenry confirmed that the footpath in front of Doran’s was closed to pedestrians for a time on Thursday morning as the glass was cleared and the property made safe.\n“Nobody was hurt, thankfully,” he said. “We closed the footpath for about 30 minutes to facilitate making the premises safe.” Cllr Michael Sheehan praised the council crew who acted quickly, closing the path.\n\"They got the glass cleared and windows boarded up. Mercifully nobody was around. It was daytime. The district manager got a phone call and a complaint that glass had fallen onto the street. That could have been very dangerous.\n\"It’s an old building and the windows would be really old. A structural review might be needed for the town’s older buildings.” He said a new system is needed whereby anyone who owns an empty retail premises doesn’t get their commercial rates paid back to them.\n\"If there is a vacant shop downtown and your rates bill is €2,000 and it’s empty you can get up to 90pc back. I think we’re going to have to stop that and the philosophy should be use it or lose it. Doran’s has been sold and a new owner has plans for it, so that’s welcome news.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "alan fitzhenry",
+        "sentiment": "none"
+      },
+      {
+        "name": "new ross",
+        "sentiment": "none"
+      },
+      {
+        "name": "doran",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "new ross municipal district",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "wexford",
+        "sentiment": "none"
+      },
+      {
+        "name": "south street",
+        "sentiment": "none"
+      },
+      {
+        "name": "doran",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:18:23.785+02:00",
+  "updated": "2023-12-29T01:18:23.785+02:00"
+}

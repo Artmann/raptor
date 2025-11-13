@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "3562921eb0866abeb68b27224ea7c6ce563c4393",
+    "url": "https://www.newsbreak.com/news/4240057556967-fowlerville-community-schools-continuing-free-student-meals-through-halloween",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://newsbreak.com/east-lansing-mi",
+    "site_categories": ["under_construction"],
+    "section_title": "East Lansing, MI Local News and More | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Fowlerville Community Schools continuing free student meals through Halloween - NewsBreak",
+    "title_full": "Fowlerville Community Schools continuing free student meals through Halloween - NewsBreak",
+    "published": "2025-09-17T13:24:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/03UTQ4_14pNPJ9F00",
+    "performance_score": 0,
+    "domain_rank": 2819,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3562921eb0866abeb68b27224ea7c6ce563c4393",
+  "url": "https://www.newsbreak.com/news/4240057556967-fowlerville-community-schools-continuing-free-student-meals-through-halloween",
+  "ord_in_thread": 0,
+  "author": "The Livingston Post",
+  "published": "2025-09-17T13:24:00.000+03:00",
+  "title": "Fowlerville Community Schools continuing free student meals through Halloween - NewsBreak",
+  "text": "By The Livingston Post ,\n18 hours ago During its regularly scheduled meeting on Sept. 16, 2025, the Fowlerville Community Schools Board of Education voted to continue providing free meals to all students through Oct. 31, 2025. This decision ensures that free meals will remain in place even if the State of Michigan does not adopt a budget by Sept. 30, 2025, or if the final state budget does not include continued funding for universal free meals. Read full article\nRead in NewsBreak 3",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": [
+    "Education->online and remote learning",
+    "Education->students",
+    "Education->school",
+    "Social Issue->children",
+    "Social Issue->communities",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Fowlerville Community Schools Board of Education",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:23:48.908+03:00",
+  "updated": "2025-09-18T08:28:00.000+03:00"
+}

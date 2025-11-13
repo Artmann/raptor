@@ -1,0 +1,131 @@
+{
+  "thread": {
+    "uuid": "022cb338ed9611e1fe072ca5eea17d375cac8576",
+    "url": "https://www.ans.org/news/tag-university%20of%20new%20south%20wales",
+    "site_full": "www.ans.org",
+    "site": "ans.org",
+    "site_section": "https://www.ans.org/news/article-6114",
+    "site_categories": [],
+    "section_title": "Australian undergrads take on tokamak project -- ANS / Nuclear Newswire",
+    "site_title": "American Nuclear Society -- ANS",
+    "title": "Articles Tagged with: university of new south wales -- ANS / Nuclear Newswire",
+    "title_full": "Articles Tagged with: university of new south wales -- ANS / Nuclear Newswire",
+    "published": "2025-09-18T04:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 68133,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "022cb338ed9611e1fe072ca5eea17d375cac8576",
+  "url": "https://www.ans.org/news/tag-university%20of%20new%20south%20wales",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T04:00:00.000+03:00",
+  "title": "Articles Tagged with: university of new south wales -- ANS / Nuclear Newswire",
+  "text": "A computer rendering of a tokamak device designed by students at the University of New South Wales. (Credit: UNSW)\nA recent article on Australia’s ABC News website highlighted the work of undergraduate physics and engineering students at the University of New South Wales (UNSW) to design, build, and operate their own small nuclear fusion reactor. The ambitious work, known as the AtomCraft project, is being led by associate professor Patrick Burr with the objective of producing a student-built tokamak reactor by the end of 2026.\nAustralia-based HB-11 Energy and U.K.-based Tokamak Energy have partnered with UNSW for the project.\nResearch goals : The AtomCraft project has the following research goals for participating students, according to its website:\nOur team aims [to] make the world’s first fusion reactor entirely designed, built, and operated by students. And [to] do so in 2 years. You will develop innovative solutions to engineering challenges across many engineering disciplines, work closely with industry partners, and be part a vibrant team of enthusiastic and dedicated people who want to push the boundaries of what is possible with fusion energy.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->students",
+    "Education->college and university",
+    "Education->vocational education",
+    "Social Issue->demographics",
+    "Social Issue->communities",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.abc.net.au/news/2024-06-08/unsw-students-work-on-small-nuclear-fusion-reactor/103945790",
+    "https://hb11.energy/",
+    "https://www.unsw.edu.au/",
+    "https://tokamakenergy.com/",
+    "https://www.unsw.edu.au/staff/patrick-burr",
+    "https://www.unsw.edu.au/challeng/vertically-integrated-projects/explore-vertically-integrated-projects/atomcraft",
+    "https://tokamakenergy.com",
+    "https://www.unsw.edu.au",
+    "https://www.tokamakenergy.com/",
+    "https://unsw.edu.au/",
+    "https://www.hb11.energy/",
+    "https://unsw.edu.au/staff/patrick-burr",
+    "https://hb11.energy",
+    "https://unsw.edu.au/challeng/vertically-integrated-projects/explore-vertically-integrated-projects/atomcraft",
+    "https://abc.net.au/news/2024-06-08/unsw-students-work-on-small-nuclear-fusion-reactor/103945790"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Patrick Burr",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "U.K.",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "University of New South Wales",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Tokamak Energy",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:52:40.834+03:00",
+  "updated": "2025-09-18T07:55:10.000+03:00"
+}

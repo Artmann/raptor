@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "ec32ee49c3fc1d296ba9e7c068127c43d55bc42a",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5182292",
+    "site_full": "news.ltn.com.tw",
+    "site": "ltn.com.tw",
+    "site_section": "https://www.ltn.com.tw",
+    "site_categories": [
+      "media",
+      "top_news_hk",
+      "top_news_nz",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "自由時報電子報",
+    "site_title": null,
+    "title": "人才多人才好、國家社會才會好 賴清德允諾政府會繼續投資教育",
+    "title_full": "人才多人才好、國家社會才會好 賴清德允諾政府會繼續投資教育",
+    "published": "2025-09-18T07:34:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://img.ltn.com.tw/Upload/news/600/2025/09/18/5182292_1_1.jpg",
+    "performance_score": 0,
+    "domain_rank": 12237,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ec32ee49c3fc1d296ba9e7c068127c43d55bc42a",
+  "url": "https://news.ltn.com.tw/news/life/breakingnews/5182292",
+  "ord_in_thread": 0,
+  "author": "自由時報電子報",
+  "published": "2025-09-18T07:34:00.000+03:00",
+  "title": "人才多人才好、國家社會才會好 賴清德允諾政府會繼續投資教育",
+  "text": "人才多人才好、國家社會才會好 賴清德允諾政府會繼續投資教育\n人才多人才好，國家社會才會好，總統賴清德今日頒發師鐸獎時，允諾政府會繼續投資教育，政府一定會全力幫忙孩子踏實築夢。（教育部提供）\n〔記者林曉雲／台北報導〕928教師節前夕，總統賴清德今（18）日頒發教育部師鐸獎時表示，「一日為師，終身為父」、「師與天地君親並列」，他代表國家頒發師鐸獎深感榮幸，他很幸運從小到大都得到老師的啟發教誨，也因國家民主化，教育蓬勃發展，讓他獲得專業知識，在民眾支持下進而有機會帶領國家，因此他致力於推動教育平權，讓每個孩子都有機會，國家有責任栽培人才，人才多人才好，國家社會才會好，個人生活好，國家社會也會跟著好。\n賴清德說，他出生偏鄉是平凡學生，他的國小和國中都有同學畢業即去工作，偏鄉教育資源少，偏鄉孩子考上私立大學的機會高，為了讓所有孩子「只要想念書，就有機會接受教育」，政府因此推動公私立高中職免學費政策，並補助私立大學學生學雜費每年3.5萬元，低收入戶及中低收入戶學生額外補助2萬元及1.5萬元，另補助宿舍費（每月5000元）、補助租金（一年300億元補助，全國79萬人受惠）、交通津貼（如T-pass）等，教育部也補助大學整修建宿舍。\n此外，賴清德強調重視全人教育，重視學生的差異、啟發潛能、兼顧身心發展，現在是AI人工智慧時代，也是淨零轉型時代，例如教育部推動高中職和大學合作開設AI多元選修課程，讓孩子及早學習；政府近年也加大教育投資，推動「第二期高等教育深耕計畫」，5年（2023至2027年）預計投入970億元，較第一期增加132億元，共補助138所大專校院推動計畫，全面提升大專校院品質及促進高教多元發展，強化學術研究與促進產學合作。\n賴清德也提及9月9日成立的運動部，強調由2面奧運金牌得主李洋出任首任運動部長，讓喜歡運動的年輕人也覺得有希望，政府會持續投資教育，讓孩子長出夢想的翅膀。\n免費訂閱《自由體育》電子報\n熱門賽事、球星動態不漏接",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chineset",
+  "sentiment": "positive",
+  "categories": ["Education", "Politics", "Social Issue"],
+  "topics": [
+    "Education->teachers",
+    "Education->educational grading",
+    "Education->school",
+    "Politics->education policy",
+    "Politics->government",
+    "Politics->political candidates",
+    "Social Issue->social services",
+    "Social Issue->demographics",
+    "Social Issue->children"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_hk", "top_news_nz", "top_news_tw", "top_news"],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:39:23.623+03:00",
+  "updated": "2025-09-19T08:09:03.000+03:00"
+}

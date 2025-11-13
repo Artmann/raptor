@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "3b61c3e7c9a808d18085b28579ad088e27f6294c",
+    "url": "https://www.ctvnews.ca/video?playlistId=1.6703682",
+    "site_full": "www.ctvnews.ca",
+    "site": "ctvnews.ca",
+    "site_section": "https://www.ctvnews.ca/rss/video/ctv-news-video-player-1.867553",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "",
+    "title": "10 passengers rescued after small plane crashes in N.W.T.",
+    "title_full": "10 passengers rescued after small plane crashes in N.W.T.",
+    "published": "2023-12-28T23:03:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 980,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3b61c3e7c9a808d18085b28579ad088e27f6294c",
+  "url": "https://www.ctvnews.ca/video?playlistId=1.6703682",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2023-12-28T23:03:00.000+02:00",
+  "title": "10 passengers rescued after small plane crashes in N.W.T.",
+  "text": "Skip to main content\nLive\nSearch CTVNews.ca\nSearch\nNEWS\nCanada\nWorld\nOpinion\nWar in Ukraine\nPolitics\nInflation\nW5\nHealth\nClimate and Environment\nSci-Tech\nEntertainment\nLifestyle\nBusiness\nSports\nReal Estate\nIsrael-Hamas War\nAging in Canada\nWeather\nAutos\nNanos on the Numbers\nNewsletters\nLocal Spotlight\nPhoto Galleries\nHappening Now\nCOVID in Canada\nVIDEO\nVideo Hubs\nCTV News\nAtlantic\nBarrie\nCalgary\nEntertainment\nEdmonton\nKitchener\nLondon\nMontreal\nNorthern Ontario\nOttawa\nRegina\nSaskatoon\nToronto\nVancouver\nVancouver Island\nWindsor\nWinnipeg\nSHOWS\nCTV National News\nPower Play\nQuestion Period\nW5\nLIVE\nCTV News LIVE\nCTV News App\nVideo Help\nVoice Assistant Help\nLOCAL\nAtlantic\nBarrie\nCalgary\nEdmonton\nGuelph\nKingston\nKitchener\nLethbridge\nLondon\nMontreal\nNanaimo\nNewfoundland and Labrador\nNorthern Ontario\nOttawa\nPembroke\nPrince Albert\nRed Deer\nRegina\nSaskatoon\nSault Ste. Marie\nToronto\nVancouver\nVancouver Island\nWindsor\nWinnipeg\nSHOWS\nNews Programs\nCTV National News\nQP\nW5\nCTV News Channel\nPower Play\nThe Debate\nThis Hour\nTop 3 Tonight\nABOUT\nSECTIONS\nEditorial Standards and Policies\nSearch CTV News\nAbout Bell Media\nCTV News App\nCTV News Stox\nCTV News Channel\nWhat's On CTV News Channel\nCTV Schedule\nPodcasts\nSocial\nBios\nCTV National News Team\nCTV News Digital Team\nCTV News Channel\nW5 Team\nShopping Trends\nSections\nGifts\nTech\nFashion\nBeauty\nHealth & Fitness\nSearch CTVNews.ca\nSearch",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Human Interest", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "albert",
+        "sentiment": "none"
+      },
+      {
+        "name": "abo",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "hamas war aging in canada weather autos nanos",
+        "sentiment": "none"
+      },
+      {
+        "name": "labrador northern ontario ottawa pembroke",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "ukraine",
+        "sentiment": "none"
+      },
+      {
+        "name": "canada",
+        "sentiment": "none"
+      },
+      {
+        "name": "israel",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:30:33.653+02:00",
+  "updated": "2023-12-29T00:30:33.653+02:00"
+}

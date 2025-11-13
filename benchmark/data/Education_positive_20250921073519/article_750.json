@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "4737cfdf25e1ef22118003c7c9a864fd2f44fd63",
+    "url": "https://tumen.mk.ru/social/2025/09/18/v-tyumenskoy-oblasti-za-letniy-period-byli-trudoustroeny-bolee-20-tysyach-podrostkov.html",
+    "site_full": "tumen.mk.ru",
+    "site": "mk.ru",
+    "site_section": "https://tumen.mk.ru",
+    "site_categories": ["media", "top_news_ru", "top_news"],
+    "section_title": "Новости Тюмени и Тюменской области - МК в Тюмени",
+    "site_title": "Новости Тюмени и Тюменской области - МК в Тюмени",
+    "title": "В Тюменской области за летний период были трудоустроены более 20 тысяч подростков - МК Тюмень",
+    "title_full": "В Тюменской области за летний период были трудоустроены более 20 тысяч подростков - МК Тюмень",
+    "published": "2025-09-18T08:26:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://static.mk.ru/upload/entities/2025/09/18/07/articles/facebookPicture/1f/14/b1/cd/b39254fd7e5da218c8c2588afdad3b25.jpg",
+    "performance_score": 0,
+    "domain_rank": 3207,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4737cfdf25e1ef22118003c7c9a864fd2f44fd63",
+  "url": "https://tumen.mk.ru/social/2025/09/18/v-tyumenskoy-oblasti-za-letniy-period-byli-trudoustroeny-bolee-20-tysyach-podrostkov.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T08:26:00.000+03:00",
+  "title": "В Тюменской области за летний период были трудоустроены более 20 тысяч подростков - МК Тюмень",
+  "text": "Летний период в Тюменской области – это новые возможности для подростков, которые стремятся не только отдохнуть на каникулах, но и провести время с пользой, сделать первые шаги на пути к профессии. Как сообщили в департаменте труда и занятости населения Тюменской области, в этом году за летний период более двадцати тысяч несовершеннолетних ребят нашли работу, а в планах трудоустроить около 23 тысяч молодых людей. Причем в каждом муниципальном образовании региона стараются помочь подросткам получить первый трудовой опыт.\nАктивно работает над созданием рабочих мест для подростков и молодежи Кадровый центр «Работа России» в Тюменской области. На данный момент заключено более 860 договоров с работодателями по привлечению на предприятия молодых кадров. Одним из ярких примеров успешной реализации программы является Нижнетавдинский район, где летом в учреждениях и организациях трудились более 600 подростков. Работа для них была представлена в самых различных учреждениях: библиотеках, больницах, культурно-спортивных организациях и школах. Они принимали участие в проектах «Отряда главы», работали в сельских администрациях, а также в редакции газеты «Светлый путь». Кроме того, многие нашли вакансии на предприятиях внебюджетной сферы. Такой широкий спектр возможностей позволяет подросткам не только заработать деньги, но и приобрести навыки, которые будут полезны в будущем.\nВ ведомстве отмечают, что трудоустройство подростков не ограничивается лишь летними месяцами. Оно продолжается и в течение учебного года, когда школьники могут работать в свободное от занятий время. Подростки могут легко выбрать подходящую вакансию на портале «Работа России». Также они могут обратиться за консультацией в Кадровый центр «Работа России» по месту жительства, где им помогут разобраться в доступных предложениях и выбрать наиболее подходящий вариант.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Education->students",
+    "Education->vocational education",
+    "Human Interest->graduation",
+    "Lifestyle and Leisure->leisure",
+    "Lifestyle and Leisure->travel and tourism",
+    "Lifestyle and Leisure->holiday"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ru", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:58:20.662+03:00",
+  "updated": "2025-09-19T09:09:33.000+03:00"
+}

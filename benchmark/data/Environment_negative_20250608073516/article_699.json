@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "e6e179bd904ff5f24acf72045d4dcb2bb5e61da4",
+    "url": "https://www.excelsior.com.mx/nacional/profepa-irregularidades-zoo-culiacan/1714753",
+    "site_full": "www.excelsior.com.mx",
+    "site": "excelsior.com.mx",
+    "site_section": "http://excelsior.com.mx//rss.xml",
+    "site_categories": [
+      "travel",
+      "national_parks",
+      "top_news_mx",
+      "top_news_ve",
+      "top_news"
+    ],
+    "section_title": "Excélsior - RSS",
+    "site_title": "Excélsior | El periódico de la vida nacional",
+    "title": "Detecta Profepa serias irregularidades en el Zoológico de Culiacán",
+    "title_full": "Detecta Profepa serias irregularidades en el Zoológico de Culiacán",
+    "published": "2025-05-08T04:31:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://www.excelsior.com.mx/media/pictures/2025/05/07/3303639.jpg",
+    "performance_score": 0,
+    "domain_rank": 8524,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 12,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e6e179bd904ff5f24acf72045d4dcb2bb5e61da4",
+  "url": "https://www.excelsior.com.mx/nacional/profepa-irregularidades-zoo-culiacan/1714753",
+  "ord_in_thread": 0,
+  "author": "pedro.diaz",
+  "published": "2025-05-08T04:31:00.000+03:00",
+  "title": "Detecta Profepa serias irregularidades en el Zoológico de Culiacán",
+  "text": "Tras una visita de inspección de tres días al Zoológico de Culiacán, Sinaloa, la Profepa aseguró 119 ejemplares de vida silvestre, más de la mitad de los 203 animales de su colección, en algunos casos porque no se pudo acreditar su legal procedencia, inexistencia de planes de manejo aprobados por la Semarnat en los últimos cinco años y/o faltas al trato digno y respetuoso.\nDebido a que la Procuraduría Federal de Protección al Ambiente (Profepa), carece de presupuesto e instalaciones propias para reubicar a la fauna, decidió dejar a los ejemplares en el mismo lugar, luego de imponer las siguientes medidas de urgente aplicación:\n- Limpieza y reubicación de ejemplares en cuarentena a otros recintos.\n- Limpieza del área de los felinos.\n- Atención médica a ejemplares con estado de salud frágil.\n- Seguimiento al tratamiento médico del orix cimitarra de edad avanzada.\nEn un comunicado de prensa, la Profepa aseguró que el león blanco que murió en el segundo día de inspección, y que se hizo viral en redes sociales por un video donde aparecía prácticamente en los huesos, en una jaula llena de excremento, \"tenía una enfermedad terminal\".\nLa necropsia arrojó como diagnóstico inicial un linfosarcoma torácico, que es un tipo de cáncer que afecta el tórax y no se observa a simple vista. Se enviaron muestras a un laboratorio para tener un diagnóstico más preciso\", indicó.\nAgregó que otros animales geriátricos deben ser atendidos o continuar con su tratamiento como un orix, un mono verde, dos chimpancés y dos jaguares.\nLa Profepa dará seguimiento al cumplimiento de las medidas impuestas y al estado físico de los ejemplares y volverá en el transcurso del mes de mayo para verificar los avances en sus condiciones y la legalidad del sistema de manejo, de acuerdo con lo establecido en el acta de inspección\", manifestó.\nCabe mencionar que desde el pasado 14 de abril, comenzaron a circular en redes sociales como X y Facebook fotografías y videos que denunciaban el abandono y mal estado de los ejemplares de vida silvestre en el Zoológico de Culiacán, y no fue sino hasta el 29 de abril, 15 días después, que la Profepa se presentó para realizar una visita de inspección.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Environment", "Human Interest"],
+  "topics": [
+    "Crime, Law and Justice->animal abuse",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Environment->endangered species",
+    "Environment->conservation",
+    "Environment->animal",
+    "Human Interest->human mishap"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Procuraduría Federal de Protección al Ambiente",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:49:09.731+03:00",
+  "updated": "2025-05-08T02:55:06.000+00:00"
+}

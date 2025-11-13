@@ -1,0 +1,127 @@
+{
+  "thread": {
+    "uuid": "5ab747c8f13442f47d9df9cfe08b891f01c564d6",
+    "url": "https://www.wqow.com/video/uw-stout-expands-higher-education-offerings-at-stanley-correctional-institute/video_c323f579-f846-57ca-96e4-ca9210376672.html",
+    "site_full": "www.wqow.com",
+    "site": "wqow.com",
+    "site_section": "http://www.wqow.com/video/",
+    "site_categories": ["media"],
+    "section_title": "Video | wqow.com",
+    "site_title": "WQOW 18 News | Eau Claire, WI News, Weather Sports",
+    "title": "UW-Stout expands higher education offerings at Stanley Correctional Institute | Video | wqow.com",
+    "title_full": "UW-Stout expands higher education offerings at Stanley Correctional Institute | Video | wqow.com",
+    "published": "2025-09-18T02:49:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/wqow.com/content/tncms/assets/v3/editorial/c/32/c323f579-f846-57ca-96e4-ca9210376672/68cb4bedcb61b.image.jpg?crop=1280%2C672%2C0%2C23&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 174031,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5ab747c8f13442f47d9df9cfe08b891f01c564d6",
+  "url": "https://www.wqow.com/video/uw-stout-expands-higher-education-offerings-at-stanley-correctional-institute/video_c323f579-f846-57ca-96e4-ca9210376672.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T02:49:00.000+03:00",
+  "title": "UW-Stout expands higher education offerings at Stanley Correctional Institute | Video | wqow.com",
+  "text": "UW-Stout expands higher education offerings at Stanley Correctional Institute\n- Updated\n0\nUniversity of Wisconsin-Stout is expanding its academic offerings at Stanley Correctional Institute, and now inmates can receive their bachelor's degree during their time incarcerated.\nTags\nAs featured on\nThe grant-funded program is part of the University of Wisconsin Coalition for Higher Education in Prison which is coordinated by UW-Madison and brings professors from various Wisconsin universities to state prisons. Since its inception, the program has awarded 19 associate degrees according to a UW-Stout press release.\nCurrently in Eau Claire\n68°F\nMostly Cloudy\n86°F / 64°F\n12 AM\n68°F\n1 AM\n67°F\n2 AM\n66°F\n3 AM\n65°F\n4 AM\n65°F",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": null,
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://dcs.wisc.edu/programs/prison-education-initiative/",
+    "https://www.dcs.wisc.edu/programs/prison-education-initiative/",
+    "https://dcs.wisc.edu/programs/prison-education-initiative"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Stanley Correctional Institute\n- Updated",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "University of Wisconsin Coalition for Higher Education",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Eau Claire",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Mondovi",
+        "Cornell",
+        "Fairchild",
+        "Lake Hallie",
+        "Couderay",
+        "Augusta",
+        "Eau Claire",
+        "Bloomer",
+        "Thorp",
+        "Holcombe",
+        "Cumberland",
+        "Altoona",
+        "Spooner",
+        "Rice Lake",
+        "Osseo",
+        "Fall Creek",
+        "Cadott",
+        "Chippewa Falls",
+        "Menomonie"
+      ],
+      "state": ["Wisconsin"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:03:42.329+03:00",
+  "updated": "2025-09-18T08:07:02.000+03:00"
+}

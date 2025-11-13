@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "69bea16e77e78ca4eae48ec2a25e487566b12d09",
+    "url": "https://www.techinsider.ru/news/news-1712201-kak-gorodskie-derevya-predotvrashchayut-padeniya-peshehodov-v-letnyuyu-jaru/",
+    "site_full": "www.techinsider.ru",
+    "site": "techinsider.ru",
+    "site_section": "https://www.techinsider.ru/out/public-all.xml",
+    "site_categories": [],
+    "section_title": "«ТехИнсайдер»",
+    "site_title": "TechInsider - новости науки и техники: новые технологии, наука, оружие, авиация, космос, автомобили",
+    "title": "Как городские деревья предотвращают падения пешеходов в летнюю жару",
+    "title_full": "Как городские деревья предотвращают падения пешеходов в летнюю жару",
+    "published": "2025-10-16T12:49:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://images.techinsider.ru/upload/img_cache/3b6/3b625d28786bdb5774ede460e39d63c3_ce_2000x1053x0x213_cropped_1200x628.jpg",
+    "performance_score": 0,
+    "domain_rank": 32041,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "69bea16e77e78ca4eae48ec2a25e487566b12d09",
+  "url": "https://www.techinsider.ru/news/news-1712201-kak-gorodskie-derevya-predotvrashchayut-padeniya-peshehodov-v-letnyuyu-jaru/",
+  "ord_in_thread": 0,
+  "author": "Анна Мартынова",
+  "published": "2025-10-16T12:49:00.000+03:00",
+  "title": "Как городские деревья предотвращают падения пешеходов в летнюю жару",
+  "text": "Ученые из Колумбийского университета выяснили: чем гуще тень от крон деревьев на тротуаре, тем меньше вероятность, что прохожий оступится, упадет и получит травму, требующую вызова скорой помощи. Исследование было опубликовано в American Journal of Epidemiology.\nКак городские деревья предотвращают падения пешеходов в летнюю жару\nЧтобы выяснить роль деревьев, специалисты собрали и проанализировали данные по 497 местам в городе, где в период с апреля по сентябрь 2019 года скорая оказывала помощь пешеходам после падений.\nА затем для каждого такого места ученые нашли два других, контрольных, — похожие по застройке, пешеходной нагрузке и социальному статусу районы, но где падений зафиксировано не было. Кроме того, они измерили покров крон деревьев в каждом из этих участков.\nОказалось, что в местах, где люди падали и получали травмы, средний покров деревьев составлял всего 8%. А вот в безопасных, контрольных точках, тень была почти в два раза гуще — 14%.\nПосле того как ученые учли все побочные факторы — богатый или бедный район, много ли там пешеходов, — связь оказалась четкой: чем больше тени от деревьев, тем ниже риск падения.\nПочему так происходит\nОсновная гипотеза ученых заключается в охлаждающем эффекте, который создают деревья. В жаркую погоду человеческий организм испытывает стресс — может кружиться голова, появляться слабость, нарушаться координация движений. В тени, где температура может быть на несколько градусов ниже, эти риски снижаются.\nКроме того, асфальт, бетон и другие материалы, из которых сделаны тротуары, тоже страдают от жары. Под палящим солнцем, например, отдельные плитки могут проседать, создавая неровности, опасные для ног пешеходов.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->nature"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwaf231/8285371?login=false",
+    "https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwaf231/8285371",
+    "https://www.academic.oup.com/aje/advance-article/doi/10.1093/aje/kwaf231/8285371?login=false"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:24:14.338+03:00",
+  "updated": "2025-10-16T13:58:48.000+03:00"
+}

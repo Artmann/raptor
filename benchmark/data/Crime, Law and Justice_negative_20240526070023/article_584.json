@@ -1,0 +1,140 @@
+{
+  "thread": {
+    "uuid": "33e502df2c93abcec5677ebbe5b66a73b37d2941",
+    "url": "https://www.breitbart.com/clips/2024/04/25/msnbc-broadcast-interrupted-with-fake-news-sign-chants",
+    "site_full": "www.breitbart.com",
+    "site": "breitbart.com",
+    "site_section": "https://breitbart.com/news",
+    "site_categories": [
+      "media",
+      "law_government_and_politics",
+      "politics",
+      "top_news"
+    ],
+    "section_title": "All News - Breitbart News Network",
+    "title": "MSNBC Broadcast Interrupted with Fake News Sign, Chants",
+    "title_full": "MSNBC Broadcast Interrupted with Fake News Sign, Chants",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.breitbart.com/media/2024/04/MSNBC-640x335.jpg",
+    "performance_score": 0,
+    "domain_rank": 1661,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "33e502df2c93abcec5677ebbe5b66a73b37d2941",
+  "url": "https://www.breitbart.com/clips/2024/04/25/msnbc-broadcast-interrupted-with-fake-news-sign-chants",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Pam Key",
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "MSNBC Broadcast Interrupted with Fake News Sign, Chants",
+  "text": "Thursday on MSNBC’s coverage of former President Donald Trump’s immunity case in the Supreme Court, one unidentified man in a hoodie with a sign loudly chanted behind host Andrea Mitchell and legal analysts Joyce Vance and Neal Katyal sitting outside the court.\nHis sign read, “Fake News is CNN” on one side, and the other read “Steve Doocy: Cool Guy Award,” including an image of the Fox & Friends host.\nThe man slowly paced on the lawn while occasionally yelling out “fake news.”\nThrowing back to the studio, Mitchell said, “And Katy and Chris, you know that we’re in such a time of polarization, but this has always happened out here in front of the court and front of Congress. You have protesters, and that’s what we have here today.”\nHost Katy Tur said, “Of course, but you know what I find interesting about that particular sign behind you, Andrea, is that it’s, you know, directly out of Donald Trump’s mouth, that allegation of fake news, that was coined by Donald Trump, and that is what’s repeated. Which makes it interesting we’re talking about election interference and January 6 today because it is all about what sort of influence Donald Trump had.”\nFollow Pam Key on Twitter @pamkeyNEN\nClips Media Politics Andrea Mitchell CNN Donald Trump MSNBC Steve Doocy",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Politics", "Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://twitter.com/pamkeyNEN",
+    "https://www.twitter.com/pamkeyNEN"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "donald trump",
+        "sentiment": "negative"
+      },
+      {
+        "name": "joyce vance",
+        "sentiment": "none"
+      },
+      {
+        "name": "neal katyal",
+        "sentiment": "none"
+      },
+      {
+        "name": "katy tur",
+        "sentiment": "none"
+      },
+      {
+        "name": "andrea mitchell",
+        "sentiment": "none"
+      },
+      {
+        "name": "mitchell",
+        "sentiment": "none"
+      },
+      {
+        "name": "chris",
+        "sentiment": "none"
+      },
+      {
+        "name": "steve doocy",
+        "sentiment": "none"
+      },
+      {
+        "name": "katy",
+        "sentiment": "none"
+      },
+      {
+        "name": "andrea",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "supreme court",
+        "sentiment": "negative"
+      },
+      {
+        "name": "fake news sign",
+        "sentiment": "negative"
+      },
+      {
+        "name": "msnbc",
+        "sentiment": "negative"
+      },
+      {
+        "name": "congress",
+        "sentiment": "none"
+      },
+      {
+        "name": "cnn",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:25:48.132+03:00",
+  "updated": "2024-04-26T02:33:04.725+03:00"
+}

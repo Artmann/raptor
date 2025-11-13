@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "9ef6cc51bbee007118ae3f607b42fd98072af474",
+    "url": "https://www.newsbug.info/news/nation/education-suffers-after-even-a-single-brush-with-childhood-trauma/image_c4f66de4-f25c-55e6-9506-7f459f1362c6.html",
+    "site_full": "www.newsbug.info",
+    "site": "newsbug.info",
+    "site_section": "https://www.newsbug.info/search/?f=rss&amp",
+    "site_categories": ["media"],
+    "section_title": "www.newsbug.info - RSS Results",
+    "site_title": "newsbug.info | The #1 destination for local news in eastern Illinois and northwest Indiana.",
+    "title": "Education Suffers After Even A Single Brush With Childhood Trauma",
+    "title_full": "Education Suffers After Even A Single Brush With Childhood Trauma",
+    "published": "2025-06-26T13:15:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/newsbug.info/content/tncms/assets/v3/editorial/c/4f/c4f66de4-f25c-55e6-9506-7f459f1362c6/685d289a80ebe.image.jpg?crop=1200%2C630%2C0%2C85",
+    "performance_score": 0,
+    "domain_rank": 148061,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9ef6cc51bbee007118ae3f607b42fd98072af474",
+  "url": "https://www.newsbug.info/news/nation/education-suffers-after-even-a-single-brush-with-childhood-trauma/image_c4f66de4-f25c-55e6-9506-7f459f1362c6.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T13:15:00.000+03:00",
+  "title": "Education Suffers After Even A Single Brush With Childhood Trauma",
+  "text": "Education Suffers After Even A Single Brush With Childhood Trauma\n- Updated\nSuccess! An email has been sent to with a link to confirm list signup.\nError! There was an error processing your request.\nBreaking News: Herald Journal\nBreaking News: Iroquois County's Times-Republic\nBreaking News: Kankakee Valley Post News\nBreaking News: Newton County Enterprise\nBreaking News: Rensselaer Republican\nBreaking News: WCINews (Fountain County Neighbor & Review Republican)\nCoronavirus Updates\nGet the latest local and national news.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Social Issue", "Education"],
+  "topics": [
+    "Health->mental health and disorder",
+    "Health->health care approach",
+    "Social Issue->children",
+    "Social Issue->social services",
+    "Social Issue->social problem",
+    "Education->students",
+    "Education->educational grading",
+    "Education->early childhood education"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Fountain County Neighbor & Review Republican",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:22:10.370+03:00",
+  "updated": "2025-06-26T11:34:11.000+00:00"
+}

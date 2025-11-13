@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "2ca8c4688b310279888864698a473be743bffdaf",
+    "url": "https://westconcordmn.net/stories/grace-lutheran-school-begins-2025-26-school-year,125082",
+    "site_full": "westconcordmn.net",
+    "site": "westconcordmn.net",
+    "site_section": "https://westconcordmn.net/news",
+    "site_categories": [],
+    "section_title": "News - West Concord Messenger",
+    "site_title": "Home - West Concord Messenger",
+    "title": "Grace Lutheran School begins 2025-26 school year",
+    "title_full": "Grace Lutheran School begins 2025-26 school year",
+    "published": "2025-09-12T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn2.creativecirclemedia.com/mainstreet/original/20250912-141842-3e1-Grace-Lutheran-School-Teacher-Photo-Hansen.jpg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2ca8c4688b310279888864698a473be743bffdaf",
+  "url": "https://westconcordmn.net/stories/grace-lutheran-school-begins-2025-26-school-year,125082",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-12T03:00:00.000+03:00",
+  "title": "Grace Lutheran School begins 2025-26 school year",
+  "text": "Founded in 1973, Grace Lutheran School is beginning its 52nd year of providing a Christ-centered education for the people in the community. This fall, the school will serve 30 students from 3-year-old preschool to grade 3. Grace Lutheran School is one of the 79 Lutheran schools in the Minnesota South District of The Lutheran Church—Missouri Synod. In July, the Lutheran Church—Missouri Synod. Director of School Ministry reported there are 1,733 Lutheran schools, 160,967 students, and 21,313 teachers in the U.S. representing the largest Protestant parochial school system in America.\nThere are two full-time teachers at Grace Lutheran School: Christina Hansen and Karen Telander. Mrs. Hansen is our elementary school teacher and Mrs. Telander is our preschool teacher.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue", "Social Issue"],
+  "topics": [
+    "Education->school",
+    "Education->religious education",
+    "Education->primary education",
+    "Social Issue->children",
+    "Social Issue->communities",
+    "Social Issue->social services",
+    "Social Issue->communities",
+    "Social Issue->children",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Christina Hansen",
+        "sentiment": "none"
+      },
+      {
+        "name": "Karen Telander",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Grace Lutheran School",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "2ca8c4688b310279888864698a473be743bffdaf",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["West Concord"],
+      "state": ["Minnesota"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:16:10.185+03:00",
+  "updated": "2025-09-18T09:20:14.000+03:00"
+}

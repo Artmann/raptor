@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "2ed99b6a28cc0cf8dc2ead3203071360cfad3252",
+    "url": "https://www.ansa.it/ansa2030/notizie/green_blue/2025/05/08/copernicus-aprile-2025-e-il-secondo-piu-caldo-della-storia_21d2e4d2-05a4-43be-b911-22eff05257d3.html",
+    "site_full": "www.ansa.it",
+    "site": "ansa.it",
+    "site_section": "https://www.ansa.it/ansa2030",
+    "site_categories": [
+      "media",
+      "top_news_ch",
+      "top_news_dk",
+      "top_news_it",
+      "top_news"
+    ],
+    "section_title": "ANSA2030: approfondimenti e speciali",
+    "site_title": "Agenzia ANSA: ultime notizie di cronaca, politica e sport - ANSA",
+    "title": "Copernicus, aprile 2025 è il secondo più caldo della storia - Green & Blue - Ansa.it",
+    "title_full": "Copernicus, aprile 2025 è il secondo più caldo della storia - Green & Blue - Ansa.it",
+    "published": "2025-05-08T05:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://www.ansa.it/webimages/img_1129x635/2025/5/8/7082fec446ec0c67de99aa7fcea996a9.jpg",
+    "performance_score": 0,
+    "domain_rank": 1954,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 8
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2ed99b6a28cc0cf8dc2ead3203071360cfad3252",
+  "url": "https://www.ansa.it/ansa2030/notizie/green_blue/2025/05/08/copernicus-aprile-2025-e-il-secondo-piu-caldo-della-storia_21d2e4d2-05a4-43be-b911-22eff05257d3.html",
+  "ord_in_thread": 0,
+  "author": "ansa.it",
+  "published": "2025-05-08T05:00:00.000+03:00",
+  "title": "Copernicus, aprile 2025 è il secondo più caldo della storia - Green & Blue - Ansa.it",
+  "text": "Aprile 2025 è stato il secondo aprile più caldo della storia a livello globale con la temperatura ancora di 1,5 gradi oltre la media del periodo preindustriale.\n Lo rende noto Copernicus Climate Change Service (C3S) per conto della Commissione europea nel consueto aggiornamento mensile.\n La temperatura media dell'aria in superficie è stata di 14,96 gradi centigradi, 0,60 in più rispetto alla media di aprile del periodo 1991-2020. Inoltre, la temperatura è stata di 1,51 gradi superiore alla media stimata del periodo 1850-1900 utilizzata per definire il livello preindustriale ed è stato il 21/o mese degli ultimi 22 in cui la temperatura media globale dell'aria in superficie è stata superiore di oltre 1,5 gradi rispetto al livello preindustriale.\n Il periodo di 12 mesi da maggio 2024 ad aprile 2025 è stato di 0,70 gradi superiore alla media del periodo 1991-2020 e di 1,58 gradi superiore al livello preindustriale.\n Samantha Burgess, responsabile strategico per il Clima dell'Ecmwf, il Centro europeo per le previsioni meteorologiche a medio termine, afferma che \"a livello globale, aprile 2025 è stato il secondo aprile più caldo mai registrato, proseguendo la lunga sequenza di mesi con temperature superiori di 1,5 gradi rispetto ai livelli preindustriali. Il monitoraggio continuo del clima è uno strumento essenziale per comprendere e rispondere ai continui cambiamenti del nostro sistema climatico\".",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->climate change",
+    "Environment->sustainability",
+    "Environment->global warming"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "e.\n Samantha Bur",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": " Commissione europe",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:04:26.177+03:00",
+  "updated": "2025-05-08T03:08:23.000+00:00"
+}

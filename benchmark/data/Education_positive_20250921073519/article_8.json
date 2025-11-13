@@ -1,0 +1,128 @@
+{
+  "thread": {
+    "uuid": "d303ed31e29ebaafe448724735ef92ef9f344d37",
+    "url": "https://inces.gob.ve/index.php/2025/09/17/meridenos-egresan-del-inces-con-la-tecnica-del-servicio-de-bar/",
+    "site_full": "inces.gob.ve",
+    "site": "inces.gob.ve",
+    "site_section": "https://inces.gob.ve",
+    "site_categories": [
+      "health",
+      "law_government_and_politics",
+      "exercise",
+      "us_government_resources"
+    ],
+    "section_title": "Instituto Nacional de Capacitación y Educación Socialista &#8211; Inces",
+    "site_title": "Instituto Nacional de Capacitación y Educación Socialista &#8211; Inces",
+    "title": "Merideños egresan del Inces con la técnica del Servicio de Bar",
+    "title_full": "Merideños egresan del Inces con la técnica del Servicio de Bar",
+    "published": "2025-09-17T21:25:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "VE",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 303695,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d303ed31e29ebaafe448724735ef92ef9f344d37",
+  "url": "https://inces.gob.ve/index.php/2025/09/17/meridenos-egresan-del-inces-con-la-tecnica-del-servicio-de-bar/",
+  "ord_in_thread": 0,
+  "author": "Gilberto Daly",
+  "published": "2025-09-17T21:25:00.000+03:00",
+  "title": "Merideños egresan del Inces con la técnica del Servicio de Bar",
+  "text": "** Los merideños siguen comprometidos con las formaciones relacionadas con el Motor Turismo. El servicio de bar se presenta en el mercado laboral como una de las alternativas más inmediatas.\nEn el Centro de Formación Socialista (CFS) Eliézer Otaiza en Mérida, y bajo la temática tropical, se llevó a cabo el cierre de la unidad curricular, Servicio de Bar, correspondiente al Perfil Productivo Laboral Bartender, que contó con la participación de estudiantes, maestros del Inces e invitados especiales.\nEn esta ocasión, los participantes culminaron la formación de la unidad curricular Servicio de Bar, realizando una demostración de sus conocimientos, preparando diferentes tipos de cócteles, utilizando las técnicas, la creatividad y la innovación en la elaboración de cada bebida.\nEl maestro técnico productivo (MTP) José Luis León, quien estuvo a cargo de la formación se mostró satisfecho con los resultados obtenidos durante la demostración, pues se pudo comprobar que los participantes, lograron dominar la técnica, además de la creatividad en la combinación de ingredientes durante la elaboración de los cócteles y bebidas refrescantes.\nDurante el acto de culminación, los participantes presentaron cócteles inspirados tanto en las costas y los llanos venezolanos, tales como: Cocunut darling, nuestro amanecer, ternocuchi, esencia de fresa, que reflejan tanto los atardeceres del llano, como el sol y la arena de las playas, entre otras bebidas tradicionales con alguna variante en sus ingredientes. Para las preparaciones, se utilizaron productos de temporada y frutas tropicales.\nEl maestro León señaló que los estudiantes que hoy egresan del Inces, están en capacidad de conocer todos los tipos de bebidas alcohólicas; crear sus propias bebidas con nuevos sabores, ser responsable de la limpieza de la barra, hacer espectáculo a la hora de realizar el cóctel, así como el conocimiento de inventario.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": [
+    "Education->students",
+    "Education->adult and continuing education",
+    "Education->vocational education",
+    "Human Interest->graduation",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "José Luis León",
+        "sentiment": "none"
+      },
+      {
+        "name": "Eliézer Otaiza",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Perfil Productivo Laboral Bartender",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Centro de Formación Socialista",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "CFS",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "MTP",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:36:23.365+03:00",
+  "updated": "2025-09-18T07:44:05.000+03:00"
+}

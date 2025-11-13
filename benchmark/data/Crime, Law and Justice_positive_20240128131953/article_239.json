@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "55f1fe9b4294db84d52670934d3c0a9accced41f",
+    "url": "https://www.fox5atlanta.com/news/east-point-city-council-votes-to-decriminalize-weed-possession",
+    "site_full": "www.fox5atlanta.com",
+    "site": "fox5atlanta.com",
+    "site_section": "https://www.fox5atlanta.com/closings",
+    "site_categories": ["media", "non_standard_content"],
+    "section_title": "Closings",
+    "title": "East Point City Council votes to decriminalize weed possession",
+    "title_full": "East Point City Council votes to decriminalize weed possession",
+    "published": "2023-12-29T06:12:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/12/1280/720/9F1C75F277E44A0F8336F1D761EA0A7C.jpg?ve=1&amp;tl=1",
+    "performance_score": 0,
+    "domain_rank": 6027,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "55f1fe9b4294db84d52670934d3c0a9accced41f",
+  "url": "https://www.fox5atlanta.com/news/east-point-city-council-votes-to-decriminalize-weed-possession",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Rob DiRienzo",
+  "published": "2023-12-29T06:12:00.000+02:00",
+  "title": "East Point City Council votes to decriminalize weed possession",
+  "text": "EAST POINT, Ga. - East Point just became the 13th city in Georgia to vote to decriminalize small amounts of marijuana . The council voted unanimously to do so at its meeting on Dec. 18. Once the mayor signs the bill, the city will issue $75 tickets or community service for possession of less than an ounce. \"It puts a lot of our community out of harm’s way,\" said Council member Lance Robertson, who wrote the legislation. \"This is a nonviolent crime, so therefore, if anyone has less than an ounce gets caught with something, it’s just a ticket. Robertson also owns a CBD and hemp store on Cascade Road, both of which are already legal. However, according to Atlanta-based criminal defense attorney Joshua Schiffer, this new ordinance does not legalize marijuana itself. He explains, \"It means that the punishment has been reduced simply to a fine, much like a traffic ticket. A lot of people, especially youth of minorities, that’s how they’re getting harassed.\" Research from the NAACP found that although white and Black people smoke, vape, and eat THC at similar rates, Black people are six times more likely to get locked up for it. \"The police can be protecting our community, not patrolling our community,\" the council member said. \"Not looking for things that they shouldn’t be looking for.\" Robertson is now calling on state lawmakers to legalize marijuana altogether. Other cities that have already decriminalized the drug include Atlanta, Athens, Chamblee, and Forest Park. Multiple requests for comment from East Point Mayor Deana Holiday Ingraham went unreturned, so it’s not clear when the new measure would take effect in the city.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Politics", "Social Issue", "Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "lance robertson",
+        "sentiment": "none"
+      },
+      {
+        "name": "robertson",
+        "sentiment": "none"
+      },
+      {
+        "name": "joshua schiffer",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "east point city council",
+        "sentiment": "negative"
+      },
+      {
+        "name": "naacp",
+        "sentiment": "none"
+      },
+      {
+        "name": "council",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "ga. - east point",
+        "sentiment": "none"
+      },
+      {
+        "name": "georgia",
+        "sentiment": "none"
+      },
+      {
+        "name": "cascade road",
+        "sentiment": "none"
+      },
+      {
+        "name": "atlanta",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T07:31:52.225+02:00",
+  "updated": "2023-12-29T07:31:52.225+02:00"
+}

@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "dd6addcb2d9ab16b7414e923db3aec2fc2078584",
+    "url": "https://lineadirectaportal.com/sinaloa/retrasos-en-siembras-hortaliceros-y-frijoleros-de-guasave-podrian-quedarse-sin-agua-a-tiempo-2025-05-07__1384582",
+    "site_full": "lineadirectaportal.com",
+    "site": "lineadirectaportal.com",
+    "site_section": "https://lineadirectaportal.com/feed",
+    "site_categories": ["music", "entertainment", "top_news_mx", "top_news"],
+    "section_title": "Línea Directa",
+    "site_title": "Línea Directa | La información al momento",
+    "title": "Retrasos en siembras: hortaliceros y frijoleros de Guasave podrían quedarse sin agua a tiempo",
+    "title_full": "Retrasos en siembras: hortaliceros y frijoleros de Guasave podrían quedarse sin agua a tiempo",
+    "published": "2025-05-08T03:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://lineadirectaportal.com/wp-content/uploads/2025/05/Modesto-Lopez-Leal-Modulo-de-Riego-Guasave.png",
+    "performance_score": 0,
+    "domain_rank": 185464,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "dd6addcb2d9ab16b7414e923db3aec2fc2078584",
+  "url": "https://lineadirectaportal.com/sinaloa/retrasos-en-siembras-hortaliceros-y-frijoleros-de-guasave-podrian-quedarse-sin-agua-a-tiempo-2025-05-07__1384582",
+  "ord_in_thread": 0,
+  "author": "Ruben Lezama",
+  "published": "2025-05-08T03:33:00.000+03:00",
+  "title": "Retrasos en siembras: hortaliceros y frijoleros de Guasave podrían quedarse sin agua a tiempo",
+  "text": "Guasave, Sinaloa. La entrega tardía del agua para riego pone en riesgo la siembra de hortalizas y frijol en el municipio, advirtió Modesto López Leal, presidente del Módulo de Riego Guasave. La Comisión Nacional del Agua (Conagua) tiene previsto liberar los volúmenes hasta el 15 de octubre, una fecha que podría ser demasiado tarde para los ciclos agrícolas más sensibles.\nTe puede interesar: En menos de dos meses, empeora la sequía en tres municipios de Sinaloa: monitor de Conagua\nEl líder agrícola explicó que los productores de hortalizas requieren tiempo para que crezca la planta, por lo que es fundamental que conozcan con anticipación cuándo comenzará la entrega del recurso hídrico. Dijo que quienes dependen exclusivamente de los canales de riego deben acercarse a sus módulos para buscar alternativas viables.\n“Si el agua se entrega el 15, probablemente llegaría a las parcelas después del 20 de octubre, y eso no le sirve a los hortaliceros que ya deben estar listos para sembrar”, señaló López Leal.\nSugerido: Preocupa extracción de agua a la presa Eustaquio Buelna; alcaldesa pide confianza en manejo de Conagua\nEl dirigente del campo, comentó que hay zonas en las que el agua solo puede llegar desde la presa, pero donde existan pozos o acceso a cuerpos de agua como ríos, los módulos están en condiciones de apoyar de manera oportuna.\nSigue la información Agropecuaria en la sección especial de Línea Directa\nTambién se refirió al cultivo de frijol, recordando que el ciclo pasado dejó una mala experiencia para quienes sembraron fuera de tiempo. Si la entrega del agua se mantiene en la fecha prevista, consideró que la mayoría de los frijoleros estarían sembrando en noviembre, lo que podría derivar en consecuencias negativas, como ya ha ocurrido.\nLópez Leal hizo un llamado a los agricultores a no tomar decisiones precipitadas y a mantenerse informados a través de los módulos de riego para evitar afectaciones por desconocimiento o mala planeación.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Environment",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Environment->land resources",
+    "Environment->sustainability",
+    "Environment->water",
+    "Economy, Business and Finance->economy",
+    "Economy, Business and Finance->agriculture",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Social Issue->communities",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Modesto López Leal",
+        "sentiment": "none"
+      },
+      {
+        "name": "Eustaquio Buelna",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Comisión Nacional del Agua",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Conagua",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:47:00.689+03:00",
+  "updated": "2025-05-08T01:53:34.000+00:00"
+}

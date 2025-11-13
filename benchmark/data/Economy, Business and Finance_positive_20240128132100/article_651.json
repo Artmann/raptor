@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "ef6c2f409c206881aaf4a94cc6b79679284247cf",
+    "url": "https://www.wpsdlocal6.com/news/mortgage-rates-drop-for-the-ninth-week-in-a-row/article_739065c2-a5d4-11ee-9807-c7f76a3f8d59.html",
+    "site_full": "www.wpsdlocal6.com",
+    "site": "wpsdlocal6.com",
+    "site_section": "https://wpsdlocal6.com",
+    "site_categories": ["media", "law_government_and_politics", "politics"],
+    "section_title": "WPSD Local 6 | Your News, Weather, & Sports Authority",
+    "title": "Mortgage rates drop for the ninth week in a row | <span class=\"tnt-section-tag no-link\">News</span> | WPSD Local 6",
+    "title_full": "Mortgage rates drop for the ninth week in a row | <span class=\"tnt-section-tag no-link\">News</span> | WPSD Local 6",
+    "published": "2023-12-28T07:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/wpsdlocal6.com/content/tncms/assets/v3/editorial/7/39/739065c2-a5d4-11ee-9807-c7f76a3f8d59/658dfe02345f7.preview.jpg?crop=1764%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 31209,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ef6c2f409c206881aaf4a94cc6b79679284247cf",
+  "url": "https://www.wpsdlocal6.com/news/mortgage-rates-drop-for-the-ninth-week-in-a-row/article_739065c2-a5d4-11ee-9807-c7f76a3f8d59.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "CNN",
+  "published": "2023-12-28T07:00:00.000+02:00",
+  "title": "Mortgage rates drop for the ninth week in a row | <span class=\"tnt-section-tag no-link\">News</span> | WPSD Local 6",
+  "text": "New York (CNN) — US mortgage rates continued to drop this week, which extends the good news for home buyers who have been facing the least affordable housing market since the 1980s. After dropping under 7% in early December for the first time since mid-August, rates fell again this week. The 30-year fixed-rate mortgage rate fell to an average of 6.61% in the week ending December 28, down from 6.67% the previous week, according to data from Freddie Mac released Thursday. A year ago, the average 30-year fixed-rate was 6.42%. It was the ninth-straight week of declines, dragged lower by the anticipation of Federal Reserve rate cuts beginning next year. The average mortgage rate is based on mortgage applications that Freddie Mac receives from thousands of lenders across the country. The survey includes only borrowers who put 20% down and have excellent credit. A current buyer’s rate may be different. “The rapid descent of mortgage rates over the last two months stabilized a bit this week, but rates continue to trend down,” Sam Khater, Freddie Mac’s chief economist said in a statement on Thursday. However, [Realtor.com](http://Realtor.com) economist Jiayi Xu cautioned not to read too much into the latest mortgage rates, saying in a statement that it is “a general ‘noisy’ period during this time of year due to holiday-driven fluctuations.” Looking ahead to 2024 Economists are expecting further declines in mortgage rates heading into 2024. Fed officials recently forecast a median of three rate cuts next year. If they happen, they’d likely put downward pressure on mortgage rates. While the central bank does not set the interest rates that borrowers pay on mortgages directly, its actions influence them. Mortgage rates track the yield on 10-year US Treasuries, which move up or down based on anticipation about the Fed’s actions, the Fed’s policy changes and investors’ reactions to them. For the time being, the drop in mortgage rates “hasn’t translated into a substantial sales recovery yet,” Xu said. That’s because a lack of housing inventory has helped prop up home prices. That said, Khater predicts “a nascent rebound in the housing market” in the coming year if inflation continues to decelerate.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Human Interest",
+    "Social Issue"
+  ],
+  "external_links": ["http://Realtor.com)", "http://www.Realtor.com)"],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "sam khater",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cnn",
+        "sentiment": "negative"
+      },
+      {
+        "name": "freddie mac",
+        "sentiment": "none"
+      },
+      {
+        "name": "federal reserve",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "new york",
+        "sentiment": "none"
+      },
+      {
+        "name": "us",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:40:52.300+02:00",
+  "updated": "2023-12-29T01:40:52.300+02:00"
+}

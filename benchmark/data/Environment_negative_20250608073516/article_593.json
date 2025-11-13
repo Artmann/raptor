@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "af50f392f0ca19bb9679404b25fb48b6948d687b",
+    "url": "https://flipboard.com/topic/eldoradocounty/golden-mussels-found-on-boat-during-inspection-at-folsom-lake/f-03561806fe%2Fkcra.com",
+    "site_full": "flipboard.com",
+    "site": "flipboard.com",
+    "site_section": "https://flipboard.com/topic/eldoradocounty",
+    "site_categories": ["family_and_parenting", "eldercare"],
+    "section_title": "Discover More in El Dorado County on Flipboard",
+    "site_title": "Flipboard: Your Social Magazine",
+    "title": "Golden mussels found on boat during inspection at Folsom Lake | Flipboard",
+    "title_full": "Golden mussels found on boat during inspection at Folsom Lake | Flipboard",
+    "published": "2025-05-08T01:52:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/folsom-lake-sra-golden-mussel-discovery-collage-original-681be2e8af9ac.jpg?crop=0.588xw:0.394xh;0.384xw,0.555xh&amp;resize=1200:*",
+    "performance_score": 0,
+    "domain_rank": 1243,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "af50f392f0ca19bb9679404b25fb48b6948d687b",
+  "url": "https://flipboard.com/topic/eldoradocounty/golden-mussels-found-on-boat-during-inspection-at-folsom-lake/f-03561806fe%2Fkcra.com",
+  "ord_in_thread": 0,
+  "author": "kcra.com - Nijzel Dotson",
+  "published": "2025-05-08T01:52:00.000+03:00",
+  "title": "Golden mussels found on boat during inspection at Folsom Lake | Flipboard",
+  "text": "Golden mussels found on boat during inspection at Folsom Lake FOLSOM, Calif. — An infestation of golden mussels was found during a boat inspection at Folsom Lake on Tuesday, according to California State …\nkcra.com - Nijzel Dotson • 3h",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->invasive species",
+    "Environment->water",
+    "Environment->ecosystem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Lake",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:02:52.257+03:00",
+  "updated": "2025-05-08T02:06:45.000+00:00"
+}

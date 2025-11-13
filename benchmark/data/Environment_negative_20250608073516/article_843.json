@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "94d8fc95ad3a7799bfbb2ebaa007d53631a3b8fc",
+    "url": "https://www.fijitimes.com.fj/clean-seas-project-on-hold",
+    "site_full": "www.fijitimes.com.fj",
+    "site": "fijitimes.com.fj",
+    "site_section": "https://www.fijitimes.com/feed",
+    "site_categories": ["under_construction"],
+    "section_title": "The Fiji Times",
+    "site_title": "The Fiji Times - Latest Fiji News, Sports and Weather",
+    "title": "'Clean Seas' project on hold",
+    "title_full": "'Clean Seas' project on hold",
+    "published": "2025-05-08T03:15:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NZ",
+    "main_image": "https://www.fijitimes.com.fj/wp-content/uploads/2025/05/Rubbish-01.jpg",
+    "performance_score": 0,
+    "domain_rank": 63897,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "94d8fc95ad3a7799bfbb2ebaa007d53631a3b8fc",
+  "url": "https://www.fijitimes.com.fj/clean-seas-project-on-hold",
+  "ord_in_thread": 0,
+  "author": "Rakesh Kumar",
+  "published": "2025-05-08T03:15:00.000+03:00",
+  "title": "'Clean Seas' project on hold",
+  "text": "Stakeholders on Taveuni, including tourism operators, women’s groups, and students of Holy Cross College and Holy Cross Primary School will have to wait a little longer for the island’s first comprehensive recycling initiative.\nPacific Recycling Foundation announced that the official launch of the recycling program, originally scheduled for March 2025, under the regional Clean Seas project, had been postponed because of external delays caused by Germany’s recent snap elections, which have temporarily affected the overall project time-line.\nAlthough this development has led to scheduling adjustments, PRF said their major partner, the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH remained committed to the project.\nPRF founder Amitesh Deo said despite the challenges faced, PRF and GIZ would continue to be dedicated partners and will work closely together on the project, a significant initiative for both organisations, making this partnership essential to the project’s success.\n“This project has created hope for Taveuni, and while the delay is disappointing, our commitment has never been stronger,” Mr Deo said.\n“Tourism stakeholders, women’s groups, students and teachers at Holy Cross College and Holy Cross Primary School, and the wider community have shown incredible leadership in supporting this initiative.\n“We owe it to them to make sure it is delivered with the care and impact it deserves.”\nMr Deo said Taveuni had been actively engaging in recycling conversations following PRF’s stakeholder meetings held last year, with Holy Cross College and Holy Cross Primary School set to implement the Recycling on the Go (ROG) Ambassadors program to encourage a culture of recycling among students with a strong emphasis on mind-set and behaviour change.\nWhile formal recycling programs had expanded in urban centres on Viti Levu, outer islands such as Taveuni still faced major barriers to access, contributing to waste accumulation and environmental degradation.\nThe Taveuni project is part of PRF’s “Look Beyond” movement, which calls for a more inclusive approach to recycling services across Fiji’s maritime and rural communities. Mr Deo emphasised that the Foundation and GIZ were using the additional time to strengthen project preparations.\nA new launch date is expected to be announced in the coming months.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->conservation",
+    "Environment->sustainability",
+    "Environment->nature"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Amitesh Deo",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Taveuni",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Pacific Recycling Foundation",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Holy Cross Primary School",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Deutsche Gesellschaft",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:27:46.092+03:00",
+  "updated": "2025-05-08T03:30:48.000+00:00"
+}

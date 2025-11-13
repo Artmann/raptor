@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "fb3e896246cbd447fa2d7c0f4fc9e8b3f2a4a31c",
+    "url": "https://www.nation.com.pk/29-Dec-2023/cars-sales-plunge-by-55pc-in-2023",
+    "site_full": "www.nation.com.pk",
+    "site": "nation.com.pk",
+    "site_section": "https://nation.com.pk/rss/business",
+    "site_categories": [],
+    "section_title": "The Nation - Business",
+    "title": "Cars sales plunge by 55pc in 2023",
+    "title_full": "Cars sales plunge by 55pc in 2023",
+    "published": "2023-12-28T20:41:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PK",
+    "main_image": "https://www.nation.com.pk/print_images/large/2023-12-29/cars-sales-plunge-by-55pc-in-2023-1703799672-6799.jpg",
+    "performance_score": 0,
+    "domain_rank": 10759,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fb3e896246cbd447fa2d7c0f4fc9e8b3f2a4a31c",
+  "url": "https://www.nation.com.pk/29-Dec-2023/cars-sales-plunge-by-55pc-in-2023",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "APP",
+  "published": "2023-12-28T20:41:00.000+02:00",
+  "title": "Cars sales plunge by 55pc in 2023",
+  "text": "KARACHI - Pakistan’s auto industry continued to face challenges in 2023, with car sales dropping by up to 55%. Additionally, production in factories manufacturing car parts was also slashed by 70 per cent. Due to the crisis of exchange rates, car production was severely affected by a decline in income until last year. The reduced car sales not only impacted the national treasury but also led to a noticeable decrease in revenue from products. Chairman All Pakistan Motor Dealers Association (APMDA), H.M Shahzad in recent interview shed light on the severity of the current situation in the auto sector. Regarding the crisis in the auto industry, Shahzad stated that if the production or assembling of cars in the country continues at the current rate, the next two years will witness even worse conditions. He added that despite agreements with automobile companies, Pakistan has been unable to transfer technology and manufacturing capabilities, resulting in bearing the cost of expensive cars. However, the current government is actively addressing this issue, and important negotiations are underway. It is important to note that following a decrease in the value of US dollar against the Pakistani rupee, automobile companies slashed the prices of the units in the ending months of 2023. The move helped to boost car sales but it was not sufficient.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Social Issue",
+    "Disaster and Accident"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "shahzad",
+        "sentiment": "none"
+      },
+      {
+        "name": "h.m shahzad",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "pakistan motor dealers association",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "pakistan",
+        "sentiment": "none"
+      },
+      {
+        "name": "karachi",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:01:43.390+02:00",
+  "updated": "2023-12-29T00:01:43.390+02:00"
+}

@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "f5c08f05cb09f310c7595a4a33d5e06aa713753b",
+    "url": "https://www.fox13now.com/news/local-news/new-helitack-program-helps-fight-fires-from-above",
+    "site_full": "www.fox13now.com",
+    "site": "fox13now.com",
+    "site_section": "https://fox13now.com",
+    "site_categories": ["media"],
+    "section_title": "FOX 13 Utah and Salt Lake City: Breaking News, Weather, Traffic",
+    "title": "New helitack program helps fight fires from above",
+    "title_full": "New helitack program helps fight fires from above",
+    "published": "2024-06-24T16:17:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ewscripps.brightspotcdn.com/dims4/default/7e7c985/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2Ff67%2Fef205c0e5ea14d77944cbd6904335118%2Ff67302a26962479e87f0f21f3fd36b5e%2Fposter_07d481111c0043179f6dc89917eb78cc.jpg",
+    "performance_score": 0,
+    "domain_rank": 7814,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f5c08f05cb09f310c7595a4a33d5e06aa713753b",
+  "url": "https://www.fox13now.com/news/local-news/new-helitack-program-helps-fight-fires-from-above",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Dan Evans",
+  "published": "2024-06-24T16:17:00.000+03:00",
+  "title": "New helitack program helps fight fires from above",
+  "text": "SALT LAKE CITY — Recently a new Wildland Firefighting Helitack Program was launched in the state of Utah. FOX 13 News anchor Dan Evans met the crew to learn about what a dangerous but rewarding job it is and how it might prevent the next massive wildfire. As part of the exercise, the crew practices getting off the helicopter in steep terrain below a fire with no place to land The pilot hovers close, keeping it balanced as the team unloads gear. It’s a nerve-racking job but Russ Garrett, a self-proclaimed farm boy pilot from Nephi, says he tries not to focus on the danger. “[It’s] a lot of action, a lot of moving pieces when we get going,” Garrett said. “Really interesting work.” Garrett flies firefighters into places a firetruck can’t and lifts them into the air within 15 minutes of a call. Greg Wilson, the Helicopter Crew Supervisor, said that while a lot of people want to do the job, not everyone is cut out for it. “It's in the middle of the summer, it's hot, we're in heavy grass and brush,” Wilson said. “We have a lot of gear, but we train for that type of environment.” Wilson’s crew must be physically fit and built for critical thinking with a positive attitude. “This program has a perfect mix of what I call brain and brawn. So you have to be able to excel at both of those,\" Wilson said. “If you're just physically fit, but you're not a problem solver, you're not a critical thinker, then you're not going to succeed in this position.” Wilson has been involved with helitack crews since 1994 and he’s seen it all, from building turned to ashes, to entire hillsides lost, to lives being lost. “Our biggest priority is protecting lives,” Wilson said, “And making sure that we as firefighters get home at the end of the night, and that the public is safe from wildland fire threats.” Until now, Utah has been the only state without its own helitack program. Mike Melton, The Deputy State Fire Management Officer for the aviation program said it costs 1.2 million dollars a year but if they keep a fire from going big, the program saves a lot more money than that. “A fire that would have cost us a couple of million bucks, we keep it from going big,” Melton said. “We think the program pays for itself.” Those on the team with experience say they know how critical timing is to stopping wildfires before they become the big destructive news story of the summer.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "nephi",
+        "sentiment": "none"
+      },
+      {
+        "name": "russ garrett",
+        "sentiment": "none"
+      },
+      {
+        "name": "garrett",
+        "sentiment": "none"
+      },
+      {
+        "name": "wilson",
+        "sentiment": "none"
+      },
+      {
+        "name": "greg wilson",
+        "sentiment": "none"
+      },
+      {
+        "name": "dan evans",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "wildland firefighting helitack program",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "salt lake city",
+        "sentiment": "none"
+      },
+      {
+        "name": "utah",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-24T18:23:36.983+03:00",
+  "updated": "2024-06-24T18:23:36.983+03:00"
+}

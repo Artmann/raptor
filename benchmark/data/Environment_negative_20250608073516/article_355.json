@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "57415a928b36c770ce6b0a199b7d15146e14770a",
+    "url": "http://www.legaldaily.com.cn/index/content/2025-05/08/content_9178759.html",
+    "site_full": "www.legaldaily.com.cn",
+    "site": "legaldaily.com.cn",
+    "site_section": "http://www.legaldaily.com.cn",
+    "site_categories": ["media", "law_government_and_politics", "legal_issues"],
+    "section_title": "法治网",
+    "site_title": "法治网",
+    "title": "严厉打击化工产品冒充食品添加剂",
+    "title_full": "严厉打击化工产品冒充食品添加剂",
+    "published": "2025-05-08T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 10240,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "57415a928b36c770ce6b0a199b7d15146e14770a",
+  "url": "http://www.legaldaily.com.cn/index/content/2025-05/08/content_9178759.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T03:00:00.000+03:00",
+  "title": "严厉打击化工产品冒充食品添加剂",
+  "text": "□ 权威发布\n本报讯 记者万静 国务院食安办近日联合工业和信息化部、农业农村部、国家卫生健康委、海关总署、国家市场监管总局印发《食品添加剂滥用问题综合治理方案》（以下简称《方案》），在全国范围内部署开展食品添加剂滥用问题综合治理行动。\n《方案》聚焦人民群众关心的超范围、超限量滥用食品添加剂等问题，要求全面加强食用农产品生产、食品和食品添加剂进口检验等源头治理，强化食品添加剂生产、销售以及在食品生产加工、餐饮服务环节使用监管，严厉打击化工产品冒充食品添加剂违法行为，开展从农田到餐桌全过程食品添加剂滥用问题综合治理。\n《方案》明确，各级食安办牵头强化部门间风险会商和问题通报机制，定期研判食品添加剂突出风险问题。农业农村部门严厉打击食用农产品生产中使用国家禁止使用的农业投入品等违法行为，工业和信息化部门加强相关化工产品、工业原料生产行业管理，海关部门加大对进口食品添加剂未如实申报等违法行为的打击力度，卫生健康部门研究健全食品添加剂品种动态管理制度。市场监管部门严格食品添加剂生产、销售和使用监管，严格食品生产、餐饮服务环节食品添加剂使用监管，依法查处超范围、超限量使用食品添加剂行为。\n《方案》鼓励社会各界、新闻媒体加强监督，鼓励广大消费者通过全国12315平台和12315热线反映相关违法线索。\n编辑：赵亚铭",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Health", "Environment", "Crime, Law and Justice"],
+  "topics": [
+    "Health->government health care",
+    "Health->medical condition",
+    "Health->health organisation",
+    "Environment->environmental pollution",
+    "Environment->hazardous materials",
+    "Crime, Law and Justice->corruption",
+    "Crime, Law and Justice->law enforcement"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:30:26.464+03:00",
+  "updated": "2025-05-08T00:35:28.000+00:00"
+}

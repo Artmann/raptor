@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "b0fc2bf10460c07b7b026eeaf048aa9b1b869bc1",
+    "url": "https://www.newsbreak.com/whav-509590/4240911166250-state-awards-haverhill-schools-second-round-of-age-3-through-grade-3-literacy-grants",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/whav-509590",
+    "site_categories": ["under_construction"],
+    "section_title": "WHAV&#x27;s Home Page | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "State Awards Haverhill Schools Second Round of Age 3 Through Grade 3 Literacy Grants - NewsBreak",
+    "title_full": "State Awards Haverhill Schools Second Round of Age 3 Through Grade 3 Literacy Grants - NewsBreak",
+    "published": "2025-09-18T06:02:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/3hlm9Z_14qEb6Fx00",
+    "performance_score": 0,
+    "domain_rank": 2819,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b0fc2bf10460c07b7b026eeaf048aa9b1b869bc1",
+  "url": "https://www.newsbreak.com/whav-509590/4240911166250-state-awards-haverhill-schools-second-round-of-age-3-through-grade-3-literacy-grants",
+  "ord_in_thread": 0,
+  "author": "WHAV News Staff",
+  "published": "2025-09-18T06:02:00.000+03:00",
+  "title": "State Awards Haverhill Schools Second Round of Age 3 Through Grade 3 Literacy Grants - NewsBreak",
+  "text": "By WHAV News Staff ,\n2 hours ago Haverhill Public Schools is one of 15 recipients of state grants to continue its participation in the Partnership for Reading Success—Massachusetts, or PRISM, I program. The $330,858 grant awarded Tuesday enables Haverhill to implement, what the state calls, “high-quality, evidence-based reading instruction through literacy materials, technical support, coaching and professional development.” Read full article\nRead in NewsBreak",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->students",
+    "Education->educational grading",
+    "Education->primary education",
+    "Social Issue->children",
+    "Social Issue->social services",
+    "Human Interest->award and prize"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Haverhill Public Schools",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:21:22.226+03:00",
+  "updated": "2025-09-18T08:25:06.000+03:00"
+}

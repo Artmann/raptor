@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "bede962f73a7150e407fab245b622fd2be85883f",
+    "url": "https://www.cbsnews.com/newyork/video/harvey-weinsteins-attorneys-he-did-not-get-a-fair-trial",
+    "site_full": "www.cbsnews.com",
+    "site": "cbsnews.com",
+    "site_section": "https://www.cbsnews.com/newyork/book-club/",
+    "site_categories": ["media", "television", "entertainment", "top_news"],
+    "section_title": "Book Club - CBS New York",
+    "title": "Harvey Weinstein's attorneys: He did not get a fair trial - CBS New York",
+    "title_full": "Harvey Weinstein's attorneys: He did not get a fair trial - CBS New York",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/25/e5476d96-358d-46b0-8f61-370cc0c55935/thumbnail/1200x630/6fb2bc6d6ebe5629132b05baa348f9d7/1395a630d9587f9854e059b68f86a482.jpg?v=63c131a0051f3823d92b0d1dffb5e0e4",
+    "performance_score": 0,
+    "domain_rank": 188,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bede962f73a7150e407fab245b622fd2be85883f",
+  "url": "https://www.cbsnews.com/newyork/video/harvey-weinsteins-attorneys-he-did-not-get-a-fair-trial",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "CBS New York",
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "Harvey Weinstein's attorneys: He did not get a fair trial - CBS New York",
+  "text": "Latest U.S. World Politics Entertainment HealthWatch MoneyWatch Investigations Crime Space Sports Local News Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Shows 48 Hours 60 Minutes America Decides CBS Evening News CBS Mornings CBS News Eye on America CBS News Mornings CBS Reports CBS Saturday Morning The Daily Report The Dish Face the Nation Here Comes the Sun Person to Person Sunday Morning The Takeout The Uplift Weekender CBS News Investigates Photos Podcasts In Depth Newsletters Download Our App CBS News Team Executive Team Paramount Shop Paramount+ Join Our Talent Community RSS Feeds A Moment With... Innovators & Disruptors New York News All News NY News NJ News CT News LI News U.S. World Health Business Entertainment Politics Tech CBS+ Weather First Alert Weather Radars & Maps CBS2 Weather Map CBS2 Weather Watchers First Alert Weather 101 Share Photos & Videos Sports All Sports Giants Yankees Knicks Rangers Islanders Jets Mets Nets Devils CBS Sports HQ Odds Video New York Shows Latest News CBS New York Investigates Book Club with Mary Calvi Class Act with Chris Wragge #BetterTogether Breaking The Stigma The Lot Sandy The 5:33 | Legacy of the LIRR Massacre On The Dot with David Schechter: Wildfires & Climate Change Climate Change: Protecting our Planet Station Info WCBS-TV WLNY-TV Contact Us Advertise Contests & Promotions Galleries Links & Numbers Download Our App Watch CBS News Harvey Weinstein's attorneys: He did not get a fair trial Attorneys for Harvey Weinstein said Thursday's decision to overturn his conviction shows their client didn't get a fair trial. They held a news conference, calling it \"a great day for America\" because the ruling shows no-one is above - or below - the law. View CBS News In CBS News App Open Chrome Safari Continue Be the first to know Get browser notifications for breaking news, live events, and exclusive reporting. Not Now Turn On",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "harvey weinstein",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cbs new york latest u.s. world politics entertainment healthwatch",
+        "sentiment": "negative"
+      },
+      {
+        "name": "cbs news team executive team paramount shop paramount",
+        "sentiment": "none"
+      },
+      {
+        "name": "uplift weekender cbs news",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "baltimore bay area",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:11:42.536+03:00",
+  "updated": "2024-04-26T00:11:42.536+03:00"
+}

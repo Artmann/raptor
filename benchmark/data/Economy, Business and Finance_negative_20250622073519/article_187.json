@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "08addf9477bf8b5013991d81cb6dda19d2cbdb24",
+    "url": "https://news.cnyes.com/news/id/6029132",
+    "site_full": "news.cnyes.com",
+    "site": "cnyes.com",
+    "site_section": "https://news.cnyes.com/rss/v1/news/category/headline",
+    "site_categories": ["financial_news", "finance"],
+    "section_title": "Anue鉅亨",
+    "site_title": null,
+    "title": "盤中速報 - 電機機械類股表現疲軟，跌幅2.05%，總成交額65.32億",
+    "title_full": "盤中速報 - 電機機械類股表現疲軟，跌幅2.05%，總成交額65.32億",
+    "published": "2025-06-19T04:50:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://news.cnyes.com/assets/images/og-image.png",
+    "performance_score": 0,
+    "domain_rank": 27425,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "08addf9477bf8b5013991d81cb6dda19d2cbdb24",
+  "url": "https://news.cnyes.com/news/id/6029132",
+  "ord_in_thread": 0,
+  "author": "鉅亨網新聞中心",
+  "published": "2025-06-19T04:50:00.000+03:00",
+  "title": "盤中速報 - 電機機械類股表現疲軟，跌幅2.05%，總成交額65.32億",
+  "text": "盤中速報 - 電機機械類股表現疲軟，跌幅2.05%，總成交額65.32億\n鉅亨網新聞中心\n台股今日電機機械類股表現疲軟，19日09:50相關指數下跌2.05%，總成交額65.32億元，大盤占比7.8%。\n該產業上漲家數5、下跌家數38、平盤家數4。領跌個股元翎(4564-TW)19日09:50股價下跌0.7元，報16.4元，跌幅4.09%。\n電機機械近5日上漲2.42%，集中市場加權指數下跌0.5%，產業指數漲幅表現優於大盤。\n產業指數績效\n漲跌幅 | 電機機械 | 集中市場\n|\n---|\n- 掌握全球財經資訊\n點我下載APP\n鉅亨贏指標\n了解更多",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Health", "Social Issue"],
+  "topics": [
+    "Economy, Business and Finance->market and exchange",
+    "Economy, Business and Finance->business reporting and performance",
+    "Economy, Business and Finance->financial and economic news",
+    "Health->health care approach",
+    "Health->medical condition",
+    "Health->health organisation",
+    "Social Issue->social condition",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:37:22.305+03:00",
+  "updated": "2025-06-19T04:41:57.000+00:00"
+}

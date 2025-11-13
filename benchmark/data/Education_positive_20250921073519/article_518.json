@@ -1,0 +1,131 @@
+{
+  "thread": {
+    "uuid": "c28f49ef2e9e2f206292ad550081b25549fcfc2b",
+    "url": "https://www.newscenter1.tv/sports/college/bhsu-sophomore-jayda-reinert-notches-another-win-in-the-barrel-racing",
+    "site_full": "www.newscenter1.tv",
+    "site": "newscenter1.tv",
+    "site_section": "https://www.newscenter1.tv",
+    "site_categories": ["media"],
+    "section_title": "Homepage - Rapid City South Dakota news, weather, sports | NewsCenter1",
+    "site_title": "Homepage - Rapid City South Dakota news, weather, sports | NewsCenter1",
+    "title": "BHSU sophomore Jayda Reinert notches another win in the barrel racing",
+    "title_full": "BHSU sophomore Jayda Reinert notches another win in the barrel racing",
+    "published": "2025-09-18T08:24:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.forumcomm.com/dims4/default/1e2c396/2147483647/strip/true/crop/1920x1080+0+0/resize/1895x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F43%2F81%2F0303ec4b4cbaba095674c8616341%2Fjayda-reinert-bhsu-rodeo.jpg",
+    "performance_score": 0,
+    "domain_rank": 279470,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c28f49ef2e9e2f206292ad550081b25549fcfc2b",
+  "url": "https://www.newscenter1.tv/sports/college/bhsu-sophomore-jayda-reinert-notches-another-win-in-the-barrel-racing",
+  "ord_in_thread": 0,
+  "author": "Justin Wickersham",
+  "published": "2025-09-18T08:24:00.000+03:00",
+  "title": "BHSU sophomore Jayda Reinert notches another win in the barrel racing",
+  "text": "BHSU sophomore Jayda Reinert notches another win in the barrel racing\nJayda Reinert recently won her second consecutive barrel racing title at a rodeo in Nebraska.\nNORTH PLATTE, NE - Black Hills State University sophomore Jayda Reinert recently earned her second consecutive barrel racing title this season.\nReinert, who's from Wall, South Dakota, won the title last weekend at the Mid-Plains Community College Stampede in North Platte, Nebraska.\nADVERTISEMENT\nShe clocked a time of 18.05 seconds.\nShe helped lead the Lady Yellow Jackets to a second place finish in the team standings.\nEarlier this month, she won the barrel racing title at the Falcon Frontier Days Rodeo in River Falls, Wisconsin.\nThe Black Hill State rodeo team returns to action on Sept. 26-27 at the Blue Hawk Stampede in Dickinson, North Dakota.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Education"],
+  "topics": [
+    "Sport->sport achievement",
+    "Sport->rodeo",
+    "Sport->regular competition",
+    "Human Interest->record and achievement",
+    "Education->college and university",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jayda Reinert",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "NE - Black Hills State University",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Black Hill State",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": [
+        "North Spearfish",
+        "Center",
+        "Bath",
+        "Java",
+        "Claire City",
+        "Deadwood",
+        "Ferney",
+        "Interior",
+        "Bijou Hills",
+        "Rapid City",
+        "Artas",
+        "Nunda",
+        "Hill City",
+        "Keystone",
+        "Bath Corner",
+        "Central City",
+        "Garden City",
+        "Custer",
+        "Hillsview",
+        "Spearfish",
+        "Provo",
+        "Lake City",
+        "Lane",
+        "Northville",
+        "Rapid Valley"
+      ],
+      "state": ["South Dakota", "North Dakota"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:29:00.939+03:00",
+  "updated": "2025-09-18T08:31:39.000+03:00"
+}

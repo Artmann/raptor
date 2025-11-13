@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "bd10f698b4df25dfcf278fdda34e03eb59ebacaf",
+    "url": "https://www.newsbreak.com/virginia-beach-va/3279920738906-virginia-beach-looks-to-address-roadway-safety-as-another-pedestrian-is-hit",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/wtkr-news-3-563675",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "WTKR News 3 | NewsBreak",
+    "title": "Virginia Beach looks to address roadway safety as another pedestrian is hit",
+    "title_full": "Virginia Beach looks to address roadway safety as another pedestrian is hit",
+    "published": "2023-12-29T00:35:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/3HEGqR_0qSvnvtu00?type=thumbnail_1600x1200",
+    "performance_score": 0,
+    "domain_rank": 3324,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bd10f698b4df25dfcf278fdda34e03eb59ebacaf",
+  "url": "https://www.newsbreak.com/virginia-beach-va/3279920738906-virginia-beach-looks-to-address-roadway-safety-as-another-pedestrian-is-hit",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NewsBreak Original",
+  "published": "2023-12-29T00:35:00.000+02:00",
+  "title": "Virginia Beach looks to address roadway safety as another pedestrian is hit",
+  "text": "A 77-year old woman was still in critical condition Thursday evening after being hit by a car on Wednesday night near Town Center. A spokesperson for the Virginia Beach Police Department said she was checking to provide additional updates on the woman, but News 3 has not heard back as of Thursday afternoon. The woman was in a crosswalk at the intersection of Virginia Beach Boulevard and Independence Boulevard, but did not have the right-of-way, the spokesperson said. Just up the road earlier this month, a pedestrian was hit and killed on Virginia Beach Boulevard. The city is working on its local road safety action plan, holding another meeting with the community in February to get more feedback. In interactive comments online, people are weighing in on the traffic in the area, including one person who said there's no efficient way to cross Independence Boulevard outside of the Virginia Beach Boulevard. In addition to the action plan, the city is getting nearly $15 million from the federal government to build a three-mile path from the border of Norfolk to Town Center along what was once land reserved for the light rail. News 3 spoke with people in the area about traffic. \"Pedestrian safety is something they should pay more attention to,\" said one person. \"As long as you follow the signs, the traffic will follow you fine,\" said another. Stay with News 3 as more updates about the crash continue to be made available. More stories from Virginia Beach",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Human Interest", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "virginia beach police department",
+        "sentiment": "none"
+      },
+      {
+        "name": "news",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "virginia beach",
+        "sentiment": "none"
+      },
+      {
+        "name": "town center",
+        "sentiment": "none"
+      },
+      {
+        "name": "virginia beach boulevard",
+        "sentiment": "none"
+      },
+      {
+        "name": "independence boulevard",
+        "sentiment": "none"
+      },
+      {
+        "name": "norfolk",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:02:12.372+02:00",
+  "updated": "2023-12-29T01:02:12.372+02:00"
+}

@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "91919be4ab6c131447b0f8fde52ccebb6d097d25",
+    "url": "https://news.rambler.ru/moscow_city/55472503-sobyanin-programma-renovatsii-povyshaet-energoeffektivnost-domov-pochti-v-dva-raza/",
+    "site_full": "news.rambler.ru",
+    "site": "rambler.ru",
+    "site_section": "https://news.rambler.ru/rss/moscow_city/latest/?limit=100",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news_ru",
+      "top_news_ua",
+      "top_news_il",
+      "top_news"
+    ],
+    "section_title": "Последние новости — Рамблер/новости",
+    "site_title": "Рамблер/новости, почта и поиск — медийный портал: новости России и мира, электронная почта, погода, развлекательные и коммуникационные сервисы. Новости сегодня и сейчас",
+    "title": "Собянин: Программа реновации повышает энергоэффективность домов почти в два раза - Рамблер/новости",
+    "title_full": "Собянин: Программа реновации повышает энергоэффективность домов почти в два раза - Рамблер/новости",
+    "published": "2025-10-16T16:18:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://img-renderer.rambler.ru/api/generate/media/?clusterId=55472503&amp;format=png",
+    "performance_score": 0,
+    "domain_rank": 355,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "91919be4ab6c131447b0f8fde52ccebb6d097d25",
+  "url": "https://news.rambler.ru/moscow_city/55472503-sobyanin-programma-renovatsii-povyshaet-energoeffektivnost-domov-pochti-v-dva-raza/",
+  "ord_in_thread": 0,
+  "author": "Агентство «Москва»",
+  "published": "2025-10-16T16:18:00.000+03:00",
+  "title": "Собянин: Программа реновации повышает энергоэффективность домов почти в два раза - Рамблер/новости",
+  "text": "Программа реновации увеличивает энергоэффективность домов почти в два раза, а цифровые технологии обеспечивают рост освещенности города в два раза при снижении потребления электроэнергии на 30%. Об этом сообщил мэр столицы Сергей Собянин в ходе участия в пленарном заседании международного форума «Российская энергетическая неделя» (РЭН). «Мы работаем над тем, чтобы энергоэффективность городского хозяйства повышалась. Та же программа реновации увеличивает энергоэффективность домов почти в два раза. Новые технологии, цифровые технологии, обеспечивают рост освещенности города в два раза при снижении потребления электроэнергии на 30%. И так далее. И, конечно, с этим надо дальше активно работать», – сказал Собянин .\nПо его словам, формируется новая стратегия потребления энергоресурсов.\n«Это огромные вложения в сетевой комплекс, в энергетику, непосредственно, генерацию Москвы . Это строительство новых атомных блоков, которые будут работать на Москву . Это новые блоки гидростанций, тепловые станции. <…> Это гигантский, громадный комплекс, который будет обеспечивать надежность и будущее развитие Московского региона», – добавил Собянин .\nОн отметил, что в настоящее время цифровая экономика потребляет больше всей тяжелой промышленности.\n«Все думали, что искусственный интеллект нас спасет, цифровая экономика нам даст еще больше эффективности, меньше потребления. Получилось ровно наоборот. И это только начало. Коллеги уже сказали, что у нас цифровая экономика сегодня по объемам <…> потребляет больше, чем вся тяжелая промышленность. И это только начало. У нас три ЦОД (дата-центр, центр обработки данных – прим. Агентства «Москва»), которые заявились к размещению, равны одной крупнейшей ТЭЦ Москвы «Мосэнерго» , – сказал Собянин .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "positive",
+  "categories": ["Politics", "Environment"],
+  "topics": ["Politics->government policy", "Environment->energy saving"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news_ru",
+      "top_news_ua",
+      "top_news_il",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:28:00.312+03:00",
+  "updated": "2025-10-17T17:17:23.000+03:00"
+}

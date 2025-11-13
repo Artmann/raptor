@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "9c440aee90e954bdac4364736849538f2f4915cf",
+    "url": "https://news.sky.com/story/uk-weather-tornado-hits-greater-manchester-and-thousands-still-without-power-in-scotland-in-wake-of-storm-gerrit-13038743",
+    "site_full": "news.sky.com",
+    "site": "sky.com",
+    "site_section": "https://feeds.skynews.com/feeds/rss/home.xml",
+    "site_categories": [
+      "politics",
+      "media",
+      "financial_news",
+      "law_government_and_politics",
+      "finance"
+    ],
+    "section_title": "The Latest News from the UK and Around the World | Sky News",
+    "title": "'Absolute disaster': Tornado leaves trail of destruction in wake of Storm Gerrit",
+    "title_full": "'Absolute disaster': Tornado leaves trail of destruction in wake of Storm Gerrit",
+    "published": "2023-12-28T18:51:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "https://e3.365dm.com/23/12/1600x900/skynews-stalybridge-storm-gerrit_6405935.jpg?20231228114501",
+    "performance_score": 0,
+    "domain_rank": 576,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9c440aee90e954bdac4364736849538f2f4915cf",
+  "url": "https://news.sky.com/story/uk-weather-tornado-hits-greater-manchester-and-thousands-still-without-power-in-scotland-in-wake-of-storm-gerrit-13038743",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Sky UK Limited",
+  "published": "2023-12-28T18:51:00.000+02:00",
+  "title": "'Absolute disaster': Tornado leaves trail of destruction in wake of Storm Gerrit",
+  "text": "UK weather: Tornado hits Greater Manchester and thousands still without power in Scotland in wake of Storm Gerrit Roads were impassable overnight in Scotland after heavy snow from Storm Gerrit, while several train services remained cancelled into Thursday evening after strong winds. Thursday 28 December 2023 22:07, UK Homes have reported damage after an \"intense\" tornado struck an area of Greater Manchester last night. The localised whirlwind came in the wake of Storm Gerrit, which wreaked havoc in [Scotland](https://news.sky.com/topic/scotland-5866) and northern England, [leaving thousands without power and post-Christmas travel plans in chaos](https://news.sky.com/story/uk-weather-post-christmas-travel-misery-as-roads-and-railways-look-to-recover-from-storm-gerrit-13038476). Pictures from Stalybridge show trees on top of cars and houses destroyed following what has been provisionally assessed as a T5 tornado. 'Absolute disaster' Tornadoes are assessed on a scale from 0 to 10, with five being considered \"intense\". Around 100 properties were evacuated, with residents talking of \"absolute disaster\" in the village of Carrbrook. The Liberal Democrats have called on [Rishi Sunak](https://news.sky.com/topic/rishi-sunak-8527) to convene a COBRA meeting in the aftermath of the tornado. A major incident was declared, but a local council leader said the area is now in a \"recovery phase\". Ged Cooney, executive leader of Tameside Council, said: \"Thankfully there are no casualties from the incident but there are of course local residents who are devastated by the damage caused to their homes.\" [Get the Sky News weather forecast where you are](https://news.sky.com/weather) Scotland still suffering power cuts In Scotland, more than 3,000 homes and businesses are still without power due to damage caused by Storm Gerrit. Scottish and Southern Electricity Networks (SSEN) warned some people could still be without energy into Friday, as workers battle coastal winds of 80mph to reconnect properties. More than 40,000 customers have seen their connections restored, however. Travel networks have also been affected, with drivers [left stranded overnight on the A9](https://news.sky.com/story/storm-gerrit-leaves-drivers-stranded-in-snow-in-major-incident-in-scotland-as-thousands-without-power-13038292) in the Highlands following heavy snowfall and several other roads still closed. Train services between Cupar and Dundee and Kilmarnock and Dumfries also remain down. [ ](https://news.sky.com/download-app) Be the first to get Breaking News Install the Sky News app for free There are a number of flood warnings in place in across England, indicating flooding is likely, as well as many more lesser flood alerts. There are also delays on some cross-Channel ferries due to the strong winds, but passengers are encouraged to check in as normal.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Weather", "Disaster and Accident", "Health"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "rishi sunak",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "greater manchester",
+        "sentiment": "none"
+      },
+      {
+        "name": "uk",
+        "sentiment": "none"
+      },
+      {
+        "name": "scotland",
+        "sentiment": "none"
+      },
+      {
+        "name": "uk homes",
+        "sentiment": "none"
+      },
+      {
+        "name": "england",
+        "sentiment": "none"
+      },
+      {
+        "name": "stalybridge",
+        "sentiment": "none"
+      },
+      {
+        "name": "carrbrook",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:10:41.687+02:00",
+  "updated": "2023-12-29T00:30:47.749+02:00"
+}

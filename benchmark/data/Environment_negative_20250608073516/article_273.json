@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "345b2f7e6c3a81954e9125f2393def5282d09e4c",
+    "url": "https://www.straitstimes.com/world/europe/perrier-ordered-to-remove-water-filters",
+    "site_full": "www.straitstimes.com",
+    "site": "straitstimes.com",
+    "site_section": "https://news.google.com/search?q=which%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [
+      "media",
+      "health",
+      "cold_and_flu",
+      "top_news_sg",
+      "top_news_ph",
+      "top_news_my",
+      "top_news"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": "The Straits Times - Breaking news, Singapore news, Asia and world news &amp; multimedia",
+    "title": "Perrier ordered to remove water filters",
+    "title_full": "Perrier ordered to remove water filters",
+    "published": "2025-05-08T02:02:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "SG",
+    "main_image": "https://cassette.sphdigital.com.sg/image/straitstimes/9a2e6d195d4d95b82f040ea17f7222b47f9e718ae6d8f5bd5bf29f6bb192bde8",
+    "performance_score": 0,
+    "domain_rank": 1253,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "345b2f7e6c3a81954e9125f2393def5282d09e4c",
+  "url": "https://www.straitstimes.com/world/europe/perrier-ordered-to-remove-water-filters",
+  "ord_in_thread": 0,
+  "author": "The Straits Times",
+  "published": "2025-05-08T02:02:00.000+03:00",
+  "title": "Perrier ordered to remove water filters",
+  "text": "VERGEZE, France - French authorities ordered Nestle on May 7 to stop filtering its Perrier and held back on allowing the under-pressure brand from using the description ‘natural mineral water’.\nThe government prefect for the southern Gard region, where Perrier is extracted and bottled, said however the product was not a risk to consumers.\nBut having to remove the filtering system within two months was a new blow for its owner Nestle Waters, which has said that at the peak of its popularity sold nearly one billion bottles a year in 140 countries around the world.\nThe Swiss food and drinks conglomerate has been under pressure for some time over Perrier and other brands as EU regulations strictly limit what treatments are allowed for any product marketed as natural mineral water.\nNestle Waters said in a statement that it would comply with the order to stop microfiltering and that was “determined to seek solutions” that would allow the prefect to renew authorisation to use the ‘natural mineral water’ description.\nAuthorities said a decision on whether Perrier can be considered ‘natural mineral water’ would be made by Aug 7.\nFollowing complaints by consumer groups, a French magistrate in 2025 launched a fraud inquiry into Nestle and rival bottler Sources Alma over suspicions of illegal processing of mineral waters that command a premium price.\nIn 2024, Nestle Waters admitted using banned filters and ultra-violet treatment on mineral waters, which must be processed naturally by law.\nIt paid a €2 million (S$2.93 million) fine to avoid legal action over the use of illegal water sources and filtering.\nIt said at the time though that the replacement filters were approved by the government and that its water is “pure”.\nHowever, regional health authority experts judged the micro filtering system in place did not comply with regulations, prompting May 7’s order.\nThe possibility that the government may have turned a blind eye to illegal filtering practices has been under investigation by a French senate committee following media reports that the prime minister’s office and president’s office had in 2023 recommended letting Nestle carry on with the micro filtering despite official warnings.\nFrance’s former director-general of health, Mr Jerome Salomon, had called for the suspension of Nestle’s operations permit at its sites that produce Vittel and other brands in the Vosges region of eastern France and Perrier at Vergeze in the southern Gard region.\nPresident Emmanuel Macron has denied giving in to lobbying by the Swiss food giant.\n“One illegal treatment has been replaced by another. The government, which had approved Nestle Waters’s transformation plan, is heavily at fault,” said socialist Senator Alexandre Ouizille, who is leading the Senate investigation which is due to be published on May 19.\nFoodwatch, one of the consumer groups that had spoken out publicly about the practices of bottlers, said on May 7 “this decision goes in the right direction” and expressed hope that the investigation underway will “shed complete light on the actions committed by the multinational and its executives”. AFP\nJoin ST's Telegram channel and get the latest breaking news delivered to you.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Economy, Business and Finance"],
+  "topics": [
+    "Environment->water",
+    "Environment->sustainability",
+    "Environment->environmental pollution",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->financial and economic news"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://t.me/TheStraitsTimes",
+    "https://www.t.me/TheStraitsTimes"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Perrier",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Nestle Waters",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:01:13.499+03:00",
+  "updated": "2025-05-08T00:05:31.000+00:00"
+}

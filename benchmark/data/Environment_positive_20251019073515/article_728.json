@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "07d0c928db65311193acc37ec8ade32286950f52",
+    "url": "http://jl.news.cn/20251016/9e4d6507a8bc4a21b3526482fa5ee400/c.html",
+    "site_full": "jl.news.cn",
+    "site": "news.cn",
+    "site_section": "http://jl.news.cn",
+    "site_categories": [],
+    "section_title": "新华网吉林-吉林最具影响力的网络媒体",
+    "site_title": "新华网吉林-吉林最具影响力的网络媒体",
+    "title": "吉林油田绿色发电量突破20亿千瓦时-新华网",
+    "title_full": "吉林油田绿色发电量突破20亿千瓦时-新华网",
+    "published": "2025-10-16T09:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3291,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "07d0c928db65311193acc37ec8ade32286950f52",
+  "url": "http://jl.news.cn/20251016/9e4d6507a8bc4a21b3526482fa5ee400/c.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T09:30:00.000+03:00",
+  "title": "吉林油田绿色发电量突破20亿千瓦时-新华网",
+  "text": "10月13日，吉林油田绿色发电量突破20亿千瓦时，相当于减少标准煤消耗60万吨，减排二氧化碳155万吨。这标志着从“用电大户”到“发电先锋”吉林油田已跑出了绿色低碳转型发展加速度。\n  近年来，吉林油田在“双碳”目标引领下，将绿色发展理念深度融入生产经营各环节，坚持“内外兼修”发展路径，一手抓对内清洁替代 一手抓外供创效，从而创造了新能源业务与传统油气生产相融相促共发展的良好局面。截至目前，吉林油田新能源累计并网装机已达76万千瓦。\n  “内修”，实现清洁能源替代与节能降耗“双收”\n  吉林油田聚焦融合发展所需，立足自身资源禀赋，充分挖掘人员、设备、技术等潜力，通过在生产作业区、闲置土地上建设光伏电站和风力发电机组等实现风光发电，并将所发绿电直接用于油田自身的抽油机、处理站等生产设施，不断拓展自发自用项目，稳步提高自用绿电占比，显著降低生产用电成本的同时，也大大减少了生产过程中的碳排放，实现了低碳生产。截至目前，吉林油田自消纳发电量11亿千瓦时，全油田生产用电绿电占比超过了33%，累计节约用电成本3.5亿元。\n  “外拓”，实现绿电外送与社会供能“双赢”\n  在自消纳基础上，吉林油田全力“跨界”创效。吉林油田昂格55万千瓦风电项目共包含88台风机，施工区域近200平方公里。该项目投产运行一年来，开足马力、满发多送，全力将绿色电力输送至国家电网，为吉林省乃至东北地区的经济社会发展注入了清洁动能。截至目前，昂格55万千瓦风电项目已平稳运行了380天，实现绿电规模外送9亿千瓦时，净利润超0.6亿元。\n  据吉林油田新能源事业部负责人介绍，下一步，吉林油田将继续深化“内外兼修”战略，“技术+管理”双轮驱动，不断扩大绿电建设应用规模，加快产业协同步伐，奋力绘就绿色发展新图景。\n【纠错】",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Environment", "Economy, Business and Finance"],
+  "topics": [
+    "Environment->energy saving",
+    "Environment->energy resources",
+    "Environment->sustainability",
+    "Economy, Business and Finance->energy and resource"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:57:42.365+03:00",
+  "updated": "2025-10-16T16:12:46.000+03:00"
+}

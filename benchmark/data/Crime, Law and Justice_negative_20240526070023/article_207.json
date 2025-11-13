@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "49ca1d59a0733f86d832d4a51a9ae8e98d81342c",
+    "url": "https://www.abc12.com/news/crime/pinconning-man-accused-of-pointing-gun-at-ludington-hotel-guests/article_d24a5c24-0337-11ef-b34d-ab4c2bb154a4.html",
+    "site_full": "www.abc12.com",
+    "site": "abc12.com",
+    "site_section": "http://www.abc12.com",
+    "site_categories": ["media"],
+    "section_title": "WJRT ABC12 | Flint, MI News, Weather and Sports",
+    "title": "Pinconning man accused of pointing gun at Ludington hotel guests | Crime | abc12.com",
+    "title_full": "Pinconning man accused of pointing gun at Ludington hotel guests | Crime | abc12.com",
+    "published": "2024-04-25T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/abc12.com/content/tncms/assets/v3/editorial/d/4b/d4bfc996-0335-11ef-ba19-13f70def56cb/662aa807e69fb.image.png?crop=1210%2C635%2C0%2C22&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 25033,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "49ca1d59a0733f86d832d4a51a9ae8e98d81342c",
+  "url": "https://www.abc12.com/news/crime/pinconning-man-accused-of-pointing-gun-at-ludington-hotel-guests/article_d24a5c24-0337-11ef-b34d-ab4c2bb154a4.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Ryan Jeltema",
+  "published": "2024-04-25T08:00:00.000+03:00",
+  "title": "Pinconning man accused of pointing gun at Ludington hotel guests | Crime | abc12.com",
+  "text": "LUDINGTON, Mich. (WJRT) - A Pinconning man is accused of threatening guests at a hotel on the west side of the state, leading to a partial evacuation and felony charges. The Mason County Sheriff's Office says deputies and Michigan State Police troopers responded the Comfort Inn on U.S. 10 in Ludington around 6:25 p.m. Wednesday to investigate a man who pointed a gun at two other guests. Investigators determined the suspect, 40-year-old Daniel James Bendtsen, was accused of making the threat and was armed with a gun. Police say they reviewed surveillance video from the hotel to confirm the allegations. Authorities determined where Bendtsen was staying in the hotel and evacuated that part of the facility before they established communication. After talking with police, Bendtsen surrendered around 9 p.m. and arrested. He was arraigned Thursday on two counts of assault with a dangerous weapon and four weapons charges. He remained in custody Thursday at the Mason County Jail on $100,000 bond while awaiting further court proceedings.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "daniel james bendtsen",
+        "sentiment": "none"
+      },
+      {
+        "name": "bendtsen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "mason county sheriff's office",
+        "sentiment": "none"
+      },
+      {
+        "name": "michigan state police",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "mich.",
+        "sentiment": "none"
+      },
+      {
+        "name": "ludington",
+        "sentiment": "none"
+      },
+      {
+        "name": "ludington",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "mason county jail",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:08:16.210+03:00",
+  "updated": "2024-04-26T00:08:16.210+03:00"
+}

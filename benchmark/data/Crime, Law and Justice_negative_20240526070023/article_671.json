@@ -1,0 +1,124 @@
+{
+  "thread": {
+    "uuid": "ab6f065b17b46517f9b93d408dd9e60eabaeee90",
+    "url": "https://www.wickedlocal.com/story/news/state/2024/04/25/massachusetts-seeks-to-regulate-robotic-devices/73455638007",
+    "site_full": "www.wickedlocal.com",
+    "site": "wickedlocal.com",
+    "site_section": "https://wickedlocal.com",
+    "site_categories": ["media"],
+    "section_title": "Wicked Local: Local News in Boston, MA",
+    "title": "Robots with weapons? Bill would make that illegal in Massachusetts",
+    "title_full": "Robots with weapons? Bill would make that illegal in Massachusetts",
+    "published": "2024-04-26T00:13:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.gannett-cdn.com/authoring/authoring-images/2024/04/25/NTEG/73457870007-img-7693.JPG?auto=webp&crop=2826,1591,x0,y450&format=pjpg&width=1200",
+    "performance_score": 0,
+    "domain_rank": 6843,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ab6f065b17b46517f9b93d408dd9e60eabaeee90",
+  "url": "https://www.wickedlocal.com/story/news/state/2024/04/25/massachusetts-seeks-to-regulate-robotic-devices/73455638007",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": ", Wicked Local",
+  "published": "2024-04-26T00:13:00.000+03:00",
+  "title": "Robots with weapons? Bill would make that illegal in Massachusetts",
+  "text": "BOSTON — It was a special \"dog\" that captured the attention of legislators, state workers and even tourists at the Massachusetts State House on Thursday. It responded to commands: Stay! Go! and even Down! But the commands were sent electronically through a joystick and the dog, dubbed Spot, was robotic. A flame-throwing robotic dog, like the Thermonator , for sale to the general public for $9,500, it is not. The robot dog, created by Boston Dynamics , was at the State House to encourage legislators to support a bill that would prohibit the weaponization of robots. Sponsored by Sen. Michael Moore, D-Millbury and Rep. Lindsay Sabadosa, D-Northampton, the bill advocates for the responsible, ethical and safe use of advanced robotic technology. Among other things, the bill would make it illegal for anyone, including a law enforcement agent, to manufacture, modify, sell, transfer or operate a robotic device or drone that is equipped with a weapon, or to use such a device to physically restrain a person. \"We have an ethics policy,\" said David Robert, director of human/robot interaction for Boston Dynamics, the maker of Spot. \"We are creating robots to be friendly and useful, not harm or hurt people or animals.\" The Boston Dynamics device has been sold in 40 different countries. Its primary use is to replace humans in tedious or dangerous tasks, such as disposing of explosive or suspected explosive devices. “We can send in the robot to places that are too dangerous for humans,” Robert said. A Canadian power plant purchased a Spot to throw a switch that would arc every time it was engaged. Workers were too uncomfortable to accomplish the task, so the company called in Spot. “Spot can help keep humans out of harm’s way.” The New York City Fire Department has one, dubbed Bergh, after the founder of the ASPCA, and it is painted to look like a Dalmatian. The device is teachable, Robert said, explaining that Spot can be taught, or programmed, to perform tasks without human supervision. It can record a route or a sequence of events and perform those without supervision as well. “The robot is doing the work automatically but with the ability to have a human override its program,” Robert said. Transparency is part of the company’s philosophy. The device is not encased in a furry substance, does not have a head or a tail, and doesn’t even really look like a dog. That’s on purpose, Robert said, explaining that the company’s aim is to create public trust with robotic devices in anticipation of them being in people’s homes. Hannah Rossi, a field application specialist, was at the controls Tuesday, demonstrating Spot’s moves. The Spot at the State House was fitted with a retractable lever that functions similar to a hand. Other devices that can be attached including mapping tools, cameras and at the shop employees have created a margarita mixer attachment. “That’s the fun part,” Robert said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Politics", "Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://malegislature.gov/Bills/193/S2483)that",
+    "https://www.usatoday.com/story/news/nation/2024/04/24/thermonator-flame-throwing-robot-dog/73446898007/),",
+    "https://bostondynamics.com/products/spot/),",
+    "https://www.malegislature.gov/Bills/193/S2483)that",
+    "https://usatoday.com/story/news/nation/2024/04/24/thermonator-flame-throwing-robot-dog/73446898007/),",
+    "https://www.bostondynamics.com/products/spot/),"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "bill",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "lindsay sabadosa",
+        "sentiment": "none"
+      },
+      {
+        "name": "michael moore",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "d",
+        "sentiment": "none"
+      },
+      {
+        "name": "boston dynamics",
+        "sentiment": "none"
+      },
+      {
+        "name": "state house",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "massachusetts boston",
+        "sentiment": "none"
+      },
+      {
+        "name": "massachusetts",
+        "sentiment": "none"
+      },
+      {
+        "name": "massachusetts state house",
+        "sentiment": "none"
+      },
+      {
+        "name": "millbury",
+        "sentiment": "none"
+      },
+      {
+        "name": "northampton",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:30:19.706+03:00",
+  "updated": "2024-04-26T00:36:33.941+03:00"
+}

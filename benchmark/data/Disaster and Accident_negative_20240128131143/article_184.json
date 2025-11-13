@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "acd56ee7771f58712159dcfc34e8dc49493a6c01",
+    "url": "https://www.cidrap.umn.edu/antimicrobial-stewardship/study-implicates-hospital-sinks-important-source-resistant-pathogen",
+    "site_full": "www.cidrap.umn.edu",
+    "site": "umn.edu",
+    "site_section": "https://www.cidrap.umn.edu",
+    "site_categories": ["media", "health", "cold_and_flu"],
+    "section_title": "Homepage | CIDRAP",
+    "title": "Study implicates hospital sinks as important source of resistant pathogen transmission | CIDRAP",
+    "title_full": "Study implicates hospital sinks as important source of resistant pathogen transmission | CIDRAP",
+    "published": "2023-12-28T22:29:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.cidrap.umn.edu/themes/custom/cidrap_theme/images/cidrap-og-image.jpg",
+    "performance_score": 0,
+    "domain_rank": 340,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "acd56ee7771f58712159dcfc34e8dc49493a6c01",
+  "url": "https://www.cidrap.umn.edu/antimicrobial-stewardship/study-implicates-hospital-sinks-important-source-resistant-pathogen",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Chris Dall; MA",
+  "published": "2023-12-28T22:29:00.000+02:00",
+  "title": "Study implicates hospital sinks as important source of resistant pathogen transmission | CIDRAP",
+  "text": "Hospital sinks contaminated with carbapenemase-producing Enterobacteriaceae (CPE) are a significant source of transmission to patients, Israeli researchers [reported yesterday](https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/abs/sinktraps-are-a-major-source-for-carbapenemaseproducing-enterobacteriaceae-transmission/D5ACF476B6AA956C834DFD6A8FBDBDB1) in Infection Control & Hospital Epidemiology. Because CPE has become widespread in Israeli hospitals, and the hospital environment—specifically sink traps and water drainage systems—has been increasingly recognized as a source of multidrug-resistant organism outbreaks in hospitals, researchers at Israel's Sheba Medical Center set out to assess the extent and persistence of sink-drain and sink-outlet contamination in their facility and trace the possible transmission to patients. From 2017 to 2019, they sampled 592 patient-room sinks in 34 departments and analyzed isolates from sinks and patients. Persistent contamination, links to patients A total of 144 (24%) of 592 sinks were contaminated with CPE in 25 of 34 departments, and repeated sampling showed that 52% to 100% were contaminated at least once during the sampling period. During the study period, 318 patients acquired CPE during their hospitalization, with Klebsiella pneumoniae (46%), Escherichia coli (23%), and Enterobacter spp. (23%) the most common species. In 127 (40%) of those patients, no index case was detected but a contaminated sink was identified with the same CPE strain. In 57 additional cases, researchers identified CPE-contaminated sinks with a different bacterial species than that acquired by the patient — but with the same carbapenemase gene (bla), which suggests the sink could have been the source of transmission. For 20 cases with an identical sink-patient strain, sink-to-patient transmission was assumed because the sink was contaminated before the patient was hospitalized, and the patient's initial screening for CPE was negative. Genomic sequencing of two sink-patient isolate pairs identified two plasmids that were nearly identical. During 2 years of follow-up, repeated sink sampling showed that contamination of sink traps with CPE was persistent. The study authors called the findings worrisome. \"This report adds to the accumulating data indicating the significant role of sinks in CPE transmission and suggests a paradigm change, in which infection control interventions to prevent CPE dissemination should focus on environmental control and appropriate behavior regarding the sink and its surroundings,\" they wrote.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Science and Technology", "Health", "Disaster and Accident"],
+  "external_links": [
+    "https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/abs/sinktraps-are-a-major-source-for-carbapenemaseproducing-enterobacteriaceae-transmission/D5ACF476B6AA956C834DFD6A8FBDBDB1)",
+    "https://cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/abs/sinktraps-are-a-major-source-for-carbapenemaseproducing-enterobacteriaceae-transmission/D5ACF476B6AA956C834DFD6A8FBDBDB1)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "infection control & hospital epidemiology",
+        "sentiment": "none"
+      },
+      {
+        "name": "sheba medical center",
+        "sentiment": "none"
+      },
+      {
+        "name": "cpe",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "israel",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:14:37.269+02:00",
+  "updated": "2023-12-29T00:14:37.269+02:00"
+}

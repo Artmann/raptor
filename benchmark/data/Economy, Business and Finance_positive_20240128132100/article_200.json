@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "ed34082dd05a35530fab27ec7d204554a116ed00",
+    "url": "https://seekingalpha.com/news/4050896-microsofts-ai-bet-not-priced-wedbush-chatbot-game-changing",
+    "site_full": "seekingalpha.com",
+    "site": "seekingalpha.com",
+    "site_section": "http://news.google.com/news?hl=en&tok=v5w96djnjpghoxdlx9ckaa&ds=n&pq=google&cp=4&gs_id=1b&xhr=t&q=microsoft&newwindow=1&gl=us&pws=0&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38093640&biw=1366&bih=653&um=1&ie=utf-8&output=rss",
+    "site_categories": [
+      "investing",
+      "financial_news",
+      "finance",
+      "mutual_funds"
+    ],
+    "section_title": "\"microsoft\" - Google News",
+    "title": "Microsoft's AI bet not priced in; Wedbush says chatbot is 'game changing' - Seeking Alpha",
+    "title_full": "Microsoft's AI bet not priced in; Wedbush says chatbot is 'game changing' - Seeking Alpha",
+    "published": "2023-12-28T19:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1435594673/image_1435594673.jpg?io=getty-c-w750",
+    "performance_score": 0,
+    "domain_rank": 1027,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ed34082dd05a35530fab27ec7d204554a116ed00",
+  "url": "https://seekingalpha.com/news/4050896-microsofts-ai-bet-not-priced-wedbush-chatbot-game-changing",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Christiana Sciaudone, SA News Editor",
+  "published": "2023-12-28T19:30:00.000+02:00",
+  "title": "Microsoft's AI bet not priced in; Wedbush says chatbot is 'game changing' - Seeking Alpha",
+  "text": "Microsoft's (NASDAQ:\nMSFT) \"iPhone moment\" is here, according to Wedbush.\nThe bank bumped its price target to $450 from $425 after recent artificial intelligence customer checks showed \"game changing\" monetization of Copilot, its generative AI feature launched earlier this year.\nWedbush maintained an Outperform rating on the stock, which is on its \"Best Ideas List\" into 2024. Shares were up 0.2% in premarket trading on Thursday.\nAI is \"set to change the cloud growth trajectory in Redmond [Washington] the next few years,\" analysts led by Dan Ives wrote in a note.\n\"Over the next 3 years, over 60% of its MSFT installed base will ultimately be on this AI functionality for the enterprise/ commercial which changes the landscape for Nadella & Co going forward,\" the analysts continued.\nWedbush expects to see a \"true\" inflection point for AI growth in 2025 with pricing, beta customers and use cases being rolled out over the next three to six months.\nMicrosoft is one of several companies investing heavily in generative AI as the race to tap into the technology accelerates.\n\"We believe the stock still has yet to price in what we view as the next wave of cloud and AI growth coming to the Redmond story with FY24 with a strong competitive cloud edge vs. Amazon (\nAMZN) and Google ( GOOG) ( GOOGL),\" Ives and his team said, estimated that Copilot could add another $25B to the company's top line by 2025.\nThe bank also said Google, Amazon, Oracle (\nORCL), IBM ( IBM), Salesforce ( CRM), Palantir ( PLTR) and many others are aggressively building out their product portfolio and AI functionality, be it organically or through mergers and acquisitions.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Economy, Business and Finance"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "dan ives",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "wedbush",
+        "sentiment": "negative"
+      },
+      {
+        "name": "microsoft",
+        "sentiment": "negative"
+      },
+      {
+        "name": "msft",
+        "sentiment": "none"
+      },
+      {
+        "name": "nadella & co",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "redmond",
+        "sentiment": "none"
+      },
+      {
+        "name": "washington",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:22:51.800+02:00",
+  "updated": "2023-12-29T00:22:51.800+02:00"
+}

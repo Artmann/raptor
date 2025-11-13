@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "3677f198977c1587e53de34f8cedebf9abec3532",
+    "url": "https://www.etnet.com.hk/www/tc/news/categorized_news_detail.php?newsid=ETN350619726&page=1&category=latest",
+    "site_full": "www.etnet.com.hk",
+    "site": "etnet.com.hk",
+    "site_section": "https://etnet.com.hk/www/tc/news/categorized_news.php",
+    "site_categories": ["javascript", "tech"],
+    "section_title": "即時新聞 Stock News - 股票 股市 財經 - etnet 經濟通|香港新聞財經資訊和生活平台",
+    "site_title": "etnet 經濟通|香港新聞財經資訊和生活平台",
+    "title": "港交所曾跌逾3%失守20天線，現報392.2元 - etnet 經濟通|香港新聞財經資訊和生活平台",
+    "title_full": "港交所曾跌逾3%失守20天線，現報392.2元 - etnet 經濟通|香港新聞財經資訊和生活平台",
+    "published": "2025-06-19T06:19:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "HK",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 36174,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3677f198977c1587e53de34f8cedebf9abec3532",
+  "url": "https://www.etnet.com.hk/www/tc/news/categorized_news_detail.php?newsid=ETN350619726&page=1&category=latest",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-19T06:19:00.000+03:00",
+  "title": "港交所曾跌逾3%失守20天線，現報392.2元 - etnet 經濟通|香港新聞財經資訊和生活平台",
+  "text": "港交所(00388)曾跌逾3%，最低價見391.4元，跌穿20天線（403.28元），現跌2.9%，報392.2元，最高價402.6元；成交474.11萬股，成交金額18.81億元；主動買沽比率36:64，資金淨主動賣出4.79億元。現時最大淨被動買入券商為滙豐證券經紀，金額6632萬元，加權平均成交價396.757元；現時最大淨被動賣出券商為中信里昂證券，金額5731萬元，加權平均成交價397.753元。以現價計，該股暫連跌3日，累計跌幅6.5%。\n　　另外，其人民幣櫃台股份(80388)跌3%，報359.2元人民幣，最低價359.2元人民幣，最高價368.4元人民幣；成交2.18萬股，成交金額792.28萬人民幣。\n　　現時，恒生指數報23332，跌378點或1.6%。\n基本資料 現價 392.200 變動 -2.92% 最高價 402.600 最低價 391.400 成交股數 474.11萬股 成交金額 18.81億 10天平均 410.680 歷史波幅% 25.943 20天平均 403.280 加權平均價 396.801 50天平均 370.348 RSI14 47.647 股份狀態:跌穿20天線；主動買沽比率36:64，資金淨主動賣出4.79億元；暫連跌3日，累計跌幅6.5%\n表列同板塊或相關股份表現 股份(編號) 現價(元) 變幅(%) 港交所(00388) 392.20 -2.92 騰訊(00700) 497.20 -2.13 中海油(00883) 17.86 -1.54 建行(00939) 7.53 -1.57 比亞迪(01211) 125.20 -1.80 小米(01810) 53.40 -0.74 美團(03690) 130.20 -2.33 中行(03988) 4.49 -2.18 阿里(09988) 110.60 -1.43 香港交易所-R(80388) 359.20人幣 -3.02\n《經濟通通訊社19日專訊》 【香港好去處】2025去邊最好玩？etnet為你提供全港最齊盛事活動，所有資訊盡在掌握！ ► 即睇",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance"],
+  "topics": [
+    "Economy, Business and Finance->market and exchange",
+    "Economy, Business and Finance->business reporting and performance",
+    "Economy, Business and Finance->financial and economic news"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:41:12.416+03:00",
+  "updated": "2025-06-19T04:43:10.000+00:00"
+}

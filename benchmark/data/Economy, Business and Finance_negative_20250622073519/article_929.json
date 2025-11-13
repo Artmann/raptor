@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "87a4e296247ac394410f2dde71fa43d2df9a1f26",
+    "url": "https://rt-online.ru/za-nedelyu-v-tatarstane-podesheveli-ovoshhi-yajcza-i-banany",
+    "site_full": "rt-online.ru",
+    "site": "rt-online.ru",
+    "site_section": "https://rt-online.ru/feed",
+    "site_categories": ["media"],
+    "section_title": "Республика Татарстан | РТ Онлайн",
+    "site_title": "Новости Татарстана и Казани - Республика Татарстан | РТ Онлайн",
+    "title": "За неделю в Татарстане подешевели овощи, яйца и бананы",
+    "title_full": "За неделю в Татарстане подешевели овощи, яйца и бананы",
+    "published": "2025-06-19T06:12:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 190416,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "87a4e296247ac394410f2dde71fa43d2df9a1f26",
+  "url": "https://rt-online.ru/za-nedelyu-v-tatarstane-podesheveli-ovoshhi-yajcza-i-banany",
+  "ord_in_thread": 0,
+  "author": "Надежда Захарова",
+  "published": "2025-06-19T06:12:00.000+03:00",
+  "title": "За неделю в Татарстане подешевели овощи, яйца и бананы",
+  "text": "С 2 по 9 июня в Татарстане снизились цены на часть овощей и другие виды продовольствия. Недельной сводкой поделился Татарстанстат.\nНаибольшие изменения за это время претерпели цены на помидоры и огурцы — обе снизились более чем на 4%: до 180,26 и 102,5 рубля за килограмм. С 161,51 до 157,47 рубля, или на 3,47% подешевели бананы, с 71,42 до 69,54 рубля, или на 2,67%, белокочанная капуста. Стоимость десятка куриных яиц опустилась почти на 2 рубля — до 74,04, а килограмма фруктово-ягодных консервов для детского питания — почти на 12, до 544,58 рубля. Также снизились цены на свинину, баранину, мороженую рыбу, сливочное масло, пастеризованное молоко 2,5-3,2% жирности, творог и сметану, сахарный песок, гречневую крупу.\nВ то же время ряд продуктов, напротив, за семь дней стали дороже. Это касается моркови — +3,01%, до 64,17 рубля за килограмм, куриным мясом, +1,221% — до 198,16 рубля. Другие продовольственные товары, в том числе печенье, картофель, макароны, овощные и мясные консервы для детского питания, сухие молочные смеси для детей, маргарин и прочие позиции, прибавили в цене менее 1%.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance"],
+  "topics": [
+    "Economy, Business and Finance->commodity market",
+    "Economy, Business and Finance->economy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://16.rosstat.gov.ru/storage/mediabank/О%20ценах%20на%20прод.тов.%209.06.2025г.pdf",
+    "https://www.16.rosstat.gov.ru/storage/mediabank/О%20ценах%20на%20прод.тов.%209.06.2025г.pdf"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:42:42.613+03:00",
+  "updated": "2025-06-19T04:44:20.000+00:00"
+}

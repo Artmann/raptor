@@ -1,0 +1,131 @@
+{
+  "thread": {
+    "uuid": "e80d31b77cf91dda469e6d31ae00ad881f736ddb",
+    "url": "https://www.businesstimes.com.sg/lifestyle/cdl-kwek-leng-beng-donate-s24-million-sit",
+    "site_full": "www.businesstimes.com.sg",
+    "site": "businesstimes.com.sg",
+    "site_section": "https://businesstimes.com.sg/rss.xml",
+    "site_categories": ["media", "financial_news", "finance"],
+    "section_title": "The Business Times",
+    "site_title": "The Business Times - Get the Latest Business &amp; Financial News",
+    "title": "CDL, Kwek Leng Beng donate S$24 million to SIT",
+    "title_full": "CDL, Kwek Leng Beng donate S$24 million to SIT",
+    "published": "2025-09-17T13:43:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "SG",
+    "main_image": "https://cassette.sphdigital.com.sg/image/businesstimes/83960459f455be2b55b368ccb9eee95c3074c35392131e2f4868f65ce016589d?w=1200&amp;f=webp",
+    "performance_score": 0,
+    "domain_rank": 15795,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e80d31b77cf91dda469e6d31ae00ad881f736ddb",
+  "url": "https://www.businesstimes.com.sg/lifestyle/cdl-kwek-leng-beng-donate-s24-million-sit",
+  "ord_in_thread": 0,
+  "author": "Lindsay Wong",
+  "published": "2025-09-17T13:43:00.000+03:00",
+  "title": "CDL, Kwek Leng Beng donate S$24 million to SIT",
+  "text": "CDL, Kwek Leng Beng donate S$24 million to SIT\nWith a matching grant from the government, the total endowment contribution amounts to S$60 million\n[SINGAPORE] City Developments Limited (CDL) and Kwek Leng Beng, executive chairman of Hong Leong Group and CDL, jointly donated S$24 million to the Singapore Institute of Technology (SIT).\nThe university said that this was one of the largest donations it had received. With a matching grant from the government, the total endowment contribution amounts to S$60 million.\nIn recognition of the endowment, the building that houses SIT’s academic and administrative offices has been named the Kwek Leng Beng University Tower.\nKwek Leng Beng, as well as his son Sherman Kwek, CDL’s group chief executive, were honoured at a ceremony on Tuesday (Sep 16) – along with other major donors – at the opening of the Punggol campus.\nLocated within JTC’s Punggol Digital District, the new campus has state-of-the-art facilities, advanced digital infrastructure and collaborative learning spaces. It is designed to provide students with industry-relevant education, hands-on experiences and opportunities to innovate.\nKwek Leng Beng said: “With its unique location in the heart of Punggol Digital District, the campus enables students to engage closely with the industry, turning education and research into practical solutions.”\nSherman Kwek added: “At CDL, we believe that education is one of the most powerful investments in our future. Our partnership with Kwek Leng Beng in supporting SIT reflects a shared commitment to nurturing the next generation of leaders, innovators and changemakers.”\nIn 2023, the senior Kwek donated S$720,000 to launch six academic initiatives at SIT, including bursaries and scholarships for its hospitality business undergraduates.\nmore in Lifestyle\nSteak frites and nothing else at La Vache!Sep 12, 2025 07:00 AM\nNCSS rallies partners to better engage volunteersApr 12, 2023 05:01 PM\nThe Social Kitchen sets up shop at Bank of SingaporeApr 04, 2023 07:23 PM\nRunning towards a zero-waste futureApr 02, 2023 04:12 PM\nCMC Markets partners Sophia Women to drive financial literacy for womenMar 15, 2023 05:47 PM\nWhat is corporate purpose?Mar 15, 2023 04:24 PM\nDocumenting yesteryear’s retailersNov 24, 2022 05:30 PM\nDesign solutions for unusual home layoutsNov 17, 2022 05:00 PM",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Education",
+    "Human Interest"
+  ],
+  "topics": [
+    "Economy, Business and Finance->human resources",
+    "Economy, Business and Finance->business financing",
+    "Economy, Business and Finance->corporate governance and csr",
+    "Education->college and university",
+    "Human Interest->award and prize"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://businesstimes.cue-prd.sphnet.com.sg/lifestyle/?ref=article-bottom-more-in-lifestyle",
+    "https://www.businesstimes.cue-prd.sphnet.com.sg/lifestyle/?ref=article-bottom-more-in-lifestyle",
+    "https://businesstimes.cue-prd.sphnet.com.sg/lifestyle/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Kwek Leng Beng",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Sherman Kwek",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "CDL",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Singapore Institute of Technology",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Kwek Leng Beng University Tower",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Hong Leong Group",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:22:22.170+03:00",
+  "updated": "2025-09-18T08:30:46.000+03:00"
+}

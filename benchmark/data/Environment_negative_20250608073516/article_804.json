@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "ba60b046048346c106c2c048e0935feb87f73ee1",
+    "url": "https://www.tribuneindia.com/news/jalandhar/eucalyptus-tree-axed-in-broad-daylight-nawanshahr-residents-demand-fir",
+    "site_full": "www.tribuneindia.com",
+    "site": "tribuneindia.com",
+    "site_section": "https://www.tribuneindia.com/news/jalandhar",
+    "site_categories": ["media", "top_news_in", "top_news"],
+    "section_title": "Jalandhar News | Tribune India: Latest Updates on Politics & Culture",
+    "site_title": "The Tribune: Today's Latest News, Breaking News, Top Headlines from India & World",
+    "title": "Eucalyptus tree axed in broad daylight, Nawanshahr residents demand FIR - The Tribune",
+    "title_full": "Eucalyptus tree axed in broad daylight, Nawanshahr residents demand FIR - The Tribune",
+    "published": "2025-05-08T01:13:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTc5NjBmZTEwLTJiOTAtMTFmMC04NDBiLTBkMWUyZGMyZWRkYi5qcGc=",
+    "performance_score": 0,
+    "domain_rank": 4209,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ba60b046048346c106c2c048e0935feb87f73ee1",
+  "url": "https://www.tribuneindia.com/news/jalandhar/eucalyptus-tree-axed-in-broad-daylight-nawanshahr-residents-demand-fir",
+  "ord_in_thread": 0,
+  "author": "Aparna Banerji",
+  "published": "2025-05-08T01:13:00.000+03:00",
+  "title": "Eucalyptus tree axed in broad daylight, Nawanshahr residents demand FIR - The Tribune",
+  "text": "Eucalyptus tree axed in broad daylight, Nawanshahr residents demand FIR\nResidents of Nawanshahr have raised serious concerns over the illegal felling of a large eucalyptus tree near Ambedkar Chowk on Banga Road, demanding immediate action from the district administration and the Forest Department. Despite repeated complaints, including video evidence and official assurances, no FIR has been registered in the case as yet.\nThe tree was allegedly cut down on November 14, 2024. That same day, local resident Ashwani Joshi streamed a live video on Facebook, questioning traffic police, nearby shop owners, and the labourers involved. While massive tree trunks were visible in the footage, no one claimed responsibility or clarified whether legal permission had been obtained.\nA formal complaint was filed by Advocate Bhagwan Das on November 19, 2024, with the Chief Conservator of Forests. “On the evening of November 14, some anti-social elements felled a very large eucalyptus tree without permission, violating NGT rules,” his letter stated. He also accused Councillor Lalit Mohan of being present at the scene and allegedly instructing the labourers, rather than stopping them.\nDas emphasised that the wood from the felled tree was taken away by the culprits. He demanded immediate legal action under the Forest Act and urged the police to file an FIR.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Politics"],
+  "topics": [
+    "Environment->nature",
+    "Environment->conservation",
+    "Environment->environmental pollution",
+    "Social Issue->social problem",
+    "Social Issue->communities",
+    "Social Issue->social condition",
+    "Politics->local government and authority",
+    "Politics->civil rights"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ashwani Joshi",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bhagwan Das",
+        "sentiment": "none"
+      },
+      {
+        "name": "Lalit Mohan",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Ambedkar Chowk",
+        "sentiment": "none"
+      },
+      {
+        "name": "Road",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Forest Department",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:16:03.994+03:00",
+  "updated": "2025-05-08T03:19:48.000+00:00"
+}

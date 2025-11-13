@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "32ac4313d042b07e733aa482f454aab268c06eab",
+    "url": "https://www.irishexaminer.com/world/arid-41422189.html",
+    "site_full": "www.irishexaminer.com",
+    "site": "irishexaminer.com",
+    "site_section": "http://feeds.examiner.ie/ieworld",
+    "site_categories": ["media", "top_news"],
+    "section_title": "IrishExaminer.com",
+    "title": "Boy, four, who disappeared from camp found safe after 22 hours in wilderness",
+    "title_full": "Boy, four, who disappeared from camp found safe after 22 hours in wilderness",
+    "published": "2024-06-23T21:43:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IE",
+    "main_image": "https://www.irishexaminer.com/cms_media/module_img/8349/4174651_2_seoimageog_3cbeeb9d-e79a-4cb7-a811-6bfc75c5c87c.jpg.jpg",
+    "performance_score": 0,
+    "domain_rank": 3411,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 41,
+        "comments": 1,
+        "shares": 9
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "32ac4313d042b07e733aa482f454aab268c06eab",
+  "url": "https://www.irishexaminer.com/world/arid-41422189.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Irishexaminer.com (digitaldesk@irishexaminer.com)",
+  "published": "2024-06-23T21:43:00.000+03:00",
+  "title": "Boy, four, who disappeared from camp found safe after 22 hours in wilderness",
+  "text": "A four-year-old California boy who wandered away from a campground in the Sierra National Forest was found safe after spending 22 hours alone in the wilderness, authorities said.\nA search-and-rescue team of about 50 officers and volunteers set out around 11am on Thursday after the child was reported missing from the camping site surrounded by dense forest north of Fresno.\nThe boy, from Torrance near Los Angeles, was last seen wearing shorts and a T-shirt, the Fresno County Sheriff’s Office said.\nAround 8am on Friday, the boy was discovered in good condition “nestled under a tree” near a lake about a quarter mile (0.4 km) from the Rancheria Campground where his family was.\n“He was hungry and exhausted, but otherwise in good health. We got him a sandwich and then carried him out to be reunited with Mom and Dad,” the sheriff’s office said on Saturday.\nOfficials say the boy simply wandered away and lost his sense of direction.\nThe sheriff’s office thanked members of the public who volunteered to join the search, “kept their eyes peeled, spread the word on social media and sent prayers up”.\n“All of this undoubtedly helped to bring (him) home safely,” the department said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Disaster and Accident", "Social Issue"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "mom",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "fresno county sheriff’s office",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "california",
+        "sentiment": "none"
+      },
+      {
+        "name": "sierra national forest",
+        "sentiment": "none"
+      },
+      {
+        "name": "rancheria campground",
+        "sentiment": "none"
+      },
+      {
+        "name": "fresno",
+        "sentiment": "none"
+      },
+      {
+        "name": "torrance",
+        "sentiment": "none"
+      },
+      {
+        "name": "los angeles",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-24T02:10:40.021+03:00",
+  "updated": "2024-06-24T02:10:40.021+03:00"
+}

@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "600c7f03a62c3cc5369c83239194955068d02ec2",
+    "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-assures-support-to-rajkot-fire-victims-families-101719118714001.html",
+    "site_full": "www.hindustantimes.com",
+    "site": "hindustantimes.com",
+    "site_section": "https://hindustantimes.com/cities",
+    "site_categories": ["media", "top_news"],
+    "section_title": "City News: City Latest News, Metro City News Today and Headlines | Hindustan Times",
+    "title": "Rahul Gandhi assures support to Rajkot fire victims’ families | Latest News India - Hindustan Times",
+    "title_full": "Rahul Gandhi assures support to Rajkot fire victims’ families | Latest News India - Hindustan Times",
+    "published": "2024-06-23T07:28:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://www.hindustantimes.com/ht-img/img/2024/06/23/1600x900/Congress-leader-and-MP-Rahul-Gandhi-virtually-held_1719118726462.jpg",
+    "performance_score": 0,
+    "domain_rank": 950,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "600c7f03a62c3cc5369c83239194955068d02ec2",
+  "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-assures-support-to-rajkot-fire-victims-families-101719118714001.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@httweets",
+  "published": "2024-06-23T07:28:00.000+03:00",
+  "title": "Rahul Gandhi assures support to Rajkot fire victims’ families | Latest News India - Hindustan Times",
+  "text": "Ahmedabad: Congress leader and MP Rahul Gandhi on Saturday held a video conference with family members and the relatives of some of the victims of the TRP Game Zone fire in Rajkot, Gujarat. The incident, which occurred on May 25, claimed 27 lives, including children.During the video call, Gandhi expressed solidarity with the affected families. “We will put pressure on the government for a fair investigation and proper compensation.” The interaction, which included several Gujarat Congress leaders, was shared on the party’s social media platform.The conference was conducted from Pathik Ashram, with Gujarat Congress president Shaktisinh Gohil joining Gandhi in Delhi. Other party leaders, including MLA Jignesh Mevani and Lalji Desai, were present with the victims’ families in Rajkot.In response to the tragedy, the Congress party has called for a ‘Rajkot Bandh’ on June 25, marking one month since the incident. The party is advocating for increased compensation for the victims’ families, among other demands directed at the Bharatiya Janata Party-led state government.The fire has sparked significant concern over safety regulations. Investigations revealed that the game zone was operating without the necessary fire safety clearance from the Rajkot Municipal Corporation. In the aftermath, the state government formed a Special Investigation Team (SIT) to investigate the causes of the fire and recommend preventive measures for the future.To date, five-game zone owners and six government officials have been arrested in connection with the incident.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Disaster and Accident", "Politics"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.hindustantimes.com)",
+    "https://www.hindustantimes.com)/",
+    "https://www.hindustantimes.com)",
+    "https://hindustantimes.com)",
+    "https://hindustantimes.com)/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "rahul gandhi",
+        "sentiment": "negative"
+      },
+      {
+        "name": "gandhi",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "hindustan times",
+        "sentiment": "negative"
+      },
+      {
+        "name": "congress",
+        "sentiment": "none"
+      },
+      {
+        "name": "gujarat congress",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "india",
+        "sentiment": "none"
+      },
+      {
+        "name": "ahmedabad",
+        "sentiment": "none"
+      },
+      {
+        "name": "gujarat",
+        "sentiment": "none"
+      },
+      {
+        "name": "pathik ashram",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-23T08:04:10.717+03:00",
+  "updated": "2024-06-23T10:09:12.989+03:00"
+}

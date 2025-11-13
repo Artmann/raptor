@@ -1,0 +1,130 @@
+{
+  "thread": {
+    "uuid": "a97fec0d9f38cb5a632373d0bb5e7fe86d597297",
+    "url": "https://www.elesquiu.com/politica/2025/9/18/catamarca-tambien-marcho-en-defensa-de-la-educacion-publica-universitaria-568604.html",
+    "site_full": "www.elesquiu.com",
+    "site": "elesquiu.com",
+    "site_section": "https://elesquiu.com",
+    "site_categories": ["tech", "top_news_ar", "top_news"],
+    "section_title": "El Esquiu -  Diario de Catamarca - Argentina",
+    "site_title": "El Esquiu -  Diario de Catamarca - Argentina",
+    "title": "Catamarca también marchó en defensa de la educación pública universitaria",
+    "title_full": "Catamarca también marchó en defensa de la educación pública universitaria",
+    "published": "2025-09-18T05:34:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "https://www.elesquiu.com/u/fotografias/m/2025/9/18/f1280x720-566813_698488_5050.jpg",
+    "performance_score": 0,
+    "domain_rank": 76586,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a97fec0d9f38cb5a632373d0bb5e7fe86d597297",
+  "url": "https://www.elesquiu.com/politica/2025/9/18/catamarca-tambien-marcho-en-defensa-de-la-educacion-publica-universitaria-568604.html",
+  "ord_in_thread": 0,
+  "author": "Redacción El Esquiu",
+  "published": "2025-09-18T05:34:00.000+03:00",
+  "title": "Catamarca también marchó en defensa de la educación pública universitaria",
+  "text": "Ayer, Catamarca volvió a salir a las calles en defensa de la universidad pública. Por la tarde, docentes, estudiantes, autoridades de la Universidad Nacional de Catamarca (UNCA), legisladores opositores y oficialistas, participaron de la marcha Federal Universitaria con réplicas en distintos puntos del país en contra del veto del presidente Javier Milei a la Ley de Financiamiento Universitario. La convocatoria local si bien reunió a cientos de personas, no alcanzó la magnitud de movilizaciones anteriores, aquellas que acompañaron durante el debate primigenio de la iniciativa en el Congreso.\nAyer, la presencia institucional y política fue notoria: el rector de la UNCA, Oscar Arellano, y la vicerrectora, Elina Silvera de Buenader, encabezaron la columna junto a decanos, autoridades académicas y legisladores del radicalismo. También estaban presentes agrupaciones estudiantiles, gremios docentes. La marcha comenzó en la Plaza del Maestro, pasadas las 17.00, y se dirigió hasta el edificio central de la UNCA, donde realizaron un abrazo simbólico como gesto de resguardo frente al ajuste presupuestario.\nEn la primera fila se desplegó un gran cartel negro con letras blancas que resumía el reclamo: “En defensa de la salud y la educación pública”. El mensaje conectó la protesta con los temas que se debatían en Diputados de la Nación, es decir, los rechazos al financiamiento del Garrahan y para las universidades. La movilización también dejó críticas en el plano local: estudiantes portaban carteles con mensajes dirigidos a la diputada Silvana Carrizo. “Te reformaste por una octava banca, radical traidora”, se leyó en una de las pancartas.\nAbandono\nEn el escenario apostado frente a la casa de altos estudios catamarqueña, Arellano leyó el documento emitido por el Consejo Interuniversitario Nacional donde se alertó que la falta de compromiso del gobierno nacional terminará perjudicando a estudiantes obligándolos a desistir de sus carreras. “La crisis del financiamiento parece no tener fin y si no se revertía a tiempo, sería terminal” dijo Arellano para indicar que: “La política de reducción salarial que Nación aplica sobre el sector público afectó de manera particular y feroz al sector universitario”.\n“El ajuste que sufren las universidades y organismos de ciencia no solo compromete el presente, sino que concreta una pérdida estructural de capacidades que llevará años a recomponer si no se revierte de inmediato” sostuvo para advertir que: “La triste realidad es que, sin asistencia ni compromiso de la Nación, estudiantes de todo el país son forzados a abandonar sus carreras”. El rector cerró pidiendo a los senadores nacionales que también rechacen el veto.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue", "Politics"],
+  "topics": [
+    "Education->students",
+    "Education->teachers",
+    "Education->college and university",
+    "Social Issue->social condition",
+    "Social Issue->social services",
+    "Politics->education policy",
+    "Politics->political process",
+    "Politics->civil rights"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Elina Silvera de Buenader",
+        "sentiment": "none"
+      },
+      {
+        "name": "Oscar Arellano",
+        "sentiment": "none"
+      },
+      {
+        "name": "Javier Milei",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Plaza del",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Universidad Nacional de Catamarca",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Federal Universitaria",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "UNCA",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ar", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:17:05.468+03:00",
+  "updated": "2025-09-19T10:05:30.000+03:00"
+}

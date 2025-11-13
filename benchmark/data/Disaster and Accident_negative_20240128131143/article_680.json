@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "539770f9b584246d846d8f903264637549afbf91",
+    "url": "https://www.theadvocate.com/acadiana/news/crime_police/jennings-man-arrested-in-connection-to-fatal-september-crash-in-jeff-davis/article_e6caff50-a59f-11ee-83f5-37738e186770.html",
+    "site_full": "www.theadvocate.com",
+    "site": "theadvocate.com",
+    "site_section": "https://www.theadvocate.com/acadiana",
+    "site_categories": ["media"],
+    "section_title": "Acadiana News, Sports and Entertainment | The Acad | theadvocate.com",
+    "title": "Jennings man arrested in connection to fatal September crash in Jeff Davis | Crime/Police | theadvocate.com",
+    "title_full": "Jennings man arrested in connection to fatal September crash in Jeff Davis | Crime/Police | theadvocate.com",
+    "published": "2023-12-28T07:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/d/77/d775e4e6-a74e-5707-b9e8-02ccd6546cfd/655762af3d13a.image.jpg?crop=1075%2C564%2C0%2C73&amp;resize=1075%2C564&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 5137,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "539770f9b584246d846d8f903264637549afbf91",
+  "url": "https://www.theadvocate.com/acadiana/news/crime_police/jennings-man-arrested-in-connection-to-fatal-september-crash-in-jeff-davis/article_e6caff50-a59f-11ee-83f5-37738e186770.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Stephen Marcantel",
+  "published": "2023-12-28T07:00:00.000+02:00",
+  "title": "Jennings man arrested in connection to fatal September crash in Jeff Davis | Crime/Police | theadvocate.com",
+  "text": "A Jennings man was arrested in connection to fatal September crash. Jeffery Lynn Meche, 65, was arrested and charged last Friday with vehicular homicide, driving on the right side of the road and not wearing a seat belt, Jeff Davis Parish Sheriff Office's rosters show. Louisiana State Police issued a warrant to arrest Meche after toxicology results alleged Meche to be intoxicated when his pickup truck struck the vehicle of Chelsey E. Benoit, 29, which resulted in her death on Sept. 17, 2023, Louisiana State Police said. On Sept. 17, Troopers responded to two vehicle crash near the intersection of Louisiana Highway 26 and Hillias Road in Jefferson Davis Parish about 5 miles south of Jennings. Meche's 2014 GMC pickup truck traveled north on LA 26., according to police. Meche struck Benoit's 2006 GMC Envoy when his vehicle entered the southbound lane. It is unclear why his vehicle entered the lane, a Troop D press release said. Toxicology analysis show that Meche was intoxicated at the time of the crash. Benoit and Meche were both unrestrained when they crashed. Benoit was transported to a local hospital and later died to her injuries. Meche received moderate injuries and was transported to a Lafayette hospital. Meche was booked at the Jefferson Davis Parish Sheriff's Office jail with a bond of $250,000.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "jeff davis",
+        "sentiment": "negative"
+      },
+      {
+        "name": "jennings",
+        "sentiment": "negative"
+      },
+      {
+        "name": "jeffery lynn meche",
+        "sentiment": "negative"
+      },
+      {
+        "name": "meche",
+        "sentiment": "none"
+      },
+      {
+        "name": "chelsey e. benoit",
+        "sentiment": "none"
+      },
+      {
+        "name": "benoit",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "jeff davis parish sheriff office",
+        "sentiment": "none"
+      },
+      {
+        "name": "louisiana state police",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "la 26",
+        "sentiment": "none"
+      },
+      {
+        "name": "hillias road",
+        "sentiment": "none"
+      },
+      {
+        "name": "jefferson davis parish",
+        "sentiment": "none"
+      },
+      {
+        "name": "louisiana highway 26",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:00:09.535+02:00",
+  "updated": "2023-12-29T01:00:09.535+02:00"
+}

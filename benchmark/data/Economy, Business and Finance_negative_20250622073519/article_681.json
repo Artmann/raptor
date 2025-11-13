@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "d77e42d98f2588d52e545a00aa5b4d84dd003db0",
+    "url": "http://news.ikanchai.com/2025/0619/629669.shtml",
+    "site_full": "news.ikanchai.com",
+    "site": "ikanchai.com",
+    "site_section": "http://www.ikanchai.com",
+    "site_categories": [],
+    "section_title": "砍柴网-探索科技与商业的逻辑",
+    "site_title": null,
+    "title": "Check Point：供应商接入成为制造业网络安全新隐患-砍柴网",
+    "title_full": "Check Point：供应商接入成为制造业网络安全新隐患-砍柴网",
+    "published": "2025-06-19T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 65736,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d77e42d98f2588d52e545a00aa5b4d84dd003db0",
+  "url": "http://news.ikanchai.com/2025/0619/629669.shtml",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-19T03:00:00.000+03:00",
+  "title": "Check Point：供应商接入成为制造业网络安全新隐患-砍柴网",
+  "text": "在数字化浪潮席卷全球制造业的当下，网络安全风险已不再仅仅来自企业自身内部系统，第三方访问正在成为制造企业不可忽视的重要隐患。根据 IBM《数据泄露成本报告》显示，近 20% 的数据泄露事件与第三方供应商接入相关联。相比于其他类型的数据泄露，涉及第三方访问的事件平均需要多花 26 天才能被发现，且造成的经济损失更高——每起事件平均损失达 446 万美元，高于全球平均水平的 435 万美元。\n制造企业的运作高度依赖于复杂的合作伙伴网络——从供应商、承包商，到远程维护团队与物流服务商，企业上下游之间的频繁互联互通成为生产高效运转的保障。然而，任何一个外部接入环节一旦被攻破，都可能迅速引发连锁反应，导致生产中断、敏感数据泄露，乃至核心 OT 环境的直接暴露。即便是部署了完备内部防御体系的企业，也往往因为合作伙伴系统成为新的入侵入口而措手不及。更令人担忧的是，很多企业在第三方访问管理中仍然存在“便利性优先”的侥幸心理，将外部接入视作例外，缺乏与内部用户同等严格的安全管控措施，从而为攻击者埋下隐患。\n数字化制造快速发展进一步加剧了这种风险。根据来自第三方的行业报告指出，2024 年中国制造业数字化转型市场规模已突破 1.55 万亿元，预计 2025 年将增长至 1.76 万亿元，复合年均增长率约为 14%。与此同时，工业信息安全市场亦在快速扩容，2024 年规模已达 392 亿元人民币，并保持 20% 以上的年均增速。然而，伴随生产协作边界的持续拓展，第三方接入带来的盲区依旧广泛存在，成为制造业数字化跃迁过程中日益突出的安全挑战。\n面对日益复杂的威胁形势，制造业首席信息安全官（CISO）应该将第三方访问风险纳入核心管控范畴，逐步构建以身份验证、最小权限授权、实时会话可视、自动化撤权为核心要素的访问安全新架构。第三方连接不再只是“开关”式授权，而是全流程、动态可控的精细管理体系。尤其对于动辄数千家供应商、业务遍布全球的制造企业而言，这样的动态管控能力已不再是锦上添花，而成为维系业务韧性的基本保障。\n作为全球领先的网络安全厂商，Check Point 正在帮助制造企业通过统一架构全面防御第三方访问风险。基于 Infinity 架构，Check Point 可在生产现场的 OT 设备、企业 IT 系统以及供应链延伸链路的各个环节实现统一安全策略调度。企业可以实时识别每一个连接用户的身份、访问位置、设备状态及操作意图，确保每一次访问均在可控范围之内。同时，通过融合 ThreatCloud AI 的智能威胁检测引擎，用户可在发现异常行为时第一时间自动阻断潜在攻击，最大限度降低安全事件的破坏范围。\n在实际运维中，Check Point 以其统一控制台极大提升了运维效率，避免了多工具并行管理所导致的策略冲突与响应滞后。同时，依托 SASE（安全访问服务边缘）架构，Check Point 将安全能力从传统数据中心无缝延展至边缘节点，无论是工厂现场工程师、远程维护承包商还是跨境协作团队，皆可在获得安全验证的前提下灵活访问授权资源，充分兼顾安全性与生产连续性。\n在制造业数字化、智能化发展迅猛的大背景下，网络安全的重要性亦在不断凸显。Check Point 将持续以全球领先的安全能力与本地化实践经验，助力中国制造业客户在数字化转型道路上稳健前行，打造既智能高效、又安全可信的未来制造体系。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->biotechnology",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Social Issue->social services",
+    "Social Issue->discrimination",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:39:42.163+03:00",
+  "updated": "2025-06-19T04:44:54.000+00:00"
+}

@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "f2cdfbdc4210fa3172519c190a05ed6c4467355d",
+    "url": "https://www.lr-online.de/nachrichten/brandenburg/tesla-in-gruenheide-wasservertrag-konflikt-streit-um-wse-anwalt-geht-weiter-78038170.html",
+    "site_full": "www.lr-online.de",
+    "site": "lr-online.de",
+    "site_section": "https://www.lr-online.de",
+    "site_categories": ["media"],
+    "section_title": "Startseite | Lausitzer Rundschau",
+    "site_title": "Startseite | Lausitzer Rundschau",
+    "title": "Tesla in Grünheide: Wasservertrag-Konflikt - Streit um WSE-Anwalt geht weiter",
+    "title_full": "Tesla in Grünheide: Wasservertrag-Konflikt - Streit um WSE-Anwalt geht weiter",
+    "published": "2025-05-08T06:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://cdn.lr-online.de/2025/04/03/6eeb17a3-419c-4c92-810e-111a8086deec.jpeg?width=1200&crop=2048%2C1152%2C0%2C69&format=webp&token=6ffec4ac446df617eb3a3b46c9cfece1e5ea8d01f85e3230fc04476bef9d5ed1",
+    "performance_score": 0,
+    "domain_rank": 35354,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f2cdfbdc4210fa3172519c190a05ed6c4467355d",
+  "url": "https://www.lr-online.de/nachrichten/brandenburg/tesla-in-gruenheide-wasservertrag-konflikt-streit-um-wse-anwalt-geht-weiter-78038170.html",
+  "ord_in_thread": 0,
+  "author": "Katharina Schmidt",
+  "published": "2025-05-08T06:00:00.000+03:00",
+  "title": "Tesla in Grünheide: Wasservertrag-Konflikt - Streit um WSE-Anwalt geht weiter",
+  "text": "Tesla in Grünheide: Wasservertrag-Konflikt – Streit um WSE-Anwalt geht weiter\nDer Wasservertrag mit Tesla hat zu Konflikten beim WSE geführt. Thema war auch die rechtliche Vertretung durch Sven Hornauf (BSW), der sein Mandat verlieren soll – oder doch nicht?\nStrausberg\nEin Artikel von",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": ["Environment->water", "Environment->environmental pollution"],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Sven Hornauf",
+        "sentiment": "none"
+      },
+      {
+        "name": "Tesla",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Grünheide",
+        "sentiment": "none"
+      },
+      {
+        "name": "Strausberg",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "BSW",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:57:41.428+03:00",
+  "updated": "2025-05-08T04:00:06.000+00:00"
+}

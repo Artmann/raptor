@@ -1,0 +1,118 @@
+{
+  "thread": {
+    "uuid": "24461cfde350fab49ad72f3bcd4cdda7d9a3e6b6",
+    "url": "https://gettysburgconnection.org/were-number-one-in-farmland-preservation/",
+    "site_full": "gettysburgconnection.org",
+    "site": "gettysburgconnection.org",
+    "site_section": "https://gettysburgconnection.org/newsbeat",
+    "site_categories": ["home_and_garden", "entertaining"],
+    "section_title": "Gettysburg Connection Newsbeat - Gettysburg Connection",
+    "site_title": "Adams County PA News - Gettysburg Connection",
+    "title": "We're number one in farmland preservation - Gettysburg Connection",
+    "title_full": "We're number one in farmland preservation - Gettysburg Connection",
+    "published": "2025-10-16T12:58:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://i0.wp.com/gettysburgconnection.org/wp-content/uploads/2023/12/logo_unsquooshed.jpg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "24461cfde350fab49ad72f3bcd4cdda7d9a3e6b6",
+  "url": "https://gettysburgconnection.org/were-number-one-in-farmland-preservation/",
+  "ord_in_thread": 0,
+  "author": "Gettysburg Connection News Team",
+  "published": "2025-10-16T12:58:00.000+03:00",
+  "title": "We're number one in farmland preservation - Gettysburg Connection",
+  "text": "Governor Josh Shapiro and Agriculture Secretary Russell Redding marked a major milestone this week at Talview Dairy Farm in Lebanon County, celebrating Pennsylvania’s leadership in farmland preservation. Since the start of the Shapiro Administration, the state has invested more than $140 million to preserve 472 new farms and over 39,000 acres of prime farmland.\nIn total, Pennsylvania has now protected 6,621 farms and 658,681 acres across 58 counties—more than any other state in the nation. The Farmland Preservation Program, established in 1988, represents a collaboration between state and local governments and nonprofit organizations to permanently protect agricultural land from future development. More than $1.78 billion in state, county, and local funds has been invested in preservation efforts since the program’s inception.\nAgriculture remains a cornerstone of Pennsylvania’s economy, contributing $132 billion annually and supporting nearly 600,000 jobs. Through preservation, innovation, and investment, the state aims to strengthen this vital sector for generations to come. Recent funding supported the protection of more than 2,000 acres on 24 farms in 14 counties, ensuring these properties remain agricultural land in perpetuity.\nThe Copenhaver family, sixth-generation farmers at Talview Dairy, joined the celebration as one of the many families who have partnered with the state to safeguard farmland for future use. Their farm exemplifies how preservation initiatives, combined with technical and financial assistance from programs like the Agricultural Conservation Assistance Program, help secure both agricultural livelihoods and environmental health.\nUnder Governor Shapiro’s leadership, Pennsylvania has launched several initiatives to support agriculture. These include the state’s first Economic Development Strategy in nearly two decades, fully funding the Pennsylvania Farm Bill at $13.8 million annually, and investing in agricultural innovation, disease mitigation, and food access programs. Significant resources have also been dedicated to the Clean Streams Fund and to establishing an advanced animal health lab in western Pennsylvania.\nThe administration continues to advocate for farmers, including taking legal action after the federal government ended funding for a local food purchasing program that supported nearly 200 farms.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->conservation", "Environment->land resources"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Russell Redding",
+        "sentiment": "none"
+      },
+      {
+        "name": "Josh Shapiro",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Farmland Preservation Program",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Shapiro Administration",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Gardners",
+        "Orrtanna",
+        "McKnightstown",
+        "Heidlersburg",
+        "Bonneauville",
+        "Arendtsville",
+        "Hunterstown",
+        "Gettysburg",
+        "Fairfield",
+        "Biglerville"
+      ],
+      "state": ["Pennsylvania"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:19:15.601+03:00",
+  "updated": "2025-10-16T13:56:46.000+03:00"
+}

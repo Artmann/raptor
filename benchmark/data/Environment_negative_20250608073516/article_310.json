@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "553daac23a51b2537485b581d70f1dddd4b89b8c",
+    "url": "https://article.wn.com/view/2025/05/08/A_group_of_Wichita_neighbors_is_suing_Textron_for_a_chemical",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/home",
+    "site_categories": ["media"],
+    "section_title": "Home",
+    "site_title": "World News",
+    "title": "A group of Wichita neighbors is suing Textron for a chemical plume under their homes - Worldnews.com",
+    "title_full": "A group of Wichita neighbors is suing Textron for a chemical plume under their homes - Worldnews.com",
+    "published": "2025-05-08T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4256,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "553daac23a51b2537485b581d70f1dddd4b89b8c",
+  "url": "https://article.wn.com/view/2025/05/08/A_group_of_Wichita_neighbors_is_suing_Textron_for_a_chemical",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T03:00:00.000+03:00",
+  "title": "A group of Wichita neighbors is suing Textron for a chemical plume under their homes - Worldnews.com",
+  "text": "Attorneys representing the group say that they think 200 to 300 homes sit above a toxic plume of chemicals. read full story",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Crime, Law and Justice"],
+  "topics": [
+    "Environment->hazardous materials",
+    "Environment->environmental pollution",
+    "Social Issue->discrimination",
+    "Social Issue->social condition",
+    "Crime, Law and Justice->corporate crime",
+    "Crime, Law and Justice->civil law"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.kansas.com/news/local/article305821151.html",
+    "https://kansas.com/news/local/article305821151.html"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Textron",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:13:15.975+03:00",
+  "updated": "2025-05-08T00:19:35.000+00:00"
+}

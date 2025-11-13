@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "fdbdd0e5a4d8a4e608540b847d9d6d42603d040b",
+    "url": "https://lg.penntrafford.org/apps/news/article/2106232",
+    "site_full": "lg.penntrafford.org",
+    "site": "penntrafford.org",
+    "site_section": "http://lg.penntrafford.org",
+    "site_categories": [],
+    "section_title": "Level Green Elementary School",
+    "site_title": "Level Green Elementary School",
+    "title": "Patterns in the Courtyard | Level Green Elementary School",
+    "title_full": "Patterns in the Courtyard | Level Green Elementary School",
+    "published": "2025-09-10T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://3.files.edl.io/9dd8/25/09/10/154524-959e8299-9a2e-4a5c-ae31-728d1be59945.jpg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fdbdd0e5a4d8a4e608540b847d9d6d42603d040b",
+  "url": "https://lg.penntrafford.org/apps/news/article/2106232",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-10T03:00:00.000+03:00",
+  "title": "Patterns in the Courtyard | Level Green Elementary School",
+  "text": "Kindergarten students at Level Green Elementary School participated in an outdoor learning activity with their teacher, Mrs. Melissa Vovaris. To practice their recent lessons on patterns, the students used unifix cubes in a variety of shapes and colors to build patterns of their own.\nAidan Mastay, Mia Liscio, and Adalynn Likar\nConor Mullen and Joey Maholage build an alternating black and red pattern\nEmrys Hensler and Sammy Zdrale",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": [
+    "Education->school",
+    "Education->early childhood education",
+    "Education->students",
+    "Human Interest->graduation",
+    "Social Issue->children",
+    "Social Issue->social services",
+    "Social Issue->parenting"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Adalynn Likar\nConor Mullen",
+        "sentiment": "none"
+      },
+      {
+        "name": "Melissa Vovaris",
+        "sentiment": "none"
+      },
+      {
+        "name": "Joey Maholage",
+        "sentiment": "none"
+      },
+      {
+        "name": "Emrys Hensler",
+        "sentiment": "none"
+      },
+      {
+        "name": "Aidan Mastay",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sammy Zdrale",
+        "sentiment": "none"
+      },
+      {
+        "name": "Mia Liscio",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Level Green Elementary School",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Level Green"],
+      "state": ["Pennsylvania"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:52:09.167+03:00",
+  "updated": "2025-09-18T07:58:30.000+03:00"
+}

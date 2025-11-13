@@ -1,0 +1,118 @@
+{
+  "thread": {
+    "uuid": "7b5592de49a8549350cba063d76f1476afb40456",
+    "url": "https://www.newsbreak.com/charlotte-nc/3280633553580-florida-family-uses-airtag-to-track-stolen-luggage-back-to-suspect-s-home",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://newsbreak.com/charlotte-nc",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "Charlotte News, Weather, Safety, Sports | NewsBreak Charlotte, NC",
+    "title": "Florida Family Uses AirTag To Track Stolen Luggage Back To Suspect's Home",
+    "title_full": "Florida Family Uses AirTag To Track Stolen Luggage Back To Suspect's Home",
+    "published": "2023-12-29T17:55:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/3VasZP_0qTe2eQX00?type=thumbnail_1600x1200",
+    "performance_score": 0,
+    "domain_rank": 3324,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7b5592de49a8549350cba063d76f1476afb40456",
+  "url": "https://www.newsbreak.com/charlotte-nc/3280633553580-florida-family-uses-airtag-to-track-stolen-luggage-back-to-suspect-s-home",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NewsBreak Original",
+  "published": "2023-12-29T17:55:00.000+02:00",
+  "title": "Florida Family Uses AirTag To Track Stolen Luggage Back To Suspect's Home",
+  "text": "Thanks to a popular Apple device, a South Florida family busted the North Carolina resident suspected of stealing their luggage from a Charlotte airport. Catherine Gavino told WJZY the whole ordeal happened while she and her family were traveling over Christmas break. When the group landed at Charlotte Douglas International Airport last Friday (December 22), they were missing one of their suitcases at the baggage claim. Not all hope was lost as Gavino said she tucked a new Apple AirTag into the luggage. “It was to help find luggage if it was lost, but I never thought it’d get stolen,” she said. The Miami resident checked her cellphone and saw that her parents' stolen bag was on Interstate 85, heading west toward Gastonia. The family gathered the rest of their belongings, grabbed the rental car, and started following the AirTag to a neighborhood. Gavino claims the AirTag wasn't displaying an exact location and even stopped tracking, so the family halted the search. Gavino checked the AirTag location again on Christmas Day, and it gave her the coordinates for a house in Gastonia. She called the police, who recovered not only her parents' suitcase but another person's stolen luggage. Unfortunately, the bag was mostly cleaned out. \"Police believe they may have sold the clothes for money, who knows,\" Catherine told reporters. \"These are my parents, coming to the mountains for a North Carolina view, so for this to happen made me sad, which was all the more reason to go after them… I wouldn’t have found them without this AirTag.\" According to records obtained by reporters, the suspect was arrested on multiple theft charges and one drug charge.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Crime, Law and Justice"],
+  "external_links": [
+    "https://www.qcnews.com/nexstar-media-wire/i-wanted-justice-airtags-used-to-track-stolen-luggage-from-charlotte-airport-to-suspects-home-2/",
+    "https://www.iheart.com/content/2022-08-17-airtag-used-to-locate-airline-worker-accused-of-stealing-from-luggage/",
+    "https://www.iheart.com/content/2023-03-30-texas-man-uses-apple-airtag-to-locate-stolen-truck-kills-suspected-thief/",
+    "https://iheart.com/content/2022-08-17-airtag-used-to-locate-airline-worker-accused-of-stealing-from-luggage/",
+    "https://www.iheart.com/content/2023-03-30-texas-man-uses-apple-airtag-to-locate-stolen-truck-kills-suspected-thief",
+    "https://www.qcnews.com/nexstar-media-wire/i-wanted-justice-airtags-used-to-track-stolen-luggage-from-charlotte-airport-to-suspects-home-2",
+    "https://iheart.com/content/2023-03-30-texas-man-uses-apple-airtag-to-locate-stolen-truck-kills-suspected-thief/",
+    "https://qcnews.com/nexstar-media-wire/i-wanted-justice-airtags-used-to-track-stolen-luggage-from-charlotte-airport-to-suspects-home-2/",
+    "https://www.iheart.com/content/2022-08-17-airtag-used-to-locate-airline-worker-accused-of-stealing-from-luggage"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "gavino",
+        "sentiment": "none"
+      },
+      {
+        "name": "catherine gavino",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "charlotte douglas international airport",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "north carolina",
+        "sentiment": "none"
+      },
+      {
+        "name": "south florida",
+        "sentiment": "none"
+      },
+      {
+        "name": "florida",
+        "sentiment": "none"
+      },
+      {
+        "name": "gastonia",
+        "sentiment": "none"
+      },
+      {
+        "name": "charlotte",
+        "sentiment": "none"
+      },
+      {
+        "name": "miami",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T18:55:00.302+02:00",
+  "updated": "2023-12-29T18:55:00.302+02:00"
+}

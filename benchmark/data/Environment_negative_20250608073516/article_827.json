@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "5289b3ab0dacae2e1ef5ea49735e67981c453617",
+    "url": "https://gulfnews.com/uae/weather/uae-weather-alert-dust-storms-rough-seas-and-rising-temperatures-expected-today-1.500119842",
+    "site_full": "gulfnews.com",
+    "site": "gulfnews.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "media",
+      "car_culture",
+      "vehicles",
+      "top_news_ph",
+      "top_news_pk",
+      "top_news_ae",
+      "top_news_qa",
+      "top_news_sa",
+      "top_news_kw",
+      "top_news"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "site_title": "Gulf News: Latest UAE news, Dubai news, Business, travel news, Dubai Gold rate, prayer time, cinema",
+    "title": "UAE weather alert: Dust storms, rough seas, and rising temperatures expected today",
+    "title_full": "UAE weather alert: Dust storms, rough seas, and rising temperatures expected today",
+    "published": "2025-05-08T05:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AE",
+    "main_image": "https://media.assettype.com/gulfnews%2F2024-11-17%2F3dh8zr5g%2FDust_Storm_in_Sharjah_178542fa353_original_ratio.jpg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+    "performance_score": 0,
+    "domain_rank": 2040,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": ["NLA"],
+    "social": {
+      "facebook": {
+        "likes": 37,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5289b3ab0dacae2e1ef5ea49735e67981c453617",
+  "url": "https://gulfnews.com/uae/weather/uae-weather-alert-dust-storms-rough-seas-and-rising-temperatures-expected-today-1.500119842",
+  "ord_in_thread": 0,
+  "author": "Manuel Almario, Senior News Editor",
+  "published": "2025-05-08T05:35:00.000+03:00",
+  "title": "UAE weather alert: Dust storms, rough seas, and rising temperatures expected today",
+  "text": "NCM warns of strong winds, blowing dust, and high humidity with mist formation\nAccording to the NCM, the day will be partly cloudy with moderate to strong northwesterly winds, kicking up dust and sand, especially inland. Wind speeds are expected to range from 15 to 25 km/h, reaching up to 40 km/h in some areas. These conditions could reduce visibility on the roads and impact outdoor activities.\nThe highest temperature recorded in the country yesterday was a scorching 41.2°C in Kalba, Sharjah at 12:30pm. Today, temperatures in the internal regions are expected to peak between 35°C and 39°C. Coastal areas and islands can expect highs of 33°C to 37°C, while the mountains will see slightly cooler temperatures ranging from 31°C to 36°C.\nHumidity will increase by night and into Friday morning, particularly in some internal areas, with a probability of mist forming — a reminder for early morning commuters to remain vigilant.\nMeanwhile, the NCM has also issued a rough sea alert for the Oman Sea, with wave heights reaching up to 6 feet offshore. The Arabian Gulf is forecasted to be very rough in the morning, easing to moderate conditions by the afternoon. The alert remains in effect until 12 noon today, and beachgoers are urged to exercise caution.\nResidents are advised to stay updated with the latest forecasts and heed safety advisories, especially those planning to travel by sea or engage in outdoor activities.\nSign up for the Daily Briefing\nGet the latest news and updates straight to your inbox",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment", "Social Issue"],
+  "topics": [
+    "Weather->weather warning",
+    "Weather->weather forecast",
+    "Weather->weather phenomena",
+    "Environment->global warming",
+    "Environment->climate change",
+    "Environment->energy resources",
+    "Social Issue->social condition",
+    "Social Issue->demographics",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Kalba",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sea",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "NCM",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:23:46.732+03:00",
+  "updated": "2025-05-08T03:29:08.000+00:00"
+}

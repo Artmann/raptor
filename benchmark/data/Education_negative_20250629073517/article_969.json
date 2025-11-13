@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "a7a5cf6e798da604cd8460a9f260c94b8b73d640",
+    "url": "https://www.kommersant.ru/doc/7834822",
+    "site_full": "www.kommersant.ru",
+    "site": "kommersant.ru",
+    "site_section": "https://kommersant.ru/regions/24",
+    "site_categories": ["media", "top_news_ru", "top_news"],
+    "section_title": "Последние новости Красноярска и Красноярского края на сегодня - Коммерсантъ",
+    "site_title": "Коммерсантъ: последние новости России и мира",
+    "title": "Двух преподавателей техникума Дивногорска будут судить за взятки от абитуриентов",
+    "title_full": "Двух преподавателей техникума Дивногорска будут судить за взятки от абитуриентов",
+    "published": "2025-06-26T07:24:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://iy.kommersant.ru/SocialPics/7834822_49_0_102978070",
+    "performance_score": 0,
+    "domain_rank": 1948,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a7a5cf6e798da604cd8460a9f260c94b8b73d640",
+  "url": "https://www.kommersant.ru/doc/7834822",
+  "ord_in_thread": 0,
+  "author": "Коммерсантъ",
+  "published": "2025-06-26T07:24:00.000+03:00",
+  "title": "Двух преподавателей техникума Дивногорска будут судить за взятки от абитуриентов",
+  "text": "Двух преподавателей техникума Дивногорска будут судить за взятки от абитуриентов\nКрасноярское управление СК завершило расследование дела в отношении двух преподавателей одного из техникумов Дивногорска. Педагоги обвиняются в 22 эпизодах получения взяток на общую сумму свыше 1,5 млн руб., рассказали в следственном ведомстве.\nПо материалам дела, с августа 2017-го по август 2023 года преподаватель иностранного языка и преподаватель русского языка и литературы, являясь в разное время ответственными секретарями приемной комиссии, брали от абитуриентов взятки за незаконное поступление в учебное заведение без сдачи экзаменов. Расследование установило, что педагоги получили свыше 1,5 млн руб., деньги они делили между собой поровну.\nВ управлении СК сообщили, что абитуриентов освободили от уголовной ответственности в связи с добровольным сообщением о фактах передачи взяток и сотрудничеством со следствием.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Education"],
+  "topics": [
+    "Crime, Law and Justice->judiciary",
+    "Crime, Law and Justice->court",
+    "Crime, Law and Justice->corruption",
+    "Education->college and university",
+    "Education->educational testing and examinations",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ru", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T16:19:35.269+03:00",
+  "updated": "2025-06-27T14:06:47.000+00:00"
+}

@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "cce8c1b66cc0aa82c1d0ad2eb4761b081f08d743",
+    "url": "https://www.telediario.mx/videos/comunidad/limpian-vaso-regulador-alvaro-obregon-cdmx-mes",
+    "site_full": "www.telediario.mx",
+    "site": "telediario.mx",
+    "site_section": "http://laguna.telediario.mx/television",
+    "site_categories": [
+      "media",
+      "education",
+      "entertainment",
+      "top_news_mx",
+      "top_news"
+    ],
+    "section_title": "Televisión | Telediario EN VIVO| Telediario México",
+    "site_title": "Noticias de CdMx en vivo | Qué está pasando en la Ciudad de México| Telediario México| Telediario México",
+    "title": "Limpian vaso regulador en la Álvaro Obregón, CdMx; lleva más de un mes",
+    "title_full": "Limpian vaso regulador en la Álvaro Obregón, CdMx; lleva más de un mes",
+    "published": "2025-05-08T01:56:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://cdn2.telediario.mx/uploads/media/2025/05/07/limpian-vaso-regulador-alvaro-obregon.jpeg",
+    "performance_score": 0,
+    "domain_rank": 37533,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cce8c1b66cc0aa82c1d0ad2eb4761b081f08d743",
+  "url": "https://www.telediario.mx/videos/comunidad/limpian-vaso-regulador-alvaro-obregon-cdmx-mes",
+  "ord_in_thread": 0,
+  "author": "Redacción Telediario",
+  "published": "2025-05-08T01:56:00.000+03:00",
+  "title": "Limpian vaso regulador en la Álvaro Obregón, CdMx; lleva más de un mes",
+  "text": "El vaso regulador del río Becerra se llena de basura, lo que podría provocar inundaciones en la época de lluvia.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Crime, Law and Justice"],
+  "topics": [
+    "Environment->environmental pollution",
+    "Environment->water pollution",
+    "Social Issue->social problem",
+    "Social Issue->social condition",
+    "Social Issue->public housing",
+    "Crime, Law and Justice->vandalism"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:13:05.937+03:00",
+  "updated": "2025-05-08T00:19:40.000+00:00"
+}

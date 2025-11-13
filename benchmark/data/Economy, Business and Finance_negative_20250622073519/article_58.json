@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "7f44d75ba9cdff4629a397baf27c733dc7c8c5da",
+    "url": "https://davefriedman.substack.com/p/mckinsey-doesnt-understand-ai",
+    "site_full": "davefriedman.substack.com",
+    "site": "substack.com",
+    "site_section": "https://substack.com/api/v1/inbox/top?tab=62&tabType=category",
+    "site_categories": [],
+    "section_title": "",
+    "site_title": null,
+    "title": "McKinsey Doesn't Understand AI - by Dave Friedman",
+    "title_full": "McKinsey Doesn't Understand AI - by Dave Friedman",
+    "published": "2025-06-18T16:01:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavefriedman.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1780548464%26version%3D9",
+    "performance_score": 0,
+    "domain_rank": 260,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7f44d75ba9cdff4629a397baf27c733dc7c8c5da",
+  "url": "https://davefriedman.substack.com/p/mckinsey-doesnt-understand-ai",
+  "ord_in_thread": 0,
+  "author": "Dave Friedman",
+  "published": "2025-06-18T16:01:00.000+03:00",
+  "title": "McKinsey Doesn't Understand AI - by Dave Friedman",
+  "text": "For the past 18 months, enterprises have been duct-taping chatbots to workflows and calling it digital transformation. The results speak for themselves: 80% adoption, 0% impact on EBITDA. Now, in a new report , McKinsey finally admits the obvious: copilots don’t move the needle. Their proposed solution? Replace them with “agentic” AI and redesign the enterprise around it.\nThey’re right about the diagnosis. But, as is so often the case with McKinsey, they mistake a compelling PowerPoint for a workable plan. They imagine autonomous agents as a linear unlock for trillion-dollar value capture, ignoring the mess of organizational resistance, technical fragility, and compute economics that make this transition a meat grinder, not a memo.\nLet’s break it down.\nSubscribe The Good: A Better Frame\nCredit where due: the report clearly names the paradox that most exeuctives have been privately stewing over. Gen-AI adoption is high. Impact is low. Why? Because embedding a chatbot into Outlook is not the same as transforming a business function.\nMcKinsey correctly identifies the next phase: agents, not assistants. These are not UX accessories, but workflow primitives: systems that perceive, decide, and act with partial autonomy. Unlike copilots that passively suggest, agents initiate. They fetch documents, call APIs, orchestrate multi-step tasks, and potential restructure entire operational cadences.\nThe report also offers a useful architectural motif: the “agentic mesh”. Think of it as an enterprise nervous system: memory modules, tool interfaces, security layers, and guardrails all stitched into a layer that lives between the LLM and the application surface. If you’re serious about deploying agents at scale, this mesh becomes your control plane and your blast radius.\nAnd yes, McKinsey is correct that this won’t happen unless the CEO drives it. This isn’t an IT project. It’s a reorg with embedded compute.\nSo far, so good. But then the slide clicks forward, and the hallucination begins.\nThe Blind Spots: Linear Thinking in a Nonlinear Domain\nThe Value Mirage\nMcKinsey reuses their now-familiar gen-AI uplift estimate: $2.6 to $4.4 trillion of “value.” But they treat agents as a frictionless unlock, as if dropping them into a workflow immediately extracts latent margin. In practice, most real-world deployments don’t survive contact with the data. Ask anyone who’s run a serious agent pilot, and you’ll hear the same refrain: dirty systems, unknown edge cases, costly tool-chaining, and reliability cliffs.\nAgents aren’t RPA 2.0. They’re stochastic planners with blurry state awareness and a penchant for surprise. They fail differently and more expensively.\nThe Technical Amnesia\nThere’s a passing nod to hallucination, but no real accounting for what makes agents fragile. Multi-step reasoning increases error rates nonlinearly. Long-lived agents suffer state drift. Tool abuse is real: see ServiceNow’s internal write-ups on API overuse loops costing thousands per run. Sub-agent recursion can spawn resource deadlocks. None of this appears in McKinsey’s sanitized maturity matrix.\nWe’re building distributed systems with the failure surfaces of toddlers and the compute appetite of small cities. Treating this as an inevitability rather than a minefield is malpractice.\nThe Infra Abyss\nNowhere does McKinsey mention that agents are infra hogs. They keep memory warm, index context on vector DBs, hit APIs asynchronously, and run token-heavy plans across multiple threads. LLM inference is often <50% of total TCO. The rest is orchestration latency, memory storage, and tool invocation. Worse: most of today’s hyperscale data centers are GPU-optimized sweatboxes. Post-GPU substrates are coming, and they may be incompatible with today’s infra. Stranded asset risk looms. McKinsey doesn’t even glance at it.\nCommoditization Headwinds\nThe report imagines vertical agents as durable moats. In reality, every model provider is actively absorbing agent functionality: tool use, multi-turn memory, reasoning loops. Meta, OpenAI, Anthropic, Amazon: they’re all building orchestration into the model or the host platform. Agents risk becoming middleware mush. The same thing happened to RPA. Expect it again.\nThe moat is not your agent. The moat is your data, your integration layer, and your control over the mesh.\nCultural Reality Distortion\nMcKinsey’s prescriptions, including “transformation squads,” “prompt engineering guilds,” and “governance boards,” sound great in a workshop. But they underestimate the sheer gravitational pull of organizational inertia. Risk teams kill autonomy pilots. Procurement stalls tool access. Security mandates crush cross-domain orchestration. Most enterprises today cap agents at Level 1 or 2 autonomy (read-only or approval-gated). McKinsey sketches Level 4 agents. There is no path provided for how we get there. It’s just a leap of faith across the power curve.\nWhat to Actually Do\nForget the whitepapers. If you’re serious about agents, here’s a saner roadmap.\nStart with bounded autonomy. Pick painful, well-scoped tasks: invoice triage, claim bundling, lead requalification. Build in kill-switches and observability from day one.\nModel true cost. Don’t get distracted by OpenAI pricing. Tool usage, memory calls, latency buffers, and API hits will dominate your bill.\nDesign for disposal. Assume your current orchestration framework will be obsolete in 12–18 months. Architect for swap-ability, not permanence.\nStress-test failure paths. Build adversarial agent testbeds. What happens when an agent gets rate-limited mid-plan? What if a sub-agent times out? Simulate entropy before it hits production.\nBuild trust incrementally. Autonomy is not a switch. Move from assistive to autonomous only when you’ve measured precision, recall, plan success, and safe termination across multiple task types. The gap from “suggest” to “do” is bigger than it looks.\nThe Real Lesson\nMcKinsey’s agent thesis is not wrong so much as it is dangerously incomplete. Yes, copilots are UX glitter. Yes, agents are the next wave. But this isn’t a linear march toward productivity. It’s a strategic trench war, fought across the stack: infrastructure, data access, ops design, and internal resistance.\nTreat McKinsey’s report like a motivational speech at the beginning of a long campaign. The battle map it draws is crude. The terrain is hostile. The enemy is not technical complexity. It’s your own firm’s inertia.\nAnd there’s no agent coming to fix that for you.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->business strategy and marketing"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage#/",
+    "https://en.wikipedia.org/wiki/Robotic_process_automation",
+    "https://www.servicenow.com/community/now-assist-articles/ai-agents-faq-and-troubleshooting/ta-p/3200454?utm_source=chatgpt.com",
+    "https://www.servicenow.com/community/now-assist-articles/ai-agents-faq-and-troubleshooting/ta-p/3200454",
+    "https://mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage#/",
+    "https://www.en.wikipedia.org/wiki/Robotic_process_automation",
+    "https://servicenow.com/community/now-assist-articles/ai-agents-faq-and-troubleshooting/ta-p/3200454?utm_source=chatgpt.com",
+    "https://www.mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage#"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Dave Friedman",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "EBITDA",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": "left"
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:36:17.172+03:00",
+  "updated": "2025-06-19T04:41:43.000+00:00"
+}

@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "68385a9492a6ba2a486000d8f714807685f66f04",
+    "url": "https://german.cri.cn/2025/10/16/ARTI1760601350932524",
+    "site_full": "german.cri.cn",
+    "site": "cri.cn",
+    "site_section": "http://german.cri.cn",
+    "site_categories": ["japan", "travel"],
+    "section_title": "Startseite",
+    "site_title": "国际在线_读懂国际 点赞中国",
+    "title": "China begeht Welternährungstag mit starken Fortschritten bei Ernährungssicherheit",
+    "title_full": "China begeht Welternährungstag mit starken Fortschritten bei Ernährungssicherheit",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "https://38picres.cgtn.com/photoAlbum/page/performance/img/2025/10/16/1760601340992_381.png",
+    "performance_score": 0,
+    "domain_rank": 9529,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "68385a9492a6ba2a486000d8f714807685f66f04",
+  "url": "https://german.cri.cn/2025/10/16/ARTI1760601350932524",
+  "ord_in_thread": 0,
+  "author": "CGTN",
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "China begeht Welternährungstag mit starken Fortschritten bei Ernährungssicherheit",
+  "text": "China begeht Welternährungstag mit starken Fortschritten bei Ernährungssicherheit15:55:55 2025-10-16Share",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": ["Environment", "Politics"],
+  "topics": ["Politics->government policy"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "China",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:37:12.317+03:00",
+  "updated": "2025-10-16T15:48:00.000+03:00"
+}

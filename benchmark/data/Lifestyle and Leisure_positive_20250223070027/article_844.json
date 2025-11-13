@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "c59b78c600022720a511f9165148592b2615ae5c",
+    "url": "https://bvmsports.com/2025/01/23/julian-edelman-praises-mike-vrabels-toughness-and-trust-in-his-ability-to-resurrect-the-new-england-patriots-the-herd",
+    "site_full": "bvmsports.com",
+    "site": "bvmsports.com",
+    "site_section": "https://bvmsports.com/feed/articles-feed/",
+    "site_categories": ["uncategorized"],
+    "section_title": "BVM Sports - Articles",
+    "title": "Julian Edelman praises Mike Vrabel's toughness and trust in his ability to resurrect the New England Patriots | The Herd",
+    "title_full": "Julian Edelman praises Mike Vrabel's toughness and trust in his ability to resurrect the New England Patriots | The Herd",
+    "published": "2025-01-24T00:04:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://a57.foxsports.com/static-media.fox.com/fmc/prod/sports/6c1e346f-e744-4ab2-8a65-af950c318f54/1280/720/hrfvm0kqjrt2is5u.jpg?ve=1&tl=1",
+    "performance_score": 0,
+    "domain_rank": 33724,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c59b78c600022720a511f9165148592b2615ae5c",
+  "url": "https://bvmsports.com/2025/01/23/julian-edelman-praises-mike-vrabels-toughness-and-trust-in-his-ability-to-resurrect-the-new-england-patriots-the-herd",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@foxsports",
+  "published": "2025-01-24T00:04:00.000+02:00",
+  "title": "Julian Edelman praises Mike Vrabel's toughness and trust in his ability to resurrect the New England Patriots | The Herd",
+  "text": "Julian Edelman praises Mike Vrabel’s toughness and trust in his ability to resurrect the New England Patriots | The Herd\nFormer Super Bowl MVP Julian Edelman joins Colin Cowherd to discuss Mike Vrabel's toughness and leadership. He explains why he trusts Vrabel to bring the New England Patriots back to championship contention, highlighting his grit and the qualities that make him the perfect fit for the job.\nRead more at @foxsports",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->sport achievement",
+    "Sport->american football",
+    "Sport->sports coaching",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.foxsports.com/watch/fmc-ii39vse42kmmt73r",
+    "https://foxsports.com/watch/fmc-ii39vse42kmmt73r"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mike Vrabel",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Julian Edelman",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Colin Cowherd",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "New",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:37:20.454+02:00",
+  "updated": "2025-01-24T00:37:20.454+02:00"
+}

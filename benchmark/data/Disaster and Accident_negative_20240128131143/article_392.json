@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "624e2172e231b546526258710beeed2fe6f3c3c5",
+    "url": "https://www.time.news/boeing-737-max-inspections-faa-boeing-requesting-airlines-to-inspect-for-loose-bolt/",
+    "site_full": "www.time.news",
+    "site": "time.news",
+    "site_section": "https://time.news/tag/manorama-online",
+    "site_categories": [],
+    "section_title": "Manorama Online Archives - timenews",
+    "title": "Boeing 737 MAX Inspections: FAA, Boeing Requesting Airlines to Inspect for Loose Bolt - timenews",
+    "title_full": "Boeing 737 MAX Inspections: FAA, Boeing Requesting Airlines to Inspect for Loose Bolt - timenews",
+    "published": "2023-12-29T00:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.pixabay.com/photo/2020/03/17/10/33/ass-4939692_960_720.jpg",
+    "performance_score": 0,
+    "domain_rank": 62144,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "624e2172e231b546526258710beeed2fe6f3c3c5",
+  "url": "https://www.time.news/boeing-737-max-inspections-faa-boeing-requesting-airlines-to-inspect-for-loose-bolt/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "time news",
+  "published": "2023-12-29T00:30:00.000+02:00",
+  "title": "Boeing 737 MAX Inspections: FAA, Boeing Requesting Airlines to Inspect for Loose Bolt - timenews",
+  "text": "Title: Boeing urges airlines to inspect 737 MAX jets for loose bolt in rudder system Former FAA acting administrator Dan Elwell tells ‘The Claman Countdown’ that more approved hours in a flight simulator could help streamline pilot training to help with shortages. Aircraft manufacturer Boeing is urging airlines to inspect 737 MAX airliners for a possible loose bolt in the jet’s rudder control system, the Federal Aviation Administration (FAA) said on Thursday. The FAA said that it is “closely monitoring targeted inspections” of Boeing 737 MAX airplanes after Boeing notified operators of newer single-aisle airplanes to look at specific tie rods that control rudder movement to see if there is any loose hardware. Boeing recommended the inspections after an international operator of the 737 MAX found a bolt with a missing nut during routine maintenance on a mechanism in the rudder control linkage. The company also found an additional undelivered aircraft with a nut that wasn’t properly tightened. “The issue on the particular airplane has been remedied,” Boeing said in a statement provided to FOX Business. “Out of an abundance of caution, we are recommending operators inspect their 737 MAX airplanes and inform us of any findings. We informed the FAA and our customers and will continue to keep them aware of the progress.” Boeing noted that there have been no in-service incidents caused by this issue and that flight crews routinely conduct checks before departing the airport gate that would alter them if the rudder weren’t functioning properly. The company also plans to inspect all new 737 MAX airplanes for this issue before delivery. It added that the process for this inspection is relatively straightforward, requiring the removal of an access panel and visually validating that the part is installed properly, a process that it estimates would take about two hours per plane. The FAA said it will remain in touch with Boeing and the airlines while inspections are underway. The aviation regulator is asking airlines to go through their approved Safety Management Systems to identify whether they have previously detected any loose hardware and to give the FAA details about how quickly the airlines can complete the two-hour inspections. The agency added that it will consider additional action based on any further discoveries of loose or missing hardware. The Boeing 737 MAX was grounded for 20 months around the world after it was involved in two fatal crashes in 2018 and 2019 that killed 346 people in Ethiopia and Indonesia. The accidents resulted in Boeing revamping its crew alerting and flight control systems on the 737 MAX. The company has retrofitted the existing fleet of MAX 8 and MAX 9 aircraft and is awaiting FAA certification of the smaller MAX 7 and larger MAX 10 variants. The company also paid a $2.5 billion settlement, including a $500 million fund to compensate victims’ families, to resolve charges related to defrauding regulators who approved the 737 MAX. Reuters contributed to this report.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "dan elwell",
+        "sentiment": "none"
+      },
+      {
+        "name": "claman",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "faa",
+        "sentiment": "negative"
+      },
+      {
+        "name": "boeing",
+        "sentiment": "negative"
+      },
+      {
+        "name": "boeing requesting airlines",
+        "sentiment": "negative"
+      },
+      {
+        "name": "federal aviation administration",
+        "sentiment": "none"
+      },
+      {
+        "name": "max",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:32:35.219+02:00",
+  "updated": "2023-12-29T00:32:35.219+02:00"
+}

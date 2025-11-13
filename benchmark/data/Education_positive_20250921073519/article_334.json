@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "9674460a37c14a40a2056b45b15c13af0e0f3596",
+    "url": "https://finance.sina.com.cn/roll/2025-09-18/doc-infqwutp4073398.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "https://finance.sina.cn",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪财经_金融信息服务商",
+    "site_title": null,
+    "title": "\"守护一老一小 共筑网络安全防线\"网络安全进校园活动举行|网络安全_新浪财经_新浪网",
+    "title_full": "\"守护一老一小 共筑网络安全防线\"网络安全进校园活动举行|网络安全_新浪财经_新浪网",
+    "published": "2025-09-18T08:02:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 548,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9674460a37c14a40a2056b45b15c13af0e0f3596",
+  "url": "https://finance.sina.com.cn/roll/2025-09-18/doc-infqwutp4073398.shtml",
+  "ord_in_thread": 0,
+  "author": "新华网",
+  "published": "2025-09-18T08:02:00.000+03:00",
+  "title": "\"守护一老一小 共筑网络安全防线\"网络安全进校园活动举行|网络安全_新浪财经_新浪网",
+  "text": "为切实提升未成年人网络安全防范意识与自我保护能力，筑牢校园网络安全屏障，9月16日，在黑龙江省委网信办的指导下，佳木斯市委网信办联合佳木斯市教育局、市第十五小学共同开展“守护一老一小 共筑网络安全防线”网络安全进校园主题活动，为同学们带来一堂生动的网络安全“必修课”。\n  活动以“沉浸式体验+知识传递”为核心，精心设计五大环节。开场环节，主持人以“网络海洋的暗流与礁石”为喻，结合警示教育短视频，直观呈现未成年人网络环境现状及沉迷、打赏等问题，迅速点燃学生参与热情。 机器人 “网佳佳”通过与学生幽默互动，教会学生面对网络欺凌时“不回复、找大人、存证据、去举报、回现实”五步应对法，将抽象知识转化为可操作技能。\n  在网络安全知识宣讲环节，讲师刘佳琦聚焦个人信息保护、网络诈骗防范等核心内容，结合未成年人日常用网场景，用通俗语言拆解风险点，夯实学生知识基础。宣讲结束后，10道快问快答题目随即展开，学生们踊跃举手、积极抢答，现场氛围热烈，并为答对者发放精美礼品。\n  “网络安全大侦探”互动游戏环节将活动推向高潮。学生们化身成网络安全领域中优秀的“大侦探”，在3组模拟场景中，凭借细致地观察和扎实的知识储备，精准找出多处潜藏的网络安全隐患。\n  此次活动聚焦实际需求、创新教育形式，有效填补了未成年人网络安全教育的实践空白。下一步，佳木斯市委网信办将持续深化“守护一老一小”专项行动，推动网络安全教育进校园、进老年大学，构建多维度、常态化的网络安全宣传体系。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Education", "Science and Technology", "Social Issue"],
+  "topics": [
+    "Education->educational testing and examinations",
+    "Education->students",
+    "Education->school",
+    "Science and Technology->social sciences",
+    "Science and Technology->technology and engineering",
+    "Social Issue->children",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_hk", "top_news_sg", "top_news_tw", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:09:15.611+03:00",
+  "updated": "2025-09-19T09:07:45.000+03:00"
+}

@@ -1,0 +1,122 @@
+{
+  "thread": {
+    "uuid": "dbe852b6cecbd0a94ecdd0cf6b6c8f1c57eda96a",
+    "url": "https://mida.gob.pa/2025/10/16/mida-refuerza-su-compromiso-con-la-seguridad-alimentaria-en-el-dia-mundial-de-la-alimentacion/",
+    "site_full": "mida.gob.pa",
+    "site": "mida.gob.pa",
+    "site_section": "https://mida.gob.pa",
+    "site_categories": [],
+    "section_title": "Inicio - Ministerio de Desarrollo Agropecuario",
+    "site_title": "Inicio - Ministerio de Desarrollo Agropecuario",
+    "title": "MIDA refuerza su compromiso con la seguridad alimentaria en el Día Mundial de la Alimentación",
+    "title_full": "MIDA refuerza su compromiso con la seguridad alimentaria en el Día Mundial de la Alimentación",
+    "published": "2025-10-16T16:39:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PA",
+    "main_image": "https://mida.gob.pa/wp-content/uploads/2025/10/merca-scaled.jpg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "dbe852b6cecbd0a94ecdd0cf6b6c8f1c57eda96a",
+  "url": "https://mida.gob.pa/2025/10/16/mida-refuerza-su-compromiso-con-la-seguridad-alimentaria-en-el-dia-mundial-de-la-alimentacion/",
+  "ord_in_thread": 0,
+  "author": "Relaciones Publicas",
+  "published": "2025-10-16T16:39:00.000+03:00",
+  "title": "MIDA refuerza su compromiso con la seguridad alimentaria en el Día Mundial de la Alimentación",
+  "text": "Cada 16 de octubre se celebra el Día Mundial de la Alimentación, una fecha instaurada por la Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO) para reflexionar sobre la importancia de garantizar el acceso a una alimentación suficiente, saludable y sostenible para todos.\nEn el marco de esta conmemoración, el Ministerio de Desarrollo Agropecuario (MIDA), bajo el liderazgo del ministro Roberto Linares, reafirma su compromiso de fortalecer las capacidades productivas del sector agropecuario nacional, promoviendo la innovación, la sostenibilidad y el bienestar de las familias productoras.\nEl MIDA ha intensificado sus esfuerzos para mejorar los niveles de productividad de los agricultores y ganaderos, a través de programas de asistencia técnica, y transferencia de tecnología, con el objetivo que cada panameño tenga acceso a alimentos de calidad, y que cada productor cuente con las herramientas necesarias para prosperar.\nEl Día Mundial de la Alimentación recuerda que la lucha contra el hambre y la malnutrición requiere del compromiso de todos: instituciones, productores, comunidades y consumidores. Desde el MIDA, se continúa impulsando políticas y programas orientados a construir un futuro rural más próspero, sostenible e inclusivo.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Environment", "Health"],
+  "topics": [
+    "Environment->sustainability",
+    "Health->public health",
+    "Health->diet"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Roberto Linares",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Naciones Unidas para la Agricultura y la Alimentación",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Ministerio de Desarrollo Agropecuario",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "MIDA",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "FAO",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:51:53.941+03:00",
+  "updated": "2025-10-16T17:04:21.000+03:00"
+}

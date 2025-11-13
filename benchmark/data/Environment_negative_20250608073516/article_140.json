@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "00fc29e52a5606773227ba3e634bf5a910db31f3",
+    "url": "https://local.newsbreak.com/newsweek-500152/3996376662000-map-shows-where-beers-are-most-contaminated-with-chemicals-study",
+    "site_full": "local.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://local.newsbreak.com/newsweek-500152",
+    "site_categories": [],
+    "section_title": "Newsweek&#x27;s Home Page | NewsBreak",
+    "site_title": "404 Not Found",
+    "title": "Map Shows Where Beers Are Most Contaminated With Chemicals: Study - NewsBreak",
+    "title_full": "Map Shows Where Beers Are Most Contaminated With Chemicals: Study - NewsBreak",
+    "published": "2025-05-08T00:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/4LY0l1_10vqVx4U00",
+    "performance_score": 0,
+    "domain_rank": 3115,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "00fc29e52a5606773227ba3e634bf5a910db31f3",
+  "url": "https://local.newsbreak.com/newsweek-500152/3996376662000-map-shows-where-beers-are-most-contaminated-with-chemicals-study",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T00:33:00.000+03:00",
+  "title": "Map Shows Where Beers Are Most Contaminated With Chemicals: Study - NewsBreak",
+  "text": "Map Shows Where Beers Are Most Contaminated With Chemicals: Study - NewsBreak",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Environment", "Social Issue"],
+  "topics": [
+    "Health->medical test",
+    "Health->health care approach",
+    "Health->health organisation",
+    "Environment->environmental pollution",
+    "Environment->water pollution",
+    "Environment->hazardous materials",
+    "Social Issue->social services",
+    "Social Issue->discrimination"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:20:01.883+03:00",
+  "updated": "2025-05-07T23:25:51.000+00:00"
+}

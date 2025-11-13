@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "ce85d0670e680418dbe603e6ec11e66f9cee4d73",
+    "url": "https://thegeorgeanne.com/49274/featured/gs-academic-success-center-updates-tutoring-services/",
+    "site_full": "thegeorgeanne.com",
+    "site": "thegeorgeanne.com",
+    "site_section": "https://news.google.com/search?q=the%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "The George-Anne Media Group - The student led, student read news organization at Georgia Southern University",
+    "title": "GS Academic Success Center Updates Tutoring Services",
+    "title_full": "GS Academic Success Center Updates Tutoring Services",
+    "published": "2025-09-18T07:59:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://thegeorgeanne.com/wp-content/uploads/2025/09/1100-x-600-newsletter-graphic-6.png",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ce85d0670e680418dbe603e6ec11e66f9cee4d73",
+  "url": "https://thegeorgeanne.com/49274/featured/gs-academic-success-center-updates-tutoring-services/",
+  "ord_in_thread": 0,
+  "author": "Vanessa Alcala",
+  "published": "2025-09-18T07:59:00.000+03:00",
+  "title": "GS Academic Success Center Updates Tutoring Services",
+  "text": "The Academic Success Center (ASC) has released a new update to its tutoring service. Now, students can access a new site called Penji, which connects them to multiple free tutoring services on campus.\nPenji is a third-party website outside of Georgia Southern that helps connect students with campus resources. With Penji, students can access sites such as ASC tutoring, campus resources, Tutor.com, and the Science & Mathematics Academic Resource & Tutorial Center (S.M.A.R.T).\nBefore the change, students would have to go through EAB Navigate on the MyGeorgiaSouthern website.\n“Previously, students had to use the EAB Navigate website; there was a lot of clicking involved, and it wasn’t a simple process for students,” says Joann Cottrell, tutoring coordinator on the Statesboro Campus. “But now through Penji, it’s a lot quicker and a lot less clicks. It’s easier to narrow down options by specific tutors or locations.”\nNow, students can either visit the website or use the Penji mobile app. Penji also allows access not only to the Statesboro Campus, but also to the Armstrong Campus.\n“We highly encourage downloading the Penji app,” says Cottrell, “You can use push notifications for your appointments, and you can instant message the tutors.”\nTo access the app, simply download it from the Google Play or Apple App Store and log in with your MyGeorgiaSouthern credentials.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Economy, Business and Finance"],
+  "topics": [
+    "Education->educational grading",
+    "Education->online and remote learning",
+    "Education->students",
+    "Economy, Business and Finance->human resources"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": ["http://tutor.com", "http://www.tutor.com"],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Joann Cottrell",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "GS Academic Success Center Updates Tutoring Services",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "ASC",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "ASC",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "Science & Mathematics Academic Resource & Tutorial Center",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Statesboro"],
+      "state": ["Georgia"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:04:19.000+03:00",
+  "updated": "2025-09-18T08:11:03.000+03:00"
+}

@@ -1,0 +1,130 @@
+{
+  "thread": {
+    "uuid": "c825ef64a243e6069367145cd27948a62457bfc5",
+    "url": "https://www.dallasnews.com/business/2023/12/28/gasbuddy-sees-gas-prices-dropping-13-cents-a-gallon-across-the-us-next-year/",
+    "site_full": "www.dallasnews.com",
+    "site": "dallasnews.com",
+    "site_section": "https://dallasnews.com/news/obituaries/",
+    "site_categories": ["media"],
+    "section_title": "Obituaries | Dallas Morning News",
+    "title": "GasBuddy sees gas prices dropping 13 cents a gallon across the U.S. next year",
+    "title_full": "GasBuddy sees gas prices dropping 13 cents a gallon across the U.S. next year",
+    "published": "2023-12-28T22:57:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/UZPAPVXVBVEGTJ4EXAIXCWGUYY.jpg?auth=028987cd85e4504ece58cbcdffa7d19bdb21fa239c26f5f694ad7f594cc96fe2&amp;height=467&amp;width=830&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 1098,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c825ef64a243e6069367145cd27948a62457bfc5",
+  "url": "https://www.dallasnews.com/business/2023/12/28/gasbuddy-sees-gas-prices-dropping-13-cents-a-gallon-across-the-us-next-year/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Alexandra Skores",
+  "published": "2023-12-28T22:57:00.000+02:00",
+  "title": "GasBuddy sees gas prices dropping 13 cents a gallon across the U.S. next year",
+  "text": "Your buck is likely to take you on a little farther road trip next year. At least that’s the outlook from Patrick De Haan , GasBuddy’s head of petroleum analysis and one of the most cited experts on gasoline prices.\nAdvertisement De Haan is predicting a 13 cents a gallon drop in regular unleaded gas prices nationwide next year, along with the usual seasonal ups and downs seen every spring and summer. His 2023 prediction fell short by only 2 cents — $3.49 a gallon versus $3.51 in actuality.\nAdvertisement “Those seasonal trends are very well established,” he said. “But all in all, we expect a modest improvement.”\nBusiness Briefing Become a business insider with the latest news.\nSIGN UP Or with:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance"],
+  "external_links": [
+    "https://pditechnologies.com/resources/report/2024-fuel-prices-outlook-trends-gasbuddy/",
+    "http://www.facebook.com/sharer/sharer.php?u=https://www.dallasnews.com/business/2023/12/28/gasbuddy-sees-gas-prices-dropping-13-cents-a-gallon-across-the-us-next-year/&title=GasBuddy%20sees%20gas%20prices%20dropping%2013%20cents%20a%20gallon%20across%20the%20U.S.%20next%20year",
+    "https://247wallst.com/state/how-gas-taxes-in-texas-compare-to-other-states/",
+    "https://caredge.com/guides/average-price-of-an-electric-car",
+    "https://www.politico.com/news/2023/10/06/treasury-biden-electric-vehicle-rebate-00120253",
+    "http://www.facebook.com/sharer/sharer.php",
+    "https://politico.com/news/2023/10/06/treasury-biden-electric-vehicle-rebate-00120253",
+    "https://www.247wallst.com/state/how-gas-taxes-in-texas-compare-to-other-states/",
+    "https://www.caredge.com/guides/average-price-of-an-electric-car",
+    "https://pditechnologies.com/resources/report/2024-fuel-prices-outlook-trends-gasbuddy",
+    "http://facebook.com/sharer/sharer.php?u=https://dallasnews.com/business/2023/12/28/gasbuddy-sees-gas-prices-dropping-13-cents-a-gallon-across-the-us-next-year/&title=GasBuddy%20sees%20gas%20prices%20dropping%2013%20cents%20a%20gallon%20across%20the%20U.S.%20next%20year",
+    "https://www.pditechnologies.com/resources/report/2024-fuel-prices-outlook-trends-gasbuddy/",
+    "https://247wallst.com/state/how-gas-taxes-in-texas-compare-to-other-states"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "gasbuddy",
+        "sentiment": "negative"
+      },
+      {
+        "name": "de haan",
+        "sentiment": "none"
+      },
+      {
+        "name": "patrick de haan",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "dallas-fort worth",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "north texas",
+        "sentiment": "none"
+      },
+      {
+        "name": "atlanta",
+        "sentiment": "none"
+      },
+      {
+        "name": "texas",
+        "sentiment": "none"
+      },
+      {
+        "name": "california",
+        "sentiment": "none"
+      },
+      {
+        "name": "cleveland",
+        "sentiment": "none"
+      },
+      {
+        "name": "houston",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:03:48.503+02:00",
+  "updated": "2024-01-05T00:06:23.163+02:00"
+}

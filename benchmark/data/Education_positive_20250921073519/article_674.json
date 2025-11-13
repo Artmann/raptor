@@ -1,0 +1,129 @@
+{
+  "thread": {
+    "uuid": "a27384e9229bed601424b9518249ad33acca284a",
+    "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1292637",
+    "site_full": "www.daijiworld.com",
+    "site": "daijiworld.com",
+    "site_section": "https://www.daijiworld.com/news",
+    "site_categories": ["media", "top_news_kw", "top_news_ae", "top_news"],
+    "section_title": "Mangalore News , karnataka News , Konkani News - Daijiworld.com",
+    "site_title": "Daijiworld - A News portal linking West coast of India and the World",
+    "title": "GATA to launch global Tulu script learning classes from Sep 21 - Daijiworld.com",
+    "title_full": "GATA to launch global Tulu script learning classes from Sep 21 - Daijiworld.com",
+    "published": "2025-09-18T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/gatatuli_180925_1.jpg",
+    "performance_score": 0,
+    "domain_rank": 42507,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 3,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a27384e9229bed601424b9518249ad33acca284a",
+  "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1292637",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T03:00:00.000+03:00",
+  "title": "GATA to launch global Tulu script learning classes from Sep 21 - Daijiworld.com",
+  "text": "News: Shreevalli Rai Martell\nMangaluru, Sep 18: Global Alliance of Tulu Association (GATA), an organization that brings together Tulu leaders from across the world, will launch its first-ever Tulu script learning program on September 21. The inaugural session will be held virtually on the Zoom platform at 7 pm IST.\nOn this occasion, blessings will be rendered by Odiyoor Swamiji, while senior leaders D K Shetty and Sarvottama Shetty (Abu Dhabi) will participate as guests.\nFrom L to R: D K Shetty, Odiyoor Swamiji and Sarvottama Shetty\nThe classes will be conducted by Shreevalli Rai Martell from Florida, USA, and she will be supported by Prabhakar Bhatt (USA), Suresh Poonja (Australia), Shubhashri K M (India), Sarita Arun Shetty (UK), Shruta Shetty (UK), and Chandrahas Shetty (Muscat). Technical support for the programme will be provided by Team Ilesa.\nThose interested in learning the Tulu script can Click Here.\nFor assistance in filling out the form, participants may contact Suri Marnad.\nClass schedule: To accommodate participants from different countries, two sessions will be conducted every Saturday:\n• Batch 1: 9:00 – 10:00 pm (Saturday, Australia time) / 6:30 – 7:30 am EST\n• Batch 2: 10:30 – 11:30 am EST / 8:00 – 9:00 pm IST\nA total of 10 classes will be held across 10 Saturdays.\nThis initiative by GATA to preserve and promote the Tulu language and script has brought immense joy among Tuluvas worldwide.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest"],
+  "topics": [
+    "Education->adult and continuing education",
+    "Education->students",
+    "Education->online and remote learning",
+    "Human Interest->graduation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://docs.google.com/forms/d/e/1FAIpQLSfglSDPTCvFif0tbY12sxlVfhUYtTNy9SsLJgf23xQYT-DOrQ/viewform",
+    "https://www.docs.google.com/forms/d/e/1FAIpQLSfglSDPTCvFif0tbY12sxlVfhUYtTNy9SsLJgf23xQYT-DOrQ/viewform"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Shreevalli Rai Martell\nMangaluru",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Sarita Arun Shetty",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sarvottama Shetty",
+        "sentiment": "none"
+      },
+      {
+        "name": "Chandrahas Shetty",
+        "sentiment": "none"
+      },
+      {
+        "name": "Prabhakar Bhatt",
+        "sentiment": "none"
+      },
+      {
+        "name": "Odiyoor Swamiji",
+        "sentiment": "none"
+      },
+      {
+        "name": "Shruta Shetty",
+        "sentiment": "none"
+      },
+      {
+        "name": "Suresh Poonja",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Global Alliance of Tulu Association",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_kw", "top_news_ae", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:49:38.827+03:00",
+  "updated": "2025-09-19T09:06:30.000+03:00"
+}

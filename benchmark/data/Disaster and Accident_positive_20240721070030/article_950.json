@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "9f3be5820f26291e818fd22affc8784981778a28",
+    "url": "https://www.newsbytesapp.com/news/auto/young-child-recued-from-tesla-as-battery-depletes/story",
+    "site_full": "www.newsbytesapp.com",
+    "site": "newsbytesapp.com",
+    "site_section": "https://www.newsbytesapp.com:443/feed",
+    "site_categories": ["media"],
+    "section_title": "NewsBytes",
+    "title": "Toddler trapped inside Tesla car with depleted battery rescued",
+    "title_full": "Toddler trapped inside Tesla car with depleted battery rescued",
+    "published": "2024-06-24T12:59:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://i.cdn.newsbytesapp.com/images/l23820240624174847.jpeg",
+    "performance_score": 0,
+    "domain_rank": 29853,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9f3be5820f26291e818fd22affc8784981778a28",
+  "url": "https://www.newsbytesapp.com/news/auto/young-child-recued-from-tesla-as-battery-depletes/story",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Akash Pandey",
+  "published": "2024-06-24T12:59:00.000+03:00",
+  "title": "Toddler trapped inside Tesla car with depleted battery rescued",
+  "text": "Toddler trapped inside Tesla car with depleted battery rescued\nAkash Pandey\nA 20-month-old toddler was trapped inside a\nTesla Model Y during an Arizona heat wave, when the vehicle's battery unexpectedly died.\nThe toddler's grandmother, Renee Sanchez, discovered she was unable to access the car due to the battery failure, CBS-affiliated news station AZFamily reported.\nDespite initial concerns about accessing the vehicle due to its make, firefighters managed to rescue the child by breaking a window with an axe.\nDebate over responsibility for Tesla's safety issues\nThe incident has sparked a debate over who should be responsible for these safety issues.\nUsually, Tesla owners receive alerts when the 12V battery responsible for the vehicle's electrical systems is running low.\nHowever, Sanchez reported that she did not receive an alert about her car's low battery, a claim later confirmed by a\n[Tesla]( https://www.newsbytesapp.com/news/auto/tesla ) representative.\nWhile the vehicle does have a manual latch for emergency exits, it was not a viable solution given the toddler's age.\nOther incidents of people being trapped in Tesla vehicles\nThis is not an isolated case as there have been other reports of people getting trapped inside Tesla vehicles due to similar issues.\nArizona local and Tesla owner Rick Meggison shared his own experience of being trapped in his Tesla during extreme heat.\n\"You don't know it's there unless you know it's there,\" Meggison told Phoenix\n['s ABC15.\n]( https://www.newsbytesapp.com/news/world/phoenix )\nCriticism of Tesla's approach to safety\nMichael Brooks, the Executive Director of the Center for Auto Safety, criticized Tesla for choosing \"electronic door latches that don't have proper emergency safeguards\" and prioritizing \"form over function.\" He further stated, \"When there's not a federal standard that specifies how these vehicles are to be made, Tesla very rarely chooses routes that are safe. They're usually choosing something glitzy: safety comes last.\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Health", "Human Interest", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "akash pandey",
+        "sentiment": "negative"
+      },
+      {
+        "name": "tesla",
+        "sentiment": "none"
+      },
+      {
+        "name": "sanchez",
+        "sentiment": "none"
+      },
+      {
+        "name": "renee sanchez",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cbs",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "arizona",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-24T15:33:17.357+03:00",
+  "updated": "2024-06-24T15:33:17.357+03:00"
+}

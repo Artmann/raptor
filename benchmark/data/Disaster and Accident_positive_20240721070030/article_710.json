@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "d52842dcd9c6e98162e86807de44158341de6922",
+    "url": "https://www.uniindia.com/isro-achieves-third-successful-rlv-landing-experiment/south/news/3225979.html",
+    "site_full": "www.uniindia.com",
+    "site": "uniindia.com",
+    "site_section": "https://www.uniindia.com",
+    "site_categories": ["media"],
+    "section_title": "\r\n\tUNITED NEWS OF INDIA\r\n",
+    "title": "ISRO achieves third successful RLV landing experiment",
+    "title_full": "ISRO achieves third successful RLV landing experiment",
+    "published": "2024-06-23T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://www.uniindia.com/cms/gall_content/2024/6/2024_6$largeimg23_Jun_2024_130531893.JPG",
+    "performance_score": 0,
+    "domain_rank": 26969,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d52842dcd9c6e98162e86807de44158341de6922",
+  "url": "https://www.uniindia.com/isro-achieves-third-successful-rlv-landing-experiment/south/news/3225979.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Uniindia News Service",
+  "published": "2024-06-23T03:00:00.000+03:00",
+  "title": "ISRO achieves third successful RLV landing experiment",
+  "text": "States » SouthPosted at: Jun 23 2024 1:05PM ISRO achieves third successful RLV landing experimentBengaluru, June 23 (UNI) The Indian Space Research Organisation (ISRO) has reached a new milestone with the successful completion of the third consecutive Reusable Launch Vehicle (RLV) Landing Experiment (LEX). The final test in the LEX series, LEX-03, took place at 07:10 IST on Sunday, at the Aeronautical Test Range (ATR) in Karnataka's Chitradurga. Building on the achievements of the previous RLV LEX-01 and LEX-02 missions, the RLV LEX-03 test re-demonstrated the autonomous landing capabilities of the RLV under more challenging conditions. This included a cross-range of 500 meters, significantly more than the 150 meters for LEX-02, and in more severe wind conditions, according to a statement posted on X. The winged vehicle, named 'Pushpak,' was released from an Indian Air Force Chinook Helicopter at an altitude of 4.5 km. From this release point, Pushpak autonomously executed cross-range correction maneuvers, approached the runway, and performed a precise horizontal landing at the runway centerline. Its aerodynamic configuration, characterized by a low lift-to-drag ratio, resulted in a landing velocity exceeding 320 kmph, compared to 260 kmph for commercial aircraft and 280 kmph for typical fighter jets. After touchdown, the vehicle's speed was reduced to nearly 100 kmph using its brake parachute, followed by the employment of landing gear brakes for deceleration and stopping on the runway. During this ground roll phase, Pushpak utilized its rudder and nose wheel steering system to maintain stability and precision. This mission simulated the approach and landing conditions for a vehicle returning from space, reaffirming ISRO's expertise in acquiring critical technologies for the development of a Reusable Launch Vehicle (RLV). The advanced guidance algorithm for longitudinal and lateral plane error corrections, crucial for future Orbital Re-entry Missions, was successfully validated. The RLV-LEX employs multisensor fusion, integrating data from Inertial sensors, Radar altimeter, Flush air data system, Pseudolite system, and NaviC. Remarkably, the RLV-LEX-03 mission reused the winged body and flight systems from the LEX-02 mission without any modifications, demonstrating the robustness of ISRO's design and reuse capabilities. The mission was a collaborative effort led by VSSC and involved multiple ISRO centers, including SAC, ISTRAC, and SDSC-SHAR. It received significant support from the Indian Air Force (IAF), Aeronautical Development Establishment (ADE), Aerial Delivery Research and Development Establishment (ADRDE), Regional Centre for Military Airworthiness (RCMA) under the Centre for Military Airworthiness and Certification (CEMILAC), National Aerospace Laboratories (NAL), Indian Institute of Technology, Kanpur, Indian aerospace industrial partners, Indian Oil Corporation, and the Airport Authority of India. S. Somanath, Chairman of ISRO and Secretary of the Department of Space, congratulated the team for their sustained efforts in achieving success in such complex missions. Dr. S. Unnikrishnan Nair, Director of VSSC, highlighted that this consistent success boosts ISRO's confidence in the critical technologies required for future orbital re-entry missions. J. Muthupandian served as the Mission Director, and B. Karthik was the Vehicle Director for this successful mission. UNI BDN AKSTags: #ISRO achieves third successful RLV landing experiment",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Science and Technology"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "pushpak",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "isro",
+        "sentiment": "negative"
+      },
+      {
+        "name": "indian space research organisation",
+        "sentiment": "none"
+      },
+      {
+        "name": "lex",
+        "sentiment": "none"
+      },
+      {
+        "name": "air force",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "karnataka",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-23T14:55:57.562+03:00",
+  "updated": "2024-06-23T14:55:57.562+03:00"
+}

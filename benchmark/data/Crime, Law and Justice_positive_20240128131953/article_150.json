@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "3ddd00f685b042a3473d889f6bc04ef2df18da41",
+    "url": "https://www.wave3.com/2023/12/29/case-closed-dna-testing-agency-changes-how-investigators-solve-cold-cases/",
+    "site_full": "www.wave3.com",
+    "site": "wave3.com",
+    "site_section": "https://wave3.com/powernation",
+    "site_categories": ["media"],
+    "section_title": "POWERNATION",
+    "title": "Case Closed: DNA testing agency changes how investigators solve cold cases",
+    "title_full": "Case Closed: DNA testing agency changes how investigators solve cold cases",
+    "published": "2023-12-29T02:20:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-wave-prod.cdn.arcpublishing.com/resizer/v2/D3ZQB2G7GVH6ZMYNDUKWQTHIKQ.bmp?auth=41e90bb8f752e9f75c4c09d3f4e3d0a599a001e262c8cbd3dd3192ff4e5253c0&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 14307,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3ddd00f685b042a3473d889f6bc04ef2df18da41",
+  "url": "https://www.wave3.com/2023/12/29/case-closed-dna-testing-agency-changes-how-investigators-solve-cold-cases/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@wave3news",
+  "published": "2023-12-29T02:20:00.000+02:00",
+  "title": "Case Closed: DNA testing agency changes how investigators solve cold cases",
+  "text": "Case Closed: DNA testing agency changes how investigators solve cold cases LOUISVILLE, Ky. (WAVE) - A specialized DNA testing agency is helping Kentucky law enforcement agencies close cold cases. This week, Kentucky State Police announced they closed a forty-year-old cold case with the assistance of Othram. Othram uses a process called forensic-grade genome sequencing, where they extract DNA from evidence left at crime scenes and find relatives of the victim or suspect(s). This is different from DNA testing law enforcement agencies perform. They use CODIS, a database with people who’ve been convicted of crimes. When there are no matches in CODIS, investigators look for other ways to generate leads. There are three DNA databases Othram uses to find potential matches: DNA solves, family tree DNA, and GenMatch. All three are authorized by law enforcement to use. “We help law enforcement agencies infer identities and continue their investigations,” Dr. Kristen Mittelman, Othram’s Chief Development officer said. [This year, Othram](https://othram.com/recent_casework.html) helped close 144 cold cases across the country. Shively Police partnered with Othram this year in hopes of finding [the identity of a woman’s remains found in 2005](https://www.wave3.com/2023/12/07/shively-police-search-leads-18-year-cold-case/). “Recently, we have started working very closely with Kentucky law enforcement over the last couple of years,” Dr. Mittelman explained. “I am thrilled that agencies there want to use this technology consistently in their investigations when there’s a DNA dead end.” Last year, a bill called the Carla Walker Act was introduced in the Senate. It’s named after a case that went unsolved for more than four decades. It was solved a few years ago because of advanced DNA testing. If passed, the bill would provide grants for state and local law enforcement agencies to use companies like Othram. “It’s really sad to see that there are cases and requests that have already passed feasibility analysis, so we know they will work,” Dr. Mittelman said. “Unfortunately, they are sitting there because there’s no funding.” Othram’s methods also help police find people who are actively committing crimes but haven’t been caught. A lack of federal funding for Othram and companies like it leaves, even more, unidentified victims and families waiting for justice. Copyright 2023 WAVE. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Human Interest",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [
+    "https://othram.com/recent_casework.html)",
+    "https://www.othram.com/recent_casework.html)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "kristen mittelman",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "kentucky state police",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "louisville",
+        "sentiment": "none"
+      },
+      {
+        "name": "ky.",
+        "sentiment": "none"
+      },
+      {
+        "name": "kentucky",
+        "sentiment": "none"
+      },
+      {
+        "name": "codis",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T03:58:02.141+02:00",
+  "updated": "2023-12-29T03:58:02.141+02:00"
+}

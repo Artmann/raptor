@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "0520291130e0b4318dba2370dd1ff65e6f7ee17e",
+    "url": "https://zjic.zj.gov.cn/ywdh/nyhj/202510/t20251016_23747597.shtml",
+    "site_full": "zjic.zj.gov.cn",
+    "site": "zj.gov.cn",
+    "site_section": "https://zjic.zj.gov.cn/ywdh/nyhj",
+    "site_categories": [],
+    "section_title": "浙江省经济信息中心",
+    "site_title": null,
+    "title": "浙江省经济信息中心",
+    "title_full": "浙江省经济信息中心",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 17113,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0520291130e0b4318dba2370dd1ff65e6f7ee17e",
+  "url": "https://zjic.zj.gov.cn/ywdh/nyhj/202510/t20251016_23747597.shtml",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "浙江省经济信息中心",
+  "text": "“轻触式”技术攻克山地光伏建造难题\n日期: 2025-10-16来源：科技日报\n苍穹湛蓝，阳光炽热。在海拔4200米的四川凉山立洲水电站水光互补让白100兆瓦光伏项目，一片占地面积199公顷的光伏蓝海铺展在群山之间，吸收着太阳光华。\n在这片生态极其敏感的土地上，建设者们成功解答了一道复杂的生态考题：他们摒弃“开山劈石”方式，采用“轻触式”建造，将数万块光伏板精准地放置在山间。\n山地光伏面临的挑战远超寻常。高海拔、陡坡度、生态红线——每一个词都意味着巨大的施工制约。传统的重机械、大开挖建设模式在这里不仅成本高昂，还会对脆弱生态造成不可逆的伤害。中国建筑第二工程局有限公司（以下简称“中建二局”）研发的“高海拔复杂山地环境集中光伏绿色建造关键技术”，成为破题的关键，其核心是以“轻触”减少对山地与生态的扰动。\n那么，关键技术如何做到“轻触”？\n首先是“建造轻触”。项目团队运用北斗定位和无人机遥感测绘技术，精准规划每一处支架的基础点位和安装路径。光伏板支架采用无需大规模浇筑的微型桩技术，从源头上避免了盲目施工和过度开挖。\n其次是“运输轻触”。施工便道利用原有地形，物资运输新增无人机空中搬运，尽可能减少车辆对草地的碾压。\n最后是“安装轻触”。项目团队采用MPS模块化超集成预装变电站技术，在工厂内完成庞大变电站的集成预装，测试完毕后，将其整体运输至项目现场，直接吊装至预设的简易基础上，接通外部线路即可投入运行。\n“以前光伏项目土石方开挖量大，易导致水土流失。采用‘轻触式’建造，现场作业量减少了70%以上，对环境的影响降到了最低。”中建二局项目总工程师孙涛说。\n“轻触式”建造技术最大程度保留了高原的原始地貌，三五成群的牦牛穿梭在近200公顷的光伏组件之间，构成人与自然和谐共生的光景。\n依托高海拔复杂山地环境集中光伏绿色建造关键技术，中建二局陆续在四川、云南、甘肃等地建起一座座山地光伏电站，不仅源源不断地向社会输送清洁电力，更为生态敏感地区绿色基础设施建设提供了可复制方案。\n孙涛表示：“未来，随着‘轻触式’绿色建造模式在更多地区推广，我们离‘双碳’目标也将更近一步。”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Environment"],
+  "topics": [
+    "Science and Technology->geology",
+    "Science and Technology->technology and engineering",
+    "Environment->environmental clean-up",
+    "Environment->energy saving",
+    "Environment->sustainability"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:24:41.507+03:00",
+  "updated": "2025-10-16T14:04:28.000+03:00"
+}

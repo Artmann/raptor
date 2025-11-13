@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "472a9d7551983ad2e180fff8a5bcd8d08d426ea9",
+    "url": "https://donalds.house.gov/news/documentsingle.aspx?DocumentID=2186",
+    "site_full": "donalds.house.gov",
+    "site": "house.gov",
+    "site_section": "https://donalds.house.gov/news",
+    "site_categories": [],
+    "section_title": "\r\n\tLatest News | U.S. Congressman Byron Donalds\r\n",
+    "site_title": null,
+    "title": "Donalds Celebrates National App Challenge Day: District 19 Submissions Due October 30th | U.S. Congressman Byron Donalds",
+    "title_full": "Donalds Celebrates National App Challenge Day: District 19 Submissions Due October 30th | U.S. Congressman Byron Donalds",
+    "published": "2025-09-17T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://donalds.house.gov/images/facebook-meta.jpg",
+    "performance_score": 0,
+    "domain_rank": 2134,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "472a9d7551983ad2e180fff8a5bcd8d08d426ea9",
+  "url": "https://donalds.house.gov/news/documentsingle.aspx?DocumentID=2186",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-17T03:00:00.000+03:00",
+  "title": "Donalds Celebrates National App Challenge Day: District 19 Submissions Due October 30th | U.S. Congressman Byron Donalds",
+  "text": "Donalds Celebrates National App Challenge Day: District 19 Submissions Due October 30th\nWashington,\nSeptember 17, 2025\nWASHINGTON – In celebration of National App Challenge Day, Congressman Byron Donalds (R-FL) has rereleased the following information regarding the IMPORTANT DATES:\nELIGIBILITY:\nFOR ADDITIONAL INFORMATION:\n|",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->educational grading",
+    "Education->students",
+    "Education->online and remote learning",
+    "Social Issue->communities",
+    "Social Issue->social networking",
+    "Social Issue->social services",
+    "Human Interest->record and achievement"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Byron Donalds",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "gov_news",
+      "city": ["Washington"],
+      "state": ["DC"],
+      "country": ["US"],
+      "domain_type": "Federal - Legislative",
+      "agency": "The Legislative Branch",
+      "organization_name": "US House of Representatives"
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:52:37.443+03:00",
+  "updated": "2025-09-18T07:59:40.000+03:00"
+}

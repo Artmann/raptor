@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "a433c51836caac6ea7e52feb4aecb350ebd62153",
+    "url": "https://www.bernama.com/en/news.php/?id=2479745",
+    "site_full": "www.bernama.com",
+    "site": "bernama.com",
+    "site_section": "http://www.bernama.com/en/rssfeed.php",
+    "site_categories": ["social", "top_news_my", "top_news"],
+    "section_title": "BERNAMA - English Version",
+    "site_title": "BERNAMA - Malaysian National News Agency",
+    "title": "Business : Gamuda Advances ASEAN's Clean Energy Transition With Engineering Expertise",
+    "title_full": "Business : Gamuda Advances ASEAN's Clean Energy Transition With Engineering Expertise",
+    "published": "2025-10-16T16:30:37.108+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://www.bernama.com/storage/photos/14e90807afaeeb4051f7a41b1600d3d568f0f23743d25-medium",
+    "performance_score": 0,
+    "domain_rank": 31964,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a433c51836caac6ea7e52feb4aecb350ebd62153",
+  "url": "https://www.bernama.com/en/news.php/?id=2479745",
+  "ord_in_thread": 0,
+  "author": "BERNAMA",
+  "published": "2025-10-16T16:30:37.108+03:00",
+  "title": "Business : Gamuda Advances ASEAN's Clean Energy Transition With Engineering Expertise",
+  "text": "KUALA LUMPUR, Oct 16 (Bernama) -- Gamuda Bhd, a regional engineering group, is advancing to meet the growing demand for clean energy by leveraging its engineering capabilities to deliver large-scale renewable energy (RE) projects with the speed and scale to meet the urgent green energy demands.\nGamuda Engineering managing director Justin Chin Jing Ho said ASEAN's clean energy transition is a powerful economic driver for the region.\n“Hence, Gamuda is committed to playing an integral role by applying our top-to-toe engineering and development expertise to deliver the critical renewable energy and sustainable infrastructure that will underpin this growth,\" he said in a statement today.\nWith ASEAN projected to account for 25 per cent of global energy demand growth by 2035, Gamuda's regional footprint is well-positioned to help power that momentum.\nHe said Gamuda is leveraging its deep expertise in construction and infrastructure, deploying the same end-to-end capabilities in civil engineering, design, project management and financial modelling honed through decades of delivering mega infrastructure projects, to build large-scale solar, wind, hydro, battery storage and transmission assets across the region.\nAt the ASEAN Energy Business Forum (AEBF) 2025, Gamuda showcased its diverse and expanding renewable energy portfolio, which has rapidly grown into a three-gigawatt pipeline in just three years with projects across Malaysia, Australia and Taiwan.\n-- BERNAMA\nBERNAMA provides up-to-date authentic and comprehensive news and information which are disseminated via BERNAMA Wires; www.bernama.com; BERNAMA TV on Astro 502, unifi TV 631 and MYTV 121 channels and BERNAMA Radio on FM93.9 (Klang Valley), FM107.5 (Johor Bahru), FM107.9 (Kota Kinabalu) and FM100.9 (Kuching) frequencies.\nFollow us on social media :\nFacebook : @bernamaofficial, @bernamatv, @bernamaradio\nTwitter : @bernama.com, @BernamaTV, @bernamaradio\nInstagram : @bernamaofficial, @bernamatvofficial, @bernamaradioofficial\nTikTok : @bernamaofficial\n© 2025 BERNAMA\n• Disclaimer\n• Privacy Policy\n• Security Policy",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Environment"],
+  "topics": [
+    "Economy, Business and Finance->business service",
+    "Economy, Business and Finance->energy and resource",
+    "Environment->sustainability",
+    "Environment->energy saving",
+    "Environment->energy resources"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Justin Chin Jing Ho",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Gamuda Advances ASEAN",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Gamuda Bhd",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Gamuda Engineering",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "a433c51836caac6ea7e52feb4aecb350ebd62153",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_my", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:30:37.108+03:00",
+  "updated": "2025-10-17T17:09:50.000+03:00"
+}

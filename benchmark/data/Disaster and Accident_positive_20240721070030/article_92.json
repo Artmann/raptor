@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "66e6874666e15b0ef6994dae492468c02c2f183e",
+    "url": "https://www.newindianexpress.com/cities/delhi/2024/Jun/21/rain-brings-relief-imd-says-heatwave-to-return",
+    "site_full": "www.newindianexpress.com",
+    "site": "newindianexpress.com",
+    "site_section": "https://newindianexpress.com/feed",
+    "site_categories": ["media", "top_news"],
+    "section_title": "newindianexpress",
+    "title": "Rain brings relief, IMD says heatwave to return",
+    "title_full": "Rain brings relief, IMD says heatwave to return",
+    "published": "2024-06-21T01:11:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://media.assettype.com/newindianexpress%2F2024-06%2F2320a97a-03ef-4562-a471-af74e3e2d17f%2FRain_brings.jpg?rect=0%2C0%2C973%2C511&amp;w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+    "performance_score": 0,
+    "domain_rank": 3367,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "66e6874666e15b0ef6994dae492468c02c2f183e",
+  "url": "https://www.newindianexpress.com/cities/delhi/2024/Jun/21/rain-brings-relief-imd-says-heatwave-to-return",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jitendra Choubey",
+  "published": "2024-06-21T01:11:00.000+03:00",
+  "title": "Rain brings relief, IMD says heatwave to return",
+  "text": "NEW DELHI: Western Disturbance-induced rainfall has abated heatwave conditions prevailing across vast regions of the country’s northwest, bringing relief to millions. Maximum temperatures dipped around 7°C below normal. However, heatwave conditions will return in the next two days in the region, IMD forecast.\nModerate rainfall accompanied with strong surface winds (25-35 kmph) over Punjab, Haryana, Delhi, Uttar Pradesh, Himachal Pradesh Uttarakhand, Jammu & Kashmir, and northern Rajasthan occurred during the past 24 hours and up to 6 cm of rainfall was recorded.\nAccording to the Met office, Delhi’s Ridge area recorded a dip of 2°C, which came as a respite from the extensive period of heatwaves. An average 4°C fall in maximum temperatures was witnessed in Delhi-NCR.\nThe maximum temperature was settled at 40°C, while the minimum temperature recorded at 29.6°C. The weather department has predicted partly cloudy sky with possibility of rain or dust storm on Friday. The maximum and minimum temperature are likely to settle around 40°C and 29°C respectively, the IMD said.\n“Besides Western Disturbance, lower level of moist laden easterlies form Bay of Bengal due to strengthening of monsoon also influenced rainfall conditions in northwest region,” said Dr RK Jenamani, senior scientist at the IMD.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Weather"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "imd",
+        "sentiment": "negative"
+      },
+      {
+        "name": "himachal pradesh uttarakhand",
+        "sentiment": "none"
+      },
+      {
+        "name": "ncr",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "new delhi",
+        "sentiment": "none"
+      },
+      {
+        "name": "haryana",
+        "sentiment": "none"
+      },
+      {
+        "name": "delhi",
+        "sentiment": "none"
+      },
+      {
+        "name": "kashmir",
+        "sentiment": "none"
+      },
+      {
+        "name": "punjab",
+        "sentiment": "none"
+      },
+      {
+        "name": "rajasthan",
+        "sentiment": "none"
+      },
+      {
+        "name": "jammu",
+        "sentiment": "none"
+      },
+      {
+        "name": "uttar pradesh",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-21T06:13:20.513+03:00",
+  "updated": "2024-06-21T06:13:20.513+03:00"
+}

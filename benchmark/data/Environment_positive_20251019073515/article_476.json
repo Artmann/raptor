@@ -1,0 +1,146 @@
+{
+  "thread": {
+    "uuid": "657ca572c7c2394f7fe6c6f0aff3251990c9c188",
+    "url": "https://www.europapress.es/economia/noticia-edp-acelera-crecimiento-australia-17-gw-proyectos-solares-almacenamiento-20251016134923.html",
+    "site_full": "www.europapress.es",
+    "site": "europapress.es",
+    "site_section": "https://www.europapress.es/noticias/",
+    "site_categories": ["media", "top_news_es", "top_news_pe", "top_news"],
+    "section_title": "\r\n\t Últimas Noticias - EUROPA PRESS\r\n",
+    "site_title": "Europa Press -  Agencia de noticias",
+    "title": "EDP acelera el crecimiento en Australia con 1,7 GW de proyectos solares y de almacenamiento",
+    "title_full": "EDP acelera el crecimiento en Australia con 1,7 GW de proyectos solares y de almacenamiento",
+    "published": "2025-10-16T14:49:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://img.europapress.es/fotoweb/fotonoticia_20251016134923_1200.jpg",
+    "performance_score": 0,
+    "domain_rank": 4744,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "657ca572c7c2394f7fe6c6f0aff3251990c9c188",
+  "url": "https://www.europapress.es/economia/noticia-edp-acelera-crecimiento-australia-17-gw-proyectos-solares-almacenamiento-20251016134923.html",
+  "ord_in_thread": 0,
+  "author": "europa press",
+  "published": "2025-10-16T14:49:00.000+03:00",
+  "title": "EDP acelera el crecimiento en Australia con 1,7 GW de proyectos solares y de almacenamiento",
+  "text": "OVIEDO 16 Oct. (EUROPA PRESS) -\nEDP ha dado un nuevo impulso a su expansión en el mercado australiano tras ganar la cuarta convocatoria del programa Capacity Investment Scheme (CIS) del Gobierno de Australia, lo que le garantiza ingresos a largo plazo para el desarrollo de dos proyectos híbridos de energía solar y almacenamiento en baterías, que sumarán más de 1,7 gigavatios (GW) al sistema energético nacional.\nLos proyectos seleccionados son el 'Punchs Creek Renewable Energy Project', ubicado en la región de Toowoomba (Queensland), con 480 MWp de capacidad solar y un sistema de baterías de 400 MW/1.600 MWh, y el 'Merino Hybrid Project', cerca de Goulburn (Nueva Gales del Sur), con 530 MWp solares y 450 MW/1.800 MWh de almacenamiento.\nSegún la compañía, el proyecto 'Punchs Creek' está previsto que inicie operaciones en 2029, mientras que 'Merino' alcanzará su fase de construcción en la segunda mitad de 2026.\nAmbos parques incorporarán más de 1,5 millones de paneles solares distribuidos en 1.600 hectáreas, capaces de generar anualmente unos 2,2 TWh de energía limpia, suficiente para abastecer a unos 380.000 hogares australianos.\nEDP estima que la fase de construcción de los proyectos generará más de 1.600 empleos locales y un impacto económico notable en las comunidades vecinas. De hecho, ha anunciado una inversión de hasta 17 millones de dólares australianos para programas de beneficios compartidos destinados a comunidades locales y pueblos indígenas.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Environment"],
+  "topics": [
+    "Economy, Business and Finance->energy and resource",
+    "Environment->energy resources",
+    "Environment->sustainability"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Nueva Gales del",
+        "sentiment": "none"
+      },
+      {
+        "name": "Queensland",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "EDP",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "EDP",
+            "exchange": "Euronext Lisbon"
+          }
+        ]
+      },
+      {
+        "name": "EUROPA PRESS",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Gobierno de Australia",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "CIS",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "CIS",
+            "exchange": "FRA"
+          }
+        ]
+      },
+      {
+        "name": "GW",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_es", "top_news_pe", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:54:32.780+03:00",
+  "updated": "2025-10-16T15:12:24.000+03:00"
+}

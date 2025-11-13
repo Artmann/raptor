@@ -1,0 +1,128 @@
+{
+  "thread": {
+    "uuid": "d3dbf11872e8ebc2459e8d5bb7686b1a0f650139",
+    "url": "https://www.localmemphis.com/article/news/crime/man-injured-shooting-getwell-road/522-bc382cda-a1a6-480b-a9ed-95fc0ba2db6a",
+    "site_full": "www.localmemphis.com",
+    "site": "localmemphis.com",
+    "site_section": "https://localmemphis.com/news",
+    "site_categories": ["media"],
+    "section_title": "News Headlines | localmemphis.com",
+    "title": "Two men injured in Parkway Village shooting in Memphis | localmemphis.com",
+    "title_full": "Two men injured in Parkway Village shooting in Memphis | localmemphis.com",
+    "published": "2024-04-25T10:17:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.tegna-media.com/assets/WATN/images/d098d22a-6742-42e5-8d3f-7de9d1c2960a/d098d22a-6742-42e5-8d3f-7de9d1c2960a_1140x641.jpg",
+    "performance_score": 0,
+    "domain_rank": 25580,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d3dbf11872e8ebc2459e8d5bb7686b1a0f650139",
+  "url": "https://www.localmemphis.com/article/news/crime/man-injured-shooting-getwell-road/522-bc382cda-a1a6-480b-a9ed-95fc0ba2db6a",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Melisa Cabello Cuahutle",
+  "published": "2024-04-25T10:17:00.000+03:00",
+  "title": "Two men injured in Parkway Village shooting in Memphis | localmemphis.com",
+  "text": "MEMPHIS, Tenn. — Two man are gravely injured and in the hospital after a shooting at Parkway Village on April 25, according to Memphis Police.\nMPD says officers first responded to a shooting at the 2700 Block of Getwell Road, around 1:20 p.m., where they found one man injured. MPD says he was then taken to Regional One.\nMinutes later, a little after 1:40 p.m., officers responded to a call at Baptist East Hospital, where a man with a severe gunshot wound had arrived in a private car. MPD believes he is connected to the shooting on Getwell Road.\nMPD provided no additional information but says the investigation is ongoing.\nAnyone with information should call Crime Stoppers at (901) 528-CASH.\nRelated Articles Fundraiser for the family of fallen MPD officer Joseph McKinney reaches $170,000 Memphis Police lay out new safety initiatives after deadly shootings at Orange Mound Park and Douglass Community Center U.S. Marshals offering $10,000 reward for Orange Mound shooting information, total now stands at $25,000",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Human Interest"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.youtube.com/embed/COYWeuWXaMY?rel=0",
+    "https://crimestopmem.org/",
+    "https://crimestopmem.org",
+    "https://www.crimestopmem.org/",
+    "https://www.youtube.com/embed/COYWeuWXaMY",
+    "https://youtube.com/embed/COYWeuWXaMY?rel=0"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "joseph mckinney",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "mpd",
+        "sentiment": "none"
+      },
+      {
+        "name": "memphis police",
+        "sentiment": "none"
+      },
+      {
+        "name": "douglass community center u.s. marshals",
+        "sentiment": "none"
+      },
+      {
+        "name": "orange mound",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "tenn.",
+        "sentiment": "none"
+      },
+      {
+        "name": "memphis",
+        "sentiment": "none"
+      },
+      {
+        "name": "memphis",
+        "sentiment": "none"
+      },
+      {
+        "name": "parkway village",
+        "sentiment": "none"
+      },
+      {
+        "name": "baptist east hospital",
+        "sentiment": "none"
+      },
+      {
+        "name": "orange mound park",
+        "sentiment": "none"
+      },
+      {
+        "name": "getwell road",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:05:34.527+03:00",
+  "updated": "2024-04-26T08:35:53.459+03:00"
+}

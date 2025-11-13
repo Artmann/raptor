@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "a50f19d0ba4866c6fbae84cddff3a9b8d3c8a347",
+    "url": "https://finance.sina.com.cn/roll/2025-05-08/doc-inevuzvk0508379.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "http://finance.sina.cn",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪财经_金融信息服务商",
+    "site_title": null,
+    "title": "车辆乱停煞风景|湖州市_新浪财经_新浪网",
+    "title_full": "车辆乱停煞风景|湖州市_新浪财经_新浪网",
+    "published": "2025-05-08T02:21:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 259,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a50f19d0ba4866c6fbae84cddff3a9b8d3c8a347",
+  "url": "https://finance.sina.com.cn/roll/2025-05-08/doc-inevuzvk0508379.shtml",
+  "ord_in_thread": 0,
+  "author": "sina.com.cn",
+  "published": "2025-05-08T02:21:00.000+03:00",
+  "title": "车辆乱停煞风景|湖州市_新浪财经_新浪网",
+  "text": "转自：湖州日报\n　　“五一”假期，南浔区石淙镇花海景区，部分车辆随意停放在草坪上和路边，影响景区形象。\n　　记者 杨文 摄",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Lifestyle and Leisure"],
+  "topics": [
+    "Environment->environmental pollution",
+    "Social Issue->communities",
+    "Social Issue->social condition",
+    "Lifestyle and Leisure->travel and tourism",
+    "Lifestyle and Leisure->outdoor recreational activities"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:12:56.992+03:00",
+  "updated": "2025-05-08T00:19:49.000+00:00"
+}

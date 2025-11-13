@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "53aad2287bfb2f201a45932681b92f6464912e57",
+    "url": "https://southafricatoday.net/south-africa-news/western-cape/government-signs-safe-schools-protocol-amid-rising-violence-in-cape-town-community",
+    "site_full": "southafricatoday.net",
+    "site": "southafricatoday.net",
+    "site_section": "https://www.southafricatoday.net",
+    "site_categories": ["media", "travel", "africa"],
+    "section_title": "South Africa Today",
+    "site_title": "South Africa Today",
+    "title": "Government Signs Safe Schools Protocol Amid Rising Violence in Cape Town Community",
+    "title_full": "Government Signs Safe Schools Protocol Amid Rising Violence in Cape Town Community",
+    "published": "2025-06-26T10:20:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 166301,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "53aad2287bfb2f201a45932681b92f6464912e57",
+  "url": "https://southafricatoday.net/south-africa-news/western-cape/government-signs-safe-schools-protocol-amid-rising-violence-in-cape-town-community",
+  "ord_in_thread": 0,
+  "author": "SAT - International",
+  "published": "2025-06-26T10:20:00.000+03:00",
+  "title": "Government Signs Safe Schools Protocol Amid Rising Violence in Cape Town Community",
+  "text": "In response to escalating violence in schools, the Minister of Basic Education and the South African Police Service (SAPS) have signed a new protocol aimed at improving safety in educational environments. The agreement emphasizes shared responsibility among parents, school governing bodies, and learners to combat crime.\nHowever, in communities like Samora Machel in Cape Town, the situation remains dire. In just three weeks, four schoolchildren were shot and killed in separate incidents while traveling to or from school. The latest victim a 15-year-old was gunned down near her school, sparking outrage and fear among residents.\nSkepticism Over New Safety Measures While government officials tout the new protocol as a step forward, local leaders remain skeptical. Community Policing Forum (CPF) spokesperson Xolani Joja expressed frustration over unfulfilled promises, citing previous commitments from authorities that failed to materialize.\n“We are not excited yet about the signing of this protocol,” Joja said. “We need to see action on the ground—more police visibility, foot patrols, and real strategies to protect our children.”\nCommunity Calls for Urgent Intervention Residents of Samora Machel say they live in constant fear, with violent crime extending beyond school-related incidents. In recent days, a taxi driver was also shot dead, further heightening tensions.\nThe CPF has called for immediate intervention, even appealing to President Cyril Ramaphosa to deploy high-profile crime-fighting officials, such as Lieutenant General Elias Mawela, to the area. “We need someone with a proven track record to come here for just two months and restore order,” Joja said.\nAuthorities Urged to Move Beyond Paperwork While the new protocol outlines a collaborative approach to school safety, critics argue that enforcement is lacking. Community members demand more than just policy announcements—they want tangible security improvements, including increased police presence and targeted operations against gang violence.\nAs the government pledges safer schools, the people of Samora Machel wait anxiously to see if these promises will translate into real protection for their children. For now, the streets remain a battlefield, and the classroom—a place meant for learning—has become another front in the fight against crime.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Social Issue", "Education"],
+  "topics": [
+    "Crime, Law and Justice->investigation (criminal)",
+    "Crime, Law and Justice->law enforcement",
+    "Crime, Law and Justice->assault",
+    "Social Issue->communities",
+    "Social Issue->abusive behaviour",
+    "Social Issue->social problem",
+    "Education->school",
+    "Education->teachers",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.youtube.com/embed/ehdLQfEWt8U?feature=oembed&#038;enablejsapi=1",
+    "https://youtube.com/embed/ehdLQfEWt8U?feature=oembed&#038;enablejsapi=1",
+    "https://www.youtube.com/embed/ehdLQfEWt8U"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Samora Machel",
+        "sentiment": "none"
+      },
+      {
+        "name": "Xolani Joja",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Community",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "right"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T12:13:26.444+03:00",
+  "updated": "2025-06-26T09:20:18.000+00:00"
+}

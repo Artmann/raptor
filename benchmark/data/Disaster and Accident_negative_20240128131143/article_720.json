@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "aaa7454b1cddfabe019433a611ec636863a309d1",
+    "url": "https://www.jpost.com/breaking-news/article-779943/",
+    "site_full": "www.jpost.com",
+    "site": "jpost.com",
+    "site_section": "https://1440.co.il/rss",
+    "site_categories": ["media", "law_government_and_politics", "politics"],
+    "section_title": "1440",
+    "title": "Alleged Israeli airstrikes target southern Syria, Damascus - report - The Jerusalem Post",
+    "title_full": "Alleged Israeli airstrikes target southern Syria, Damascus - report - The Jerusalem Post",
+    "published": "2023-12-29T00:18:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/527688",
+    "performance_score": 0,
+    "domain_rank": 943,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "aaa7454b1cddfabe019433a611ec636863a309d1",
+  "url": "https://www.jpost.com/breaking-news/article-779943/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "jpost.com",
+  "published": "2023-12-29T00:18:00.000+02:00",
+  "title": "Alleged Israeli airstrikes target southern Syria, Damascus - report - The Jerusalem Post",
+  "text": "Alleged Israeli airstrikes targeted sites in southern Syria and near Damascus on Thursday night in two separate waves, according to Syrian reports.\nSyria's state news agency SANA reported that Israeli fighter jets conducted airstrikes from over the Golan Heights targeting sites in southern Syria, causing material damage.\nThe local Suwayda 24 news site reported that a radar site belonging to the Syrian Army at Tal al-Sahn, not far from the Syrian-Jordanian border, was targeted and destroyed in the airstrikes. No injuries were reported in the strike.\nSyrian air defenses were activated in the Damascus area as well during the strikes, although it is as of yet unclear what locations in the Damascus area were targeted. An Israeli Air Force F-35 fighter jet flies during an aerial demonstration at a graduation ceremony for Israeli air force pilots (credit: REUTERS/AMIR COHEN)\nThe Tal al-Sahn site has been targeted repeatedly in the past by alleged Israeli airstrikes.\nA few hours after the first wave of airstrikes, a second wave of airstrikes was reported in the Damascus area, with Syrian air defenses activated in response. Recent alleged Israeli airstrikes in Syria\nThe airstrikes come just days after Razi Mousavi, a senior officer in Iran's Islamic Revolutionary Guard Corps (IRGC), was killed in an alleged Israeli airstrike in the Damascus area. Mousavi served as one of the leaders of Iran's efforts in Syria and had been targeted by Israel in the past, according to Iranian media. Advertisement\nThe airstrikes also come just a day after the Damascus International Airport returned to service after being put out of service by an alleged Israeli airstrike in late November.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "War, Conflict and Unrest",
+    "Disaster and Accident",
+    "Politics"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "reuters",
+        "sentiment": "none"
+      },
+      {
+        "name": "sana",
+        "sentiment": "none"
+      },
+      {
+        "name": "tal al-sahn",
+        "sentiment": "none"
+      },
+      {
+        "name": "suwayda",
+        "sentiment": "none"
+      },
+      {
+        "name": "air force",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "damascus",
+        "sentiment": "none"
+      },
+      {
+        "name": "jerusalem",
+        "sentiment": "none"
+      },
+      {
+        "name": "syria",
+        "sentiment": "none"
+      },
+      {
+        "name": "golan heights",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:06:45.219+02:00",
+  "updated": "2023-12-29T01:06:45.219+02:00"
+}

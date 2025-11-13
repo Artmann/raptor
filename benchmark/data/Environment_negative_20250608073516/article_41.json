@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "57a8fe48f04a2b6da6f27d6eadf1b1b566b75a04",
+    "url": "https://tvspb.ru/news/2025/05/8/moshhnyj-pozhar-v-angare-v-metallostroe-lokalizovali",
+    "site_full": "tvspb.ru",
+    "site": "tvspb.ru",
+    "site_section": "https://topspb.tv/news/national-project--15835",
+    "site_categories": [],
+    "section_title": "Нацпроекты | Телеканал Санкт-Петербург",
+    "site_title": "Телеканал Санкт-Петербург",
+    "title": "Мощный пожар в ангаре в Металлострое локализовали | Телеканал Санкт-Петербург",
+    "title_full": "Мощный пожар в ангаре в Металлострое локализовали | Телеканал Санкт-Петербург",
+    "published": "2025-05-08T00:04:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://cdn.tvspb.ru/storage/wp-content/uploads/2025/05/photo_2025-05-07_22-39-00.jpg__0_0x0.jpg",
+    "performance_score": 0,
+    "domain_rank": 49167,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "57a8fe48f04a2b6da6f27d6eadf1b1b566b75a04",
+  "url": "https://tvspb.ru/news/2025/05/8/moshhnyj-pozhar-v-angare-v-metallostroe-lokalizovali",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T00:04:00.000+03:00",
+  "title": "Мощный пожар в ангаре в Металлострое локализовали | Телеканал Санкт-Петербург",
+  "text": "7 мая в 19:59 в Колпинском районе на дороге на Металлострой, д. 5, лит. АЗ произошло возгорание в ангаре площадью 30×80 метров. Огонь охватил около 300 квадратных метров.\nК 20:22 пожару присвоили дополнительный номер 1-БИС, а к 22:45 возгорание локализовали, после чего отменили дополнительный номер, продолжив работы по основному. Об этом сообщили в пресс-службе ГУ МЧС по Петербургу.\nИнформации пострадавших нет. На месте работали 6 единиц техники и 30 сотрудников МЧС. В настоящее время пожарные завершают ликвидацию последствий возгорания.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Environment", "Social Issue"],
+  "topics": [
+    "Disaster and Accident->fire",
+    "Environment->environmental pollution",
+    "Social Issue->social problem",
+    "Social Issue->communities"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T01:22:28.628+03:00",
+  "updated": "2025-05-07T22:28:08.000+00:00"
+}

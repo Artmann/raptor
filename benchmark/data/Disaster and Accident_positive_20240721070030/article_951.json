@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "b6a3143a92e1e069a26820b451efb97367bdad1c",
+    "url": "https://www.indiatvnews.com/technology/news/new-ai-system-aims-to-reduce-power-outages-and-boost-grid-reliability-2024-06-24-938564",
+    "site_full": "www.indiatvnews.com",
+    "site": "indiatvnews.com",
+    "site_section": "https://indiatvnews.com",
+    "site_categories": ["media"],
+    "section_title": "India TV News: Today Latest News, Breaking News, Top Headlines, Political News, Live Updates ",
+    "title": "New AI system aims to reduce power outages and boost grid reliability – India TV",
+    "title_full": "New AI system aims to reduce power outages and boost grid reliability – India TV",
+    "published": "2024-06-24T12:55:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2024/06/elon-musk-reportedly-on-the-verge-of-raising-billions-for-his-ai-company-2024-06-24t175218-1719231762.jpg",
+    "performance_score": 0,
+    "domain_rank": 8224,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b6a3143a92e1e069a26820b451efb97367bdad1c",
+  "url": "https://www.indiatvnews.com/technology/news/new-ai-system-aims-to-reduce-power-outages-and-boost-grid-reliability-2024-06-24-938564",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "India TV News",
+  "published": "2024-06-24T12:55:00.000+03:00",
+  "title": "New AI system aims to reduce power outages and boost grid reliability – India TV",
+  "text": "A team of US researchers has developed a new AI model which could help the electrical grids prevent power outages by automatically rerouting electricity in milliseconds. The automated system, which was published online in the Nature Communications journal, is an early example of 'self-healing grid' technology, which uses AI to detect and repair problems like outages and storm-damaged power lines on its own without human intervention. Some researchers from the University of Texas at Dallas demonstrated their solution which could automatically identify alternative routes to transfer electricity to users before an outage occurs. It is because the AI has the advantage of speed, the team said. Unlike human-controlled processes that can take minutes to hours, the system could automatically reroute electrical flow in microseconds. Dr Jie Zhang, associate professor of mechanical engineering at the Erik Jonsson School of Engineering and Computer Science said, \"Our goal is to find the optimal path to send power to the majority of users as quickly as possible.\" \"But more research is needed before this system can be implemented.\" Roshni Anna Jacob, an electrical engineering doctoral student at the varsity, said that electricity blocked due to line faults can be reconfigured using switches and power from available sources nearby, such as from large-scale solar panels or batteries. The researchers next aim to develop similar technology to repair and restore the grid after a power disruption. ALSO READ: How to livestream on Instagram exclusively for your ‘Close Friends’ list? Steps to follow Instagram has recently rolled out the ‘Close Friends on Live’ feature for selected friends. This feature will only let the users live stream on the platform, to a selected group of closest friends. The very first thing to do is to update your application to the latest version, only then one could get access to the new feature. ALSO READ: How to make calls when your smartphone is out of network area? Wi-Fi Calling is one of the features which enables the user to make voice calls easily when they are under weak cellular reception. ALSO READ: iOS 18 Beta 2 arriving tomorrow with iPhone Mirroring and enhanced SharePlay: All you need to know Inputs from IANS",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Disaster and Accident",
+    "Science and Technology",
+    "Environment"
+  ],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "jie zhang",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "– india tv",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "erik jonsson school of engineering and computer science",
+        "sentiment": "none"
+      },
+      {
+        "name": "nature communications",
+        "sentiment": "none"
+      },
+      {
+        "name": "university of texas",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "us",
+        "sentiment": "none"
+      },
+      {
+        "name": "dallas",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-24T15:35:24.302+03:00",
+  "updated": "2024-06-24T16:49:16.969+03:00"
+}

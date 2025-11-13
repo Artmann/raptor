@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "4be74a74dbba17e159a2911808f707c1e6275cb0",
+    "url": "https://www.katc.com/vermilion-parish/driving-through-floodwater-could-drown-your-wallet-local-mechanic-weighs-in",
+    "site_full": "www.katc.com",
+    "site": "katc.com",
+    "site_section": "https://news.google.com/search?q=through%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "Homepage",
+    "title": "Driving through floodwater could drown your wallet; Local mechanic weighs in",
+    "title_full": "Driving through floodwater could drown your wallet; Local mechanic weighs in",
+    "published": "2025-05-08T01:26:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ewscripps.brightspotcdn.com/dims4/default/54266ca/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcf.cdn.uplynk.com%2Fause1%2Fslices%2Fc69%2Ff777e7b891e1459dabc1eab38a649e4f%2Fc693caa1f4b24291aadbf3ae6c0841b3%2Fposter_c58fd986be4243d0954ccc60a54594e0.jpg",
+    "performance_score": 0,
+    "domain_rank": 19790,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4be74a74dbba17e159a2911808f707c1e6275cb0",
+  "url": "https://www.katc.com/vermilion-parish/driving-through-floodwater-could-drown-your-wallet-local-mechanic-weighs-in",
+  "ord_in_thread": 0,
+  "author": "Penelope Lopez",
+  "published": "2025-05-08T01:26:00.000+03:00",
+  "title": "Driving through floodwater could drown your wallet; Local mechanic weighs in",
+  "text": "Vermilion Parish, KATC - It’s a common sight after a heavy rainstorm to see streets submerged under murky floodwaters, and cars trying to muscle their way through them. But before pressing the gas pedal, drivers may want to consider what it could cost them.\n“It ain’t a good idea, it can get very expensive,” said Marlin Istre, owner of Cajun Pro Automotive Repair in Abbeville.\nIstre has run his shop for nearly two decades, and he’s seen the consequences of water inside the engines and flooded electrical systems time and time again.\n“Some people bring them in and we can save them, and they’ll drive it for a while and get rid of it, or insurance will tow them out,” he said.\nFlood-related repairs are a regular part of business in the area. One of the most persistent issues? Long-term electrical damage.\n“Long-term electrical is always the issue because the connector gets water in them and it corrodes,” Istre said. “It causes more problems than it’s worth.”\nThe cost of those repairs can quickly climb into the thousands of dollars.\nWhile taking a detour may be inconvenient, Istre said it’s often the smarter and safer option.\n“It’s dangerous at the end of the day,” he said. “I would not recommend it. If you’re not familiar with the roads, you can fall into a ditch, and it can snowball into a lot of different things. It’s not a good idea.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->hazardous materials",
+    "Environment->environmental clean-up",
+    "Environment->water pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Istre",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Cajun Pro Automotive Repair",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:34:44.880+03:00",
+  "updated": "2025-05-07T23:38:17.000+00:00"
+}

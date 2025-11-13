@@ -1,0 +1,123 @@
+{
+  "thread": {
+    "uuid": "6739526cacab700600107e9f8aceb4fb0f45f4cc",
+    "url": "https://sport.tiscali.it/calcio/articoli/e-league-3-1-real-sociedad-lazio-ottavi-00001",
+    "site_full": "sport.tiscali.it",
+    "site": "tiscali.it",
+    "site_section": "https://sport.tiscali.it/ultimora/",
+    "site_categories": ["world_soccer", "sports", "top_news_it", "top_news"],
+    "section_title": "Tutte le ultime news sul mondo dello sport - Tiscali Sport",
+    "title": "E. League: 3-1 alla Real Sociedad, Lazio agli ottavi",
+    "title_full": "E. League: 3-1 alla Real Sociedad, Lazio agli ottavi",
+    "published": "2025-01-24T00:11:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://simg.tiscali.it/media/25/01/23/rs_174_53ddb418657ea4c28fd5d6598f47c7e2.jpg",
+    "performance_score": 0,
+    "domain_rank": 5599,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6739526cacab700600107e9f8aceb4fb0f45f4cc",
+  "url": "https://sport.tiscali.it/calcio/articoli/e-league-3-1-real-sociedad-lazio-ottavi-00001",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "ANSA",
+  "published": "2025-01-24T00:11:00.000+02:00",
+  "title": "E. League: 3-1 alla Real Sociedad, Lazio agli ottavi",
+  "text": "E. League: 3-1 alla Real Sociedad, Lazio agli ottavi\ndi ANSA\n(ANSA) - ROMA, 23 GEN - All'Olimpico arriva una vittoria netta, 3-1, per la Lazio contro la Real Sociedad, ed è un risultato che assicura alla squadra di Marco Barobi il passaggio agli ottavi di finale dell'Europa League. Il match della settimana prossima l'Olimpico e passa agli ottavi di finale con un turno di anticipo. La sfida della prossima settimana sul campo del Braga servirà soltanto a determinare se i biancocelesti saranno primi (basterà un pareggio) o secondi nella fase 'a campionato'. Le reti della partita di oggi sono state segnate tutte nel primo tempo da Mario Gila, Zaccagni e Castellanos. Di Barrentxea al 37' st il gol dei baschi, rimasti in dieci dal 30' pt per l'espulsione di Munoz (doppio 'giallo'). (ANSA).\ndi ANSA\nCommenti",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": [
+    "Sport",
+    "Economy, Business and Finance",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Sport->regular competition",
+    "Sport->sport event",
+    "Sport->soccer",
+    "Lifestyle and Leisure->game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Marco Barobi",
+        "sentiment": "none"
+      },
+      {
+        "name": "Mario Gila",
+        "sentiment": "none"
+      },
+      {
+        "name": "Zaccagni",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Real Sociedad",
+        "sentiment": "negative"
+      },
+      {
+        "name": "ANSA",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Europa",
+        "sentiment": "none"
+      },
+      {
+        "name": "Lazio",
+        "sentiment": "none"
+      },
+      {
+        "name": "Braga",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Lazio",
+        "sentiment": "none"
+      },
+      {
+        "name": "Olimpico",
+        "sentiment": "none"
+      },
+      {
+        "name": "Munoz",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:45:03.969+02:00",
+  "updated": "2025-01-24T00:45:03.969+02:00"
+}

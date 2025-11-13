@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "72625bd504c1ee365df80f356feac9ebad2b53e8",
+    "url": "https://www.uottawa.ca/about-us/news-all/congratulations-new-rsc-fellows-college-members",
+    "site_full": "www.uottawa.ca",
+    "site": "uottawa.ca",
+    "site_section": "https://www.uottawa.ca/about-us/news-all",
+    "site_categories": ["graduate_school", "education"],
+    "section_title": "All news | About us",
+    "site_title": "Home | University of Ottawa",
+    "title": "Congratulations to the new RSC Fellows & College Members | About us",
+    "title_full": "Congratulations to the new RSC Fellows & College Members | About us",
+    "published": "2025-09-09T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 12760,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "72625bd504c1ee365df80f356feac9ebad2b53e8",
+  "url": "https://www.uottawa.ca/about-us/news-all/congratulations-new-rsc-fellows-college-members",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-09T03:00:00.000+03:00",
+  "title": "Congratulations to the new RSC Fellows & College Members | About us",
+  "text": "Lori Burns, School of Music\nAcademy of Arts and Humanities\nLori Burns is at the forefront of international popular music studies. She has transformed the field by applying interdisciplinary and intersectional feminist methods, bringing to light crucial diversity, equity, and inclusion issues in music and culture. Her scholarship unveils the complex ways in which music challenges discourses of power and dominant representations of cultural identities, deepening our understanding of popular music expression and demonstrating how music can speak to and for human subjects.\nJitse Dijkstra, Department of Classics and Religious Studies\nAcademy of Arts and Humanities\nJitse Dijkstra is an internationally renowned specialist of the transformation from ancient religions to Christianity in Late Antiquity, in particular in Egypt, where he has conducted fieldwork for 25 years. He is known for his innovative theoretical frameworks and rigorous, groundbreaking analyses of a wealth of primary sources, especially in Greek and Coptic. His influential publications, invited lectures, and collaborative leadership place him at the forefront of his field.\nIrene Makaryk , Department of English\nAcademy of Arts and Humanities\nInternationally renowned for her work on the transcultural use and postcolonial reception of Shakespeare, Distinguished University Professor Irene (Irena) Makaryk’s groundbreaking scholarship opened up a new field of study: Shakespeare in Ukraine. Her rigorous analyses, based on meticulous archival research, illuminate the unique contributions of Ukrainians to the world’s cultural heritage. Challenging preconceived notions and redefining key concepts, her influential publications and editorial achievements place her at the forefront of her field.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest"],
+  "topics": [
+    "Education->college and university",
+    "Education->students",
+    "Education->teachers",
+    "Human Interest->graduation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Lori Burns",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jitse Dijkstra",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "RSC Fellows & College",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "School of Music\nAcademy of Arts and Humanities",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Religious Studies\nAcademy of Arts and Humanities",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:07:00.117+03:00",
+  "updated": "2025-09-18T08:10:43.000+03:00"
+}

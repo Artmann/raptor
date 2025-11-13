@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "384fb59e7294e0b1265191e3cb4139ec30c969a7",
+    "url": "https://article.wn.com/view/2025/01/23/charli_xcx_to_star_in_and_produce_8216the_moment_8217_at_a24",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/film",
+    "site_categories": ["media"],
+    "section_title": "World News - Film",
+    "title": "Charli XCX to Star in and Produce 'The Moment' at A24 - Worldnews.com",
+    "title_full": "Charli XCX to Star in and Produce 'The Moment' at A24 - Worldnews.com",
+    "published": "2025-01-23T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3682,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "384fb59e7294e0b1265191e3cb4139ec30c969a7",
+  "url": "https://article.wn.com/view/2025/01/23/charli_xcx_to_star_in_and_produce_8216the_moment_8217_at_a24",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2025-01-23T02:00:00.000+02:00",
+  "title": "Charli XCX to Star in and Produce 'The Moment' at A24 - Worldnews.com",
+  "text": "Pop star Charli XCX is set to star and produce “The Moment” at A24, according to an insider with knowledge of the project. Based on an original idea by the “Brat” singer, it will be the first project under her production company studio365. Plot details about “The Moment” are being kept under wraps.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Arts, Culture and Entertainment",
+    "Lifestyle and Leisure",
+    "Human Interest"
+  ],
+  "topics": [
+    "Arts, Culture and Entertainment->music",
+    "Arts, Culture and Entertainment->cinema",
+    "Lifestyle and Leisure->lifestyle",
+    "Human Interest->celebrity"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Charli XCX",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:38:22.264+02:00",
+  "updated": "2025-01-24T00:38:22.264+02:00"
+}

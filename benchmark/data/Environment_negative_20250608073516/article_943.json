@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "ebdbd5441564649848ad89b60f39fd20050f0de2",
+    "url": "https://hb.china.com/news/20003178/20250508/25960906.html",
+    "site_full": "hb.china.com",
+    "site": "china.com",
+    "site_section": "http://hb.china.com",
+    "site_categories": [],
+    "section_title": "中华网湖北频道 - 湖北内容 国际表达",
+    "site_title": null,
+    "title": "武汉今日或有大到暴雨 大雨来去匆匆，明日将放晴_湖北站_中华网",
+    "title_full": "武汉今日或有大到暴雨 大雨来去匆匆，明日将放晴_湖北站_中华网",
+    "published": "2025-05-08T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 2204,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ebdbd5441564649848ad89b60f39fd20050f0de2",
+  "url": "https://hb.china.com/news/20003178/20250508/25960906.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T03:00:00.000+03:00",
+  "title": "武汉今日或有大到暴雨 大雨来去匆匆，明日将放晴_湖北站_中华网",
+  "text": "武汉气象部门预计，5月8日将有大到暴雨，局地有短时强降水、雷暴大风等强对流天气。\n7日下午3时55分，湖北省气象台发布暴雨黄色省级预警：7日晚上至8日白天，恩施、宜昌南部、荆州、天门、仙桃、潜江、孝感、武汉、鄂州、黄冈、黄石、咸宁将有大雨到暴雨，其中恩施南部、咸宁、黄冈局地大暴雨，请注意防范。\n这次降水过程短平快。8日全省阴天到多云。9日湖北大部地区多云到晴天。\n大风大雨大降温。7日湖北除恩施以外，大部地区最高气温超过30℃，8日湖北最高气温21℃-25℃，低温15℃-19℃。9日湖北最高气温在28℃-32℃，低温湖北西部11℃-15℃、中东部15℃-19℃。\n因此，8日处于湖北西部低至11℃的朋友们特别注意，厚外套要穿上了。\n武汉气象部门预计，8日将有大到暴雨，局地有短时强降水、雷暴大风等强对流天气，直到晚上才转为多云。同时偏北阵风6级，大雨大风送凉，最高气温仅22℃，低温18℃；9日武汉多云转晴天，不过偏北阵风仍有5级，气温回升至18℃-28℃。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment", "Human Interest"],
+  "topics": [
+    "Weather->weather phenomena",
+    "Weather->weather warning",
+    "Weather->weather forecast",
+    "Environment->climate change",
+    "Environment->environmental pollution",
+    "Environment->water",
+    "Human Interest->human mishap"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:47:59.271+03:00",
+  "updated": "2025-05-08T03:55:23.000+00:00"
+}

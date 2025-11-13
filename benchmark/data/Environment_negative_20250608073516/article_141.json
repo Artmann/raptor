@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "ec7a1c7eb73a4d2deb7064e96f547affda423594",
+    "url": "https://www.nacion.com/economia/petroleo-se-desploma-por-expectativa-de-aumento-en/D3E3CBLSWJHDTGZYO2ZZ4WXPNM/story",
+    "site_full": "www.nacion.com",
+    "site": "nacion.com",
+    "site_section": "https://nacion.com/viva/television/",
+    "site_categories": ["media", "law_government_and_politics", "politics"],
+    "section_title": "Viva - Televisión | La Nación",
+    "site_title": "Últimas noticias de Costa Rica | La Nación",
+    "title": "Petróleo se desploma por expectativa de aumento en oferta de la OPEP+",
+    "title_full": "Petróleo se desploma por expectativa de aumento en oferta de la OPEP+",
+    "published": "2025-05-08T01:11:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CR",
+    "main_image": "https://www.nacion.com/resizer/v2/BRGLVMMZIRG7LAF7CGBXZA2RQ4.jpg?smart=true&amp;auth=a26b2e800a42dfa097b508ddbf22cd11762842393d6528cce3cf73b9e7ee805a&amp;width=1440",
+    "performance_score": 0,
+    "domain_rank": 13463,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ec7a1c7eb73a4d2deb7064e96f547affda423594",
+  "url": "https://www.nacion.com/economia/petroleo-se-desploma-por-expectativa-de-aumento-en/D3E3CBLSWJHDTGZYO2ZZ4WXPNM/story",
+  "ord_in_thread": 0,
+  "author": "AFP",
+  "published": "2025-05-08T01:11:00.000+03:00",
+  "title": "Petróleo se desploma por expectativa de aumento en oferta de la OPEP+",
+  "text": "Washington, Estados Unidos. Los precios del petróleo cayeron este miércoles debido a la inquietud que genera el aumento de producción de barriles de la Opep+ para junio, mientras las negociaciones entre Irán y Estados Unidos continúan.\nEl vicepresidente estadounidense, JD Vance, declaró que las conversaciones sobre el programa nuclear iraní iban por el “buen camino”, y subrayó que Teherán podría tener energía nuclear civil, pero no armas nucleares.\nIrán, uno de los diez mayores productores de oro negro del mundo, está sometido a la política de “máxima presión” del presidente Donald Trump, que desde su regreso a la Casa Blanca ha impuesto sanciones a numerosos actores del sector petrolero iraní.\nLos operadores del mercado creen que un acuerdo entre Washington y Teherán podría facilitar las exportaciones de crudo iraní, lo que supone un factor bajista para los precios.\nEl precio del barril de crudo Brent del mar del Norte para entrega en julio bajó un 1,66%, hasta $61,12.\nSu equivalente estadounidense, el barril de West Texas Intermediate, para entrega en junio, bajó un 1,73% a $58,07.\nLEA MÁS: Sanciones de Estados Unidos al petróleo iraní provocan aumento de precios\nAdemás, “los temores sobre la oferta y la demanda siguen muy vivos, entre otras cosas por los titulares del fin de semana sobre el aumento del límite de producción de la Opep+”, declaró a la AFP Stephen Schork, de The Schork Group.\nArabia Saudita, Rusia y los otros seis miembros del bloque producirán en junio 411.000 barriles diarios más que en mayo, según un comunicado publicado el sábado, mientras que el plan inicial preveía un aumento de sólo 137.000 barriles.\nEste incremento de la producción se produce en un momento en el que las previsiones de crecimiento mundial y de demanda de petróleo se revisaron a la baja debido al impacto de la ofensiva comercial de Trump.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Disaster and Accident",
+    "Environment"
+  ],
+  "topics": [
+    "Economy, Business and Finance->commodity market",
+    "Economy, Business and Finance->energy and resource",
+    "Economy, Business and Finance->financial and economic news",
+    "Environment->energy resources",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Donald Trump",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "West Texas Intermediate",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Casa Blanca",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Washington",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Teherán",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:20:16.543+03:00",
+  "updated": "2025-05-07T23:24:40.000+00:00"
+}

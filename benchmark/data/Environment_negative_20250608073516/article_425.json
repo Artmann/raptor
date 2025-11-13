@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "4fc3b04ae2d520b5631bebea37b426b89be92f78",
+    "url": "https://www.nzherald.co.nz/the-country/news/sheep-numbers-drop-in-new-zealand-beef-cattle-steady/67D2KYYDDVCJRAMR2HAJEEYGVI",
+    "site_full": "www.nzherald.co.nz",
+    "site": "nzherald.co.nz",
+    "site_section": "https://nzherald.co.nz/hawkes-bay-today/tararua-news",
+    "site_categories": [
+      "science",
+      "geology",
+      "top_news_au",
+      "top_news_nz",
+      "top_news"
+    ],
+    "section_title": "Tararua local news - NZ Herald",
+    "site_title": "NZ Herald: Breaking &amp; Latest New Zealand News - NZ Herald",
+    "title": "Sheep numbers drop in New Zealand, beef cattle steady",
+    "title_full": "Sheep numbers drop in New Zealand, beef cattle steady",
+    "published": "2025-05-08T03:02:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NZ",
+    "main_image": "https://www.nzherald.co.nz/resizer/v2/7IRGI4IOJRDGJC3GN6LORE5WRA.jpg?auth=5f3f96f573a488e186e8c22f61508c53cd293a1cdc56f31e1163213e0292528d&amp;width=1200&amp;height=675&amp;quality=70&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 1215,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4fc3b04ae2d520b5631bebea37b426b89be92f78",
+  "url": "https://www.nzherald.co.nz/the-country/news/sheep-numbers-drop-in-new-zealand-beef-cattle-steady/67D2KYYDDVCJRAMR2HAJEEYGVI",
+  "ord_in_thread": 0,
+  "author": "@nzherald",
+  "published": "2025-05-08T03:02:00.000+03:00",
+  "title": "Sheep numbers drop in New Zealand, beef cattle steady",
+  "text": "By Gianina Schwanecke of RNZ\nThe gap between people and sheep in New Zealand is rapidly closing.\nThere are now about 4.5 sheep to every person in New Zealand compared to a peak of 22 sheep per person in the 1980s, that’s according to figures released by Stats NZ this week.\nAgricultural statistics spokesperson Tehseen Islam said as of June last year, there was a total of 23.6 million sheep in New Zealand, a six million, or 21%, drop compared to 10 years ago.\n“While that’s a big drop from the early ’80s, I still suspect that’s pretty high in terms of worldwide,” Islam said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Environment",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Environment->animal",
+    "Environment->nature",
+    "Environment->sustainability",
+    "Economy, Business and Finance->agriculture",
+    "Economy, Business and Finance->economy",
+    "Economy, Business and Finance->business reporting and performance",
+    "Social Issue->demographics",
+    "Social Issue->social condition",
+    "Social Issue->population and census"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Gianina Schwanecke",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:51:21.211+03:00",
+  "updated": "2025-05-08T00:58:50.000+00:00"
+}

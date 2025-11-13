@@ -1,0 +1,136 @@
+{
+  "thread": {
+    "uuid": "4cbef25229cdeb1d775a133bc711d781e772f42c",
+    "url": "https://iicbuenosaires.esteri.it/it/gli_eventi/calendario/concerto-roma-eterna-simone-vallerotonda-liuto/",
+    "site_full": "iicbuenosaires.esteri.it",
+    "site": "esteri.it",
+    "site_section": "https://iicbuenosaires.esteri.it/it",
+    "site_categories": [],
+    "section_title": "Istituto Italiano di Cultura di Buenos Aires &#8211; Il sito ufficiale dell&#039;Istituto Italiano di Cultura di Buenos Aires",
+    "site_title": "Ministero degli Affari Esteri e della Cooperazione Internazionale &#8211; Ministero degli Affari Esteri e della Cooperazione Internazionale",
+    "title": "Concerto \"Roma Eterna\" - Simone Vallerotonda - liuto - Istituto Italiano di Cultura di Buenos Aires",
+    "title_full": "Concerto \"Roma Eterna\" - Simone Vallerotonda - liuto - Istituto Italiano di Cultura di Buenos Aires",
+    "published": "2025-09-18T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://iicbuenosaires.esteri.it/wp-content/uploads/2025/09/flyer-vallerotonda-2.png",
+    "performance_score": 0,
+    "domain_rank": 8186,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4cbef25229cdeb1d775a133bc711d781e772f42c",
+  "url": "https://iicbuenosaires.esteri.it/it/gli_eventi/calendario/concerto-roma-eterna-simone-vallerotonda-liuto/",
+  "ord_in_thread": 0,
+  "author": "Ministero degli Affari Esteri e della Cooperazione Internazionale",
+  "published": "2025-09-18T03:00:00.000+03:00",
+  "title": "Concerto \"Roma Eterna\" - Simone Vallerotonda - liuto - Istituto Italiano di Cultura di Buenos Aires",
+  "text": "L’Istituto Italiano di Cultura di Buenos Aires, in collaborazione con il Museo de Arte Hispanoamericano Isaac Fernández Blanco, invita al concerto “Roma Eterna” a cura del liutista Simone Vallerotonda, interprete tra i più apprezzati della scena internazionale, che si terrà nell’ambito della Stagione Musicale del Museo I. Fernández Blanco, domenica 28 settembre alle ore 17.00.\nIl programma traccia un viaggio musicale a ritroso nel tempo, da compositori contemporanei sino al “Princeps Musicae” Giovanni Pierluigi da Palestrina, attraverso cinque secoli di storia, spiritualità e tradizione musicale romana. Un itinerario che abbraccia stili e linguaggi diversi – dalla polifonia sacra al repertorio per liuto del Rinascimento e del Barocco, fino ad echi del Novecento e contemporanei – restituendo un affresco sonoro unico della Città Eterna.\nDomenica 28 settembre, ore 17.00 – Museo de Arte Hispanoamericano Isaac Fernández Blanco (Suipacha 1422, C.A.B.A.)\nIngresso: biglietto $4.000. Studenti e pensionati ingresso gratuito.\nSi acquista direttamente il giorno del concerto presso la biglietteria del Museo.\nNon è prevista prenotazione. L’accesso è consentito in ordine di arrivo fino a esaurimento posti.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": [
+    "Arts, Culture and Entertainment",
+    "Lifestyle and Leisure",
+    "Education"
+  ],
+  "topics": [
+    "Arts, Culture and Entertainment->music",
+    "Arts, Culture and Entertainment->art exhibition",
+    "Arts, Culture and Entertainment->culture",
+    "Lifestyle and Leisure->lifestyle",
+    "Lifestyle and Leisure->club and association",
+    "Lifestyle and Leisure->trend",
+    "Education->teachers",
+    "Education->students",
+    "Education->social learning"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Isaac Fernández Blanco",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Buenos Aires",
+        "sentiment": "none"
+      },
+      {
+        "name": "Suipacha",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Istituto Italiano di Cultura",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Città Eterna",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Roma Eterna",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:52:14.955+03:00",
+  "updated": "2025-09-18T09:05:08.000+03:00"
+}

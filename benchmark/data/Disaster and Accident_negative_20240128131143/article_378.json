@@ -1,0 +1,126 @@
+{
+  "thread": {
+    "uuid": "3d3551f5638f1ef82d52a593255e273495c5bd7b",
+    "url": "https://newsukraine.rbc.ua/news/russia-attacks-ukraine-with-shaheds-again-1703802034.html",
+    "site_full": "newsukraine.rbc.ua",
+    "site": "rbc.ua",
+    "site_section": "https://newsukraine.rbc.ua",
+    "site_categories": [],
+    "section_title": "Ukraine News today - Latest news &amp; Video | RBC-Ukraine",
+    "title": "Russia attacks Ukraine with Shaheds again - Where were they spotted | RBC-Ukraine",
+    "title_full": "Russia attacks Ukraine with Shaheds again - Where were they spotted | RBC-Ukraine",
+    "published": "2023-12-28T23:20:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "UA",
+    "main_image": "https://newsukraine.rbc.ua/static/img/c/o/collage_d116ac58a4eeb820d3cf8dfde99f6275_650x410.jpg",
+    "performance_score": 0,
+    "domain_rank": 10037,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3d3551f5638f1ef82d52a593255e273495c5bd7b",
+  "url": "https://newsukraine.rbc.ua/news/russia-attacks-ukraine-with-shaheds-again-1703802034.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "RBC-Ukraine",
+  "published": "2023-12-28T23:20:00.000+02:00",
+  "title": "Russia attacks Ukraine with Shaheds again - Where were they spotted | RBC-Ukraine",
+  "text": "Russia attacks Ukraine with Shaheds again: Where were they spotted Today, on December 28, in the evening, Russian occupants again launched Shahed kamikaze drones across Ukraine. They were spotted in the east and south of the country, report the [Air Forces](https://t.me/kpszsu/8983) of the Armed Forces of Ukraine. According to the Air Force, some of the drones are spotted in Sumy region. They are flying in the direction of the Chernihiv region. At the same time, the movement of the Shaheds was spotted in the Kherson region. Drones are heading to Mykolaiv region. Kamikaze drones are also flying over the Black Sea in the direction of Odesa region. Attacks by Shaheds As a reminder, the Russian occupiers regularly use Shahed kamikaze drones in their attempts to attack Ukraine. The enemy usually launches drones at night to complicate the work of the Ukrainian air force. The last attack by the Russians was tonight, December 28. In total, the [enemy launched eight drones](https://newsukraine.rbc.ua/news/night-drone-attack-in-ukraine-air-force-announced-1703741540.html). Ukrainian air defense forces - fighter aircraft, anti-aircraft missile units, and mobile fire groups - managed to shoot down seven Russian drones.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "War, Conflict and Unrest",
+    "Disaster and Accident",
+    "Politics"
+  ],
+  "external_links": [
+    "https://t.me/kpszsu/8983)",
+    "https://www.t.me/kpszsu/8983)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "rbc",
+        "sentiment": "negative"
+      },
+      {
+        "name": "air forces",
+        "sentiment": "none"
+      },
+      {
+        "name": "armed forces of ukraine",
+        "sentiment": "none"
+      },
+      {
+        "name": "air force",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "ukraine russia",
+        "sentiment": "none"
+      },
+      {
+        "name": "ukraine",
+        "sentiment": "none"
+      },
+      {
+        "name": "russia",
+        "sentiment": "none"
+      },
+      {
+        "name": "mykolaiv",
+        "sentiment": "none"
+      },
+      {
+        "name": "odesa",
+        "sentiment": "none"
+      },
+      {
+        "name": "chernihiv",
+        "sentiment": "none"
+      },
+      {
+        "name": "kherson",
+        "sentiment": "none"
+      },
+      {
+        "name": "black sea",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:31:28.683+02:00",
+  "updated": "2023-12-29T00:31:28.683+02:00"
+}

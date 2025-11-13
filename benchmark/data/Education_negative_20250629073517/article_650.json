@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "687a88d0de4e4dc5802c241d61e74442b637d1d4",
+    "url": "https://foggia.corriere.it/notizie/cronaca/25_giugno_26/vieste-timbrano-il-cartellino-e-vanno-a-fare-la-spesa-o-al-bar-indagati-33-dipendenti-di-una-scuola-20acba6f-011d-49f4-9cb7-e3cca3790xlk.shtml",
+    "site_full": "foggia.corriere.it",
+    "site": "corriere.it",
+    "site_section": "https://bari.corriere.it/",
+    "site_categories": ["top_news_ch", "top_news_it", "top_news"],
+    "section_title": "Corriere Bari: le ultime news dalla citt&agrave; | Corriere Del Mezzogiorno",
+    "site_title": "Corriere della Sera: News e Ultime notizie in tempo reale da Italia e Mondo",
+    "title": "Vieste, timbrano il cartellino e vanno a fare la spesa o al bar: indagati 33 dipendenti di una scuola | Corriere.it",
+    "title_full": "Vieste, timbrano il cartellino e vanno a fare la spesa o al bar: indagati 33 dipendenti di una scuola | Corriere.it",
+    "published": "2025-06-26T12:46:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2025/06/26/685d160672ddb.jpeg",
+    "performance_score": 0,
+    "domain_rank": 1294,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "687a88d0de4e4dc5802c241d61e74442b637d1d4",
+  "url": "https://foggia.corriere.it/notizie/cronaca/25_giugno_26/vieste-timbrano-il-cartellino-e-vanno-a-fare-la-spesa-o-al-bar-indagati-33-dipendenti-di-una-scuola-20acba6f-011d-49f4-9cb7-e3cca3790xlk.shtml",
+  "ord_in_thread": 0,
+  "author": "Luca Pernice",
+  "published": "2025-06-26T12:46:00.000+03:00",
+  "title": "Vieste, timbrano il cartellino e vanno a fare la spesa o al bar: indagati 33 dipendenti di una scuola | Corriere.it",
+  "text": "Vai a tutte le notizie di Foggia Iscriviti alla newsletter del Corriere del Mezzogiorno Puglia 26 giugno 2025 © RIPRODUZIONE RISERVATA",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Education", "Politics"],
+  "topics": [
+    "Crime, Law and Justice->corruption",
+    "Crime, Law and Justice->law enforcement",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Education->teachers",
+    "Education->school",
+    "Education->students",
+    "Politics->civil and public service",
+    "Politics->government"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Corriere del Mezzogiorno Puglia",
+        "sentiment": "none"
+      },
+      {
+        "name": "Foggia Iscriviti",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_ch", "top_news_it", "top_news"],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T13:39:20.597+03:00",
+  "updated": "2025-06-26T10:53:21.000+00:00"
+}

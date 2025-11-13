@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "92c83c86d2b037c5524dfcb06a37e742644f6ed3",
+    "url": "https://gazette.com/news/us-world/turkey-to-reinforce-military-bases-in-n-iraq-after-12-soldiers-killed/article_581aeaaf-8171-5f39-b9a0-b5ef087a90a5.html",
+    "site_full": "gazette.com",
+    "site": "gazette.com",
+    "site_section": "http://gazette.com/news",
+    "site_categories": ["media", "education", "business"],
+    "section_title": "News | gazette.com",
+    "title": "Turkey to reinforce military bases in N.Iraq after 12 soldiers killed | U.S. & World | gazette.com",
+    "title_full": "Turkey to reinforce military bases in N.Iraq after 12 soldiers killed | U.S. & World | gazette.com",
+    "published": "2023-12-28T07:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/1/84/184ecb35-4131-5cc5-bd7c-36e9be71da79/658d796ec115e.image.jpg?crop=800%2C420%2C0%2C56&amp;resize=800%2C420&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 5518,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "92c83c86d2b037c5524dfcb06a37e742644f6ed3",
+  "url": "https://gazette.com/news/us-world/turkey-to-reinforce-military-bases-in-n-iraq-after-12-soldiers-killed/article_581aeaaf-8171-5f39-b9a0-b5ef087a90a5.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "BERNADETT SZABO",
+  "published": "2023-12-28T07:00:00.000+02:00",
+  "title": "Turkey to reinforce military bases in N.Iraq after 12 soldiers killed | U.S. & World | gazette.com",
+  "text": "ANKARA (Reuters) - Turkey will reinforce its newly established permanent bases in northern Iraq in the coming months, after 12 Turkish soldiers were killed in the region, President Tayyip Erdogan said on Thursday. The twelve were killed last week in northern Iraq in clashes with the militants of the outlawed Kurdistan Workers' Party (PKK) based there. \"In recent years, we have built hundreds of kilometres-long roads in northern Iraq for our permanent bases. We carry out the same activities in new places we have controlled,\" Erdogan told a televised meeting in Ankara. \"By the arrival of spring, we will have completed the infrastructure of our newly established bases (in northern Iraq), and make terrorists unable to set foot in the region.\" Turkish forces regularly carry out strikes in neighbouring Iraq as part of the country's offensive against PKK militants. Since 2019, Turkey has launched a series of operations in northern Iraq after Erdogan's declaration of \"a new security concept in combating terrorism\" and plan to \"neutralise terrorism and terrorists at source.\" The PKK, which demands greater Kurdish rights and has large fortifications around northern Iraq, is designated a terrorist group by Turkey, the United States and the European Union. It took up arms against the Turkish state in 1984 and over the decades it has conducted many deadly attacks in Turkey. (Reporting by Huseyin Hayatsever; Editing by Alexandra Hudson)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["War, Conflict and Unrest", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "erdogan",
+        "sentiment": "none"
+      },
+      {
+        "name": "tayyip erdogan",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "reuters",
+        "sentiment": "negative"
+      },
+      {
+        "name": "pkk",
+        "sentiment": "none"
+      },
+      {
+        "name": "kurdistan workers' party",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "turkey",
+        "sentiment": "none"
+      },
+      {
+        "name": "ankara",
+        "sentiment": "none"
+      },
+      {
+        "name": "iraq",
+        "sentiment": "none"
+      },
+      {
+        "name": "ankara",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:10:53.790+02:00",
+  "updated": "2023-12-29T00:10:53.790+02:00"
+}

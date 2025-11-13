@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "ae51175b892184cffd5d8d5f878eb13adcaaa642",
+    "url": "https://www.beckershospitalreview.com/cybersecurity/change-healthcare-identifying-stolen-data-will-take-months.html",
+    "site_full": "www.beckershospitalreview.com",
+    "site": "beckershospitalreview.com",
+    "site_section": "https://www.beckershospitalreview.com",
+    "site_categories": ["pets", "veterinary_medicine"],
+    "section_title": "Becker's Hospital Review | Healthcare News &amp; Analysis",
+    "title": "Change Healthcare: Identifying stolen data will take months",
+    "title_full": "Change Healthcare: Identifying stolen data will take months",
+    "published": "2024-04-25T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+    "performance_score": 0,
+    "domain_rank": 3808,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ae51175b892184cffd5d8d5f878eb13adcaaa642",
+  "url": "https://www.beckershospitalreview.com/cybersecurity/change-healthcare-identifying-stolen-data-will-take-months.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Naomi Diaz",
+  "published": "2024-04-25T08:00:00.000+03:00",
+  "title": "Change Healthcare: Identifying stolen data will take months",
+  "text": "UnitedHealth Group's Change Healthcare said it will take several more months to identify the personal data that was compromised from its Feb. 21 cyberattack, The Wall Street Journal reported Feb. 25. Sara Goldstein, a partner on the healthcare privacy and compliance team at law firm Baker Hostetler, told the Journal that once Change Healthcare completes the investigation into the attack , it will bring to light an unprecedented breach of data. \"This is a first of its kind in healthcare,\" Ms. Goldstein said. \"Change has tentacles throughout the industry.\" On April 22, UnitedHealth said \"a substantial proportion of people in America\" might have been affected by the incident, although the company added there has been no indication of the removal of items such as physicians' charts or complete medical histories. Despite this, health system leaders are concerned about what kinds of information could have been compromised. \"One thing that's heartbreaking for us is [that] these are our patients. They're entrusting their care and information to us,\" Deborah Gordon, chief administrative and legal officer at Houston-based Memorial Hermann Health System, told the Journal.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Science and Technology"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.wsj.com/articles/change-healthcare-grinds-through-massive-breach-probe-22fa3102)",
+    "https://wsj.com/articles/change-healthcare-grinds-through-massive-breach-probe-22fa3102)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "goldstein",
+        "sentiment": "none"
+      },
+      {
+        "name": "sara goldstein",
+        "sentiment": "none"
+      },
+      {
+        "name": "baker hostetler",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "unitedhealth group's change healthcare",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "wall street journal",
+        "sentiment": "none"
+      },
+      {
+        "name": "journal",
+        "sentiment": "none"
+      },
+      {
+        "name": "change healthcare",
+        "sentiment": "none"
+      },
+      {
+        "name": "unitedhealth",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "america",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:30:49.665+03:00",
+  "updated": "2024-04-26T07:51:46.859+03:00"
+}

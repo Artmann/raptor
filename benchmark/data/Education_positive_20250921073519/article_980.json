@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "b4dc68ffb471d370485474584ebcd86962729e28",
+    "url": "https://www.uni-mannheim.de/en/news/new-myunima-story-published",
+    "site_full": "www.uni-mannheim.de",
+    "site": "uni-mannheim.de",
+    "site_section": "https://www.uni-mannheim.de/en/newsroom",
+    "site_categories": ["graduate_school", "education"],
+    "section_title": "Newsroom | University of Mannheim",
+    "site_title": null,
+    "title": "New myUniMA story published | University of Mannheim",
+    "title_full": "New myUniMA story published | University of Mannheim",
+    "published": "2025-09-17T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.uni-mannheim.de/media/_processed_/4/4/csm_YakiciAyhan_web-JWE_abb1debd25.jpg",
+    "performance_score": 0,
+    "domain_rank": 19651,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b4dc68ffb471d370485474584ebcd86962729e28",
+  "url": "https://www.uni-mannheim.de/en/news/new-myunima-story-published",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-17T03:00:00.000+03:00",
+  "title": "New myUniMA story published | University of Mannheim",
+  "text": "New myUniMA story published\nAyhan Yakici comes from Turkey and completed a bachelor's degree in Istanbul. The 29-year-old is now in the third semester of a master's degree in Business Informatics at the University of Mannheim and works as a working student at SAP. In his myUniMA story, he talks about what helped him settle in Mannheim, whether he misses Turkish kebab, and which places in Mannheim he particularly recommends to his fellow students.\nBack;)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->adult and continuing education",
+    "Education->students",
+    "Education->college and university",
+    "Social Issue->adults",
+    "Social Issue->immigration",
+    "Social Issue->social services",
+    "Human Interest->graduation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ayhan Yakici",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "University of Mannheim",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "SAP",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "SAP",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "newsroom",
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:24:18.584+03:00",
+  "updated": "2025-09-18T09:30:43.000+03:00"
+}

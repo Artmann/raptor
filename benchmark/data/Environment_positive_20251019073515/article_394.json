@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "4acabc7cd5fc8c35bdc6f6d1b7b16be8707b0e38",
+    "url": "https://www.augsburger-allgemeine.de/neuburg/photovoltaikanlagen-ingolstadt-erreichen-erstmals-eine-million-kilowattstunden-112570697",
+    "site_full": "www.augsburger-allgemeine.de",
+    "site": "augsburger-allgemeine.de",
+    "site_section": "https://www.augsburger-allgemeine.de/neuburg/",
+    "site_categories": [
+      "media",
+      "job_search",
+      "jobs",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "Neuburg: News &amp; Nachrichten aktuell | Neuburger Rundschau",
+    "site_title": "Augsburger Allgemeine: Aktuelle Nachrichten und Hintergründe",
+    "title": "Photovoltaikanlagen Ingolstadt erreichen erstmals eine Million Kilowattstunden",
+    "title_full": "Photovoltaikanlagen Ingolstadt erreichen erstmals eine Million Kilowattstunden",
+    "published": "2025-10-16T14:16:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://images.mgpd.de/img/100896103/crop/c16_9-w1200/675176837/1883023124/ur2023-06-27photovoltaikanlage-neues-rathaus002.jpg",
+    "performance_score": 0,
+    "domain_rank": 11614,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 2,
+        "comments": 1,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4acabc7cd5fc8c35bdc6f6d1b7b16be8707b0e38",
+  "url": "https://www.augsburger-allgemeine.de/neuburg/photovoltaikanlagen-ingolstadt-erreichen-erstmals-eine-million-kilowattstunden-112570697",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T14:16:00.000+03:00",
+  "title": "Photovoltaikanlagen Ingolstadt erreichen erstmals eine Million Kilowattstunden",
+  "text": "Der 12. Oktober war ein besonderer Tag im Zeichen des Klimaschutzes. So steht es jedenfalls in einer Meldung der Stadt Ingolstadt . Denn an diesem Tag haben die Photovoltaik-Anlagen der Stadt Ingolstadt auf öffentlichen Gebäuden erstmals innerhalb eines Jahres über eine Million Kilowattstunden (kWh) Strom produziert.\nIn Ingolstadt wurden neue Photovoltaikanlagen installiert Im vergangenen Jahr blieben die städtischen Anlagenmit einer Jahresproduktion von rund 960.000 kWh noch knapp unter dieser Grenze. Das änderte sich heuer dank der Inbetriebnahmen neuer PV-Anlagen. Dazu beigetragen hat die Anfang September in Betrieb genommene PV-Anlage auf dem Dach des Verwaltungsgebäudes am Nordfriedhof sowie die 96 kWp-Anlage auf der Sporthalle des Christoph-Scheiner-Gymnasiums. Für das Jahr 2026 wird aufgrund der Inbetriebnahme weiterer PV-Anlagen ein noch früherer Zeitpunkt im Jahr angestrebt, heißt es seitens der Stadt.\nRund 60 Prozent des erzeugten Stromes werden direkt in den städtischen Liegenschaften verbraucht, die restlichen 40 Prozent werden ins öffentliche Stromnetz eingespeist und vergütet. Die finanziellen Vorteile ergeben sich vor allem durch den verringerten Strombezug und somit durch günstigere Stromrechnungen. „Zugleich ist die Nutzung von regenerativ erzeugtem Strom ein wichtiger Baustein hin zur Klimaneutralität der Stadtverwaltung Ingolstadt“, heißt es in der Mitteilung. (AZ)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->climate change"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Ingolstadt",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:39:42.248+03:00",
+  "updated": "2025-10-17T15:11:38.000+03:00"
+}

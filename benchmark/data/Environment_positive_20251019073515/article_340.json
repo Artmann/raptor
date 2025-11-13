@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "d46804762e6aac74eacb6c81711955cc7082840b",
+    "url": "https://www.elperiodic.com/pcastellon/nueva-planta-solar-entre-comarcas-castellon_1040200",
+    "site_full": "www.elperiodic.com",
+    "site": "elperiodic.com",
+    "site_section": "https://www.elperiodic.com/rss_pcastellon.xml",
+    "site_categories": [],
+    "section_title": "Noticias de Castellón Provincia",
+    "site_title": "Noticias de Valencia, Alicante y Castellón",
+    "title": "Dan el 'ok' a una nueva planta solar entre dos comarcas de Castellón",
+    "title_full": "Dan el 'ok' a una nueva planta solar entre dos comarcas de Castellón",
+    "published": "2025-10-16T11:59:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://www.elperiodic.com/archivos/imagenes/noticias/2025/10/16/whatsapp-image-2025-10-16-at-101426_og.jpeg",
+    "performance_score": 0,
+    "domain_rank": 66223,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d46804762e6aac74eacb6c81711955cc7082840b",
+  "url": "https://www.elperiodic.com/pcastellon/nueva-planta-solar-entre-comarcas-castellon_1040200",
+  "ord_in_thread": 0,
+  "author": "elperiodic.com",
+  "published": "2025-10-16T11:59:00.000+03:00",
+  "title": "Dan el 'ok' a una nueva planta solar entre dos comarcas de Castellón",
+  "text": "Dan el 'ok' a una nueva planta solar entre dos comarcas de Castellón\nDuquesa Solar se ubicará en una zona rural\nLa Generalitat ha dado el 'ok' a una nueva planta solar que se ubicará entre dos comarcas castellonenses, concretamente entre l'Alcaltén y la Plana Baixa.\nY es que la central fotovoltaica 'Duquesa Solar' se plantea entre los términos municipales de L'Alcora y Onda y a pocos metros del término de Ribesalbes, en las zonas del Cantalar y el Romeral de Onda, junto al barranco de la Grillera alcorense.\nSegún el proyecto de Sonnedix España Solar Energy, se ubicaría en una zona de huertos mayoritariamente abandonados actualmente al oeste de la carretera de Ribesalbes a l'Alcora.\nEl proyecto, que ha sido reajustado, ocuparía 200.000 metros cuadrados para ubicar 25 megawatios de potencia y se plantea que sea desmantelada tras su vida útil, cuando sería restaurado el terreno.\nLos terrenos coinciden en terreno con un proyecto anterior que presentó la compañía Enerhi para ubicar la megaplanta solar “Valentia Edetanotum FV4”, que se esperaba que ocupara más de 600 hectáreas en toda la zona.\nPor otra parte, DVP Solar ha desistido de su proyecto 'Riu Sec' que que preveía una planta de 216 hectáreas en el término municipal de l'Alcora por las condiciones impuestas, como el soterramiento de parte de su línea eléctrica a su paso por las cercanías de la Sierra de Espadán.\nEn cuanto a su tamaño, cabe destacar en la provincia el de Arada Solar, entre Moncofa, Xilxes y La Vall d'Uixó, que ha cambiado recientemente su ubicación y podría ser uno de los más grandes de la provincia.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->energy resources", "Environment->sustainability"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Ribesalbes",
+        "sentiment": "none"
+      },
+      {
+        "name": "Cantalar",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Sonnedix España Solar Energy",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:28:46.418+03:00",
+  "updated": "2025-10-16T14:36:14.000+03:00"
+}

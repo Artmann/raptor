@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "a4c01dba2b5d499282f44d0c48499a5b419a0206",
+    "url": "https://finance.sina.com.cn/jjxw/2025-10-16/doc-infuayzf2365115.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "http://finance.sina.cn",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪财经_金融信息服务商",
+    "site_title": null,
+    "title": "青海亿储格尔木350兆瓦塔式光热发电项目正式开工建设|青海省_新浪财经_新浪网",
+    "title_full": "青海亿储格尔木350兆瓦塔式光热发电项目正式开工建设|青海省_新浪财经_新浪网",
+    "published": "2025-10-16T16:15:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 548,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a4c01dba2b5d499282f44d0c48499a5b419a0206",
+  "url": "https://finance.sina.com.cn/jjxw/2025-10-16/doc-infuayzf2365115.shtml",
+  "ord_in_thread": 0,
+  "author": "证券时报网",
+  "published": "2025-10-16T16:15:00.000+03:00",
+  "title": "青海亿储格尔木350兆瓦塔式光热发电项目正式开工建设|青海省_新浪财经_新浪网",
+  "text": "转自：证券时报\n人民财讯10月16日电，据西北电力设计院消息，10月16日，由 中国能建 中电工程西北院承担核心设计任务的全球单体规模最大、镜场反射面积最大、储能规模最大、年设计发电量最高的光热电站——青海亿储格尔木350兆瓦塔式光热发电项目正式开工建设。标志着，我国光热发电技术实现重大突破，迈入规模化、高效化发展的新阶段。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Environment", "Science and Technology"],
+  "topics": [
+    "Environment->sustainability",
+    "Environment->energy resources",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->physics",
+    "Science and Technology->scientific innovation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_hk", "top_news_sg", "top_news_tw", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:25:07.078+03:00",
+  "updated": "2025-10-17T17:07:34.000+03:00"
+}

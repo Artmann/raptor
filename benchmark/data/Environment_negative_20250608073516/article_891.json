@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "deacf5679c00fa87f2a4f2d9c496b4f57ecd2965",
+    "url": "https://news.cts.com.tw/cna/local/202505/202505082469300.html",
+    "site_full": "news.cts.com.tw",
+    "site": "cts.com.tw",
+    "site_section": "https://news.cts.com.tw/real/index.html",
+    "site_categories": ["media"],
+    "section_title": "華視新聞網 - 即時",
+    "site_title": null,
+    "title": "三峽北111縣道部分路段土石崩落 雙向無法通行 - 華視新聞網",
+    "title_full": "三峽北111縣道部分路段土石崩落 雙向無法通行 - 華視新聞網",
+    "published": "2025-05-08T05:05:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://static.cts.com.tw/news/photo/cna/202505/202505082469300_l.jpg?t=1746675466",
+    "performance_score": 0,
+    "domain_rank": 39868,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "deacf5679c00fa87f2a4f2d9c496b4f57ecd2965",
+  "url": "https://news.cts.com.tw/cna/local/202505/202505082469300.html",
+  "ord_in_thread": 0,
+  "author": "cts.com.tw",
+  "published": "2025-05-08T05:05:00.000+03:00",
+  "title": "三峽北111縣道部分路段土石崩落 雙向無法通行 - 華視新聞網",
+  "text": "(中央社) 中央社\n（中央社記者趙敏雅新北8日電）新北市三峽區北111縣道2.5至3公里處今天清晨發生土石崩落，土石堆滿車道，還砸毀一旁的護欄，導致雙向無法通行，目前搶修中，警方呼籲民眾提早改道。\n新北市政府警察局三峽分局以訊息說明，所轄的插腳派出所員警休假返回派出所時，行經北111線道添福58之3號旁發現大量土石坍方，落石堆滿車道，還砸毀一旁的護欄，導致雙向無法通行，立刻通報警分局勤務中心。\n警方表示，目前轄區三峽警分局已通報區公所等單位派員搶修，至於是否有人車受困，仍要進一步了解。\n為確保用路人安全，三峽警分局指出，已派員在添福58之3號前封閉道路警示，提醒想往插腳上山的用路人改道；另派員在湊合橋引導下山民眾，改走北114縣道往三峽方向。（編輯：戴光育）1140508\n新聞來源：中央社",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Social Issue", "Environment"],
+  "topics": [
+    "Disaster and Accident->emergency response",
+    "Disaster and Accident->structural failure",
+    "Social Issue->social services",
+    "Social Issue->public housing",
+    "Social Issue->social problem",
+    "Environment->land resources",
+    "Environment->environmental clean-up",
+    "Environment->natural resources"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://social-plugins.line.me/lineit/share?url=https://ctsnews.page.link/LesJW",
+    "https://www.facebook.com/dialog/send?app_id=1572843652896530&display=page&link=https://ctsnews.page.link/6uFJi&redirect_uri=https://news.cts.com.tw/cna/local/202505/202505082469300.html",
+    "https://www.facebook.com/dialog/feed?app_id=1572843652896530&display=page&link=https://ctsnews.page.link/hrQ1H&redirect_uri=https://news.cts.com.tw/cna/local/202505/202505082469300.html",
+    "https://www.social-plugins.line.me/lineit/share?url=https://www.ctsnews.page.link/LesJW",
+    "https://www.facebook.com/dialog/feed",
+    "https://facebook.com/dialog/send?app_id=1572843652896530&display=page&link=https://ctsnews.page.link/6uFJi&redirect_uri=https://news.cts.com.tw/cna/local/202505/202505082469300.html",
+    "https://www.facebook.com/dialog/send",
+    "https://facebook.com/dialog/feed?app_id=1572843652896530&display=page&link=https://ctsnews.page.link/hrQ1H&redirect_uri=https://news.cts.com.tw/cna/local/202505/202505082469300.html",
+    "https://social-plugins.line.me/lineit/share"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:38:41.168+03:00",
+  "updated": "2025-05-08T03:43:53.000+00:00"
+}

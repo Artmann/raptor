@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "b7e87588d001ae56925b785d9c775ba0c90fad47",
+    "url": "https://www.newsbreak.com/connecticut-public-560505/4295144653357-green-sea-turtles-no-longer-endangered-as-global-population-rebounds",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://local.newsbreak.com/connecticut-public-560505",
+    "site_categories": ["under_construction"],
+    "section_title": "Connecticut Public&#x27;s Home Page | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Green sea turtles no longer endangered as global population rebounds - NewsBreak",
+    "title_full": "Green sea turtles no longer endangered as global population rebounds - NewsBreak",
+    "published": "2025-10-16T13:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 2819,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b7e87588d001ae56925b785d9c775ba0c90fad47",
+  "url": "https://www.newsbreak.com/connecticut-public-560505/4295144653357-green-sea-turtles-no-longer-endangered-as-global-population-rebounds",
+  "ord_in_thread": 0,
+  "author": "Hosts",
+  "published": "2025-10-16T13:00:00.000+03:00",
+  "title": "Green sea turtles no longer endangered as global population rebounds - NewsBreak",
+  "text": "By Hosts ,\n1 hours ago Once endangered, the global green sea turtle population is rebounding, according to a new report from the International Union for Conservation of Nature. Read full article\nRead in NewsBreak",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->endangered species", "Environment->animal"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:11:55.616+03:00",
+  "updated": "2025-10-16T14:26:40.000+03:00"
+}

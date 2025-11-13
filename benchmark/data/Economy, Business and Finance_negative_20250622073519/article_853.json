@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "f439464cc70e7de31357ef32be9227704d6f5b5f",
+    "url": "https://www.etnet.com.hk/www/tc/news/categorized_news_detail.php?newsid=ETN350619728&page=1&category=latest",
+    "site_full": "www.etnet.com.hk",
+    "site": "etnet.com.hk",
+    "site_section": "https://etnet.com.hk/www/tc/news/categorized_news.php",
+    "site_categories": ["javascript", "tech"],
+    "section_title": "即時新聞 Stock News - 股票 股市 財經 - etnet 經濟通|香港新聞財經資訊和生活平台",
+    "site_title": "etnet 經濟通|香港新聞財經資訊和生活平台",
+    "title": "紫金跌逾3%失守10天線，現報19.16元 - etnet 經濟通|香港新聞財經資訊和生活平台",
+    "title_full": "紫金跌逾3%失守10天線，現報19.16元 - etnet 經濟通|香港新聞財經資訊和生活平台",
+    "published": "2025-06-19T06:21:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "HK",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 36174,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f439464cc70e7de31357ef32be9227704d6f5b5f",
+  "url": "https://www.etnet.com.hk/www/tc/news/categorized_news_detail.php?newsid=ETN350619728&page=1&category=latest",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-19T06:21:00.000+03:00",
+  "title": "紫金跌逾3%失守10天線，現報19.16元 - etnet 經濟通|香港新聞財經資訊和生活平台",
+  "text": "紫金(02899)現跌逾3%，最低價見19.16元，跌穿10天線（19.21元），最高價19.72元；成交2306萬股，成交金額4.49億元；主動買沽比率34:66，資金淨主動賣出1.24億元。現時最大淨被動買入券商為花旗環球金融亞洲，金額5378萬元，加權平均成交價19.485元；現時最大淨被動賣出券商為摩根大通，金額836.87萬元，加權平均成交價19.506元。\n　　現時，恒生指數報23320，跌390點或1.6%；恒生中國企業指數報8447，跌146點或1.7%。\n基本資料 現價 19.160 變動 -3.04% 最高價 19.720 最低價 19.160 成交股數 2306萬股 成交金額 4.49億 10天平均 19.210 歷史波幅% 32.315 20天平均 18.621 加權平均價 19.462 50天平均 17.540 RSI14 57.518 股份狀態:跌穿10天線；主動買沽比率34:66，資金淨主動賣出1.24億元\n表列同板塊或相關股份表現 股份(編號) 現價(元) 變幅(%) 紫金(02899) 19.160 -3.04 潼關黃金(00340) 2.490 -3.86 壇金礦業(00621) 0.062 -8.82 中國白銀集團(00815) 0.485 -10.19 中海油(00883) 17.820 -1.76 建行(00939) 7.520 -1.70 山東黃金(01787) 27.250 +0.37 招金礦業(01818) 20.500 -2.38 中國黃金國際(02099) 69.950 -3.45 靈寶黃金(03330) 10.060 -7.88\n《經濟通通訊社19日專訊》 etnet香港好去處推出小紅書版！立即追蹤@通仔GoGoGo 以獲取最新情報！ ► 即睇詳情",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance"],
+  "topics": [
+    "Economy, Business and Finance->financial service",
+    "Economy, Business and Finance->market and exchange",
+    "Economy, Business and Finance->business reporting and performance"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.xiaohongshu.com/user/profile/66a9f1eb000000001d031eb2",
+    "https://xiaohongshu.com/user/profile/66a9f1eb000000001d031eb2"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:41:15.477+03:00",
+  "updated": "2025-06-19T04:43:08.000+00:00"
+}

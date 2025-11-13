@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "fae9daacf2db20c07d888aead75f06d243081ecb",
+    "url": "https://www.dispatchlive.co.za/news/2023-12-28-several-provinces-should-brace-for-severe-thunderstorms-on-friday/",
+    "site_full": "www.dispatchlive.co.za",
+    "site": "dispatchlive.co.za",
+    "site_section": "http://www.dispatchlive.co.za/news",
+    "site_categories": ["media"],
+    "section_title": "News",
+    "title": "Several provinces should brace for severe thunderstorms on Friday",
+    "title_full": "Several provinces should brace for severe thunderstorms on Friday",
+    "published": "2023-12-28T23:48:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ZA",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 49856,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fae9daacf2db20c07d888aead75f06d243081ecb",
+  "url": "https://www.dispatchlive.co.za/news/2023-12-28-several-provinces-should-brace-for-severe-thunderstorms-on-friday/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "TimesLIVE",
+  "published": "2023-12-28T23:48:00.000+02:00",
+  "title": "Several provinces should brace for severe thunderstorms on Friday",
+  "text": "Several provinces should brace for severe thunderstorms on Friday Government has urged residents of Western Cape, Eastern Cape, Northern Cape, KwaZulu-Natal, North West and Free State to take precautions and follow instructions from their provincial disaster management centres to keep safe. This request was made after the South African Weather Services issued severe weather alerts, including severe thunderstorms, damaging and strong winds, and disruptive rains in these provinces for Friday. ⛈️Weather outlook for Friday,— SA Weather Service (@SAWeatherServic) Partly cloudy and warm, but cool in places in the east with isolated showers and thundershowers, but widespread to scattered over the central parts. ⚠️Warning: Severe thunderstorms- heavy rain and strong winds with possibility of hail. [#saws] [pic.twitter.com/qRNOp2IKdn] [December 28, 2023] The weather service said it will be partly cloudy and warm, but cool in places in the east with isolated showers and thundershowers, but widespread to scattered over the central parts. It warned of severe thunderstorms in some parts with heavy rain and strong winds with the possibility of hail. This comes as some parts of KwaZulu-Natal are still reeling from the devastation caused by recent floods, where some people are still unaccounted for. TimesLIVE",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Weather", "Disaster and Accident", "Environment"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "eastern cape",
+        "sentiment": "none"
+      },
+      {
+        "name": "natal",
+        "sentiment": "none"
+      },
+      {
+        "name": "— sa weather service",
+        "sentiment": "none"
+      },
+      {
+        "name": "kwazulu",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "northern cape",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:21:33.976+02:00",
+  "updated": "2023-12-29T00:21:33.976+02:00"
+}

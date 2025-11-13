@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "48b92e188973e2c64071277b69a1b3a13c7d177a",
+    "url": "https://www.jdsupra.com/legalnews/washington-healthcare-company-ordered-4095172",
+    "site_full": "www.jdsupra.com",
+    "site": "jdsupra.com",
+    "site_section": "http://www.jdsupra.com/resources/syndication/docsrssfeed.aspx?ftype=allcontent&premium=1",
+    "site_categories": ["tech"],
+    "section_title": "JD Supra RSS Feed | JD Supra Law News",
+    "title": "Washington Healthcare Company Ordered to Pay Workers Almost $100M for Missed Meal Breaks, Unpaid Time",
+    "title_full": "Washington Healthcare Company Ordered to Pay Workers Almost $100M for Missed Meal Breaks, Unpaid Time",
+    "published": "2024-04-25T23:45:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15521_4328.jpg",
+    "performance_score": 0,
+    "domain_rank": 3414,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "48b92e188973e2c64071277b69a1b3a13c7d177a",
+  "url": "https://www.jdsupra.com/legalnews/washington-healthcare-company-ordered-4095172",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Seyfarth Shaw LLP",
+  "published": "2024-04-25T23:45:00.000+03:00",
+  "title": "Washington Healthcare Company Ordered to Pay Workers Almost $100M for Missed Meal Breaks, Unpaid Time",
+  "text": "Seyfarth Synopsis: Last week, a Washington healthcare company was ordered to pay 33,000 workers $98.3 million in damages in a class action related to its meal break and timeclock rounding practices. The vast majority of the awarded damages pertain to missed meal breaks, but the award included an offset of about $1 million to account for the fact that some employees signed meal break waivers. This case is a potent reminder of the importance of training managers on meal break requirements, scheduling and providing meal breaks in compliance with Washington law, and clearly documenting employee meal break waivers.\nBackground\nIn September 2021, a class action lawsuit was filed against the healthcare company claiming that the company systematically failed to provide employees with a second 30-minute meal break when employees worked shifts longer than ten hours (Washington law requires employers to provide non-exempt employees with a 30-minute unpaid meal break for every five hours worked).\nPlaintiffs also claimed that the healthcare company’s payroll policy of rounding time worked to the nearest 15-minute increment generally deprived workers of wages due, though plaintiffs conceded that, in some instances, the rounding practice resulted in workers being paid more than they were due.\nIn January 2024, King County Superior Court Judge Averil Rothrock granted partial summary judgment in the plaintiffs’ favor on both claims. Accordingly, the issue remaining for trial was damages: plaintiffs asked the jury to award them approximately $9.3 million in damages related to the rounding system and $90.3 million for missed second 30-minute meal breaks.\nOn April 18, 2024, the jury awarded plaintiffs $98.3 million in damages. Although the jury verdict form reportedly indicated that the jury initially awarded the workers their full request of $99.6 million in damages, the jury ultimately reduced that amount by about $1.3 million, finding that the company had shown some employees had signed written meal break waivers.\nTakeaways\nCertainly a verdict so sizeable puts a spotlight on Washington employers’ wage and hour compliance. Meal break and rounding practices, however, present compliance challenges in other states and under the FLSA, as well. And the size of this Washington verdict will certainly attract plaintiffs’ lawyers’ attention to those challenges nationally.\nSee more »\nDISCLAIMER: Because of the generality of this update, the information provided herein may not be applicable in all situations and should not be acted upon without specific legal advice based on particular situations.\n© Seyfarth Shaw LLP\nRefine your interests »",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Labor",
+    "Crime, Law and Justice",
+    "Economy, Business and Finance"
+  ],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "washington healthcare company ordered",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "washington",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:05:25.844+03:00",
+  "updated": "2024-04-26T00:05:25.844+03:00"
+}

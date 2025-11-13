@@ -1,0 +1,122 @@
+{
+  "thread": {
+    "uuid": "9af703c0d74eee1cfd3e9b943264031be700b7b3",
+    "url": "https://www.clayton.k12.ga.us/resources/community/district-news/whats-happening/~board/clayton-county-public-schools-news/post/ccps-honors-2025-employees-of-the-year-at-legacy-of-excellence-gala",
+    "site_full": "www.clayton.k12.ga.us",
+    "site": "clayton.k12.ga.us",
+    "site_section": "https://www.clayton.k12.ga.us",
+    "site_categories": [],
+    "section_title": "Home - Clayton County Public Schools",
+    "site_title": "Home - Clayton County Public Schools",
+    "title": "Here's What's Happening - Clayton County Public Schools",
+    "title_full": "Here's What's Happening - Clayton County Public Schools",
+    "published": "2025-09-17T19:14:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": null,
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 545222,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9af703c0d74eee1cfd3e9b943264031be700b7b3",
+  "url": "https://www.clayton.k12.ga.us/resources/community/district-news/whats-happening/~board/clayton-county-public-schools-news/post/ccps-honors-2025-employees-of-the-year-at-legacy-of-excellence-gala",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-17T19:14:00.000+03:00",
+  "title": "Here's What's Happening - Clayton County Public Schools",
+  "text": "Here's What's Happening\nClayton County Public Schools (CCPS) honored its 2025 Employees of the Year at “The Legacy of Excellence” gala on September 13 at the Morrow Center. Nearly 700 guests celebrated school-level Teachers of the Year and district finalists during an evening of music, awards, and celebration!\n“This celebration reflected the extraordinary dedication and talent of our educators and staff who inspire students every day,” said Dr. Anthony W. Smith, Superintendent/CEO of Schools. “Their commitment to excellence shapes the future of Clayton County Public Schools and ensures that we continue building a better tomorrow, today.”\nThis year’s top honorees include:\n• Principal of the Year: Kimberlee Barnett – Jonesboro Middle\n• District Teacher of the Year: Miranda Scott – Charles R. Drew High\n• Support Leader (Certified): Dr. Sonja Bennings – Sequoyah Middle\n• Support Professional (Certified): Natilia Hendrix – North Clayton High\n• Support Leader (Classified): Jada Dawkins – Communications Division\n• Support Professional (Classified): Gabysol Quiroz – Fountain Elementary\nFor full event details and photos, please see the attached advisory.\nTo view images of the 2025 Employee of the Year Gala, please click here.\nTo view the full-length 2025 Employee of the Year Gala, please click here.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": [
+    "Education->teachers",
+    "Education->students",
+    "Education->school",
+    "Human Interest->ceremony",
+    "Social Issue->communities",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://ccpscommunications.client-gallery.com/gallery/employee-of-the-year-gala-2025-2026",
+    "https://youtu.be/S2ifoq7Jk_M",
+    "https://www.youtu.be/S2ifoq7Jk_M",
+    "https://www.ccpscommunications.client-gallery.com/gallery/employee-of-the-year-gala-2025-2026"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Kimberlee Barnett",
+        "sentiment": "none"
+      },
+      {
+        "name": "Anthony W. Smith",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sonja Bennings",
+        "sentiment": "none"
+      },
+      {
+        "name": "Jada Dawkins",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Morrow Center",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Clayton County Public Schools",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Clayton", "Morrow"],
+      "state": ["Georgia"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:01:26.791+03:00",
+  "updated": "2025-09-18T09:11:40.000+03:00"
+}

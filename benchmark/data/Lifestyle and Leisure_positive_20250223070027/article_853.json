@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "45260d84e90e92b111468cfe6a44234632a5db38",
+    "url": "https://www.hastingstribune.com/ap/entertainment/lost-tina-turner-track-from-private-dancer-posthumously-released-over-40-years-later/article_9f4d1022-b862-5d12-97ff-20d4b63b5a1e.html",
+    "site_full": "www.hastingstribune.com",
+    "site": "hastingstribune.com",
+    "site_section": "https://www.hastingstribune.com/search/?f=rss&amp",
+    "site_categories": ["media"],
+    "section_title": "www.hastingstribune.com - RSS Results",
+    "title": "Lost Tina Turner track from 'Private Dancer' posthumously released over 40 years later",
+    "title_full": "Lost Tina Turner track from 'Private Dancer' posthumously released over 40 years later",
+    "published": "2025-01-24T00:22:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
+    "performance_score": 0,
+    "domain_rank": 61099,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "45260d84e90e92b111468cfe6a44234632a5db38",
+  "url": "https://www.hastingstribune.com/ap/entertainment/lost-tina-turner-track-from-private-dancer-posthumously-released-over-40-years-later/article_9f4d1022-b862-5d12-97ff-20d4b63b5a1e.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Karu F. Daniels - New York Daily News (TNS)",
+  "published": "2025-01-24T00:22:00.000+02:00",
+  "title": "Lost Tina Turner track from 'Private Dancer' posthumously released over 40 years later",
+  "text": "A previously unreleased song by Tina Turner, from her blockbuster 1984 album “Private Dancer,” has been rediscovered and was publicly heard for the first time Thursday.\n“Hot For You Baby,” recorded at Hollywood’s Capitol Studios in the early ’80s, received its first play on BBC Radio 2 as it hit streaming platforms worldwide.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Arts, Culture and Entertainment",
+    "Human Interest",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Arts, Culture and Entertainment->music",
+    "Arts, Culture and Entertainment->arts and entertainment",
+    "Arts, Culture and Entertainment->culture",
+    "Human Interest->anniversary",
+    "Lifestyle and Leisure->trend",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Tina Turner",
+        "sentiment": "neutral"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "BBC Radio",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "45260d84e90e92b111468cfe6a44234632a5db38",
+    "first_syndicated": true
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:37:38.166+02:00",
+  "updated": "2025-01-24T00:37:38.166+02:00"
+}

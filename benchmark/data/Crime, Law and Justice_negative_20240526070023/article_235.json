@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "850e8d07dd9eafb1d183722dc516aebae9ba47a7",
+    "url": "https://abcnews.go.com/US/wireStory/man-shot-13-times-chicago-traffic-stop-officers-109648908",
+    "site_full": "abcnews.go.com",
+    "site": "go.com",
+    "site_section": "http://feeds.abcnews.com/abcnews/usheadlines",
+    "site_categories": ["media"],
+    "section_title": "ABC News: US",
+    "title": "Man was shot 13 times in Chicago traffic stop where officers fired nearly 100 rounds, autopsy shows",
+    "title_full": "Man was shot 13 times in Chicago traffic stop where officers fired nearly 100 rounds, autopsy shows",
+    "published": "2024-04-25T23:46:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://i.abcnewsfe.com/a/0d6060a4-4b34-49e3-8d8e-8b567efbff20/wirestory_5b9b27e4497c0829e010542db3a4995b_16x9.jpg?w=1600",
+    "performance_score": 0,
+    "domain_rank": 142,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "850e8d07dd9eafb1d183722dc516aebae9ba47a7",
+  "url": "https://abcnews.go.com/US/wireStory/man-shot-13-times-chicago-traffic-stop-officers-109648908",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "ABC News",
+  "published": "2024-04-25T23:46:00.000+03:00",
+  "title": "Man was shot 13 times in Chicago traffic stop where officers fired nearly 100 rounds, autopsy shows",
+  "text": "A man killed in a traffic stop last month when plainclothes Chicago police officers fired their guns nearly 100 times was shot 13 times, according to an autopsy report released Thursday.\nThe March 21 police shooting that left Dexter Reed, 26, dead has prompted protests with activists calling for the five officers involved to be dismissed. Reed’s family has filed a wrongful death lawsuit questioning plainclothes tactical squads. And a police oversight agency and the Cook County state’s attorney are investigating.\nEarlier this month, the Civilian Office of Police Accountability, which investigates police shootings, released videos and documents from the traffic stop where the officers arrived in an unmarked squad car. The office said Reed fired first at the officers, who pulled him over purportedly because he wasn't wearing a seatbelt. The officers returned fire, shooting 96 times in 41 seconds, according to the office. Reed was pronounced dead at a hospital, and his death was classified as a homicide.\nReed was struck five times on his legs, four times in the buttocks, twice in the chest and hit on the back and shoulder, according to the Cook County medical examiner’s autopsy report. A toxicology screen also released Thursday showed his system contained THC, marijuana ’s main psychoactive ingredient.\nPolice have offered few details about the shooting, which left one officer injured. The officers were placed on 30-day administrative leave.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "reed",
+        "sentiment": "none"
+      },
+      {
+        "name": "dexter reed",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "civilian office of police accountability",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "chicago",
+        "sentiment": "none"
+      },
+      {
+        "name": "chicago",
+        "sentiment": "none"
+      },
+      {
+        "name": "cook county",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:09:24.167+03:00",
+  "updated": "2024-04-26T01:22:38.242+03:00"
+}

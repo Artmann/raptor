@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "bf077855361ed87fedf9a38a6fa0fcc69c6c23e8",
+    "url": "https://dailyhodl.com/2023/12/28/ethereum-leaps-as-eth-co-founder-vitalik-buterin-shares-proof-of-stake-pos-simplification-proposal/",
+    "site_full": "dailyhodl.com",
+    "site": "dailyhodl.com",
+    "site_section": "https://dailyhodl.com",
+    "site_categories": ["finance"],
+    "section_title": "The Daily Hodl",
+    "title": "Ethereum Leaps As ETH Co-Founder Vitalik Buterin Shares Proof-of-Stake (PoS) Simplification Proposal - The Daily Hodl",
+    "title_full": "Ethereum Leaps As ETH Co-Founder Vitalik Buterin Shares Proof-of-Stake (PoS) Simplification Proposal - The Daily Hodl",
+    "published": "2023-12-29T01:01:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://dailyhodl.com/wp-content/uploads/2022/10/ethereum-project-jumps-adds.jpg",
+    "performance_score": 0,
+    "domain_rank": 16779,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bf077855361ed87fedf9a38a6fa0fcc69c6c23e8",
+  "url": "https://dailyhodl.com/2023/12/28/ethereum-leaps-as-eth-co-founder-vitalik-buterin-shares-proof-of-stake-pos-simplification-proposal/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Mehron Rokhy",
+  "published": "2023-12-29T01:01:00.000+02:00",
+  "title": "Ethereum Leaps As ETH Co-Founder Vitalik Buterin Shares Proof-of-Stake (PoS) Simplification Proposal - The Daily Hodl",
+  "text": "The leading smart contract platform by volume is seeing a rise in price after its co-founder shared a proposal to simplify its proof-of-stake (PoS) mechanism. In a new thread, Ethereum ( [ETH](https://dailyhodl.com/currencies/ethereum/)) co-founder Vitalik Buterin [releases](https://twitter.com/VitalikButerin/status/1740066206185611594) his proposal on how to improve the top altcoin’s blockchain, saying that it would make the proof-of-stake system “considerably simpler and lighter.” In the [proposal,](https://ethresear.ch/t/sticking-to-8192-signatures-per-slot-post-ssf-how-and-why/17989) Buterin says that the upgrade would boost decentralization and allow regular individuals to partake in staking. However, he notes that the proposal comes at a high cost. “This approach requires the Ethereum chain to process a huge number of signatures (~28,000 today; 1,790,000 post-SSF [single slot finality]) per slot, which is a very high load. Supporting this load entails a lot of technical sacrifices.” According to Buterin, Ethereum’s centralization works against it because if it were to suffer an attack, it would cost the network about 9 million tokens, or $20 billion. “If a 51% attack takes place [on Ethereum], a large fraction of the entire attacking validator set has their deposits slashed. The cost of an attack is at present around 9 million ETH (~$20 billion), and that assumes network synchrony breaks in a way that maximally favors the attacker. I argue that this is a high cost, but it is too high a cost, and we can afford to make some sacrifices in the matter… This is why I advocate a moderate solution: one that makes some sacrifices on validator accountability, but still keeps the amount of total slashable ETH quite high, but in exchange gets us most of the benefits of a smaller validator set.” Buterin concludes that the optimal number of signatures to process per slot for ETH is 8192 as it would make it “much easier for anyone to run a consensus client, and users, staking enthusiasts and others would be able to immediately work off of that assumption.” After the announcement, the price of Ethereum jumped to $2,442. However, it has since stabilized and is trading for $2,370 at time of writing, a fractional increase during the last 24 hours.Don't Miss a Beat – [Subscribe](https://dailyhodl.com/join-the-daily-hodl-email-list/)to get email alerts delivered directly to your inbox Check [Price Action](https://dailyhodl.com/crypto-markets/) Follow us on [Telegram](https://t.me/thedailyhodl) Surf [The Daily Hodl Mix](https://dailyhodl.com/daily-hodl-mix) [Check Latest News Headlines](https://dailyhodl.com/news/) Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any loses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing. Featured Image: Shutterstock/Quardia/Sensvector",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Economy, Business and Finance"],
+  "external_links": [
+    "https://ethresear.ch/t/sticking-to-8192-signatures-per-slot-post-ssf-how-and-why/17989)",
+    "https://twitter.com/VitalikButerin/status/1740066206185611594)",
+    "https://t.me/thedailyhodl)",
+    "https://www.t.me/thedailyhodl)",
+    "https://www.twitter.com/VitalikButerin/status/1740066206185611594)",
+    "https://www.ethresear.ch/t/sticking-to-8192-signatures-per-slot-post-ssf-how-and-why/17989)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "buterin",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "ethereum",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:24:42.946+02:00",
+  "updated": "2023-12-29T01:24:42.946+02:00"
+}

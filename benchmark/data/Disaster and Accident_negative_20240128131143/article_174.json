@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "b2abc179a071fc79bb5845d40b742b9d3173fa72",
+    "url": "https://jordantimes.com/news/region/israel-bombs-gaza-un-warns-civilians-face-grave-peril",
+    "site_full": "jordantimes.com",
+    "site": "jordantimes.com",
+    "site_section": "https://jordantimes.com/news/region",
+    "site_categories": ["media"],
+    "section_title": "Region | Jordan Times",
+    "title": "Israel bombs Gaza as UN warns civilians face 'grave peril' | Jordan Times",
+    "title_full": "Israel bombs Gaza as UN warns civilians face 'grave peril' | Jordan Times",
+    "published": "2023-12-28T14:59:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 15751,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b2abc179a071fc79bb5845d40b742b9d3173fa72",
+  "url": "https://jordantimes.com/news/region/israel-bombs-gaza-un-warns-civilians-face-grave-peril",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "AFP",
+  "published": "2023-12-28T14:59:00.000+02:00",
+  "title": "Israel bombs Gaza as UN warns civilians face 'grave peril' | Jordan Times",
+  "text": "GAZA STRIP, Palestinian Territories — Israeli forces on Thursday heavily bombed the besieged Gaza Strip as the centre of intensified bombardment moves steadily south, where hundreds of thousands of displaced Palestinians are sheltering.\nThe war, which started with Hamas's October 7 sudden attack on Israel, has devastated much of northern Gaza as air and artillery strikes and house-to-house fighting have become heaviest in the southern city of Khan Yunis.\nThe health ministry in Hamas-run Gaza reported at least 50 deaths and dozens more wounded in strikes across the territory on Thursday morning, after an AFP correspondent reported heavy artillery strikes overnight particularly on Khan Yunis.\nMore than 80 per cent's of Gaza's 2.4 million people have been driven from their homes, the UN says, and many now live in cramped shelters or makeshift tents in the far south, in and around the city of Rafah near Egypt.\nUN World Health Organisation chief Tedros Adhanom Ghebreyesus called for “urgent steps to alleviate the grave peril” facing Gaza’s people, including “terrible injuries, acute hunger and... severe risk of disease”.\nFrench President Emmanuel Macron in a call with Israeli Prime Minister Benjamin Netanyahu voiced his “deepest concern at the very heavy civilian toll” and stressed “the need to work towards a lasting ceasefire”, Macron’s office said.\nIsrael’s relentless aerial bombardment and ground invasion with troops and tanks have killed at least 21,110 people, mostly women and children, according to Gaza’s health ministry.\nAn Israeli siege imposed in the wake of the October 7 attack, following years of crippling blockade, has deprived Gazans of food, water, fuel and medicine.\nThe severe shortages have only been sporadically eased by humanitarian aid convoys entering primarly via Egypt.\n“We are tired of everything,” said Ekhlas Shnenou who fled her Gaza City home. “Enough with the war, enough with the pain, enough with the hunger.”\nOne of the many people displaced, 28-year-old Iman Al Masry, recently gave birth to quadruplets in a hospital in southern Gaza after fleeing her family’s home in the devastated north.\nThe arduous journey “affected my pregnancy”, she said, recounting that she gave birth by C-section on December 18 to two girls and two boys, one of whom was too fragile to leave hospital.\n“They are very slim,” she said of the three other infants, speaking in a cramped schoolroom turned shelter in Deir Al Balah. “It’s cold and windy and there’s no bathtub... I just use wipes.”\nThe Palestinian Red Crescent society reported fresh shelling Thursday near Al Amal hospital in Khan Yunis, killing at least 10 people.\nIt decried in a statement the “intensification” of Israeli strikes in the area of the facility, already hit earlier this week, where about 14,000 Palestinians are sheltering.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "War, Conflict and Unrest",
+    "Disaster and Accident",
+    "Human Interest"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "tedros adhanom ghebreyesus",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "un",
+        "sentiment": "negative"
+      },
+      {
+        "name": "jordan times gaza",
+        "sentiment": "negative"
+      },
+      {
+        "name": "hamas",
+        "sentiment": "none"
+      },
+      {
+        "name": "un world health organisation",
+        "sentiment": "none"
+      },
+      {
+        "name": "afp",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "gaza",
+        "sentiment": "none"
+      },
+      {
+        "name": "israel",
+        "sentiment": "none"
+      },
+      {
+        "name": "egypt",
+        "sentiment": "none"
+      },
+      {
+        "name": "khan yunis",
+        "sentiment": "none"
+      },
+      {
+        "name": "rafah",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:13:17.299+02:00",
+  "updated": "2023-12-29T00:13:17.299+02:00"
+}

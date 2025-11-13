@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "0a79b025a7c923fd543e3fd61390dc54522d76b8",
+    "url": "https://penza.aif.ru/society/education/7-chelovek-byli-udaleny-s-ege-za-narushenie-poryadka-v-penzenskoy-oblasti",
+    "site_full": "penza.aif.ru",
+    "site": "aif.ru",
+    "site_section": "https://penza.aif.ru",
+    "site_categories": ["media", "top_news_ru", "top_news"],
+    "section_title": "АиФ-Пенза: новости, все события региона на | penza.aif.ru",
+    "site_title": "АиФ-Пенза: новости, все события региона на | penza.aif.ru",
+    "title": "7 человек были удалены с ЕГЭ за нарушение порядка в Пензенской области | АиФ Пенза",
+    "title_full": "7 человек были удалены с ЕГЭ за нарушение порядка в Пензенской области | АиФ Пенза",
+    "published": "2025-06-26T12:16:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://aif-s3.aif.ru/images/042/154/5f9f8d466b693f5bf1d637a70c4de9b4.webp",
+    "performance_score": 0,
+    "domain_rank": 3825,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0a79b025a7c923fd543e3fd61390dc54522d76b8",
+  "url": "https://penza.aif.ru/society/education/7-chelovek-byli-udaleny-s-ege-za-narushenie-poryadka-v-penzenskoy-oblasti",
+  "ord_in_thread": 0,
+  "author": "@aifonline",
+  "published": "2025-06-26T12:16:00.000+03:00",
+  "title": "7 человек были удалены с ЕГЭ за нарушение порядка в Пензенской области | АиФ Пенза",
+  "text": "В этом году 7 человек были удалены с ЕГЭ за нарушение порядка в Пензенской области.\nПо данным Минобразования региона, четверых удалили за наличие шпаргалок, а троих - за наличие телефона.\nЕщё двух удалили с ОГЭ: на экзамене по геогряафии - за шпаргалку, на математике - за телефон.\n«Выпускники, которые не смогли сдать ЕГЭ в основной период, имеют возможность пересдачи только по русскому языку и базовой математике в дополнительный период, который пройдёт с 4 по 23 сентября. Это позволит им получить аттестат в текущем году. Если это предмет по выбору, то пересдача возможна в следующем году», - добавили в министерстве.\nРанее сообщалось, что два выпускника в Пензенской области написали ЕГЭ по биологии на 100 баллов.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->educational testing and examinations",
+    "Education->state school",
+    "Education->students",
+    "Social Issue->social problem",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ru", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T15:33:59.409+03:00",
+  "updated": "2025-06-27T13:12:37.000+00:00"
+}

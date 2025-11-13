@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "98dbff9a121d34b467fa4962c0f1f442b649d4f0",
+    "url": "https://unchainedcrypto.com/binance-reports-30-growth-in-users-in-2023-despite-resignation-guilty-plea-by-ceo/",
+    "site_full": "unchainedcrypto.com",
+    "site": "unchainedcrypto.com",
+    "site_section": "https://biztoc.com/feed",
+    "site_categories": [],
+    "section_title": "BizToc",
+    "title": "Binance Reports 30% Growth in Users in 2023 Despite Resignation, Guilty Plea by CEO",
+    "title_full": "Binance Reports 30% Growth in Users in 2023 Despite Resignation, Guilty Plea by CEO",
+    "published": "2023-12-29T00:40:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://unchainedcrypto.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-28-at-4.35.54-PM.png",
+    "performance_score": 0,
+    "domain_rank": 82089,
+    "domain_rank_updated": "2023-12-26T12:06:35.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "98dbff9a121d34b467fa4962c0f1f442b649d4f0",
+  "url": "https://unchainedcrypto.com/binance-reports-30-growth-in-users-in-2023-despite-resignation-guilty-plea-by-ceo/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jeanhee Kim",
+  "published": "2023-12-29T00:40:00.000+02:00",
+  "title": "Binance Reports 30% Growth in Users in 2023 Despite Resignation, Guilty Plea by CEO",
+  "text": "Binance, the world’s largest cryptocurrency exchange by trading volume, released a strong\nend-of-year report showing growth in customers despite massive fines being levied against the company in the U.S. and the November resignation of its CEO and co-founder Changpeng Zhao, who pled guilty in the U.S. to a violation of the Bank Secrecy Act and is awaiting trial in February.\nBinance said it saw an influx in 2023 of 40 million users, growing its customer base by 30% to 170 million registered users. Its peer-to-peer platform, where users directly trade crypto with other Binance users, processed 18% more trades than last year, and served 39% more users.\nBinance’s proof-of-reserves system holding crypto in reserve for customers increased the number of supported assets from nine in 2022 to 31 in 2023.\nThe crypto exchange reported spending $213 million in 2023 on compliance technology, processes, and talent, up 35% from last year.\nGovernance Changes\nPutting a positive spin on its legal troubles and chief executive’s woes, Binance wrote, “This year, our organization took responsibility for historical issues and has evolved through leadership change, emerging from it an even stronger business.” The company described changes to its governance, including that “[a] board of at least three independent directors, accountable to all stakeholders, will be the steward and governing body of the organization.”\nFinally, it noted that “U.S. agencies did not allege that Binance misappropriated any user funds, or engaged in any market manipulation.”\nEarlier in December, the U.S. District Court for the Northern District of Illinois ordered Binance and Zhao to pay a combined\n$2.7 billion in fines to the U.S. Commodities and Futures Trading Commission for violating the Commodity Exchange Act (CEA) and CFTC regulations.\nThat follows a November settlement in which Binance agreed to a\n$4.3 billion fine to resolve a U.S. Department of Justice criminal investigation, and Zhao agreed to step down as CEO. However, the legal battle between Binance and the U.S. Securities and Exchange Commission (SEC) still remains unresolved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "external_links": [
+    "https://public.bnbstatic.com/reports/2023_EOY_Report.pdf",
+    "https://www.public.bnbstatic.com/reports/2023_EOY_Report.pdf"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "binance",
+        "sentiment": "negative"
+      },
+      {
+        "name": "changpeng zhao",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:49:56.536+02:00",
+  "updated": "2023-12-29T00:49:56.536+02:00"
+}

@@ -1,0 +1,127 @@
+{
+  "thread": {
+    "uuid": "a525b2017b2bae878b61a91ffcb18a607397da44",
+    "url": "https://www.clickorlando.com/news/local/2024/04/25/bin-laden-mansion-in-central-florida-undergoes-demolition",
+    "site_full": "www.clickorlando.com",
+    "site": "clickorlando.com",
+    "site_section": "https://www.clickorlando.com/station",
+    "site_categories": ["media"],
+    "section_title": "Contact WKMG News 6 | ClickOrlando",
+    "title": "Bin Laden mansion in Central Florida undergoes demolition",
+    "title_full": "Bin Laden mansion in Central Florida undergoes demolition",
+    "published": "2024-04-26T00:18:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/KYP5ZV7ELVCYTCG4MBXBKNKSQU.png?_a=ATAPphC0",
+    "performance_score": 0,
+    "domain_rank": 5348,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a525b2017b2bae878b61a91ffcb18a607397da44",
+  "url": "https://www.clickorlando.com/news/local/2024/04/25/bin-laden-mansion-in-central-florida-undergoes-demolition",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Anthony Talcott",
+  "published": "2024-04-26T00:18:00.000+03:00",
+  "title": "Bin Laden mansion in Central Florida undergoes demolition",
+  "text": "ORANGE COUNTY, Fla. – A house once owned by Khalil bin Laden — brother of the infamous Osama bin Laden — is now being demolished. The property sits by a lake in Oakland near Clermont, and the home was reportedly first built in the 1920s and owned by a chemist for Jell-O. “From there, it went through the hands of the owner of the Tupperware company and after that ended up then in the 1980s in the hands of (Khalil bin Laden),” said Leland Kent, who told News 6 about his adventure into the home. “He owned it up until 9/11, when they were flown out.” Kent said he originally visited the home in 2016, though upon a return trip last year, much of the building had already been taken apart. “Some of the features are starting to disappear over the years. I just want to capture it before everything is completely gone,” he said at the time. But on Wednesday, News 6 found that the mansion was already in the process of being demolished. According to county records, developers are planning to build a 242-unit apartment complex at the site. The complex is planned to feature two main apartment buildings — both three stories tall — with access to Orange Avenue and State Road 50. While demolition is already underway, buildout on the project is estimated to begin in 2025. You can listen to every episode of Florida’s Fourth Estate in the media player below:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Human Interest", "Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://playlist.megaphone.fm?p=JXT3207686096",
+    "https://podcasts.apple.com/us/podcast/your-florida-daily/id1632084191",
+    "https://www.podcasts.apple.com/us/podcast/your-florida-daily/id1632084191",
+    "https://playlist.megaphone.fm",
+    "https://www.playlist.megaphone.fm?p=JXT3207686096"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "bin laden",
+        "sentiment": "negative"
+      },
+      {
+        "name": "osama bin lad",
+        "sentiment": "negative"
+      },
+      {
+        "name": "khalil bin laden",
+        "sentiment": "negative"
+      },
+      {
+        "name": "kent",
+        "sentiment": "none"
+      },
+      {
+        "name": "leland kent",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "news",
+        "sentiment": "none"
+      },
+      {
+        "name": "tupperware",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "fla.",
+        "sentiment": "none"
+      },
+      {
+        "name": "florida",
+        "sentiment": "none"
+      },
+      {
+        "name": "orange county",
+        "sentiment": "none"
+      },
+      {
+        "name": "oakland",
+        "sentiment": "none"
+      },
+      {
+        "name": "clermont",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:28:55.510+03:00",
+  "updated": "2024-04-26T19:08:52.765+03:00"
+}

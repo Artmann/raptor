@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "afc48ce6ef33e573a62bf5980f8e7aeb990969e1",
+    "url": "https://www.winchesterstar.com/winchester_star/virginia-health-officials-report-1st-pediatric-flu-death-of-the-2023-24-season/article_835c82e3-3cd7-58fa-bfe0-3360d2e12d03.html",
+    "site_full": "www.winchesterstar.com",
+    "site": "winchesterstar.com",
+    "site_section": "https://www.winchesterstar.com",
+    "site_categories": ["media"],
+    "section_title": "winchesterstar.com",
+    "title": "Virginia health officials report 1st pediatric flu death of the 2023-24 season | Winchester Star | winchesterstar.com",
+    "title_full": "Virginia health officials report 1st pediatric flu death of the 2023-24 season | Winchester Star | winchesterstar.com",
+    "published": "2023-12-28T07:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/winchesterstar.com/content/tncms/custom/image/b90e1064-655d-11e6-b66e-837339c5a247.jpg?resize=600%2C315",
+    "performance_score": 0,
+    "domain_rank": 49781,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "afc48ce6ef33e573a62bf5980f8e7aeb990969e1",
+  "url": "https://www.winchesterstar.com/winchester_star/virginia-health-officials-report-1st-pediatric-flu-death-of-the-2023-24-season/article_835c82e3-3cd7-58fa-bfe0-3360d2e12d03.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Star staff report",
+  "published": "2023-12-28T07:00:00.000+02:00",
+  "title": "Virginia health officials report 1st pediatric flu death of the 2023-24 season | Winchester Star | winchesterstar.com",
+  "text": "RICHMOND — The Virginia Department of Health (VDH) on Thursday announced the state’s first reported influenza-associated pediatric death for the 2023-24 flu season. \"Sadly, a child (5-12 years old) in Virginia’s Eastern region died from complications associated with influenza (flu),\" according to a VDH media release. \"To protect the family’s privacy, VDH will not provide any further information regarding this death.\" “We at the Virginia Department of Health, are broken-hearted and extend our sympathies to the family of this child during this difficult time,” said State Health Commissioner Dr. Karen Shelton. “Even though the flu is common, it can cause serious illness and even death. I urge everyone who is eligible to receive the flu vaccine to do so not only to protect themselves, but to protect those around them.” VDH recommends taking three actions to prevent the flu: • Everyone six months and older should receive a yearly flu vaccine, consulting your healthcare provider as needed. • Practice good preventive health with hand hygiene (washing your hands regularly with soap and water or using an alcohol-based hand sanitizer), respiratory etiquette (coughing and sneezing into a tissue or the inside of your elbow rather than your open hand), and staying home when you feel sick; and • If you do become sick with the flu, seek healthcare early in your illness if necessary. Antivirals prescribed by a healthcare provider are a treatment option for some patients and can help prevent serious flu complications. Influenza activity is elevated and is expected to increase in Virginia as the weather becomes colder, according to the media release. For the week ending Dec. 23, emergency department and urgent care visits due to flu-like illness are very high (6.9% of total visits), especially among young children and school-aged children (14.7% and 13.2% of visits, respectively). \"The 2023-24 flu season in Virginia is anticipated to be in the typical range of severity,\" the release states. \"However, even typical seasons vary widely and result in illness, hospitalizations, and death. Virginia reported five influenza-associated deaths among children during the 2022-23 flu season.\" Virginia vaccination coverage for flu remains low for children and adults, the release adds. The percent of eligible Virginians reporting receipt of a flu vaccine this season is only 27%. \"With flu activity increasing in Virginia, now is still a good time to get a flu vaccine if you have not already,\" the release states. To locate a seasonal flu vaccine near you, you can visit [www.vaccinate.virginia.gov](http://www.vaccinate.virginia.gov) or contact your local health department. For further information, call 804-864-8141.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Human Interest", "Health", "Disaster and Accident"],
+  "external_links": [
+    "http://www.vaccinate.virginia.gov)",
+    "http://vaccinate.virginia.gov)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "karen shelton",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "winchester star",
+        "sentiment": "negative"
+      },
+      {
+        "name": "virginia department of health",
+        "sentiment": "negative"
+      },
+      {
+        "name": "vdh",
+        "sentiment": "none"
+      },
+      {
+        "name": "state health",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "virginia",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:03:41.778+02:00",
+  "updated": "2023-12-29T00:03:41.778+02:00"
+}

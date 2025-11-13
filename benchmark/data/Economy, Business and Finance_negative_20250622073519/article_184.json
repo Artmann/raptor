@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "3a89dc5ff8f4312b32df1e00b7060a8929d967cc",
+    "url": "https://www.wradio.com.co/2025/06/18/laboratorios-pierden-interes-en-hacer-estudios-en-colombia-se-estanco-la-investigacion-clinica",
+    "site_full": "www.wradio.com.co",
+    "site": "wradio.com.co",
+    "site_section": "https://www.wradio.com.co/actualidad",
+    "site_categories": ["media", "top_news_co", "top_news"],
+    "section_title": "Actualidad | W Radio",
+    "site_title": "Todas las noticias en La W | W Radio",
+    "title": "Laboratorios pierden interés en hacer estudios en Colombia: se estancó la investigación clínica",
+    "title_full": "Laboratorios pierden interés en hacer estudios en Colombia: se estancó la investigación clínica",
+    "published": "2025-06-19T02:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CO",
+    "main_image": "https://www.wradio.com.co/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fprisaradioco%2FZZ5GMW6UHBB3FGGL6KAVI3BYJI.jpg?auth=3a8b145ba8e872cca6f77c3d2e2203cf962bb9e0b44a66730b01b6cf041c48d5&amp;height=800&amp;width=1200&amp;quality=70&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 27667,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3a89dc5ff8f4312b32df1e00b7060a8929d967cc",
+  "url": "https://www.wradio.com.co/2025/06/18/laboratorios-pierden-interes-en-hacer-estudios-en-colombia-se-estanco-la-investigacion-clinica",
+  "ord_in_thread": 0,
+  "author": "Camila Sarmiento",
+  "published": "2025-06-19T02:00:00.000+03:00",
+  "title": "Laboratorios pierden interés en hacer estudios en Colombia: se estancó la investigación clínica",
+  "text": "Laboratorios pierden interés en hacer estudios en Colombia: se estancó la investigación clínica\nEn el marco del Foro de la Salud de la ANDI, el Instituto Nacional de Cancerología advirtió una pérdida de interés de los laboratorios en realizar estudios clínicos en Colombia.\nColombia atraviesa una década sin crecimiento en investigación clínica. En 2014 se registraron 85 protocolos para estudios en seres humanos; en 2024, apenas 87. El promedio de registros en los últimos diez años ronda los 90 por año, lo que evidencia un estancamiento prolongado impulsado por la falta confianza de laboratorios internacionales en el país.\nEn 2024, solo se reportaron 29 nuevos estudios clínicos, una de las cifras más bajas de los últimos años. Actualmente hay 361 ensayos activos, pero el número de nuevos registros cae mientras países como Brasil, México y Chile avanzan sostenidamente.\nEl impacto es económico y sanitario. Se estima que en 2023 al menos 7.703 pacientes colombianos pudieron haber sido incluidos en estudios clínicos, lo que habría representado un ahorro de aproximadamente 244 millones de dólares para el sistema de salud, según Sergio Prada, representante de la Fundación Valle de LiLi. Al no concretarse esa participación, el país dejó de ahorrar más de un billón de pesos.\nExpertos del sector advierten que Colombia ha dejado de ser un destino atractivo para la industria farmacéutica internacional por tres razones principales: una regulación del que no se actualiza hace más de 15 años, largos tiempos de evaluación por parte del Invima —que en promedio se demora 5,1 mes para aprobar o rechazar un protocolo— y falta de articulación entre los actores del ecosistema de investigación.\n“La investigación clínica en Colombia no ha tenido un crecimiento real en más de una década. Los procesos son lentos, los marcos regulatorios están desactualizados y eso hace que los laboratorios busquen otros países”, señaló Ignacio Gaitán, presidente de AFIDRO.\nAdemás, el funcionamiento desigual de los comités de ética representa otro obstáculo. Las tarifas, tiempos y requisitos varían entre instituciones, y muchos comités enfrentan limitaciones técnicas y presupuestales que afectan su operación.\nEntre las propuestas para recuperar la confianza y atraer más estudios clínicos están: centralizar procesos, actualizar la regulación con estándares internacionales, mejorar la comunicación institucional, y posicionar la investigación como un sector estratégico en salud y desarrollo.\nSin estos ajustes, Colombia seguirá perdiendo oportunidades de inversión, generación de empleo calificado y acceso temprano a tratamientos innovadores.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Health", "Social Issue"],
+  "topics": [
+    "Economy, Business and Finance->healthcare industry",
+    "Health->health organisation",
+    "Health->health treatment and procedure",
+    "Social Issue->demographics",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Instituto Nacional de Cancerología",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_co", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:37:13.682+03:00",
+  "updated": "2025-06-19T04:42:55.000+00:00"
+}

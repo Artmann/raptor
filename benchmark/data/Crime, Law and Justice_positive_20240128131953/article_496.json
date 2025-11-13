@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "64e55bb5752f4f59f52332a9f481a9f4f546d5fd",
+    "url": "https://appleinsider.com/articles/23/12/29/airtag-saves-christmas-tracks-down-luggage-stolen-from-charlotte-airport",
+    "site_full": "appleinsider.com",
+    "site": "appleinsider.com",
+    "site_section": "http://appleinsider.com/rss/news",
+    "site_categories": ["mac_support", "tech"],
+    "section_title": "AppleInsider News",
+    "title": "AirTag saves Christmas, tracks down luggage stolen from Charlotte airport | AppleInsider",
+    "title_full": "AirTag saves Christmas, tracks down luggage stolen from Charlotte airport | AppleInsider",
+    "published": "2023-12-29T16:43:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://photos5.appleinsider.com/gallery/57878-117891-airtag-02-xl.jpg",
+    "performance_score": 0,
+    "domain_rank": 1713,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 18,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "64e55bb5752f4f59f52332a9f481a9f4f546d5fd",
+  "url": "https://appleinsider.com/articles/23/12/29/airtag-saves-christmas-tracks-down-luggage-stolen-from-charlotte-airport",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Andrew Orr",
+  "published": "2023-12-29T16:43:00.000+02:00",
+  "title": "AirTag saves Christmas, tracks down luggage stolen from Charlotte airport | AppleInsider",
+  "text": "A family successfully tracked their stolen luggage from Charlotte Douglas International Airport using an Apple AirTag -- though police warn against tracking down suspects without help. AirTags can be used to track stolen luggage The Gavino family, planning a festive holiday in the Carolinas, faced an unexpected setback when they discovered a missing suitcase at the airport's baggage claim. Unknown to the thieves, the suitcase was equipped with an AirTag, a tracking device by Apple, discreetly placed by Catherine Gavino. She had recently purchased the device after watching a YouTube tutorial showcasing its utility in locating lost or stolen items. \"And I watched a YouTube video Friday morning and threw it in the luggage,\" she said. \"It was to help find luggage if it was lost, but I never thought it'd get stolen.\" To recover their belongings, the Gavinos embarked on a tracking mission. They traced the suitcase's signal along Interstate 85 towards Gastonia, NC, using Catherine's iPhone and the Find My app. \"Throughout the entire trip, it kept showing up around Gastonia and South Carolina,\" Catherine said. Despite their initial efforts leading to a dead end, the family persisted. On Christmas Day, a final check of the AirTag's location led them to a residence in Gastonia. \"I told my dad who was with me, 'Look, it's only 20 minutes, let's swing by,'\" she said. Unfortunately, when the Gavino family recovered their suitcase, they found it nearly empty. Catherine speculated that the thieves might have sold the clothes for cash, according to Queen City News. \"Police believe they may have sold the clothes for money, who knows,\" she explained. \"These are my parents, coming to the mountains for a North Carolina view, so for this to happen made me sad, which was all the more reason to go after them...I wouldn't have found them without this AirTag.\" The suspect involved was arrested and faced various charges related to theft and a drug-related offense, with their bond set at $10,000. The event with the Gavino family highlights a concerning rise in luggage thefts at airports like Charlotte Douglas International Airport. AirTags are a valuable asset in such situations, offering real-time tracking capabilities. However, experts caution about the device's limitations, primarily its reliance on proximity to Apple devices for signal transmission. The tracking signal can be lost if stolen items are taken to areas without nearby iPhone users. Law enforcement also urge caution for people tracking down their AirTag-laden belongings. It can be dangerous to track down the suspect because they may turn violent. Victims should report the theft to their local police station immediately.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Human Interest",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "gavino",
+        "sentiment": "none"
+      },
+      {
+        "name": "catherine",
+        "sentiment": "none"
+      },
+      {
+        "name": "catherine gavino",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "apple",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "charlotte",
+        "sentiment": "none"
+      },
+      {
+        "name": "charlotte douglas international airport",
+        "sentiment": "none"
+      },
+      {
+        "name": "south carolin",
+        "sentiment": "none"
+      },
+      {
+        "name": "gastonia",
+        "sentiment": "none"
+      },
+      {
+        "name": "nc",
+        "sentiment": "none"
+      },
+      {
+        "name": "carolinas",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T16:44:44.658+02:00",
+  "updated": "2023-12-29T16:44:44.658+02:00"
+}

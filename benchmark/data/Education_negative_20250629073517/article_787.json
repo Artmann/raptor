@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "b01521aa6d56fe0ee79c19046816752aaeb2abd7",
+    "url": "https://enews.shafaqna.com/EN/AL/5275778",
+    "site_full": "enews.shafaqna.com",
+    "site": "shafaqna.com",
+    "site_section": "http://enews.shafaqna.com/rss.xml",
+    "site_categories": ["media", "top_news_iq", "top_news"],
+    "section_title": "INTERNATIONAL NEWS AGENCIES HEADLINES | ",
+    "site_title": "INTERNATIONAL NEWS AGENCIES HEADLINES",
+    "title": "Early diagnosis of sepsis faces 'ongoing challenges'",
+    "title_full": "Early diagnosis of sepsis faces 'ongoing challenges'",
+    "published": "2025-06-25T19:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 29623,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b01521aa6d56fe0ee79c19046816752aaeb2abd7",
+  "url": "https://enews.shafaqna.com/EN/AL/5275778",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-25T19:00:00.000+03:00",
+  "title": "Early diagnosis of sepsis faces 'ongoing challenges'",
+  "text": "Independent - 17 minutes ago Early diagnosis of sepsis faces ‘ongoing challenges’\nRead on the original site",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Social Issue", "Education"],
+  "topics": [
+    "Health->medical condition",
+    "Health->health care approach",
+    "Social Issue->social services",
+    "Social Issue->social condition",
+    "Education->teachers",
+    "Education->students",
+    "Education->educational testing and examinations"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://independent.co.uk/bulletin/news/sepsis-signs-missed-nhs-hospital-b2777443.html",
+    "https://www.independent.co.uk/bulletin/news/sepsis-signs-missed-nhs-hospital-b2777443.html"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_iq", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:43:51.024+03:00",
+  "updated": "2025-06-26T12:01:48.000+00:00"
+}

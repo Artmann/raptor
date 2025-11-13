@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "89515fcd94e9e6c1ac238de2f4e3481e21acb527",
+    "url": "https://globalnews.ca/news/11169329/saskatchewan-riverboat-docked-indefinitely-due-to-low-water-levels-sand-buildup",
+    "site_full": "globalnews.ca",
+    "site": "globalnews.ca",
+    "site_section": "https://globalnews.ca/kitchener",
+    "site_categories": [
+      "media",
+      "health",
+      "cold_and_flu",
+      "top_news_ca",
+      "top_news"
+    ],
+    "section_title": "Kitchener News | Weather &amp; Traffic - Latest Sports | Breaking News",
+    "site_title": "Global News | Breaking, Latest News and Video for Canada",
+    "title": "Saskatchewan riverboat docked indefinitely due to low water levels, sand buildup | Globalnews.ca",
+    "title_full": "Saskatchewan riverboat docked indefinitely due to low water levels, sand buildup | Globalnews.ca",
+    "published": "2025-05-08T02:10:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://globalnews.ca/wp-content/uploads/2025/05/Prairie-Lily-Still00000000.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+    "performance_score": 0,
+    "domain_rank": 928,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "89515fcd94e9e6c1ac238de2f4e3481e21acb527",
+  "url": "https://globalnews.ca/news/11169329/saskatchewan-riverboat-docked-indefinitely-due-to-low-water-levels-sand-buildup",
+  "ord_in_thread": 0,
+  "author": "Gates Guarin Global News",
+  "published": "2025-05-08T02:10:00.000+03:00",
+  "title": "Saskatchewan riverboat docked indefinitely due to low water levels, sand buildup | Globalnews.ca",
+  "text": "The Prairie Lily is part of what makes Saskatoon shine, but it appears to be hitting choppy waters in what could be its final season on the South Saskatchewan River.\nSenior Captain Mike Steckhan said silt and sand buildups have not been washed out naturally for four seasons now, and while he has been able to set sail at low water levels for the last three, he said it’s now impossible to navigate safely this year.\n“We did our survey with our small survey boat and there isn’t enough water at the top of our course to actually turn the ship around,” said Steckhan.\n“Since we haven’t had a flush, now year four, the channel is essentially closed.”\nGet daily National news Get the day's top news, political, economic, and current affairs headlines, delivered to your inbox once a day. Sign up for daily National newsletter Sign Up By providing your email address, you have read and agree to Global News' Terms and Conditions and Privacy Policy . The riverboat has been in conversations with the province’s Water Security Agency (WSA) since July of last summer. Steckhan is calling for water to be released from Lake Diefenbaker to flush out sand from the valley.\nStory continues below advertisement Shawn Jaques, President and CEO of the WSA, said it’s not as simple as opening up the floodgates.\n“Because of the level of the lake, we just don’t have that surplus of water to release, to flush out the system if you will,” Jaques said. “We just don’t have the luxury to have that excess water to be able to do that at this moment.”\nJaques said the last number of years have been drier than normal, with a below average snow pack from the Rocky Mountains. He added the lake is a complex system servicing different users and communities, including roughly 60 per cent of the province’s drinking water.\nThe WSA says it will continue to monitor inflows into Lake Diefenbaker, working with Alberta due to the Rockies acting as the lake’s water source.\nThe agency could not provide a firm timetable as to when or even if water would be released.\nSteckhan said his first voyage of the season was scheduled for Mother’s Day, but instead he says Prairie Lily staff will be contacting ticket holders for refunds, with the rest of the riverboat’s season now hanging in the balance.\n“Because there’s literally not enough water in this valley right now to float this ship, we simply have to cancel our cruises.”\nAdvertisement",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Environment",
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Environment->water",
+    "Environment->environmental pollution",
+    "Social Issue->social problem",
+    "Social Issue->social condition",
+    "Social Issue->communities",
+    "Economy, Business and Finance->transport",
+    "Economy, Business and Finance->business reporting and performance",
+    "Economy, Business and Finance->economy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://d21y75miwcfqoq.cloudfront.net/70c8fc80",
+    "https://www.corusent.com/terms-of-use/",
+    "https://www.corusent.com/privacy-policy/",
+    "https://www.d21y75miwcfqoq.cloudfront.net/70c8fc80",
+    "https://www.corusent.com/privacy-policy",
+    "https://www.corusent.com/terms-of-use",
+    "https://corusent.com/privacy-policy/",
+    "https://corusent.com/terms-of-use/"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mike Steckhan",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "South",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:18:32.083+03:00",
+  "updated": "2025-05-08T11:18:42.831+03:00"
+}

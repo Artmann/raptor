@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "d87b56d07941ea7a5199b465162aace4b1bb9793",
+    "url": "https://www.abajournal.com/syndicated/article/chamber-of-commerce-sues-to-block-ftcs-non-compete-ban",
+    "site_full": "www.abajournal.com",
+    "site": "abajournal.com",
+    "site_section": "https://abajournal.com",
+    "site_categories": ["law_government_and_politics", "legal_issues"],
+    "section_title": "\n                ABA Journal\n        ",
+    "title": "Chamber of Commerce sues to block FTC's noncompete ban",
+    "title_full": "Chamber of Commerce sues to block FTC's noncompete ban",
+    "published": "2024-04-25T21:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.abajournal.com/images/main_images/AP21228787827434.jpg",
+    "performance_score": 0,
+    "domain_rank": 6499,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d87b56d07941ea7a5199b465162aace4b1bb9793",
+  "url": "https://www.abajournal.com/syndicated/article/chamber-of-commerce-sues-to-block-ftcs-non-compete-ban",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Leah Nylen, Bloomberg",
+  "published": "2024-04-25T21:30:00.000+03:00",
+  "title": "Chamber of Commerce sues to block FTC's noncompete ban",
+  "text": "Chamber of Commerce sues to block FTC's noncompete ban Business groups led by the U.S. Chamber of Commerce sued the Federal Trade Commission Wednesday seeking to block [a rule finalized this week that would outlaw noncompete provisions](https://www.abajournal.com/syndicated/article/ftc-bans-contracts-that-keep-workers-from-jumping-to-rival-employers) that prohibit workers from switching jobs within an industry. In a complaint filed in Texas federal court, the nation’s largest business lobby argued that the antitrust and consumer protection agency lacks the authority to issue rules that define unfair methods of competition. The FTC Act, which established the agency, allows it to bring cases challenging particular practices, the group said, but not to write rules. The Chamber was joined by Business Roundtable and several Texas business groups in challenging the rule. “The Commission’s categorical ban on virtually all noncompetes amounts to a vast overhaul of the national economy,” the Chamber said in the complaint. The rule “reflects an unlawful and unprecedented exercise of bureaucratic power.” The FTC voted 3-2 along party lines to issue a final rule banning noncompetes in nearly all cases. The agency’s two Republicans dissented, adopting arguments similar to the business group that the FTC lacks clear congressional authority to write rules. Democrats argued that the law explicitly allows the FTC prohibit unfair methods of competition while another provision authorizes the agency “to make rules and regulations for the purpose of carrying out the provisions of” the law. Taken together, those provisions permit the FTC to issue rules defining unfair conduct, they say, citing a 1973 case that upheld the agency’s rulemaking authority.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Economy, Business and Finance"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "ftc",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "chamber of commerce",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "u.s. chamber of co",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "business roundtable",
+        "sentiment": "none"
+      },
+      {
+        "name": "federal trade commission",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "texas",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:12:31.844+03:00",
+  "updated": "2024-04-26T00:12:31.844+03:00"
+}

@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "dcbac7649fc2c1b96eda0a89399da772cd1784d8",
+    "url": "https://www.ettoday.net/news/20250508/2956678.htm",
+    "site_full": "www.ettoday.net",
+    "site": "ettoday.net",
+    "site_section": "https://ettoday.net/news/20231214/2640520.htm",
+    "site_categories": ["media", "top_news_hk", "top_news_tw", "top_news"],
+    "section_title": "瘋電影／魔髮精靈：樂團在一起　某天你突然有一團兄弟 | ETtoday名家新聞 | ETtoday新聞雲",
+    "site_title": "ETtoday新聞雲 | Today is my day",
+    "title": "這不是塑膠袋！「全球第3毒水母」現蹤新月沙灣　竹北市公所急提醒",
+    "title_full": "這不是塑膠袋！「全球第3毒水母」現蹤新月沙灣　竹北市公所急提醒",
+    "published": "2025-05-08T04:47:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://cdn2.ettoday.net/images/7270/e7270769.jpg",
+    "performance_score": 0,
+    "domain_rank": 8647,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "dcbac7649fc2c1b96eda0a89399da772cd1784d8",
+  "url": "https://www.ettoday.net/news/20250508/2956678.htm",
+  "ord_in_thread": 0,
+  "author": "ETtoday新聞雲",
+  "published": "2025-05-08T04:47:00.000+03:00",
+  "title": "這不是塑膠袋！「全球第3毒水母」現蹤新月沙灣　竹北市公所急提醒",
+  "text": "▲新竹新月沙灣出現僧帽水母蹤跡。（示意圖／達志影像／美聯社）\n記者莊智勝／新竹報導\n時間進入5月，氣溫逐漸升高，不少民眾前往海邊戲水，但新竹竹北新月沙灣傳出有劇毒「僧帽水母」蹤跡，竹北市公所連忙提醒民眾，如果在沙灘上看到外觀像透明小塑膠袋的物體，千萬別伸手觸碰，「極有可能就是僧帽水母」！\n據了解，僧帽水母又稱「葡萄牙戰艦」，是全球第三毒的水母，過去在國內外都有出現過，在台灣4到7月是繁殖期，被螫到的劇痛不輸給蜜蜂，毒素可能滲入淋巴結，一旦造成過敏反應，嚴重還可能致命。\n竹北市公所提醒，新月沙灣擁有遼闊沙灘，是戲水、欣賞落日夕陽的好去處，但近日有民眾在沙灘發現僧帽水母蹤跡，「僧帽水母擁有劇毒，如果誤觸會造成劇痛，傷口會有紅色鞭痕，毒素也有可能引發過敏反應干擾心肺功能。如果各位市民在沙灘上看到粉紅，綠、藍或紫色，外觀像透明小塑膠袋的物體，就有可能是僧帽水母，千萬不要觸碰！」",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Environment", "Health", "Social Issue"],
+  "topics": [
+    "Environment->endangered species",
+    "Environment->environmental pollution",
+    "Environment->nature",
+    "Health->public health",
+    "Health->communicable disease",
+    "Health->health organisation",
+    "Social Issue->communities",
+    "Social Issue->social problem",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:53:03.928+03:00",
+  "updated": "2025-05-08T02:59:08.000+00:00"
+}

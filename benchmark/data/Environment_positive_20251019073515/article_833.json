@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "ad409ea968ba7bb653d4f4a6a9db410850f9acc2",
+    "url": "https://www.newsbreak.com/news/4292295308273-new-satellite-tag-office-locations-open-in-sedgwick-county-improvements-noted",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://local.newsbreak.com/argonia-ks",
+    "site_categories": ["under_construction"],
+    "section_title": "Argonia, KS Local News and More | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "New satellite tag office locations open in Sedgwick County, improvements noted - NewsBreak",
+    "title_full": "New satellite tag office locations open in Sedgwick County, improvements noted - NewsBreak",
+    "published": "2025-10-15T03:25:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/14apTq_15f0T27u00",
+    "performance_score": 0,
+    "domain_rank": 2819,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ad409ea968ba7bb653d4f4a6a9db410850f9acc2",
+  "url": "https://www.newsbreak.com/news/4292295308273-new-satellite-tag-office-locations-open-in-sedgwick-county-improvements-noted",
+  "ord_in_thread": 0,
+  "author": "Keenan Penn II",
+  "published": "2025-10-15T03:25:00.000+03:00",
+  "title": "New satellite tag office locations open in Sedgwick County, improvements noted - NewsBreak",
+  "text": "By Keenan Penn II KWCH Staff ,\n1 days ago WICHITA, Kan. (KWCH) - After months of long lines and even longer wait times, the Sedgwick County tag offices have merged into a single location near Douglas and Meridian. It’s a change that initially brought criticism from some Sedgwick County residents, but one on which county leaders expect to be beneficial in the long run. Read full article\nRead in NewsBreak 1",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment", "Politics"],
+  "topics": ["Environment->sustainability"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": ["Argonia"],
+      "state": ["Kansas"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:21:34.966+03:00",
+  "updated": "2025-10-16T17:26:19.625+03:00"
+}

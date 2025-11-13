@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "0b273d85d9fb24e9daeb69819d8f78336a2e37d3",
+    "url": "https://www.postcourier.com.pg/aitape-teachers-demanded-clarification-of-pay-cuts",
+    "site_full": "www.postcourier.com.pg",
+    "site": "postcourier.com.pg",
+    "site_section": "https://news.google.com/search?q=their%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [],
+    "section_title": "Google News - Search",
+    "site_title": "Homepage - Post Courier",
+    "title": "Aitape teachers demanded clarification of pay cuts",
+    "title_full": "Aitape teachers demanded clarification of pay cuts",
+    "published": "2025-06-26T09:10:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://www.postcourier.com.pg/wp-content/uploads/2025/06/Aitape-Primary-Schoolagriculture.jpg",
+    "performance_score": 0,
+    "domain_rank": 57018,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0b273d85d9fb24e9daeb69819d8f78336a2e37d3",
+  "url": "https://www.postcourier.com.pg/aitape-teachers-demanded-clarification-of-pay-cuts",
+  "ord_in_thread": 0,
+  "author": "Benbert Wasa - Online Contributor",
+  "published": "2025-06-26T09:10:00.000+03:00",
+  "title": "Aitape teachers demanded clarification of pay cuts",
+  "text": "Teachers in Aitape in West Sepik Province have faced cuts to their pay yesterday, Wednesday, the 25th of June 2025.\nAitape Primary School teachers revealed today that only a few of them received their full pay yesterday, while others have pay cuts for as low as K5.\nThe teachers are now calling on Provincial Education Authorities and the Teachers Service Commission (TSC) demanding clarification of the cuts to their pays.\nThe teachers also confirmed that attempts to reach Provincial Education Authorities for clarifications yesterday were not successful.\nThe teachers then raised their pay cut issue with the Aitape-Lumi District Education Manager, Mr Anthony Sisinda, yesterday, who assured them that he will consult the Provincial Education Authorities on the matter.\nMeanwhile, several teachers of remote schools of the District are now finding it difficult to return to their schools after the term holiday following the pay cuts.\nSome have notified the District Education Manager of their issues, saying they will have to stay back in town until their pay issues are resolved so they can fund their trips back to their schools.\nThe teachers are currently waiting for a favorable response from the Provincial Education Authorities and TSC to their request of clarification of their pay cuts.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education", "Politics", "Social Issue"],
+  "topics": [
+    "Education->primary education",
+    "Education->teachers",
+    "Education->educational grading",
+    "Politics->education policy",
+    "Politics->civil and public service",
+    "Politics->government",
+    "Social Issue->poverty",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Anthony Sisinda",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Provincial Education Authorities",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Teachers Service Commission",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Aitape Primary School",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T09:17:54.718+03:00",
+  "updated": "2025-06-26T06:26:20.000+00:00"
+}

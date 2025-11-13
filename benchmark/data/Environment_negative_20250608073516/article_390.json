@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "3293f6b4e30616ed752769a604529a9ad6cefa35",
+    "url": "https://www.rnz.co.nz/news/world/560324/food-health-impacts-as-climate-change-at-crisis-point-in-andes",
+    "site_full": "www.rnz.co.nz",
+    "site": "rnz.co.nz",
+    "site_section": "http://www.radionz.co.nz/rss/world.xml",
+    "site_categories": [
+      "media",
+      "travel",
+      "australia_and_new_zealand",
+      "music",
+      "entertainment"
+    ],
+    "section_title": "RNZ World Headlines",
+    "site_title": "RNZ - NZ News, Current Affairs, Audio On Demand",
+    "title": "Food, health impacts as climate change at crisis point in Andes",
+    "title_full": "Food, health impacts as climate change at crisis point in Andes",
+    "published": "2025-05-08T02:06:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NZ",
+    "main_image": "https://media.rnztools.nz/rnz/image/upload/s--2AdcPGeH--/t_tohu-badge-facebook/v1746658200/4OVZK63_71956179_l_jpg?_a=BACCd2AD",
+    "performance_score": 0,
+    "domain_rank": 3627,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3293f6b4e30616ed752769a604529a9ad6cefa35",
+  "url": "https://www.rnz.co.nz/news/world/560324/food-health-impacts-as-climate-change-at-crisis-point-in-andes",
+  "ord_in_thread": 0,
+  "author": "Niva Chittock",
+  "published": "2025-05-08T02:06:00.000+03:00",
+  "title": "Food, health impacts as climate change at crisis point in Andes",
+  "text": "An international team of scientists - including one based in New Zealand - has found climate change is already a crisis unfolding in South America's Andes mountains.\nTheir research showed global warming was noticeably impacting the world's longest mountain range - with the eastern side getting less rain than before.\nThe Andes cross seven South American nations: Argentina, Chile, Bolivia, Peru, Ecuador, Colombia and Venezuela.\nOne of the six scientists working on the ongoing study was hydrologist Dr Ana Ochoa-Sánchez from Ecuador's University of Azuay.\nShe said the research found human-induced climate change was warming all of the Andes.\n\"One of the most significant impacts is that climate change is likely causing less precipitation on the eastern side of the mountain range,\" Ochoa-Sánchez said.\nDr Dáithí Stone, from New Zealand's National Institute of Water and Atmospheric Research (NIWA), was another scientist working on the study.\nHe said mountain regions were predicted to be the most vulnerable to climate change.\nClimate trends in the Andes were causing the rapid shrinking of glaciers and less snow and less water flowing down to other ecosystems, Stone said.\n\"This in turn, in multiple countries, affects food production, industry, health, culture and societies.\"\nThe study was continuing and would help improve understanding of the current and future impacts of climate change and the effectiveness of adaptation, Stone said.\nIt advocated for localised adaptation strategies, informed by scientific research and indigenous knowledge, Ochoa-Sánchez said.\n\"The findings highlight that climate change is not a distant threat but a current crisis already unfolding across one of the world's most celebrated mountain landscapes,\" she said.\n\"The research also stresses the need for global climate policies to reduce emissions and increase adaptation.\"\nSign up for Ngā Pitopito Kōrero, a daily newsletter curated by our editors and delivered straight to your inbox every weekday.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Health", "Social Issue"],
+  "topics": [
+    "Environment->sustainability",
+    "Environment->environmental pollution",
+    "Environment->climate change",
+    "Health->health care approach",
+    "Social Issue->social services",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://radionz.us6.list-manage.com/subscribe?u=211a938dcf3e634ba2427dde9&id=b3d362e693",
+    "https://www.radionz.us6.list-manage.com/subscribe?u=211a938dcf3e634ba2427dde9&id=b3d362e693",
+    "https://radionz.us6.list-manage.com/subscribe"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Dáithí Stone",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "South",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "National Institute of Water and Atmospheric Research",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "University of Azuay",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:42:00.184+03:00",
+  "updated": "2025-05-08T00:46:22.000+00:00"
+}

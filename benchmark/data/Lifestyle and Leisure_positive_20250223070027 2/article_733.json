@@ -1,0 +1,149 @@
+{
+  "thread": {
+    "uuid": "ef72b917eafc041fbe66ca907f8756375d1c02fe",
+    "url": "https://www.broadway.com/buzz/205150/broadways-ill-fated-bandit-musical-dead-outlaw-is-now-on-sale",
+    "site_full": "www.broadway.com",
+    "site": "broadway.com",
+    "site_section": "https://www.broadway.com/feeds/buzz/latest/",
+    "site_categories": ["entertainment"],
+    "section_title": "Broadway.com - Latest Buzz",
+    "title": "Broadway's Ill-Fated Bandit Musical Dead Outlaw Is Now on Sale",
+    "title_full": "Broadway's Ill-Fated Bandit Musical Dead Outlaw Is Now on Sale",
+    "published": "2025-01-24T00:20:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://imaging.broadway.com/images/social/w630/127545-14.jpg",
+    "performance_score": 0,
+    "domain_rank": 6696,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ef72b917eafc041fbe66ca907f8756375d1c02fe",
+  "url": "https://www.broadway.com/buzz/205150/broadways-ill-fated-bandit-musical-dead-outlaw-is-now-on-sale",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Broadway.com Staff",
+  "published": "2025-01-24T00:20:00.000+02:00",
+  "title": "Broadway's Ill-Fated Bandit Musical Dead Outlaw Is Now on Sale",
+  "text": "Dead Outlaw, the twisted, toe-tapping musical about an ill-fated bandit, is now on sale. The show, which features music and lyrics by Tony winner David Yazbek and Erik Della Penna, a book by Tony winner Itamar Moses and direction by Tony winner David Cromer, begins performances at Broadway's Longacre Theatre on April 12 with the official opening set for April 27.\nDead Outlaw is about the bizarre true story of outlaw-turned-corpse-turned-celebrity Elmer McCurdy. As Elmer’s body finds even more outlandish adventures in death than it could have ever hoped for in life, the show explores fame, failure and the meaning—or, utter meaninglessness—of legacy. Dying is no reason to stop living life to its fullest.\nThe show had an extended run at Audible’s Minetta Lane Theatre last year. The cast of the off-Broadway run is set to reprise their roles on Broadway: Andrew Durand as Elmer McCurdy, Jeb Brown as Band Leader/Jarrett, Eddie Cooper as Coroner Johnson, Dashiell Eaves as Louis/Charles Patterson, Julia Knitel as Helen/Maggie, Ken Marks as George, Trent Saunders as Andy Payne and Thom Sesma as Coroner Noguchi, with Emily Fink and Max Sangerman as understudies.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Arts, Culture and Entertainment",
+    "Lifestyle and Leisure",
+    "Human Interest"
+  ],
+  "topics": [
+    "Arts, Culture and Entertainment->arts and entertainment",
+    "Arts, Culture and Entertainment->theatre",
+    "Arts, Culture and Entertainment->culture",
+    "Lifestyle and Leisure->trend",
+    "Lifestyle and Leisure->lifestyle",
+    "Lifestyle and Leisure->leisure",
+    "Human Interest->ceremony"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Charles Patterson",
+        "sentiment": "none"
+      },
+      {
+        "name": "Erik Della Penna",
+        "sentiment": "none"
+      },
+      {
+        "name": "Trent Saunders",
+        "sentiment": "none"
+      },
+      {
+        "name": "Elmer McCurdy",
+        "sentiment": "none"
+      },
+      {
+        "name": "Andrew Durand",
+        "sentiment": "none"
+      },
+      {
+        "name": "Eddie Cooper",
+        "sentiment": "none"
+      },
+      {
+        "name": "David Cromer",
+        "sentiment": "none"
+      },
+      {
+        "name": "David Yazbek",
+        "sentiment": "none"
+      },
+      {
+        "name": "Julia Knitel",
+        "sentiment": "none"
+      },
+      {
+        "name": "Andy Payne",
+        "sentiment": "none"
+      },
+      {
+        "name": "Thom Sesma",
+        "sentiment": "none"
+      },
+      {
+        "name": "Jeb Brown",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ken Marks",
+        "sentiment": "none"
+      },
+      {
+        "name": "Johnson",
+        "sentiment": "none"
+      },
+      {
+        "name": "George",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "Broadway",
+        "sentiment": "none"
+      },
+      {
+        "name": "Longacre Theatre",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:33:13.347+02:00",
+  "updated": "2025-01-24T00:33:13.347+02:00"
+}

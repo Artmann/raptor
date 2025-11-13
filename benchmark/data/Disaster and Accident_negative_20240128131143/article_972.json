@@ -1,0 +1,123 @@
+{
+  "thread": {
+    "uuid": "558bd4c7485125494c8f470e648401df3369a739",
+    "url": "https://www.cbsnews.com/sacramento/news/2-killed-in-last-weeks-head-on-crash-west-of-modesto-identified/",
+    "site_full": "www.cbsnews.com",
+    "site": "cbsnews.com",
+    "site_section": "https://cbsnews.com/sacramento/local-news/sacramento",
+    "site_categories": ["media", "television", "entertainment"],
+    "section_title": "Latest Sacramento News - CBS Sacramento",
+    "title": "2 killed in last week's head-on crash west of Modesto identified - CBS Sacramento",
+    "title_full": "2 killed in last week's head-on crash west of Modesto identified - CBS Sacramento",
+    "published": "2023-12-28T22:27:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/12/28/f3d119e1-e9f3-4012-a96f-a0ec2c762fd6/thumbnail/1200x630/5bbc52feedd3f24a62483e6f201e5c1e/gettyimages-1446079326.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
+    "performance_score": 0,
+    "domain_rank": 187,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "558bd4c7485125494c8f470e648401df3369a739",
+  "url": "https://www.cbsnews.com/sacramento/news/2-killed-in-last-weeks-head-on-crash-west-of-modesto-identified/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Brandon Downs",
+  "published": "2023-12-28T22:27:00.000+02:00",
+  "title": "2 killed in last week's head-on crash west of Modesto identified - CBS Sacramento",
+  "text": "STANISLAUS COUNTY - The two people who died in a head-on crash last week on Highway 132 in Stanislaus County have been identified.\nThe coroner identified the driver of a 2007 Infiniti as 26-year-old Emmanuel Villa-Angel of San Jose and the passenger as 25-year-old Juan Torres Vazquez of Sunnyvale.\nThe four-vehicle crash happened at about 5:45 p.m. on Dec. 20 on Highway 132 west of North Gates Road.\nThe Infiniti was fully engulfed in flames when authorities arrived, the California Highway Patrol said. Villa-Angel and Vasquez died at the scene.\nOfficers said the driver of the Infiniti, later identified as Villa-Angel, was traveling east on Highway 132 when the Infiniti crossed over the double yellow lines and side-swiped one vehicle.\nThe Infiniti then rotated counterclockwise and crashed into a Chevrolet SUV. Another vehicle crashed into the rear of the SUV.\nTwo other people were taken to the hospital with major injuries, the CHP said. Their latest condition is unknown at this time.\nOfficers said it was unknown if Villa-Angel and Vasquez were wearing seat belts. The CHP said it was unknown if DUI was a factor in the collision.\nHighway 132 was closed for about three hours.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Human Interest",
+    "Disaster and Accident",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [
+    "https://twitter.com/downsbrandon2",
+    "https://www.twitter.com/downsbrandon2"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "vasquez",
+        "sentiment": "none"
+      },
+      {
+        "name": "juan torres vazquez",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cbs",
+        "sentiment": "negative"
+      },
+      {
+        "name": "california highway patrol",
+        "sentiment": "none"
+      },
+      {
+        "name": "chp",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "modesto",
+        "sentiment": "none"
+      },
+      {
+        "name": "sacramento",
+        "sentiment": "none"
+      },
+      {
+        "name": "stanislau",
+        "sentiment": "none"
+      },
+      {
+        "name": "sunnyvale",
+        "sentiment": "none"
+      },
+      {
+        "name": "north gates road",
+        "sentiment": "none"
+      },
+      {
+        "name": "emmanuel villa-angel of san jose",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:38:13.967+02:00",
+  "updated": "2023-12-29T07:24:09.710+02:00"
+}

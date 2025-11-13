@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "b838025f7d881438fdff58b148197605e9524241",
+    "url": "https://www.vtv.gob.ve/venezuela-ratifica-compromiso-cambio-climatico-acuerdo-paris/",
+    "site_full": "www.vtv.gob.ve",
+    "site": "vtv.gob.ve",
+    "site_section": "https://www.vtv.gob.ve/jefe-estado-condecora-embajadores-belarus-libano-labor",
+    "site_categories": [
+      "media",
+      "law_government_and_politics",
+      "us_government_resources",
+      "top_news_ve",
+      "top_news"
+    ],
+    "section_title": "Jefe de Estado condecora a embajadores de Belarús y Líbano por su excelente labor",
+    "site_title": "Venezolana de Televisión - El canal de todos los venezolanos",
+    "title": "Venezuela ratifica compromiso con el cambio climático y el Acuerdo de París",
+    "title_full": "Venezuela ratifica compromiso con el cambio climático y el Acuerdo de París",
+    "published": "2025-10-16T16:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "VE",
+    "main_image": "https://www.vtv.gob.ve/wp-content/uploads/2025/10/a57cfb85-ee7c-4949-b7c4-ca889a0c0b121.jpg",
+    "performance_score": 0,
+    "domain_rank": 490486,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b838025f7d881438fdff58b148197605e9524241",
+  "url": "https://www.vtv.gob.ve/venezuela-ratifica-compromiso-cambio-climatico-acuerdo-paris/",
+  "ord_in_thread": 0,
+  "author": "VTV",
+  "published": "2025-10-16T16:32:00.000+03:00",
+  "title": "Venezuela ratifica compromiso con el cambio climático y el Acuerdo de París",
+  "text": "Venezuela ratifica compromiso con el cambio climático y el Acuerdo de París\nEl ministro del Poder Popular para el Ecosocialismo, Ricardo Molina, se reunió con el Secretario Ejecutivo de la Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC), Simona Stiell, para explicar la posición de Venezuela ante la venidera reunión COP30 y ratificó que, a pesar de la «amenaza bélica imperial», el país está dispuesto a cumplir el Acuerdo de París.\nLa información fue publicada en el canal de Telegram del ministro Molina, donde destacó que durante el encuentro, entregó un ejemplar de la segunda Contribución Determinada Nacional (CDN) 2025-2030, documento donde Venezuela se compromete a ejecutar proyectos de mitigación y adaptación ante el cambio climático. Estos proyectos se enmarcan en el Plan de la Patria de las 7 Grandes Transformaciones y en los Objetivos de Desarrollo Sostenible de Naciones Unidas.\nLas autoridades también conversaron sobre el cumplimiento de los compromisos adquiridos por los países desarrollados en cuanto a su aporte y financiamiento para la implementación de proyectos de mitigación y adaptación en el sur global.\nMolina manifestó la firme disposición de Venezuela a fortalecer el multilateralismo en la lucha contra la crisis climática, con énfasis en la justicia ambiental y asumiendo responsabilidades compartidas pero diferenciadas. Además, entregó el documento oficial que recoge el manifiesto y las conclusiones del Congreso Mundial en Defensa de la Madre Tierra, celebrado del 8 al 10 de octubre en Caracas, donde el país actuó como vocero de organizaciones populares de 63 naciones.\nFinalmente, el ministro hizo entrega de un ejemplar del libro «Más que Ambiente es Ecosocialismo», el cual expone la visión ética, moderna y participativa del ecosocialismo, fundada en el pensamiento del Libertador, Simón Bolívar; el Comandante, Hugo Chávez y el presidente de la República Bolivariana de Venezuela, Nicolás Maduro.\nVTV/LAV/CP",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Environment", "Politics"],
+  "topics": [
+    "Environment->climate change",
+    "Environment->sustainability",
+    "Politics->international relations",
+    "Politics->environmental policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ricardo Molina",
+        "sentiment": "none"
+      },
+      {
+        "name": "Simona Stiell",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "CMNUCC",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": ["top_news_ve", "top_news"],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:47:41.066+03:00",
+  "updated": "2025-10-16T16:58:39.000+03:00"
+}

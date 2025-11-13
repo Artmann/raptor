@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "9c1ed4d6aef32cc753b9e06ff91ebad800dce1d0",
+    "url": "https://la.urbanize.city/post/state-awards-64-million-ballona-creek-bike-path-extension",
+    "site_full": "la.urbanize.city",
+    "site": "urbanize.city",
+    "site_section": "https://news.google.com/search?q=for%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [],
+    "section_title": "Google News - Search",
+    "site_title": null,
+    "title": "State awards $6.4 million for Ballona Creek bike path extension",
+    "title_full": "State awards $6.4 million for Ballona Creek bike path extension",
+    "published": "2025-10-16T16:15:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "LA",
+    "main_image": "https://la.urbanize.city/sites/default/files/styles/social_1200x630/public/background/2025-10/Ballona%20Creek_I-10%20Freeway%20Path.jpg?itok=RiHRxlU2",
+    "performance_score": 0,
+    "domain_rank": 98906,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9c1ed4d6aef32cc753b9e06ff91ebad800dce1d0",
+  "url": "https://la.urbanize.city/post/state-awards-64-million-ballona-creek-bike-path-extension",
+  "ord_in_thread": 0,
+  "author": "Steven Sharp",
+  "published": "2025-10-16T16:15:00.000+03:00",
+  "title": "State awards $6.4 million for Ballona Creek bike path extension",
+  "text": "After four years of quiet, there is finally movement on the effort to extend the Ballona Creek bike path into Mid-City.\nOver the summer, the proposed bike path extension was awarded $6.4 million in funding from the California Transportation Commission. Plans call for adding two additional miles of trail along the Ballona Creek channel from its current terminus next to Syd Kronenthal Park in Culver City toward the intersection of Cochran Avenue and Venice Boulevard. The existing trail spans nearly seven miles, and terminates in Marina del Rey.\n“I learned to ride a bicycle on the Ballona Creek bike path when I was five years old, so the creek has a special place in my heart,” said Streets For All founder Michael Schneider, whose organization has pushed for the extension. “Advocacy is very hard, and I’m proud that we were able to raise money and start a process that led to a $7M project.”\nSWA is designing a conceptual vision for the path, which would require the construction of new stretches of underpass to cross the I-10 Freeway corridor. Otherwise, plans call for the path to be built at-grade in existing right-of-way next to the creek, or adjacent to parallel streets.\nCulver City and the Southern California Association of Governments have also dedicated funding to the project, which now has sufficient funding to move through environmental clearances and design work.\nPlans to extend the Ballona Creek bike path date to the 1970s, but have been left on hold for 50 years. Per a 2021 e-mail from Schneider, attempts by the City of Los Angeles to secure funding for the project fell through twice in the early 2000s.\nFollow us on social media:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->sustainability", "Environment->parks"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.culvercity.gov/City-Projects/PW-Ballona-Creek-Bike-Path-Extension-Project",
+    "https://www.swagroup.com/",
+    "https://www.swagroup.com",
+    "https://swagroup.com/",
+    "https://culvercity.gov/City-Projects/PW-Ballona-Creek-Bike-Path-Extension-Project"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Michael Schneider",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Ballona Creek",
+        "sentiment": "none"
+      },
+      {
+        "name": "Syd Kronenthal Park",
+        "sentiment": "none"
+      },
+      {
+        "name": "Boulevard",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "SWA",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:27:14.390+03:00",
+  "updated": "2025-10-16T16:41:54.000+03:00"
+}

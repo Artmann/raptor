@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "7382730d434f112b7ed0b415c4ad77b1cb88686d",
+    "url": "https://www.cleveland19.com/2024/04/25/kent-middle-school-student-arrested-following-threat",
+    "site_full": "www.cleveland19.com",
+    "site": "cleveland19.com",
+    "site_section": "https://www.cleveland19.com/powernation",
+    "site_categories": ["media"],
+    "section_title": "POWERNATION",
+    "title": "Kent middle school student arrested following threat",
+    "title_full": "Kent middle school student arrested following threat",
+    "published": "2024-04-26T00:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-woio-prod.cdn.arcpublishing.com/resizer/v2/OC5BRVACPJHNVEOT4GS65RWDFA.jpg?auth=035bb87716c2b47c0f26602f2c48334ef1f4f34fc84cd74af0ee45a77fff6634&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 14262,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7382730d434f112b7ed0b415c4ad77b1cb88686d",
+  "url": "https://www.cleveland19.com/2024/04/25/kent-middle-school-student-arrested-following-threat",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@Cleveland19",
+  "published": "2024-04-26T00:00:00.000+03:00",
+  "title": "Kent middle school student arrested following threat",
+  "text": "Kent middle school student arrested following threat KENT, Ohio (WOIO) - A 14-year-old Stanton Middle School student was arrested Thursday after a school threat was reported late Wednesday night. According to Kent police, around 10 p.m. Wednesday evening they received a report that an eighth grade student was rumored to have a list of students’ names that he referred to as a “kill list.” Police immediately talked with the suspect and his parents, with the suspect denying that the list existed, or that he had any intentions to harm anyone. The suspect told police that he was joking. Police said no weapons were found and the student was kept out of school Thursday as a precaution. Investigations later uncovered the suspected “kill list,” leading police to issue an arrest warrant and take the 14-year-old into custody around 3 p.m. The Stanton Middle School student is charged with making false alarms, and Kent police continue to investigate the incident. “Kent PD takes any threat to our schools very seriously, and the safety of our students, staff and community will always be our highest priority,” police said. Copyright 2024 WOIO. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "kent",
+        "sentiment": "negative"
+      },
+      {
+        "name": "stanton middl",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "kent",
+        "sentiment": "negative"
+      },
+      {
+        "name": "stanton middle school",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "ohio",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:02:38.663+03:00",
+  "updated": "2024-04-26T00:02:38.663+03:00"
+}

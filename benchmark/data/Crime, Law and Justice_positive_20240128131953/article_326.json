@@ -1,0 +1,69 @@
+{
+  "thread": {
+    "uuid": "f5e6978bf24def8164363b18a0e455b76313c02d",
+    "url": "https://answers.sap.com/questions/14025732/no-mapping-is-defined-for-the-types-import-and-tab.html",
+    "site_full": "answers.sap.com",
+    "site": "sap.com",
+    "site_section": "https://answers.sap.com/index.html?page=1&pagesize=100&sort=active",
+    "site_categories": ["tech"],
+    "section_title": "All Q&amp;A | SAP Community",
+    "title": "No mapping is defined for the types \"IMPORT\" and \"TABLE OF DEMO_STRUC\". | SAP Community",
+    "title_full": "No mapping is defined for the types \"IMPORT\" and \"TABLE OF DEMO_STRUC\". | SAP Community",
+    "published": "2023-12-29T07:25:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 730,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f5e6978bf24def8164363b18a0e455b76313c02d",
+  "url": "https://answers.sap.com/questions/14025732/no-mapping-is-defined-for-the-types-import-and-tab.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Anujit Marty",
+  "published": "2023-12-29T07:25:00.000+02:00",
+  "title": "No mapping is defined for the types \"IMPORT\" and \"TABLE OF DEMO_STRUC\". | SAP Community",
+  "text": "Hi all,\nThe following code doesn't compile\nDATA: create_ent TYPE TABLE FOR CREATE demo_managed_root_map,\nty3_tab TYPE SORTED TABLE OF demo_struc with UNIQUE DEFAULT KEY.\nty3_tab = VALUE #( ( b_key_field = 2 b_field1 = 'ccc'\nb_field2 = 'ddd' b_field3 = 3 b_field4 = 4 ) ).\ncreate_ent = CORRESPONDING #( ty3_tab MAPPING TO ENTITY ).\nThe is the definition of the behavior definition:\nmanaged implementation in class bp_demo_managed_root_map unique;\nstrict(2);\ndefine behavior for DEMO_MANAGED_ROOT_MAP\npersistent table demo_tab_root_3\nlock master\nauthorization master ( global )\n{\ncreate;\nupdate;\ndelete;\nassociation _child { create; }\nmapping for demo_struc corresponding\n{\nkey_field = b_key_field;\nfield1 = b_field1;\nfield2 = b_field2;\nfield3 = b_field3;\nfield4 = b_field4;\n}\nmapping for demo_struc2 control demo_struc2_ctrl corresponding\n{\nkey_field = a_key_field control a_ctrl_key_field;\nfield1 = a_field1 control a_ctrl_field1;\nfield2 = a_field2 control a_ctrl_field2;\nfield3 = a_field3 control a_ctrl_field3;\nfield4 = a_field4 control a_ctrl_field4;\n}\nmapping for demo_struc3 control demo_struc3_ctrl corresponding\n{\nkey_field = z_key_field control z_ctrl_key_field;\nfield1 = z_field1 control z_ctrl_field1;\nfield2 = z_field2 control z_ctrl_field2;\nfield3 = z_field3 control z_ctrl_field3;\nfield4 = z_field4 control z_ctrl_field4;\n}\n}\ndefine behavior for DEMO_MANAGED_CHILD_MAP alias child\npersistent table demo_tab_child_3\nlock dependent by _parent\nauthorization dependent by _parent\n{\nupdate;\ndelete;\nfield ( readonly ) key_field;\nassociation _parent;\n}\nThe compiler complains:\nNo mapping is defined for the types \"IMPORT\" and \"TABLE OF DEMO_STRUC\".\nWhy the CORRESPONDING TO ENTITY doesn't work? Nevertheless, the mapping is defined in the behavior defintion.\nBest regards,\nAnu",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Crime, Law and Justice", "Social Issue"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T10:46:58.777+02:00",
+  "updated": "2023-12-29T10:46:58.777+02:00"
+}

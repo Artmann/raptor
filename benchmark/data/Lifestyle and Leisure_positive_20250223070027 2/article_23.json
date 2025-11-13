@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "f9650e459bb1cfb39aa0fcdac90eef7688d32dfc",
+    "url": "https://www.newsbreak.com/news/3774589798062-knishes-and-lox-a-jewish-deli-is-coming-to-tucson",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/tucson-az",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "Tucson, AZ Local News and More | NewsBreak",
+    "title": "Knishes and lox: a Jewish deli is coming to Tucson - NewsBreak",
+    "title_full": "Knishes and lox: a Jewish deli is coming to Tucson - NewsBreak",
+    "published": "2025-01-23T21:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/3qWLuj_0yNMSElm00",
+    "performance_score": 0,
+    "domain_rank": 3577,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f9650e459bb1cfb39aa0fcdac90eef7688d32dfc",
+  "url": "https://www.newsbreak.com/news/3774589798062-knishes-and-lox-a-jewish-deli-is-coming-to-tucson",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jamie Donnelly",
+  "published": "2025-01-23T21:00:00.000+02:00",
+  "title": "Knishes and lox: a Jewish deli is coming to Tucson - NewsBreak",
+  "text": "By Jamie Donnelly ,\n4 hours ago As Jeremy Kneller-Hernandez and a few colleagues walked through the empty space on Speedway and Tucson Boulevard, they posed an important question: how we do make this as attractive as possible?. The answer for Kneller-Hernandez was obvious: they simply don’t. He didn’t want extravagant lights or crazy colorful murals... Read full article\nRead in NewsBreak 11",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Lifestyle and Leisure", "Human Interest"],
+  "topics": [
+    "Lifestyle and Leisure->holiday",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jeremy Kneller-Hernandez",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Jamie Donnelly",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "Boulevard",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:00:53.181+02:00",
+  "updated": "2025-01-24T01:39:28.443+02:00"
+}

@@ -1,0 +1,141 @@
+{
+  "thread": {
+    "uuid": "b891185ffb75451ff181043da6a3a38b5343cf99",
+    "url": "https://www.upi.com/Top_News/US/2025/05/07/epa-energy-star/5971746659173",
+    "site_full": "www.upi.com",
+    "site": "upi.com",
+    "site_section": "http://rss.upi.com/news/news.rss",
+    "site_categories": ["media", "sports"],
+    "section_title": "Latest News - UPI.com",
+    "site_title": "Top News, Latest headlines, Latest News, World News &amp;amp; U.S News - UPI.com",
+    "title": "Reports suggest light could be dimming for EPA's energy efficiency program Energy Star - UPI.com",
+    "title_full": "Reports suggest light could be dimming for EPA's energy efficiency program Energy Star - UPI.com",
+    "published": "2025-05-08T02:53:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdnph.upi.com/sv/ph/og/upi/5971746659173/2025/1/6efb9c0489e6691d5dbbb72d42ed1f07/v1.5/Reports-suggest-light-could-be-dimming-for-EPAs-energy-efficiency-program-Energy-Star.jpg",
+    "performance_score": 0,
+    "domain_rank": 1202,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b891185ffb75451ff181043da6a3a38b5343cf99",
+  "url": "https://www.upi.com/Top_News/US/2025/05/07/epa-energy-star/5971746659173",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T02:53:00.000+03:00",
+  "title": "Reports suggest light could be dimming for EPA's energy efficiency program Energy Star - UPI.com",
+  "text": "May 7 (UPI) -- The Environmental Protection Agency has proposed ending its decades-old Energy Star program that helps consumers save money by purchasing energy-efficient appliances, several reports say.\nThe proposed end to the EPA's Energy Star program would be part of the agency's efforts to cut costs and improve efficiency, CNN , CBS News and Utility Dive reported.\nEnergy Star was created in 1992 during President George H.W. Bush 's administration.\nEPA Administrator Lee Zeldin on Friday announced the agency's next phase of \"organizational improvements to better integrate science into agency offices\" and \"deliver clean air, land and water to all Americans.\"\n\"With these organizational improvements, we recommit to fulfilling all of our statutory obligations and exceptionally delivering on EPA's core mission of protecting human health and the environment,\" Zeldin said.\n\"This reorganization will bring much-needed efficiencies to incorporate science into our rulemakings and sharply focus our work on providing the cleanest air, land and water for our communities,\" he added.\nZeldin estimated the changes will save U.S. taxpayers about $300 million annually.\nHe didn't cite the agency's Energy Star program in the announcement, but eliminating it would be part of the agency's downsizing and belt-tightening.\nThe Energy Star program is a public-private partnership that informs consumers regarding the energy efficiency of new appliances, so they can buy quality equipment and save money on energy costs.\n\"If you wanted to raise families' energy bills, getting rid of the Energy Star label would be a pretty good way,\" said Steven Nadel, executive director of the American Council for an Energy-Efficient Economy, in a press release issued on Monday.\nNadel said the Energy Star program helped consumers save about $450 annually when they bought Energy Star-approved appliances.\nRepresentatives of about 1,100 organizations and companies recently implored the EPA to continue funding the Energy Star program.\nPresident Donald Trump during his first administration considered ending or privatizing the Energy Star program to remove it from the EPA.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->energy saving",
+    "Environment->environmental pollution",
+    "Environment->sustainability"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.epa.gov/newsreleases/epa-announces-next-phase-organizational-improvements-better-integrate-science-agency",
+    "https://www.utilitydive.com/news/trump-administration-epa-energy-star-program/747351/",
+    "https://www.cnn.com/2025/05/06/climate/energy-star-trump",
+    "https://www.aceee.org/press-release/2025/05/ending-energy-star-would-strip-consumers-information-cost-saving-products-0",
+    "https://www.cbsnews.com/news/trump-energy-star-program-epa-eliminate/",
+    "https://utilitydive.com/news/trump-administration-epa-energy-star-program/747351/",
+    "https://cnn.com/2025/05/06/climate/energy-star-trump",
+    "https://epa.gov/newsreleases/epa-announces-next-phase-organizational-improvements-better-integrate-science-agency",
+    "https://www.cbsnews.com/news/trump-energy-star-program-epa-eliminate",
+    "https://www.utilitydive.com/news/trump-administration-epa-energy-star-program/747351",
+    "https://cbsnews.com/news/trump-energy-star-program-epa-eliminate/",
+    "https://aceee.org/press-release/2025/05/ending-energy-star-would-strip-consumers-information-cost-saving-products-0"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "George H.W. Bush",
+        "sentiment": "none"
+      },
+      {
+        "name": "Lee Zeldin",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "EPA",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Environmental Protection Agency",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Energy Star",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "CBS News",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "CNN",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "WBD",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "b891185ffb75451ff181043da6a3a38b5343cf99",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:40:43.811+03:00",
+  "updated": "2025-05-08T00:44:06.000+00:00"
+}

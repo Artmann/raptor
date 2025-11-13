@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "88ab4203059474a021cb04e0724dcb70d3304f6d",
+    "url": "https://hickoryrecord.com/news/local/airline-airport-performance-flight-delays-cancellations-nc/article_6d2cd1b4-c406-5611-8e96-963309479f49.html",
+    "site_full": "hickoryrecord.com",
+    "site": "hickoryrecord.com",
+    "site_section": "https://hickoryrecord.com",
+    "site_categories": ["media"],
+    "section_title": "Hickory Daily Record | Breaking News | | Read Hickory, NC and North Carolina breaking news. Get latest news, events and information on North Carolina sports, weather, entertainment and lifestyles.",
+    "title": "Southwest Airlines faces disruptions during holiday travel",
+    "title_full": "Southwest Airlines faces disruptions during holiday travel",
+    "published": "2023-12-28T07:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/hickoryrecord.com/content/tncms/assets/v3/editorial/6/d2/6d2cd1b4-c406-5611-8e96-963309479f49/658dee203d902.preview.jpg?crop=1920%2C1008%2C0%2C35&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 42453,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "88ab4203059474a021cb04e0724dcb70d3304f6d",
+  "url": "https://hickoryrecord.com/news/local/airline-airport-performance-flight-delays-cancellations-nc/article_6d2cd1b4-c406-5611-8e96-963309479f49.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Lee Digital Content Center, Dataherald",
+  "published": "2023-12-28T07:00:00.000+02:00",
+  "title": "Southwest Airlines faces disruptions during holiday travel",
+  "text": "Conditions were mostly nice this year for travelers flying ahead of and on Christmas, but some naughty disruptions again plagued those flying with Southwest Airlines. For millions of people traveling over the holiday, this year was much better than last. Christmas morning put a bow on a relatively smooth weekend. Only 157 flights within, into or out of the U.S. had been canceled and 2,111 were delayed as of late afternoon on Monday, according to the tracking website FlightAware. For this holiday season, U.S. airlines prepared for massive waves of travelers by hiring thousands of pilots, flight attendants and other workers — in an effort to avoid the delays and cancellations that marred travel in 2022, culminating with the Southwest Airlines debacle that stranded more than 2 million people. People are also reading… Still, Southwest experienced hiccups again over the weekend that the airline was looking to clear by Monday. Check out how airline performance has been recently at North Carolina airports.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Lifestyle and Leisure",
+    "Disaster and Accident",
+    "Social Issue"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "southwest airlines",
+        "sentiment": "negative"
+      },
+      {
+        "name": "southwest",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "north carolina",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:09:39.009+02:00",
+  "updated": "2023-12-29T01:09:39.009+02:00"
+}

@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "b25d2b02d7cb74619de64b5056fb99f911d2ebf3",
+    "url": "https://article.wn.com/view/2025/06/19/Pentagon_terminates_HomeSafe_s_troubleplagued_contract_for_P",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/asia",
+    "site_categories": ["media"],
+    "section_title": "World News - Asia",
+    "site_title": "World News",
+    "title": "Pentagon terminates HomeSafe's trouble-plagued contract for PCS moves - Worldnews.com",
+    "title_full": "Pentagon terminates HomeSafe's trouble-plagued contract for PCS moves - Worldnews.com",
+    "published": "2025-06-19T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3835,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b25d2b02d7cb74619de64b5056fb99f911d2ebf3",
+  "url": "https://article.wn.com/view/2025/06/19/Pentagon_terminates_HomeSafe_s_troubleplagued_contract_for_P",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-19T03:00:00.000+03:00",
+  "title": "Pentagon terminates HomeSafe's trouble-plagued contract for PCS moves - Worldnews.com",
+  "text": "The Defense Department on Wednesday ended the troubled contract with a private firm tasked with overhauling the movement of household goods for service members and their families. The contract with HomeSafe Alliance was terminated for cause due to its “demonstrated inability to fulfill their obligations and deliver high",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Politics", "Social Issue"],
+  "topics": [
+    "Economy, Business and Finance->business restructuring",
+    "Economy, Business and Finance->business governance",
+    "Politics->defence",
+    "Politics->government",
+    "Politics->government department",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Pentagon",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Defense Department",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:42:42.336+03:00",
+  "updated": "2025-06-19T04:44:50.000+00:00"
+}

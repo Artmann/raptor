@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "59ac7acb1925481328deb1959f829e315efffcf6",
+    "url": "https://www.setn.com/News.aspx?NewsID=1652752",
+    "site_full": "www.setn.com",
+    "site": "setn.com",
+    "site_section": "https://www.setn.com/plist.aspx?pagegroupid=47",
+    "site_categories": ["media"],
+    "section_title": "\r\n\t專題總覽  | 三立新聞網 SETN.COM\r\n",
+    "site_title": "三立新聞網 SETN.com | 讓世界看見台灣的美好",
+    "title": "雨下到北部一片紅！今回穩1天 週末鋒面來「南部下雨機率高」",
+    "title_full": "雨下到北部一片紅！今回穩1天 週末鋒面來「南部下雨機率高」",
+    "published": "2025-05-08T03:59:29.164+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://attach.setn.com/newsimages/2020/11/13/2878995-PH.jpg",
+    "performance_score": 0,
+    "domain_rank": 28727,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "59ac7acb1925481328deb1959f829e315efffcf6",
+  "url": "https://www.setn.com/News.aspx?NewsID=1652752",
+  "ord_in_thread": 0,
+  "author": "三立新聞網",
+  "published": "2025-05-08T03:59:29.164+03:00",
+  "title": "雨下到北部一片紅！今回穩1天 週末鋒面來「南部下雨機率高」",
+  "text": "生活中心／張尚辰報導\n▲氣象粉專貼出昨日累積雨量圖，可見北部雨勢相當大。（圖／翻攝自台灣颱風論壇｜天氣特急臉書）\n出門記得帶雨傘！氣象粉專「台灣颱風論壇｜天氣特急」昨（7）日晚間發出累積雨量圖，表示今日將「短暫休息一下」，明日水氣會逐漸增加，且週六（10日）、週日（11日）影響的鋒面，南部地區下雨的機率也會相當高。\n「台灣颱風論壇｜天氣特急」在臉書 發文 貼出累積雨量圖，指出昨日北部雨勢很大，「南部平地還是掛0」，只有山區有一點雨。\n台灣颱風論壇表示，今日將短暫休息一下，週五水氣會逐漸增加，週六、週日影響的鋒面結構將會更完整，而且屬於緩慢移動的類型，除此之外，南部地區這次下雨的機率也會相當高。\n最後，台灣颱風論壇提醒，春季天氣系統變化快速、不確定性高，實際降雨情況仍需視當天雷雨帶發展情況而定，出門前務必再確認一次氣象預報。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment", "Human Interest"],
+  "topics": [
+    "Weather->weather phenomena",
+    "Weather->weather forecast",
+    "Environment->nature",
+    "Environment->water",
+    "Environment->climate change"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.facebook.com/share/p/18vqcdxHiE/",
+    "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftwtybbs%2Fposts%2Fpfbid0gs6jgr4uCZRciWbXrEKqFWveusg2DurykBPEn8CrPsWbXua8ZpXbSTw2UaWFP8hBl&show_text=true&width=500",
+    "https://facebook.com/share/p/18vqcdxHiE/",
+    "https://www.facebook.com/share/p/18vqcdxHiE",
+    "https://facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftwtybbs%2Fposts%2Fpfbid0gs6jgr4uCZRciWbXrEKqFWveusg2DurykBPEn8CrPsWbXua8ZpXbSTw2UaWFP8hBl&show_text=true&width=500",
+    "https://www.facebook.com/plugins/post.php"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:59:29.164+03:00",
+  "updated": "2025-05-08T01:07:31.000+00:00"
+}

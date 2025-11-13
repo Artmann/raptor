@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "7df8e996add00197d6981a3b6e348408cde2ee35",
+    "url": "https://www.deutschlandfunk.de/eltern-scheitern-endgueltig-mit-klage-gegen-vegetarisches-schulessen-100.html",
+    "site_full": "www.deutschlandfunk.de",
+    "site": "deutschlandfunk.de",
+    "site_section": "http://www.deutschlandfunk.de/die-nachrichten.353.de.rss",
+    "site_categories": ["media", "top_news_de", "top_news"],
+    "section_title": "Deutschlandfunk - Fortlaufende Nachrichten vom 26. Juni 2025",
+    "site_title": "Deutschlandfunk - Alles von Relevanz",
+    "title": "Eltern scheitern endgültig mit Klage gegen vegetarisches Schulessen",
+    "title_full": "Eltern scheitern endgültig mit Klage gegen vegetarisches Schulessen",
+    "published": "2025-06-26T12:43:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://bilder.deutschlandfunk.de/FI/LE/_3/fc/FILE_3fc7a88e80b9ef8da75008bc4004594c/schule-jpg-136-1920x1080.jpg",
+    "performance_score": 0,
+    "domain_rank": 3200,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7df8e996add00197d6981a3b6e348408cde2ee35",
+  "url": "https://www.deutschlandfunk.de/eltern-scheitern-endgueltig-mit-klage-gegen-vegetarisches-schulessen-100.html",
+  "ord_in_thread": 0,
+  "author": "deutschlandfunk.de",
+  "published": "2025-06-26T12:43:00.000+03:00",
+  "title": "Eltern scheitern endgültig mit Klage gegen vegetarisches Schulessen",
+  "text": "Das Gericht wies eine entsprechende Beschwerde von Eltern aus dem Raum Konstanz aus formellen Gründen als unzulässig ab. Der Beschluss ist unanfechtbar. Die Eltern hatten bereits im Mai mit einem Eilantrag beim Verwaltungsgericht Freiburg erreichen wollen, dass ihre Tochter täglich Fisch oder Fleisch in der Schulkantine bekommt. Sie argumentierten, ihre Tochter drohe angesichts des überwiegend vegetarischen Essens eine Mangelernährung. Die Freiburger Richter wiesen den Antrag ab und erklärten dazu, die Eltern könnten morgens und abends für die gewünschte Ernährung sorgen. Auch sei es möglich, vorbereitetes Essen in die Schule mitzubringen.\nDiese Nachricht wurde am 26.06.2025 im Programm Deutschlandfunk gesendet.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->school",
+    "Education->parents group",
+    "Social Issue->children",
+    "Social Issue->discrimination",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T12:58:22.588+03:00",
+  "updated": "2025-06-27T10:14:27.000+00:00"
+}

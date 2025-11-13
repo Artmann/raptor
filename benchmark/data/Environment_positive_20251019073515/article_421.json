@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "141bb7e734f97034be8a46632fd9c5d8f20a3923",
+    "url": "https://www.electrive.com/es/2025/10/16/dp-world-multiplica-por-diez-su-flota-electrica-en-el-puerto-de-jebel-ali/",
+    "site_full": "www.electrive.com",
+    "site": "electrive.com",
+    "site_section": "https://www.electrive.com/es",
+    "site_categories": ["vehicles"],
+    "section_title": "electrive - el medio de comunicación líder en la industria de la emobility",
+    "site_title": "electrive – the industry&#039;s leading emobility media",
+    "title": "DP World multiplica por diez su flota eléctrica en el puerto de Jebel Ali - electrive.com",
+    "title_full": "DP World multiplica por diez su flota eléctrica en el puerto de Jebel Ali - electrive.com",
+    "published": "2025-10-16T12:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.electrive.com/media/2025/10/dp-world-jebel-ali-port-e-itv-2025-cropped.jpeg",
+    "performance_score": 0,
+    "domain_rank": 44579,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "141bb7e734f97034be8a46632fd9c5d8f20a3923",
+  "url": "https://www.electrive.com/es/2025/10/16/dp-world-multiplica-por-diez-su-flota-electrica-en-el-puerto-de-jebel-ali/",
+  "ord_in_thread": 0,
+  "author": "Carla Westerheide",
+  "published": "2025-10-16T12:30:00.000+03:00",
+  "title": "DP World multiplica por diez su flota eléctrica en el puerto de Jebel Ali - electrive.com",
+  "text": "DP World multiplica por diez su flota eléctrica en el puerto de Jebel Ali\nLa flota modernizada incluye 35 vehículos diésel convertidos a eléctricos por los equipos de ingeniería internos de DP World, junto con más de 100 unidades recién adquiridas procedentes de los principales fabricantes internacionales, según informó la empresa. Para cargar los vehículos, la empresa ha instalado una red de estaciones de carga rápida en todo el puerto de Jebel Ali.\nAdemás del despliegue de eITV, la empresa ha introducido once manipuladores eléctricos de contenedores vacíos para apilar y transportar contenedores vacíos dentro del área de la terminal. Según DP World, estas incorporaciones pretenden acelerar la transición hacia operaciones de bajas emisiones y contribuir a los objetivos nacionales de energía limpia de los EAU.\nAdemás, DP World recibió las primeras carretillas eléctricas de Einride en marzo. La flota completa de 100 camiones eléctricos conectados se entregará en 2026.\n\"Electrificar nuestras operaciones portuarias es una prioridad estratégica que apoya las ambiciones Net Zero 2050 de los EAU\", dijo Abdulla Bin Damithan, CEO y Director General de DP World GCC. \"Mediante la ampliación de nuestra flota eléctrica y la transición a una energía más limpia en el puerto de Jebel Ali, estamos construyendo cadenas de suministro preparadas para el futuro y más resistentes que benefician a nuestros clientes y a las comunidades a las que servimos.\"\nSegún la empresa, dado que el transporte marítimo representa alrededor del 3% de las emisiones mundiales relacionadas con el transporte, la electrificación de las operaciones en los principales centros logísticos como el puerto de Jebel Ali representa un paso tangible hacia la descarbonización del comercio internacional. Se espera que la ampliación de la flota reduzca el consumo de gasóleo y recorte las emisiones de gases de efecto invernadero en más de un 10%, lo que equivale a retirar de la carretera 2.255 coches al año.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Environment"],
+  "topics": [
+    "Economy, Business and Finance->transport",
+    "Economy, Business and Finance->business and market analysis",
+    "Economy, Business and Finance->business restructuring",
+    "Environment->energy saving",
+    "Environment->sustainability"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "DP World",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:43:24.354+03:00",
+  "updated": "2025-10-16T15:02:23.000+03:00"
+}

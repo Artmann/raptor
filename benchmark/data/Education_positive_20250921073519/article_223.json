@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "e94b5eae279b9bfa357b2d7e46c5c8a6c5b80f6c",
+    "url": "https://www.glasgowcourier.com/story/2025/09/17/calendar/bear-paw-cooperative-assists-with-special-education-and-related-services/17382.html",
+    "site_full": "www.glasgowcourier.com",
+    "site": "glasgowcourier.com",
+    "site_section": "https://www.glasgowcourier.com/rss",
+    "site_categories": ["media"],
+    "section_title": "",
+    "site_title": "Just a moment...",
+    "title": "Bear Paw Cooperative Assists With Special Education And Related Services",
+    "title_full": "Bear Paw Cooperative Assists With Special Education And Related Services",
+    "published": "2025-09-18T01:58:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.glasgowcourier.com/home/cms_data/dfault/images/companylogo_facebook.png",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e94b5eae279b9bfa357b2d7e46c5c8a6c5b80f6c",
+  "url": "https://www.glasgowcourier.com/story/2025/09/17/calendar/bear-paw-cooperative-assists-with-special-education-and-related-services/17382.html",
+  "ord_in_thread": 0,
+  "author": "The Glasgow Courier",
+  "published": "2025-09-18T01:58:00.000+03:00",
+  "title": "Bear Paw Cooperative Assists With Special Education And Related Services",
+  "text": "Bear Paw Cooperative Assists With Special Education And Related Services\nThe Bear Paw Cooperative, through your local school district, assists in the provision of special education and related services to children with disabilities.\nThrough a process called Child Find, your local school district accepts referrals, provides evaluations and special education for children ages three through 21 years if they qualify.\nPlease contact your local school district or the Bear Paw Cooperative at 406-357-2269.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Health"],
+  "topics": [
+    "Education->students",
+    "Education->school",
+    "Health->developmental disorder",
+    "Health->health organisation",
+    "Health->health care approach"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Glasgow"],
+      "state": ["Montana"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:58:21.458+03:00",
+  "updated": "2025-09-18T08:03:21.000+03:00"
+}

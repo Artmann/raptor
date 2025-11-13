@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "f4ab257b46dbefa1820b39a6fed08bb8b66efab7",
+    "url": "https://triblive.com/local/pittsburgh-police-arrest-victims-neighbor-in-west-end-homicide",
+    "site_full": "triblive.com",
+    "site": "triblive.com",
+    "site_section": "https://triblive.com/category/local/",
+    "site_categories": ["media"],
+    "section_title": null,
+    "title": "Pittsburgh police arrest victim's neighbor in West End homicide",
+    "title_full": "Pittsburgh police arrest victim's neighbor in West End homicide",
+    "published": "2024-04-25T22:34:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4107,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f4ab257b46dbefa1820b39a6fed08bb8b66efab7",
+  "url": "https://triblive.com/local/pittsburgh-police-arrest-victims-neighbor-in-west-end-homicide",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Justin Vellucci",
+  "published": "2024-04-25T22:34:00.000+03:00",
+  "title": "Pittsburgh police arrest victim's neighbor in West End homicide",
+  "text": "Pittsburgh police have arrested a West End man in the fatal shooting last month of his 22-year-old friend and neighbor.\nLontae Smith was shot March 25 in the 1400 block of Harlow Street, where he lived, in Pittsburgh’s Chartiers City neighborhood.\nPolice responded after an alert at 9:54 p.m. by the ShotSpotter gunfire detection system.\nSmith’s father drove him to the hospital, where he died at 10:31 p.m., police said.\nOn the way to the hospital, Smith said that his friend Sincere Kimbrough had shot him, the father told police, according to a criminal complaint.\nThe two had been friends for more than 10 years, police said.\nA doorbell camera showed Kimbrough leaving his home a few minutes before the shooting and getting into Smith’s car, a dark gray Nissan Altima that was parked on Harlow Street, police said. Smith was shot near the vehicle, leaving blood on the front passenger seat and outside the car, police said.\nPolice on Wednesday charged Kimbrough with homicide and carrying a firearm without a license. A judge Thursday denied him bail.\nAbout two hours after the shooting, Kimbrough approached two Pittsburgh police officers at the crime scene and told them he lived nearby, police said. Kimbrough said that he was working out and playing football at the time of the shooting, according to the complaint.\nPolice didn’t mention a motive for the shooting in the complaint.\nKimbrough’s preliminary hearing is scheduled for May 8. His attorney was not listed.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "kimbrough",
+        "sentiment": "none"
+      },
+      {
+        "name": "kimbroug",
+        "sentiment": "none"
+      },
+      {
+        "name": "smith",
+        "sentiment": "none"
+      },
+      {
+        "name": "sincere kimbrough",
+        "sentiment": "none"
+      },
+      {
+        "name": "lontae smith",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "shotspotter",
+        "sentiment": "none"
+      },
+      {
+        "name": "nissan",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "west end",
+        "sentiment": "none"
+      },
+      {
+        "name": "pittsburgh",
+        "sentiment": "none"
+      },
+      {
+        "name": "chartiers city",
+        "sentiment": "none"
+      },
+      {
+        "name": "harlow street",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:30:02.713+03:00",
+  "updated": "2024-04-26T00:30:02.713+03:00"
+}

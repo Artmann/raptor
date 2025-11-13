@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "3131f8e8e6a7b929a0f05424ec1e7da766fc7094",
+    "url": "https://www.stern.de/news/baden-wuerttemberg--klage-gegen-vegetarisches-schulessen-scheitert-vor-gericht-35842310.html",
+    "site_full": "www.stern.de",
+    "site": "stern.de",
+    "site_section": "http://stern.de//feed/standard/all",
+    "site_categories": [
+      "photography",
+      "hobbies_and_interests",
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "section_title": "STERN.DE RSS-Feed - Der Tag im Überblick",
+    "site_title": "Nachrichten, Hintergründe &amp; Reportagen | STERN.de",
+    "title": "Baden-Württemberg: Klage gegen vegetarisches Schulessen scheitert vor Gericht",
+    "title_full": "Baden-Württemberg: Klage gegen vegetarisches Schulessen scheitert vor Gericht",
+    "published": "2025-06-26T11:05:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://image.stern.de/35842312/t/_K/v1/w1440/r1.7778/-/26--schuelerin-in-mittagspause---9aaf2ae40810318b.jpg",
+    "performance_score": 0,
+    "domain_rank": 2110,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3131f8e8e6a7b929a0f05424ec1e7da766fc7094",
+  "url": "https://www.stern.de/news/baden-wuerttemberg--klage-gegen-vegetarisches-schulessen-scheitert-vor-gericht-35842310.html",
+  "ord_in_thread": 0,
+  "author": "STERN.de",
+  "published": "2025-06-26T11:05:00.000+03:00",
+  "title": "Baden-Württemberg: Klage gegen vegetarisches Schulessen scheitert vor Gericht",
+  "text": "Die betroffene Ganztagsschule im Raum Konstanz bietet an vier Wochentagen Essen an, an dreien davon vegetarische oder vegane Gerichte. Nur an einem Tag gibt es Fleisch oder Fisch. Dagegen gingen die Eltern gerichtlich vor. Sie begründeten dies mit einer drohenden Mangelernährung und einer Nahrungsmittelunverträglichkeit.\nEin Eilantrag am Verwaltungsgericht Freiburg, mit dem die Eltern erreichen wollten, dass ihrer Tochter an sämtlichen Tagen Fleisch oder Fisch zur Verfügung gestellt wird, scheiterte jedoch. Gegen die Entscheidung legten die Eltern und ihre Tochter Beschwerde ein.\nDer VGH wies die Beschwerden als unzulässig zurück. Er begründete dies im Fall der Eltern damit, dass diese ihre Beschwerde entgegen der gesetzlichen Vorgaben ohne Rechtsanwalt erhoben hatten. Am VGH besteht sogenannter Anwaltszwang.\nDie Beschwerde der Tochter war nach der Begründung des Senats ebenfalls unzulässig, weil sie im erstinstanzlichen Verfahren nicht beteiligt war und daher gar nicht befugt war für eine Beschwerde. Der Beschluss ist unanfechtbar.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Crime, Law and Justice"],
+  "topics": [
+    "Education->school",
+    "Education->students",
+    "Social Issue->communities",
+    "Social Issue->social problem",
+    "Social Issue->demographics",
+    "Crime, Law and Justice->court",
+    "Crime, Law and Justice->law",
+    "Crime, Law and Justice->civil law"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Konstanz",
+        "sentiment": "none"
+      },
+      {
+        "name": "Freiburg",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news_ch", "top_news_at", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T11:30:03.301+03:00",
+  "updated": "2025-06-27T09:10:31.000+00:00"
+}

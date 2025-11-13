@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "4c2d98e3ceda78bda9cffae3de51838991fa3fe3",
+    "url": "https://abc6onyourside.com/news/local/devin-brown-confident-and-ready-to-seize-leadership-role-at-ohio-state",
+    "site_full": "abc6onyourside.com",
+    "site": "abc6onyourside.com",
+    "site_section": "https://abc6onyourside.com",
+    "site_categories": ["media"],
+    "section_title": "chevron-right",
+    "title": "chevron-right",
+    "title_full": "chevron-right",
+    "published": "2023-12-30T02:33:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://abc6onyourside.com/resources/media/d2d0ba31-d4d5-4225-ad33-ee0d6e458829-large16x9_PTFFOFFENSIVESTARSONCOTTONBOWL.transfer_frame_1215.jpg",
+    "performance_score": 0,
+    "domain_rank": 18651,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4c2d98e3ceda78bda9cffae3de51838991fa3fe3",
+  "url": "https://abc6onyourside.com/news/local/devin-brown-confident-and-ready-to-seize-leadership-role-at-ohio-state",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Kellyanne Stitts",
+  "published": "2023-12-30T02:33:00.000+02:00",
+  "title": "chevron-right",
+  "text": "{p}{ } Proof of concept AI assistant.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "devin brown",
+        "sentiment": "negative"
+      },
+      {
+        "name": "brown",
+        "sentiment": "none"
+      },
+      {
+        "name": "hart",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "chevron",
+        "sentiment": "negative"
+      },
+      {
+        "name": "buckeyes",
+        "sentiment": "none"
+      },
+      {
+        "name": "ohio state",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "columbus",
+        "sentiment": "none"
+      },
+      {
+        "name": "ohio",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-30T06:47:54.189+02:00",
+  "updated": "2024-01-13T06:51:30.697+02:00"
+}

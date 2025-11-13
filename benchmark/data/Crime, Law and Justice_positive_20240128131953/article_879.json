@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "fa7fa94472c80cae9a6c30eb91c77e209044d527",
+    "url": "https://winknews.com/2023/12/29/fgcu-grads-create-tool-hunt-human-traffickers/",
+    "site_full": "winknews.com",
+    "site": "winknews.com",
+    "site_section": "https://uspolitics.einnews.com:443/live_feed",
+    "site_categories": ["media"],
+    "section_title": "Live Feed Wire - US Politics Today - EIN Presswire",
+    "title": "FGCU grads create tool to hunt down human traffickers",
+    "title_full": "FGCU grads create tool to hunt down human traffickers",
+    "published": "2023-12-29T22:23:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://s3.amazonaws.com/cdn2.winknews.com/wp-content/uploads/2021/03/typing-keyboard-monitor.jpg",
+    "performance_score": 0,
+    "domain_rank": 14820,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fa7fa94472c80cae9a6c30eb91c77e209044d527",
+  "url": "https://winknews.com/2023/12/29/fgcu-grads-create-tool-hunt-human-traffickers/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Lindsey Sablan",
+  "published": "2023-12-29T22:23:00.000+02:00",
+  "title": "FGCU grads create tool to hunt down human traffickers",
+  "text": "WINK News LATEST NEWS When you think of people taking down human traffickers, you might picture uniformed agents with decades of training, but FGCU graduates took matters into their own hands, scraping the web for bad guys. Diego Grisales just graduated from FGCU with a degree in software engineering. “I did an internship [at] Amazon web services this summer, and last year, summer, and I’ll be working full time there,” Grisales said. So Grisales is off to Washington State, but he left his mark in Southwest Florida. “The project that we worked on with Diego’s team was focused on going after people that are committing human trafficking,” said John Yancey, resident agent in charge of Homeland Security Investigations. Yancey spoke in one of Grisales’s classes in the spring, and that sparked an idea that turned into his final project in his Capstone class. Diego and two May grads created a web-scraping tool that hunts down traffickers. “It will open a website, right, and it would click on every single post, and we would find information in that post that might be related to human trafficking,” Grisales said. Grisales showed WINK how Netspider works. The software searches for many keywords, including travel, costumes, lingerie and different phones, and then once all the posts are flagged, the tool Grisales designed downloads that information. “Emails, phone numbers, the descriptions, payment methods, social media usernames, along with a screenshot, which is very useful for the agents for prosecution,” Grisales said. “The post changes all the time, every day. They may just have a post up for a day or two, right? And then it’s gone. The tool that he developed gave us the ability to capture an image, which could potentially be used as evidence. We can show a pattern,” Yancey said. Before Netspider, homeland security agents and others sat on a computer and manually reviewed each website and post. This new tool scans multiple posts at a time and multiple sites instantaneously. “Right out of the gate, as soon as we started using it, we were able to identify what were clear signs of human trafficking. We’ve been able to identify the same post that we located here in Southwest Florida being used in other parts of the country,” Yancy said. Yancey told WINK that his team worked hand in hand with Grisales. They gave the tech guys feedback on what keywords to have the system search, the information to save and the system allows you to remove or add words as the traffickers change their language. Homeland Security Investigations has been working with FGCU’s criminal justice students, but this was the first year they reached out to the tech students. They now plan to continue the partnership with the software engineers department.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "john yancey",
+        "sentiment": "none"
+      },
+      {
+        "name": "diego grisales",
+        "sentiment": "none"
+      },
+      {
+        "name": "grisales",
+        "sentiment": "none"
+      },
+      {
+        "name": "diego",
+        "sentiment": "none"
+      },
+      {
+        "name": "yancey",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "fgcu",
+        "sentiment": "negative"
+      },
+      {
+        "name": "homeland security investigations",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "southwest florida",
+        "sentiment": "none"
+      },
+      {
+        "name": "washington state",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-30T01:54:58.211+02:00",
+  "updated": "2023-12-30T01:54:58.211+02:00"
+}

@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "537a22a7704440eb0b6f351a7ea5b680e483d00a",
+    "url": "https://www.virginiamountaineer.com/news/good-ol-days/article_648e1e54-f0a2-4ef1-ba51-9270ee60fc38.html",
+    "site_full": "www.virginiamountaineer.com",
+    "site": "virginiamountaineer.com",
+    "site_section": "http://www.virginiamountaineer.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
+    "site_categories": [],
+    "section_title": "www.virginiamountaineer.com - RSS Results in news of type article",
+    "site_title": "virginiamountaineer.com | The Virginia Mountaineer",
+    "title": "Good Ol Days",
+    "title_full": "Good Ol Days",
+    "published": "2025-09-18T07:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/virginiamountaineer.com/content/tncms/assets/v3/editorial/6/48/648e1e54-f0a2-4ef1-ba51-9270ee60fc38/68c35f487eaae.preview.jpg?crop=832%2C437%2C23%2C55",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "537a22a7704440eb0b6f351a7ea5b680e483d00a",
+  "url": "https://www.virginiamountaineer.com/news/good-ol-days/article_648e1e54-f0a2-4ef1-ba51-9270ee60fc38.html",
+  "ord_in_thread": 0,
+  "author": "Virginia Mountaineer",
+  "published": "2025-09-18T07:00:00.000+03:00",
+  "title": "Good Ol Days",
+  "text": "Approximately 500 county high school seniors turned out Tuesday, Sept. 17, 1985, to participate in College Day. The event, which is sponsored by the YMCA and held annually, is designed to increase student awareness about the choices available to them in continuing their education. A total of 58 colleges, military organizations and banking institutions from a seven-state area sent representatives to the YMCA gym, and students took advantage of the day to gain information about colleges, the military, and financial aid available to them.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": [
+    "Education->students",
+    "Education->college and university",
+    "Social Issue->communities",
+    "Social Issue->teenagers",
+    "Social Issue->social services"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "YMCA",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Vansant", "Grundy", "Buchanan"],
+      "state": ["Virginia"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:50:23.645+03:00",
+  "updated": "2025-09-18T10:06:33.779+03:00"
+}

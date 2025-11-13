@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "ea1a14ffc5fe3fed0a753ba13796d4ad110e4444",
+    "url": "https://www.stripes.com/veterans/2024-04-25/veterans-health-care-cyberattack-leak-13659271.html",
+    "site_full": "www.stripes.com",
+    "site": "stripes.com",
+    "site_section": "http://classifieds.stripes.com",
+    "site_categories": ["media", "jobs", "us_military"],
+    "section_title": "Stars and Stripes | The U.S. military's independent news source.",
+    "title": "Health data of millions of veterans might have been leaked in cyberattack of VA vendor | Stars and Stripes",
+    "title_full": "Health data of millions of veterans might have been leaked in cyberattack of VA vendor | Stars and Stripes",
+    "published": "2024-04-25T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.stripes.com/incoming/bfs2jk-va02a.jpg/alternates/LANDSCAPE_480/VA02a.jpg",
+    "performance_score": 0,
+    "domain_rank": 3755,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ea1a14ffc5fe3fed0a753ba13796d4ad110e4444",
+  "url": "https://www.stripes.com/veterans/2024-04-25/veterans-health-care-cyberattack-leak-13659271.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Linda F Hersey",
+  "published": "2024-04-25T08:00:00.000+03:00",
+  "title": "Health data of millions of veterans might have been leaked in cyberattack of VA vendor | Stars and Stripes",
+  "text": "Fifteen million veterans were notified by the Department of Veterans Affairs this week that a cybersecurity breach involving one of its vendors might have exposed their private health care information. Change Healthcare, which processes payments for VA patients, informed the agency that a “substantial proportion of people in America could have had some information leaked,” VA Secretary Denis McDonough said Thursday during his monthly news conference. “We are pushing for more information. We will move quickly to provide full support and protect veteran data. We are not waiting for that confirmation,” he said. Change Healthcare is the nation’s largest payment processor for health care services. Clinics, pharmacies and community providers submit patient claims via a portal or directly to Change Healthcare, which processes them for payment. United HealthGroup, parent company of Change Healthcare, described the breach as a “malicious criminal cyberattack” and issued a statement this week following an audit of the company’s systems. “Based on initial targeted data sampling to date, the company has found files containing protected health information or personally identifiable information, which could cover a substantial proportion of people in America,” the company said. But there is no evidence that “doctors’ charts” or patients’ “full medical histories” were transferred from Change Healthcare systems. The attackers were identified as a criminal organization that deployed a ransomware attack against United HealthGroup. The VA was first notified in February of a cybersecurity incident at Change Healthcare that delayed payment processing and some prescription orders for veterans using VA health services, McDonough said. “The incident initially impacted a good number of our IT functions, community care payment processes among them. We’ve now restored many of those capabilities, and we’re working to get 100% of them up and going,” he said. McDonough said there was no impact on patient care. He also said the VA has remained focused on restoring systems and strengthening firewalls to protect veteran data. Veterans have been notified by email that they are eligible to sign up for two years of free credit monitoring paid for by Change Healthcare, McDonough said. The VA also is providing veterans with links to resources for preventing online identity theft and fraud. McDonough said as Change Healthcare provides more information on the scope of the breach, the VA will inform Congress, veterans service organizations and veterans. “We are committed to transparency and moving quickly to provide full support for protecting veterans and their data,” he said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Health"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "denis mcdonough",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "united healthgroup",
+        "sentiment": "none"
+      },
+      {
+        "name": "va",
+        "sentiment": "none"
+      },
+      {
+        "name": "department of veterans affairs",
+        "sentiment": "none"
+      },
+      {
+        "name": "change healthcare",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "america",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:33:46.963+03:00",
+  "updated": "2024-04-26T04:38:30.725+03:00"
+}

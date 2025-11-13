@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "1c58c15ca7508bdc9ee352d241289c14194f2c4f",
+    "url": "https://www.lematin.ch/story/education-le-valais-interdit-le-telephone-a-l-ecole-103370482",
+    "site_full": "www.lematin.ch",
+    "site": "lematin.ch",
+    "site_section": "https://lematin.ch/suisse",
+    "site_categories": ["media", "top_news_ch", "top_news"],
+    "section_title": "Suisse: actualité nationale et régionale en direct - Le Matin",
+    "site_title": "Le Matin: toute l&#x27;actualité en Suisse et dans le monde",
+    "title": "Valais: Interdiction des téléphones à l'école - lematin.ch",
+    "title_full": "Valais: Interdiction des téléphones à l'école - lematin.ch",
+    "published": "2025-06-26T09:51:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CH",
+    "main_image": "https://image.lematin.ch/2025/06/26/20ceb7c4-6d96-4c03-9b32-b444c0dedea3.jpg?auto=format%2Ccompress%2Cenhance&amp;fit=crop&amp;w=1200&amp;h=675&amp;rect=0%2C0%2C945%2C643&amp;fp-x=0.4084656084656085&amp;fp-y=0.49922239502332816&amp;crop=focalpoint&amp;s=8778b8cffd53fa24edcad767e3657893",
+    "performance_score": 9,
+    "domain_rank": 16345,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 810,
+        "comments": 152,
+        "shares": 24
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1c58c15ca7508bdc9ee352d241289c14194f2c4f",
+  "url": "https://www.lematin.ch/story/education-le-valais-interdit-le-telephone-a-l-ecole-103370482",
+  "ord_in_thread": 0,
+  "author": "R.M. undefined",
+  "published": "2025-06-26T09:51:00.000+03:00",
+  "title": "Valais: Interdiction des téléphones à l'école - lematin.ch",
+  "text": "Fini le téléphone dans les écoles valaisannes. Il devra être éteint dans l’enceinte de tous les établissements, y compris lors des pauses ou encore à midi.\nL’annonce est faite ce jeudi par Christophe Darbellay, conseiller d’État (le Centre) en charge de l’éducation, dans le «Tages-Anzeiger» . «De plus en plus d’enfants présentent des difficultés d’apprentissage et de lecture. Leur capacité de concentration diminue», justifie-t-il, pointant de trop nombreux mineurs qui, par exemple dans les transports publics, «fixent leur téléphone portable, se parlent à peine et ne se saluent même plus».\n«L'école est un lieu de vie essentiel où il est essentiel de créer des conditions propices à l'apprentissage, à la concentration et au développement personnel», plaide encore le chef du Département valaisan de l’économie et de la formation.\nChristophe Darbellay précise qu'il y aura toujours des tablettes en classe. «Il est important que les enfants apprennent à utiliser les appareils numériques, qu'ils acquièrent une compréhension de base des algorithmes et que la prévention soit également abordée. Mais tout le monde n'a pas besoin de son propre appareil pour cela». Et de conclure que ces compétences peuvent d'ailleurs aussi «être acquises avec un crayon et du papier.»",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Politics"],
+  "topics": [
+    "Education->school",
+    "Education->students",
+    "Social Issue->social services",
+    "Social Issue->social problem",
+    "Politics->civil rights",
+    "Politics->local government and authority",
+    "Politics->education policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.tagesanzeiger.ch/smartphone-verbot-im-wallis-christophe-darbellay-erklaert-den-entscheid-860574898673",
+    "https://tagesanzeiger.ch/smartphone-verbot-im-wallis-christophe-darbellay-erklaert-den-entscheid-860574898673"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ch", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T10:47:59.486+03:00",
+  "updated": "2025-06-27T08:05:19.000+00:00"
+}

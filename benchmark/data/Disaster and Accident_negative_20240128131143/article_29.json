@@ -1,0 +1,124 @@
+{
+  "thread": {
+    "uuid": "24a0f55370791ed7f7d12be8290fc18b6509bc16",
+    "url": "https://ag.ny.gov/press-release/2023/attorney-generals-office-special-investigation-opens-investigation-civilian-27",
+    "site_full": "ag.ny.gov",
+    "site": "ny.gov",
+    "site_section": "http://ag.ny.gov/news/feed",
+    "site_categories": [
+      "law_government_and_politics",
+      "legal_issues",
+      "us_government_resources"
+    ],
+    "section_title": "Press Releases | New York State Attorney General",
+    "title": "Attorney General's Office of Special Investigation Opens Investigation into Civilian Death in Rochester",
+    "title_full": "Attorney General's Office of Special Investigation Opens Investigation into Civilian Death in Rochester",
+    "published": "2023-12-28T07:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ag.ny.gov/sites/default/files/2023-01/oag-social-preview.png",
+    "performance_score": 0,
+    "domain_rank": 583,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "24a0f55370791ed7f7d12be8290fc18b6509bc16",
+  "url": "https://ag.ny.gov/press-release/2023/attorney-generals-office-special-investigation-opens-investigation-civilian-27",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2023-12-28T07:00:00.000+02:00",
+  "title": "Attorney General's Office of Special Investigation Opens Investigation into Civilian Death in Rochester",
+  "text": "Attorney General's Office of Special Investigation Opens Investigation into Civilian Death in Rochester NEW YORK – The New York Attorney General’s Office of Special Investigation (OSI) has opened an investigation into the death of Todd Novick, who died on December 24, 2023 following an encounter with the Rochester Police Department (RPD). At approximately 8:30 a.m. on December 24, RPD received a 911 call reporting two men walking down the street and that one of them was carrying a gun. When police arrived, Mr. Novick ran away and the officers pursued him on foot. During the chase, Mr. Novick pulled what appeared to be a gun from his waistband. One officer fired at him in response, striking him twice. The individual was taken to a local hospital, where he was pronounced dead. Officers recovered a pellet gun at the scene. Pursuant to New York State Executive Law Section 70-b, OSI assesses every incident reported to it where a police officer or a peace officer, including a corrections officer, may have caused the death of a person by an act or omission. Under the law, the officer may be on-duty or off-duty, and the decedent may be armed or unarmed. Also, the decedent may or may not be in custody or incarcerated. If OSI’s assessment indicates an officer may have caused the death, OSI proceeds to conduct a full investigation of the incident. These are preliminary facts and subject to change.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Human Interest",
+    "Disaster and Accident",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "novick",
+        "sentiment": "none"
+      },
+      {
+        "name": "todd novick",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "office of special investigation opens investigation",
+        "sentiment": "negative"
+      },
+      {
+        "name": "osi",
+        "sentiment": "none"
+      },
+      {
+        "name": "rochester police department",
+        "sentiment": "none"
+      },
+      {
+        "name": "new york state executive law section",
+        "sentiment": "none"
+      },
+      {
+        "name": "office of special investigation",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "rochester",
+        "sentiment": "none"
+      },
+      {
+        "name": "roches",
+        "sentiment": "none"
+      },
+      {
+        "name": "new york",
+        "sentiment": "none"
+      },
+      {
+        "name": "new york",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:02:17.383+02:00",
+  "updated": "2023-12-29T00:02:17.383+02:00"
+}

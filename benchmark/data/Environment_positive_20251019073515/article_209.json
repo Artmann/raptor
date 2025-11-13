@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "35792115f9afdc06f88e4d299c73308e22102f7f",
+    "url": "https://www.nordkurier.de/regional/mecklenburg-vorpommern/ein-jahr-inselhafen-prerow-backhaus-zeigt-sich-zufrieden-4016156",
+    "site_full": "www.nordkurier.de",
+    "site": "nordkurier.de",
+    "site_section": "https://www.nordkurier.de/",
+    "site_categories": ["media", "top_news_de", "top_news"],
+    "section_title": "Regionale Nachrichten aus Mecklenburg-Vorpommern &amp; Brandenburg | nordkurier.de",
+    "site_title": "Regionale Nachrichten aus Mecklenburg-Vorpommern &amp; Brandenburg | nordkurier.de",
+    "title": "Ein Jahr Inselhafen Prerow - Backhaus zeigt sich zufrieden",
+    "title_full": "Ein Jahr Inselhafen Prerow - Backhaus zeigt sich zufrieden",
+    "published": "2025-10-16T13:54:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://cdn.nordkurier.de/2025/10/16/11248356-796f-43a1-a663-17f6cb88727a.jpg",
+    "performance_score": 0,
+    "domain_rank": 7488,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "35792115f9afdc06f88e4d299c73308e22102f7f",
+  "url": "https://www.nordkurier.de/regional/mecklenburg-vorpommern/ein-jahr-inselhafen-prerow-backhaus-zeigt-sich-zufrieden-4016156",
+  "ord_in_thread": 0,
+  "author": "Deutsche Presse-Agentur",
+  "published": "2025-10-16T13:54:00.000+03:00",
+  "title": "Ein Jahr Inselhafen Prerow - Backhaus zeigt sich zufrieden",
+  "text": "Umwelt\nEin Jahr Inselhafen Prerow – Backhaus zeigt sich zufrieden\nSchwerin/Prerow / Lesedauer: 2 min\nDie Seebrücke in Prerow mit ihrem Inselhafen weit vor der Küste hat sich nach Überzeugung von Umweltminister Till Backhaus (SPD) ein Jahr nach Fertigstellung als touristisches Wahrzeichen und wichtige Anlaufstelle für Freizeitkapitäne etabliert. Für viele Gäste gehöre ein Spaziergang über die 721 Meter lange Brücke zum festen Bestandteil ihres Ostseeurlaubs. „Inselhafen und Seebrücke haben das erste Jahr mit Bravour absolviert“, sagte der Minister.\nNach jahrzehntelangen Debatten um einen Ersatzbau für den Nothafen Darßer Ort im streng geschützten Nationalpark Vorpommersche Boddenlandschaft hatte sich das Land schließlich bereiterklärt, Planung und Finanzierung zu übernehmen. Dafür wurden früheren Angaben zufolge knapp 47 Millionen Euro bereitgestellt, vor allem aus dem Europäischen Fonds für regionale Entwicklung.\nDie neue Brücke ragt etwa doppelt so weit in die Ostsee hinein wie die frühere 390 Meter lange Seebrücke, die abgerissen wurde. An ihrem Ende wurde mit großen Steinen ein Ringwall aufgeschüttet, der für jeweils eine Nacht als Etappen- und Nothafen genutzt werden kann und als Liegeplatz für Schiffe der Seenotrettung dient. Vom kommenden Jahr an sollen auch Fahrgastschiffe dort anlegen.\nMehr als eine halbe Million Besucher auf Seebrücke\nLaut Backhaus wurden seit Oktober 2024 rund 536.000 Besucherinnen und Besucher auf der Brücke gezählt. Mehr als 2.200 Boote hätten den Inselhafen angelaufen, einige auch nach Havarien.\nNach den Worten des Leiters des Nationalparkamtes Vorpommern, Gernot Haffner, ist es mit dem Inselhafen gelungen, Naturschutz und Nutzung in Einklang zu bringen. „Während der Hafen außerhalb der Kernzone wichtige Aufgaben für Sicherheit und Fischerei erfüllt, kann sich die Natur am Darßer Ort ungestört entfalten“, sagte er.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->sustainability",
+    "Environment->parks",
+    "Environment->water"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Till Backhaus",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Prerow",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ostsee",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Europäischen Fonds",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "SPD",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "SPD",
+            "exchange": "NYSEARCA"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:00:00.709+03:00",
+  "updated": "2025-10-17T14:16:54.000+03:00"
+}

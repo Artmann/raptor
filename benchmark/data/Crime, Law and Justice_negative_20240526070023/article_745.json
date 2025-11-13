@@ -1,0 +1,127 @@
+{
+  "thread": {
+    "uuid": "6cde84ea1b7311435d24a1a1a9431dad81cbe8af",
+    "url": "https://www.justice.gov/opa/pr/tax-attorneys-and-insurance-agent-convicted-tax-shelter-scheme",
+    "site_full": "www.justice.gov",
+    "site": "justice.gov",
+    "site_section": "https://www.justice.gov/news",
+    "site_categories": ["media"],
+    "section_title": "All News | United States Department of Justice",
+    "title": "Office of Public Affairs | Tax Attorneys and Insurance Agent Convicted in Tax Shelter Scheme | United States Department of Justice",
+    "title_full": "Office of Public Affairs | Tax Attorneys and Insurance Agent Convicted in Tax Shelter Scheme | United States Department of Justice",
+    "published": "2024-04-26T00:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg",
+    "performance_score": 0,
+    "domain_rank": 566,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6cde84ea1b7311435d24a1a1a9431dad81cbe8af",
+  "url": "https://www.justice.gov/opa/pr/tax-attorneys-and-insurance-agent-convicted-tax-shelter-scheme",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "justice.gov",
+  "published": "2024-04-26T00:32:00.000+03:00",
+  "title": "Office of Public Affairs | Tax Attorneys and Insurance Agent Convicted in Tax Shelter Scheme | United States Department of Justice",
+  "text": "Press Release Tax Attorneys and Insurance Agent Convicted in Tax Shelter Scheme For Immediate Release Office of Public Affairs A federal jury in Charlotte, North Carolina, convicted two tax attorneys and an insurance agent of conspiring to defraud the United States and helping clients file false tax returns based on their promotion and operation of a fraudulent tax shelter.\nAccording to court documents and evidence presented at trial, from 2011 to November 2022, Michael Elliott Kohn and Catherine Elizabeth Chollet, both attorneys and residents of St. Louis, and David Shane Simmons, a licensed insurance agent and broker based out of Jefferson, North Carolina, promoted, marketed and sold to clients a fraudulent tax scheme known as the Gain Elimination Plan.\nThe defendants designed the plan to conceal their clients’ income from the IRS by inflating business expenses through fictitious royalties and management fees. These fictitious fees were paid, on paper, to a limited partnership largely owned by a charity. In reality, Kohn and Chollet fabricated the fees.\nKohn and Chollet advised clients that the plan’s limited partnership was required to obtain insurance on the life of the clients to cover the income that was allocated to the charitable organization. The death benefit was directly tied to the anticipated profitability of the clients’ businesses and how much of the clients’ taxable income was intended to be sheltered.\nSimmons earned more than $2.3 million in commissions from selling the insurance policies, splitting the commissions with Kohn and Chollet. Kohn and Chollet received more than $1 million from Simmons. Simmons also filed false personal tax returns that underreported his business income and inflated his business expenses, resulting in a tax loss of more than $480,000.\nIn total, the defendants caused a tax loss to the IRS of more than $4 million.\nA sentencing date has not been set. They face a maximum penalty of five years in prison for the conspiracy charge and a maximum penalty of three years in prison for each charge of aiding and assisting in the preparation of false tax returns. Simmons also faces a maximum penalty of three years in prison for each count of filing false personal tax returns. A federal district court judge will determine any sentence after considering the U.S. Sentencing Guidelines and other statutory factors.\nActing Deputy Stuart M. Goldberg of the Justice Department’s Tax Division and U.S. Attorney Dena J. King for the Western District of North Carolina made the announcement.\nIRS Criminal Investigation is investigating the case.\nTrial Attorneys Kevin Schneider and Todd Ellinwood of the Tax Division and Assistant U.S. Attorney Caryn Finley for the Western District of North Carolina are prosecuting the case.\nUpdated April 25, 2024",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "http://twitter.com/intent/tweet?url=https://www.justice.gov/opa/pr/tax-attorneys-and-insurance-agent-convicted-tax-shelter-scheme&text=Tax",
+    "http://www.facebook.com/sharer/sharer.php?u=https://www.justice.gov/opa/pr/tax-attorneys-and-insurance-agent-convicted-tax-shelter-scheme",
+    "http://www.linkedin.com/shareArticle?mini=true&url=https://www.justice.gov/opa/pr/tax-attorneys-and-insurance-agent-convicted-tax-shelter-scheme&title=Tax",
+    "http://www.facebook.com/sharer/sharer.php",
+    "http://twitter.com/intent/tweet?url=https://justice.gov/opa/pr/tax-attorneys-and-insurance-agent-convicted-tax-shelter-scheme&text=Tax",
+    "http://facebook.com/sharer/sharer.php?u=https://justice.gov/opa/pr/tax-attorneys-and-insurance-agent-convicted-tax-shelter-scheme",
+    "http://twitter.com/intent/tweet",
+    "http://www.linkedin.com/shareArticle",
+    "http://linkedin.com/shareArticle?mini=true&url=https://justice.gov/opa/pr/tax-attorneys-and-insurance-agent-convicted-tax-shelter-scheme&title=Tax"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "michael elliott kohn",
+        "sentiment": "none"
+      },
+      {
+        "name": "kohn",
+        "sentiment": "none"
+      },
+      {
+        "name": "david shane simmons",
+        "sentiment": "none"
+      },
+      {
+        "name": "catherine elizabeth chollet",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "irs",
+        "sentiment": "none"
+      },
+      {
+        "name": "linkedin email for immediate release office of public affairs a",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "north carolina",
+        "sentiment": "none"
+      },
+      {
+        "name": "charlotte",
+        "sentiment": "none"
+      },
+      {
+        "name": "united states",
+        "sentiment": "none"
+      },
+      {
+        "name": "jefferson",
+        "sentiment": "none"
+      },
+      {
+        "name": "st. louis",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:33:11.584+03:00",
+  "updated": "2024-05-15T06:24:37.819+03:00"
+}

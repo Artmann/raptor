@@ -1,0 +1,128 @@
+{
+  "thread": {
+    "uuid": "e89ef0fbea8bcfeb313cf043b471e75a704281e3",
+    "url": "https://www.cbsnews.com/sacramento/news/cal-fire-warns-water-dangers-mothers-day-weekend",
+    "site_full": "www.cbsnews.com",
+    "site": "cbsnews.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "media",
+      "television",
+      "entertainment",
+      "top_news_ca",
+      "top_news_ph",
+      "top_news_iq",
+      "top_news_nz",
+      "top_news_au",
+      "top_news_us",
+      "top_news_za",
+      "top_news_sg",
+      "top_news_kw",
+      "top_news"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "site_title": "CBS News | Breaking news, top stories &amp; today's latest headlines",
+    "title": "Cal Fire warns of water dangers as temperatures warm up ahead of Mother's Day Weekend - CBS Sacramento",
+    "title_full": "Cal Fire warns of water dangers as temperatures warm up ahead of Mother's Day Weekend - CBS Sacramento",
+    "published": "2025-05-08T04:15:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/05/08/2c63e332-2f89-4fa7-90ee-11381092d241/thumbnail/1200x630/6fe35df3206a73b3e45d57bab28bc4db/bbce612ba90210cb3a980eef995481df.jpg?v=e61856d8e666e7ed5709adc37bb2d465",
+    "performance_score": 0,
+    "domain_rank": 203,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e89ef0fbea8bcfeb313cf043b471e75a704281e3",
+  "url": "https://www.cbsnews.com/sacramento/news/cal-fire-warns-water-dangers-mothers-day-weekend",
+  "ord_in_thread": 0,
+  "author": "CBS News",
+  "published": "2025-05-08T04:15:00.000+03:00",
+  "title": "Cal Fire warns of water dangers as temperatures warm up ahead of Mother's Day Weekend - CBS Sacramento",
+  "text": "AUBURN — With temperatures warming up over the next few days, Cal Fire is urging people to stay out of the rivers.\nThe warning comes as search efforts continue for a missing kayaker who flipped into the American River in Auburn. Cal Fire said it's situations like this that they want to avoid this spring.\nHeading into Mother's Day Weekend, the American River is running fast and cold. Those conditions will continue for the next few months.\nThat's something Patrick Krivens understands. Visiting from the Bay Area, he was in Auburn hoping for a quiet day of fly fishing.\n\"The water is really high, so it can be pretty unsafe,\" Krivens said. \"So I'm going to mostly be on the rocks. On the side, might go in just a little bit.\"\nJust yards from where Krivens planned to set up, search efforts continued Wednesday for that missing kayaker. Last Friday, two people flipped over in their kayak just north of the No Hands Bridge. Only one made it to shore.\nChief Nick Salas leads one of Cal Fire's Technical Rescue teams. With temperatures forecast in the mid-80s Friday and Saturday, he knows some people will be tempted to cool off in the water.\n\"We can't keep people from getting in the river,\" he said. \"The only thing we can do is try and educate them and try to make it very clear that if you get in, you're taking a huge risk.\"\nSalas says the two kayakers had life jackets but weren't wearing them.\nNow, what started as a rescue is now a recovery mission. But with the river flowing too strongly, divers can't go in safely.\nSalas says it's this kind of tragedy that he hopes serves as a wake-up call for how dangerous it can be.\n\"It's extremely cold, and even if you consider yourself a good swimmer, if you swallow any amount of water or if you get into any of these helical flows behind us, it will take you out,\" he said.\nIn:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Health", "Social Issue"],
+  "topics": [
+    "Environment->sustainability",
+    "Environment->water",
+    "Environment->environmental pollution",
+    "Health->public health",
+    "Health->emergency care",
+    "Health->health organisation",
+    "Social Issue->social condition",
+    "Social Issue->demographics",
+    "Social Issue->communities"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Patrick Krivens",
+        "sentiment": "none"
+      },
+      {
+        "name": "Nick Salas",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Area",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "CBS Sacramento Cal Fire",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Cal Fire's Technical Rescue",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:01:04.273+03:00",
+  "updated": "2025-05-08T05:33:44.793+03:00"
+}

@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "e95bdcfeade57c72743492413ac6ae70021858ae",
+    "url": "https://www.bluewin.ch/en/news/weather-extremes-will-affect-younger-people-much-more-than-older-people-2684921.html",
+    "site_full": "www.bluewin.ch",
+    "site": "bluewin.ch",
+    "site_section": "https://bluewin.ch/en",
+    "site_categories": ["society"],
+    "section_title": "blue News | bluewin E-Mail | Daily News. Sport and Entertainment",
+    "site_title": "blue News | bluewin E-Mail | News, Politik, Sport, People",
+    "title": "Weather extremes will affect younger people considerably more than older people | blue News",
+    "title_full": "Weather extremes will affect younger people considerably more than older people | blue News",
+    "published": "2025-05-08T01:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CH",
+    "main_image": "https://production-livingdocs-bluewin-ch.imgix.net/2024/07/01/b23f3e6b-2bd6-4f70-a880-e43c0d2d0f90.jpeg?w=1200&amp;h=630&amp;fit=crop&amp;crop=faces",
+    "performance_score": 0,
+    "domain_rank": 10382,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e95bdcfeade57c72743492413ac6ae70021858ae",
+  "url": "https://www.bluewin.ch/en/news/weather-extremes-will-affect-younger-people-much-more-than-older-people-2684921.html",
+  "ord_in_thread": 0,
+  "author": "blue News",
+  "published": "2025-05-08T01:00:00.000+03:00",
+  "title": "Weather extremes will affect younger people considerably more than older people | blue News",
+  "text": "Study on global warming Weather extremes will affect younger people much more than older people\ndpa\n8.5.2025 - 00:00\nGlobal warming is already affecting many people. In the future, there will be many more. A team of researchers presents new, alarming data on this.\nNo time? blue News summarizes for you\n- People born after 2020 will suffer considerably from extreme weather events as a result of man-made climate change.\n- This is true even if global warming could be kept to 1.5 degrees Celsius above pre-industrial levels. However, many researchers believe that meeting the 1.5 degree target is impossible anyway.\n- This is the conclusion reached by a team led by Luke Grant from the Vrije Universiteit in Brussels in the scientific journal \"Nature\".\n- Young people in particularly poor regions of the world are especially affected.\nThose born in 2020 are more likely to experience extreme heatwaves than older people. Even if global warming could be kept to 1.5 degrees Celsius above pre-industrial levels, around 52 percent of today's five-year-olds will be exposed to unprecedented heatwaves in their lifetime. For people born in 1960, the proportion is only 16 percent. This was reported by a team led by Luke Grant from the Vrije Universiteit in Brussels in the scientific journal \"Nature\".\nAs a result of climate change, there are measurably more and more severe extreme weather events. \"Human influences have been identified in heatwaves, river floods, droughts, crop failures and certain aspects of forest fires and tropical cyclones,\" the team writes. So far, however, there has been little research into the extent to which individual people will be affected by such events. The researchers used climate models and demographic data, among other things, to predict the number of people who will be exposed to unprecedented levels of extreme events during their lifetime.\nGrant and colleagues looked at three scenarios in which the Earth's average surface temperature in 2100 is 1.5 degrees, 2.5 degrees and 3.5 degrees higher than in pre-industrial times. They modeled what the different scenarios mean for people of different age groups.\nUnprecedented exposure to heatwaves\nGlobally, 52 percent (around 62 million) of the people born in 2020 will be exposed to unprecedented heatwave stress in their lifetime in the 1.5 degree scenario. In the 3.5-degree scenario, this figure would rise to 92 percent (111 million). 29 percent would experience unprecedented exposure to crop failure and 14 percent to river flooding. If all pledges to combat global warming made by countries at the climate conferences are kept, the Earth will warm by 2.7 degrees by 2100, according to researchers.\nIf, instead, further cuts in greenhouse gases were to reduce global warming to 1.5 degrees in 2100, 613 million people born between 2003 and 2020 would be spared an unprecedented heatwave burden. In terms of crop failures, it would be 98 million, for river floods 64 million, for tropical cyclones 76 million, for droughts 26 million and for forest fires 17 million. \"Our results call for a comprehensive and sustained reduction in greenhouse gas emissions to reduce the burden of climate change on today's younger generations,\" write the authors of the study.\nPoor suffer the most\nThe team defines unprecedented exposure to extreme events as a probability of less than 1 in 10,000 that a person would experience the same exposure to the respective extreme events in a world without climate change. The authors also point out certain limitations of the study, such as the fact that factors such as internal migration were not taken into account.\nGrant's team also found differences between people in poorer and wealthier countries. Rosanna Gualdi and Raya Muttarak from the Università di Bologna (Italy) particularly emphasize this aspect in a commentary, also in \"Nature\": \"Under a 2.7 degree warming scenario and current policies, people in the most socio-economically vulnerable group - those with high levels of poverty and low GDP - are consistently more exposed to heatwaves than other groups.\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Health", "Social Issue"],
+  "topics": [
+    "Environment->climate change",
+    "Environment->population growth",
+    "Environment->global warming",
+    "Health->health care approach",
+    "Health->medical condition",
+    "Social Issue->ageism",
+    "Social Issue->social problem",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Luke Grant",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Vrije Universiteit",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T01:38:51.882+03:00",
+  "updated": "2025-05-07T22:47:48.000+00:00"
+}

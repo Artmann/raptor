@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "277611898c437606f8172d537f4559d56fda53bd",
+    "url": "https://news.wsu.edu/announcements/simulation-based-education-open-house-2/",
+    "site_full": "news.wsu.edu",
+    "site": "wsu.edu",
+    "site_section": "https://news.wsu.edu/announcements",
+    "site_categories": ["media"],
+    "section_title": "Announcements | WSU Insider |  Washington State University",
+    "site_title": "WSU Insider |  Washington State University",
+    "title": "Simulation-Based Education Open House | WSU Insider | Washington State University",
+    "title_full": "Simulation-Based Education Open House | WSU Insider | Washington State University",
+    "published": "2025-09-17T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4405,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "277611898c437606f8172d537f4559d56fda53bd",
+  "url": "https://news.wsu.edu/announcements/simulation-based-education-open-house-2/",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-17T03:00:00.000+03:00",
+  "title": "Simulation-Based Education Open House | WSU Insider | Washington State University",
+  "text": "Join us on Apple Cup Friday for an exciting look at WSU College of Veterinary Medicine’s groundbreaking Simulation-Based Education program.\n- Friday, Sept. 19, from 5–6 p.m.\n- Bustad Hall 156, WSU Pullman\nFree and open to the public. All ages welcome.\n- Interactive Demonstrations — See simulation technology in action\n- Facility Tours — Explore our state-of-the-art simulation labs\n- Meet Our Team — Connect with SBE faculty, staff, and students\n- Join Butch T. Cougar for cake, Cougar Gold Mac and Cheese and refreshments\nWhy Simulation Training Matters\nJust like pilots train in flight simulators before flying real passengers, our veterinary students practice on lifelike models and virtual patients before treating real animals, supporting real farmers and pet owners, and safeguarding the real health of our communities.\nThis program provides a safe learning environment where students can:\n- Perfect surgical techniques on realistic models\n- Practice emergency procedures without risk\n- Build confidence through hands-on experience\n- Learn from mistakes without consequences to real patients\n- Ensure the safety and welfare of their future patients\nWSU has the first and only veterinary program globally accredited by the Society for Simulation in Healthcare — the same organization that sets standards for human medical simulation.\nKick off your Apple Cup weekend with us!\nQuestions? Contact us at cvm.events@wsu.edu.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education"],
+  "topics": [
+    "Education->college and university",
+    "Education->vocational education"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Butch T. Cougar",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Cougar Gold Mac",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "SBE",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:03:10.571+03:00",
+  "updated": "2025-09-18T08:05:22.000+03:00"
+}

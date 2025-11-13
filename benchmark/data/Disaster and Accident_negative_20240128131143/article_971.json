@@ -1,0 +1,121 @@
+{
+  "thread": {
+    "uuid": "24a7216a02d3dce77181d24fbd3a8efe03f42823",
+    "url": "https://kesq.com/news/national-world/cnn-national/2023/12/28/police-in-texas-ask-public-to-identify-people-in-video-near-where-pregnant-teen-and-her-boyfriend-were-found-dead/",
+    "site_full": "kesq.com",
+    "site": "kesq.com",
+    "site_section": "https://kesq.com/feed/",
+    "site_categories": ["media"],
+    "section_title": "KESQ",
+    "title": "Police in Texas ask public to identify people in video near where pregnant teen and her boyfriend were found dead",
+    "title_full": "Police in Texas ask public to identify people in video near where pregnant teen and her boyfriend were found dead",
+    "published": "2023-12-29T01:06:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://kesq.b-cdn.net/2023/08/kesq-860x484.jpg",
+    "performance_score": 0,
+    "domain_rank": 18336,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "24a7216a02d3dce77181d24fbd3a8efe03f42823",
+  "url": "https://kesq.com/news/national-world/cnn-national/2023/12/28/police-in-texas-ask-public-to-identify-people-in-video-near-where-pregnant-teen-and-her-boyfriend-were-found-dead/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "CNN Newsource",
+  "published": "2023-12-29T01:06:00.000+02:00",
+  "title": "Police in Texas ask public to identify people in video near where pregnant teen and her boyfriend were found dead",
+  "text": "Police in Texas ask public to identify people in video near where pregnant teen and her boyfriend were found dead\nBy Sara Smart and Eric Levenson, CNN\n(CNN) — Police in San Antonio said Thursday they are looking for two people who were seen on surveillance video near where the bodies of a\npregnant teenager and her boyfriend were found dead earlier this week.\nSavannah Soto, 18, and Matthew Guerra, 22, were reported missing last Saturday, and on Tuesday, two bodies matching their descriptions were found in a car parked near an apartment complex in San Antonio, police said. The bodies had been there for “a few days,” police said.\nThe medical examiner identified the male victim as Guerra, saying he died from a contact gunshot wound to the head, according to police. The pregnant female victim, who was also fatally shot, has not been officially identified, but San Antonio Police Chief William McManus said Thursday they were confident that the body belongs to Soto.\nSoto was pregnant and past her delivery date when she missed an essential medical appointment and her family reported her missing, according to the\nLeon Valley Police Department.\nPolice are investigating the killings as a capital murder case, he said.\nOn Thursday, police released surveillance video of two individuals driving two different cars and asked the public for help identifying them.\nThe video shows a dark-colored pickup truck slowing to a stop in a parking lot, and a silver Kia Optima pulling up from the other direction to stop alongside. A person then gets out of the pickup truck, walks to the Kia and interacts with the driver before returning to the truck, the video shows.\nThe Optima was the victims’ car and is the same vehicle in which Soto and Guerra were found. The video was taken a few days prior to the discovery of the bodies, McManus said.\nIt’s difficult to see in the video what the people are doing. McManus said police believe the man in the truck was doing “something to wipe the side of the car,” though he could not be certain.\n“We are hoping that someone is able to identify the individuals that are seen in this video,” the chief said.\nThe-CNN-Wire\n™ & © 2023 Cable News Network, Inc., a Warner Bros. Discovery Company. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Human Interest",
+    "Disaster and Accident",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [
+    "https://www.cnn.com/2023/12/27/us/missing-pregnant-teen-found-dead/index.html",
+    "https://www.leonvalleytexas.gov/sites/default/files/fileattachments/police/page/3788/press_release.pdf",
+    "https://cnn.com/2023/12/27/us/missing-pregnant-teen-found-dead/index.html",
+    "https://leonvalleytexas.gov/sites/default/files/fileattachments/police/page/3788/press_release.pdf"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "william mcmanus",
+        "sentiment": "none"
+      },
+      {
+        "name": "soto",
+        "sentiment": "none"
+      },
+      {
+        "name": "guerra",
+        "sentiment": "none"
+      },
+      {
+        "name": "savannah soto",
+        "sentiment": "none"
+      },
+      {
+        "name": "matthew guerra",
+        "sentiment": "none"
+      },
+      {
+        "name": "sara smart",
+        "sentiment": "none"
+      },
+      {
+        "name": "eric levenson",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cnn",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "texas",
+        "sentiment": "none"
+      },
+      {
+        "name": "san antonio",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:38:04.630+02:00",
+  "updated": "2023-12-29T01:38:04.630+02:00"
+}

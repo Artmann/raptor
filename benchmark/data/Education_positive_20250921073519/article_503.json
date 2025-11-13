@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "9dc46dc7cce1c4d781543c48e302bef000603740",
+    "url": "https://www.zamora24horas.com/provincia/junta-impulsa-alfabetizacion-digital-medio_1_2871943.html",
+    "site_full": "www.zamora24horas.com",
+    "site": "zamora24horas.com",
+    "site_section": "https://www.zamora24horas.com/rss",
+    "site_categories": ["media"],
+    "section_title": "",
+    "site_title": "Diario de noticias Zamora 24 Horas. La opinión de la gente de Zamora.",
+    "title": "La Junta impulsa la alfabetización digital en el medio rural con CyL Digital Rural",
+    "title_full": "La Junta impulsa la alfabetización digital en el medio rural con CyL Digital Rural",
+    "published": "2025-09-18T08:01:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://static.salamanca24horas.com/clip/5b625c9c-05c7-4aa0-ab6d-b595154d6299_facebook-aspect-ratio_default_0.jpg",
+    "performance_score": 0,
+    "domain_rank": 175860,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9dc46dc7cce1c4d781543c48e302bef000603740",
+  "url": "https://www.zamora24horas.com/provincia/junta-impulsa-alfabetizacion-digital-medio_1_2871943.html",
+  "ord_in_thread": 0,
+  "author": "Redacción",
+  "published": "2025-09-18T08:01:00.000+03:00",
+  "title": "La Junta impulsa la alfabetización digital en el medio rural con CyL Digital Rural",
+  "text": "La Junta impulsa la alfabetización digital en el medio rural con CyL Digital Rural\nLa Junta de Castilla y León refuerza su compromiso de acercar las nuevas tecnologías a todos los rincones de la Comunidad a través del programa CyL Digital Rural,\nEl viceconsejero de Transformación Digital, Luis Enrique Ortega, ha visitado el aula de informática de Peñaflor de Hornija (Valladolid), donde se imparte el curso ‘DNI, certificado digital y sistema Cl@ve. ¿Qué son y cómo utilizarlos?’. Este tipo de formación ya ha sumado 472 actividades presenciales en toda la Comunidad.\nOrtega destacó que “nuestra prioridad es que nadie se quede atrás”, subrayando que el manejo del certificado digital y del sistema Cl@ve es esencial para acceder a muchos servicios públicos y privados.\nEl programa CyL Digital Rural ofrece un itinerario de aprendizaje que abarca desde lo más básico, como solicitar una cita médica a través de SACYL Conecta o usar la banca online, hasta herramientas más avanzadas como redes sociales, inteligencia artificial y ChatGPT.\nLos beneficiarios principales son personas con dificultades de acceso a la sociedad digital, incluyendo mayores, desempleados, inmigrantes o personas con discapacidad, pero también se dirige a autónomos, pymes, jóvenes y familias, que encuentran en la digitalización una oportunidad de desarrollo personal y profesional.\nEn palabras de Ortega, “la digitalización no es solo un reto tecnológico, es también una cuestión de igualdad y de cohesión territorial. Si un habitante de Peñaflor tiene las mismas oportunidades digitales que uno de Valladolid capital, estamos dando un paso adelante contra la despoblación”.\nDesde su puesta en marcha, CyL Digital ha registrado más de 134.000 usuarios y ha impartido más de 24.000 actividades presenciales y online. En el medio rural, los centros asociados han superado los 21.000 usuarios, y el programa cuenta con cinco aulas móviles que permiten llevar la formación a localidades sin infraestructura propia.\nEl viceconsejero concluyó afirmando que “la Junta seguirá apostando por este programa porque es una de las herramientas más eficaces para frenar la brecha digital y garantizar que el futuro tecnológico de Castilla y León llegue a todos, vivan donde vivan”.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->students",
+    "Education->educational grading",
+    "Education->vocational education",
+    "Social Issue->demographics",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Luis Enrique Ortega",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "CyL Digital Rural\nLa Junta de Casti",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Transformación Digital",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:28:15.909+03:00",
+  "updated": "2025-09-18T08:31:53.000+03:00"
+}

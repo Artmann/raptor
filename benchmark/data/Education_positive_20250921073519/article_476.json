@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "4323cb413de927170074766f6c7fedc13b6cd079",
+    "url": "https://infolocale.actu.fr/evenements/evenement-cahors-activite-de-loisirs-ateliers-participatifs-a-la-mediatheque-a-cahors-2005625915",
+    "site_full": "infolocale.actu.fr",
+    "site": "actu.fr",
+    "site_section": "https://actu.fr/occitanie/cazals_46066",
+    "site_categories": ["top_news_be", "top_news_fr", "top_news"],
+    "section_title": "Actu Cazals | actu.fr",
+    "site_title": "Actu : toute l&#039;information locale et nationale en direct",
+    "title": "Atelier d'écriture à la Librairie Calligramme",
+    "title_full": "Atelier d'écriture à la Librairie Calligramme",
+    "published": "2025-09-04T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://photos.infolocale.fr/infoLocale/datatourisme/2025/09/46/5625915/_1.jpg",
+    "performance_score": 0,
+    "domain_rank": 1232,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4323cb413de927170074766f6c7fedc13b6cd079",
+  "url": "https://infolocale.actu.fr/evenements/evenement-cahors-activite-de-loisirs-ateliers-participatifs-a-la-mediatheque-a-cahors-2005625915",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-04T03:00:00.000+03:00",
+  "title": "Atelier d'écriture à la Librairie Calligramme",
+  "text": "Jeudi 18 septembre 2025 à 19h00\nAtelier d'écriture à la Librairie Calligramme\nCalligramme fait sa rentrée des classes !\nCe jeudi 18 septembre à 19h, Lauriane vous propose son atelier d’écriture.\nL’année dernière, vous avez été nombreux.se à nous rejoindre pour réfléchir et écrire autour du thème de la nuit.\nNous serons ravies de vous voir- ou revoir - pour de nouveaux moments d’inspiration et d’échange !\nQuelle sera la nouvelle thématique ?\nQuels textes incroyables en découleront ?\nVenez le découvrir avec nous !",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "positive",
+  "categories": [
+    "Arts, Culture and Entertainment",
+    "Education",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Arts, Culture and Entertainment->library and museum",
+    "Arts, Culture and Entertainment->culture",
+    "Arts, Culture and Entertainment->literature",
+    "Education->social learning",
+    "Education->teachers",
+    "Education->students",
+    "Lifestyle and Leisure->hobby",
+    "Lifestyle and Leisure->lifestyle",
+    "Lifestyle and Leisure->leisure"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_be", "top_news_fr", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:25:59.396+03:00",
+  "updated": "2025-09-19T09:06:24.000+03:00"
+}

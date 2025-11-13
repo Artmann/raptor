@@ -1,0 +1,129 @@
+{
+  "thread": {
+    "uuid": "80d9b3fd9ac55107f1e77748dfc70e983ba1d271",
+    "url": "https://www.thecentersquare.com/arizona/article_1f37d7f4-a5bf-11ee-83f6-4b4c24d185e2.html",
+    "site_full": "www.thecentersquare.com",
+    "site": "thecentersquare.com",
+    "site_section": "http://feeds.feedburner.com/watchdogorgallcontent",
+    "site_categories": ["media"],
+    "section_title": "www.thecentersquare.com - RSS Results of type article",
+    "title": "Arizona sheriffs reaffirm support for Israel, local Jewish community",
+    "title_full": "Arizona sheriffs reaffirm support for Israel, local Jewish community",
+    "published": "2023-12-28T22:24:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/f/b1/fb1b8704-9ad2-11ee-8073-fb717a260b0c/657b86cd5d4ad.image.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 9201,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "80d9b3fd9ac55107f1e77748dfc70e983ba1d271",
+  "url": "https://www.thecentersquare.com/arizona/article_1f37d7f4-a5bf-11ee-83f6-4b4c24d185e2.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Cameron Arcand | The Center Square",
+  "published": "2023-12-28T22:24:00.000+02:00",
+  "title": "Arizona sheriffs reaffirm support for Israel, local Jewish community",
+  "text": "(The Center Square) – The Arizona Sheriffs' Association reaffirmed their support for Israel and protecting the state's Jewish community. The events in Israel and Gaza have gained global attention since Hamas attacked Israel on Oct. 7. Critics have argued that Israel's response to Hamas forces and civilians has been disproportional. Still, protests for both sides have continued around the world, sparking concerns about antisemitism. \"Unfortunately, the war in Israel and Gaza has given rise to crimes targeting Jews across the United States. Antisemitic attacks won't be tolerated here in Arizona,\" the [letter](https://x.com/AZSheriffs/status/1737911226720747965?s=20) signed by Yavapai County Sheriff David Rhodes and Navajo County Sheriff David Clause said. Rhodes and Clause are president and vice president of the association, respectively. \"As the leaders of the sheriffs offices around the state of Arizona, we stand against the recent spate of antisemitic criminal acts,\" the letter added. \"We also commit to defend the places of worship Jews frequent and investigate any threats against members of the Jewish community. We understand Jews remain targets of religious hatred and all law enforcement must stand up to protect these vital community members.\" The letter of support was in alignment with the Jewish Institute for National Security of America. The group says it's \"dedicated to advancing U.S. national security interests in the Middle East, of which a critical pillar is a robust U.S.-Israel security relationship,\" according to its [website](https://jinsa.org/about/). The law enforcement leaders also addressed the question of how civilian deaths are a significant part of the conflict. \"Israel's right to defend itself isn't up for debate. And while all innocent civilian deaths leave a mark on humanity, Hamas and its ghoulish cohorts created a battlefield that deploys civilians as human shields - intended to be put in harms way for publicity,\" the letter states. Arizona, specifically Maricopa County, has a notable Jewish population. An ASU [study](https://thecollege.asu.edu/sites/default/files/2019-jewish-community-report.pdf) from 2019 estimated there are nearly 99,000 Jewish people in the area. The Center Square [reported](https://www.thecentersquare.com/arizona/article_33d8bb1a-66d6-11ee-a70e-5b858a02d14b.html) in October that Phoenix law enforcement was increasing security at synagogues in the city.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Politics", "Social Issue"],
+  "external_links": [
+    "https://x.com/AZSheriffs/status/1737911226720747965?s=20",
+    "https://thecollege.asu.edu/sites/default/files/2019-jewish-community-report.pdf",
+    "https://jinsa.org/about/",
+    "https://www.x.com/AZSheriffs/status/1737911226720747965?s=20",
+    "https://www.jinsa.org/about/",
+    "https://www.thecollege.asu.edu/sites/default/files/2019-jewish-community-report.pdf",
+    "https://jinsa.org/about",
+    "https://x.com/AZSheriffs/status/1737911226720747965"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "rhodes",
+        "sentiment": "none"
+      },
+      {
+        "name": "david rhodes",
+        "sentiment": "none"
+      },
+      {
+        "name": "david clause",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "arizona sheriffs' association",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "hamas",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "israel",
+        "sentiment": "none"
+      },
+      {
+        "name": "arizona",
+        "sentiment": "none"
+      },
+      {
+        "name": "(the center square",
+        "sentiment": "none"
+      },
+      {
+        "name": "gaza",
+        "sentiment": "none"
+      },
+      {
+        "name": "yavapai county",
+        "sentiment": "none"
+      },
+      {
+        "name": "united states",
+        "sentiment": "none"
+      },
+      {
+        "name": "navajo county",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:24:51.637+02:00",
+  "updated": "2023-12-29T01:00:22.792+02:00"
+}

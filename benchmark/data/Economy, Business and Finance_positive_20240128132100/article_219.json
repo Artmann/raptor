@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "29847b4dc05d3959b40548517019b759fdb12ada",
+    "url": "https://levelup.gitconnected.com/mastering-bulk-data-operations-with-spring-batch-in-spring-boot-8f687c53b676",
+    "site_full": "levelup.gitconnected.com",
+    "site": "gitconnected.com",
+    "site_section": "https://levelup.gitconnected.com",
+    "site_categories": ["javascript", "tech"],
+    "section_title": "Level Up Coding",
+    "title": "Mastering Bulk Data Operations with Spring Batch in Spring Boot | by Urfanito | Dec, 2023 | Level Up Coding",
+    "title_full": "Mastering Bulk Data Operations with Spring Batch in Spring Boot | by Urfanito | Dec, 2023 | Level Up Coding",
+    "published": "2023-12-29T00:13:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://miro.medium.com/v2/resize:fit:396/1*MzMu56hAhbZwkbwJpWuAQA.jpeg",
+    "performance_score": 0,
+    "domain_rank": 19196,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "29847b4dc05d3959b40548517019b759fdb12ada",
+  "url": "https://levelup.gitconnected.com/mastering-bulk-data-operations-with-spring-batch-in-spring-boot-8f687c53b676",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Urfanito",
+  "published": "2023-12-29T00:13:00.000+02:00",
+  "title": "Mastering Bulk Data Operations with Spring Batch in Spring Boot | by Urfanito | Dec, 2023 | Level Up Coding",
+  "text": "Mastering Bulk Data Operations with Spring Batch in Spring Boot Efficiently handling large volumes of data is a common challenge in modern applications. In this blog post, we’ll explore the power of batch processing for bulk data operations in Spring Boot. Whether you’re dealing with data imports, updates, or any form of mass data manipulation, harnessing the capabilities of batch processing can significantly enhance the performance and reliability of your Spring Boot applications. Understanding the Need for Batch Processing As applications evolve, the necessity to process data in bulk becomes apparent. Consider scenarios like: - Importing massive datasets into your system. - Performing periodic updates on a large set of records. - Executing complex business logic on extensive data collections. In such cases, traditional processing approaches might not scale well, leading to performance bottlenecks and potential issues. Batch processing provides a systematic way to handle these scenarios efficiently. Leveraging Spring Batch in Spring Boot Spring Batch, an extension of the Spring framework, is a powerful tool for building robust batch-processing applications. It simplifies the development of batch jobs and provides essential features such as transaction management, chunk-based processing, and error handling. Key Components of Spring Batch - Job: Represents a complete batch process and consists of one or more steps. - Step: Defines a single phase of a batch job. Each step typically includes reading data, processing it, and writing the results. - ItemReader: Reads input data for the batch job. - ItemProcessor: Processes each item read by the ItemReaderbefore writing it. - ItemWriter: Writes the processed items to the desired output. Step-by-Step Implementation Let’s illustrate the process with a simple example of processing user data.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Education",
+    "Economy, Business and Finance"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:25:09.941+02:00",
+  "updated": "2023-12-29T00:25:09.941+02:00"
+}

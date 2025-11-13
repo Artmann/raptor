@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "7ba864f0f49c61b28e55b485bc8f9a31ae6d399e",
+    "url": "https://westconcordmn.net/stories/triton-activities-update,124944",
+    "site_full": "westconcordmn.net",
+    "site": "westconcordmn.net",
+    "site_section": "https://westconcordmn.net/news",
+    "site_categories": [],
+    "section_title": "News - West Concord Messenger",
+    "site_title": "Home - West Concord Messenger",
+    "title": "Triton Activities Update",
+    "title_full": "Triton Activities Update",
+    "published": "2025-09-11T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn2.creativecirclemedia.com/mainstreet/original/20250911-150005-ae5-Brandon%20Neseth.jpeg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7ba864f0f49c61b28e55b485bc8f9a31ae6d399e",
+  "url": "https://westconcordmn.net/stories/triton-activities-update,124944",
+  "ord_in_thread": 0,
+  "author": "Brandon Neseth, Activities Director -- Triton High School",
+  "published": "2025-09-11T03:00:00.000+03:00",
+  "title": "Triton Activities Update",
+  "text": "Dear Triton Students, Parents, Staff, and Community Members,\nIt's wonderful to be back for the new school year! We've already had a rewarding start, with our student-athletes competing hard in their early-season activities.\nThis week is another packed one for Triton. In addition to our busy athletic schedule, we'll be holding auditions for our fall play, The Play That Goes Wrong, which will be performed this November.\nNext week, get ready for a big Homecoming celebration in Cobra Country! We have a great week of events planned for our students, including:\n• Monday: Coronation\n• Wednesday: Powder Puff\n• Thursday: Powder Buff\n• Friday: Parade and Carnival\nWe also have two Homecoming matchups to look forward to: a volleyball game against Medford on Thursday evening and the football game against Chatfield on Friday evening.\nWhile this is an exciting time for our current students, we want to make sure our alumni feel welcome and appreciated as well. Triton's activities department has a rich history, and we are the school we are today because of those who came before us. This is the very reason we celebrate homecoming each year at Triton.\nGo Cobras!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->school",
+    "Education->teachers",
+    "Education->students",
+    "Social Issue->social services",
+    "Social Issue->communities",
+    "Social Issue->children",
+    "Human Interest->graduation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Triton",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["West Concord"],
+      "state": ["Minnesota"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:15:43.772+03:00",
+  "updated": "2025-09-18T09:27:51.000+03:00"
+}

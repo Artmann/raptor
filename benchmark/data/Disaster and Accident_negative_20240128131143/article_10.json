@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "4ac8fcbe1496d586d7fbc846a16f7f0d8b0cd855",
+    "url": "https://abcnews.go.com/US/details-emerge-texas-head-crash-killed-6-members/story?id=105963643",
+    "site_full": "abcnews.go.com",
+    "site": "go.com",
+    "site_section": "http://abcnews.go.com/xmldata/rss?id=81",
+    "site_categories": ["media"],
+    "section_title": "ABC News: U.S.",
+    "title": "Details emerge in Texas head-on crash that killed 6 members of same family - ABC News",
+    "title_full": "Details emerge in Texas head-on crash that killed 6 members of same family - ABC News",
+    "published": "2023-12-28T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://i.abcnewsfe.com/a/043ee8ed-0f63-43bb-9e96-6dbb704cbdc7/police-car-tape-gty-jt-220720_1658352494783_hpMain_20_16x9.jpg?w=992",
+    "performance_score": 0,
+    "domain_rank": 135,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "shares": 15
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4ac8fcbe1496d586d7fbc846a16f7f0d8b0cd855",
+  "url": "https://abcnews.go.com/US/details-emerge-texas-head-crash-killed-6-members/story?id=105963643",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Bill Hutchinson",
+  "published": "2023-12-28T02:00:00.000+02:00",
+  "title": "Details emerge in Texas head-on crash that killed 6 members of same family - ABC News",
+  "text": "A 17-year-old driver of a pickup truck collided with the family's van. Six members of the same family, including two children, were killed in Texas when a 17-year-old pickup truck driver slammed head-on into their minivan while allegedly in the wrong lane of the two-lane highway, authorities said. Relatives of the deceased said they were returning from a post-Christmas outing to a wildlife safari park when the fatal accident occurred on U.S. 67, about 50 miles southwest of Fort Worth. The Texas Department of Public Safety (DPS) released details of the two-vehicle collision on Wednesday, saying its preliminary investigation revealed that the teenage driver of a Silverado pickup was heading south when the truck swerved into the northbound lane and slammed into the family's minivan. The DPS said the area where the crash occurred is in a \"no passing\" zone. Killed in the Tuesday evening crash, according to a statement from the Texas Department of Public Safety, were 28-year-old Rushil Barri; 9-year-old Nishidha Potabathula; 10-year-old Krithik Potabathula; 36-year-old Naveena Potabathula; 60-year-old Sitamahalakshmi Ponnada; and 64-year-old Nageswararao Ponnada. The DPS said that only two of the six family members killed were wearing seatbelts at the time of the collision. One person in the family's minivan, 43-year-old Lokesh Potabathula, who was not wearing a seatbelt, survived the crash and was taken to a hospital in critical condition, according to the DPS. The driver of the pickup truck that collided with the family and his 17-year-old passenger were also taken to a hospital in critical condition, the DPS said. The crash investigation is ongoing and it remained unclear on Thursday if any charges will be filed. Rushil Barri's brother, Rakesh Barri, told ABC affiliate station WFAA that his relatives had spent the day at the Fossil Rim Wildlife Safari Park in Glenn Rose, Texas, and were returning to Rakesh Barri's home in Irving, Texas when the crash occurred. Rakesh Barri said his cousin, Lokesh Potabathula, of Georgia, was visiting his brother along with his wife, his 9-year-old son and 10-year-old daughter, who were killed in the crash. He said Sitamahalakshmi and Nageswararao Ponnada were Lokesh Potabathula's in-laws who were visiting from India. \"It's so hard to take,\" Rakesh Barri told WFAA, describing his brother as \"my half.\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Human Interest"],
+  "external_links": [
+    "https://www.wfaa.com/article/traffic/loved-ones-mourn-loss-six-family-members-who-died-johnson-county-crash-while-seventh-family-member-is-still-fighting-for-life/287-7c7f886d-2769-4b99-978a-577b57d46349",
+    "https://www.wfaa.com/article/news/local/five-killed-johnson-county-crash/287-8b62a11e-69d5-48de-aca2-e2c579cbff97",
+    "https://wfaa.com/article/traffic/loved-ones-mourn-loss-six-family-members-who-died-johnson-county-crash-while-seventh-family-member-is-still-fighting-for-life/287-7c7f886d-2769-4b99-978a-577b57d46349",
+    "https://wfaa.com/article/news/local/five-killed-johnson-county-crash/287-8b62a11e-69d5-48de-aca2-e2c579cbff97"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "abc news",
+        "sentiment": "negative"
+      },
+      {
+        "name": "silverado",
+        "sentiment": "none"
+      },
+      {
+        "name": "dps",
+        "sentiment": "none"
+      },
+      {
+        "name": "texas department of public safety",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "texas",
+        "sentiment": "none"
+      },
+      {
+        "name": "naveena potabathula",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "nishidha potabathula",
+        "sentiment": "none"
+      },
+      {
+        "name": "fort worth",
+        "sentiment": "none"
+      },
+      {
+        "name": "krithik potabathula",
+        "sentiment": "none"
+      },
+      {
+        "name": "rushil barri",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:01:05.356+02:00",
+  "updated": "2023-12-29T00:01:05.356+02:00"
+}

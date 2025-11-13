@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "aa12bb58618e1c6b89d53c550b4d927a960f17b0",
+    "url": "https://www.wmbfnews.com/2024/06/21/city-conway-receives-over-2-million-stormwater-improvements-address-flooding",
+    "site_full": "www.wmbfnews.com",
+    "site": "wmbfnews.com",
+    "site_section": "https://wmbfnews.com/news",
+    "site_categories": ["media"],
+    "section_title": "News",
+    "title": "City of Conway receives over $2 million for stormwater improvements to address flooding",
+    "title_full": "City of Conway receives over $2 million for stormwater improvements to address flooding",
+    "published": "2024-06-21T21:14:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-wmbf-prod.cdn.arcpublishing.com/resizer/v2/4JSBCJWKCJGA5MOYXE6YSEVDDU.png?auth=a3ff6a47f99e512a5a15fc5f7ff7b92a127bc18c24330e7e8e62ff29f0315dcf&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 22010,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "aa12bb58618e1c6b89d53c550b4d927a960f17b0",
+  "url": "https://www.wmbfnews.com/2024/06/21/city-conway-receives-over-2-million-stormwater-improvements-address-flooding",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@wmbfnews",
+  "published": "2024-06-21T21:14:00.000+03:00",
+  "title": "City of Conway receives over $2 million for stormwater improvements to address flooding",
+  "text": "City of Conway receives over $2 million for stormwater improvements to address flooding CONWAY, S.C. (WMBF) – The city of Conway received funding to help increase its floodwater storage. The city announced on Thursday it received over $2 million in funding for the McKeithan Watershed Stormwater Improvements project. The funding was provided by the South Carolina Office of Resilience from the American Rescue Plan Act. The McKeithan Watershed Stormwater Improvements project will introduce an additional 20 acres of floodwater storage next to the Crabtree Canal. It will serve 178 acres of developed residential and commercial areas by allowing stormwater to drain directly into a newly constructed storage area before it goes into the Crabtree Canal. This will help manage stormwater and reduce flood risks for that community. On top of increasing floodwater storage, the project will include incorporating wetland shelves with the design of the flood storage pond. The wetland shelves will play a role in improving water quality by providing natural filtration and making sure pollutants are removed from the water before it goes into Crabtree Canal. The site will also offer recreational opportunities such as trails and space for promoting outdoor engagement. The city of Conway will host a public meeting on the improvements project from 5 p.m. to 7 p.m. on Tuesday, June 25 at the Conway Planning and Development and Construction Services Building located at 196 Laurel Street. Residents will be provided information on the project and also have the opportunity to ask questions and address any concerns. Copyright 2024 WMBF. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Weather", "Disaster and Accident", "Environment"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "conway",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "conway",
+        "sentiment": "negative"
+      },
+      {
+        "name": "south carolina office of resilience",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "s.c.",
+        "sentiment": "none"
+      },
+      {
+        "name": "crabtree canal",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-21T21:21:37.306+03:00",
+  "updated": "2024-06-21T21:21:37.306+03:00"
+}

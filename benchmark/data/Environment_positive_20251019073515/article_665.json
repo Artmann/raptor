@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "87318f104cedbf75eaf499e56906422ef34444f4",
+    "url": "https://www.openaccessgovernment.org/new-guidelines-hope-to-make-public-canteen-meals-greener-and-healthier/200020/",
+    "site_full": "www.openaccessgovernment.org",
+    "site": "openaccessgovernment.org",
+    "site_section": "https://www.openaccessgovernment.org/rss",
+    "site_categories": [
+      "politics",
+      "financial_news",
+      "finance",
+      "law_government_and_politics"
+    ],
+    "section_title": "Open Access Government",
+    "site_title": "Open Access Government | Government | Health &amp; Social Care | Research",
+    "title": "New guidelines hope to make public canteen meals greener and healthier",
+    "title_full": "New guidelines hope to make public canteen meals greener and healthier",
+    "published": "2025-10-16T15:21:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.openaccessgovernment.org/wp-content/uploads/2025/10/iStock-175193855-scaled.jpg",
+    "performance_score": 0,
+    "domain_rank": 47711,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "87318f104cedbf75eaf499e56906422ef34444f4",
+  "url": "https://www.openaccessgovernment.org/new-guidelines-hope-to-make-public-canteen-meals-greener-and-healthier/200020/",
+  "ord_in_thread": 0,
+  "author": "Harriet Belderbos",
+  "published": "2025-10-16T15:21:00.000+03:00",
+  "title": "New guidelines hope to make public canteen meals greener and healthier",
+  "text": "Public institutions across Europe, including schools, hospitals, and government offices, have received new guidelines from the Joint Research Centre (JRC) on serving healthier and more sustainable meals\nIn its latest report, the JRC outlines practical, science-based criteria to help public authorities buy and serve food that supports both human health and the environment.\nWhile the guidelines are not legally binding, they are a strong tool for national, regional, and local authorities hoping to improve food services in canteens, catering contracts, and vending machines.\nThe goal of JRC is to align food procurement with environmental, economic, social, and health goals, ensuring that the public food system nourishes people and the planet alike.\nAll around sustainability\nThe new criteria move the focus towards a more comprehensive view of sustainability. The JRC guidelines go beyond reducing environmental impacts to also address issues like nutrition, animal welfare, food waste, working conditions, and the inclusion of vulnerable groups.\nSome of the environmental aspects include guidelines that promote organic farming, sustainable fishing, ethical sourcing, and short supply chains. Institutions are encouraged to reduce their reliance on highly processed foods and foods with a heavy environmental footprint. Staff training, waste prevention, and the use of eco-friendly practices throughout the food service chain are also emphasised.\nSocial sustainability is another key focus, with recommendations to support fair working conditions and involve local producers and suppliers, especially those from socially disadvantaged backgrounds.\nMaking healthier choices\nNutrition is a key part of the proposed food procurement strategy. The JRC recommends a shift towards diets rich in plant-based ingredients, such as fruits, vegetables, whole grains, legumes, nuts, and seeds. At the same time, it advises reducing the presence of salt, free sugars, saturated fats, alcohol, and red or processed meat in public meals.\nThis approach not only promotes better health outcomes but also reduces environmental strain. Notably, the report stresses the need to consider the specific dietary requirements of different age groups, ensuring that everyone receives balanced, appropriate nutrition.\nFlexibility and practical tools for implementation\nTo facilitate adoption, the criteria are designed to be flexible and adaptable to various institutional contexts and food services. Contracting authorities can select and apply the guidelines that best suit their specific needs and resources.\nEach criterion comes with practical verification tools to support compliance, including certification schemes and self-declarations. The report also provides real-world examples and best practices from across Europe to demonstrate successful implementation.\nSupporting tools include life cycle assessments to evaluate environmental impacts, nutritional strategies, and monitoring and evaluation frameworks. Market dialogue and stakeholder engagement are also encouraged to ensure successful and inclusive adoption.\nShaping the future of food systems\nThese JRC guidelines are part of the broader Vision for Agriculture and Food, which aims to reshape Europe’s food systems to become more sustainable, resilient, and health-oriented. By transforming the way public food is sourced and served, institutions can play a leading role in building a better food future.\nThe JRC’s criteria offer a practical path for institutions to contribute to climate goals, reduce public health risks, support ethical food production, and foster a more sustainable food culture for generations to come.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment", "Health"],
+  "topics": [
+    "Environment->sustainability",
+    "Health->public health",
+    "Health->diet",
+    "Health->health facility"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://publications.jrc.ec.europa.eu/repository/handle/JRC139495",
+    "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/new-criteria-greener-and-healthier-public-canteen-menus-2025-10-16_en",
+    "https://www.publications.jrc.ec.europa.eu/repository/handle/JRC139495",
+    "https://www.joint-research-centre.ec.europa.eu/jrc-news-and-updates/new-criteria-greener-and-healthier-public-canteen-menus-2025-10-16_en"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Europe",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Joint Research Centre",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:40:52.527+03:00",
+  "updated": "2025-10-16T15:52:43.000+03:00"
+}

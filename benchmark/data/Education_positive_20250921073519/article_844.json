@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "03cd01add003caeec92c9f8e140e9e1d2d387964",
+    "url": "https://www.fayette-news.net/school/sctc-sees-consistent-enrollment-growth/article_0cebfbff-2b72-4c72-a651-3e34f9065174.html",
+    "site_full": "www.fayette-news.net",
+    "site": "fayette-news.net",
+    "site_section": "http://www.fayette-news.net/search/?f=rss&t=article&c=school&l=50&s=start_time&sd=desc",
+    "site_categories": [],
+    "section_title": "www.fayette-news.net - RSS Results in school of type article",
+    "site_title": "fayette-news.net",
+    "title": "SCTC Sees Consistent Enrollment Growth",
+    "title_full": "SCTC Sees Consistent Enrollment Growth",
+    "published": "2025-09-10T11:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/fayette-news.net/content/tncms/assets/v3/editorial/d/bb/dbbf3c61-0f83-4eba-bf42-ed9b952f7989/67fd006c6b57f.image.jpg?crop=1606%2C844%2C69%2C45&amp;resize=1200%2C631&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "03cd01add003caeec92c9f8e140e9e1d2d387964",
+  "url": "https://www.fayette-news.net/school/sctc-sees-consistent-enrollment-growth/article_0cebfbff-2b72-4c72-a651-3e34f9065174.html",
+  "ord_in_thread": 0,
+  "author": "Guest",
+  "published": "2025-09-10T11:30:00.000+03:00",
+  "title": "SCTC Sees Consistent Enrollment Growth",
+  "text": "Southern Crescent Technical College has again seen a significant leap in enrollment with the kickoff of the 2025 fall semester, according to college officials.\nThe latest figures reportedly indicate that 6,867 students are currently registered for credit courses, representing an 11.1 percent increase compared to fall 2024. Additionally, the number of credit hours taken by students has increased 13.3 percent, demonstrating a stronger academic commitment across the board.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Economy, Business and Finance", "Social Issue"],
+  "topics": [
+    "Education->students",
+    "Education->vocational education",
+    "Education->college and university",
+    "Economy, Business and Finance->human resources",
+    "Economy, Business and Finance->business reporting and performance",
+    "Social Issue->demographics",
+    "Social Issue->social services"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Southern Crescent Technical College",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "03cd01add003caeec92c9f8e140e9e1d2d387964",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Peachtree City", "Fayetteville", "Tyrone"],
+      "state": ["Georgia"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:09:07.740+03:00",
+  "updated": "2025-09-18T09:15:26.000+03:00"
+}

@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "d470a37046a2736802286f206b2dfd75bc207e21",
+    "url": "https://www.13abc.com/video/2025/01/23/ultimate-guide-playoff-parties",
+    "site_full": "www.13abc.com",
+    "site": "13abc.com",
+    "site_section": "https://gray-wtvg-prod.cdn.arcpublishing.com/thenine",
+    "site_categories": ["media"],
+    "section_title": "The Nine",
+    "title": "The Ultimate Guide to Playoff Parties",
+    "title_full": "The Ultimate Guide to Playoff Parties",
+    "published": "2025-01-23T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-wtvg-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F01-23-2025%2Ft_023f448a6f45454abda4b44b89d6b16c_name_file_1280x720_2000_v3_1_.jpg?auth=9ada925b84c3a70d0071514113ba44690ff4132089a8b12fe1a8ef4edeb05402&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 17164,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d470a37046a2736802286f206b2dfd75bc207e21",
+  "url": "https://www.13abc.com/video/2025/01/23/ultimate-guide-playoff-parties",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@13abc",
+  "published": "2025-01-23T02:00:00.000+02:00",
+  "title": "The Ultimate Guide to Playoff Parties",
+  "text": "Updated: 4 hours ago\nIn Author's Note, we meet the local writer behind \"Point Place Chronicles\", a collection of short stories all set on the shores of Lake Erie!\nUpdated: 4 hours ago\nEric profiles a mother-daughter swimming duo in this week's \"On Campus: Hometown Heroes\"\nUpdated: 5 hours ago\nGet to know the voice behind one local podcast: The Perrysburg Podcast!\nUpdated: 5 hours ago\nThe men from Mavillino Custom Homes walk Eric and Rebecca through some design features in this year's Greater Toledo Home Giveaway house.\nUpdated: 6 hours ago\nEric and Rebecca learn what options parents have and how they can visit the NWO School Choice Fair this weekend.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Lifestyle and Leisure"],
+  "topics": [
+    "Lifestyle and Leisure->party",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Rebecca",
+        "sentiment": "none"
+      },
+      {
+        "name": "Eric",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Mavillino Custom Homes",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:37:53.070+02:00",
+  "updated": "2025-01-24T00:37:53.070+02:00"
+}

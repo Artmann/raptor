@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "9235d298f1b9e0e87826894462dc8633445fcd92",
+    "url": "https://news.myseldon.com/en/news/index/329163238",
+    "site_full": "news.myseldon.com",
+    "site": "myseldon.com",
+    "site_section": "https://news.myseldon.com/en/rubric/9",
+    "site_categories": ["media"],
+    "section_title": "Seldon.News - your go-to news aggregator",
+    "site_title": null,
+    "title": "Тайная жизнь муравьев: как их утрата изменит баланс в природе | Society | Seldon News",
+    "title_full": "Тайная жизнь муравьев: как их утрата изменит баланс в природе | Society | Seldon News",
+    "published": "2025-05-08T00:25:46.714+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://storage.myseldon.com/news-pict-76/763972ADBA1E03CDC42876EA9F3EE140",
+    "performance_score": 0,
+    "domain_rank": 21900,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9235d298f1b9e0e87826894462dc8633445fcd92",
+  "url": "https://news.myseldon.com/en/news/index/329163238",
+  "ord_in_thread": 0,
+  "author": "@pravda.ru",
+  "published": "2025-05-08T00:25:46.714+03:00",
+  "title": "Тайная жизнь муравьев: как их утрата изменит баланс в природе | Society | Seldon News",
+  "text": "Тайная жизнь муравьев: как их утрата изменит баланс в природе Муравьи играют незаметную, но критически важную роль в экосистемах. Эти насекомые не только рыхлят почву и способствуют её проветриванию, но и распространяют семена, защищают растения от вредителей и поддерживают круговорот питательных веществ. По сути, муравьи — экосистемные инженеры, влияющие на рост растений и устойчивость природы к климатическим изменениям. Фото: Own work by Thomas Bresson, https://creativecommons.org/licenses/by/3.0/ Тля и муравьи Недавнее совместное исследование учёных из Университета Западной Австралии,... Copyright information of photo and video materials was taken from the website «Pravda.ru» , more details in our Terms of Service",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Science and Technology"],
+  "topics": [
+    "Environment->endangered species",
+    "Environment->nature",
+    "Environment->ecosystem",
+    "Social Issue->social condition",
+    "Social Issue->mankind",
+    "Science and Technology->natural science",
+    "Science and Technology->biology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://creativecommons.org/licenses/by/3.0/",
+    "https://www.pravda.ru/news/science/2217100-the-role-of-ants-in-ecosystems/",
+    "https://www.creativecommons.org/licenses/by/3.0/",
+    "https://creativecommons.org/licenses/by/3.0",
+    "https://pravda.ru/news/science/2217100-the-role-of-ants-in-ecosystems/",
+    "https://www.pravda.ru/news/science/2217100-the-role-of-ants-in-ecosystems"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T00:25:46.714+03:00",
+  "updated": "2025-05-07T21:33:43.000+00:00"
+}

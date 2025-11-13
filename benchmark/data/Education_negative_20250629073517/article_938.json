@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "ec019733631b3d7ecc1c110655e612fd77dfc816",
+    "url": "https://www.larena.it/news/italia/libro-di-testo-frassinetti-segnaliamo-ad-associazione-editori-1.12722279",
+    "site_full": "www.larena.it",
+    "site": "larena.it",
+    "site_section": "https://www.larena.it/news/italia",
+    "site_categories": ["media", "top_news_it", "top_news"],
+    "section_title": "Italia | News | L'Arena",
+    "site_title": "News e Notizie di Verona | L'Arena - Il Giornale di Verona",
+    "title": "Libro di testo, Frassinetti:'segnaliamo ad Associazione Editori' | L'Arena",
+    "title_full": "Libro di testo, Frassinetti:'segnaliamo ad Associazione Editori' | L'Arena",
+    "published": "2025-06-26T15:36:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://gfx.larena.it/image/contentid/policy:1.12722280:1750941611/image.jpg?f=16x9&amp;h=450&amp;w=800&amp;$p$f$h$w=7061f55",
+    "performance_score": 0,
+    "domain_rank": 48878,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ec019733631b3d7ecc1c110655e612fd77dfc816",
+  "url": "https://www.larena.it/news/italia/libro-di-testo-frassinetti-segnaliamo-ad-associazione-editori-1.12722279",
+  "ord_in_thread": 0,
+  "author": "Società Athesis S.p.A.",
+  "published": "2025-06-26T15:36:00.000+03:00",
+  "title": "Libro di testo, Frassinetti:'segnaliamo ad Associazione Editori' | L'Arena",
+  "text": "ROMA, 26 GIU - \"Mi ha lasciato esterrefatta apprendere dalla stampa che nel libro di testo \"Trame del tempo, dal Novecento a oggi\" edito da Laterza, siano contenuti attacchi politici a FdI corredati da giudizi faziosi e di parte. Insegnare la storia significa mantenere equilibrio e obiettività nelle tesi esposte dando semmai diverse interpretazioni di un fatto per consentire agli studenti di farsi una propria opinione basata sull'oggettività. Segnaleremo il testo all'Associazione Italiana Editori affinché si svolgano le dovute verifiche e in modo che il testo non venga più adottato nelle scuole\": a renderlo noto è . Paola Frassinetti, sottosegretario all'Istruzione e al merito..",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": ["Politics", "Social Issue", "Education"],
+  "topics": [
+    "Politics->education policy",
+    "Politics->government department",
+    "Social Issue->social services",
+    "Social Issue->social problem",
+    "Social Issue->discrimination",
+    "Education->teachers",
+    "Education->school",
+    "Education->curriculum"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Paola Frassinetti",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Associazione Italiana Editori",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Laterza",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_it", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T16:02:11.240+03:00",
+  "updated": "2025-06-27T13:06:30.000+00:00"
+}

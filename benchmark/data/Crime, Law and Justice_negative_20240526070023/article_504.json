@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "4ad2ab1678c2110aa969196c30abe2bc0118065d",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-unlicensed-crypto-transfer-services",
+    "site_full": "www.bleepingcomputer.com",
+    "site": "bleepingcomputer.com",
+    "site_section": "https://bleepingcomputer.com/",
+    "site_categories": ["windows", "hacking", "tech", "shareware_freeware"],
+    "section_title": "BleepingComputer | Cybersecurity, Technology News and Support",
+    "title": "FBI warns against using unlicensed crypto transfer services",
+    "title_full": "FBI warns against using unlicensed crypto transfer services",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.bleepstatic.com/content/hl-images/2024/04/25/FBI.jpg",
+    "performance_score": 0,
+    "domain_rank": 1484,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4ad2ab1678c2110aa969196c30abe2bc0118065d",
+  "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-unlicensed-crypto-transfer-services",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Sergiu Gatlan",
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "FBI warns against using unlicensed crypto transfer services",
+  "text": "​The FBI has warned today that using unlicensed cryptocurrency transfer services can result in financial loss if law enforcement takes down these platforms.\nThis announcement is aimed at crypto transfer platforms not registered as Money Services Businesses (MSB) and non-compliant with anti-money laundering requirements as mandated by U.S. federal law.\nSuch cryptocurrency services are frequently targeted by law enforcement operations, particularly if criminals use them to transfer or launder funds acquired through unlawful means.\nIn a public service announcement published on its Internet Crime Complaint Center on Thursday, the FBI said , \"Using a service that does not comply with its legal obligations may put you at risk of losing access to funds after law enforcement operations target those businesses.\"\n\"Using a service that does not comply with its legal obligations may put you at risk of losing access to funds after law enforcement operations target those businesses.\"\nThose who want to use such transfer services to send cryptocurrency should protect themselves against financial risks posed by unlicensed platforms by:\nChecking here if they're registered as an MSB with the U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN). Being wary of financial services that do not ask for KYC information, including name, date of birth, address, and ID, before allowing you to send or receive money or cryptocurrency. Understanding that just because an app can be found in an app store does not necessarily mean it is a legal service and is complying with federal requirements. Avoiding using services that advertise themselves for illegal purposes. Being cautious when using cryptocurrency services known to be used by criminals to launder their funds. Follow-up to Samourai crypto mixer takedown The FBI's warning follows the recently announced takedown of Samourai , an illicit cryptocurrency transfer platform that also provided a crypto mixer service that allowed the laundering of funds sourced from criminal activity.\nIcelandic law enforcement seized Samourai's domains (samourai[.]io and samouraiwallet[.]com) and web servers. The Google Play Store also removed the Samourai Wallet Android mobile app (downloaded over 100,000 times) after it was served with a seizure warrant.\nThe U.S. Department of Justice also charged Keonne Rodriguez and William Lonergan Hill, the platform's founders and operators, for laundering over $100 million from various criminal enterprises through Samourai's crypto mixing services and collecting around $4.5 million in fees.\nAccording to the superseding indictment, \"Since the start of the Whirlpool service in or about 2019 and of the Ricochet service in or about 2017, over 80,000 BTC (worth over $2 billion applying the BTC-USD conversion rates at the time of each transaction) has passed through these two services operated by Samourai.\"\n\"While offering Samourai as a 'privacy' service, the defendants knew that it was a haven for criminals to engage in large-scale money laundering and sanctions evasion,\" the DOJ said.\nRelated Articles: FBI warns of gift card fraud ring targeting retail companies\nCISA urges software devs to weed out path traversal vulnerabilities\nFBI warns of massive wave of road toll SMS phishing attacks\nCISA urges software devs to weed out SQL injection vulnerabilities\nRockwell Automation warns admins to take ICS devices offline",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.fincen.gov/msb-state-selector",
+    "https://www.ic3.gov/Media/Y2024/PSA240425",
+    "https://ic3.gov/Media/Y2024/PSA240425",
+    "https://fincen.gov/msb-state-selector"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "fbi",
+        "sentiment": "negative"
+      },
+      {
+        "name": "money services businesses",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:22:25.747+03:00",
+  "updated": "2024-05-21T21:19:49.197+03:00"
+}

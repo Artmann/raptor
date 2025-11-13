@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "4df39342e4cc8ef1e065bc89810eafcb8c8cf9cf",
+    "url": "http://www.china.org.cn/world/Off_the_Wire/2023-12/29/content_116909206.htm",
+    "site_full": "www.china.org.cn",
+    "site": "china.org.cn",
+    "site_section": "http://www.china.org.cn/world/index.htm",
+    "site_categories": ["japan", "travel"],
+    "section_title": "World - The latest world news headlines from China.org.cn",
+    "title": "Italy bears severest weather on record in 2023: reports - China.org.cn",
+    "title_full": "Italy bears severest weather on record in 2023: reports - China.org.cn",
+    "published": "2023-12-29T00:57:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 2593,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4df39342e4cc8ef1e065bc89810eafcb8c8cf9cf",
+  "url": "http://www.china.org.cn/world/Off_the_Wire/2023-12/29/content_116909206.htm",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2023-12-29T00:57:00.000+02:00",
+  "title": "Italy bears severest weather on record in 2023: reports - China.org.cn",
+  "text": "视频播放位置\n下载安装Flash播放器 ROME, Dec. 28 (Xinhua) -- Italy has experienced a record-setting number of extreme weather events in 2023, a year that is set to be the warmest in more than 150 years, reports said on Thursday.\nAccording to the climate observatory run by the environmental lobby group Legambiente, Italy reported 378 severe weather events in 2023, an increase of 22 percent compared to last year -- ranging from heatwaves to drought and from hailstorms to floods and extreme winds, which were directly responsible for at least 31 deaths.\nOn the other hand, the agriculture sector union Coldiretti said there were more than nine harsh weather events per day this year across Italy's boot-shaped peninsula.\nIn its report, Coldiretti estimated that extreme weather caused a record 6 billion euros (6.6 billion U.S. dollars) of damages to crops and agricultural infrastructure, leading to shortfalls in the country's production of olive oil, peaches, nectarines and wheat.\nLegambiente said its calculations showed that the northern part of the country was hit the hardest, with 210 separate extreme weather events, followed by 98 in the central regions and 70 in the south which includes the island regions of Sicily and Sardinia.\nAmong the extreme weather events were floods, record high temperatures, rain-triggered landslides and hailstorms, it said.\nMuch of Europe suffered a long and dry summer and multiple severe weather events this year, but Italy is often hit harder due to its long coastline and exposure to the sea on two coasts. Meteorological data indicate that this year is set to be the warmest in more than 150 years of record-keeping in Italy.\nMeanwhile, weather agencies predict the year will end with an unusually warm spell, with high daytime temperatures across much of the Italian peninsula, assuring that 2024 will start out on the warm side. Enditem",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment", "Disaster and Accident"],
+  "external_links": [
+    "http://www.adobe.com/cn/products/flashplayer/",
+    "http://adobe.com/cn/products/flashplayer/",
+    "http://www.adobe.com/cn/products/flashplayer"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "coldiretti",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "xinhua",
+        "sentiment": "negative"
+      },
+      {
+        "name": "legambiente",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "rome",
+        "sentiment": "none"
+      },
+      {
+        "name": "italy",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:17:58.079+02:00",
+  "updated": "2023-12-29T01:17:58.079+02:00"
+}

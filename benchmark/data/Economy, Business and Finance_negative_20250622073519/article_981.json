@@ -1,0 +1,114 @@
+{
+  "thread": {
+    "uuid": "52469ac9685a16b93d6d1127fdf3adc35b40cf21",
+    "url": "https://www.eldiadevalladolid.com/noticia/z404602cc-4687-4dfd-adc575a8a9b57d18/202506/disimular-el-apoyo-a-sanchez",
+    "site_full": "www.eldiadevalladolid.com",
+    "site": "eldiadevalladolid.com",
+    "site_section": "http://www.eldiadevalladolid.com",
+    "site_categories": ["media"],
+    "section_title": "\r\n\tEl Día de Valladolid. Noticias de Valladolid y provincia  | eldiadevalladolid.com\r\n",
+    "site_title": "El Día de Valladolid. Noticias de Valladolid y provincia  | eldiadevalladolid.com",
+    "title": "Disimular el apoyo a Sánchez",
+    "title_full": "Disimular el apoyo a Sánchez",
+    "published": "2025-06-19T07:43:58.004+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://www.eldiadevalladolid.com/media/Perfiles/imagenes/DA2841F8-A4C9-C090-B16043089870E86B.png",
+    "performance_score": 0,
+    "domain_rank": 147342,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "52469ac9685a16b93d6d1127fdf3adc35b40cf21",
+  "url": "https://www.eldiadevalladolid.com/noticia/z404602cc-4687-4dfd-adc575a8a9b57d18/202506/disimular-el-apoyo-a-sanchez",
+  "ord_in_thread": 0,
+  "author": "El Día de Valladolid",
+  "published": "2025-06-19T07:43:58.004+03:00",
+  "title": "Disimular el apoyo a Sánchez",
+  "text": "CRÓNICA POLÍTICAFermín BocosPeriodista y escritor. Analista político Disimular el apoyo a Sánchez19/06/2025 El escándalo de las presuntas mordidas que, según el informe de la Guardia Civil, se quedaban Ábalos y Cerdán a cambio de mediar en las contrataciones de obras públicas incomoda a los socios de Sánchez. A unos más que a otros. Pero todos tratan por igual de resolver el dilema que supone seguir apoyando al Gobierno para no perder el chollo, con un Sánchez a la baja dispuesto a dejarse sangrar al tiempo que intentan disimular que apoyan a dos organizaciones salpicada por la corrupción: el Gobierno -Ábalos era ministro de Fomento- y el PSOE -Cerdán era secretario de Organización.Apoyan a Sánchez de manera vergonzante. De otra manera estaríamos hablando de la cuestión de confianza a la que Pedro Sánchez se sometería de tener amarrado el apoyo de cuantos le auparon a La Moncloa tras la moción de censura que acabó políticamente con Mariano Rajoy. No la plantea porque tiene dudas de lo que podría hacer Junts y desconfía de Podemos, cuyos cuatro diputados podrían abstenerse o votar en contra. Aquí la ética no tiene papel, son negocios. El interés particular de cada uno al margen de los intereses del país y de sus ciudadanos. Contando con los partidos minoritarios Sánchez mantiene un relato tramposo que trata de perpetuar aquél momento en la noche del 23 J cuando, tras perder las elecciones, gritó \"¡Somos mayoría¡\". Le van a seguir apoyando pero disimulando.Que no se note en demasía cómo se vería si tuvieran que votar la cuestión de confianza que obligaría a los diputados a retratarse tras haber resonado en el Hemiciclo las severas acusaciones de corrupción del informe de la UCO. Corrupción que, en el colmo de su desconexión con la realidad, Sánchez califica como \"una anécdota\". Los socios quieren seguir ordeñando a la vaca pero sin que les alcance el olor del establo. Habiendo decidido desafiar la realidad de los hechos, hasta el punto de atreverse a proclamar que \"Esto no va de mí\", nada detendrá a Sánchez en la huida que ha emprendido haciendo como que ignora los casos de corrupción que apuntan al corazón de su partido. Los remilgos de sus socios, mientras le sigan apoyando, no le quitaran el sueño. , , , , , , , , , ,",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Politics", "Social Issue", "Economy, Business and Finance"],
+  "topics": [
+    "Politics->political process",
+    "Politics->political campaigns",
+    "Politics->political candidates",
+    "Social Issue->discrimination",
+    "Social Issue->social condition",
+    "Economy, Business and Finance->corporate governance and csr",
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->business governance"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mariano Rajoy",
+        "sentiment": "none"
+      },
+      {
+        "name": "Pedro Sánchez",
+        "sentiment": "none"
+      },
+      {
+        "name": "Cerdán",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Guardia Civil",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Organización",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Gobierno",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "PSOE",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:43:58.004+03:00",
+  "updated": "2025-06-19T04:58:10.000+00:00"
+}

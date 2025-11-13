@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "309ad2428fb7832e9c875344b51ffa281a35b9f5",
+    "url": "https://www.khq.com/news/hit-and-run-suspect-arrested-by-spokane-valley-deputies/article_f088ab12-033e-11ef-8e91-7f2d49acc195.html",
+    "site_full": "www.khq.com",
+    "site": "khq.com",
+    "site_section": "https://nonstoplocal.com",
+    "site_categories": ["media", "business", "entertainment"],
+    "section_title": "NonStop Local | MT News - WA News - ID News | Nonstop Local",
+    "title": "Hit-and-run suspect arrested by Spokane Valley deputies | Spokane News | khq.com",
+    "title_full": "Hit-and-run suspect arrested by Spokane Valley deputies | Spokane News | khq.com",
+    "published": "2024-04-25T23:03:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/khq.com/content/tncms/assets/v3/editorial/0/52/052c781e-033f-11ef-9e0d-df593bf0034e/662ab780a4b53.image.jpg?crop=1024%2C538%2C0%2C40&amp;resize=1024%2C538&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 22667,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "309ad2428fb7832e9c875344b51ffa281a35b9f5",
+  "url": "https://www.khq.com/news/hit-and-run-suspect-arrested-by-spokane-valley-deputies/article_f088ab12-033e-11ef-8e91-7f2d49acc195.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Daniel Fortin NonStop Local Digital Journalist",
+  "published": "2024-04-25T23:03:00.000+03:00",
+  "title": "Hit-and-run suspect arrested by Spokane Valley deputies | Spokane News | khq.com",
+  "text": "SPOKANE VALLEY, Wash. - Spokane Valley deputies arrested a woman after she crashed into a parked car and drove away. She was also arrested for several unrelated felonies.\nOn Sunday, April 21 , around 9:40 a.m., Spokane Valley deputies responded to a report of a car crashing into a parked car in the 11700 block of East Railroad Avenue.\nThe victim, who was not in the car during the crash, said the suspect driver got out of the car and walked away without ever trying to contact the victim.\nDeputies said the victim described the suspect, and video from a nearby home showed the suspect, later identified as 42-year-old Stefanie J. J. Floch.\nDeputies said Floch had several unrelated felony and misdemeanor warrants for her arrest for charges of two counts of Possession of Stolen Property 2nd Degree, two counts of Identity Theft 2nd Degree, Hit and Run, and two counts of First Degree Driving While Suspended/Revoked.\nDuring their investigation, Spokane Valley deputies located Floch in her house in the 11900 block of East Railroad Avenue.\nFloch was transported and booked into the Spokane County Jail on new charges of Hit-and-Run (Unattended Vehicle) and First Degree Driving While Suspended/Revoked.\nDue to her other felonies, Spokane County Superior Court set her bond at $28,500.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.facebook.com/SpokaneCountySheriffsOffice/posts/pfbid0hTQ1y8J24Lsuhfp1BcT7RWLK39jPbGhMtu7e2DoLaavs3LBVo1wp1YDtwDFU28BHl",
+    "https://facebook.com/SpokaneCountySheriffsOffice/posts/pfbid0hTQ1y8J24Lsuhfp1BcT7RWLK39jPbGhMtu7e2DoLaavs3LBVo1wp1YDtwDFU28BHl"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "floch",
+        "sentiment": "none"
+      },
+      {
+        "name": "stefanie j. j. floch",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "spokane news",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "wash.",
+        "sentiment": "none"
+      },
+      {
+        "name": "spokane valley",
+        "sentiment": "none"
+      },
+      {
+        "name": "spokane valley",
+        "sentiment": "none"
+      },
+      {
+        "name": "spokane county",
+        "sentiment": "none"
+      },
+      {
+        "name": "east railroad avenue",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:46:20.056+03:00",
+  "updated": "2024-04-26T00:46:20.056+03:00"
+}

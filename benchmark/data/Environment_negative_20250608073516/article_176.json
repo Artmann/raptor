@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "47b171c6afae3c3a05ec81abd610c511a9a74b7b",
+    "url": "https://tass.ru/obschestvo/23884409",
+    "site_full": "tass.ru",
+    "site": "tass.ru",
+    "site_section": "https://tass.ru/rss/all.xml",
+    "site_categories": ["media", "top_news_ru", "top_news"],
+    "section_title": "ТАСС",
+    "site_title": "Новости в России и мире - ТАСС",
+    "title": "Вильфанд спрогнозировал чрезвычайный класс пожароопасности в 10 регионах РФ",
+    "title_full": "Вильфанд спрогнозировал чрезвычайный класс пожароопасности в 10 регионах РФ",
+    "published": "2025-05-08T02:11:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/23884409?u=2025-05-07T22:11:40.323858",
+    "performance_score": 0,
+    "domain_rank": 1653,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "47b171c6afae3c3a05ec81abd610c511a9a74b7b",
+  "url": "https://tass.ru/obschestvo/23884409",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T02:11:00.000+03:00",
+  "title": "Вильфанд спрогнозировал чрезвычайный класс пожароопасности в 10 регионах РФ",
+  "text": "МОСКВА, 8 мая. /ТАСС/. Чрезвычайный (пятый) класс пожарной опасности прогнозируется в ближайшие дни на территориях Центрального, Южного, Сибирского, Дальневосточного и Приволжского федеральных округов РФ. Об этом сообщил ТАСС научный руководитель Гидрометцентра России Роман Вильфанд.\n\"Пожароопасность сейчас заметная в Центральном федеральном округе, а именно в Липецкой, Воронежской, Белгородской и Курской областях. В Саратовской области тоже пятый класс, и в Волгоградской, Ростовской областях\", - сказал он.\nВысокий класс пожароопасности также ожидается в Сибири. В районах Томской и Иркутской областей будет отмечаться пятый класс пожароопасности. \"А на Дальнем Востоке высокая пожароопасность в Бурятии, такая ситуация сохранится в течение ближайших дней\", - заключил Вильфанд.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Environment", "Crime, Law and Justice", "Politics"],
+  "topics": [
+    "Environment->environmental pollution",
+    "Environment->climate change",
+    "Environment->natural resources",
+    "Politics->government",
+    "Politics->environmental policy",
+    "Politics->safety of citizens"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:31:14.489+03:00",
+  "updated": "2025-05-07T23:36:36.000+00:00"
+}

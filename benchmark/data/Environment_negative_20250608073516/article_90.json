@@ -1,0 +1,119 @@
+{
+  "thread": {
+    "uuid": "ead1621a0b56e43fd43de5b2b043e66a0f5fac06",
+    "url": "https://www.infobae.com/america/agencias/2025/05/07/cuba-preve-una-temporada-de-ciclones-activa-hasta-con-el-paso-de-un-huracan-por-la-isla",
+    "site_full": "www.infobae.com",
+    "site": "infobae.com",
+    "site_section": "https://www.infobae.com/america/agencias/",
+    "site_categories": [
+      "media",
+      "top_news_co",
+      "top_news_cl",
+      "top_news_il",
+      "top_news_es",
+      "top_news_pt",
+      "top_news_us",
+      "top_news_pe",
+      "top_news_mx",
+      "top_news_ar",
+      "top_news_ve",
+      "top_news"
+    ],
+    "section_title": "Últimas Noticias de Argentina y del Mundo - Infobae",
+    "site_title": "Infobae América - Infobae",
+    "title": "Cuba prevé una temporada de ciclones \"activa\", hasta con el paso de un huracán por la isla - Infobae",
+    "title_full": "Cuba prevé una temporada de ciclones \"activa\", hasta con el paso de un huracán por la isla - Infobae",
+    "published": "2025-05-08T00:46:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3169",
+    "performance_score": 0,
+    "domain_rank": 1856,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ead1621a0b56e43fd43de5b2b043e66a0f5fac06",
+  "url": "https://www.infobae.com/america/agencias/2025/05/07/cuba-preve-una-temporada-de-ciclones-activa-hasta-con-el-paso-de-un-huracan-por-la-isla",
+  "ord_in_thread": 0,
+  "author": "@infobae",
+  "published": "2025-05-08T00:46:00.000+03:00",
+  "title": "Cuba prevé una temporada de ciclones \"activa\", hasta con el paso de un huracán por la isla - Infobae",
+  "text": "La Habana, 7 may (EFE).- El Instituto de Meteorología (Insmet) de Cuba prevé una actividad ciclónica \"activa\" en 2025 con un 50% de probabilidad de que la isla sea afectada por un huracán, pero ve un peligro mayor -del 70%- en el posible azote de una tormenta tropical, reportaron este miércoles medios estatales.\nEl pronóstico para la próxima temporada de ciclones en el océano Atlántico -vigente entre el 1 de junio y el 30 de noviembre- advierte sobre la formación de quince ciclones tropicales, ocho de los cuales podrán alcanzar la categoría de huracán.\nEl informe detalla que del total de ciclones, diez se desarrollarán en el Atlántico, tres en el mar Caribe y dos en el golfo de México.\nAdemás considera que las probabilidades de que al menos un huracán se origine e intensifique en el Caribe es \"alta\" (75%) y de que uno de procedencia atlántica penetre en el Caribe es \"moderada\" (50%).\nEl Centro de Pronósticos del Insmet señala que la temperatura superficial del mar en la franja tropical del Atlántico Norte y el mar Caribe continúa registrando valores elevados, pero no tanto como los de la temporada ciclónica del 2024.\nAsimismo cita como otro factor de importancia el actual evento La Niña Oscilación del Sur (AENOS), de carácter débil, que dará paso a condiciones neutrales en el océano Pacífico y se prevé que dichas condiciones se mantengan por el resto del año.\nEn la temporada ciclónica de 2024 se registraron siete tormentas tropicales y once huracanes, de los cuales cinco alcanzaron la categoría de 3 o superior, de un máximo de cinco en la escala Saffir-Simpson que mide su intensidad. Dos de esos eventos meteorológicos impactaron fuertemente a Cuba.\nEl 20 de octubre, Óscar tocó tierra cubana como un huracán categoría 1 en la provincia de Guantánamo (extremo este) con vientos de hasta 130 km/h. Después se degradó a tormenta tropical y dejó ocho fallecidos, daños a 12.000 viviendas, inundaciones que aislaron comunidades, pérdidas en la agricultura y otros estragos.\nUnas dos semanas después, el huracán Rafael, de categoría 3, golpeó el occidente cubano, mayormente a la provincia Artemisa -con vientos sostenidos de 185 km/h -aunque también afectó a las vecinas La Habana y Mayabeque- y provocó el colapso total del sistema eléctrico nacional, lo que afectó a 10 millones de personas. EFE",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Environment", "Disaster and Accident", "Social Issue"],
+  "topics": [
+    "Environment->natural resources",
+    "Environment->environmental pollution",
+    "Environment->climate change",
+    "Disaster and Accident->natural disaster",
+    "Social Issue->mankind"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Atlántico",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "EFE",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "EFE",
+            "exchange": "ASX"
+          }
+        ]
+      },
+      {
+        "name": "Instituto de Meteorología",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T01:53:43.567+03:00",
+  "updated": "2025-05-07T22:57:37.000+00:00"
+}
