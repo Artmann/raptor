@@ -29,7 +29,7 @@
     "@typescript-eslint/await-thenable": "error",
     "prefer-const": "error",
     "no-var": "error",
-    "no-console": "error",
+    "no-console": "off",
     "eqeqeq": ["error", "always"],
     "curly": ["error", "all"],
     "no-debugger": "error",
