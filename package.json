@@ -42,6 +42,8 @@
     "raptor": "./dist/cli.mjs"
   },
   "scripts": {
+    "benchmark": "bun run benchmark/index.ts",
+    "benchmark:quick": "bun run benchmark/index.ts --quick",
     "build": "rolldown --config rolldown.config.ts && tsc --project tsconfig.build.json",
     "cli": "bun src/cli.ts",
     "dev": "bun run src/index.ts",

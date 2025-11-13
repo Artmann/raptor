@@ -1,9 +1,10 @@
-coverage/
-data/
-dist/
-local_cache/
-node_modules/
-test-data/
+/coverage/
+/data/
+/dist/
+/local_cache/
+/node_modules/
+/test-data/
+/benchmark/.tmp/
 
 *.raptor
 *.log
