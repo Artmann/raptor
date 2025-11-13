@@ -1,5 +1,6 @@
 import { existsSync, unlinkSync } from 'fs'
 import { join } from 'path'
+
 import { EmbeddingEngine } from '../src/engine'
 import { getAllQueries, getQuickQueries } from './queries'
 import { runGetBenchmarks } from './suites/get-benchmark'
@@ -34,12 +35,12 @@ function parseArgs(): BenchmarkOptions {
 
   // Store sizes - kept smaller because storeMany is still slow
   const defaultStoreSizes = [100, 500, 1000, 2000]
-  const quickStoreSizes = [100, 500]
+  const quickStoreSizes = [100]
 
   // Read sizes - larger because search/get are faster
   // For 5k/10k, download more sample data to benchmark/data
   const defaultReadSizes = [100, 500, 1000, 2000, 5000, 10000]
-  const quickReadSizes = [100, 500, 1000]
+  const quickReadSizes = [100]
 
   return {
     quick,

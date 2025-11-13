@@ -12,10 +12,25 @@ import type { EmbeddingEntry, EngineOptions, SearchResult } from './types'
 export class EmbeddingEngine {
   private fileReader: BinaryFileReader
   private storePath: string
+  private embeddingModel?: FlagEmbedding
 
   constructor(options: EngineOptions) {
     this.storePath = options.storePath
     this.fileReader = new BinaryFileReader(options.storePath)
+  }
+
+  /**
+   * Gets or initializes the embedding model
+   * Caches the model instance to avoid repeated initialization overhead
+   * @returns Initialized FlagEmbedding model
+   */
+  private async getOrInitModel(): Promise<FlagEmbedding> {
+    if (!this.embeddingModel) {
+      this.embeddingModel = await FlagEmbedding.init({
+        model: EmbeddingModel.BGEBaseEN
+      })
+    }
+    return this.embeddingModel
   }
 
   /**
@@ -24,9 +39,7 @@ export class EmbeddingEngine {
    * @returns 768-dimensional embedding vector
    */
   async generateEmbedding(text: string): Promise<number[]> {
-    const embeddingModel = await FlagEmbedding.init({
-      model: EmbeddingModel.BGEBaseEN
-    })
+    const embeddingModel = await this.getOrInitModel()
 
     const embeddings = embeddingModel.embed([text])
 
@@ -138,10 +151,8 @@ export class EmbeddingEngine {
     // Extract all texts for batch embedding
     const texts = items.map((item) => item.text)
 
-    // Generate embeddings in batch
-    const embeddingModel = await FlagEmbedding.init({
-      model: EmbeddingModel.BGEBaseEN
-    })
+    // Generate embeddings in batch using cached model
+    const embeddingModel = await this.getOrInitModel()
 
     const embeddings = embeddingModel.embed(texts)
     const embeddingsList: number[][] = []
@@ -205,5 +216,13 @@ export class EmbeddingEngine {
     }
 
     return dotProduct / (magnitudeA * magnitudeB)
+  }
+
+  /**
+   * Disposes of the cached embedding model and releases resources
+   * Call this when you're done using the engine to free up memory
+   */
+  dispose(): void {
+    this.embeddingModel = undefined
   }
 }
