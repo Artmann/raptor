@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "53bb4ebd316eff56264272e4d12db9987ca4921c",
+    "url": "https://www.dtnpf.com/agriculture/web/ag/news/crops/article/2025/10/16/new-kentucky-alltech-facility",
+    "site_full": "www.dtnpf.com",
+    "site": "dtnpf.com",
+    "site_section": "https://news.google.com/search?q=to%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": null,
+    "title": "New Kentucky Alltech Facility to Produce Biological Fertilizers",
+    "title_full": "New Kentucky Alltech Facility to Produce Biological Fertilizers",
+    "published": "2025-10-16T14:52:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.dtnpf.com/mydtn-public-core-portlet/servlet/GetStoredImage?category=CMS&amp;symbolicName=sprayer_filling.jpg",
+    "performance_score": 0,
+    "domain_rank": 60592,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "53bb4ebd316eff56264272e4d12db9987ca4921c",
+  "url": "https://www.dtnpf.com/agriculture/web/ag/news/crops/article/2025/10/16/new-kentucky-alltech-facility",
+  "ord_in_thread": 0,
+  "author": "Russ Quinn",
+  "published": "2025-10-16T14:52:00.000+03:00",
+  "title": "New Kentucky Alltech Facility to Produce Biological Fertilizers",
+  "text": "OMAHA (DTN) -- Global agriculture company Alltech has broken ground on a new $4.6 million, 15,000-square-foot manufacturing facility in Kentucky, which will produce biological fertilizers. The plant will produce nutrients, providing farmers with alternatives to traditional chemical fertilizers, according to a company news release.Located on the campus of Alltech's global headquarters in Nicholasville, the facility will be the company's first U.S. manufacturing plant producing crop science technologies. The facility will be modeled after Alltech Crop Science (ACS) facilities in Brazil and Spain and will produce 66,000 gallons of biological fertilizers per shift per month and create at least six new full-time jobs.In addition, it will manufacture more than 30 natural products designed to help farmers enhance soil and crop vitality.The project is supported by a $2.34 million grant from the USDA Fertilizer Production Expansion Program (FPEP). The $500 million program was launched in 2022 in response to supply chain disruptions and rising fertilizer prices. The program aims to expand the production, availability and affordability of domestic fertilizer and nutrient alternatives and reduce reliance on imported synthetic fertilizers.Alltech's project was selected for its innovative approach to soil and crop health, according to the news release. The company said that its biofertilizers, which are made with beneficial microorganisms, improve soil fertility, stimulate root development, enhance nutrient uptake and support healthier soil microbiome, enabling farmers to maintain productivity while reducing environmental impact.\"This facility represents the next phase in scaling our biological innovations for agriculture,\" said Steve Borst, ACS vice president. \"By expanding production here in Kentucky, we can bring farmers natural, science-based solutions that improve soil health, strengthen crops and reduce reliance on synthetic fertilizers. We're grateful to the USDA and to our state and local partners for their support in making this vision a reality.\"The new crop science facility will enable ACS to expand the reach of its natural agronomic technologies across the U.S. and international markets. Leveraging Alltech's more than four decades of expertise in microbial fermentation and nutrigenomics, ACS delivers environmentally responsible alternatives to traditional chemical applications. These biological solutions restore soil balance, strength soil health, maximize crop yields, improve plant resilience, promote stewardship and create long-term value across the food chain.\"Fermentation has always been at the heart of our business, and this facility allows us to apply that expertise in new ways to support crop health, productivity and sustainability,\" said Mark Lyons, president and CEO of Alltech. \"We're proud to strengthen our presence at our global headquarters in Kentucky, creating an innovation and manufacturing center that will serve U.S. farmers, strengthen our local community and continue to advance the science of agriculture.\"The groundbreaking ceremony featured remarks from Rocky Adkins, senior adviser to Kentucky Gov. Andy Beshear; David West, Jessamine County judge-executive; and Alex Carter, mayor of Nicholasville. The event was also attended by leaders of more than 70 global agri-food companies who traveled to Kentucky for Alltech Presidents club, an annual gathering of industry leaders.Russ Quinn can be reached at Russ.Quinn@dtn.com Follow him on social platform X @RussQuinnDTN",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Environment"],
+  "topics": [
+    "Economy, Business and Finance->business and market analysis",
+    "Economy, Business and Finance->agriculture",
+    "Environment->sustainability",
+    "Environment->flowers and plants"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Alltech",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "USDA Fertilizer Production Expansion Program",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:14:27.145+03:00",
+  "updated": "2025-10-16T15:28:31.000+03:00"
+}

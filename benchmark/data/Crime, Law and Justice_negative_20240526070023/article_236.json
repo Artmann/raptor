@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "346cc46cf8012e5312e5b704086c6f5ba23b8a6a",
+    "url": "https://abcnews.go.com/US/wireStory/arkansas-woman-pleads-guilty-selling-24-boxes-body-109648640",
+    "site_full": "abcnews.go.com",
+    "site": "go.com",
+    "site_section": "http://feeds.abcnews.com/abcnews/usheadlines",
+    "site_categories": ["media"],
+    "section_title": "ABC News: US",
+    "title": "Arkansas woman pleads guilty to selling 24 boxes of body parts stolen from cadavers",
+    "title_full": "Arkansas woman pleads guilty to selling 24 boxes of body parts stolen from cadavers",
+    "published": "2024-04-25T23:46:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+    "performance_score": 0,
+    "domain_rank": 142,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "346cc46cf8012e5312e5b704086c6f5ba23b8a6a",
+  "url": "https://abcnews.go.com/US/wireStory/arkansas-woman-pleads-guilty-selling-24-boxes-body-109648640",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "ABC News",
+  "published": "2024-04-25T23:46:00.000+03:00",
+  "title": "Arkansas woman pleads guilty to selling 24 boxes of body parts stolen from cadavers",
+  "text": "Arkansas woman pleads guilty to selling 24 boxes of body parts stolen from cadavers\nA former Arkansas mortuary worker has pleaded guilty to charges that she sold 24 boxes of stolen body parts from medical school cadavers to a Pennsylvania man\nLITTLE ROCK, Ark. -- A former Arkansas mortuary worker pleaded guilty Thursday to charges that she sold 24 boxes of stolen body parts from medical school cadavers to a Pennsylvania man for nearly $11,000.\nShe was among several charged recently in what prosecutors have called a nationwide scheme to steal and sell human body parts from an Arkansas mortuary and Harvard Medical School.\nCandace Chapman Scott, 37, pleaded guilty in federal court to one count of conspiracy to commit mail fraud and one count of interstate\ntransportation of stolen property. She had pleaded not guilty when she was indicted last year in the case.\nAn indictment unsealed last year accused Scott of setting up the transactions with Jeremy Pauley, a Pennsylvania man she met through a\nIn September, Pauley pleaded guilty to charges stemming from the theft and sale of the body parts from the Arkansas mortuary and Harvard.\nScott was employed at Arkansas Central Mortuary Services, where part of her job was to transport, cremate and embalm remains. The University of Arkansas for Medical Sciences in Little Rock has said that’s where the medical school sent remains of cadavers that had been donated for medical students to examine.\nAn attorney for Scott declined to comment Thursday afternoon.\nUnder a plea agreement with Scott, federal prosecutors dropped 10 other wire and mail charges sought against her. She faces up to 10 years in prison and up to a $250,000 fine on the transporting stolen property charge. She also faces up to 20 years in prison and up to a $250,000 fine on the mail fraud charge.\nA sentencing date has not been scheduled.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Health"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "arkansa",
+        "sentiment": "negative"
+      },
+      {
+        "name": "jeremy pauley",
+        "sentiment": "none"
+      },
+      {
+        "name": "pauley",
+        "sentiment": "none"
+      },
+      {
+        "name": "candace chapman scott",
+        "sentiment": "none"
+      },
+      {
+        "name": "scott",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "harvard medical school",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "arkansas",
+        "sentiment": "none"
+      },
+      {
+        "name": "little rock",
+        "sentiment": "none"
+      },
+      {
+        "name": "ark.",
+        "sentiment": "none"
+      },
+      {
+        "name": "pennsylvania",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:09:26.862+03:00",
+  "updated": "2024-04-26T00:09:26.862+03:00"
+}

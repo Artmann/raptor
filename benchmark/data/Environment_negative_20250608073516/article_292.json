@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "53e7025695505505c5c3ef8c4cf64f06f30e2ae5",
+    "url": "https://www.kcrg.com:443/2025/05/07/tree-roots-block-sanitary-sewer-pipe-causing-sewer-overflow-dubuque",
+    "site_full": "www.kcrg.com",
+    "site": "kcrg.com",
+    "site_section": "http://kcrg.com/news",
+    "site_categories": ["media"],
+    "section_title": "News",
+    "site_title": "KCRG | Cedar Rapids, Iowa City, Waterloo, Dubuque | News, Sports and Weather",
+    "title": "Tree roots block sanitary sewer pipe, causing sewer overflow in Dubuque",
+    "title_full": "Tree roots block sanitary sewer pipe, causing sewer overflow in Dubuque",
+    "published": "2025-05-08T02:08:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-kcrg-prod.gtv-cdn.com/resizer/v2/D5QFQKEYPRLYNKXUEM2UIVN3P4.jpg?auth=81d9f2f28773a02a4ea236dfb2da4561f7112cce4d9ce1cf91596b3de7eb7117&amp;width=1200&amp;height=600&amp;smart=false&amp;focal=408%2C231",
+    "performance_score": 0,
+    "domain_rank": 14687,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "53e7025695505505c5c3ef8c4cf64f06f30e2ae5",
+  "url": "https://www.kcrg.com:443/2025/05/07/tree-roots-block-sanitary-sewer-pipe-causing-sewer-overflow-dubuque",
+  "ord_in_thread": 0,
+  "author": "@KCRG",
+  "published": "2025-05-08T02:08:00.000+03:00",
+  "title": "Tree roots block sanitary sewer pipe, causing sewer overflow in Dubuque",
+  "text": "Tree roots block sanitary sewer pipe, causing sewer overflow in Dubuque\nDUBUQUE, Iowa (KCRG) - Tree roots caused a blockage in a sanitary sewer pipe Wednesday, leading to a sewer overflow in Dubuque.\nAccording to a release from the City of Dubuque, “tree roots grew into and blocked a sanitary sewer pipe” near the 3000 block of Spring Valley Road.\nThe blockage resulted in a sanitary sewer overflow, causing untreated wastewater to spill into the storm sewer system at Spring Valley Road and John F. Kennedy Road.\nCity of Dubuque officials were notified of the incident at approximately 7:30 a.m., and arrived on site by 8:00 a.m.\nPublic Works Department staff removed the blockage by approximately 9:15 a.m.\nThe Iowa Department of Natural Resources is warning individuals to keep their children and pets away from the area for 48 hours.\nCopyright 2025 KCRG. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident",
+    "Environment",
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Disaster and Accident->emergency response",
+    "Environment->environmental pollution",
+    "Environment->waste materials",
+    "Crime, Law and Justice->law",
+    "Crime, Law and Justice->administrative law"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Road",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Iowa Department of Natural Resources",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Public Works Department",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:07:27.395+03:00",
+  "updated": "2025-05-08T00:12:56.000+00:00"
+}

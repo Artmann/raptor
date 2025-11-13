@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "78eff09a70172d5a2d105c506c27b8a139d7c768",
+    "url": "https://www.terra.com.br/noticias/defesa-civil-alerta-que-chuvas-dos-proximos-dias-podem-provocar-elevacao-dos-rios-no-estado,5cedeb96a333184415462f33956bd8d325kr5zu8.html",
+    "site_full": "www.terra.com.br",
+    "site": "terra.com.br",
+    "site_section": "https://www.terra.com.br/rss.xml",
+    "site_categories": ["media", "top_news_br", "top_news_pt", "top_news"],
+    "section_title": "Brasil",
+    "site_title": "Terra - Seu Portal de Notícias, Diversão e Esportes",
+    "title": "Defesa Civil alerta que chuvas dos próximos dias podem provocar elevação dos rios no estado",
+    "title_full": "Defesa Civil alerta que chuvas dos próximos dias podem provocar elevação dos rios no estado",
+    "published": "2025-05-08T02:04:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BR",
+    "main_image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/05/07/1484718343-sem-titulo-1.jpg",
+    "performance_score": 0,
+    "domain_rank": 3183,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "78eff09a70172d5a2d105c506c27b8a139d7c768",
+  "url": "https://www.terra.com.br/noticias/defesa-civil-alerta-que-chuvas-dos-proximos-dias-podem-provocar-elevacao-dos-rios-no-estado,5cedeb96a333184415462f33956bd8d325kr5zu8.html",
+  "ord_in_thread": 0,
+  "author": "Porto Alegre 24 horas",
+  "published": "2025-05-08T02:04:00.000+03:00",
+  "title": "Defesa Civil alerta que chuvas dos próximos dias podem provocar elevação dos rios no estado",
+  "text": "Defesa Civil alerta que chuvas dos próximos dias podem provocar elevação dos rios no estado\nSegundo o monitoramento hidrológico, cidades sinalizadas em amarelo e laranja no mapa devem estar preparadas para possíveis impactos\nAs autoridades ambientais e de defesa civil mantêm o Estado do Rio Grande do Sul em atenção constante diante da atual condição hidrológica, que indica níveis de rios oscilando entre a normalidade e marcas baixas. O cenário, porém, tende a se modificar, exigindo vigilância redobrada especialmente nas áreas classificadas como zonas de ATENÇÃO e ALERTA no mapa hidrológico estadual.\nNas últimas 96 horas, não foram registradas precipitações significativas, o que contribuiu para a estabilidade ou queda dos níveis dos rios em diversas regiões. No entanto, os acumulados de chuva previstos para os próximos dias mudam o quadro e levantam preocupações.\nSegundo o monitoramento hidrológico, cidades sinalizadas em amarelo e laranja no mapa devem estar preparadas para possíveis impactos. Nessas áreas, há risco de cheias em pequenos rios, córregos e arroios, que possuem resposta rápida ao volume de chuvas. A consequência imediata pode ser a ocorrência de transtornos em regiões próximas aos corpos hídricos, inclusive em áreas urbanas.\nAlém disso, os rios de maior porte também devem apresentar elevação gradual de seus níveis, o que, somado à possibilidade de pancadas intensas, pode provocar alagamentos pontuais, especialmente onde a drenagem urbana é precária.\nAs autoridades recomendam que a população acompanhe os boletins oficiais, evite áreas de risco em caso de chuvas fortes e esteja atenta a sinais de elevação repentina dos níveis de água. A defesa civil segue mobilizada, com equipes prontas para agir caso ocorram situações de emergência.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "portuguese",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment"],
+  "topics": [
+    "Weather->weather warning",
+    "Environment->climate change",
+    "Environment->environmental pollution",
+    "Environment->water"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:15:56.528+03:00",
+  "updated": "2025-05-08T00:23:58.000+00:00"
+}

@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "18422de11175283c430f39cc92837da19ea72870",
+    "url": "http://www.cnnphilippines.com/transportation/2023/12/29/police-officer-relieved-from-post-after-edsa-busway-crash.html",
+    "site_full": "www.cnnphilippines.com",
+    "site": "cnnphilippines.com",
+    "site_section": "https://cnnphilippines.com",
+    "site_categories": ["media"],
+    "section_title": "CNN Philippines",
+    "title": "Police officer involved in EDSA busway crash relieved",
+    "title_full": "Police officer involved in EDSA busway crash relieved",
+    "published": "2023-12-29T01:19:04.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PH",
+    "main_image": "https://www.cnnphilippines.com/.imaging/default/dam/cnn/2023/12/28/Edsa-bus-police-car-crash-1228_CNNPH.jpg/jcr:content.jpg?width=750&height=450&crop:1:1,smart",
+    "performance_score": 0,
+    "domain_rank": 12041,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "18422de11175283c430f39cc92837da19ea72870",
+  "url": "http://www.cnnphilippines.com/transportation/2023/12/29/police-officer-relieved-from-post-after-edsa-busway-crash.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "CNN Philippines Staff",
+  "published": "2023-12-29T01:19:04.000+02:00",
+  "title": "Police officer involved in EDSA busway crash relieved",
+  "text": "Police officer involved in EDSA busway crash relieved maxItemsPerPage: 10 totalITemsFound: maxPaginationLinks: 10 maxPossiblePages: startIndex: endIndex: Metro Manila (CNN Philippines, December 29) — A police officer involved in a bus crash at the EDSA Carousel has been relieved from his post. A video posted online by the Department of Transportation (DOTr) on Thursday showed a police vehicle abruptly entering the exclusive bus lane. A bus traveling southbound tried to avoid the police car and ended up crashing into an MRT-3 railing near the Santolan station in Quezon City. The incident left five passengers injured. The Philippine National Police (PNP) said the officer was also ticketed for reckless driving. \"The PNP emphasizes its zero-tolerance policy towards personnel misconduct,\" the police statement read. \"We place utmost importance on strict adherence to traffic rules and regulations, as well as the responsible utilization of government-issued vehicles.\" The PNP did not disclose the identity of the officer involved. According to the DOTr, only on-duty ambulances, fire trucks, and police vehicles can pass through the EDSA bus lane. Government vehicles can only use the bus lane when \"performing duties and responsibilities within the busway,\" it added.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "cnn",
+        "sentiment": "none"
+      },
+      {
+        "name": "edsa carousel",
+        "sentiment": "none"
+      },
+      {
+        "name": "philippine national police",
+        "sentiment": "none"
+      },
+      {
+        "name": "pnp",
+        "sentiment": "none"
+      },
+      {
+        "name": "department of transportation",
+        "sentiment": "none"
+      },
+      {
+        "name": "mrt",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "philippines",
+        "sentiment": "none"
+      },
+      {
+        "name": "santolan",
+        "sentiment": "none"
+      },
+      {
+        "name": "metro manila",
+        "sentiment": "none"
+      },
+      {
+        "name": "quezon city",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:19:09.205+02:00",
+  "updated": "2023-12-29T01:19:09.205+02:00"
+}

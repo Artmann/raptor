@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "310d52bbd1073bd6fd5ea2362efaaee5fa3c516b",
+    "url": "https://federalnewsnetwork.com/defense-news/2025/06/pentagon-cancels-multibillion-dollar-household-goods-moving-contract",
+    "site_full": "federalnewsnetwork.com",
+    "site": "federalnewsnetwork.com",
+    "site_section": "https://www.bing.com/news/search?q=of&qft=interval%3d%224%22+sortbydate%3d%221%22&form=PTFTNR",
+    "site_categories": ["media"],
+    "section_title": "of - Search News",
+    "site_title": "Federal News Network - Helping feds meet their mission.",
+    "title": "Pentagon cancels multibillion dollar household goods moving contract",
+    "title_full": "Pentagon cancels multibillion dollar household goods moving contract",
+    "published": "2025-06-19T06:04:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://federalnewsnetwork.com/wp-content/uploads/2025/06/8960995.jpg",
+    "performance_score": 0,
+    "domain_rank": 9425,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "310d52bbd1073bd6fd5ea2362efaaee5fa3c516b",
+  "url": "https://federalnewsnetwork.com/defense-news/2025/06/pentagon-cancels-multibillion-dollar-household-goods-moving-contract",
+  "ord_in_thread": 0,
+  "author": "Jared Serbu",
+  "published": "2025-06-19T06:04:00.000+03:00",
+  "title": "Pentagon cancels multibillion dollar household goods moving contract",
+  "text": "In a statement Wednesday night, the Pentagon said it terminated its up-to-$17.9 billion contract with HomeSafe Alliance for cause. Sean Parnell, DoD’s chief spokesman, said the decision was due to HomeSafe’s “demonstrated inability to fulfill their obligations and deliver high quality moves to service members.” The cancellation appeared to mark the end of the overall GHC project, which DoD first began in 2018 with the goal of improving the moving process by consolidating its management under a single managed service provider. But the contract’s implementation was delayed multiple times — first by a long string of bid protests at the Government Accountability Office and the Court of Federal Claims — and then by technical integration challenges between HomeSafe and DoD systems. By the time DoD finally started conducting large-scale moves under GHC this year, HomeSafe, the contract’s eventual winner, struggled to meet the military’s demand because of a lack of moving company capacity within its base of subcontractors. In an emailed statement Thursday, HomeSafe said the company is ceasing operations, but “is confident it performed to the fullest extent possible considering the limitations placed on it,” and that it disagrees with DoD’s decision to terminate the contract. The company said the contract was ended “without warning,” and while its leadership was still working to fix “government delays, obstacles and commercial challenges.” A spokesperson added that HomeSafe was also reviewing its legal options. Join us on June 23 to explore how agencies can evolve their data strategies to meet growing demands during Federal News Network's Industry Exchange Data. Register today! Defense Secretary Pete Hegseth first hinted the contract may be in jeopardy last month, when he intervened to correct “deficiencies” in GHC’s implementation, including by standing up a new joint task force to fix ongoing problems and acknowledging, for the first time, that the rates DoD was offering movers via HomeSafe under GHC “fail[ed] to reflect market rates.” In a second memo , made public on Wednesday, Hegseth said he was giving that task force more immediate responsibilities and installing Maj. Gen. Lance Curtis to lead it. A month earlier, Curtis had also been placed in charge of U.S. Transportation Command’s Defense Personal Property Program (DP3) when DoD replaced its previous leader, Andy Dawson. The Pentagon said DoD that for the short term, military moves will be handled entirely through the department’s “Tender for Service” contracts, the legacy system GHC was intended to replace. Curtis will also have the authority to make other near-term changes to improve the tender program, with TRANSCOM playing a supporting role in implementing those changes. Over the longer term, Hegseth also ordered the task force to deliver recommendations for another attempt at household goods moving reform by September 5. Dan Hilton, the executive director of the American Trucking Association’s Moving and Storage Conference said the latest GHC developments were welcome news to his members. “We have been sounding the alarm over this contract’s failures to deliver for our nation’s men and women in uniform, and we are grateful the Department of Defense has come to this same understanding,” he said. “We look forward to working with DoD to find solutions that provide efficient and effective services for America’s military servicemembers and their families, who deserve nothing less.” Sign up for our daily newsletter so you never miss a beat on all things federal Jared Serbu is deputy editor of Federal News Network and reports on the Defense Department’s contracting, legislative, workforce and IT issues.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Politics", "Social Issue"],
+  "topics": [
+    "Economy, Business and Finance->business restructuring",
+    "Politics->government budget",
+    "Politics->government",
+    "Politics->political process",
+    "Social Issue->social condition",
+    "Social Issue->communities",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://media.defense.gov/2025/Jun/18/2003741044/-1/-1/1/IMPLEMENTATION-MEMORANDUM-FOR-PERMANENT-CHANGE-OF-STATION-JOINT-TASK-FORCE.PDF",
+    "https://www.media.defense.gov/2025/Jun/18/2003741044/-1/-1/1/IMPLEMENTATION-MEMORANDUM-FOR-PERMANENT-CHANGE-OF-STATION-JOINT-TASK-FORCE.PDF"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Pete Hegseth",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sean Parnell",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Pentagon",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Government Accountability Office",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:35:26.558+03:00",
+  "updated": "2025-06-20T06:07:30.003+03:00"
+}

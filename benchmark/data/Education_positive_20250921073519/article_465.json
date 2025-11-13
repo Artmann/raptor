@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "ec099ab3977200d87a7fcbfeac7826f8b8fae7b5",
+    "url": "https://southberwickreporter.org/event/lego-club/2025-12-04/",
+    "site_full": "southberwickreporter.org",
+    "site": "southberwickreporter.org",
+    "site_section": "https://southberwickreporter.org/event/lego-club",
+    "site_categories": [],
+    "section_title": "LEGO Club - South Berwick Reporter",
+    "site_title": "South Berwick Reporter - South Berwick Nonprofit News",
+    "title": "LEGO Club - South Berwick Reporter",
+    "title_full": "LEGO Club - South Berwick Reporter",
+    "published": "2025-09-04T03:50:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://i0.wp.com/southberwickreporter.org/wp-content/uploads/2025/09/Library_Logo-1.png?fit=1200%2C900&ssl=1",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ec099ab3977200d87a7fcbfeac7826f8b8fae7b5",
+  "url": "https://southberwickreporter.org/event/lego-club/2025-12-04/",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-04T03:50:00.000+03:00",
+  "title": "LEGO Club - South Berwick Reporter",
+  "text": "« All Events\nLEGO Club at the South Berwick Library! Drop in between 1 and 5 to test yourself with the weekly challenge or free-build whatever calls to you! This program is designed for children and their caregivers.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Lifestyle and Leisure", "Human Interest", "Education"],
+  "topics": [
+    "Lifestyle and Leisure->leisure",
+    "Lifestyle and Leisure->club and association",
+    "Lifestyle and Leisure->hobby",
+    "Education->early childhood education",
+    "Education->students",
+    "Education->social learning"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "LEGO Club",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["South Berwick"],
+      "state": ["Maine"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:24:26.206+03:00",
+  "updated": "2025-09-18T08:28:14.000+03:00"
+}

@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "d039a565ed2005f98055553ba0aa420d05e39724",
+    "url": "https://news.myseldon.com/ru/news/index/329166746",
+    "site_full": "news.myseldon.com",
+    "site": "myseldon.com",
+    "site_section": "https://news.myseldon.com/sitemaps/daily/sitemap_news_ru_daily_6.xml",
+    "site_categories": ["media"],
+    "section_title": "",
+    "site_title": null,
+    "title": "Многоквартирный дом во Владивостоке заливает дождями и кипятком | Регионы | Селдон Новости",
+    "title_full": "Многоквартирный дом во Владивостоке заливает дождями и кипятком | Регионы | Селдон Новости",
+    "published": "2025-05-08T05:57:04.521+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://deita.ru/images/articles/08052025_003736_591279_sm.jpg",
+    "performance_score": 0,
+    "domain_rank": 21900,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d039a565ed2005f98055553ba0aa420d05e39724",
+  "url": "https://news.myseldon.com/ru/news/index/329166746",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T05:57:04.521+03:00",
+  "title": "Многоквартирный дом во Владивостоке заливает дождями и кипятком | Регионы | Селдон Новости",
+  "text": "Во Владивостоке на протяжении длительного времени протекает кровля многоквартирного дома на проспекте Красного Знамени, 51, сообщает ИА DEITA . RU .\nВ январе 2024 года жильцы оставляли сигнал об аварийном состоянии крыши в социальных сетях: граждане заявляли, что уже несколько лет во время дождей в «гостинке» затапливает с шестого по девятый этажи, отчего портится как общедомовое имущество (проводка, стены), так личное имущество в квартирах.\nУтверждалось, что жильцы писали коллективное письмо в администрацию города с просьбой перенести капитальный ремонт крыши на с 2040 на 2025 год, но получили «невнятную отписку».\nК концу сентября проблема не решились, жильцы снова написали в telegram -канал микрорайона о протекающей кровле, отметив, что от сырости в помещениях начали разрастаться грибы, а по стене в месте протечки распространяется трещина, которая становится всё больше.\nВ мае 2025 года «гостинку» стало заливать ещё и кипятком, видимо, лопнула труба. Перемещение по общему коридору стало представлять опасность для жизни и здоровья, а информации о скором капитальном ремонте у жильцов до сих пор нет. Тем временем на Владивосток надвигаются очередные интенсивные дожди, объявлено штормовое предупреждение . Да и всё предстоящее лето обещает быть избыточно дождливым.\nФото от 4 января 2024 года:\nФото от 28 сентября 2024 года:\nАвтор:\nНадежда Александрова Данные о правообладателе фото и видеоматериалов взяты с сайта «Дейта» , подробнее в Правилах сервиса Источник: Дейта Темы:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Human Interest"],
+  "topics": [
+    "Environment->sustainability",
+    "Environment->water pollution",
+    "Environment->environmental pollution",
+    "Social Issue->social problem",
+    "Social Issue->social services",
+    "Social Issue->public housing",
+    "Human Interest->human mishap"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://deita.ru/article/569097",
+    "https://www.deita.ru/article/569097"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:57:04.521+03:00",
+  "updated": "2025-05-08T03:03:47.000+00:00"
+}

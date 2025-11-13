@@ -1,0 +1,127 @@
+{
+  "thread": {
+    "uuid": "5abf472e170b43ce097cb1a22383d886fa1acede",
+    "url": "https://latinus.us/mexico/2025/5/7/pemex-confirma-derrame-en-dos-bocas-habia-dos-fugas-en-ducto-que-transporta-aceite-141496.html",
+    "site_full": "latinus.us",
+    "site": "latinus.us",
+    "site_section": "https://latinus.us",
+    "site_categories": ["non_standard_content", "adult"],
+    "section_title": "LatinUS",
+    "site_title": "LatinUS",
+    "title": "Pemex confirma derrame en Dos Bocas: había dos fugas en ducto que transporta aceite",
+    "title_full": "Pemex confirma derrame en Dos Bocas: había dos fugas en ducto que transporta aceite",
+    "published": "2025-05-08T05:02:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://latinus.us/u/fotografias/m/2024/6/24/f1280x720-90208_221883_5050.jpg",
+    "performance_score": 0,
+    "domain_rank": 84645,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5abf472e170b43ce097cb1a22383d886fa1acede",
+  "url": "https://latinus.us/mexico/2025/5/7/pemex-confirma-derrame-en-dos-bocas-habia-dos-fugas-en-ducto-que-transporta-aceite-141496.html",
+  "ord_in_thread": 0,
+  "author": "Latinus",
+  "published": "2025-05-08T05:02:00.000+03:00",
+  "title": "Pemex confirma derrame en Dos Bocas: había dos fugas en ducto que transporta aceite",
+  "text": "Petróleos Mexicanos (Pemex) confirmó que se registraron dos fugas en un ducto que transporta aceite de la Plataforma Akal-C a la Terminal Marítima de Dos Bocas (TMDB), con la instalación de dos abrazaderas metálicas.\nEn un comunicado en redes sociales, la dependencia dio a conocer que actualmente se realizan los preparativos para la verificación de hermeticidad y puesta en operación del ducto.\nPemex informó que luego de realizar un mapeo se detectó que una parte del volumen de aceite que se fugó arribó a la costa de la Terminal Marítima Dos Bocas en el municipio de Paraíso, Tabasco.\nAdemás aseguró que tras detectarlo, de manera inmediata, personal y equipo especializado de Pemex llevó a cabo la limpieza, la cual se espera que concluya en las próximas horas.\nAyer, la Agencia de Seguridad, Energía y Ambiente (ASEA), de la Semarnat, informó que investigaría el derrame de hidrocarburo en la terminal marítima de Dos Bocas y pedirá información a Petróleos Mexicanos (Pemex).\nDesde el fin de semana, habitantes de Paraíso, Tabasco, han documentado la llegada de un líquido aceitoso de color negro a las orillas de la playa, que ha afectado a la flora y fauna de la zona.\nPor su parte, el ayuntamiento de Paraíso publicó una serie de fotografías de la orilla de la playa y en la que aparece un grupo de funcionarios, incluido al menos uno de Pemex.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Environment", "Crime, Law and Justice", "Social Issue"],
+  "topics": [
+    "Environment->environmental pollution",
+    "Environment->hazardous materials",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Crime, Law and Justice->corruption",
+    "Social Issue->discrimination",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Petróleos Mexicanos",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Terminal Marítima de Dos Bocas",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Terminal Marítima Dos Bocas",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Agencia de Seguridad",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Energía y Ambiente",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "TMDB",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "ASEA",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "ASEA",
+            "exchange": "NYSEARCA"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:07:14.882+03:00",
+  "updated": "2025-05-08T03:12:42.000+00:00"
+}

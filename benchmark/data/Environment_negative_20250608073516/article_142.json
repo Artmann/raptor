@@ -1,0 +1,114 @@
+{
+  "thread": {
+    "uuid": "681a519cbbb779bc5d5d1bfd85136cf9d6ea90b5",
+    "url": "https://gestion.pe/peru/region-arequipa-registrara-descenso-de-temperaturas-hasta-10-grados-bajo-cero-alerto-senahmi-noticia",
+    "site_full": "gestion.pe",
+    "site": "gestion.pe",
+    "site_section": "https://gestion.pe/",
+    "site_categories": [
+      "media",
+      "top_news_ar",
+      "top_news_ve",
+      "top_news_pe",
+      "top_news_co",
+      "top_news_mx",
+      "top_news_cl",
+      "top_news"
+    ],
+    "section_title": "Gestión | El diario de Economía, Finanzas y Negocios | GESTIÓN",
+    "site_title": "Gestión | El diario de Economía, Finanzas y Negocios | GESTIÓN",
+    "title": "Región Arequipa registrará descenso de temperaturas hasta 10 grados bajo cero, alertó Senamhi",
+    "title_full": "Región Arequipa registrará descenso de temperaturas hasta 10 grados bajo cero, alertó Senamhi",
+    "published": "2025-05-08T01:21:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PE",
+    "main_image": "https://gestion.pe/resizer/v2/YFXBUZXXJFDLJAXQC33KH66V6E.jpg?auth=d0a43571c393013304d1ebdbfbaae8aff11b547dfb6a1f180699194b23371552&amp;width=980&amp;height=528&amp;quality=75&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 15647,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "681a519cbbb779bc5d5d1bfd85136cf9d6ea90b5",
+  "url": "https://gestion.pe/peru/region-arequipa-registrara-descenso-de-temperaturas-hasta-10-grados-bajo-cero-alerto-senahmi-noticia",
+  "ord_in_thread": 0,
+  "author": "Redacción Gestión",
+  "published": "2025-05-08T01:21:00.000+03:00",
+  "title": "Región Arequipa registrará descenso de temperaturas hasta 10 grados bajo cero, alertó Senamhi",
+  "text": "La región Arequipa registrará un descenso de temperaturas hasta llegar a los 10 grados bajos cero, alertó el Servicio Nacional de Meteorología e Hidrología.\nSegún la entidad, la población que se verá afectada serán la que vive en la sierra media y alta de la región. Asimismo, las provincias que reportarán esto serán La Unión, Castilla, Condesuyos, Caylloma, Caravelí y Arequipa.\nLEA TAMBIÉN:[Arroz, maíz, frijol y palta: Senamhi da una “luz” para el agro hacia junio]\nLas bajas temperaturas, las cuales se reportarán de moderada intensidad, se registrarán entre el jueves 8 y viernes 9 de mayo. Además, se estima que estas vendrán acompañadas por ráfagas de viento con velocidades próximas a los 35 kilómetros por horas y escasa nubosidad.\nPersonal del Senamhi prevé que el jueves 8 de mayo se registrarán temperaturas mínimas cercanas a los 2 grados en localidades sobre los 3800 metros de altura y valores cercanos a los 8 grados bajo cero en zonas sobre los 4000 metros.\nLEA TAMBIÉN:[Riesgo para cultivos podría extenderse hasta mayo: tres productos más expuestos]\nEn tanto, el viernes 9 de mayo, nuevamente, se estiman temperaturas de mínimas cercanas a los 2 grados, pero esta vez en zonas sobre los 3809 metros de altura, así como 10 grados bajo cero sobre los 4000 metros.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment"],
+  "topics": [
+    "Weather->weather warning",
+    "Environment->climate change",
+    "Environment->water",
+    "Environment->energy resources"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Servicio Nacional de Meteorología",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Senamhi",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Unión",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "000910",
+            "exchange": "KRX"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:20:39.066+03:00",
+  "updated": "2025-05-07T23:27:33.000+00:00"
+}

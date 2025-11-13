@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "a3db3c542f8d2c631d242ff985bbc4aa347bbe1f",
+    "url": "https://bryansktoday.ru/article/246165",
+    "site_full": "bryansktoday.ru",
+    "site": "bryansktoday.ru",
+    "site_section": "https://www.bryansktoday.ru/dayvideo",
+    "site_categories": ["media"],
+    "section_title": "Самое популярное видео из Брянска сегодня",
+    "site_title": "Новости Брянска",
+    "title": "Брянским школьникам снижали баллы ЕГЭ за экстремизм и иностранные слова",
+    "title_full": "Брянским школьникам снижали баллы ЕГЭ за экстремизм и иностранные слова",
+    "published": "2025-06-26T10:23:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://bryansktoday.ru/uploads/common/0c16bdd7652c90d2_S.jpg",
+    "performance_score": 0,
+    "domain_rank": 128699,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a3db3c542f8d2c631d242ff985bbc4aa347bbe1f",
+  "url": "https://bryansktoday.ru/article/246165",
+  "ord_in_thread": 0,
+  "author": "Максим Рокатанский",
+  "published": "2025-06-26T10:23:00.000+03:00",
+  "title": "Брянским школьникам снижали баллы ЕГЭ за экстремизм и иностранные слова",
+  "text": "Сочинения брянских выпускников на ЕГЭ по русскому языку, как и у их сверстников по всей России, этим летом оценивались по новым критериям. В частности, появилось уточнение критерия «соблюдению этических норм». Баллы можно было потерять за противозаконные высказывания, пропаганду экстремизма, фашизма и нетрадиционных ценностей, а также употребление нецензурной брани и иностранных слов, имеющих аналоги в русском языке.\nВокруг последнего в блогах и соцсетях сейчас началась натуральное бурление мыслящей слизи под лозунгом «Иностранные слова в сочинении на ЕГЭ приравняли к оправданию ФАШИЗМА!». В качестве эксперта, в частности, выступает блогер-научпопер филолог Светлана Гурьянова, назвавшая нововведение попыткой государства «регламентировать жизнь людей и их речь».\nПочему общественность дремала целый год, нам совершенно непонятно. Ведь нарушения в блоке «речевое оформление сочинения», из-за которых школьник может потерять баллы на экзамене, прописали еще прошлым летом. И, разумеется, то, что нарушения перечислены через запятую, вовсе не ставит знак равенства между явлениями, к которым они относятся. Филологу следовало бы это знать.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->educational testing and examinations",
+    "Education->students",
+    "Education->upper secondary education",
+    "Social Issue->social problem",
+    "Social Issue->teenagers",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://ria.ru/20240825/ege-1968306711.html",
+    "https://www.ria.ru/20240825/ege-1968306711.html"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T10:35:00.265+03:00",
+  "updated": "2025-06-26T07:38:07.000+00:00"
+}

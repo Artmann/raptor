@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "0ecb6e9013b6f7c422ed0c5d26c9c9fbfae3a56d",
+    "url": "https://www.urdupoint.com/en/pakistan/pha-intensifies-horticulture-work-to-make-raw-2063873.html",
+    "site_full": "www.urdupoint.com",
+    "site": "urdupoint.com",
+    "site_section": "https://www.urdupoint.com/en/sitemap/news.rss",
+    "site_categories": [
+      "media",
+      "religion",
+      "books_and_literature",
+      "islam",
+      "entertainment"
+    ],
+    "section_title": "UrduPoint News",
+    "site_title": "UrduPoint.com, Urdu News, Poetry Technology Sports, Health and more",
+    "title": "PHA Intensifies Horticulture Work To Make Rawalpindi Greener, More Beautiful - UrduPoint",
+    "title_full": "PHA Intensifies Horticulture Work To Make Rawalpindi Greener, More Beautiful - UrduPoint",
+    "published": "2025-10-15T14:10:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PK",
+    "main_image": "https://photo-cdn.urdupoint.com/images/UrduPoint-English-22.png",
+    "performance_score": 0,
+    "domain_rank": 7380,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0ecb6e9013b6f7c422ed0c5d26c9c9fbfae3a56d",
+  "url": "https://www.urdupoint.com/en/pakistan/pha-intensifies-horticulture-work-to-make-raw-2063873.html",
+  "ord_in_thread": 0,
+  "author": "Mohammad Ali",
+  "published": "2025-10-15T14:10:00.000+03:00",
+  "title": "PHA Intensifies Horticulture Work To Make Rawalpindi Greener, More Beautiful - UrduPoint",
+  "text": "Mohammad Ali (@ChaudhryMAli88) Published October 15, 2025 | 04:10 PM\nRAWALPINDI, (UrduPoint / Pakistan Point News - 15th Oct, 2025) The Parks and Horticulture Authority (PHA) Rawalpindi has accelerated its beautification drive to enhance the city’s green landscape and provide citizens with a clean and refreshing environment.\nOn the special directives of PHA Director General Ahmed Hassan Ranjha, extensive horticulture and landscaping work has been carried out along the green belts of Old Airport VIP Road, transforming the area into a vibrant stretch of colour and greenery.\nPHA DG Ranjha said on Wednesday that the ongoing plantation and flower-bedding efforts had significantly enhanced the visual appeal of the city, adding that the blossoming seasonal flowers had become a source of delight for residents and visitors alike.\nHe said the Authority was striving to make Rawalpindi the most beautiful and greenest city in Punjab. He reiterated that providing citizens with a healthy and pleasant recreational environment was among the PHA’s foremost priorities.\nHe further directed field staff to maintain strict vigilance and ensure the timely upkeep of plants, parks, and green spaces, adding that negligence in maintenance work would not be tolerated.\n“The PHA staff are working round the clock to preserve Rawalpindi’s natural charm and create spaces that bring people closer to nature,” Ranjha added.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->nature"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://twitter.com/ChaudhryMAli88",
+    "https://www.twitter.com/ChaudhryMAli88"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mohammad Ali",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Ahmed Hassan Ranjha",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Punjab",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Parks and Horticulture Authority",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:57:59.589+03:00",
+  "updated": "2025-10-16T14:11:49.000+03:00"
+}

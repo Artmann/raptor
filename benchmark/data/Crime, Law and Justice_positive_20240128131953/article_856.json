@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "f4d7dd3a3302f82f34932dd75c1d1c7fcc1fbd07",
+    "url": "https://krdo.com/news/2023/12/29/pueblo-police-reports-7-decrease-in-motor-vehicle-theft-this-year/",
+    "site_full": "krdo.com",
+    "site": "krdo.com",
+    "site_section": "https://krdo.com/feed",
+    "site_categories": ["media"],
+    "section_title": "KRDO",
+    "title": "Pueblo Police reports 7% decrease in motor vehicle theft this year",
+    "title_full": "Pueblo Police reports 7% decrease in motor vehicle theft this year",
+    "published": "2023-12-30T01:23:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://krdo.b-cdn.net/2023/12/122923-5P-SOTVO.00_00_11_23.Still001.jpg",
+    "performance_score": 0,
+    "domain_rank": 17886,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f4d7dd3a3302f82f34932dd75c1d1c7fcc1fbd07",
+  "url": "https://krdo.com/news/2023/12/29/pueblo-police-reports-7-decrease-in-motor-vehicle-theft-this-year/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Emily Coffey",
+  "published": "2023-12-30T01:23:00.000+02:00",
+  "title": "Pueblo Police reports 7% decrease in motor vehicle theft this year",
+  "text": "Pueblo Police reports 7% decrease in motor vehicle theft this year\nPUEBLO, Colo. (KRDO) - The Pueblo Police Department (PPD) is reporting an overall seven percent decrease in motor vehicle thefts this year, attributing it to a crackdown on the crime, as well as a change in the gravity of the crime from a misdemeanor to a felony.\nThat 7% decrease would have been bigger if it weren't for a design flaw in Kia and Hyundai vehicles that made them easier to steal, according to Sargeant Frank Ortega with the Pueblo Police Department.\n\"Ideally, we would not have the vehicle stolen at all, but if the manufacturers are designing it in a way that makes it easy to steal, there's only so much that the police can do in regards to that,\" Ortega said.\nWhile there is an overall decrease in car theft,\nPueblo police also report recovering nearly double the monetary amount in car theft than last year, rising from $949,450 thousand to $1,844,946 million.\nThat's a 94% increase from last year.\n\"We're seeing it increase because of the ease of stealing those two manufacturers' vehicles, and then we're seeing an increase, obviously, too, because we're catching them,\" Ortega said of the steep increase.\nOrtega detailed that they had been working with other agencies and making motor vehicle theft a priority for the team. Ortega also said that he's noticed car theft is often paired with more serious crimes in the area.\n\"People have to realize that the reason they're stealing cars sometimes is as simple as to have transportation,\" Ortega said. \"But most of the time it's used to be involved in other criminal activity. That's why they steal the car.\"\nOrtega recalled two cases in the last few weeks that have escalated into physical violence or shooting, when people had tried to locate cars themselves or law enforcement had been caught in the crossfire while trying to locate a stolen car.\n\"The only reason I want to highlight that is to warn people [so they] don't try to recover their own car because, you know what I mean, it is dangerous,\" Ortega said. \"But that's part of the job that we do, is we deal with dangerous situations.\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Crime, Law and Justice"],
+  "external_links": [
+    "https://twitter.com/PuebloPolice1/status/1740556935576076592",
+    "https://www.twitter.com/PuebloPolice1/status/1740556935576076592"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "sargeant frank ortega",
+        "sentiment": "none"
+      },
+      {
+        "name": "ortega",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "pueblo police",
+        "sentiment": "negative"
+      },
+      {
+        "name": "kia",
+        "sentiment": "none"
+      },
+      {
+        "name": "pueblo police department",
+        "sentiment": "none"
+      },
+      {
+        "name": "hyundai",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "pueblo",
+        "sentiment": "none"
+      },
+      {
+        "name": "colo.",
+        "sentiment": "none"
+      },
+      {
+        "name": "pueblo",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-30T01:31:21.665+02:00",
+  "updated": "2023-12-30T01:31:21.665+02:00"
+}

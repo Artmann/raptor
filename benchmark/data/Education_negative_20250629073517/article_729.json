@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "3f6c212893b878b740cf26a141fde0c1f1697b02",
+    "url": "https://www.saarbruecker-zeitung.de/saarland/landespolitik/arbeitskammerbericht-kritisiert-schulpolitik-im-saarland_aid-129983369",
+    "site_full": "www.saarbruecker-zeitung.de",
+    "site": "saarbruecker-zeitung.de",
+    "site_section": "https://saarbruecker-zeitung.de",
+    "site_categories": ["media", "top_news_de", "top_news"],
+    "section_title": "Nachrichten für das Saarland, Deutschland und die Welt",
+    "site_title": "Nachrichten für das Saarland, Deutschland und die Welt",
+    "title": "Arbeitskammerbericht kritisiert Schulpolitik im Saarland",
+    "title_full": "Arbeitskammerbericht kritisiert Schulpolitik im Saarland",
+    "published": "2025-06-26T14:10:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.saarbruecker-zeitung.de/imgs/03/2/3/5/5/4/5/1/5/7/tok_cdbaf6c13cce890f21e421963e83400d/w1200_h630_x1024_y713_DPA_dpa_bs75zya2ov-v10-ax-s2048-49b2ceae039c2e5b.jpeg",
+    "performance_score": 0,
+    "domain_rank": 21574,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3f6c212893b878b740cf26a141fde0c1f1697b02",
+  "url": "https://www.saarbruecker-zeitung.de/saarland/landespolitik/arbeitskammerbericht-kritisiert-schulpolitik-im-saarland_aid-129983369",
+  "ord_in_thread": 0,
+  "author": "Christoph Schreiner",
+  "published": "2025-06-26T14:10:00.000+03:00",
+  "title": "Arbeitskammerbericht kritisiert Schulpolitik im Saarland",
+  "text": "Die Arbeitskammer (AK) des Saarlandes mahnt, die Bildung im Saarland neu zu denken. In ihrem am Mittwoch vorgestellten Jahresbericht an die Landesregierung (Titel: „Bildungspolitik im Wandel“) fordert sie diese auf, dauerhaft mehr Geld ins Bildungssystem zu stecken. Die Situation im Saarland sei weiterhin „alarmierend“, so der AK-Vorstandsvorsitzende Jörg Caspar.\nJeder zehnte ohne Schulabschluss\nJeder zehnte Jugendliche hat im Saarland demnach keinen Schulabschluss, binnen zehn Jahren hat sich die Zahl verdoppelt. Auch brechen laut Kammer gut 30 Prozent der Lehrlinge ab (42 Prozent von ihnen besitzen nur den Hauptschulabschluss) – einer der Gründe, weshalb im Saarland laut Kammerzahlen jeder Fünfte auch mit 35 Jahren noch keinen qualifizierten Berufsabschluss vorweisen kann. Trotz Jobmessen und diversen Qualifizierungsmaßnahmen fehle im Saarland die „strategische Bündelung“ der Aktivitäten in der beruflichen Bildung, betont die Leiterin der AK-Abteilung Bildungspolitik, Melanie Blatter.\nAus Kammersicht sind die Herausforderungen, vor denen das Land ungeachtet bereits geleisteter Bildungsinvestitionen – sie stiegen, ähnlich wie im Bundesschnitt, seit 2010 bereits um gut 75 Prozent – immens. Alleine in Kitas fehlen laut Arbeitskammer in den nächsten fünf Jahren rund 2500 Fachkräfte, um den Status quo zu halten. Jedes acht Kind zwischen drei und sechs Jahren habe im Saarland keinen Kitaplatz. In ihrem Jahresbericht fordert die Kammer, mehr Kitas zu „Familienzentren“ auszubauen, um Unterstützungsangebote für Eltern und Kinder zu bündeln und so früher für mehr Chancengerechtigkeit zu sorgen.\nKeine Überprüfung der Bildungsprogramme auf ihre Wirkung\nDie Kammer kritisiert, dass viele Bildungsprogramme „nicht transparent evaluiert“ würden, sodass unklar bleibe, welche Wirkung sie überhaupt hätten. „Wir brauchen also ein Bildungsmonitoring“, sodass sinnvolle Programme auch verstetigt würden, so Caspar. Bis heute hat die Landesregierung, moniert Melanie Blatter, zudem keine transparente Bedarfsprognose vorgelegt, auf deren Basis sich für Lehramtsanwärter abschätzen lasse, welche Mangelfächer es künftig an den Schulen geben wird.\n„Erosoion der Demokratie“\nMit Blick auf die Transformation, den Arbeitsmarkt und die drohende „Erosion der Demokratie“ seien die Herausforderungen für das Land zwar schon groß genug. Dennoch müsse es mit Blick auf Investitionen in die Bildung „nochmal einen Wumms geben“, folgert Thomas Otto, Hauptgeschäftsführer der Arbeitskammer. Den generellen Fachkräftemangel werde man langfristig ohne mehr Erzieher und Lehrer kaum lösen, so Otto.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Politics", "Social Issue"],
+  "topics": [
+    "Education->educational grading",
+    "Education->school",
+    "Politics->education policy",
+    "Politics->local government and authority",
+    "Politics->government",
+    "Social Issue->social condition",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:22:15.091+03:00",
+  "updated": "2025-06-27T12:05:54.000+00:00"
+}

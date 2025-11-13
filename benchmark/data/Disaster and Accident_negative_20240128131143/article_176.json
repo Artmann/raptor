@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "402f20a6d9a51f7378c6d388c2324cebc2edf34d",
+    "url": "https://jis.gov.jm/road-fatalities-down-2/",
+    "site_full": "jis.gov.jm",
+    "site": "jis.gov.jm",
+    "site_section": "https://jis.gov.jm/feed/",
+    "site_categories": ["media"],
+    "section_title": "Jamaica Information Service",
+    "title": "Road Fatalities Down",
+    "title_full": "Road Fatalities Down",
+    "published": "2023-12-28T22:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "JM",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 31215,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "402f20a6d9a51f7378c6d388c2324cebc2edf34d",
+  "url": "https://jis.gov.jm/road-fatalities-down-2/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Chris Patterson",
+  "published": "2023-12-28T22:00:00.000+02:00",
+  "title": "Road Fatalities Down",
+  "text": "Road Fatalities DownBy: December 28, 2023 ,\nThe Full Story\nA total of 417 road fatalities have been recorded on the nation’s road as at December 28, resulting from 377 fatal crashes.\nThe fatalities represent a 14 per cent decline, while fatal crashes have decreased by 11 per cent when compared to the corresponding period last year.\nWestmoreland, St. Catherine and St. Andrew accounted for the highest number of fatalities to date, while males accounted for 88 per cent of the fatalities.\nThe data, released by the Road Safety Unit in the Island Traffic Authority, indicate that vulnerable road users, which include pedestrians, pedal cyclists, motorcyclists, and pillions, accounted for 59 per cent of the road users killed since the start of the year.\nA breakdown of the figure indicated that pedestrians accounted for 18 per cent; pedal cyclists, six per cent; motorcyclists 31 per cent; and pillion passengers accounted for four per cent.\nAlso, private motor vehicle drivers accounted for 18 per cent; private motor vehicle passengers, 12 per cent; public passenger vehicle drivers, two per cent; public passenger vehicle passengers, five per cent; and commercial motor vehicle passengers, two per cent.\nThe Unit is urging road users to obey the rules of the road and always take caution, despite road crashes and fatalities trending down.\nIn 2022, a total of 488 road fatalities were recorded on the nation’s roadways.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "andrew",
+        "sentiment": "none"
+      },
+      {
+        "name": "westmoreland",
+        "sentiment": "none"
+      },
+      {
+        "name": "catherine",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "island traffic authority",
+        "sentiment": "none"
+      },
+      {
+        "name": "road safety unit",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:13:18.061+02:00",
+  "updated": "2023-12-29T00:13:18.061+02:00"
+}

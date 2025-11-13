@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "6104144962596d0672de0921d004ab6049e5a9cd",
+    "url": "https://patch.com/alabama/tuscaloosa/synovus-bank-becomes-adopt-school-partner-tuscaloosa-county-high-school",
+    "site_full": "patch.com",
+    "site": "patch.com",
+    "site_section": "https://patch.com/alabama/tuscaloosa",
+    "site_categories": ["media", "top_news_us", "top_news"],
+    "section_title": "Tuscaloosa News, Breaking News in Tuscaloosa, AL",
+    "site_title": "Patch - Everything Local: Breaking News, Events, Discussions",
+    "title": "Synovus Bank Becomes Adopt-A-School Partner For Tuscaloosa County High School",
+    "title_full": "Synovus Bank Becomes Adopt-A-School Partner For Tuscaloosa County High School",
+    "published": "2025-09-18T00:28:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://patch.com/img/cdn20/users/24390419/20250917/052758/styles/patch_image/public/screen-shot-2025-09-17-at-42123-pm___17172645773.png",
+    "performance_score": 1,
+    "domain_rank": 3151,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 10,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6104144962596d0672de0921d004ab6049e5a9cd",
+  "url": "https://patch.com/alabama/tuscaloosa/synovus-bank-becomes-adopt-school-partner-tuscaloosa-county-high-school",
+  "ord_in_thread": 0,
+  "author": "Ryan Phillips",
+  "published": "2025-09-18T00:28:00.000+03:00",
+  "title": "Synovus Bank Becomes Adopt-A-School Partner For Tuscaloosa County High School",
+  "text": "Schools\nSynovus Bank Becomes Adopt-A-School Partner For Tuscaloosa County High School\nSynovus Bank has adopted Tuscaloosa County High School through The Chamber of Commerce of West Alabama's Adopt-A-School program.\nNORTHPORT, AL — Synovus Bank has adopted Tuscaloosa County High School through The Chamber of Commerce of West Alabama’s Adopt-A-School program, marking the bank’s second partnership with a local school.\nClick here to subscribe to our free daily newsletter and breaking news alerts.\nThe bank already partners with Verner Elementary and will now extend its support to TCHS, where it plans to provide volunteers for financial literacy sessions, incentives for strong attendance and achievement, assistance with school activities, and help organizing a major fundraiser.\nFind out what's happening in Tuscaloosafor free with the latest updates from Patch.\n“At Tuscaloosa County High School, we believe that strong schools build strong communities,” said Ginger Martz, an honors chemistry teacher at TCHS. “The Adopt-A-School partnership between Tuscaloosa County High School and Synovus Bank will be more than a collaboration—it will be an investment in our students’ future.”\nMartz added that education forms the foundation for a thriving community and emphasized that the partnership aims to equip students with essential financial literacy skills.\nFind out what's happening in Tuscaloosafor free with the latest updates from Patch.\nThe Adopt-A-School program connects businesses and organizations with area schools to strengthen education through community support.\nTCHS also receives Adopt-A-School support from Remmert & Company and Shelton State Community College.\nHave a news tip or suggestion on how I can improve Tuscaloosa Patch? Maybe you're interested in having your business become one of the latest sponsors for Tuscaloosa Patch? Email all inquiries to me at ryan.phillips@patch.com.\nGet more local news delivered straight to your inbox. Sign up for free Patch newsletters and alerts.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->parents group",
+    "Education->school",
+    "Education->students",
+    "Social Issue->communities",
+    "Social Issue->charity",
+    "Social Issue->social services",
+    "Human Interest->ceremony"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Tuscaloosafor",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Synovus Bank Becomes Adopt-A-School Partner For Tuscaloosa County High School\nSynovus Bank",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Chamber of Commerce of West Alabama",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Verner Elementary",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Synovus Bank",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": ["top_news_us", "top_news"],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": ["Northport", "Tuscaloosa"],
+      "state": ["Alabama"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:13:03.113+03:00",
+  "updated": "2025-09-19T09:04:49.000+03:00"
+}

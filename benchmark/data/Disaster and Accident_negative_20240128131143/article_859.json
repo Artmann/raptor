@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "63dae36dd0fb485046b15de138388cd0d81f164b",
+    "url": "https://www.kpax.com/news/crime-and-courts/polson-police-department-investigating-recent-gun-related-incidents",
+    "site_full": "www.kpax.com",
+    "site": "kpax.com",
+    "site_section": "https://www.kpax.com",
+    "site_categories": ["media"],
+    "section_title": "Homepage",
+    "title": "Polson Police Department investigating recent gun-related incidents",
+    "title_full": "Polson Police Department investigating recent gun-related incidents",
+    "published": "2023-12-28T21:49:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ewscripps.brightspotcdn.com/dims4/default/64ed779/2147483647/strip/true/crop/1024x538+0+22/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediaassets.kpax.com%2Fcordillera-network%2Fwp-content%2Fuploads%2Fsites%2F13%2F2018%2F10%2F25111454%2FPolson-police-still.jpg",
+    "performance_score": 0,
+    "domain_rank": 10733,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "63dae36dd0fb485046b15de138388cd0d81f164b",
+  "url": "https://www.kpax.com/news/crime-and-courts/polson-police-department-investigating-recent-gun-related-incidents",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "MTN News",
+  "published": "2023-12-28T21:49:00.000+02:00",
+  "title": "Polson Police Department investigating recent gun-related incidents",
+  "text": "POLSON — A separate pair of firearms incidents are being investigated in Polson, one involving gunfire and another a burglary. Law enforcement responded to the Apostolic United Pentecost Church building on 8th Avenue West on December 21, 2023, for reports that gunfire had hit the building. Polson Police Chief George Simpson says officers confirmed the building — which was occupied at the time — had been hit by gunfire. No injuries were reported. The second incident happened on Christmas Day when Polson officers responded to a burglary alarm at the Depoe Junction pawn shop on Kari Lane. The front doors appeared to have been forced open by a vehicle and the business owner reported that several firearms had been stolen. Chief Simpson says a vehicle used in the theft was later recovered by the CSKT Tribal Police outside of Polson and that guns were found inside the vehicle. Anyone with information about either case is asked to call 406-883-8211 and speak with Captain Mathieu Gfroerer. Information can also be emailed to [mgfroerer@cityofpolson.com](mailto:mgfroerer@cityofpolson.com). “Any incident involving gun violence, religious institutions, or firearm theft is of the utmost importance to us and we will continue to vigorously investigate these cases with our law enforcement partners and every resource available to us,” Chief Simpson stated. Chief Simpson says both investigations are ongoing and no further information is being released at this time.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "george simpson",
+        "sentiment": "none"
+      },
+      {
+        "name": "mathieu gfroerer",
+        "sentiment": "none"
+      },
+      {
+        "name": "polson",
+        "sentiment": "none"
+      },
+      {
+        "name": "kari lane",
+        "sentiment": "none"
+      },
+      {
+        "name": "simpson",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "polson police department",
+        "sentiment": "negative"
+      },
+      {
+        "name": "polson police",
+        "sentiment": "none"
+      },
+      {
+        "name": "cskt tribal police",
+        "sentiment": "none"
+      },
+      {
+        "name": "apostolic united pentecost church",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "polson",
+        "sentiment": "none"
+      },
+      {
+        "name": "8th avenue west",
+        "sentiment": "none"
+      },
+      {
+        "name": "depoe junction",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:19:38.998+02:00",
+  "updated": "2023-12-29T01:19:38.998+02:00"
+}

@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "d334ddcd3113b136df6ca05b3ef922f72b5b8c3c",
+    "url": "https://www.dailyexcelsior.com/poshan-maah-2025-launched-with-awareness-programme-at-dansal/",
+    "site_full": "www.dailyexcelsior.com",
+    "site": "dailyexcelsior.com",
+    "site_section": "https://www.dailyexcelsior.com",
+    "site_categories": ["media", "education", "business"],
+    "section_title": "Daily Excelsior - Latest News | Breaking News | Jammu , Kashmir and Ladakh",
+    "site_title": null,
+    "title": "Poshan Maah 2025 launched with awareness programme at Dansal",
+    "title_full": "Poshan Maah 2025 launched with awareness programme at Dansal",
+    "published": "2025-09-18T03:12:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 69993,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d334ddcd3113b136df6ca05b3ef922f72b5b8c3c",
+  "url": "https://www.dailyexcelsior.com/poshan-maah-2025-launched-with-awareness-programme-at-dansal/",
+  "ord_in_thread": 0,
+  "author": "Daily Excelsior",
+  "published": "2025-09-18T03:12:00.000+03:00",
+  "title": "Poshan Maah 2025 launched with awareness programme at Dansal",
+  "text": "Excelsior Correspondent\nJAMMU, Sept 17: To mark the beginning of the 8th Rashtriya Poshan Maah, Poshan Project Dansal in collaboration with the Health Department today organised a special programme at Anganwadi Centres Jagti Jari and Bypass A.\nThe programme was inaugurated by CDPO Dansal, Ranbireshwar Singh Jamwal, along with health officials.\nThe awareness drive focused on themes including addressing obesity, grassroots empowerment through “Vocal for Local”, early childhood care and education, Infant and Young Child Feeding (IYCF) practices, convergent actions, digitization, and men-streaming.\nIn his address, the CDPO stressed the importance of proper nutrition for children, pregnant women and lactating mothers.\nHe said the convergence of Poshan Maah with the Health Department’s “Swasth Naari, Sashakt Parivar Abhiyaan” is a significant step to address issues of maternal, adolescent, and child nutrition.\nDoctors from PHC Dansal conducted awareness sessions highlighting IYCF practices and the importance of exclusive breastfeeding for the first six months.\nA recipe competition was also held, where nutritious food items were prepared, and winners were felicitated.\nOn the occasion, health check-ups were carried out, free medicines were distributed, and nutrition-cum-awareness stalls were set up.\nThe programme also highlighted flagship schemes like PMMVY and Ladli Beti, with focus on achieving complete coverage.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Health", "Education", "Social Issue"],
+  "topics": [
+    "Health->government health care",
+    "Health->health organisation",
+    "Health->health care approach",
+    "Education->students",
+    "Education->social learning",
+    "Education->school",
+    "Social Issue->children",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ranbireshwar Singh Jamwal",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Health Department",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:40:58.310+03:00",
+  "updated": "2025-09-18T08:47:44.000+03:00"
+}

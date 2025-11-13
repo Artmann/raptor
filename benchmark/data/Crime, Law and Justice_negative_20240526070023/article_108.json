@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "f76a02db60e0388d32d4d059b78cf39cc03369d1",
+    "url": "https://www.cbsnews.com/pittsburgh/news/penn-state-football-player-abdul-carter-accused-assault",
+    "site_full": "www.cbsnews.com",
+    "site": "cbsnews.com",
+    "site_section": "https://www.cbsnews.com/pittsburgh/sports/penguins/",
+    "site_categories": ["media", "television", "entertainment", "top_news"],
+    "section_title": "Latest Penguins sports news and headlines - CBS Pittsburgh",
+    "title": "Penn State football player accused of assaulting tow truck driver - CBS Pittsburgh",
+    "title_full": "Penn State football player accused of assaulting tow truck driver - CBS Pittsburgh",
+    "published": "2024-04-25T19:47:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/25/147c4b1e-87f1-4405-ad96-43f49696bc40/thumbnail/1200x630/96ee5245599055cc6f914f4ad2bb8dee/gettyimages-1888256992.jpg?v=63c131a0051f3823d92b0d1dffb5e0e4",
+    "performance_score": 0,
+    "domain_rank": 188,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f76a02db60e0388d32d4d059b78cf39cc03369d1",
+  "url": "https://www.cbsnews.com/pittsburgh/news/penn-state-football-player-abdul-carter-accused-assault",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Pittsburgh",
+  "published": "2024-04-25T19:47:00.000+03:00",
+  "title": "Penn State football player accused of assaulting tow truck driver - CBS Pittsburgh",
+  "text": "PITTSBURGH (KDKA) — Star Penn State football player Abdul Carter is accused of assaulting a tow truck driver.\nThe 20-year-old football player from Philadelphia is facing a simple assault charge in connection with the March 16 incident, WTAJ reported .\nAccording to the TV station, a tow truck driver told police officers that he noticed a Dodge Challenger parked in a lot without a parking pass at the Aspen State College apartment complex. The parking lot requires all residents to register their vehicles and obtain a parking pass.\nWTAJ reported, citing the criminal complaint, that when the driver attempted to tow the vehicle, which belonged to Carter, the vehicle's alarm went off and Carter came outside. Carter asked the tow truck driver what needed to be done to keep the car, according to the criminal complaint obtained by the TV station.\nThe driver reportedly told Carter that his vehicle would not be towed if he paid a drop fee. In the complaint obtained by WTAJ, police said Carter went inside to get the money and when he returned, he asked the tow truck driver for his credentials because Dodge Challengers are frequently stolen. The tow truck driver reportedly provided his credentials and asked the football player to fill out paperwork to drop the vehicle.\nThe interaction reportedly quickly escalated, with Carter being accused of yelling at the tow truck driver and grabbing him from behind, carrying him across the parking lot and throwing him into the grass.\nCarter's preliminary hearing is scheduled for May 22.\nLast season, Carter played in 13 games, tallying 48 tackles, 5.5 tackles for loss and 4.5 sacks. He was a first-team All-Big Ten selection. He came to Penn State after dominating the prep scene at La Salle College High School in Philadelphia.\nMore from CBS News Pro-Palestinian protesters march through Philadelphia at Temple, Penn Man fatally struck by car in Philadelphia's University City section, police say Woman charged after striking 5 pedestrians with car in Northeast Philly, police say Drexel University program helps students with autism find jobs after graduation In: Pennsylvania Football Penn State Assault Penn State University College Football Philadelphia Michael Guise Michael Guise is a web producer for KDKA-TV. He has worked for the station since 2019.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.wtaj.com/sports/nittany-nation/new-details-penn-state-football-player-allegedly-assaults-tow-truck-driver/",
+    "https://www.wtaj.com/sports/nittany-nation/new-details-penn-state-football-player-allegedly-assaults-tow-truck-driver",
+    "https://wtaj.com/sports/nittany-nation/new-details-penn-state-football-player-allegedly-assaults-tow-truck-driver/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "abdul carter",
+        "sentiment": "negative"
+      },
+      {
+        "name": "carter",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "penn state",
+        "sentiment": "negative"
+      },
+      {
+        "name": "cbs pittsburgh pittsburgh",
+        "sentiment": "negative"
+      },
+      {
+        "name": "star penn state",
+        "sentiment": "negative"
+      },
+      {
+        "name": "kdka",
+        "sentiment": "negative"
+      },
+      {
+        "name": "dodge challenger",
+        "sentiment": "none"
+      },
+      {
+        "name": "aspen state college",
+        "sentiment": "none"
+      },
+      {
+        "name": "wtaj",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "philadelphia",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:04:03.041+03:00",
+  "updated": "2024-04-26T05:45:26.617+03:00"
+}

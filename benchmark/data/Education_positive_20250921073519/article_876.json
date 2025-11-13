@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "e96289dc2b290ef22ef12c0af8332e9b7dae5b48",
+    "url": "https://vladimir.mk.ru/social/2025/09/18/vo-vladimirskikh-letnikh-lageryakh-khotyat-uvelichit-chislo-mest.html",
+    "site_full": "vladimir.mk.ru",
+    "site": "mk.ru",
+    "site_section": "http://www.mk.ru/rss/news/index.xml",
+    "site_categories": ["media", "top_news_ru", "top_news"],
+    "section_title": "Новостная лента - Московский Комсомолец",
+    "site_title": "Новости Владимира и Владимирской области - МК во Владимире",
+    "title": "Во владимирских летних лагерях хотят увеличить число мест",
+    "title_full": "Во владимирских летних лагерях хотят увеличить число мест",
+    "published": "2025-09-18T09:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://static.mk.ru/upload/entities/2025/09/17/20/articles/facebookPicture/66/f0/fd/71/3edce14c9462023d4ed1d7b5d161ef78.jpg",
+    "performance_score": 0,
+    "domain_rank": 3207,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e96289dc2b290ef22ef12c0af8332e9b7dae5b48",
+  "url": "https://vladimir.mk.ru/social/2025/09/18/vo-vladimirskikh-letnikh-lageryakh-khotyat-uvelichit-chislo-mest.html",
+  "ord_in_thread": 0,
+  "author": "Алена Кабаева",
+  "published": "2025-09-18T09:00:00.000+03:00",
+  "title": "Во владимирских летних лагерях хотят увеличить число мест",
+  "text": "Депутаты Заксобрания Владимирской области за лето проверили 22 детских лагеря, включая три частных. Главная задача - увеличить количество детей, которые могут там отдохнуть.\nПроверка показала, что многим учреждениям нужны дополнительные деньги. Требуется капитальный ремонт старых корпусов, обновление столовых, спортивных площадок и всего оборудования.\nНапример, в Вязниковском районе лагерь может принимать до 250 детей за смену вместо нынешних 145. Но для этого необходимы новые жилые здания.\nДепутаты предложили правительству области увеличить финансирование, разработать типовые проекты быстровозводимых корпусов и привлечь инвесторов для модернизации инфраструктуры детского отдыха.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->students",
+    "Education->school",
+    "Social Issue->communities",
+    "Social Issue->social services",
+    "Social Issue->children"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ru", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:12:19.319+03:00",
+  "updated": "2025-09-19T10:05:54.000+03:00"
+}

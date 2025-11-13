@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "c11daf01d2290ed4deb8ef8a5dcdeb06b3e86683",
+    "url": "https://www.power-technology.com/news/eus-fossil-fuel-import-dependency-halved-2040-report/",
+    "site_full": "www.power-technology.com",
+    "site": "power-technology.com",
+    "site_section": "https://www.power-technology.com/news",
+    "site_categories": ["media", "business", "green_solutions"],
+    "section_title": "News Archives - Power Technology",
+    "site_title": "Power Technology | News on Renewable, Nuclear, Fossil, Technology, Market Data",
+    "title": "EU's fossil-fuel import dependency to be halved by 2040 - report",
+    "title_full": "EU's fossil-fuel import dependency to be halved by 2040 - report",
+    "published": "2025-10-16T13:14:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.power-technology.com/wp-content/uploads/sites/21/2025/10/Power-4-16Oct-shutterstock_2152931113.jpg",
+    "performance_score": 0,
+    "domain_rank": 49979,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c11daf01d2290ed4deb8ef8a5dcdeb06b3e86683",
+  "url": "https://www.power-technology.com/news/eus-fossil-fuel-import-dependency-halved-2040-report/",
+  "ord_in_thread": 0,
+  "author": "smishra",
+  "published": "2025-10-16T13:14:00.000+03:00",
+  "title": "EU's fossil-fuel import dependency to be halved by 2040 - report",
+  "text": "The EU’s reliance on fossil-fuel imports could be reduced by half by 2040, with electrification being the primary contributing factor, reported Ember.\nThe growth of wind and solar energy has already saved the region €59bn ($68.79bn) in fossil imports between 2019 and 2024, making electricity production increasingly homegrown.\nDiscover B2B Marketing That Performs\nCombine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms.\nDespite this progress, 82% of fossil fuels are still used outside the power sector, especially in the transport, heating, and industry sectors.\nElectrifying these sectors will provide a straightforward path to achieving energy independence.\nDuring the 2021-24 energy crisis, the EU paid an additional €930bn for fossil-fuel imports, as mentioned in Ember’s report, ‘Shockproof: how electrification can strengthen EU energy security’.\nEmber senior energy analyst Chris Rosslowe said: “Imported fossil fuels are no basis for a secure and affordable energy system – something Europe has learned the hard way. Homegrown energy sources, such as wind and solar, take on more strategic value in a world faced by frequent crises.”\nUS Tariffs are shifting - will you react or anticipate?\nDon’t let policy changes catch you off guard. Stay proactive with real-time data and expert analysis.\nBy GlobalData“The full potential of Europe’s homegrown power supply is being wasted by a lack of urgency to electrify. Unblocking electrification is the game-changing move that can shield the continent from overreliance on volatile fossil-fuel suppliers.”\nCurrently, imported fossil fuels account for 58% of the EU’s energy needs, surpassing other major economies such as China with 24% and India with 37%.\nEven though the EU has decreased its dependence on Russian supplies, new risks have surfaced, and the overall share of fossil-fuel imports remains unchanged.\nThe US is the top supplier of oil and liquefied natural gas (LNG), with the top four gas providers controlling 81% of imports, raising concerns about potential manipulation, says Ember.\nThe EU’s fifth-largest gas supplier, Qatar, recently issued a warning to reduce its LNG supply unless environmental and labour regulations are relaxed.\nMeanwhile, the US has been leveraging energy in trade discussions.\nThe report states that only 22% of EU energy is electrified in comparison to 28% in China. Countries such as Norway (47%) and Sweden (33%) demonstrate the possible progress.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment", "Economy, Business and Finance"],
+  "topics": [
+    "Environment->energy resources",
+    "Environment->sustainability",
+    "Economy, Business and Finance->economy",
+    "Economy, Business and Finance->energy and resource"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://ember-energy.org/latest-updates/electrification-key-to-europes-energy-security/",
+    "https://ember-energy.org/latest-updates/electrification-key-to-europes-energy-security",
+    "https://www.ember-energy.org/latest-updates/electrification-key-to-europes-energy-security/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Chris Rosslowe",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Europe",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "EU",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "EU",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:17:54.040+03:00",
+  "updated": "2025-10-16T13:58:37.000+03:00"
+}

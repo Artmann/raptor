@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "edf7d3e449db776811d3152a5248d442a90921c1",
+    "url": "https://statenews.com/article/2025/09/union-of-tenure-system-faculty-officially-recognized-by-msu-after-years-of-negotiations?ct=content_open&cv=cbox_latest",
+    "site_full": "statenews.com",
+    "site": "statenews.com",
+    "site_section": "https://statenews.com/section/news",
+    "site_categories": ["media"],
+    "section_title": "news - The State News",
+    "site_title": "The State News",
+    "title": "Union of Tenure System Faculty officially recognized by MSU after years of negotiations",
+    "title_full": "Union of Tenure System Faculty officially recognized by MSU after years of negotiations",
+    "published": "2025-09-10T13:37:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://snworksceo.imgix.net/tsn/d9dcd336-e2ca-439f-8f9b-556079a444a3.sized-1000x1000.jpg?w=800&amp;dpr=2&amp;ar=16%3A9&amp;fit=crop&amp;crop=faces",
+    "performance_score": 0,
+    "domain_rank": 215579,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "edf7d3e449db776811d3152a5248d442a90921c1",
+  "url": "https://statenews.com/article/2025/09/union-of-tenure-system-faculty-officially-recognized-by-msu-after-years-of-negotiations?ct=content_open&cv=cbox_latest",
+  "ord_in_thread": 0,
+  "author": "Anish Topiwala",
+  "published": "2025-09-10T13:37:00.000+03:00",
+  "title": "Union of Tenure System Faculty officially recognized by MSU after years of negotiations",
+  "text": "After years of negotiations, the Union of Tenure System Faculty has been officially recognized by Michigan State University.\nThe road to recognition began in 2020, when tenure-track faculty began discussing unionizing after salaries and retirement benefits were cut during the COVID-19 pandemic.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Politics", "Education", "Social Issue"],
+  "topics": [
+    "Politics->government",
+    "Politics->political candidates",
+    "Education->college and university",
+    "Education->teachers",
+    "Education->social learning",
+    "Social Issue->social condition",
+    "Social Issue->demographics",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "MSU",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "State University",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Okemos", "Lansing", "East Lansing"],
+      "state": ["Michigan"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:21:31.200+03:00",
+  "updated": "2025-09-18T09:25:58.000+03:00"
+}

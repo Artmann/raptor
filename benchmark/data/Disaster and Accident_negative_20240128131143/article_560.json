@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "029626e8543387575cc1dae48b89f52d0e1276c2",
+    "url": "https://www.fox4now.com/fort-myers-metro-south/spirit-fires-agent-who-put-fort-myers-bound-6-year-old-on-plane-to-orlando",
+    "site_full": "www.fox4now.com",
+    "site": "fox4now.com",
+    "site_section": "https://www.fox4now.com",
+    "site_categories": ["media"],
+    "section_title": "Fox 4 News | WFTX - Southwest Florida | Fox4Now.com - Home",
+    "title": "Spirit fires agent who put Fort Myers-bound 6-year-old on plane to Orlando",
+    "title_full": "Spirit fires agent who put Fort Myers-bound 6-year-old on plane to Orlando",
+    "published": "2023-12-28T23:15:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ewscripps.brightspotcdn.com/dims4/default/64a4f37/2147483647/strip/true/crop/1000x525+0+19/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fc1%2F82%2F0c111f3c41288870fb6b8faf559e%2Fap-18152588603061.jpg",
+    "performance_score": 0,
+    "domain_rank": 28324,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "029626e8543387575cc1dae48b89f52d0e1276c2",
+  "url": "https://www.fox4now.com/fort-myers-metro-south/spirit-fires-agent-who-put-fort-myers-bound-6-year-old-on-plane-to-orlando",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Kaitlin Knapp",
+  "published": "2023-12-28T23:15:00.000+02:00",
+  "title": "Spirit fires agent who put Fort Myers-bound 6-year-old on plane to Orlando",
+  "text": "FORT MYERS, Fla. — Spirit Airlines says they have fired the gate agent who escorted a 6-year-old Fort Myers-bound boy to the wrong plane. \"To better understand what occurred, we immediately launched a thorough internal investigation and discovered that a gate agent in Philadelphia (PHL) escorted the child to the incorrect aircraft,\" Spirit Airlines said in a statement to Fox 4. \"...and any individual whose actions resulted in the incorrect boarding will be held accountable for failing to follow our procedures.\" A few days before Christmas, 6-year-old Casper was flying to Fort Myers from Philadelphia to visit his grandmother, Maria Ramos. Instead of landing at Southwest Florida International Airport, he landed in Orlando. \"He goes 'mama, I'm in the airport'. I said give me an adult Casper that is with you. He said 'no grandma I don't have anyone with me',\" Ramos [previously told Fox 4.](https://www.fox4now.com/news/local-news/lee-county/grandmother-wants-answers-on-how-unaccompanied-6-year-old-was-put-on-wrong-flight) An adult in the airport let Ramos know Casper was in Orlando, not RSW, resulting in Ramos to make a late drive from Fort Myers to Orlando, she said. Here is the full statement from Spirit Airlines: We take the safety and responsibility of transporting all our Guests seriously, and we have policies and procedures in place to prevent this type of situation from happening. To better understand what occurred, we immediately launched a thorough internal investigation and discovered that a gate agent in Philadelphia (PHL) escorted the child to the incorrect aircraft. This agent is no longer working with Spirit, and any individual whose actions resulted in the incorrect boarding will be held accountable for failing to follow our procedures. We are also reiterating our procedures to the team, and we are in communication with the child’s family about this matter.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Human Interest"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "maria ramos",
+        "sentiment": "none"
+      },
+      {
+        "name": "ramos",
+        "sentiment": "none"
+      },
+      {
+        "name": "casper",
+        "sentiment": "none"
+      },
+      {
+        "name": "fox",
+        "sentiment": "none"
+      },
+      {
+        "name": "myers",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "spirit airlines",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "fla.",
+        "sentiment": "none"
+      },
+      {
+        "name": "orlando fort myers",
+        "sentiment": "none"
+      },
+      {
+        "name": "southwest florida international airport",
+        "sentiment": "none"
+      },
+      {
+        "name": "orlando",
+        "sentiment": "none"
+      },
+      {
+        "name": "philadelphia",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:44:39.010+02:00",
+  "updated": "2023-12-29T00:44:39.010+02:00"
+}

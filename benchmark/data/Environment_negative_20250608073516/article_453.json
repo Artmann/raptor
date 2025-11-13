@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "e7c27b625efdff2e8e38c8613702a28b9b10d1a8",
+    "url": "https://finance.sina.com.cn/roll/2025-05-08/doc-inevuzvc2843444.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "https://finance.sina.cn",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪财经_金融信息服务商",
+    "site_title": null,
+    "title": "注意安全！南方狂风暴雨还可能有龙卷|江西省_新浪财经_新浪网",
+    "title_full": "注意安全！南方狂风暴雨还可能有龙卷|江西省_新浪财经_新浪网",
+    "published": "2025-05-08T03:07:00.000+03:00",
+    "replies_count": 20,
+    "participants_count": 21,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 259,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e7c27b625efdff2e8e38c8613702a28b9b10d1a8",
+  "url": "https://finance.sina.com.cn/roll/2025-05-08/doc-inevuzvc2843444.shtml",
+  "ord_in_thread": 0,
+  "author": "sina.com.cn",
+  "published": "2025-05-08T03:07:00.000+03:00",
+  "title": "注意安全！南方狂风暴雨还可能有龙卷|江西省_新浪财经_新浪网",
+  "text": "来源： 央视新闻\n【[话筒]注意安全！#南方狂风暴雨还可能有龙卷#】暴雨+大风+强对流天气，今天6时，#中央气象台连发3预警#：[下雨]预计今明两天，江淮大部、江汉东部、江南西南部和中东部、华南北部等地部分地区有大到暴雨，其中，安徽、湖北、江西、浙江、广西等地局地有大暴雨。[浮云]预计今明两天，新疆南疆盆地、内蒙古、青海、甘肃、宁夏、陕西、辽宁、江苏、浙江等地局地有5~6级、阵风7~8级，其中，内蒙古西部等地的部分地区平均风力可达7级、阵风8~10级；[浮云]预计今明两天，安徽、湖北、湖南、江西、广西等地的部分地区将有10级以上雷暴大风，最大风力可达11级以上，江西北部等地局地不排除出现龙卷的可能性。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment"],
+  "topics": [
+    "Weather->weather warning",
+    "Environment->climate change",
+    "Environment->natural resources",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:04:40.417+03:00",
+  "updated": "2025-05-08T01:11:10.000+00:00"
+}

@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "e47f6b983f1e7665f76d7e3ae0c4c45de932ab6f",
+    "url": "https://www.jdsupra.com/legalnews/cta-the-large-operating-company-5776341/",
+    "site_full": "www.jdsupra.com",
+    "site": "jdsupra.com",
+    "site_section": "http://www.jdsupra.com/resources/syndication/docsRSSfeed.aspx?ftype=AllContent&premium=1",
+    "site_categories": ["tech"],
+    "section_title": "JD Supra RSS Feed | JD Supra Law News",
+    "title": "CTA – The Large Operating Company Exemption – Not Everybody Can Be A “Big BOI”",
+    "title_full": "CTA – The Large Operating Company Exemption – Not Everybody Can Be A “Big BOI”",
+    "published": "2023-12-29T17:42:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16298_4234.jpg",
+    "performance_score": 0,
+    "domain_rank": 3322,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e47f6b983f1e7665f76d7e3ae0c4c45de932ab6f",
+  "url": "https://www.jdsupra.com/legalnews/cta-the-large-operating-company-5776341/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Proskauer - Regulatory & Compliance",
+  "published": "2023-12-29T17:42:00.000+02:00",
+  "title": "CTA – The Large Operating Company Exemption – Not Everybody Can Be A “Big BOI”",
+  "text": "The Reporting Rule requires certain entities (both U.S. and non‑U.S.) to submit a “beneficial ownership information” report (“BOI”) to FinCEN and to regularly update that BOI (the “Reporting Requirement”). Any corporation, limited liability company (“LLC”), or other entity created by the filing of a document with a Secretary of State or any similar office under the law of a U.S. State or tribal authority (such as a statutory trust) is required to comply with the Reporting Rule. Any corporation, LLC, or other entity that is formed under the laws of a foreign country and is registered to do business in any U.S. State or tribal jurisdiction is also subject to the Reporting Rule. The Reporting Rule does not require a BOI for sole proprietorships, general partnerships, non-statutory trusts, or other entities created by agreement (and not by a filing). The Reporting Rule lists 23 types of entities that are exempt from the Reporting Requirement (each, an “Exempt Entity”). This includes, among other categories of entities, “large operating companies.” For a summary of other types of Exempt Entities and other information about the CTA outside the scope of this alert, see here. An entity qualifies as a “large operating company” if it satisfies each of the following three criteria: An entity is also exempt from the Reporting Requirement if its ownership interests are controlled or wholly owned, directly or indirectly, by certain categories of Exempt Entities, including large operating companies (the “Subsidiary Exemption”). Once a parent entity qualifies as an Exempt Entity by reason of the large operating company exemption, its wholly owned subsidiaries (whether or not corporate entities) generally should also be exempt from the Reporting Requirement under the Subsidiary Exemption. For non-wholly owned entities, the analysis of the Subsidiary Exemption is more complex, as it hinges on whether the equity interests of the entity are directly or indirectly “controlled” by an Exempt Entity, and neither the CTA nor the Reporting Rule provide a clear definition of “control.” A cursory read of the large operating company exemption suggests an intention to provide a broad exemption from the Reporting Requirement for larger companies. Indeed, FinCEN’s preamble to the Reporting Rule articulates the assumption “that all entities estimated to be reporting companies are small.” However, businesses that organize their operations through multiple entities must consider the intricacies of the large operating company exemption and the Subsidiary Exemption to confirm each entity’s eligibility for exemption from the Reporting Requirement. The following hypothetical examples demonstrate some of the considerations and limitations in applying the large operating company exemption, and the potential counterintuitive outcomes that could result from a strict application of the Gross Income Test and the Employee Test. Assume in each case that all employees are full-time employees and U.S.-based, all gross receipts are earned from sources within the United States, the Physical Presence Test is met and the referenced entities do not qualify as Exempt Entities under any exemptions other than those directly addressed. Examples As discussed above, the Gross Income Test should include income earned by a taxpayer through any disregarded entities (most commonly, single-member LLCs that have not made an election to be taxed as a corporation). Wholly owned subsidiaries of Exempt Entity that qualify for the large operating company exemption should qualify for the Subsidiary Exemption. Example 1. A corporation (“Parent Corporation”) with 21 employees and minimal gross income of its own runs its business through (i) three wholly owned disregarded entities that each earn an annual $2 million of gross income and (ii) a partially owned U.S. corporate subsidiary with 15 employees that earns an annual $3 million of gross income. The Parent Corporation should qualify as an Exempt Entity under the large operating company exemption for having $6 million of qualifying gross income and over 20 employees. Each of the three wholly owned disregarded entities should also not be subject to the Reporting Requirement under the Subsidiary Exemption. The employee count of the corporate subsidiary would not be counted for purposes of the Parent Corporation’s meeting the Employee Test, irrespective of whether the Parent Corporation and the corporate subsidiary were part of a consolidated group that filed a single tax return. For purposes of the Gross Income Test, the corporate subsidiary’s gross receipts and income could be aggregated with that of the Parent Corporation only if the entities were part of a consolidated group filing a single tax return. In order for a corporate subsidiary to file a consolidated U.S. federal income tax return with Parent Corporation, Parent Corporation would need to own at least 80 percent of the vote and value of the corporate subsidiary and choose to file a consolidated return. Whether or not the Corporate Subsidiary qualifies under the Subsidiary Exemption would depend on whether its equity interests are directly or indirectly “controlled” by one or more Exempt Entities. The result described above generally would be the same if the Parent Corporation were a partnership for U.S. federal income tax purposes (such as a multi-member LLC that has not made an election to be taxed as a corporation for U.S. federal income tax purposes), except that since a partnership cannot file a consolidated return, there is no circumstance in which such a parent partnership would be able to consolidate its gross income with that of its corporate subsidiary for U.S. federal income tax purposes. Example 2. Parent Corporation has no employees and minimal gross income of its own. It runs its business through (i) three disregarded entities that each earns an annual $20 million of gross income and employs 30 employees, and (ii) a wholly owned U.S. corporate subsidiary with 15 employees that earns an annual $30 million dollars of gross income. The Parent Corporation would fail to meet the Employee Test and would not qualify for exemption as a large operating company, despite the overall business having a larger amount of gross income and number of employees than in Example 1. The disregarded entities and the corporate subsidiary each would not qualify for the large operating company exemption. Despite each meeting the Employee Test, the disregarded entities do not file a tax return of their own (and cannot be part of a consolidated group of corporations), and so presumably are unable to ever satisfy the Gross Income Test. The corporate subsidiary would fail to meet the Employee Test, as it cannot aggregate its employee count with that of Parent Corporation. Neither the disregarded entities nor the corporate subsidiary would qualify for the Subsidiary Exemption. A potential solution to address the issues raised in Example 2 would be to restructure the employment arrangement such that the Parent Corporation directly employs enough personnel to comfortably meet the Employee Test. This would result in an outcome more closely aligned with Example 1 (except that here the corporate subsidiary would be wholly owned and so would clearly qualify for the Subsidiary Exemption once the parent entity qualified for the large operating company exemption). Example 1 relies in part on the Subsidiary Exemption in concluding that the disregarded entities in the structure are not subject to the Reporting Requirement. However, there is no equivalent upward attribution for a holding company of an Exempt Entity. This gap was directly addressed in the preamble to the Reporting Rule, in which FinCEN declined to add an additional exemption for holding companies because no such exemption was included in the CTA. Example 3 A multi-member LLC that is treated as a partnership for U.S. federal income tax purposes (“Parent Partnership”) with $1 million of annual gross income and no employees wholly owns four corporate subsidiaries that each has (i) 30 employees and (ii) annual gross income of $6 million. A partnership is unable to file a consolidated tax return. While each corporate subsidiary would qualify as an Exempt Entity under the large operating company exemption, Parent Partnership would not be exempt and would be subject to the Reporting Requirement. Holding company structures are common, and the lack of an upward attribution exemption that mirrors the Subsidiary Exemption may prove difficult to overcome. As in Example 2, the parent company in Example 3 would either need to otherwise qualify as an Exempt Entity or would need to restructure in order to qualify for the large operating company exemption (or another exemption). For example, Parent Partnership might restructure to ensure that it has enough employees of its own to meet the Employee Test. Parent Partnership would also need to find a way to satisfy the Gross Income Test, such as by restructuring investments to earn its own gross income or increasing dividend distributions from the corporate subsidiaries (but see the ambiguity discussed below regarding investment income). Alternatively, Parent Partnership could make an election to be taxed as a corporation and file a consolidated tax return together with its subsidiaries, although this solution would not be workable where the subsidiaries are not wholly (or at least 80%) owned (and would not, on its own, address the failure to meet the Employee Test). Each of these solutions presents numerous other tax, legal and business considerations. Example 1 addresses a situation in which a parent entity is able to qualify for the Gross Income Test by taking into account income earned through subsidiaries that are disregarded entities. In Example 1, the income earned by Parent Corporation presumably would be reported on Line 1 of the Parent Corporation’s U.S. federal income tax return. Line 1 of both a corporate and partnership tax return covers “gross receipts or sales” of the taxpayer, including income earned through a disregarded entity. As such, income included in Line 1 of a tax return is undoubtedly qualifying gross income for purposes of satisfying the Gross Income Test. However, both a partnership and a corporation are instructed to include certain types of gross income and receipts on lines other than Line 1. Further, there are several reasons to conclude that the Gross Income Test should not be limited to what a taxpayer reports on Line 1 as gross receipts and income. Nevertheless, while it is possible to conclude that other line items of a tax return could also be considered qualifying income for purposes of the Gross Income Test, the Reporting Rule does not explicitly endorse this conclusion. This leaves open some question as to what items of income that a taxpayer reports on a line item that is not specifically titled as gross receipts or sales can properly be included to satisfy the Gross Income Test. Without further clarification from FinCEN, companies are left to grapple with this ambiguity in the application of the Reporting Rule to their particular organizational structures. If FinCEN were to interpret the Gross Income Test to be satisfied only by what a taxpayer reports on Line 1, many large companies that would have otherwise expected to be exempt from the Reporting Requirement on account of the large operating company exemption may fail to so qualify solely on account of the structure of their investments. Example 4 Parent Partnership has 30 employees, and its sole source of income is a $40 million annual allocation from an investment in a multi-member LLC (the other members are unrelated third parties) that is a partnership for U.S. federal income tax purposes (the “Joint Venture”). Parent Partnership reports its income allocations from the Joint Venture on Line 4 of its IRS Form 1065 Partnership Tax Return. If qualifying income for purposes of the Gross Income Test were limited to what a taxpayer reports on Line 1 receipts on its tax return, then Parent Partnership would not qualify as a large operating company due to failing to meet the Gross Income Test. If the more limited interpretation of the Gross Income Test were to apply, Parent Partnership would not be eligible for the large operating company exemption unless it could find a way to meet the Gross Income Test, potentially by restructuring investments directly into the underlying assets of Joint Venture, which may not be commercially possible and would certainly present numerous other tax, legal and business considerations. Similarly, the lack of clarity as to what types of income constitute gross receipts and sales income will have a particular impact on entities that primarily earn income that may be reported on line items not titled as gross receipts or sales, such as certain rental income, interest income or farm income or for entities whose tax returns do not include a line item for gross receipts or sales. Example 5 A private real estate investment trust (“Private REIT”) has 30 employees and reports $4 million of income annually on Line 2 (interest) and $4 million of income annually on Line 3 (gross rents) of its IRS form 1120-REIT tax return. In order to qualify for the large company exemption, Private REIT would need to be able to include both its interest income and its gross rental income for purposes of satisfying the Gross Income Test. Additionally, larger REITs often set up complex structures, and each entity in the structure would need to be analyzed individually to determine whether it qualifies as an Exempt Entity. Any wholly owned subsidiary of Private REIT, such as a taxable REIT subsidiary, should qualify under the Subsidiary Exemption if Private REIT qualifies as a large operating company. However, the conclusion is less clear for a structure that employs “baby REITs” (generally, where each individual property is owned by a separate REIT subsidiary). Because each such “baby REIT” is required to meet the REIT requirement of at least 100 shareholders, these structures will often have a class of non-voting preferred stock owned by at least 125 preferred shareholders. Given the ambiguities of the Subsidiary Exemption, as discussed above, there is some question as to whether these baby REITs would be able to qualify for the Subsidiary Exemption. Similar questions may arise for other common REIT structure entities, such as an operating partnership subsidiary. The above example relates only to a private REIT — a public REIT should be able to qualify for exemption as a “securities reporting issuer.” The above examples show that the application of the tests for the large operating company exemption to complex structures requires a nuanced and tax-driven analysis. As companies and their advisors navigate the complexities of the Reporting Rule, they must carefully assess their structures to determine whether they qualify for the exemptions to the Reporting Requirement, weighing not only regulatory requirements but also broader tax, legal and business implications to ensure a comprehensive and effective approach. [1] Temp. Regs. Sec. 1.448-1T(f)(2). [View source.] See more » DISCLAIMER: Because of the generality of this update, the information provided herein may not be applicable in all situations and should not be acted upon without specific legal advice based on particular situations. © Proskauer - Regulatory & Compliance Refine your interests »",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Crime, Law and Justice",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "cta",
+        "sentiment": "negative"
+      },
+      {
+        "name": "llc",
+        "sentiment": "none"
+      },
+      {
+        "name": "state",
+        "sentiment": "none"
+      },
+      {
+        "name": "fincen",
+        "sentiment": "none"
+      },
+      {
+        "name": "boi",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T17:51:39.615+02:00",
+  "updated": "2023-12-29T18:22:38.880+02:00"
+}

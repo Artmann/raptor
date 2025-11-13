@@ -1,0 +1,122 @@
+{
+  "thread": {
+    "uuid": "73f0587bf300023459f3633888e044a2cb9fbed8",
+    "url": "https://www.taiwannews.com.tw/news/5894577",
+    "site_full": "www.taiwannews.com.tw",
+    "site": "taiwannews.com.tw",
+    "site_section": "https://www.taiwannews.com.tw",
+    "site_categories": ["media", "top_news"],
+    "section_title": "Taiwan News - Voice of the People, Bridge to the World",
+    "title": "Japanese company donates 2,000 quake kits to Taiwan | Taiwan News | Jun. 22, 2024 11:58",
+    "title_full": "Japanese company donates 2,000 quake kits to Taiwan | Taiwan News | Jun. 22, 2024 11:58",
+    "published": "2024-06-22T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://image.taiwannews.com.tw/2024/06/22/8747ba55520c4dd7bd8795d2c202ed14.jpg",
+    "performance_score": 0,
+    "domain_rank": 5229,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "73f0587bf300023459f3633888e044a2cb9fbed8",
+  "url": "https://www.taiwannews.com.tw/news/5894577",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-06-22T03:00:00.000+03:00",
+  "title": "Japanese company donates 2,000 quake kits to Taiwan | Taiwan News | Jun. 22, 2024 11:58",
+  "text": "TAIPEI (Taiwan News) — Japan’s Alinamin Pharmaceutical donated 2,000 earthquake kits and 4,000 bottles of vitamin C tablets to those affected by temblors in Hualien, on Friday (June 21). Hualien County Government said each affected household with red or yellow disaster tags will receive one kit, per [CNA](https://www.cna.com.tw/news/aloc/202406210380.aspx). The kits include emergency medical supplies, flashlights, raincoats, and other essential items. In a speech at the donation ceremony, Alinamin Pharmaceutical Senior Director Masataka Yui said Hualien is an area frequently affected by earthquakes. Masataka hoped the donation of supplies would show support for the disaster-stricken area. The senior director also highlighted the friendship between Taiwan and Japan, demonstrating to the world how friends support each other in times of difficulty, per [UDN](https://udn.com/news/story/7241/8047177). Hualien County Magistrate Hsu Chen-wei (徐榛蔚) said she was grateful for the goodwill. She acknowledged that financial and material donations provide Hualien with much-needed support. Hsu added nearly 2,000 households are still in the process of rebuilding or repairing their homes.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Human Interest"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.cna.com.tw/news/aloc/202406210380.aspx).",
+    "https://udn.com/news/story/7241/8047177).",
+    "https://www.udn.com/news/story/7241/8047177).",
+    "https://cna.com.tw/news/aloc/202406210380.aspx)."
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "masataka",
+        "sentiment": "none"
+      },
+      {
+        "name": "masataka yui",
+        "sentiment": "none"
+      },
+      {
+        "name": "hsu",
+        "sentiment": "none"
+      },
+      {
+        "name": "hsu chen-wei (徐榛蔚)",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "alinamin pharmaceutical",
+        "sentiment": "negative"
+      },
+      {
+        "name": "hualien county government",
+        "sentiment": "none"
+      },
+      {
+        "name": "cna",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "taipei",
+        "sentiment": "none"
+      },
+      {
+        "name": "japan",
+        "sentiment": "none"
+      },
+      {
+        "name": "taiwan",
+        "sentiment": "none"
+      },
+      {
+        "name": "hualien",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-22T08:04:22.157+03:00",
+  "updated": "2024-06-22T08:04:22.157+03:00"
+}

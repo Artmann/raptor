@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "a7bfa94949f2652f17470908549700d01817091e",
+    "url": "https://inces.gob.ve/index.php/2025/09/17/amazonas-realizada-entrega-de-utiles-escolares-para-el-regreso-a-clases-2025-2026/",
+    "site_full": "inces.gob.ve",
+    "site": "inces.gob.ve",
+    "site_section": "https://inces.gob.ve",
+    "site_categories": [
+      "health",
+      "law_government_and_politics",
+      "exercise",
+      "us_government_resources"
+    ],
+    "section_title": "Instituto Nacional de Capacitación y Educación Socialista &#8211; Inces",
+    "site_title": "Instituto Nacional de Capacitación y Educación Socialista &#8211; Inces",
+    "title": "Amazonas | Realizada entrega de útiles escolares para el regreso a clases 2025 -2026",
+    "title_full": "Amazonas | Realizada entrega de útiles escolares para el regreso a clases 2025 -2026",
+    "published": "2025-09-17T20:59:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "VE",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 303695,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a7bfa94949f2652f17470908549700d01817091e",
+  "url": "https://inces.gob.ve/index.php/2025/09/17/amazonas-realizada-entrega-de-utiles-escolares-para-el-regreso-a-clases-2025-2026/",
+  "ord_in_thread": 0,
+  "author": "Gilberto Daly",
+  "published": "2025-09-17T20:59:00.000+03:00",
+  "title": "Amazonas | Realizada entrega de útiles escolares para el regreso a clases 2025 -2026",
+  "text": "**La Gerencia Regional del Inces en Amazonas, a través de la División de Talento Humano, realizó la entrega de los kits de útiles escolares, esto con motivo del inicio del nuevo año escolar 2025-2026.\nLa entrega de los kits de útiles escolares fue realizada por el gerente regional de Inces Amazonas, Tomás Vivas, junto a la jefa de talento humano, Evelyn Prieto, quienes realizaron el aporte a padres e hijos de los trabajadores activos que se encuentran actualmente cursando estudios en los diferentes niveles educativos. Los kits entregados fueron adaptados a los niveles de preescolar, educación básica, media general y universitaria. Los implementos forman parte de los beneficios sociales para la protección a las familias que garantiza la institución.\nEs importante mencionar que cada kit contiene 5 cuadernos, 1 caja de colores, 1 caja de lápices, 1 sacapuntas, 1 goma de borrar, entre otras cosas, La entrega fue realizada en un acto con los trabajadores beneficiados en las instalaciones del Centro de Formación Socialista (CFS) Cacique Aramare de la ciudad de Puerto Ayacucho.\nLos útiles escolares se entregaron gracias a las políticas del presidente de Inces, Wuikelman Angel Paredes, a través de la gerencia regional de Inces Amazonas, encabezada por el ciudadano Tomás Vivas.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Lifestyle and Leisure"],
+  "topics": null,
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Evelyn Prieto",
+        "sentiment": "none"
+      },
+      {
+        "name": "Tomás Vivas",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Amazonas",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Centro de Formación Socialista",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "CFS",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:36:23.290+03:00",
+  "updated": "2025-09-18T07:42:14.000+03:00"
+}

@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "17f411ef2d623f8e062d13da392550183269573b",
+    "url": "https://nigeria.shafaqna.com/EN/AL/7489999",
+    "site_full": "nigeria.shafaqna.com",
+    "site": "shafaqna.com",
+    "site_section": "https://nigeria.shafaqna.com/",
+    "site_categories": ["media", "top_news_iq", "top_news"],
+    "section_title": "\r\n\t\tNigeria News (News Reader)\t",
+    "site_title": "Nigeria News (News Reader)",
+    "title": "TETFund Applauded For Driving Innovation, Excellence In Higher Education",
+    "title_full": "TETFund Applauded For Driving Innovation, Excellence In Higher Education",
+    "published": "2025-09-18T02:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "NG",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 42559,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "17f411ef2d623f8e062d13da392550183269573b",
+  "url": "https://nigeria.shafaqna.com/EN/AL/7489999",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T02:00:00.000+03:00",
+  "title": "TETFund Applauded For Driving Innovation, Excellence In Higher Education",
+  "text": "leadership - 5 minutes ago TETFund Applauded For Driving Innovation, Excellence In Higher Education The Tertiary Education Trust Fund (TETFund) has once again come under the spotlight for its pivotal role in transforming Nigeria’s higher education landscape. This commendation was made when the Baze University management paid a courtesy visit to the Fund’s headquarters in Abuja to commend its impact and strengthen collaboration. The delegation from Baze University, led [ ]\nRead on the original site",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Economy, Business and Finance", "Social Issue"],
+  "topics": [
+    "Education->college and university",
+    "Education->vocational education",
+    "Education->students",
+    "Economy, Business and Finance->human resources",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->business governance",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://leadership.ng/tetfund-applauded-for-driving-innovation-excellence-in-higher-education/",
+    "https://leadership.ng/tetfund-applauded-for-driving-innovation-excellence-in-higher-education",
+    "https://www.leadership.ng/tetfund-applauded-for-driving-innovation-excellence-in-higher-education/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Baze University",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "17f411ef2d623f8e062d13da392550183269573b",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_iq", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:26:39.958+03:00",
+  "updated": "2025-09-18T08:38:05.000+03:00"
+}

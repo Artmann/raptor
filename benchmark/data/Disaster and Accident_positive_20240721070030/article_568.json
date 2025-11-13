@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "affd22469c1503f3af9321659f0179f078050481",
+    "url": "https://indianexpress.com/article/india/3-minors-rescued-north-tripura-district-day-missing-khowai-district-9408935",
+    "site_full": "indianexpress.com",
+    "site": "indianexpress.com",
+    "site_section": "https://indianexpress.com",
+    "site_categories": ["media", "top_news"],
+    "section_title": "Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports | The Indian Express",
+    "title": "3 minors rescued from North Tripura district day after they went missing from Khowai district | India News - The Indian Express",
+    "title_full": "3 minors rescued from North Tripura district day after they went missing from Khowai district | India News - The Indian Express",
+    "published": "2024-06-22T16:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://images.indianexpress.com/2024/06/indian-express-logo-1600-5.jpg",
+    "performance_score": 0,
+    "domain_rank": 1002,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "affd22469c1503f3af9321659f0179f078050481",
+  "url": "https://indianexpress.com/article/india/3-minors-rescued-north-tripura-district-day-missing-khowai-district-9408935",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Debraj Deb",
+  "published": "2024-06-22T16:30:00.000+03:00",
+  "title": "3 minors rescued from North Tripura district day after they went missing from Khowai district | India News - The Indian Express",
+  "text": "The minors were found barely a kilometre away from the Dharmanagar railway station with the help of a local",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Human Interest",
+    "Disaster and Accident",
+    "Crime, Law and Justice"
+  ],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "debasish saha",
+        "sentiment": "none"
+      },
+      {
+        "name": "dharmanagar",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "indian express",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [
+      {
+        "name": "north tripura",
+        "sentiment": "none"
+      },
+      {
+        "name": "khowai",
+        "sentiment": "none"
+      },
+      {
+        "name": "india",
+        "sentiment": "none"
+      },
+      {
+        "name": "guwahati",
+        "sentiment": "none"
+      },
+      {
+        "name": "latugao",
+        "sentiment": "none"
+      },
+      {
+        "name": "dharmanagar",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-22T19:04:09.356+03:00",
+  "updated": "2024-06-22T19:26:55.200+03:00"
+}

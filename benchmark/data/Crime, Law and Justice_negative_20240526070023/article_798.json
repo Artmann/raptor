@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "7e30d9e83140c1040adc49529fde6aab9bd857eb",
+    "url": "https://www.nottinghampost.com/news/nottingham-news/adam-johnson-death-update-police-9245762",
+    "site_full": "www.nottinghampost.com",
+    "site": "nottinghampost.com",
+    "site_section": "https://www.nottinghampost.com/?service=rss",
+    "site_categories": ["media", "top_news"],
+    "section_title": "Nottinghamshire Live - frontpage",
+    "title": "Adam Johnson death update as police issue fresh statement on investigation",
+    "title_full": "Adam Johnson death update as police issue fresh statement on investigation",
+    "published": "2024-04-25T23:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "https://i2-prod.nottinghampost.com/incoming/article9245752.ece/ALTERNATES/s1200/0_JS315422426.jpg",
+    "performance_score": 0,
+    "domain_rank": 10864,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7e30d9e83140c1040adc49529fde6aab9bd857eb",
+  "url": "https://www.nottinghampost.com/news/nottingham-news/adam-johnson-death-update-police-9245762",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "newsdesk@nottinghampost.com (Sam Cooper)",
+  "published": "2024-04-25T23:30:00.000+03:00",
+  "title": "Adam Johnson death update as police issue fresh statement on investigation",
+  "text": "A man arrested on suspicion of manslaughter in connection with the death of Nottingham Panthers ice hockey star [Adam Johnson](https://www.nottinghampost.com/all-about/adam-johnson) has had his bail extended. Detectives confirmed he was re-bailed on Thursday, April 25. Johnson, 29, died after suffering a fatal cut to his neck during a game between the [Panthers ](https://www.nottinghampost.com/all-about/nottingham-panthers)and Sheffield Steelers on Saturday, October 28, 2023. A man was arrested on suspicion of manslaughter by South Yorkshire [Police](https://www.nottinghampost.com/all-about/nottinghamshire-police) on Tuesday, November 14. The force said he was released on bail on Wednesday, November 15. South Yorkshire Police has now confirmed he has been re-bailed until Tuesday, May 14. [Get the latest news straight to your phone by joining us on WhatsApp](https://www.nottinghampost.com/news/local-news/join-nottinghamshire-lives-whatsapp-community-8755260) A force spokeswoman said: \"A man who is under investigation following the death of ice hockey player Adam Johnson in Sheffield has been re-bailed. Adam, aged 29, was fatally injured during a game between the Sheffield Steelers and Nottingham Panthers on 28 October last year. He was sadly later pronounced dead in hospital, and a post mortem confirmed he died as a result of a neck injury. \"A man was arrested on 14 November last year on suspicion of manslaughter and later bailed. Today (Thursday 25 April) he has been further re-bailed until Tuesday 14 May 2024. Our thoughts remain with Adam’s loved ones as our investigation continues.\" [Johnson ](https://www.nottinghampost.com/all-about/adam-johnson)came to Nottingham from the United States. His death has led to a huge outpouring of grief across the ice hockey community. Hundreds of floral tributes have been left outside both the Utilita Arena in Sheffield - where the tragedy happened - and the Motorpoint Arena - the home of the Panthers. He played 13 games in the National Hockey League (NHL) - considered the best league in ice hockey. He also played in Germany and Sweden. Thousands of fans paid tribute to him at the Elite League Playoff Finals Weekend at the Motorpoint Arena on Sunday. Fans held a minute's applause in the 47th minute - Adam's jersey number - of the grand final between Sheffield Steelers and Belfast Giants. Sheffield’s senior coroner Tanyka Rawden opened an inquest into Mr Johnson’s death last year but suspended it as police inquiries continue. Following a review of the case by Ms Rawden, her office confirmed the suspension of her investigation. It said this suspension will last until July unless South Yorkshire Police determine that no-one will be charged with a homicide offence in relation to the Mr Johnson’s death. In a statement Ms Rawden’s office said: “HM Senior Coroner has reviewed the progress of the investigation into the death of Adam Johnson today, January 26 2024. “Since the opening of the inquest on November 3 2023, detectives from South Yorkshire Police have arrested and questioned a man on suspicion of manslaughter. \"In light of the fact a person may be charged with a homicide offence involving the death of the deceased, HM Senior Coroner has suspended her investigation into Mr Johnson’s death under Paragraph 1(2)(a) of Schedule 1 to the Coroners and Justice Act 2009. The relevant period for the purposes of Paragraph 1(4)(b) and Paragraph 7 of Schedule 1 to the Coroners and Justice Act 2009 will be 26 weeks, namely July 26 2024.\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "adam johnson",
+        "sentiment": "negative"
+      },
+      {
+        "name": "adam",
+        "sentiment": "none"
+      },
+      {
+        "name": "johnson",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "nottingham panthers",
+        "sentiment": "negative"
+      },
+      {
+        "name": "south yorkshire police",
+        "sentiment": "none"
+      },
+      {
+        "name": "sheffield steelers",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "sheffield",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:35:24.929+03:00",
+  "updated": "2024-04-26T01:06:59.301+03:00"
+}

@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "644fb99dad35b24841eb688906e2ac5a322b35e5",
+    "url": "https://www.perthnow.com.au/news/new-zealand-ferry-refloated-after-it-ran-aground-c-15114371",
+    "site_full": "www.perthnow.com.au",
+    "site": "perthnow.com.au",
+    "site_section": "https://www.perthnow.com.au/feed",
+    "site_categories": ["media", "cricket", "sports", "top_news"],
+    "section_title": "",
+    "title": "New Zealand ferry refloated after it ran aground | PerthNow",
+    "title_full": "New Zealand ferry refloated after it ran aground | PerthNow",
+    "published": "2024-06-22T16:51:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://images.perthnow.com.au/publication/C-15114371/846c1c3644d5ac200c7a50c4ee03e6f195ff265b-16x9-x0y0w1280h720.jpg?imwidth=1200",
+    "performance_score": 0,
+    "domain_rank": 8579,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "644fb99dad35b24841eb688906e2ac5a322b35e5",
+  "url": "https://www.perthnow.com.au/news/new-zealand-ferry-refloated-after-it-ran-aground-c-15114371",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-06-22T16:51:00.000+03:00",
+  "title": "New Zealand ferry refloated after it ran aground | PerthNow",
+  "text": "A ferry between New Zealand&apos;s two main islands that ran aground has been successfully refloated, the government says. Operated by state-owned enterprise KiwiRail, the Interislander Aratere ferry ran aground in Picton Harbour on the north coast of the South Island. It had been due to travel to Wellington on the North Island but, according to media reports, hit the shore after a steering failure on Friday night. There were no injuries although 47 people had to spend the night aboard, local media reported, in an incident the government described as \"very concerning\". Transport Minister Simeon Brown said the Aratere had \"been pulled off the shore and is now floating\". \"The vessel will now be anchored in the Picton Harbour as it is safely retrieved and further checks are undertaken,\" Brown said on X, formerly Twitter. Interislander management said divers that checked the ferry found minimal damage and determined the vessel was water-tight, Radio New Zealand reported. Interislander said the ferry will be brought back into port on Sunday while an investigation continues. KiwiRail says the fleet ferries nearly 800,000 passengers across the Cook Strait, which separates the country&apos;s North and South Islands, each year.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Disaster and Accident", "Environment"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "brown",
+        "sentiment": "none"
+      },
+      {
+        "name": "kiwirail",
+        "sentiment": "none"
+      },
+      {
+        "name": "interislander",
+        "sentiment": "none"
+      },
+      {
+        "name": "simeon brown",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "radio new zealand",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "new zealand",
+        "sentiment": "none"
+      },
+      {
+        "name": "south island",
+        "sentiment": "none"
+      },
+      {
+        "name": "north island",
+        "sentiment": "none"
+      },
+      {
+        "name": "picton harbour",
+        "sentiment": "none"
+      },
+      {
+        "name": "wellington",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-23T03:59:19.231+03:00",
+  "updated": "2024-06-23T05:02:30.311+03:00"
+}

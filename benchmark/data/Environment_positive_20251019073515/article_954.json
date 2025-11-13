@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "38d87d047b9b4e3364438f0473deec5c86bdef64",
+    "url": "https://lemmy.world/post/37427804",
+    "site_full": "lemmy.world",
+    "site": "lemmy.world",
+    "site_section": "https://piefed.world/?sort=top_1w&layout=list&content_type=posts&flair=",
+    "site_categories": [],
+    "section_title": "PieFed.World - A generic PieFed server for everyone to use.",
+    "site_title": null,
+    "title": "Scottish data centres powering AI already using enough water to fill 27 million bottles a year - Lemmy.World",
+    "title_full": "Scottish data centres powering AI already using enough water to fill 27 million bottles a year - Lemmy.World",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://lemmy.world/pictrs/image/6755d0cb-ac34-44d5-b809-51acf966a957.jpeg",
+    "performance_score": 0,
+    "domain_rank": 42851,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "38d87d047b9b4e3364438f0473deec5c86bdef64",
+  "url": "https://lemmy.world/post/37427804",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "Scottish data centres powering AI already using enough water to fill 27 million bottles a year - Lemmy.World",
+  "text": "That’s a lot of water y’all. Scotland with it’s abundance of renewable energy makes us a famtastic site for computing centers. But water pressure is already present in the central belt in summer, planning permission should probably have to mandate these closed systems\nYou must\nlog inor # to comment.TLDR: 500ml bottles. They could have just as validly said it’s one 13.5 million litre bottle.\nYes, curious measurements when the litre is so understood. Should we have it in quarter gills instead? 180 million big nips!\nLots of water anyway you look at it!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment", "Science and Technology"],
+  "topics": [
+    "Environment->water",
+    "Environment->energy resources",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:51:50.389+03:00",
+  "updated": "2025-10-16T17:08:59.000+03:00"
+}

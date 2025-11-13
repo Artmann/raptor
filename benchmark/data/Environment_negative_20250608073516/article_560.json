@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "951e1b3c050532c4b3f6ae49c0942492f09144e7",
+    "url": "https://www.setn.com/News.aspx?NewsID=1652768&Area=1",
+    "site_full": "www.setn.com",
+    "site": "setn.com",
+    "site_section": "https://www.setn.com/local.aspx",
+    "site_categories": ["media"],
+    "section_title": "\r\n\r\n",
+    "site_title": "三立新聞網 SETN.com | 讓世界看見台灣的美好",
+    "title": "快訊／豪雨釀災驚人畫面曝光！三峽北111縣道千噸土石崩落雙向道路封閉",
+    "title_full": "快訊／豪雨釀災驚人畫面曝光！三峽北111縣道千噸土石崩落雙向道路封閉",
+    "published": "2025-05-08T04:53:35.281+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://attach.setn.com/newsimages/2025/05/08/5103199-PH.jpg",
+    "performance_score": 0,
+    "domain_rank": 28727,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "951e1b3c050532c4b3f6ae49c0942492f09144e7",
+  "url": "https://www.setn.com/News.aspx?NewsID=1652768&Area=1",
+  "ord_in_thread": 0,
+  "author": "三立新聞網",
+  "published": "2025-05-08T04:53:35.281+03:00",
+  "title": "快訊／豪雨釀災驚人畫面曝光！三峽北111縣道千噸土石崩落雙向道路封閉",
+  "text": "記者莊淇鈞／新北報導\n▲超過千噸土石崩落造成現場道路雙向封閉。（圖／翻攝畫面）\n新北市三峽山區北111縣道2.5公里至3公里處，今天（8日）清晨疑因豪雨造成山坡土石崩落，通往山區道路雙向受阻，三峽警分局插腳派出所警員休假返回派出所途中發現，這些超過千噸的落石及土方傾斜而下，不但堆滿整個車道，還砸毀一旁的護欄，導致雙向無法通行，於是立刻通報分局勤務中心、區公所及養工處中和工務段派員搶修，至於是否有人車受困，仍要進一步了解。\n▲轄區警方到場警戒。（圖／翻攝畫面）\n為確保用路人安全，三峽警分局也派遣吉埔派出所同仁1名，在添福58之3號前封閉道路警示，提醒想要往插腳上山的用路人改道；另插角派出所同仁1名在湊合橋引導下山民眾，改走北114縣道往三峽方向。同時也請警廣協助於即時交通資訊網及CMS發佈路況並通報訊息，呼籲要經過這段道路的民眾，提早改道。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Environment"],
+  "topics": [
+    "Disaster and Accident->emergency response",
+    "Disaster and Accident->natural disaster",
+    "Disaster and Accident->disaster",
+    "Environment->natural resources",
+    "Environment->water",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.youtube.com/embed/oz-SfNMJqv4?si=gKSGKqtQdOSPXhHo",
+    "https://www.youtube.com/embed/oz-SfNMJqv4",
+    "https://youtube.com/embed/oz-SfNMJqv4?si=gKSGKqtQdOSPXhHo"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:53:35.281+03:00",
+  "updated": "2025-05-08T01:59:24.000+00:00"
+}

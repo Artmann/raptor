@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "2d7946a5340d337979aac19d6b77f7fe79118421",
+    "url": "https://www.chinanews.com/cj/shipin/cns/2025/10-16/news1032729.shtml",
+    "site_full": "www.chinanews.com",
+    "site": "chinanews.com",
+    "site_section": "https://www.chinanews.com/shipin",
+    "site_categories": ["media"],
+    "section_title": "视频频道-中国新闻网",
+    "site_title": "中国新闻网_梳理天下新闻",
+    "title": "中国中车推动氢能列车产业链布局 首列氢能文旅列车下线-中新网视频",
+    "title_full": "中国中车推动氢能列车产业链布局 首列氢能文旅列车下线-中新网视频",
+    "published": "2025-10-16T15:43:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 5711,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2d7946a5340d337979aac19d6b77f7fe79118421",
+  "url": "https://www.chinanews.com/cj/shipin/cns/2025/10-16/news1032729.shtml",
+  "ord_in_thread": 0,
+  "author": "chinanews",
+  "published": "2025-10-16T15:43:00.000+03:00",
+  "title": "中国中车推动氢能列车产业链布局 首列氢能文旅列车下线-中新网视频",
+  "text": "10月16日，中国中车现代产业链融通发展共链行动大会在长春举行。当天，中国首列氢能文旅列车“氢春号”正式下线。\n　　“氢春号”由中车长客股份公司研制，采用氢能动力系统，能在低温环境下稳定运行，适用于城市通勤与文旅线路。\n　　本次大会聚焦轨道交通装备、清洁能源装备与氢能三大产业链跨链协同，旨在通过央地合作和产业链联动，构建开放共享、互利共赢的新型产业生态。当天，中国中车集团与吉林省政府、多家合作伙伴签订了合作协议，推动氢能列车产业链布局。(记者 吕盛楠 长春报道）\n责任编辑：【叶攀】",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Environment"],
+  "topics": [
+    "Economy, Business and Finance->transport",
+    "Economy, Business and Finance->energy and resource",
+    "Economy, Business and Finance->manufacturing and engineering",
+    "Environment->energy resources",
+    "Environment->sustainability"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:57:18.904+03:00",
+  "updated": "2025-10-16T17:06:14.000+03:00"
+}

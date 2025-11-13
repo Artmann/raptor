@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "74846941335d901f05efc1d1049d807743fbdf5d",
+    "url": "https://jalisco.quadratin.com.mx/puerto-vallarta/regresa-mexicana-de-aviacion-a-puerto-vallarta",
+    "site_full": "jalisco.quadratin.com.mx",
+    "site": "quadratin.com.mx",
+    "site_section": "https://jalisco.quadratin.com.mx/principal",
+    "site_categories": ["media", "top_news_mx", "top_news"],
+    "section_title": "\nPrincipal Archivos - Quadratin Jalisco - Archivo - ",
+    "title": "Regresa Mexicana de Aviación a Puerto Vallarta",
+    "title_full": "Regresa Mexicana de Aviación a Puerto Vallarta",
+    "published": "2025-01-24T00:27:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://jalisco.quadratin.com.mx/www/wp-content/uploads/2025/01/0a1c9e28-df2d-447f-ae43-20749f90378d.jpeg",
+    "performance_score": 0,
+    "domain_rank": 48545,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "74846941335d901f05efc1d1049d807743fbdf5d",
+  "url": "https://jalisco.quadratin.com.mx/puerto-vallarta/regresa-mexicana-de-aviacion-a-puerto-vallarta",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Diana Beas",
+  "published": "2025-01-24T00:27:00.000+02:00",
+  "title": "Regresa Mexicana de Aviación a Puerto Vallarta",
+  "text": "PUERTO VALLARTA, Jal., 23 de enero de 2025.- La aerolínea Mexicana de Aviación dio a conocer este jueves su regreso a Puerto Vallarta, esto, luego de que a principios de mes anunció la cancelación de varios vuelos en al menos ocho destinos del país.\nEl director de la aerolínea, capitán José Suárez, dio a conocer que la aerolínea regresa a varios destinos y suma otros vuelos más.\nEl anuncio se dio durante la conferencia matutina de la presidenta Claudia Sheinbaum Pardo, donde el capitán Suárez anunció la ampliación de dos destinos más Monterrey y Puerto Vallarta para sumar 14 en todo el país.\n«Con esta renovación que tenemos en el primer trimestre, o sea, a partir de enero febrero estamos nosotros considerando ampliar dos destinos más para sumar 12 destinos, igualmente a partir del segundo trimestre, ampliaremos dos destinos más se estaría sumando Monterrey y Puerto Vallarta, para sumar 14 destinos a los cuales Mexicana estará volando durante este 2025», expresó.\nEl director de la aerolínea informó también que, con una proyección de más de 500 mil pasajeros, estarán ofreciendo unos productos de conectividad de más de 83 conexiones, «a través del Aeropuerto Internacional Felipe Ángeles donde es nuestra base principal de operaciones», expresó.\nFue durante el pasado Gobierno Federal que se llevó a cabo el rescate de la aerolínea, la cual estuvo por varios años fuera del aire tras su declaración de quiebre en 2010.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Lifestyle and Leisure", "Economy, Business and Finance"],
+  "topics": [
+    "Lifestyle and Leisure->travel and tourism",
+    "Economy, Business and Finance->transport",
+    "Economy, Business and Finance->business governance"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Claudia Sheinbaum Pardo",
+        "sentiment": "none"
+      },
+      {
+        "name": "José Suárez",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Mexicana de Aviación",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:41:25.506+02:00",
+  "updated": "2025-01-24T00:41:25.506+02:00"
+}

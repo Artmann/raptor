@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "cd7eee262c01c39bc7a61c0305a2b1aafb5d11dd",
+    "url": "https://www.radioagricultura.cl/noticias/nacional/ataque-incendiario-en-la-araucania-los-sauces_20250507",
+    "site_full": "www.radioagricultura.cl",
+    "site": "radioagricultura.cl",
+    "site_section": "https://www.radioagricultura.cl/programas/la-hora-liberal",
+    "site_categories": ["media"],
+    "section_title": "La Hora Liberal",
+    "site_title": "Home - Radio Agricultura",
+    "title": "Ataque incendiario en La Araucanía destruye maquinaria forestal en Los Sauces",
+    "title_full": "Ataque incendiario en La Araucanía destruye maquinaria forestal en Los Sauces",
+    "published": "2025-05-08T04:52:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CL",
+    "main_image": "https://assets.radioagricultura.cl/2025/05/FotoJet-2025-05-07T214938.371-1-1024x622.jpg",
+    "performance_score": 0,
+    "domain_rank": 116089,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cd7eee262c01c39bc7a61c0305a2b1aafb5d11dd",
+  "url": "https://www.radioagricultura.cl/noticias/nacional/ataque-incendiario-en-la-araucania-los-sauces_20250507",
+  "ord_in_thread": 0,
+  "author": "Radio Agricultura",
+  "published": "2025-05-08T04:52:00.000+03:00",
+  "title": "Ataque incendiario en La Araucanía destruye maquinaria forestal en Los Sauces",
+  "text": "Un nuevo ataque incendiario se registró la tarde de este miércoles en la comuna de Los Sauces, en la región de La Araucanía, específicamente en el predio Napanir (748). Este atentado dejó al menos cuatro maquinarias forestales completamente quemadas, además de vehículos menores que también fueron destruidos por las llamas.\nAfortunadamente, no se registraron lesionados durante el ataque. Sin embargo, el hecho ha generado una gran preocupación en la zona. Las autoridades locales están trabajando para esclarecer los detalles de lo sucedido y dar con los responsables de este nuevo atentado.\nCarabineros llegó rápidamente al lugar para iniciar las primeras diligencias y comenzar con la investigación. Hasta el momento, los atacantes siguen siendo desconocidos y las autoridades están recopilando información para poder dar con su paradero.\nEste ataque se suma a una serie de incidentes de violencia en la región, donde los ataques incendiarios continúan afectando la tranquilidad de las comunidades y la actividad económica, especialmente en el sector forestal.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Environment", "Social Issue"],
+  "topics": [
+    "Crime, Law and Justice->arson",
+    "Crime, Law and Justice->law enforcement",
+    "Environment->environmental pollution",
+    "Environment->nature",
+    "Environment->conservation",
+    "Social Issue->social problem",
+    "Social Issue->communities",
+    "Social Issue->discrimination"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Los Sauces",
+        "sentiment": "none"
+      },
+      {
+        "name": "La Araucanía",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:59:49.298+03:00",
+  "updated": "2025-05-08T03:05:11.000+00:00"
+}

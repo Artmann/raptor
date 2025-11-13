@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "4a40362bbbc4e24dffe9cf11e94ad00e8ae31242",
+    "url": "https://news-pravda.com/russia/2025/10/16/1777633.html",
+    "site_full": "news-pravda.com",
+    "site": "news-pravda.com",
+    "site_section": "https://news-pravda.com/rss.xml",
+    "site_categories": [],
+    "section_title": "Pravda EN",
+    "site_title": "Pravda - Breaking News, World News and Videos",
+    "title": "Putin said that Russia's energy balance is one of the greenest in the world",
+    "title_full": "Putin said that Russia's energy balance is one of the greenest in the world",
+    "published": "2025-10-16T14:36:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://news-pravda.com/img/20251016/c2b69fb27db70c2dd1ef7ce60c8a780b_o.jpg",
+    "performance_score": 0,
+    "domain_rank": 69329,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4a40362bbbc4e24dffe9cf11e94ad00e8ae31242",
+  "url": "https://news-pravda.com/russia/2025/10/16/1777633.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T14:36:00.000+03:00",
+  "title": "Putin said that Russia's energy balance is one of the greenest in the world",
+  "text": "Putin said that Russia's energy balance is one of the greenest in the worldPutin said that Russia's energy balance is one of the greenest in the worldSubscribe to International Reporters in English Source: Telegram \"internationalreporters_eng\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment", "Politics"],
+  "topics": [
+    "Environment->energy resources",
+    "Politics->environmental policy",
+    "Politics->government policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:48:56.112+03:00",
+  "updated": "2025-10-16T14:58:02.000+03:00"
+}

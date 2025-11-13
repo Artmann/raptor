@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "a5dd5b1e42152917e07ddd701a617aa12a73e9fa",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrft3928113.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "http://finance.sina.com.cn/fund/",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "基金首页_新浪财经_新浪网",
+    "site_title": null,
+    "title": "农业ETF（516550）跌0.75%，半日成交额366.06万元|ETF_新浪财经_新浪网",
+    "title_full": "农业ETF（516550）跌0.75%，半日成交额366.06万元|ETF_新浪财经_新浪网",
+    "published": "2025-06-19T06:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a5dd5b1e42152917e07ddd701a617aa12a73e9fa",
+  "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrft3928113.shtml",
+  "ord_in_thread": 0,
+  "author": "小浪财讯",
+  "published": "2025-06-19T06:32:00.000+03:00",
+  "title": "农业ETF（516550）跌0.75%，半日成交额366.06万元|ETF_新浪财经_新浪网",
+  "text": "6月19日，截止午间收盘，农业ETF（516550）跌0.75%，报0.660元，成交额366.06万元。农业ETF（516550）重仓股方面， 东鹏饮料 截止午盘跌0.80%， 温氏股份 跌0.58%， 牧原股份 跌0.56%， 伊利股份 跌0.39%， 盐湖股份 跌0.85%， 海天味业 跌3.23%， 海大集团 跌0.14%， 云天化 跌0.75%， 藏格矿业 跌0.34%， 双汇发展 跌0.16%。\n农业ETF（516550）业绩比较基准为 中证大农业指数 收益率，管理人为嘉实基金管理有限公司，基金经理为李直，成立（2021-03-30）以来回报为-33.38%，近一个月回报为3.27%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Social Issue"],
+  "topics": [
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->market and exchange",
+    "Economy, Business and Finance->agriculture",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+    "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+    "https://finance.sina.cn/app/sfa_macd.shtml"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_hk", "top_news_sg", "top_news_tw", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:39:15.243+03:00",
+  "updated": "2025-06-20T05:05:53.000+00:00"
+}

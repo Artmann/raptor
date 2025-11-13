@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "743921a5d617c9405ba017850883ded6c43ece9d",
+    "url": "https://www.nzherald.co.nz/sport/ufc/ufc-313-dan-hooker-and-justin-gaethje-booked-for-co-main-event-in-las-vegas/RXQWXEYEL5FH5AMAP5RXGBPYBM",
+    "site_full": "www.nzherald.co.nz",
+    "site": "nzherald.co.nz",
+    "site_section": "https://nzherald.co.nz/sport/boxing",
+    "site_categories": [
+      "science",
+      "geology",
+      "top_news_au",
+      "top_news_nz",
+      "top_news"
+    ],
+    "section_title": "Boxing News: Ringside Updates &amp; Fighter Spotlights  - NZ Herald",
+    "title": "UFC 313: Dan Hooker and Justin Gaethje booked for co-main event in Las Vegas",
+    "title_full": "UFC 313: Dan Hooker and Justin Gaethje booked for co-main event in Las Vegas",
+    "published": "2025-01-23T10:55:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NZ",
+    "main_image": "https://www.nzherald.co.nz/resizer/v2/L2VF43LC4ZGYLF5R7MT3LT37GM.jpg?auth=86b87873f94a17d5e6ce922714369f60888d0f90387875f8301cf950c752445e&amp;width=1200&amp;height=675&amp;quality=70&amp;focal=2927%2C1697&amp;smart=false",
+    "performance_score": 0,
+    "domain_rank": 1180,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "743921a5d617c9405ba017850883ded6c43ece9d",
+  "url": "https://www.nzherald.co.nz/sport/ufc/ufc-313-dan-hooker-and-justin-gaethje-booked-for-co-main-event-in-las-vegas/RXQWXEYEL5FH5AMAP5RXGBPYBM",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@nzherald",
+  "published": "2025-01-23T10:55:00.000+02:00",
+  "title": "UFC 313: Dan Hooker and Justin Gaethje booked for co-main event in Las Vegas",
+  "text": "Dan Hooker has some questions to answer.\nAt UFC 313 in Las Vegas in March, the Kiwi lightweight will meet American Justin Gaethje in a five-round co-main event – Hooker finally getting “the battle of the highlight reel” he called for after his win over Paul Felder at UFC Auckland five years ago.\nIt’s as fan-friendly a match-up as the UFC could possibly make and one in which Hooker believes he will be able to make a statement in.\n“That’s the question that people ask - ‘yeah, he’s an exciting fighter, everyone loves to watch his fights, but does he have that championship calibre skill level?’\n“I feel like going out there and not only beating Justin Gaethje, but being able to outclass him and out-technique him will answer a lot of those questions.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->martial arts",
+    "Sport->regular competition",
+    "Sport->sport event",
+    "Lifestyle and Leisure->game",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Dan Hooker",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Justin Gaethje",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Paul Felder",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "UFC",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:21:04.833+02:00",
+  "updated": "2025-01-24T00:21:04.833+02:00"
+}

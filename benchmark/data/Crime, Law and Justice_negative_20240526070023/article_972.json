@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "4b4ed1d94e587696b2964006279c916d9ae857db",
+    "url": "https://globalnews.ca/news/10450562/edmonton-violent-offender-luis-kenny-released",
+    "site_full": "globalnews.ca",
+    "site": "globalnews.ca",
+    "site_section": "https://globalnews.ca/edmonton",
+    "site_categories": ["media", "health", "cold_and_flu", "top_news"],
+    "section_title": "Edmonton News | Weather &amp; Traffic - Latest Sports | Breaking News",
+    "title": "Edmonton police warn of violent offender being released into community - Edmonton | Globalnews.ca",
+    "title_full": "Edmonton police warn of violent offender being released into community - Edmonton | Globalnews.ca",
+    "published": "2024-04-25T20:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://globalnews.ca/wp-content/uploads/2024/04/Luis-Kenny.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+    "performance_score": 0,
+    "domain_rank": 931,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4b4ed1d94e587696b2964006279c916d9ae857db",
+  "url": "https://globalnews.ca/news/10450562/edmonton-violent-offender-luis-kenny-released",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Karen Bartko Global News",
+  "published": "2024-04-25T20:35:00.000+03:00",
+  "title": "Edmonton police warn of violent offender being released into community - Edmonton | Globalnews.ca",
+  "text": "Edmonton police issued a warning Thursday about a convicted violent offender being released from jail who the service believes will commit another violent crime while in the community. Luis Kenny will be living in Edmonton after he is released from jail on Thursday, police said. He is currently subject to a court order, with conditions, and is being managed by the behavioural assessment unit of the Edmonton Police Service. The specialized unit deals only with high-risk, violent sexual offenders and high-risk violent offenders who are released to the Edmonton area. At any given time, the BAU’s team is tasked with supervising dozens of high-risk offenders, keeping tabs on them and also trying to help the offenders adjust to life outside of prison. Police said Kenny’s violent offences have resulted in physical harm to his victims, and he has been known to carry and use weapons in the commission of his offences. Kenny has been known to quickly escalate to violence with his girlfriend or anyone within the community, police added. Kenny has been placed on a series of court-ordered conditions, including: [sent to your email, as it happens.](javascript:void(0)) - Living at a residence approved by the Provincial Court or his supervisor and must not change that address until he has received written approval from his supervisor - Abide by a curfew of 10 p.m. to 6 a.m. daily unless a varied time is approved in writing by his supervisor - Not having any guests at his home during curfew unless they have been identified and approved by his supervisor - No travel outside Edmonton without written approval of his supervisor or the courts - Must immediately report to his supervisor any motor vehicle he acquires or has access to - No possession of weapons of any kind, including knives (except in his residence or at a restaurant, for the sole purpose of consuming a meal) bear spray or dog spray, firearms, ammunition, explosive material, or any weapons whether homemade or otherwise - Can’t possess or consume alcohol, illegal drugs or intoxicating substances Anyone with any information about any potential breaches of these conditions by Kenny can contact the EPS at 780-423-4567. The Edmonton Police Service said it was issuing the information and warning after careful deliberation of all related issues, including privacy concerns, in the belief that it is clearly in the public interest to inform the members of the community.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://d21y75miwcfqoq.cloudfront.net/70c8fc80",
+    "https://www.d21y75miwcfqoq.cloudfront.net/70c8fc80"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "luis kenny",
+        "sentiment": "none"
+      },
+      {
+        "name": "kenny",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "edmonton police service",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "edmonton",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:48:14.916+03:00",
+  "updated": "2024-04-26T01:21:42.664+03:00"
+}

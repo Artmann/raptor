@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "cc90232ef41eee2a3bf45cededde6dce957eeda6",
+    "url": "https://ktrh.iheart.com/featured/houston-texas-news/content/2024-04-25-da-kim-ogg-turns-over-lina-hidalgo-investigation-to-ag-ken-paxton",
+    "site_full": "ktrh.iheart.com",
+    "site": "iheart.com",
+    "site_section": "https://ktrh.iheart.com/",
+    "site_categories": ["media"],
+    "section_title": "NewsRadio 740 KTRH - Houston&#x27;s News, Weather &amp; Traffic Station",
+    "title": "DA Kim Ogg Turns Over Lina Hidalgo Investigation To AG Ken Paxton | NewsRadio 740 KTRH | KTRH Local Houston and Texas News",
+    "title_full": "DA Kim Ogg Turns Over Lina Hidalgo Investigation To AG Ken Paxton | NewsRadio 740 KTRH | KTRH Local Houston and Texas News",
+    "published": "2024-04-25T22:53:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://i.iheart.com/v3/re/new_assets/662aa2d865c9832e68f64402?ops=gravity(%22north%22),fit(1200,675),quality(65)",
+    "performance_score": 0,
+    "domain_rank": 857,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cc90232ef41eee2a3bf45cededde6dce957eeda6",
+  "url": "https://ktrh.iheart.com/featured/houston-texas-news/content/2024-04-25-da-kim-ogg-turns-over-lina-hidalgo-investigation-to-ag-ken-paxton",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "B.D. Hobbs",
+  "published": "2024-04-25T22:53:00.000+03:00",
+  "title": "DA Kim Ogg Turns Over Lina Hidalgo Investigation To AG Ken Paxton | NewsRadio 740 KTRH | KTRH Local Houston and Texas News",
+  "text": "Harris County judge Lina Hidalgo may be in power locally with fellow Democrats who protect her, but the investigation over the $11 million dollar 'bid-rigging' scheme is far from over.\nHarris County District Attorney Kim Ogg announced that she has asked the Texas Attorney General's Office to assist with the case, and take over the investigation.\n“I have asked the office of the AG to assume jurisdiction of the 6 public corruption cases pending against 3 former members of Harris County Judge Lina Hidalgo's office\" Ogg said in a statement.\nAt a press conference, DA Ogg also made it clear, why she was doing so.\n\"We cannot have one set of rules for the politically powerful, and another set of rules for the powerless\" Ogg said, \"That's why I turned to the largest law enforcement institution in Texas with jurisdiction over public corruption cases.\"\nIn a statement, Texas Attorney General Ken Paxton said: “Our prosecutors and investigators are the best in the State. They handle every case with utmost professionalism. In this case as in all others, we will seek truth and justice.\"\nIn 2021, the Harris County Commissioners Court awarded an $11 million contract to Elevate Strategies for targeted COVID-19 vaccine community outreach. Elevate Strategies was a one-person organization recommended by County Judge Lina Hidalgo's staffers despite other entities achieving higher scores on the internal evaluations. During the bidding process, Hidalgo staffers waived typical financial fitness requirements and even shared details of the potential bid with Elevate Strategies weeks before the information was made public. In 2022, three Hidalgo staffers were indicted by a grand jury on bid-rigging charges.\nThe OAG’s Law Enforcement and Criminal Prosecutions Divisions regularly provide investigative and prosecutorial assistance throughout the State of Texas. When appropriate, OAG investigators and prosecutors will present evidence to a Harris County jury regarding these cases.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "ken paxton",
+        "sentiment": "negative"
+      },
+      {
+        "name": "lina hidalgo",
+        "sentiment": "negative"
+      },
+      {
+        "name": "da kim ogg turns over lina hidalgo",
+        "sentiment": "negative"
+      },
+      {
+        "name": "kim ogg",
+        "sentiment": "none"
+      },
+      {
+        "name": "da ogg",
+        "sentiment": "none"
+      },
+      {
+        "name": "ogg",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "ktrh local houston",
+        "sentiment": "negative"
+      },
+      {
+        "name": "ktrh",
+        "sentiment": "negative"
+      },
+      {
+        "name": "texas news",
+        "sentiment": "negative"
+      },
+      {
+        "name": "ag",
+        "sentiment": "none"
+      },
+      {
+        "name": "texas attorney general's office",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "harris county",
+        "sentiment": "none"
+      },
+      {
+        "name": "texas",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:03:57.999+03:00",
+  "updated": "2024-04-26T00:03:57.999+03:00"
+}

@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "4dd3697cda805710fc325f9cd28aebeda2045e25",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5213784",
+    "site_full": "ec.ltn.com.tw",
+    "site": "ltn.com.tw",
+    "site_section": "https://www.ltn.com.tw/",
+    "site_categories": [
+      "financial_news",
+      "finance",
+      "top_news_hk",
+      "top_news_nz",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "自由時報電子報",
+    "site_title": null,
+    "title": "台達電斬獲中油訂單 攜手翔盟導入先進節能方案 - 自由財經",
+    "title_full": "台達電斬獲中油訂單 攜手翔盟導入先進節能方案 - 自由財經",
+    "published": "2025-10-16T15:27:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "EC",
+    "main_image": "https://img.ltn.com.tw/Upload/business/page/800/2025/10/16/5213784_1.jpg",
+    "performance_score": 0,
+    "domain_rank": 12237,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4dd3697cda805710fc325f9cd28aebeda2045e25",
+  "url": "https://ec.ltn.com.tw/article/breakingnews/5213784",
+  "ord_in_thread": 0,
+  "author": "自由時報電子報",
+  "published": "2025-10-16T15:27:00.000+03:00",
+  "title": "台達電斬獲中油訂單 攜手翔盟導入先進節能方案 - 自由財經",
+  "text": "台達電持續鎖定減碳商機，透過攜手供應鏈打造先進節能解決方案。（資料照）\n〔記者方韋傑／台北報導〕電源供應器大廠台達電（2308）持續鎖定減碳商機，透過攜手供應鏈打造先進節能解決方案，成功斬獲國內油品龍頭企業專案訂單，助攻中油整體系統平均節省48%至51.6%能源，其中周邊水泵浦與馬達汰換用電改善2成，冰水主機用電優化3成，每年碳排合計大約降低271公噸、電費支出減少210萬元。\n觀察中油過去將全國加油站資訊匯集至總部之後，從2019年展開節能計畫，今年更進一步將減碳範圍比擴大至運行中的馬達、水泵。不過關鍵問題也隨之浮現，除了感應馬達效能不佳，原泵浦總馬力也達到1020匹，但實際使用上僅需230匹，容量配置明顯超出需求，此外，由於缺乏變頻控制能力，設備無法根據當下的負載情況自動調節運轉頻率。\n請繼續往下閱讀...",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chineset",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Environment"],
+  "topics": [
+    "Economy, Business and Finance->energy and resource",
+    "Economy, Business and Finance->manufacturing and engineering",
+    "Environment->sustainability",
+    "Environment->energy resources",
+    "Environment->energy saving"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_hk", "top_news_nz", "top_news_tw", "top_news"],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:34:14.367+03:00",
+  "updated": "2025-10-16T15:42:53.000+03:00"
+}

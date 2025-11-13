@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "ca5844025e7ddfd801ca50ef2acfa51e58beb6d7",
+    "url": "https://www.ipswichstar.co.uk/news/national/24016269.woman-believed-held-hostage-gaza-declared-dead/",
+    "site_full": "www.ipswichstar.co.uk",
+    "site": "ipswichstar.co.uk",
+    "site_section": "https://ipswichstar.co.uk",
+    "site_categories": ["media"],
+    "section_title": "Ipswich  News, Sport &amp; Things to do | Ipswich Star",
+    "title": "Woman believed to be held hostage in Gaza declared dead | Ipswich Star",
+    "title_full": "Woman believed to be held hostage in Gaza declared dead | Ipswich Star",
+    "published": "2023-12-28T23:39:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "https://www.ipswichstar.co.uk/resources/images/17594654/?type=og-image",
+    "performance_score": 0,
+    "domain_rank": 75060,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ca5844025e7ddfd801ca50ef2acfa51e58beb6d7",
+  "url": "https://www.ipswichstar.co.uk/news/national/24016269.woman-believed-held-hostage-gaza-declared-dead/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "PA News Agency",
+  "published": "2023-12-28T23:39:00.000+02:00",
+  "title": "Woman believed to be held hostage in Gaza declared dead | Ipswich Star",
+  "text": "A hard-hit Israeli kibbutz has announced the death of Judith Weinstein — an American-Canadian-Israeli woman who had been thought to be held hostage in Gaza. The news came six days after Ms Weinstein’s husband, Gad Haggai, was also declared dead. Ms Weinstein, 70, and Mr Haggai, 73, were taking an early morning walk near their home in Kibbutz Nir Oz on the morning of October 7 when Hamas militants burst across the border into Israel, killing about 1,200 people and kidnapping 240 others. In the early hours of the morning, Ms Weinstein was able to call emergency services and let them know that both she and her husband had been shot and send a message to her family. Ms Weinstein and her husband had been thought to be among the hostages still held in captivity in Gaza. But six days ago, the kibbutz announced that Mr Haggai was killed on October 7 and his body was taken to Gaza. On Thursday, the kibbutz said it had learned that Ms Weinstein was also killed on October 7 and her body is also being held in Gaza. It was not immediately clear how Israeli authorities determined their deaths. The couple are survived by two sons and two daughters and seven grandchildren, the kibbutz said. US President Joe Biden said he was “devastated” to learn of Ms Weinstein’s death, especially after hearing about the couple during a meeting with their daughter. The families “have been living through hell for weeks. No family should have to endure such an ordeal”, he said in a statement. Ms Weinstein was born in New York and was an active member of Kibbutz Nir Oz, a small community near the Gaza border where she taught English to children with special needs. The kibbutz said she also taught meditation techniques to children and teenagers who suffered from anxiety as a result of rocket fire from Gaza. Mr Haggai was a retired chef and jazz musician. “Judy dedicated her life to serving others, spending years teaching English and using her passions for poetry, puppeteering, and mindfulness to empower children of all backgrounds,” her family said in a statement. Al Haggai, one of the couple’s sons, told Israel’s Channel 13 that the family had originally hoped their mother’s multiple citizenships would allow her to be released during the week-long ceasefire in late November, when 105 hostages were let go. Almost all were women and children. He said that when his mother’s name was not on any of the daily lists, he started to suspect that something had happened to her. According to Israeli Prime Minister Benjamin Netanyahu’s office, at least 23 of the approximately 129 hostages believed to be held in Gaza have either died or been killed in captivity. Nir Oz was one of the hardest-hit Israeli communities on October 7, with roughly a quarter of its residents killed or kidnapped. The families of missing hostages have drawn widespread support and sympathy in Israel as they press the government to reach a new ceasefire deal to bring home their loved ones. Mr Netanyahu met on Thursday in Tel Aviv with some of the families, where he told them there were behind-the-scene efforts to bring the hostages home, according to a statement from his office. “I can’t elaborate on the details, we are working to return everyone,” he said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Human Interest", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "judith weinstein",
+        "sentiment": "negative"
+      },
+      {
+        "name": "weinstein",
+        "sentiment": "none"
+      },
+      {
+        "name": "haggai",
+        "sentiment": "none"
+      },
+      {
+        "name": "gad haggai",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "hamas",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "gaza",
+        "sentiment": "none"
+      },
+      {
+        "name": "israel",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:08:29.586+02:00",
+  "updated": "2023-12-29T00:08:29.586+02:00"
+}

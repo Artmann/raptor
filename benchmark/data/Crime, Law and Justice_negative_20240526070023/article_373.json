@@ -1,0 +1,166 @@
+{
+  "thread": {
+    "uuid": "6fddee6574970bb758890d0db268b41933eec7a0",
+    "url": "https://www.foxnews.com/politics/dc-mayor-refuses-to-meet-father-lost-three-sons-city-violent-crime",
+    "site_full": "www.foxnews.com",
+    "site": "foxnews.com",
+    "site_section": "https://moxie.foxnews.com/google-publisher/politics.xml",
+    "site_categories": ["media", "top_news"],
+    "section_title": "Latest Political News on Fox News",
+    "title": "DC mayor refuses to meet with father who lost three sons to city's violent crime | Fox News",
+    "title_full": "DC mayor refuses to meet with father who lost three sons to city's violent crime | Fox News",
+    "published": "2024-04-25T23:44:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/GettyImages-2131332074.jpg",
+    "performance_score": 0,
+    "domain_rank": 295,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 10,
+        "comments": 1,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6fddee6574970bb758890d0db268b41933eec7a0",
+  "url": "https://www.foxnews.com/politics/dc-mayor-refuses-to-meet-father-lost-three-sons-city-violent-crime",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Brandon Gillespie",
+  "published": "2024-04-25T23:44:00.000+03:00",
+  "title": "DC mayor refuses to meet with father who lost three sons to city's violent crime | Fox News",
+  "text": "Democratic Washington, D.C., Mayor Muriel Bowser is refusing to meet with a father who lost three sons to violent crimes in the city despite his continued quest for answers from officials concerning the crime crisis plaguing him and his fellow residents. \\\"No,\\\" Bowser abruptly told a local Fox affiliate when asked if she planned to meet with John Evans, who has been asking for a meeting with city officials since the death of his third son, Avion Evans. Authorities say Avion was shot and killed at D.C.'s Brookland Metro station on April 4. Avion's older brother, Johnny Evans III, was stabbed to death at D.C.'s Deanwood Metro station eight years earlier in April 2016, and his half brother, John Coleman, was reportedly shot to death while doing handiwork for a neighbor last May. SEC. BUTTIGIEG SAYS HE CAN ‘SAFELY’ WALK DOG, BUT DC NATIVE IS MORE FRIGHTENED: ‘PRISONER IN YOUR OWN HOME’ According to Fox 5 DC, the Office of Neighborhood Safety and Engagement contacted the family, but Evans wants to speak with city leadership about his concerns over crime. He has yet to hear from anyone despite three weeks passing since his latest son's death. The affiliate asked Bowser about the shooting on April 10, but she replied, \\\"I’m not going to talk about their concerns with you. I’ll talk to them about it because, obviously, that’s troubling to us.\\\" It asked Bowser again on Wednesday if she had spoken with the Evans family. HARRIS TEETER IS COMBATING DC THEFT SURGE WITH NEW POLICIES, INCLUDING BAG RESTRICTIONS \\\"I don’t talk about my discussions with families,\\\" she responded, but the reporter pressed her, clarifying that she was asking whether she planned to meet with Evans, and not about the nature of any conversation. After saying she was not, the reporter asked why. \\\"I’ve answered your question. Any other questions?\\\" Bowser said. Fox News Digital has reached out to Bowser's office for comment. CLICK HERE TO GET THE FOX NEWS APP Crime dipped in some major cities across the country in recent years, but the nation's capital has faced a surge, ending 2023 with 274 murders – the most in over two decades, according to Metropolitan Police Department data. Robberies and thefts spiked 67% and 23%, respectively, while motor vehicle thefts almost doubled. Fox News Megan Myers contributed to this report.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Social Issue"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.foxbusiness.com/media/harris-teeter-combating-dc-theft-surge-new-policies-bag-restrictions",
+    "https://mpdc.dc.gov/page/district-crime-data-glance",
+    "https://foxbusiness.com/media/harris-teeter-combating-dc-theft-surge-new-policies-bag-restrictions",
+    "https://www.mpdc.dc.gov/page/district-crime-data-glance"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "muriel bowser",
+        "sentiment": "negative"
+      },
+      {
+        "name": "avion evans",
+        "sentiment": "none"
+      },
+      {
+        "name": "john coleman",
+        "sentiment": "none"
+      },
+      {
+        "name": "craig hudson",
+        "sentiment": "none"
+      },
+      {
+        "name": "bowser",
+        "sentiment": "none"
+      },
+      {
+        "name": "johnny evans iii",
+        "sentiment": "none"
+      },
+      {
+        "name": "avion",
+        "sentiment": "none"
+      },
+      {
+        "name": "buttigieg",
+        "sentiment": "none"
+      },
+      {
+        "name": "john evans",
+        "sentiment": "none"
+      },
+      {
+        "name": "fox",
+        "sentiment": "none"
+      },
+      {
+        "name": "eng",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "fox news democratic",
+        "sentiment": "negative"
+      },
+      {
+        "name": "sec",
+        "sentiment": "none"
+      },
+      {
+        "name": "washington post",
+        "sentiment": "none"
+      },
+      {
+        "name": "getty images",
+        "sentiment": "none"
+      },
+      {
+        "name": "fox",
+        "sentiment": "none"
+      },
+      {
+        "name": "dc",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "d.c.",
+        "sentiment": "none"
+      },
+      {
+        "name": "washington",
+        "sentiment": "none"
+      },
+      {
+        "name": "dc",
+        "sentiment": "none"
+      },
+      {
+        "name": "brookland metro",
+        "sentiment": "none"
+      },
+      {
+        "name": "deanwood metro",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:15:02.089+03:00",
+  "updated": "2024-04-26T02:36:30.140+03:00"
+}

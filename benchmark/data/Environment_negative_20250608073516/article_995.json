@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "b13aa8b69bd7fca6858073f34eb02f80a30bacbc",
+    "url": "https://www.devdiscourse.com/article/science-environment/3374512-aprils-alarming-heat-a-glimpse-into-our-warming-world",
+    "site_full": "www.devdiscourse.com",
+    "site": "devdiscourse.com",
+    "site_section": "https://www.devdiscourse.com/news-analysis/",
+    "site_categories": ["media"],
+    "section_title": "Breaking News, Development News, Latest News, Politics News, Sports News | Devdiscourse",
+    "site_title": "International Development News, Breaking News, Opinion and Analysis - Devdiscourse",
+    "title": "April's Alarming Heat: A Glimpse into Our Warming World | Science-Environment",
+    "title_full": "April's Alarming Heat: A Glimpse into Our Warming World | Science-Environment",
+    "published": "2025-05-08T06:16:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/01_04_2025_07_55_20_6489038.png?width=920&format=jpeg",
+    "performance_score": 0,
+    "domain_rank": 8701,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b13aa8b69bd7fca6858073f34eb02f80a30bacbc",
+  "url": "https://www.devdiscourse.com/article/science-environment/3374512-aprils-alarming-heat-a-glimpse-into-our-warming-world",
+  "ord_in_thread": 0,
+  "author": "Devdiscourse News Desk",
+  "published": "2025-05-08T06:16:00.000+03:00",
+  "title": "April's Alarming Heat: A Glimpse into Our Warming World | Science-Environment",
+  "text": "April's Alarming Heat: A Glimpse into Our Warming World\nApril 2025 was the second hottest on record, with global temperatures 1.51°C above pre-industrial levels. Human activities, mainly fossil fuel burning, contribute to this warming, causing severe climate impacts. Continuous climate monitoring is essential for understanding these changes.\n- Country:\n- India\nLast month's global temperatures reached new heights, marking the period as the second-warmest April recorded, according to Copernicus, Europe's climate agency.\nThe average surface air temperature was 14.96°C, exceeding the 1991–2020 norm for April by 0.60°C, trailing only behind April 2024 by 0.07°C.\nWith these alarming temperatures, experts reiterate that human-induced climate change, primarily through fossil fuel combustion, demands urgent global action to mitigate increasingly extreme weather events.\n(With inputs from agencies.)\nAdvertisement",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Politics"],
+  "topics": [
+    "Environment->global warming",
+    "Environment->climate change",
+    "Environment->sustainability",
+    "Social Issue->population and census",
+    "Social Issue->mankind",
+    "Politics->environmental policy",
+    "Politics->human rights"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Europe",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Citigroup",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "C",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T07:01:15.047+03:00",
+  "updated": "2025-05-08T04:06:18.000+00:00"
+}

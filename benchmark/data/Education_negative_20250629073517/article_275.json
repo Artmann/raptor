@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "7edb01effc8dd5b748a3d45fb290f4ef5a159053",
+    "url": "https://guardian.ng/features/education/egypt-south-african-varsities-beat-nigeria-at-global-qs-rankings",
+    "site_full": "guardian.ng",
+    "site": "guardian.ng",
+    "site_section": "https://www.guardian.ng",
+    "site_categories": ["media"],
+    "section_title": "Homepage | The Guardian Nigeria News - Nigeria and World News",
+    "site_title": "Homepage | The Guardian Nigeria News - Nigeria and World News",
+    "title": "Egypt, South African varsities beat Nigeria at global QS rankings",
+    "title_full": "Egypt, South African varsities beat Nigeria at global QS rankings",
+    "published": "2025-06-26T06:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NG",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4824,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7edb01effc8dd5b748a3d45fb290f4ef5a159053",
+  "url": "https://guardian.ng/features/education/egypt-south-african-varsities-beat-nigeria-at-global-qs-rankings",
+  "ord_in_thread": 0,
+  "author": "Amos",
+  "published": "2025-06-26T06:33:00.000+03:00",
+  "title": "Egypt, South African varsities beat Nigeria at global QS rankings",
+  "text": "For the third year in a row, no Nigerian university has made it to the top 1,000 of the Quacquarelli Symonds (QS) World University Rankings, once again excluding all 297 Nigerian universities from the global elite list.\nOnly three institutions, namely the University of Ibadan (UI), the University of Lagos (UNILAG) and Ahmadu Bello University (ABU), Zaria, were ranked at all.\nWhile UI and UNILAG were ranked in the 1,001–1,200 band for both the 2025 and 2026 editions, ABU appeared for the first time in the 1,201–1,400 range.\nThe QS World University Rankings are compiled yearly by Quacquarelli Symonds, and assess institutions based on eight key performance indicators: academic reputation, employer reputation, faculty/student ratio, citations per faculty, international faculty ratio, international student ratio, international research network, employment outcomes, and sustainability.\nDespite longstanding reputations and a high number of graduates being produced yearly, Nigerian universities have continued to underperform in areas such as research output, international collaboration, and employability metrics, factors that heavily influence global rankings.\nAcross Africa, Egypt led the continent with 20 universities on the 2026 list, followed by South Africa with 11, and Tunisia with four.\nGhana and Morocco each had two universities listed, while Kenya, Libya, Sudan, Uganda, and Ethiopia had one each.\nNotably, the only African universities to break into the top 300 are from South Africa, with the University of Cape Town ranking 150th and the University of Witwatersrand ranking 291st\nThe global top 10 include Massachusetts Institute of Technology (MIT), United States; Imperial College, London; Stanford University, United States Oxford University, United Kingdom; Harvard University, United States University of Cambridge, United Kingdom; ETH Zurich-Swiss Federal Institute of Technology, Switzerland; National University of Singapore; University College London, and California Institute of Technology, United States.\nThese institutions not only lead in research output and faculty reputation, but also boast of substantial international partnerships and high graduate employability scores.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->educational grading",
+    "Education->college and university",
+    "Social Issue->demographics",
+    "Social Issue->social condition",
+    "Social Issue->social services",
+    "Human Interest->record and achievement"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "University of Ibadan",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "University of Lagos",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T10:17:46.394+03:00",
+  "updated": "2025-06-26T07:22:29.000+00:00"
+}

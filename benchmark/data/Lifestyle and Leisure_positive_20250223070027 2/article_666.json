@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "24b60a194ba5aa82ae042dafc1f6ee511ba71d1e",
+    "url": "https://hipertextual.com/2025/01/operator-es-lo-nuevo-de-chatgpt-y-puede-navegar-la-web-por-ti",
+    "site_full": "hipertextual.com",
+    "site": "hipertextual.com",
+    "site_section": "https://www.hipertextual.com",
+    "site_categories": ["tech"],
+    "section_title": "Hipertextual | Tecnología, ciencia y cultura digital | Vivimos en 2077",
+    "title": "Lo nuevo de ChatGPT puede navegar la web por ti, pero no te emociones todavía",
+    "title_full": "Lo nuevo de ChatGPT puede navegar la web por ti, pero no te emociones todavía",
+    "published": "2025-01-23T22:01:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 9488,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "24b60a194ba5aa82ae042dafc1f6ee511ba71d1e",
+  "url": "https://hipertextual.com/2025/01/operator-es-lo-nuevo-de-chatgpt-y-puede-navegar-la-web-por-ti",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Gabriel Erard",
+  "published": "2025-01-23T22:01:00.000+02:00",
+  "title": "Lo nuevo de ChatGPT puede navegar la web por ti, pero no te emociones todavía",
+  "text": "OpenAI no para de añadirle nuevas funciones a ChatGPT ; la última es un agente de inteligencia artificial que puede navegar por la web y realizar diferentes tareas por ti . Se llama Operator , y ya se encuentra disponible a modo de research preview. Eso sí, solo es accesible para usuarios en Estados Unidos suscriptos a ChatGPT Pro, que cuesta 200 dólares al mes .\nMás allá de su acotada disponibilidad, lo que propone Operator en ChatGPT es muy interesante. Lo que hace esta herramienta es tomar las instrucciones de los usuarios, abrir una ventana del navegador web dentro de la propia conversación y ejecutar las acciones que se le encomiendan.\nAsí, por ejemplo, se le puede pedir a la IA que busque una receta en un sitio web específico, y que añada los ingredientes al carrito de una tienda en línea. Incluso es posible indicarle que omita ciertos ingredientes que ya se tienen y que no hace falta comprar, entre otras posibilidades. También puede buscar hoteles o cabañas para una escapada de descanso, siguiendo ciertas fechas o patrones específicos, y confirmar la reserva por nosotros.\nSegún explica OpenAI, se ha entrenado a Operator para que reconozca e interactúe con diferentes elementos típicos de la interfaz web de un sitio web. Por ejemplo, campos de texto, botones y menús . Para que la nueva herramienta de ChatGPT vea lo que hay en pantalla, utiliza las capacidades de visión de GPT-4o para tomar capturas y analizarlas , y luego replica las acciones disponibles a través de un teclado y ratón.\nOperator es lo nuevo de ChatGPT que puede navegar la web por ti OpenAI aclara que la nueva función de ChatGPT está recién en una fase inicial, por lo que sus capacidades todavía son limitadas . Eso explica su acotada disponibilidad, tanto a nivel territorial como de suscripciones. De todos modos, la compañía indica que planea ampliar su alcance a los usuarios de ChatGPT Plus, Team y Enterprise en el futuro, aunque no brindó posibles fechas para concretarlo.\nUn punto interesante de Operator es que puede autocorregirse si comete un error o encuentra dificultades. En tanto que si se atasca en alguna tarea, le entrega el control de las acciones al usuario. Vale remarcar que, además, las personas pueden tomar las riendas de las acciones en todo momento. Y el agente de ChatGPT también solicita interacción humana cuando se tienen que concretar acciones como la resolución de un CAPTCHA, el inicio de sesión con usuario y contraseña, el ingreso de información de pago o la confirmación del envío de un correo electrónico.\nOperator tiene un navegador web integrado y permite a los usuarios tomar el control en cualquier momento. La herramienta tampoco puede usarse para concretar transacciones bancarias, ni para determinar si se debe aceptar o rechazar una oferta de trabajo. OpenAI las considera \"decisiones de alto riesgo\" y están fuera de los límites de lo que Operator y ChatGPT pueden hacer.\nAsimismo, la empresa se ha aliado con múltiples compañías como Booking, eBay, TripAdvisor, Instacart, Uber y DoorDash, por solo mencionar algunas. Esto permite que Operator use \"filtros\" correspondientes a los sitios en cuestión para realizar acciones, y que durante su funcionamiento no viole los términos de uso de cada uno de esos servicios.\nLos usuarios estadounidenses de ChatGPT Pro ya pueden acceder a este nuevo agente de IA a través de operator.chatgpt.com . En el futuro, OpenAI aspira a brindar una integración todavía mayor entre esta utilidad y su chatbot de inteligencia artificial.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->products and services",
+    "Economy, Business and Finance->computing and information technology",
+    "Lifestyle and Leisure->trend",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.youtube.com/embed/CSE77wAdDLg?feature=oembed",
+    "https://operator.chatgpt.com/",
+    "https://openai.com/index/introducing-operator/",
+    "https://openai.com/index/introducing-operator",
+    "https://youtube.com/embed/CSE77wAdDLg?feature=oembed",
+    "https://www.openai.com/index/introducing-operator/",
+    "https://www.operator.chatgpt.com/",
+    "https://operator.chatgpt.com",
+    "https://www.youtube.com/embed/CSE77wAdDLg"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Operator",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "IA",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:30:14.064+02:00",
+  "updated": "2025-01-24T00:30:14.064+02:00"
+}

@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "905ae5f226f56c69cead61c18e605d10f08eb424",
+    "url": "https://www.shawlocal.com/the-herald-news/2024/04/25/state-police-warns-residents-of-scam-callers-impersonating-officers",
+    "site_full": "www.shawlocal.com",
+    "site": "shawlocal.com",
+    "site_section": "https://www.shawlocal.com/arcio/rss",
+    "site_categories": ["media", "law_government_and_politics", "legal_issues"],
+    "section_title": "Shaw Media Local",
+    "title": "State police warns residents of scam callers impersonating officers",
+    "title_full": "State police warns residents of scam callers impersonating officers",
+    "published": "2024-04-26T00:14:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.shawlocal.com/resizer/Sy2ZGHIGDmzns3Kfl1J1PLoRBT4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/shawmedia/FTZQISZEAZBG3OW7BSOLVGUFZA.jpg",
+    "performance_score": 0,
+    "domain_rank": 13696,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "905ae5f226f56c69cead61c18e605d10f08eb424",
+  "url": "https://www.shawlocal.com/the-herald-news/2024/04/25/state-police-warns-residents-of-scam-callers-impersonating-officers",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jessie Molloy",
+  "published": "2024-04-26T00:14:00.000+03:00",
+  "title": "State police warns residents of scam callers impersonating officers",
+  "text": "Will County — The Illinois State Police issued a warning to Illinois residents on Thursday to be wary of phone scammers impersonating ISP officers. According to the news release, several reports have been made in the past week from individuals who received phone calls from a person claiming to be an ISP investigator and telling the residents that their identity has been stolen. These calls are fraudulent. Illinois State Police agents do not make cold calls and will never request personal or financial information over the phone, according to the release. The state police also will not ask you to verify information in this way, according to the release. The ISP advises anyone who receives a call like this to ask for the caller’s name, badge number, and phone number then hang up. Do not provide any personal information to the caller, according to the release. You should then call your region’s investigative office, which can be found on the [ISP website](https://isp.illinois.gov/CriminalInvestigations/Zones) to verify the scam, according to the release. Anyone who has provided information to a scammer in this manner or thinks their identity may have been stolen, police recommend contacting each of the three credit bureaus — [Equifax](https://www.equifax.com/personal/credit-report-services/credit-freeze/), [Experian](https://www.experian.com/freeze/center.html), and [Transunion](https://www.transunion.com/credit-freeze) — to put a security freeze on your credit and prevent anyone from opening credit cards in your name, according to the release. You can also call the Illinois Attorney General’s Identity Theft Hotline at 1-866-999-5630, where a Consumer Advocate will help guide you through the recovery process.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://isp.illinois.gov/CriminalInvestigations/Zones",
+    "https://www.equifax.com/personal/credit-report-services/credit-freeze/",
+    "https://www.transunion.com/credit-freeze",
+    "https://www.experian.com/freeze/center.html",
+    "https://www.equifax.com/personal/credit-report-services/credit-freeze",
+    "https://www.isp.illinois.gov/CriminalInvestigations/Zones",
+    "https://transunion.com/credit-freeze",
+    "https://experian.com/freeze/center.html",
+    "https://equifax.com/personal/credit-report-services/credit-freeze/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "illinois state police",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "illinois",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:23:10.214+03:00",
+  "updated": "2024-04-26T03:47:30.289+03:00"
+}

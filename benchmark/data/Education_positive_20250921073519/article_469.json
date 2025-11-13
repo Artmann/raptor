@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "3e56b2e09ce78395cf5194cdfd31d1ebb1d13db0",
+    "url": "https://www.newsbiella.it/2025/09/18/leggi-notizia/argomenti/attualita-1/articolo/il-piemonte-investe-sul-futuro-della-mobilita-nel-segno-della-sostenibilita.html",
+    "site_full": "www.newsbiella.it",
+    "site": "newsbiella.it",
+    "site_section": "https://www.newsbiella.it/tutte-le-notizie/argomenti",
+    "site_categories": ["media"],
+    "section_title": "Tutte le notizie&nbsp;-&nbsp;Newsbiella.it",
+    "site_title": "Newsbiella.it&nbsp;-&nbsp;Quotidiano online della provincia di Biella",
+    "title": "Il Piemonte investe sul futuro della mobilità nel segno della sostenibilità",
+    "title_full": "Il Piemonte investe sul futuro della mobilità nel segno della sostenibilità",
+    "published": "2025-09-18T08:20:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://www.newsbiella.it/fileadmin/archivio/newsbiella/convegno_2_regione_17_settembre_2025.jpg",
+    "performance_score": 0,
+    "domain_rank": 83943,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3e56b2e09ce78395cf5194cdfd31d1ebb1d13db0",
+  "url": "https://www.newsbiella.it/2025/09/18/leggi-notizia/argomenti/attualita-1/articolo/il-piemonte-investe-sul-futuro-della-mobilita-nel-segno-della-sostenibilita.html",
+  "ord_in_thread": 0,
+  "author": "c. s. Regione Piemonte g. c.",
+  "published": "2025-09-18T08:20:00.000+03:00",
+  "title": "Il Piemonte investe sul futuro della mobilità nel segno della sostenibilità",
+  "text": "Sono già più di 450 i mobility manager formati gratuitamente dalla Regione Piemonte, e altri 150 sono in attesa di completare il percorso formativo nel prossimo autunno. È quanto emerso dal convegno “Verso una mobilità sostenibile”, tenutosi il 16 settembre a Torino, durante la Settimana Europea della Mobilità.\n«L’iniziativa - ha detto l’assessore regionale ai Trasporti Marco Gabusi nel corso del convegno su questo tema svoltosi nel Grattacielo della Regione - conferma il ruolo guida della Regione nel promuovere politiche concrete e strumenti innovativi per una mobilità più efficiente e sostenibile».\nSecondo l’assessore Gabusi, «Il mobility manager è una figura apicale molto importante per gestire la mobilità nei nostri territori. La Regione, in quanto ente di programmazione, ha gestito le risorse e partecipato con dedizione a tutti i tavoli nazionali sul tema». Il mobility manager è una figura professionale strategica, incaricata di analizzare e gestire gli spostamenti sistematici casa-lavoro e casa-studio. Opera all’interno di aziende, enti pubblici e istituzioni scolastiche, con il compito di redigere piani di mobilità, proporre soluzioni alternative all’uso dell’auto privata e monitorare l’impatto ambientale delle misure adottate. Grazie alla sua conoscenza del territorio e dei flussi di mobilità, contribuisce alla pianificazione urbana e alla riduzione delle emissioni.\nTra gli strumenti presentati nel corso del convegno, la piattaforma digitale Emma rappresenta il cuore operativo delle politiche regionali. Sviluppata da 5T Srl su incarico della Regione Piemonte, Emma è una soluzione open source che consente ai mobility manager di raccogliere dati, analizzare le abitudini di spostamento e stimare il risparmio ambientale derivante da misure sostenibili. Massimo Isaia, mobility manager della Regione Piemonte, ha illustrato le funzionalità della piattaforma, che permette anche la redazione e l’archiviazione dei Piani di spostamento casa-lavoro. Dati che vanno a costituire la base su cui orientare le politiche regionali. Da oggi, Emma potrà essere adottata anche dalla Regione Emilia-Romagna, a conferma della sua efficacia.Un esempio concreto di applicazione delle politiche regionali è la convenzione attivata con l’Asl di Alessandria, che consente ai dipendenti di rateizzare l’abbonamento ai mezzi pubblici. L’intervento, pensato per semplificare la vita lavorativa e incentivare l’uso del trasporto collettivo, si inserisce in una strategia più ampia di promozione della mobilità sostenibile.\nA chiudere il quadro delle iniziative, il progetto PieMove garantisce il trasporto pubblico gratuito agli studenti universitari under 26. «Ogni settimana - ha concluso l’assessore Gabusi - tra i 3.000 e i 4.000 giovani aderiscono al programma, dimostrando l’efficacia di politiche orientate all’inclusione e alla sostenibilità. Abbiamo costruito un sistema che mette al centro le persone, semplifica la vita quotidiana e promuove scelte responsabili».",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Environment", "Education"],
+  "topics": [
+    "Economy, Business and Finance->transport",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Environment->energy saving",
+    "Environment->sustainability",
+    "Education->students",
+    "Education->teachers",
+    "Education->vocational education"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Marco Gabusi",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Torino",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Regione Piemonte",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:24:57.087+03:00",
+  "updated": "2025-09-18T08:37:05.000+03:00"
+}

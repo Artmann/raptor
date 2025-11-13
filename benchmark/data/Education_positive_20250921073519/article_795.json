@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "7fc2d02c6718ced5fcc7a8c505a88392619d1218",
+    "url": "https://www.elbalad.news/6701639",
+    "site_full": "www.elbalad.news",
+    "site": "elbalad.news",
+    "site_section": "https://www.elbalad.news/rss.aspx",
+    "site_categories": [
+      "media",
+      "top_news_ma",
+      "top_news_iq",
+      "top_news_il",
+      "top_news_ae",
+      "top_news_qa",
+      "top_news_eg",
+      "top_news_sa",
+      "top_news_kw",
+      "top_news"
+    ],
+    "section_title": "جميع الموضوعات - صدى البلد",
+    "site_title": "صدى البلد",
+    "title": "بديل اللانشون .. شرائح صدور الدجاج لساندوتشات اللانش بوكس",
+    "title_full": "بديل اللانشون .. شرائح صدور الدجاج لساندوتشات اللانش بوكس",
+    "published": "2025-09-18T09:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "EG",
+    "main_image": "https://media.elbalad.news/2024/10/large/1019/0/942.jpg",
+    "performance_score": 0,
+    "domain_rank": 8441,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 21
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7fc2d02c6718ced5fcc7a8c505a88392619d1218",
+  "url": "https://www.elbalad.news/6701639",
+  "ord_in_thread": 0,
+  "author": "@ElBaladOfficial",
+  "published": "2025-09-18T09:00:00.000+03:00",
+  "title": "بديل اللانشون .. شرائح صدور الدجاج لساندوتشات اللانش بوكس",
+  "text": "تحرص الكثير من الأمهات مع بداية العام الدراسي على تقديم وجبات صحية ومتوازنة لأطفالهن داخل اللانش بوكس.\nويعد اللانشون أحد الأطعمة التي يُقبل عليها الصغار، لكنه غالبًا ما يحتوي على مواد حافظة وألوان صناعية قد تضر بصحتهم.\nولهذا ينصح خبراء التغذية بالاعتماد على شرائح صدور الدجاج المحضّرة منزليًا كبديل آمن ولذيذ.\nطريقة التحضير:\nيتم غسل صدور الدجاج جيدًا ثم سلقها في ماء مغلي مع إضافة ورق لورا وحبة هيل وبصلة صغيرة لإكسابها نكهة شهية.\nبعد تمام النضج تُترك لتبرد ثم تُقطع إلى شرائح رفيعة تشبه اللانشون، ويمكن تحميرها قليلًا في مقلاة غير لاصقة مع رشة بسيطة من الزيت أو زيت الزيتون.\nويمكن للأم أن تحفظ الشرائح في علبة محكمة داخل الثلاجة لمدة يومين، لتضعها في ساندوتشات الأطفال مع الخس أو الخيار أو الجبن.\nبهذا تصبح شرائح الدجاج بديلاً صحيًا ومغذيًا يمنح الطفل البروتين والطاقة، ويُغني عن الأطعمة المصنعة.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "arabic",
+  "sentiment": "positive",
+  "categories": ["Health", "Lifestyle and Leisure", "Education"],
+  "topics": [
+    "Health->health treatment and procedure",
+    "Health->diet",
+    "Lifestyle and Leisure->lifestyle",
+    "Lifestyle and Leisure->organic food",
+    "Lifestyle and Leisure->house and home",
+    "Education->students",
+    "Education->parents group",
+    "Education->primary education"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_ma",
+      "top_news_iq",
+      "top_news_il",
+      "top_news_ae",
+      "top_news_qa",
+      "top_news_eg",
+      "top_news_sa",
+      "top_news_kw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:02:13.223+03:00",
+  "updated": "2025-09-19T09:09:20.000+03:00"
+}

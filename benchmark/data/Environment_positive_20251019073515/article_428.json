@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "ede9e19d1de69113ceb3c080b1558d9136aa3446",
+    "url": "https://www.abc.com.py/internacionales/2025/10/16/el-sector-reduce-su-huella-de-carbono-y-supera-el-nivel-economico-de-la-prepandemia/",
+    "site_full": "www.abc.com.py",
+    "site": "abc.com.py",
+    "site_section": "https://abc.com.py/internacionales",
+    "site_categories": ["under_construction"],
+    "section_title": "Noticias internacionales de último momento en el Mundo | ABC Color PY",
+    "site_title": "Noticias de Paraguay y el mundo de último momento hoy en ABC Color",
+    "title": "El sector reduce su huella de carbono y supera el nivel económico de la prepandemia - Mundo - ABC Color",
+    "title_full": "El sector reduce su huella de carbono y supera el nivel económico de la prepandemia - Mundo - ABC Color",
+    "published": "2025-10-16T14:44:28.794+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PY",
+    "main_image": "https://www.abc.com.py/resizer/v2/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg?auth=af21fffb866efe059006e6c98a79ad3cc96cb597e29061d022f5aafd3f78d1f5&amp;width=770&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 28404,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ede9e19d1de69113ceb3c080b1558d9136aa3446",
+  "url": "https://www.abc.com.py/internacionales/2025/10/16/el-sector-reduce-su-huella-de-carbono-y-supera-el-nivel-economico-de-la-prepandemia/",
+  "ord_in_thread": 0,
+  "author": "EFE",
+  "published": "2025-10-16T14:44:28.794+03:00",
+  "title": "El sector reduce su huella de carbono y supera el nivel económico de la prepandemia - Mundo - ABC Color",
+  "text": "Mundo El sector reduce su huella de carbono y supera el nivel económico de la prepandemia Londres, 16 oct (EFE).- La actividad económica del sector de viajes y turismo superó en 2024 los niveles alcanzados antes de la pandemia de corononavirus, al tiempo que redujo en un 9,3 % las emisiones mundiales de gases de efecto invernadero (GEI), según indicó este jueves una investigación. Por EFE 16 de octubre de 2025 - 08:30",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Environment"],
+  "topics": [
+    "Economy, Business and Finance->business restructuring",
+    "Economy, Business and Finance->economy",
+    "Environment->sustainability",
+    "Environment->climate change"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "EFE",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "EFE",
+            "exchange": "ASX"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:44:28.794+03:00",
+  "updated": "2025-10-16T14:57:33.000+03:00"
+}

@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "f5789b0c8b5df4fb46bffbc45cffcb0468bf080b",
+    "url": "https://www.businesslive.co.za/fm/features/2025-06-19-the-capitals-money-problem",
+    "site_full": "www.businesslive.co.za",
+    "site": "businesslive.co.za",
+    "site_section": "https://www.businesslive.co.za",
+    "site_categories": ["social", "top_news_za", "top_news"],
+    "section_title": "BusinessLIVE - Latest news and analysis from SA's business sector",
+    "site_title": "BusinessLIVE - Latest news and analysis from SA's business sector",
+    "title": "The capital's money problem",
+    "title_full": "The capital's money problem",
+    "published": "2025-06-19T06:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ZA",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 11640,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 1,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f5789b0c8b5df4fb46bffbc45cffcb0468bf080b",
+  "url": "https://www.businesslive.co.za/fm/features/2025-06-19-the-capitals-money-problem",
+  "ord_in_thread": 0,
+  "author": "Natasha Marrian",
+  "published": "2025-06-19T06:00:00.000+03:00",
+  "title": "The capital's money problem",
+  "text": "Features The capital’s money problem Tshwane mayor Nasiphi Moya puts a brave face on the metro’s financial status, but she is repeating the insourcing tactic that helped to sink Joburg B L Premium 19 June 2025 - 05:00 by Natasha Marrian",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance"],
+  "topics": [
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->economy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.pinterest.com/pin/create/button/",
+    "https://www.twitter.com/natashamarrian",
+    "https://pinterest.com/pin/create/button/",
+    "https://www.pinterest.com/pin/create/button",
+    "https://twitter.com/natashamarrian"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Nasiphi Moya",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Natasha Marrian",
+        "sentiment": "none"
+      },
+      {
+        "name": "Johann Mettler",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_za", "top_news"],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:42:12.726+03:00",
+  "updated": "2025-06-20T05:07:50.000+00:00"
+}

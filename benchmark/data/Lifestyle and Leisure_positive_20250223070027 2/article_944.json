@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "686015cc2bd2fc9122dabe7991df7751f74ebb1a",
+    "url": "https://www.usatoday.com/story/sports/nfl/bills/2025/01/23/buffalo-bills-snap-counts-depth-chart-baltimore-ravens-27-25-nfl-divisional/77913383007",
+    "site_full": "www.usatoday.com",
+    "site": "usatoday.com",
+    "site_section": "https://sportsdata.usatoday.com",
+    "site_categories": [
+      "media",
+      "dating",
+      "society",
+      "top_news_pk",
+      "top_news_gb",
+      "top_news_dk",
+      "top_news_th",
+      "top_news_fi",
+      "top_news_nz",
+      "top_news_au",
+      "top_news_sg",
+      "top_news_za",
+      "top_news_ph",
+      "top_news_us",
+      "top_news_ca",
+      "top_news_my",
+      "top_news_iq",
+      "top_news_ie",
+      "top_news"
+    ],
+    "section_title": "USA TODAY Sports Scores and Odds Hub",
+    "title": "Bills snap counts: Depth chart breakdown vs. the Ravens",
+    "title_full": "Bills snap counts: Depth chart breakdown vs. the Ravens",
+    "published": "2025-01-24T04:20:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.gannett-cdn.com/authoring/images/smg/2025/01/20/SMGW/77836966007-65-145859.jpeg?auto=webp&crop=4128,2322,x0,y0&format=pjpg&width=1200",
+    "performance_score": 0,
+    "domain_rank": 149,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "686015cc2bd2fc9122dabe7991df7751f74ebb1a",
+  "url": "https://www.usatoday.com/story/sports/nfl/bills/2025/01/23/buffalo-bills-snap-counts-depth-chart-baltimore-ravens-27-25-nfl-divisional/77913383007",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Nick Wojton, USA TODAY",
+  "published": "2025-01-24T04:20:00.000+02:00",
+  "title": "Bills snap counts: Depth chart breakdown vs. the Ravens",
+  "text": "Bills snap counts: Depth chart breakdown vs. the Ravens\nThe Buffalo Bills won their second NFL postseason action, defeating the Baltimore Ravens, 27-25, in the AFC's divisional round.\nBut who exactly were the ones on the field for the Bills (13-4) doing all the dirty work against the Ravens (12-5)?\nMore often than not, taking a look in between the lines at snap count totals for Buffalo's players can give us some insight as to what went down in between the lines on the gridiron.\nThere will always be plenty to discover when looking at these finer details.\nWith that, here’s how the Bills' depth chart broke down via snap counts in their win against the Ravens:\nOffense\nDefense\nRelated\nWhat are the Bills' Super Bowl 59 odds ahead of Championship Sunday?\nAmari Cooper on statistical decline with Bills: 'No complaints from me'\nBills at Chiefs: Wednesday injury reports for both teams",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->sport event",
+    "Sport->american football",
+    "Lifestyle and Leisure->game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Amari Cooper",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Buffalo Bills",
+        "sentiment": "negative"
+      },
+      {
+        "name": "NFL",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Baltimore Ravens",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:43:48.972+02:00",
+  "updated": "2025-01-24T00:43:48.972+02:00"
+}

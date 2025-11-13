@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "769eccc49db5c6ebbf8e8ef6edf1d859f6fe1038",
+    "url": "http://news.10jqka.com.cn/20250619/c669014537.shtml",
+    "site_full": "news.10jqka.com.cn",
+    "site": "10jqka.com.cn",
+    "site_section": "http://news.10jqka.com.cn/guojicj_list/",
+    "site_categories": ["financial_news", "finance", "stocks"],
+    "section_title": "国际财经_财经_同花顺财经",
+    "site_title": null,
+    "title": "肯尼亚央行第六次降息，基准利率降至9.75%",
+    "title_full": "肯尼亚央行第六次降息，基准利率降至9.75%",
+    "published": "2025-06-19T06:18:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 7186,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "769eccc49db5c6ebbf8e8ef6edf1d859f6fe1038",
+  "url": "http://news.10jqka.com.cn/20250619/c669014537.shtml",
+  "ord_in_thread": 0,
+  "author": "银柿财经",
+  "published": "2025-06-19T06:18:00.000+03:00",
+  "title": "肯尼亚央行第六次降息，基准利率降至9.75%",
+  "text": "6月18日，商务部综合肯尼亚近日报道，肯尼亚中央银行（CBK）连续第六次降息，将基准利率从10%下调至9.75%，为2023年6月以来的最低水平，持续向商业银行施压，要求其降低贷款利率。\n　　监管机构观察到，在持续的低通胀和汇率稳定的情况下，有更大的空间来下调政策利率以重振私营部门贷款。尽管一年期国库券等竞争资产类别的回报率已跌破10%，但商业银行平均贷款利率仍维持在高位，4月、5月分别为15.7%、15.4%。\n　　肯尼亚央行货币政策委员会（MPC）还将肯尼亚2025年的GDP预期增长率从5.4%下调至5.2%，并将其归因于关税上调影响贸易并对一些关键行业产生连锁反应。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Politics", "Social Issue"],
+  "topics": [
+    "Economy, Business and Finance->macro economics",
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->business governance",
+    "Politics->economic policy",
+    "Politics->government policy",
+    "Social Issue->social condition",
+    "Social Issue->demographics",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:35:16.784+03:00",
+  "updated": "2025-06-19T04:43:34.000+00:00"
+}

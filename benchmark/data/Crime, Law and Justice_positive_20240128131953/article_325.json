@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "83b4eeb6b5e8f48c04b1ed769956ea458fa0a069",
+    "url": "https://abcnews.go.com/Politics/wireStory/deutsche-bank-pledges-5-million-combat-human-trafficking-105978979",
+    "site_full": "abcnews.go.com",
+    "site": "go.com",
+    "site_section": "http://feeds.abcnews.com/abcnews/politicsheadlines",
+    "site_categories": ["media"],
+    "section_title": "ABC News: Politics",
+    "title": "Deutsche Bank pledges nearly $5 million to help combat human trafficking in New Mexico",
+    "title_full": "Deutsche Bank pledges nearly $5 million to help combat human trafficking in New Mexico",
+    "published": "2023-12-29T06:53:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+    "performance_score": 0,
+    "domain_rank": 135,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "83b4eeb6b5e8f48c04b1ed769956ea458fa0a069",
+  "url": "https://abcnews.go.com/Politics/wireStory/deutsche-bank-pledges-5-million-combat-human-trafficking-105978979",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "ABC News",
+  "published": "2023-12-29T06:53:00.000+02:00",
+  "title": "Deutsche Bank pledges nearly $5 million to help combat human trafficking in New Mexico",
+  "text": "Deutsche Bank pledges nearly $5 million to help combat human trafficking in New Mexico\nDeutsche Bank has pledged nearly $5 million in funding to help combat human trafficking in New Mexico\nSANTA FE, N.M. -- Deutsche Bank pledged nearly $5 million in funding Thursday to help combat human trafficking in New Mexico, the bank announced in a joint statement with Attorney General Raúl Torrez.\nThe announcement comes seven months after Deutsche Bank settled a U.S. lawsuit for $75 million that claimed the German lender should have seen evidence that the late Jeffrey Epstein engaged in sex trafficking when he was a client.\nTorrez's office has been investigating several financial service companies and their role in what he says is a failure to identify sexual abuse and trafficking of underage girls at Epstein's ranch in Santa Fe County, according to the statement.\n“I am pleased that Deutsche Bank recognizes its ongoing responsibility to help us combat this problem,” Torrez, a Democrat, said in the statement. “We appreciate the steps they have taken since terminating Jeffrey Epstein as a client in 2018 to strengthen their oversight capabilities and intend to use their pledge to support our ongoing efforts to apprehend traffickers and expand our victim services.”\nA spokesperson for Deutsche Bank said the lender is pleased to support Torrez “in this important effort, which reflects our industry's shared responsibility to play an active role in safeguarding the financial system.”\nA woman who alleged she was abused by Epstein had filed a lawsuit in New York against the bank and sought class-action status. She asserted the bank knowingly benefited from Epstein's sex trafficking and “chose profit over following the law” to earn millions of dollars from the businessman. The settlement was reached in May.\nIn 2020, the bank acknowledged its mistake in taking on Epstein as a client. Epstein killed himself in prison in August 2019 while facing federal criminal charges of sexually abusing dozens of underage girls.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Human Interest",
+    "Economy, Business and Finance",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "raúl torrez",
+        "sentiment": "none"
+      },
+      {
+        "name": "torrez",
+        "sentiment": "none"
+      },
+      {
+        "name": "jeffrey epstein",
+        "sentiment": "none"
+      },
+      {
+        "name": "epstein",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "deutsche bank",
+        "sentiment": "negative"
+      },
+      {
+        "name": "mexico deutsche bank",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "new",
+        "sentiment": "none"
+      },
+      {
+        "name": "santa fe county",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "new mexico",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T10:46:40.558+02:00",
+  "updated": "2023-12-29T10:46:40.558+02:00"
+}

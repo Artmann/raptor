@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "89e6987120d6944e69c8f8701fdc4fa18c268a70",
+    "url": "https://www.wyomingnews.com/rocketminer/wyoming-dot-receives-6-million-in-quick-release-emergency-relief-funding-to-repair-highway-damage/article_b02276c6-3015-11ef-bb9c-cf80df4b1aa2.html",
+    "site_full": "www.wyomingnews.com",
+    "site": "wyomingnews.com",
+    "site_section": "http://www.wyomingnews.com/search/?f=rss&t=article&c=rocketminer&l=50&s=start_time&sd=desc",
+    "site_categories": ["media"],
+    "section_title": "www.wyomingnews.com - RSS Results in rocketminer of type article",
+    "title": "Wyoming DOT receives $6 million in 'Quick Release' Emergency Relief Funding to repair highway damage in Teton Pass landslide",
+    "title_full": "Wyoming DOT receives $6 million in 'Quick Release' Emergency Relief Funding to repair highway damage in Teton Pass landslide",
+    "published": "2024-06-22T00:31:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/1/d7/1d7f78ae-3016-11ef-9a57-3bdf51a09bd1/6675f2514fcde.image.jpg?crop=1920%2C1008%2C0%2C35&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 23040,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "89e6987120d6944e69c8f8701fdc4fa18c268a70",
+  "url": "https://www.wyomingnews.com/rocketminer/wyoming-dot-receives-6-million-in-quick-release-emergency-relief-funding-to-repair-highway-damage/article_b02276c6-3015-11ef-bb9c-cf80df4b1aa2.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Wyoming Department; Photo Courtesy",
+  "published": "2024-06-22T00:31:00.000+03:00",
+  "title": "Wyoming DOT receives $6 million in 'Quick Release' Emergency Relief Funding to repair highway damage in Teton Pass landslide",
+  "text": "WASHINGTON DC -- The U.S. Department of Transportation’s Federal Highway Administration (FHWA) today announced the immediate availability of $6 million in “quick release” Emergency Relief (ER) funds for the Wyoming Department of Transportation to offset the costs of repairs in the Teton Range caused by a landslide earlier this month. The funds also will be used to build a safe, temporary detour near the Wyoming-Idaho border that restores critical access to popular tourist destinations such as Jackson Hole, Yellowstone National Park, and Grand Teton National Park.\n“The Teton Pass is a key route for workers and visitors traveling between Idaho and Wyoming, and the emergency funding we’re sending will help reopen and restore access to this important roadway as quickly as possible,” said U.S. Transportation Secretary Pete Buttigieg. “In discussing the situation with the Wyoming Department of Transportation, it has been clear how urgent the need is to support their efforts to reconnect one of the region’s heavily traveled mountain thoroughfares - and to make our infrastructure more resilient to future weather events.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Politics"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "pete buttigieg",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "fhwa",
+        "sentiment": "negative"
+      },
+      {
+        "name": "u.s. department of transportation’s federal highway administration",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "wyoming department of transportation",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s. transportation",
+        "sentiment": "none"
+      },
+      {
+        "name": "jackson hole",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "washington dc",
+        "sentiment": "none"
+      },
+      {
+        "name": "wyoming",
+        "sentiment": "none"
+      },
+      {
+        "name": "teton pass",
+        "sentiment": "none"
+      },
+      {
+        "name": "yellowstone national park",
+        "sentiment": "none"
+      },
+      {
+        "name": "teton range",
+        "sentiment": "none"
+      },
+      {
+        "name": "grand teton national park",
+        "sentiment": "none"
+      },
+      {
+        "name": "idaho",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-22T00:55:06.587+03:00",
+  "updated": "2024-06-22T00:55:06.587+03:00"
+}

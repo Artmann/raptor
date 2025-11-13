@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "6bc3aa304b0496055da1f8ac0e11d6488425a6f3",
+    "url": "https://www.cryptopolitan.com/celsius-gets-green-light-for-bitcoin-mining/",
+    "site_full": "www.cryptopolitan.com",
+    "site": "cryptopolitan.com",
+    "site_section": "https://www.cryptopolitan.com/feed/",
+    "site_categories": ["finance"],
+    "section_title": "Cryptopolitan",
+    "title": "Celsius Network gets green light for Bitcoin mining",
+    "title_full": "Celsius Network gets green light for Bitcoin mining",
+    "published": "2023-12-29T00:47:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "https://img.cryptopolitan.com/wp-content/uploads/2023/12/DALL·E-2023-12-28-23.43.28-An-optimistic-and-forward-looking-image-for-the-article-titled-_Celsius-Network-gets-green-light-for-Bitcoin-mining._-The-image-should-depict-the-posi.jpg",
+    "performance_score": 0,
+    "domain_rank": 21288,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6bc3aa304b0496055da1f8ac0e11d6488425a6f3",
+  "url": "https://www.cryptopolitan.com/celsius-gets-green-light-for-bitcoin-mining/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jai Hamid",
+  "published": "2023-12-29T00:47:00.000+02:00",
+  "title": "Celsius Network gets green light for Bitcoin mining",
+  "text": "Cryptocurrency lender Celsius Network has received the green light to make a strategic shift into [bitcoin mining](https://www.cryptopolitan.com/how-to-mine-bitcoin/), following approval from a [U.S.](https://www.cryptopolitan.com/us-congress-has-had-a-very-dramatic-year/) bankruptcy judge. The decision represents a significant pivot for the company, which had originally aimed to earn fees from validating crypto transactions but had to alter its course after encountering regulatory obstacles. Here’s a closer look at Celsius Network’s bold move into the world of bitcoin mining. A Judge’s Approval for a New Direction In a recent ruling, U.S. Bankruptcy Judge Martin Glenn in Manhattan granted Celsius Network the ability to deviate from its previously approved bankruptcy plan. This decision came after the company faced challenges with the U.S. Securities and Exchange Commission (SEC). Judge Glenn determined that the new restructuring would not negatively impact creditors or customers, thus allowing Celsius Network to proceed with its bitcoin mining venture. Celsius Network’s journey to bitcoin mining began when it filed for Chapter 11 protection in July 2022. This move was in line with several other crypto lenders who faced financial difficulties amidst the rapid growth of the industry during the COVID-19 pandemic. Originally, Celsius had grand plans to generate revenue by validating crypto transactions and exploring new business avenues. However, the SEC’s rejection of this plan prompted a strategic shift. The change in direction also meant that the lender would no longer work with certain outside bidders who were initially chosen to oversee the new company. Instead, the responsibility for running the creditor-owned mining business fell squarely on the shoulders of mining company US Bitcoin Corp. Celsius’ Fahrenheit Consortium US Bitcoin Corp, founded by Hut 8’s Asher Genoot, was originally part of a consortium of bidders known as “Fahrenheit.” This consortium also included Arrington Capital and was intended to manage Celsius Network alongside other companies. However, with the pivot to bitcoin mining, Celsius parted ways with these bidders, leaving US Bitcoin Corp as the primary manager. While the shift in focus was deemed significant by some creditors and the U.S. Department of Justice’s bankruptcy watchdog, Judge Glenn ultimately approved the deal without calling for a new vote by creditors. Despite initial concerns that this change was not in line with what creditors had originally voted on, Celsius Network was granted the opportunity to move forward with its bitcoin mining plans. Celsius Network now looks ahead to emerging from bankruptcy in early 2024. The company’s scaled-back bankruptcy plan not only allows for the pursuit of bitcoin mining but also frees up $225 million in cryptocurrency assets. These assets were initially intended to fund new business lines that were rejected by the SEC. Benefits for Customers As a result of this strategic pivot, more cryptocurrency assets from Celsius will be returned to customers. Additionally, customers will receive equity shares in the new bitcoin mining venture. This move represents a unique approach to bankruptcy restructuring, one that aims to ensure that creditors and customers are not left in a worse position. Celsius Network’s foray into bitcoin mining is a testament to the evolving landscape of the cryptocurrency industry. As regulatory challenges continue to shape the sector, companies are finding innovative ways to adapt and thrive. This bold move by Celsius Network signals its determination to explore new opportunities in the world of digital assets.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Environment"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "martin glenn",
+        "sentiment": "none"
+      },
+      {
+        "name": "glenn",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "celsius network",
+        "sentiment": "negative"
+      },
+      {
+        "name": "sec",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s. securities and exchange commission",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "manhattan",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:07:46.399+02:00",
+  "updated": "2023-12-29T08:39:13.913+02:00"
+}

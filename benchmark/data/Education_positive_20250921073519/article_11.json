@@ -1,0 +1,173 @@
+{
+  "thread": {
+    "uuid": "9357b5b375709f712c43e01ed7526cb744912123",
+    "url": "https://www.news18.com/education-career/dusu-election-2025-voting-underway-at-delhi-university-meet-the-top-contenders-9580055.html",
+    "site_full": "www.news18.com",
+    "site": "news18.com",
+    "site_section": "https://news18.com/news",
+    "site_categories": [
+      "media",
+      "top_news_in",
+      "top_news_ph",
+      "top_news_pk",
+      "top_news_ae",
+      "top_news_qa",
+      "top_news_sg",
+      "top_news_sa",
+      "top_news_kw",
+      "top_news"
+    ],
+    "section_title": "Latest News | Today News Headlines from India &amp; World | Breaking News India Today Live - News18",
+    "site_title": "News: Get Latest News Today, Breaking News, Top News Headlines, India and World News | News18",
+    "title": "DUSU Election 2025: Voting Underway At Delhi University, Meet The Top Contenders | Education and Career News - News18",
+    "title_full": "DUSU Election 2025: Voting Underway At Delhi University, Meet The Top Contenders | Education and Career News - News18",
+    "published": "2025-09-18T07:34:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://images.news18.com/ibnlive/uploads/2025/07/Delhi-University-6-2025-07-2e786d90d3458fd66e42aa5eb3cde3e0-16x9.jpg",
+    "performance_score": 0,
+    "domain_rank": 3556,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 4,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9357b5b375709f712c43e01ed7526cb744912123",
+  "url": "https://www.news18.com/education-career/dusu-election-2025-voting-underway-at-delhi-university-meet-the-top-contenders-9580055.html",
+  "ord_in_thread": 0,
+  "author": "@cnnnews18",
+  "published": "2025-09-18T07:34:00.000+03:00",
+  "title": "DUSU Election 2025: Voting Underway At Delhi University, Meet The Top Contenders | Education and Career News - News18",
+  "text": "DUSU Election 2025: The University of Delhi is witnessing one of the country’s biggest student elections as more than 2.75 lakh students head to the polls for the Delhi University Students’ Union (DUSU) elections today. The outcome will shape the leadership of the students’ body for the upcoming academic year. A Three-Way Contest For The Top Post The race for the position of DUSU President has turned into a triangular fight involving the RSS-affiliated Akhil Bharatiya Vidyarthi Parishad (ABVP), the Congress-backed National Students’ Union of India (NSUI), and the SFI-AISA alliance supported by Left student groups. Key candidates include Aryan Maan from ABVP, a master’s student in Library Science, Joslyn Nandita Choudhary from NSUI, a postgraduate student of Buddhist Studies and Anjali from SFI-AISA, a student at Indraprastha College for Women. Each has released a manifesto highlighting promises ranging from subsidised metro passes and improved sports infrastructure to safer hostels, menstrual leave, gender sensitisation, and rollback of fee hikes. This year’s elections also see the inclusion of fourth-year undergraduate students under Delhi University’s new academic structure, adding nearly 50,000 new voters to the electorate compared to previous years. For many, the issues at stake remain close to everyday life — affordable hostels, campus safety, accessible transport, and stronger grievance redressal mechanisms. Tight Security And Strict Guidelines To ensure smooth polling, more than 600 Delhi Police personnel have been deployed across the university, with 160 equipped with body-worn cameras. Authorities will also rely on drones and CCTV cameras to monitor campus activities throughout the day. The university has issued clear guidelines for students. First-year voters must present either a valid fee receipt with a government-issued ID such as Aadhaar, PAN, voter ID, or driving licence if their college ID has not yet been issued. Second- and third-year students are required to carry their college ID cards. The Delhi High Court has laid down strict restrictions, including a ban on victory rallies after the results. It has directed police, university authorities, and civic officials to ensure peaceful elections, cautioning that any failure to conduct the polls satisfactorily could affect the functioning of the newly elected office bearers. Candidates and their supporters have also been warned against indiscipline, including threats or violence against students, teaching, or non-teaching staff. Officials say the focus is on making sure the elections are fair and protect the interests of all Delhi University students.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Politics", "Social Issue"],
+  "topics": [
+    "Education->college and university",
+    "Education->school",
+    "Education->students",
+    "Politics->political campaigns",
+    "Politics->political candidates",
+    "Politics->election",
+    "Social Issue->social networking",
+    "Social Issue->children",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Joslyn Nandita Choudhary",
+        "sentiment": "none"
+      },
+      {
+        "name": "Anjali",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Delhi University",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "University of Delhi",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Indraprastha College for Women",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Buddhist Studies",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Congress",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "ABVP",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [
+      "top_news_in",
+      "top_news_ph",
+      "top_news_pk",
+      "top_news_ae",
+      "top_news_qa",
+      "top_news_sg",
+      "top_news_sa",
+      "top_news_kw",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:37:01.828+03:00",
+  "updated": "2025-09-19T08:06:09.000+03:00"
+}

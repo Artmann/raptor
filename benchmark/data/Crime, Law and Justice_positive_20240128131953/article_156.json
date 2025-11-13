@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "70909e9184a959aeec1113e1ed6decfc8a4573bb",
+    "url": "https://www.rnz.co.nz/news/national/505733/unattractive-cars-less-likely-to-be-stolen-from-say-police",
+    "site_full": "www.rnz.co.nz",
+    "site": "rnz.co.nz",
+    "site_section": "http://www.radionz.co.nz/rss/national.xml",
+    "site_categories": [
+      "media",
+      "travel",
+      "australia_and_new_zealand",
+      "music",
+      "entertainment"
+    ],
+    "section_title": "RNZ New Zealand Headlines",
+    "title": "'Unattractive' cars less likely to be stolen from, say police",
+    "title_full": "'Unattractive' cars less likely to be stolen from, say police",
+    "published": "2023-12-28T13:16:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NZ",
+    "main_image": "https://media.rnztools.nz/rnz/image/upload/s--WX0AJL_T--/t_tohu-badge-facebook/v1643698860/4MTYH7Y_image_crop_101269",
+    "performance_score": 0,
+    "domain_rank": 3593,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 2
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "70909e9184a959aeec1113e1ed6decfc8a4573bb",
+  "url": "https://www.rnz.co.nz/news/national/505733/unattractive-cars-less-likely-to-be-stolen-from-say-police",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "RNZ News",
+  "published": "2023-12-28T13:16:00.000+02:00",
+  "title": "'Unattractive' cars less likely to be stolen from, say police",
+  "text": "Unattractive cars are at an advantage for once - police say that by being ugly, they are better protected from theft. There has been a spike of cars being broken into and stolen in northern Auckland, and police are urging vehicle owners to take caution. Senior Sergeant, Roger Small, said police are following a bump in reports of vehicle crime in Kumeū and Huapai. He said, as well as vehicles being stolen, there have been reported attempts to steal vehicles, and valuables have been stolen from inside parked cars. Small said that police are asking drivers to take precautions to make their vehicle less of a target. \"We want your vehicle to be as unattractive as possible,\" Small said. \"Think about removing property from your car when you park up for the day: debit cards, the jacket on the back seat and even the two gold coins in the centre console.\" Drivers should avoid leaving money or wallets in parked cars, and park inside a closed garage if possible. \"By taking a few additional steps it could help in stopping your vehicle becoming an easy target and avoiding unnecessary frustrations at this time of the year,\" Small said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "roger small",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "auckland",
+        "sentiment": "none"
+      },
+      {
+        "name": "kumeū",
+        "sentiment": "none"
+      },
+      {
+        "name": "huapai",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T04:17:53.325+02:00",
+  "updated": "2023-12-29T05:22:50.782+02:00"
+}

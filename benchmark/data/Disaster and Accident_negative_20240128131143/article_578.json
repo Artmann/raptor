@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "6e614059af8546895e227ef0dac448c71c013137",
+    "url": "https://localnews8.com/news/idaho/2023/12/28/snowpack-is-lacking-with-no-major-additions-of-snowfall/",
+    "site_full": "localnews8.com",
+    "site": "localnews8.com",
+    "site_section": "https://localnews8.com/feed/",
+    "site_categories": ["media"],
+    "section_title": "Local News 8",
+    "title": "Snowpack is lacking with no major additions of snowfall - Local News 8",
+    "title_full": "Snowpack is lacking with no major additions of snowfall - Local News 8",
+    "published": "2023-12-29T00:32:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://localnews8.b-cdn.net/2023/12/122823Snow.png",
+    "performance_score": 0,
+    "domain_rank": 23291,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6e614059af8546895e227ef0dac448c71c013137",
+  "url": "https://localnews8.com/news/idaho/2023/12/28/snowpack-is-lacking-with-no-major-additions-of-snowfall/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Evan Thomason",
+  "published": "2023-12-29T00:32:00.000+02:00",
+  "title": "Snowpack is lacking with no major additions of snowfall - Local News 8",
+  "text": "IDAHO (KIFI) - Lackluster snowfall is starting off the winter season across Idaho. A few areas near the Magic Valley and Pocatello are close to their seasonal averages of snowfall for this time of year, but east and central Idaho aren't faring as well.\nMost of the Snake River Plain, central ID, and far eastern ID have snowpack that is well below their seasonal average for this time of year. A few snow systems rolled through these areas, but haven't dumped a considerable amount of snowfall at. Areas including the Salmon Basin to the Big Lost and Little Lost Basins, all the way over to the Upper Snake River Plain, have a snowpack around 60 to 70% of their usual snowpack at this time of year.\nThe southern highlands and southeast Idaho are doing better, but are trending in a worse direction. They hold snowpacks that are just above their seasonal averages, around 110%, but most of that is from a good amount of early winter snowfall. They held 130 to 150% of their seasonal snowpack just a week or two ago.\nTemperatures are warmer than average, and rain showers haven't helped either. Both have been present across the region well into December, especially in the valleys.\nThe long-term winter outlook isn't trending for the better. It shows the region having slightly below average precipitation for the rest of the winter.\nThe only positive outlook, according to water expert, is that we are carrying over a lot of water storage into 2024. This is usually the time of the year where reservoirs are at their lowest, yet most reservoirs still have at least half of their full capacity.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Weather", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "idaho",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "idaho",
+        "sentiment": "none"
+      },
+      {
+        "name": "pocatello",
+        "sentiment": "none"
+      },
+      {
+        "name": "magic valley",
+        "sentiment": "none"
+      },
+      {
+        "name": "salmon basin",
+        "sentiment": "none"
+      },
+      {
+        "name": "upper snake river plain",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:46:57.621+02:00",
+  "updated": "2023-12-29T00:46:57.621+02:00"
+}

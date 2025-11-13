@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "0f45227e47dfd8471657d02c313fbc43c205b118",
+    "url": "https://jamaica-gleaner.com/article/news/20240425/14-y-o-boy-charged-stabbing-death-irwin-high-schoolmate",
+    "site_full": "jamaica-gleaner.com",
+    "site": "jamaica-gleaner.com",
+    "site_section": "http://www.jamaica-gleaner.com",
+    "site_categories": ["media", "top_news"],
+    "section_title": "Jamaica Gleaner",
+    "title": "14-y-o boy charged for stabbing death of Irwin High schoolmate | News | Jamaica Gleaner",
+    "title_full": "14-y-o boy charged for stabbing death of Irwin High schoolmate | News | Jamaica Gleaner",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "JM",
+    "main_image": "https://jamaica-gleaner.com/sites/default/files/styles/250px/public/media/article_images/2024/04/25/handcuffsaa032018.jpg?itok=Ued7R5pj",
+    "performance_score": 0,
+    "domain_rank": 9150,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0f45227e47dfd8471657d02c313fbc43c205b118",
+  "url": "https://jamaica-gleaner.com/article/news/20240425/14-y-o-boy-charged-stabbing-death-irwin-high-schoolmate",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "14-y-o boy charged for stabbing death of Irwin High schoolmate | News | Jamaica Gleaner",
+  "text": "14-y-o boy charged for stabbing death of Irwin High schoolmate The police have charged the 14-year-old Irwin High School student for the fatal stabbing of his 15-year-old schoolmate Raniel Plummer during an altercation. His court date is being finalised. The police report that Plummer and a schoolmate had an altercation while at school on Thursday, April 17. About 3 p.m., Plummer was approached at the school gate by the accused along with a group of boys, who reportedly attacked him, according to the police. They say during the squabble a knife was brought into play and was used to stab Plummer in the chest. The injured boy was assisted to hospital where he died while undergoing treatment. The next day, the accused teen turned himself in to the police in the company of family members and a Justice of the Peace. He was subsequently charged following a question and answer session. Follow The Gleaner on X, formerly Twitter, and Instagram @JamaicaGleaner and on Facebook @GleanerJamaica. Send us a message on WhatsApp at 1-876-499-0169 or email us at [onlinefeedback@gleanerjm.com](mailto:onlinefeedback@gleanerjm.com) or [editors@gleanerjm.com](mailto:editors@gleanerjm.com).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "irwin",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "raniel plummer",
+        "sentiment": "none"
+      },
+      {
+        "name": "plummer",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "irwin high",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "jamaica gleaner",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "facebook @gleanerjamaica",
+        "sentiment": "none"
+      },
+      {
+        "name": "irwin high school",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:03:39.147+03:00",
+  "updated": "2024-04-26T00:03:39.147+03:00"
+}

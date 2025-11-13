@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "393924b533e5ba288113e778c0da076237b35ad8",
+    "url": "https://www.elcaribe.com.do/gente/sociales/seguros-universal-impulsa-libro-defernando-ballista/",
+    "site_full": "www.elcaribe.com.do",
+    "site": "elcaribe.com.do",
+    "site_section": "https://www.elcaribe.com.do/seccion/gente/sociales",
+    "site_categories": ["travel", "caribbean", "top_news_ve", "top_news"],
+    "section_title": "Sociales archivos - Periódico elCaribe",
+    "site_title": "PORTADA - Periódico elCaribe",
+    "title": "Seguros Universal impulsa libro de Fernando Ballista",
+    "title_full": "Seguros Universal impulsa libro de Fernando Ballista",
+    "published": "2025-09-18T07:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DO",
+    "main_image": "https://img.mmc.com.do/elcaribe-bucket/uploads/2025/09/Universal.jpg",
+    "performance_score": 0,
+    "domain_rank": 106522,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "393924b533e5ba288113e778c0da076237b35ad8",
+  "url": "https://www.elcaribe.com.do/gente/sociales/seguros-universal-impulsa-libro-defernando-ballista/",
+  "ord_in_thread": 0,
+  "author": "El Caribe",
+  "published": "2025-09-18T07:00:00.000+03:00",
+  "title": "Seguros Universal impulsa libro de Fernando Ballista",
+  "text": "Con el objetivo de contribuir a la educación de los profesionales del sector asegurador, Seguros Universal presentó el libro “Seguros de Responsabilidad Civil: fundamentos, teorías y modelos” del doctor Fernando Ballista Díaz.\nLa lectura del prólogo estuvo a cargo de Ernesto M. Izquierdo, presidente del consejo de administración de Seguros Universal quien destacó que esta obra tiene el valor de compartir numerosos detalles prácticos y aplicables, que incluyen formatos para la suscripción de pólizas y breves ejemplos que funcionan como miniestudios de caso.\n“El autor ha demostrado nuevamente su experiencia en la materia, y este libro se convierte en una valiosa herramienta tanto para la industria aseguradora como para las entidades académicas. Confiamos en que esta obra contribuirá significativamente a enriquecer el conocimiento en el campo del seguro en la República Dominicana”, expresó Izquierdo.\nBallista Díaz explicó que “Seguros de Responsabilidad Civil: fundamentos, teorías y modelos” está compuesta por ocho capítulos que abordan desde los fundamentos teóricos hasta los distintos tipos de seguros de responsabilidad civil, incluso aquellos dirigidos al transporte terrestre, vehículos motorizados y transportistas de carga.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": [
+    "Education",
+    "Economy, Business and Finance",
+    "Human Interest"
+  ],
+  "topics": [
+    "Education->vocational education",
+    "Economy, Business and Finance->business information",
+    "Economy, Business and Finance->products and services",
+    "Human Interest->award and prize"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Fernando Ballista Díaz",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ernesto M. Izquierdo",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Seguros Universal",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ve", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:13:46.781+03:00",
+  "updated": "2025-09-19T10:10:14.000+03:00"
+}

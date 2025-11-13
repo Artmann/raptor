@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "079419df8dbc1e0a0d8c5e6238cd82153bffa060",
+    "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2024-04-25/federal-judge-temporarily-blocks-confusing-montana-voter-registration-law",
+    "site_full": "www.sandiegouniontribune.com",
+    "site": "sandiegouniontribune.com",
+    "site_section": "https://www.sandiegouniontribune.com/index.rss",
+    "site_categories": ["real_estate", "media", "buying_selling_homes"],
+    "section_title": "The San Diego Union-Tribune - San Diego, California &amp; National News",
+    "title": "Federal judge temporarily blocks confusing Montana voter registration law",
+    "title_full": "Federal judge temporarily blocks confusing Montana voter registration law",
+    "published": "2024-04-26T00:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ca-times.brightspotcdn.com/dims4/default/3f3937f/2147483647/strip/true/crop/6818x3579+0+483/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F18%2Ffc%2F1380ccdc5c350b7cd0fda9643899%2F6b22a5cf54354394aa2958c19b6b30d4",
+    "performance_score": 0,
+    "domain_rank": 1515,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "079419df8dbc1e0a0d8c5e6238cd82153bffa060",
+  "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2024-04-25/federal-judge-temporarily-blocks-confusing-montana-voter-registration-law",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "AMY BETH HANSON",
+  "published": "2024-04-26T00:30:00.000+03:00",
+  "title": "Federal judge temporarily blocks confusing Montana voter registration law",
+  "text": "Federal judge temporarily blocks confusing Montana voter registration law\nA federal judge has temporarily blocked a Montana law that appeared to require people to cancel any previous voter registrations before signing up to vote in the state, or risk facing felony charges.\nU.S. District Court Judge Brian Morris said Wednesday that he agreed with the plaintiffs who argued the law was vague and overbroad and could cause people to decide not to register to vote for fear of being charged with a crime. The penalties include fines of up to $5,000 and up to 18 months in prison.\nThe lawmaker who sponsored the bill during the 2023 legislative session said it was meant to make it clear that people can’t double vote. That is already illegal under federal and state law.\nThe problem with the law, attorney Raph Graybill said Thursday, was that it didn’t create a clear process for someone to cancel their previous registrations.\n“The basic principle is if you’re going to create a crime, the rules have to be clear enough that people can avoid becoming criminals, and this law does not meet that requirement,” said Graybill, who represents the plaintiffs, the Montana Public Interest Research Group and the Montana Federation of Public Employees. Both plaintiffs said the law would hinder their efforts to register new voters.\nThe lawsuit was filed last September against Secretary of State Christi Jacobsen, Attorney General Austin Knudsen and Commissioner of Political Practices Chris Gallus. The Attorney General’s Office is defending the state. Knudsen’s press secretary, Chase Scheuer, said the agency was reviewing the order to determine its next steps.\nThe current voter registration form requires people to list their previous registration, but the new law wasn’t clear if providing that information satisfied a person’s responsibility to de-register, said Graybill, the running mate of Ryan Busse, who is seeking the Democratic nomination for governor in the June primary.\nMontana election clerks can notify clerks in other counties if a voter’s registration changes, but Montana is not part of a national database that would allow it to inform other states about new voter registrations, election officials have said.\nThe state opposed the motion for the temporary injunction, saying it was not enforcing the law.\nGraybill said the plaintiffs’ response was, “the fact that you’re not enforcing an unconstitutional law doesn’t make it constitutional.”\nEnforcement of the law is blocked until the case is heard in court, Morris wrote.\nTop headlines by email, weekday mornings\nGet top headlines from the Union-Tribune in your inbox weekday mornings, including top news, local, sports, business, entertainment and opinion.\nYou may occasionally receive promotional content from the San Diego Union-Tribune.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "raph graybill",
+        "sentiment": "none"
+      },
+      {
+        "name": "brian morris",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "montana",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:43:50.423+03:00",
+  "updated": "2024-04-26T00:43:50.423+03:00"
+}

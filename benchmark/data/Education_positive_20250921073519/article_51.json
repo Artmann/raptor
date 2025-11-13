@@ -1,0 +1,114 @@
+{
+  "thread": {
+    "uuid": "7ea708cc5aba76bdfe3c7c9d3008ff3f2da6fe2a",
+    "url": "https://www.times-georgian.com/gateway-beacon/temples-cherry-named-teacher-of-the-year-finalist/article_fb7435e9-0d23-514e-90c9-87485c6f1a1c.html",
+    "site_full": "www.times-georgian.com",
+    "site": "times-georgian.com",
+    "site_section": "https://www.times-georgian.com/gateway-beacon/",
+    "site_categories": ["media"],
+    "section_title": "Gateway-Beacon | times-georgian.com",
+    "site_title": "times-georgian.com | Carrollton's Trusted Information Leader since 1871",
+    "title": "Temple's Cherry named Teacher of the Year finalist | Gateway-Beacon | times-georgian.com",
+    "title_full": "Temple's Cherry named Teacher of the Year finalist | Gateway-Beacon | times-georgian.com",
+    "published": "2025-09-15T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/times-georgian.com/content/tncms/assets/v3/editorial/e/fe/efe1f095-9f19-5eaf-ba22-0d4e561ee696/68c880d9ee77a.image.jpg?crop=1268%2C666%2C0%2C81&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 565968,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7ea708cc5aba76bdfe3c7c9d3008ff3f2da6fe2a",
+  "url": "https://www.times-georgian.com/gateway-beacon/temples-cherry-named-teacher-of-the-year-finalist/article_fb7435e9-0d23-514e-90c9-87485c6f1a1c.html",
+  "ord_in_thread": 0,
+  "author": "DOUGLAS SALTER dsalter@times-georgian.com",
+  "published": "2025-09-15T03:00:00.000+03:00",
+  "title": "Temple's Cherry named Teacher of the Year finalist | Gateway-Beacon | times-georgian.com",
+  "text": "Temple High School Teacher of the Year Phillip Cherry, was recently named a finalist for Carroll County School’s System Teacher of the Year.\nThis is Cherry’s 36th year of teaching overall, and his ninth year teaching at Temple High School.\nCherry is an experienced agricultural educator and Future Farmers of America (FFA) advisor at Temple High School, where he works with students in grades 9-12. He is passionate about helping young people develop an appreciation for agriculture and equipping them with the skills necessary for success in college, careers, and life.\nHe believes that working with young people is a high calling, and is committed to cultivating students’ potential for premier leadership, personal growth, and career success through agricultural education and FFA.\nCherry’s decades of experience and a strong passion for agricultural education continue to help shape a thriving FFA program at Temple High School. He seeks to grow his program by offering students opportunities both inside and outside the classroom in order to develop their skills in critical thinking, communication, problem solving, and hands-on learning.\n“It is a great honor to be selected as a finalist as Carroll County Schools Teacher of the Year,” Cherry said. “I consider Carroll County Schools to be a premier school system in the state of Georgia, with strong and capable leadership and some of the best teachers you will find anywhere. I am humbled that my colleagues would consider me as a worthy candidate in such an outstanding school (Temple High School) and school system.”\nThe winner for System Teacher of the Year will be named at the Carroll County Board of Education meeting on Thursday, Oct. 23 at 6:30 at the Carroll County Schools Performing Arts Center, located at 775 Old Newnan Road, Carrollton.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": [
+    "Education->school",
+    "Education->teachers",
+    "Human Interest->award and prize",
+    "Social Issue->children",
+    "Social Issue->social services",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": false,
+  "has_canonical": true,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Phillip Cherry",
+        "sentiment": "none"
+      },
+      {
+        "name": "Carroll Cou",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Future Farmers of America",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Temple High School",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": ["Buchanan", "Bremen", "Haralson", "Waco"],
+      "state": ["Georgia"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:40:10.533+03:00",
+  "updated": "2025-09-18T07:46:01.000+03:00"
+}

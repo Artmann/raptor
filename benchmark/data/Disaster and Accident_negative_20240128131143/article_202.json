@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "85e162cf9f6fc37e51963105c5f34aab7835dda9",
+    "url": "https://kmph.com/news/local/4-arrested-in-connection-to-selma-murder",
+    "site_full": "kmph.com",
+    "site": "kmph.com",
+    "site_section": "https://kmph.com/news",
+    "site_categories": ["media"],
+    "section_title": "chevron-right",
+    "title": "chevron-right",
+    "title_full": "chevron-right",
+    "published": "2023-12-28T21:02:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://kmph.com/resources/media/59a66920-4f93-4ba1-9f4a-3f638cfa2e5e-large16x9_ErikaHerrera.png",
+    "performance_score": 0,
+    "domain_rank": 33590,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "85e162cf9f6fc37e51963105c5f34aab7835dda9",
+  "url": "https://kmph.com/news/local/4-arrested-in-connection-to-selma-murder",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Stephen Hawkins",
+  "published": "2023-12-28T21:02:00.000+02:00",
+  "title": "chevron-right",
+  "text": "SELMA, Calif. (FOX26) — Two teens were shot in Selma on Friday, March 17th. Three days later, one of them died. On Dec. 28th, four people were taken into custody in connection to the deadly shooting. Police say the [teens were shot near the 2200 block of Locust Street](https://kmph.com/news/local/crime-selma-ca-selma-shooting-community-regional-medical-center-crmc-fresno-ca-selma-locust-street) around 5:00 p.m. One of the teens died on Monday, March 20th at Community Regional Medical Center and a homicide investigation was opened. [RELATED] [Two dead and a child in critical condition after violent call in Fresno County](https://kmph.com/news/local/several-injuries-reported-after-violent-call-in-fresno-county) Detectives identified the people responsible for the killing as 53-year-old Kevin Randle, 41-year-old Erika Herrera, 40-year-old Erindira Herrera, and a 16-year-old juvenile who are all Selma residents. During the early morning hours of Thursday, Dec. 28, members of the Selma Police Department and the California Department of Corrections arrested the four individuals in the cities of Selma and Dinuba for homicide and accessory to homicide. This is an active homicide investigation if you can provide information regarding this incident you are encouraged to call Detective M. Hughes at (559) 896-2525.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Human Interest",
+    "Disaster and Accident",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "erindira herrera",
+        "sentiment": "none"
+      },
+      {
+        "name": "erika herrera",
+        "sentiment": "none"
+      },
+      {
+        "name": "kevin randle",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "selma police department",
+        "sentiment": "none"
+      },
+      {
+        "name": "community regional medical center",
+        "sentiment": "none"
+      },
+      {
+        "name": "california department of corrections",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "selma",
+        "sentiment": "none"
+      },
+      {
+        "name": "calif.",
+        "sentiment": "none"
+      },
+      {
+        "name": "selma",
+        "sentiment": "none"
+      },
+      {
+        "name": "locust street",
+        "sentiment": "none"
+      },
+      {
+        "name": "fresno county",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:18:02.044+02:00",
+  "updated": "2023-12-29T00:18:02.044+02:00"
+}

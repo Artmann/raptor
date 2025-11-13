@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "effd801ac9ffb53a375fa395ad9fa0be83a51eb6",
+    "url": "https://www.freiepresse.de/nachrichten/sachsen/hier-laeuft-was-falsch-schulleiter-aus-dem-erzgebirge-zieht-bilanz-zum-schuljahresende-artikel13864763",
+    "site_full": "www.freiepresse.de",
+    "site": "freiepresse.de",
+    "site_section": "https://www.freiepresse.de/archiv",
+    "site_categories": ["metals", "business"],
+    "section_title": "Artikelarchiv der Freien Presse vom 26.06.2025",
+    "site_title": "Freie Presse - Nachrichten aus Chemnitz, dem Erzgebirge &amp; Vogtland",
+    "title": "„Hier läuft was falsch\": Schulleiter aus dem Erzgebirge zieht Bilanz zum Schuljahresende",
+    "title_full": "„Hier läuft was falsch\": Schulleiter aus dem Erzgebirge zieht Bilanz zum Schuljahresende",
+    "published": "2025-06-26T13:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.freiepresse.de/DYNIMG/73/59/16817359_W2040C2040x1360o0x0.jpg",
+    "performance_score": 0,
+    "domain_rank": 18003,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "effd801ac9ffb53a375fa395ad9fa0be83a51eb6",
+  "url": "https://www.freiepresse.de/nachrichten/sachsen/hier-laeuft-was-falsch-schulleiter-aus-dem-erzgebirge-zieht-bilanz-zum-schuljahresende-artikel13864763",
+  "ord_in_thread": 0,
+  "author": "@freie_presse",
+  "published": "2025-06-26T13:35:00.000+03:00",
+  "title": "„Hier läuft was falsch\": Schulleiter aus dem Erzgebirge zieht Bilanz zum Schuljahresende",
+  "text": "Sachsen\nStollberg, Chemnitz. Unterrichtsausfall und Lehrermangel machen Sachsens Schülern zu schaffen. Was die beschlossenen Gegenmaßnahmen an seiner Schule bewirken, berichtet Schulleiter Steffen Wurm im Gespräch mit Frank Hommel.\nFreie Presse: Herr Wurm, Sie sind Geschäftsführer des Schulleiterverbandes in Sachsen und leiten die Altstadtschule in Stollberg. Nun geht das Schuljahr zu Ende. Welche Bilanz ziehen Sie für Ihre Schule?\nRegistrieren und testen.\nJetzt mit Ihrer Registrierung 1 Monat gratis testen und alle Beiträge lesen.\nSchon Abonnent? Melden Sie sich mit ihren Zugangsdaten an.\n© Copyright Chemnitzer Verlag und Druck GmbH & Co. KG",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Politics"],
+  "topics": [
+    "Education->teachers",
+    "Education->school",
+    "Education->students",
+    "Social Issue->social problem",
+    "Social Issue->social services",
+    "Politics->education policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Steffen Wurm",
+        "sentiment": "none"
+      },
+      {
+        "name": "Frank Hommel",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Sachsen\nStollberg",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sachsens",
+        "sentiment": "none"
+      },
+      {
+        "name": "Chemnitz",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Freie Presse",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T16:22:10.104+03:00",
+  "updated": "2025-06-26T13:32:03.000+00:00"
+}

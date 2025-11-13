@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "0c85dfabbc66984e5c90049b0c84c773fe64e1a6",
+    "url": "https://kyma.com/news/arizona-news/2023/12/28/senator-sinema-co-sponsors-three-new-bills/",
+    "site_full": "kyma.com",
+    "site": "kyma.com",
+    "site_section": "https://kyma.com/",
+    "site_categories": ["media"],
+    "section_title": "Home - KYMA",
+    "title": "Senator Sinema co-sponsors three new bills - KYMA",
+    "title_full": "Senator Sinema co-sponsors three new bills - KYMA",
+    "published": "2023-12-29T02:13:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://kyma.b-cdn.net/2023/12/MGN_1280x720_20331P00-GIMRZ.jpg",
+    "performance_score": 0,
+    "domain_rank": 51561,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0c85dfabbc66984e5c90049b0c84c773fe64e1a6",
+  "url": "https://kyma.com/news/arizona-news/2023/12/28/senator-sinema-co-sponsors-three-new-bills/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Eduardo Morales",
+  "published": "2023-12-29T02:13:00.000+02:00",
+  "title": "Senator Sinema co-sponsors three new bills - KYMA",
+  "text": "Senator Sinema co-sponsors three new bills YUMA, Ariz. (KYMA, KECY) - Senator Kyrsten Sinema recently co-sponsored three bills to fight the fentanyl crisis. The bills are meant to increase access to tools used to prevent overdoses and deaths. Two of the bills focus on fentanyl test strips, while the other focuses on overdose prevention. Yuma police say fentanyl has been a major problem in the area and nation. “When it comes to fentanyl in Yuma it is the most encountered drug that we have right now a lot of that has to do with you know we’re close to the border so a lot of it comes through here it’s a very dangerous drug because it’s very inconsistent when they make it so you never know what the dose is that you’re going to get,\" said Sergeant Lori Franklin from the Yuma Police Department Public Affairs. The Arizona Department of Health Services said this year there have been over 350 hospitalizations tied to suspected drug overdoses in Yuma County. Local Primary Care Doctor Kristina Diaz explained how deadly these opioids have been over the past year. “We’ve had 16 Opioid deaths in Yuma County, now that doesn’t sound like a whole lot but that’s sixteen people right that have died from Opioid overdose,” said Dr. Kristina Diaz, a primary care physician. Dr. Diaz also has some advice for people, especially teenagers, to help avoid fentanyl. “Especially our teenagers you know sometimes want to take a Tylenol from a friend they have in their backpack or they’re given something and say let’s have a good time but I really would recommend especially because of the potency and because we can’t regulate this fentanyl that’s being created. It creates a huge safety risk so my recommendation is that you not take any medication unless you yourself bought them,” said Dr. Diaz. The bills have yet to be passed but they have been introduced.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Politics", "Health", "Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "kyrsten sinema",
+        "sentiment": "negative"
+      },
+      {
+        "name": "sinema",
+        "sentiment": "negative"
+      },
+      {
+        "name": "lori franklin",
+        "sentiment": "none"
+      },
+      {
+        "name": "kristina diaz",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "kyma",
+        "sentiment": "negative"
+      },
+      {
+        "name": "yuma police department public affairs",
+        "sentiment": "none"
+      },
+      {
+        "name": "arizona department of health services",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "kyma",
+        "sentiment": "none"
+      },
+      {
+        "name": "ariz.",
+        "sentiment": "none"
+      },
+      {
+        "name": "yuma",
+        "sentiment": "none"
+      },
+      {
+        "name": "yuma",
+        "sentiment": "none"
+      },
+      {
+        "name": "yuma county",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T02:21:24.965+02:00",
+  "updated": "2023-12-29T02:21:24.965+02:00"
+}

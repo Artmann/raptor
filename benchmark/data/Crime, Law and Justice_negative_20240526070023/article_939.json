@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "b731c1288db308c74de2ef33c8390f806aedcf8d",
+    "url": "https://manilastandard.net/news/top-stories/314439956/nsc-warns-of-foreign-meddling-in-2025-midterm-elections.html",
+    "site_full": "manilastandard.net",
+    "site": "manilastandard.net",
+    "site_section": "https://manilastandard.net/category/news",
+    "site_categories": ["media"],
+    "section_title": null,
+    "title": "NSC warns of foreign meddling in 2025 midterm elections",
+    "title_full": "NSC warns of foreign meddling in 2025 midterm elections",
+    "published": "2024-04-25T19:50:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PH",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 29989,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b731c1288db308c74de2ef33c8390f806aedcf8d",
+  "url": "https://manilastandard.net/news/top-stories/314439956/nsc-warns-of-foreign-meddling-in-2025-midterm-elections.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Manila Standard",
+  "published": "2024-04-25T19:50:00.000+03:00",
+  "title": "NSC warns of foreign meddling in 2025 midterm elections",
+  "text": "Foreign entities may attempt to meddle with next year’s midterm polls, the National Security Council warned on Thursday.\nThis came a day after the Palace issued a warning that a video circulating online featured a digitally altered audio clip of President Marcos supposedly instructing the military to act against a foreign country.\nIn a radio interview, NSC Assistant Director General Jonathan Malaya said “foreign maligned interference operations” are increasing in the country.\nMalaya called on the Commission on Elections to protect the sanctity of the voting process.\nHe also called for a “whole-of-nation” approach to preserve the integrity of the elections.\nThe Presidential Communications Office earlier said the deepfake video of Mr. Marcos was created using generative artificial intelligence.\nMalaya on Wednesday said a “foreign hand” appeared to be behind the deepfake video.\n“The ones behind the video want us Filipinos to fight among ourselves. We saw there was foreign hand that was manipulating, some form of information manipulation,” he said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Politics",
+    "Crime, Law and Justice",
+    "War, Conflict and Unrest"
+  ],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "jonathan malaya",
+        "sentiment": "none"
+      },
+      {
+        "name": "marcos",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "national security council",
+        "sentiment": "negative"
+      },
+      {
+        "name": "nsc",
+        "sentiment": "negative"
+      },
+      {
+        "name": "presidential communications office",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "malaya",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:46:35.482+03:00",
+  "updated": "2024-04-26T00:46:35.482+03:00"
+}

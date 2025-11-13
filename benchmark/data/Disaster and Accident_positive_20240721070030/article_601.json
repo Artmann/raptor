@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "6e9aa90f24a2620317e18b8d9e1f65d658f9dec9",
+    "url": "https://www.2news.com/news/fire-crews-gain-full-containment-on-fire-in-palomino-valley/article_c1238aba-3014-11ef-96a6-d7523fe13ef8.html",
+    "site_full": "www.2news.com",
+    "site": "2news.com",
+    "site_section": "https://www.2news.com/features",
+    "site_categories": [],
+    "section_title": "Features | 2news.com",
+    "title": "Fire Crews Gain Full Containment on Fire in Palomino Valley | News | 2news.com",
+    "title_full": "Fire Crews Gain Full Containment on Fire in Palomino Valley | News | 2news.com",
+    "published": "2024-06-22T09:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/2news.com/content/tncms/assets/v3/editorial/b/29/b296a88a-30c6-11ef-a332-0b3151d23eb9/66771a6cc340a.image.jpg?crop=445%2C445%2C0%2C76&amp;resize=200%2C200&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 20385,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6e9aa90f24a2620317e18b8d9e1f65d658f9dec9",
+  "url": "https://www.2news.com/news/fire-crews-gain-full-containment-on-fire-in-palomino-valley/article_c1238aba-3014-11ef-96a6-d7523fe13ef8.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-06-22T09:00:00.000+03:00",
+  "title": "Fire Crews Gain Full Containment on Fire in Palomino Valley | News | 2news.com",
+  "text": "Update June 22, 11:30 a.m.:\nTruckee Meadows Fire & Rescue has brought containment up to 20%.\nThe Reno Fire Department, Sparks Fire, Storey County, Nevada Forestry, and the Bureau of Land Management all have crews working this fire.\nJune 21 last update:\nA spokesperson for Truckee Meadows Fire & Rescue confirmed that a brush fire on Ironwood Road in Palomino Valley has burned two outhouses.\nThe fire has burned nearly 172 acres according to a post on X from Truckee Meadows Fire & Rescue.\nAll forward progress on the fire has been stopped, and fire crews will remain on scene overnight and into the weekend.\nNo injuries have been reported from the fire and no residential structures have been lost.\nUpdate, 6:40 p.m.:\nEvacuations in the area have been lifted and residents can now return home.\nPerimeter Map Update, 4:20 p.m.:\nAccording to TMFR, multiple agencies are on the scene assisting with the fire.\nThey are currently working to protect homes and outbuildings.\nAn air tanker is on the scene dropping fire retardant.\nUpdate, 4:10 p.m.:\nThe Reno Fire Department says in an online post that they are responding to assist TMFR and BLM with the brush fire.\nRFD says they are sending two brush trucks (staffed with four firefighters) and a Battalion Chief at this time.\nUpdate, 3:50 p.m.:\nAccording to TMFR, the fire is at approximately 50 acres.\nThey are asking for residents to check Perimeter Map for areas in the evacuation area.\nLarge animals that need to be evacuated can be taken to the UNR Equestrian Center, located at 1290 Valley Rd, Reno\nOriginal Story, 2:25 p.m.:\nTruckee Meadows Fire & Rescue crews are on scene of a brush fire near Virginia Peak south of Pyramid Lake.\nAccording to TMFR, the fire is about 10 acres and is located from Ironwood Drive to Wilcox Drive in Palomino Valley.\nThe smoke is visible on ALERT Wildfire cameras at this link .\nAccording to the Washoe County Sheriff's Office, evacuations are in place near Ironwood Road and Pyramid Highway.\nPerimeter Map You can view an evacuation map here .\nFolks are asked to evacuate to Spanish Springs Library at 7100A Pyramid Way.\nPlease avoid the area.\nWe are working to get more information.\nWe will update you as we learn more.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://perimetermap.com/",
+    "https://www.alertwildfire.org/region/blmnv/?camera=Axis-Virginia",
+    "https://perimetermap.com/incidents/polygon/26798",
+    "https://www.perimetermap.com/incidents/polygon/26798",
+    "https://alertwildfire.org/region/blmnv/?camera=Axis-Virginia",
+    "https://perimetermap.com",
+    "https://www.perimetermap.com/",
+    "https://www.alertwildfire.org/region/blmnv/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "truckee meadows fire & rescue",
+        "sentiment": "negative"
+      },
+      {
+        "name": "fire department",
+        "sentiment": "none"
+      },
+      {
+        "name": "bureau of land management",
+        "sentiment": "none"
+      },
+      {
+        "name": "sparks fire",
+        "sentiment": "none"
+      },
+      {
+        "name": "reno fire department",
+        "sentiment": "none"
+      },
+      {
+        "name": "nevada forestry",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "palomino valley",
+        "sentiment": "none"
+      },
+      {
+        "name": "storey county",
+        "sentiment": "none"
+      },
+      {
+        "name": "ironwood road",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-22T23:06:40.863+03:00",
+  "updated": "2024-06-22T23:06:40.863+03:00"
+}

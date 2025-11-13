@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "782afa584f0b80c7d8825d8df04def1e90f241d2",
+    "url": "https://www.wkyt.com/2024/06/21/two-members-kentucky-national-guard-awarded-bravery-during-historic-floods",
+    "site_full": "www.wkyt.com",
+    "site": "wkyt.com",
+    "site_section": "https://wkyt.com/news",
+    "site_categories": ["media"],
+    "section_title": "News",
+    "title": "Two members of Kentucky National Guard awarded for bravery during historic floods",
+    "title_full": "Two members of Kentucky National Guard awarded for bravery during historic floods",
+    "published": "2024-06-21T19:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-wkyt-prod.cdn.arcpublishing.com/resizer/v2/YAOKDG53S5FY5IW6K6ZRCXDUNY.jpg?auth=a836ee157aa7fb95b52c8d2d2ebf8e132f70844bf312cb9c59456175b00c73d0&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 14044,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "782afa584f0b80c7d8825d8df04def1e90f241d2",
+  "url": "https://www.wkyt.com/2024/06/21/two-members-kentucky-national-guard-awarded-bravery-during-historic-floods",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@wkyt",
+  "published": "2024-06-21T19:33:00.000+03:00",
+  "title": "Two members of Kentucky National Guard awarded for bravery during historic floods",
+  "text": "Two members of Kentucky National Guard awarded for bravery during historic floods FRANKFORT, Ky. (WKYT)—Two Kentucky National Guard members were awarded Friday at a ceremony in the Capitol Rotunda for their bravery during the Kentucky floods. Sergeant First Class Jeremy Lowe and Staff Sergeant Ryan Hunter were presented with the Kentucky Medal for Valor. Their heroic missions took place during the 2022 historic floods in eastern Kentucky, during which 241 people were rescued. The award is presented to Kentucky National Guard members who have distinguished themselves at the risk of their lives and gone above and beyond the call of duty. After receiving the award, Sergeant First Class Lowe spoke about what the award meant to him. “This award is not just a recognition of the actions of two flight paramedics. It’s a testament to the extraordinary teamwork, bravery, and dedication of countless individuals and organizations that united during the devastating floods,” Lowe said. Lowe was part of the group that, over a decade ago, had a vision to create the rescue program that is operating today. In the past two decades, service members have only been recognized like this seven times. Copyright 2024 WKYT. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Human Interest"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "ryan hunter",
+        "sentiment": "none"
+      },
+      {
+        "name": "lowe",
+        "sentiment": "none"
+      },
+      {
+        "name": "jeremy lowe",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "kentucky national guard",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "ky.",
+        "sentiment": "none"
+      },
+      {
+        "name": "frankfort",
+        "sentiment": "none"
+      },
+      {
+        "name": "capitol rotunda",
+        "sentiment": "none"
+      },
+      {
+        "name": "kentucky",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-21T20:20:05.460+03:00",
+  "updated": "2024-06-22T10:47:40.441+03:00"
+}

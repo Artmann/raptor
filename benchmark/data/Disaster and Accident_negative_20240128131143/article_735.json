@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "955f76be10600bc40de56e080df45493daf5f733",
+    "url": "https://www.kivitv.com/news/cases-of-the-flu-are-on-the-rise-in-the-greater-treasure-valley-area",
+    "site_full": "www.kivitv.com",
+    "site": "kivitv.com",
+    "site_section": "https://kivitv.com",
+    "site_categories": ["media"],
+    "section_title": "Boise, Idaho News, Weather, Sports and Traffic | KIVI-TV\r\n",
+    "title": "Cases of the flu are on the rise in the Greater Treasure Valley area",
+    "title_full": "Cases of the flu are on the rise in the Greater Treasure Valley area",
+    "published": "2023-12-28T21:20:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ewscripps.brightspotcdn.com/dims4/default/597b4a9/2147483647/strip/true/crop/5472x2873+0+388/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F25%2F27%2F1ebaa57f480bb8a5bd38b528e38a%2Fap-20232548233562.jpg",
+    "performance_score": 0,
+    "domain_rank": 41396,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "955f76be10600bc40de56e080df45493daf5f733",
+  "url": "https://www.kivitv.com/news/cases-of-the-flu-are-on-the-rise-in-the-greater-treasure-valley-area",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "KIVI Staff",
+  "published": "2023-12-28T21:20:00.000+02:00",
+  "title": "Cases of the flu are on the rise in the Greater Treasure Valley area",
+  "text": "BOISE, Idaho — Idahoans who have not received a flu vaccine this season are urged to do so now, as increasing numbers of influenza cases and high positivity rates are detected at Primary Health clinics across the Treasure Valley. “We saw about 300 cases of influenza in our clinics last week, and cases this week are trending higher,” said Ann Weiss, M.D., Clinical Director for Primary Health Medical Group. “This year’s flu vaccine is estimated to be a fairly good match, and while we won’t have final efficacy numbers until after the season, it isn’t too late to get vaccinated now.” Flu vaccine is available on a walk-in basis at all Primary Health Urgent Care clinics, including high-dose vaccine for patients 65 and older. There is no cost with most major insurance plans, and a discount is available for self-pay patients. Patients who are feeling ill and need to be evaluated for flu can walk in, or book their urgent care visit ahead of time for a shorter wait at [www.PrimaryHealth.com [primaryhealth.com]](https://urldefense.com/v3/__http://www.PrimaryHealth.com__;!!FJkDyvWmnr4!fzF7u8c3siR2AUmiJ23qjmfrNc0lPDBjvP_NbEf6qL19kBApWoCV6bS8oHGtWRLp9nEwKDvx0t-8S4p2l2YNPo03sA$). Masks are required and provided for all patients with illness symptoms.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Human Interest", "Health", "Disaster and Accident"],
+  "external_links": [
+    "https://urldefense.com/v3/__http://www.PrimaryHealth.com__;!!FJkDyvWmnr4!fzF7u8c3siR2AUmiJ23qjmfrNc0lPDBjvP_NbEf6qL19kBApWoCV6bS8oHGtWRLp9nEwKDvx0t-8S4p2l2YNPo03sA$).",
+    "https://urldefense.com/v3/__http://PrimaryHealth.com__;!!FJkDyvWmnr4!fzF7u8c3siR2AUmiJ23qjmfrNc0lPDBjvP_NbEf6qL19kBApWoCV6bS8oHGtWRLp9nEwKDvx0t-8S4p2l2YNPo03sA$)."
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "ann weiss",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "clinical director for primary health medical group",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "greater treasure valley",
+        "sentiment": "none"
+      },
+      {
+        "name": "boise",
+        "sentiment": "none"
+      },
+      {
+        "name": "idaho",
+        "sentiment": "none"
+      },
+      {
+        "name": "treasure valley",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:09:25.956+02:00",
+  "updated": "2023-12-29T01:09:25.956+02:00"
+}

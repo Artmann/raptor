@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "695417cea5b1ff7466645de673c38597e1d29de9",
+    "url": "https://www.newsbreak.com/news/4240953932976-tribe-launches-new-online-choctaw-language-dictionary",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://newsbreak.com/pearl-ms",
+    "site_categories": ["under_construction"],
+    "section_title": "Pearl, MS Local News and More | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Tribe launches new online Choctaw language dictionary - NewsBreak",
+    "title_full": "Tribe launches new online Choctaw language dictionary - NewsBreak",
+    "published": "2025-09-18T01:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/1gTtyT_14qHJ8Rs00",
+    "performance_score": 0,
+    "domain_rank": 2819,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "695417cea5b1ff7466645de673c38597e1d29de9",
+  "url": "https://www.newsbreak.com/news/4240953932976-tribe-launches-new-online-choctaw-language-dictionary",
+  "ord_in_thread": 0,
+  "author": "Editorials",
+  "published": "2025-09-18T01:00:00.000+03:00",
+  "title": "Tribe launches new online Choctaw language dictionary - NewsBreak",
+  "text": "By Editorials ,\n6 hours ago The Mississippi Band of Choctaw Indians has launched a new online Choctaw language dictionary that Tribal officials say is designed to serve both as a classroom tool and a living record of how Choctaw people speak today. The dictionary is the product of decades of work by the Tribe’s Language... Read full article\nRead in NewsBreak 3",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->online and remote learning",
+    "Education->students",
+    "Social Issue->demographics",
+    "Social Issue->communities",
+    "Social Issue->diversity, equity and inclusion",
+    "Human Interest->record and achievement"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Mississippi Band of Choctaw Indians",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:48:48.256+03:00",
+  "updated": "2025-09-18T07:58:12.000+03:00"
+}

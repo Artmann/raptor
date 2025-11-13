@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "9b81bd1cba7ffe0c9384b2f658a40e48a829bce3",
+    "url": "https://www.gov.uk/government/news/brand-new-guide-to-help-public-easily-access-court-hearings",
+    "site_full": "www.gov.uk",
+    "site": "www.gov.uk",
+    "site_section": "https://www.gov.uk/government/feed",
+    "site_categories": [
+      "tax_planning",
+      "politics",
+      "law_government_and_politics",
+      "finance",
+      "us_government_resources"
+    ],
+    "section_title": "Activity on GOV.UK",
+    "title": "Brand new guide to help public easily access court hearings - GOV.UK",
+    "title_full": "Brand new guide to help public easily access court hearings - GOV.UK",
+    "published": "2023-12-30T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "https://assets.publishing.service.gov.uk/media/65855d2cfc07f300128d46b0/s960_justice.jpg",
+    "performance_score": 0,
+    "domain_rank": 134,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9b81bd1cba7ffe0c9384b2f658a40e48a829bce3",
+  "url": "https://www.gov.uk/government/news/brand-new-guide-to-help-public-easily-access-court-hearings",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Ministry of Justice",
+  "published": "2023-12-30T02:00:00.000+02:00",
+  "title": "Brand new guide to help public easily access court hearings - GOV.UK",
+  "text": "First ever easy-to-use guide published to help people access court hearings Public encouraged to know their rights to support open justice Follows successful Reporters’ Charter to boost transparency in justice system Around two million court and tribunals hearings take place every year and for the first time ever, this eight-page document sets out in one place how people can access many of them.\nFrom murder trials to employment law cases, it explains the different types of courts and tribunals, how to observe a court hearing, which areas of court are open to the public and what to expect once inside the court.\nIt also includes details like what to do before a hearing and how to access Wi-Fi in court buildings, and directs people to further resources for more information.\nJustice Minister, Mike Freer, said:\nOpen and transparent courts are a key principle of our justice system and it is vital people can see for themselves how justice is done.\nThis guide is another way we are lifting the curtain for the public to help them easily observe trials, tribunals and hearings.\nIn a further boost to support the principle of open justice, the document will also help HMCTS staff be well prepared to help members of the public access hearings, and to support those attending for the first time.\nThe guide follows a move last year to allow cameras to film some sentencing remarks by judges in Crown Courts to allow more people to see inside the courts as justice is served.\nThe Government has previously published the Reporters Charter which outlined the rights and responsibilities of court reporters to boost transparency in the justice system.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Crime, Law and Justice", "Social Issue"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "mike freer",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-30T02:05:34.276+02:00",
+  "updated": "2023-12-30T02:05:34.276+02:00"
+}

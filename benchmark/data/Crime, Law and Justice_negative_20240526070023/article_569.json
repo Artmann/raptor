@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "360c562de20dd576b45cf5417f4523b89182db0d",
+    "url": "https://flipboard.com/article/man-accused-of-destroying-his-mercedes-benz-to-ripoff-insurance-company/f-5f726573ed%2Fwinknews.com",
+    "site_full": "flipboard.com",
+    "site": "flipboard.com",
+    "site_section": "https://flipboard.com/topic/palmbeachcounty",
+    "site_categories": ["family_and_parenting", "eldercare"],
+    "section_title": "Discover More in Palm Beach County on Flipboard",
+    "title": "Man accused of destroying his Mercedes Benz to ripoff insurance company | Flipboard",
+    "title_full": "Man accused of destroying his Mercedes Benz to ripoff insurance company | Flipboard",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ic-cdn.flipboard.com/winknews.com/44e863cf5a28f00bbf2c283efbc81af54e61079f/_medium.png",
+    "performance_score": 0,
+    "domain_rank": 1221,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "360c562de20dd576b45cf5417f4523b89182db0d",
+  "url": "https://flipboard.com/article/man-accused-of-destroying-his-mercedes-benz-to-ripoff-insurance-company/f-5f726573ed%2Fwinknews.com",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "winknews.com - Annalise Iraola",
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "Man accused of destroying his Mercedes Benz to ripoff insurance company | Flipboard",
+  "text": "Man accused of destroying his Mercedes Benz to ripoff insurance company TICE The Lee County Sheriff’s Office has arrested a man and accused him of trying to rip off his insurance company by destroying his own …\nwinknews.com - Annalise Iraola • 1d",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "nadia lopez",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "tice",
+        "sentiment": "negative"
+      },
+      {
+        "name": "mercedes benz",
+        "sentiment": "negative"
+      },
+      {
+        "name": "bloomberg allstate corp.",
+        "sentiment": "none"
+      },
+      {
+        "name": "allstate",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "cheyenne chalai",
+        "sentiment": "none"
+      },
+      {
+        "name": "california",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:25:13.637+03:00",
+  "updated": "2024-04-26T20:41:34.455+03:00"
+}

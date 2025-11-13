@@ -1,0 +1,150 @@
+{
+  "thread": {
+    "uuid": "49214c6644669230947ed677538d3944dbe4ffbc",
+    "url": "https://www.newsbreak.com/steelton-pa/3415908497022-kier-sims-arrested-for-allegedly-killing-otilio-lugo-rivera",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/daily-voice-525087",
+    "site_categories": [
+      "under_construction",
+      "non_standard_content",
+      "top_news"
+    ],
+    "section_title": "Daily Voice | NewsBreak",
+    "title": "Kier Sims Arrested For Allegedly Killing Otilio Lugo-Rivera",
+    "title_full": "Kier Sims Arrested For Allegedly Killing Otilio Lugo-Rivera",
+    "published": "2024-04-25T23:27:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/1am0wT_0sdxJib000?type=thumbnail_1600x1200",
+    "performance_score": 0,
+    "domain_rank": 3382,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "49214c6644669230947ed677538d3944dbe4ffbc",
+  "url": "https://www.newsbreak.com/steelton-pa/3415908497022-kier-sims-arrested-for-allegedly-killing-otilio-lugo-rivera",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NewsBreak Original",
+  "published": "2024-04-25T23:27:00.000+03:00",
+  "title": "Kier Sims Arrested For Allegedly Killing Otilio Lugo-Rivera",
+  "text": "By Jillian Pikora ,\n50 minutes ago The Hideout after-hours strip club in Steelton where Kier Sims (pictured) is accused of killing Otilio Lugo-Rivera, according to the Steelton police. Photo Credit: Steelton PD (overlay); Google Maps (Street View) Kier Hashawn Sims has been charged with criminal homicide in connection with the death of Otilio Lugo-Rivera at The Hideout strip club in Steelton on March 23, as Daily Voice previously reported.\nEyewitnesses told police about the brutal beating Sims gave Lugo-Rivera at the club located at 159 North Front Street. Following the autopsy, \"board-certified forensic pathologist, Dr. Wayne K. Ross determined that the cause of death was blunt force trauma to two sections of Mr. Lugo-Rivera's brain,\" as stated in a police release.\nOn April 25 Sims \"was taken into custody by the U.S. Marshals' office in York \"on warrants unrelated to the Homicide in Steelton,\" the police said. According to court records, the York warrant appears to be for a probation violation.\nAfter \"those warrants are remedied, he will be transferred to Dauphin County Prison,\" the police added.\nThe Dauphin County District Attorney's Office, the Dauphin County Forensic Team, the Dauphin County Criminal Investigation Division, and the U.S. Marshals Service worked together to track down Sims.\nto follow Daily Voice York and receive free news updates.\nExpand All Read in NewsBreak",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://dailyvoice.com/pennsylvania/franklin/otilio-lugo-rivera-dies-at-steelton-strip-club-the-hideout/",
+    "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1am0wT_0sdxJib000",
+    "https://img.particlenews.com/image.php?url=1am0wT_0sdxJib000",
+    "https://dailyvoice.com/pennsylvania/franklin/otilio-lugo-rivera-dies-at-steelton-strip-club-the-hideout",
+    "https://img.particlenews.com/image.php",
+    "https://www.dailyvoice.com/pennsylvania/franklin/otilio-lugo-rivera-dies-at-steelton-strip-club-the-hideout/",
+    "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1am0wT_0sdxJib000",
+    "https://www.img.particlenews.com/image.php?url=1am0wT_0sdxJib000"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "kier",
+        "sentiment": "negative"
+      },
+      {
+        "name": "jillian pikora",
+        "sentiment": "negative"
+      },
+      {
+        "name": "otilio lugo",
+        "sentiment": "negative"
+      },
+      {
+        "name": "kier sims",
+        "sentiment": "negative"
+      },
+      {
+        "name": "lugo-rivera",
+        "sentiment": "none"
+      },
+      {
+        "name": "kier hashawn sims",
+        "sentiment": "none"
+      },
+      {
+        "name": "sims",
+        "sentiment": "none"
+      },
+      {
+        "name": "otilio lugo-rivera",
+        "sentiment": "none"
+      },
+      {
+        "name": "wayne k. ross",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "google",
+        "sentiment": "none"
+      },
+      {
+        "name": "daily voice",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "steelton",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "dauphin county prison",
+        "sentiment": "none"
+      },
+      {
+        "name": "york",
+        "sentiment": "none"
+      },
+      {
+        "name": "north front street",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:26:35.643+03:00",
+  "updated": "2024-04-26T00:26:35.643+03:00"
+}

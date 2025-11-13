@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "02f06e655abcddde6c239e5835e82e01403d4ab5",
+    "url": "https://www.standard.net.au/story/8472076/liberia-tanker-blast-death-toll-rises-to-more-than-40/?src=rss",
+    "site_full": "www.standard.net.au",
+    "site": "standard.net.au",
+    "site_section": "https://www.standard.net.au/news/world/rss.xml",
+    "site_categories": ["media"],
+    "section_title": "The Standard - World",
+    "title": "Liberia tanker blast death toll rises to more than 40",
+    "title_full": "Liberia tanker blast death toll rises to more than 40",
+    "published": "2023-12-28T22:20:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://www.standard.net.au/images/transform/v1/crop/frm/silverstone-feed-data/19fac497-ba1b-447b-adbe-30c6597fc617.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+    "performance_score": 0,
+    "domain_rank": 67087,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "02f06e655abcddde6c239e5835e82e01403d4ab5",
+  "url": "https://www.standard.net.au/story/8472076/liberia-tanker-blast-death-toll-rises-to-more-than-40/?src=rss",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Mark N Mengonfia",
+  "published": "2023-12-28T22:20:00.000+02:00",
+  "title": "Liberia tanker blast death toll rises to more than 40",
+  "text": "A leaking fuel tanker that exploded earlier this week as people gathered to collect the petrol has left more than 40 people dead.\nThe blast on Tuesday also injured at least 83 people in the town of Totota in the central part of the West African country, health officials said on Thursday.\nMany of the dead were buried in a mass grave on Wednesday because their remains were unrecognisable, said health official Dr. Cynthia Blapook in Bong County.\nAuthorities said an exact death toll was difficult to confirm because of how badly the bodies were burned.\nLiberian Vice President Jewel Howard-Taylor attended the mass funeral.\n\"We never expected to start the new year like this,\" Howard-Taylor said.\nHealth officials said the number of injured could rise as they were not certain everyone had been brought in for care.\nA doctor at one hospital treating the injured urged the Liberian government to deploy a disaster management team and to have one in each county to respond to emergencies.\nDr. Minnie Sankawolo-Rocks also pleaded with people not to approach fuel tankers in the hope of collecting much-needed petrol. Similar deadly accidents have occurred elsewhere in Africa.\n\"Please, I am begging you,\" she said.\nSankawolo-Rocks said people did not listen to police instructions to keep away before the tanker exploded.\n ",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "War, Conflict and Unrest",
+    "Disaster and Accident",
+    "Human Interest"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "minnie sankawolo",
+        "sentiment": "none"
+      },
+      {
+        "name": "cynthia blapook",
+        "sentiment": "none"
+      },
+      {
+        "name": "jewel howard-taylor",
+        "sentiment": "none"
+      },
+      {
+        "name": "howard-taylor",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "liberia",
+        "sentiment": "none"
+      },
+      {
+        "name": "totota",
+        "sentiment": "none"
+      },
+      {
+        "name": "bong county",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:06:45.970+02:00",
+  "updated": "2023-12-29T01:06:45.970+02:00"
+}

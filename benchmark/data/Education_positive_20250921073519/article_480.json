@@ -1,0 +1,121 @@
+{
+  "thread": {
+    "uuid": "5010d463f97a98a8ca1649c6be9c560fc11a1a6e",
+    "url": "https://www.hcdposadas.gob.ar/parlamento-estudiantil-inclusivo-la-participacion-juvenil-es-clave-para-la-transformacion-social/",
+    "site_full": "www.hcdposadas.gob.ar",
+    "site": "hcdposadas.gob.ar",
+    "site_section": "https://www.hcdposadas.gob.ar/feed/",
+    "site_categories": [],
+    "section_title": "HCD Posadas",
+    "site_title": null,
+    "title": "Parlamento Estudiantil Inclusivo: la participación juvenil es clave para la transformación social",
+    "title_full": "Parlamento Estudiantil Inclusivo: la participación juvenil es clave para la transformación social",
+    "published": "2025-09-18T04:54:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "https://www.hcdposadas.gob.ar/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-17-at-16.36.54-1.jpeg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5010d463f97a98a8ca1649c6be9c560fc11a1a6e",
+  "url": "https://www.hcdposadas.gob.ar/parlamento-estudiantil-inclusivo-la-participacion-juvenil-es-clave-para-la-transformacion-social/",
+  "ord_in_thread": 0,
+  "author": "Fernanda Oliveira",
+  "published": "2025-09-18T04:54:00.000+03:00",
+  "title": "Parlamento Estudiantil Inclusivo: la participación juvenil es clave para la transformación social",
+  "text": "El 26 de septiembre, los adolescentes asumirán las bancas de los concejales. Este espacio destaca la importancia de la participación ciudadana en la democracia, promueve el pensamiento crítico y el debate argumentado.\nEn el mes de la juventud, los adolescentes toman protagonismo en el Honorable Concejo Deliberante. Bajo el lema “Juventud que legisla, ciudad que avanza” culminaron las actividades previas al Parlamento Estudiantil Inclusivo 2025.\nLos representantes de 18 colegios ocuparán las bancas de los ediles el próximo 26 de septiembre. Allí pondrán en práctica lo difundido en las charlas y talleres organizados por el HCD, para debatir diferentes iniciativas y problemáticas.\nEste Parlamento está diseñado para promover la participación de los jóvenes de las escuelas secundarias en la vida política y la sociedad en general. A través de herramientas conceptuales y prácticas que permitan comprender el funcionamiento del Poder Legislativo y la importancia de la participación ciudadana en la democracia, se promueve el pensamiento crítico y el debate argumentado.\nA lo largo de un mes, 36 jóvenes se interiorizaron sobre la actividad legislativa, conocieron el funcionamiento del recinto, participaron de tests vocacionales, dialogaron con los asesores de los concejales y con las autoridades del Cuerpo. En un contexto donde la participación juvenil es clave para la transformación social, esta iniciativa no sólo busca transmitir conocimientos teóricos, sino también promover espacios de diálogo, construcción colectiva y elaboración de propuestas legislativas que reflejen sus intereses y preocupaciones.\nLa construcción de una democracia más inclusiva es un proceso que contempla la participación ciudadana, la formación cívica y refleja el compromiso del Concejo Deliberante.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Politics", "Social Issue", "Education"],
+  "topics": [
+    "Politics->citizens' initiative and recall",
+    "Social Issue->demographics",
+    "Social Issue->social services",
+    "Social Issue->teenagers",
+    "Education->educational grading",
+    "Education->students",
+    "Education->social learning"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Poder Legislativo",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Parlamento",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "HCD",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:26:06.918+03:00",
+  "updated": "2025-09-18T08:31:40.000+03:00"
+}

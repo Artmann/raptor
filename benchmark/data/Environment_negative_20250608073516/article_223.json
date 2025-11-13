@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "e7d398145ee1d26762f5f442cece99bcc6c06ee4",
+    "url": "https://www.wfsb.com/video/2025/05/07/concerns-over-trash-plant-plan-plainfield",
+    "site_full": "www.wfsb.com",
+    "site": "wfsb.com",
+    "site_section": "https://news.google.com/search?q=over%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media", "education", "entertainment"],
+    "section_title": "Google News - Search",
+    "site_title": "WFSB Connecticut News, Weather and Sports",
+    "title": "Concerns over trash plant plan in Plainfield",
+    "title_full": "Concerns over trash plant plan in Plainfield",
+    "published": "2025-05-08T01:31:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-wfsb-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F05-07-2025%2Ft_414ff13df81f49c7acecdb58898eea35_name_file_1280x720_2000_v3_1_.jpg?auth=47270bfa850914cb4a25953918c4b8cde96ece81ffb485205d4f6b32cf76fbd5&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 12646,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e7d398145ee1d26762f5f442cece99bcc6c06ee4",
+  "url": "https://www.wfsb.com/video/2025/05/07/concerns-over-trash-plant-plan-plainfield",
+  "ord_in_thread": 0,
+  "author": "@wfsbnews",
+  "published": "2025-05-08T01:31:00.000+03:00",
+  "title": "Concerns over trash plant plan in Plainfield",
+  "text": "Updated: 2 hours ago\nSouthington High School evacuated after laptop fire\nUpdated: 2 hours ago\nLawmakers voting on street takeover penalties\nUpdated: 3 hours ago\nAn investigation is underway following a deadly shooting in Hartford on Wednesday afternoon.\nUpdated: 3 hours ago\nTwo people, including a teenager, were shot in Fair Haven on Wednesday.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Human Interest"],
+  "topics": [
+    "Environment->environmental pollution",
+    "Environment->waste materials",
+    "Environment->sustainability",
+    "Social Issue->communities",
+    "Social Issue->social condition",
+    "Human Interest->human mishap"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Southington High School",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:48:52.132+03:00",
+  "updated": "2025-05-07T23:52:52.000+00:00"
+}

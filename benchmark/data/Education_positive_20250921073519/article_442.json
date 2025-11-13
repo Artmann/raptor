@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "dd97686935cc1605fd0a23809a8961438894fd11",
+    "url": "https://www.virgilio.it/italia/andria/notizielocali/emozioni_e_sorrisi_per_il_primo_giorno_di_scuola_all_istituto_comprensivo_mariano_fermi_di_andria-75743541.html",
+    "site_full": "www.virgilio.it",
+    "site": "virgilio.it",
+    "site_section": "https://www.virgilio.it/italia/minervino-murge",
+    "site_categories": ["media", "top_news_it", "top_news"],
+    "section_title": "Virgilio Minervino Murge: Notizie ed Eventi a Minervino Murge",
+    "site_title": "Virgilio: Mail, Login, Ultime Notizie in tempo reale e tanto altro!",
+    "title": "Emozioni e Sorrisi per il Primo Giorno di Scuola all Istituto Comprensivo Mariano Fermi di Andria - Andria",
+    "title_full": "Emozioni e Sorrisi per il Primo Giorno di Scuola all Istituto Comprensivo Mariano Fermi di Andria - Andria",
+    "published": "2025-09-18T01:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://img.plug.it/img_newsreg_mid/9/4/8/55527849.jpg",
+    "performance_score": 0,
+    "domain_rank": 5429,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "dd97686935cc1605fd0a23809a8961438894fd11",
+  "url": "https://www.virgilio.it/italia/andria/notizielocali/emozioni_e_sorrisi_per_il_primo_giorno_di_scuola_all_istituto_comprensivo_mariano_fermi_di_andria-75743541.html",
+  "ord_in_thread": 0,
+  "author": "AndriaViva",
+  "published": "2025-09-18T01:00:00.000+03:00",
+  "title": "Emozioni e Sorrisi per il Primo Giorno di Scuola all Istituto Comprensivo Mariano Fermi di Andria - Andria",
+  "text": "Emozioni e sorrisi per il \"Primo Giorno di Scuola\" all'Istituto Comprensivo \"Mariano - Fermi\" di Andria\nÈ iniziato tra emozioni, sorrisi e qualche lacrima il nuovo anno scolastico per i piccoli alunni delle classi prime di Scuola Primaria dell'Istituto Comprensivo \"Mariano - Fermi\" di... Leggi tutta la notizia\nCRONACA",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Education->school",
+    "Education->primary education",
+    "Human Interest->graduation",
+    "Lifestyle and Leisure->holiday",
+    "Lifestyle and Leisure->lifestyle",
+    "Lifestyle and Leisure->club and association"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.andriaviva.it/notizie/emozioni-e-sorrisi-per-il-primo-giorno-di-scuola-all-istituto-comprensivo-mariano-fermi-di-andria/",
+    "https://andriaviva.it/notizie/emozioni-e-sorrisi-per-il-primo-giorno-di-scuola-all-istituto-comprensivo-mariano-fermi-di-andria/",
+    "https://www.andriaviva.it/notizie/emozioni-e-sorrisi-per-il-primo-giorno-di-scuola-all-istituto-comprensivo-mariano-fermi-di-andria"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Fermi",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Istituto Comprensivo",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_it", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:21:06.299+03:00",
+  "updated": "2025-09-18T08:46:36.000+03:00"
+}

@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "a0bb6628f032661da05a2f7d05e586776814c92f",
+    "url": "https://www.ubergizmo.com/2023/12/security-without-sacrificing-privacy-uniuni-monitoring-solution/",
+    "site_full": "www.ubergizmo.com",
+    "site": "ubergizmo.com",
+    "site_section": "http://feeds.feedburner.com/ubergizmo",
+    "site_categories": ["tech"],
+    "section_title": "Ubergizmo",
+    "title": "Security without Sacrificing Privacy: UniUni Monitoring Solution",
+    "title_full": "Security without Sacrificing Privacy: UniUni Monitoring Solution",
+    "published": "2023-12-29T02:18:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2023/12/uniuni-space-monitor.jpg",
+    "performance_score": 0,
+    "domain_rank": 6409,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a0bb6628f032661da05a2f7d05e586776814c92f",
+  "url": "https://www.ubergizmo.com/2023/12/security-without-sacrificing-privacy-uniuni-monitoring-solution/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Hubert Nguyen",
+  "published": "2023-12-29T02:18:00.000+02:00",
+  "title": "Security without Sacrificing Privacy: UniUni Monitoring Solution",
+  "text": "UniUni ( [official site](https://www.uniuni-ai.com/)) is a startup that tackles a problem that’s been largely ignored so far: personal safety in spaces that have been excluded from surveillance, like public restrooms or retail dressing rooms. Whether it is violent acts, drug use, voyeurism via hidden cameras, and more. These have been locations traditionally difficult to video-monitor for obvious privacy reasons. UniUni calls these places “technological blind spots”. Note that there’s a [courier/delivery company with the same name](https://www.uniuni.com/about-us/), but it’s a totally different business. This startup believes it has the technology that can finally answer this challenge, thanks to a mix of hardware and software. The hardware presents itself in the form of a small monitoring box, which you can hold in your hand. Typically, it would be installed on the ceiling of each individual toilet seat, but fret not, there’s no camera inside. Instead, there’s a lidar device that acts more like a radar, as it perceives depth instead of colors. Just like a radar, it can tell you there’s someone (or something) but there’s no video or photos that voyeurs would want. We’ve seen this type of “radar” technology before, and we know it works for presence-detection applications. However, UniUni takes the technology to the next level by adding a layer of A.I (Artificial Intelligence) on top of the raw data. The company claims it can sense abnormal situations such as violence, drug use, or people placing hidden cameras in restrooms. If it works as advertised, that would be a personal safety game-changer as it is very hard to monitor so many locations without serious automation. Different places might experience different challenges. For example, Korea had a hidden camera issue recently, but other countries might experience high drug usage or physical attacks in these locations. Hidden cameras are much more expensive to find and remove than preventing their installation in the first place, when possible. There are also cases where people could experience a fall or faint, in which UniUni’s product could alert personnel to help. Beyond personal safety, the company points out that it is also possible to improve facilities maintenance as well by estimating when the toilet paper needs to be changed, how often the cleanup should be done, etc. Typically, this would be deployed in relatively large buildings, and the building owner or their security personnel would get the notification and access to the data via a dashboard. All the software runs as a SaaS ( [service page](https://www.uniuni-ai.com/SERVICES)) and via a local wireless network, which makes this very easy to install. The monitoring device costs about $350 and the SaaS service is about $100 per month. So far, this has been deployed to about 30 sites in Korea, and UniUni is seeking to sell it in the USA. The European Union is also a desirable market, but the company is still going through paperwork right now. UniUni’s monitoring solution is very interesting as it overcomes some of the obvious issues with video surveillance in this type of location. At the same time, it does provide some of the same advantages as video surveillance, without affecting privacy as much. Filed in [CES](https://www.ubergizmo.com/tags/ces/), [CES 2024](https://www.ubergizmo.com/tags/ces-2024/), [Korea](https://www.ubergizmo.com/tags/korea/), [Motion Sensing](https://www.ubergizmo.com/tags/motion-sensing/), [Security](https://www.ubergizmo.com/tags/security/) and [Startups](https://www.ubergizmo.com/tags/startups/).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Economy, Business and Finance"],
+  "external_links": [
+    "https://www.uniuni.com/about-us/",
+    "https://uniuni.com/about-us/",
+    "https://www.uniuni-ai.com/",
+    "https://www.uniuni-ai.com/SERVICES",
+    "https://uniuni-ai.com/SERVICES",
+    "https://www.uniuni.com/about-us",
+    "https://uniuni-ai.com/",
+    "https://www.uniuni-ai.com"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T02:22:45.775+02:00",
+  "updated": "2023-12-30T02:39:03.538+02:00"
+}

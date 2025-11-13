@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "d25315a6dfd6ce76075636debcd0347e1a3c3979",
+    "url": "https://today.line.me/tw/v2/article/wJy06Pp",
+    "site_full": "today.line.me",
+    "site": "line.me",
+    "site_section": "https://today.line.me/tw/v3/tab",
+    "site_categories": ["uncategorized"],
+    "section_title": "焦點 | LINE TODAY",
+    "site_title": null,
+    "title": "我不是塑膠袋　竹北新月沙灣沙灘驚見僧帽水母 | 中廣新聞網 | LINE TODAY",
+    "title_full": "我不是塑膠袋　竹北新月沙灣沙灘驚見僧帽水母 | 中廣新聞網 | LINE TODAY",
+    "published": "2025-05-08T01:27:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "JP",
+    "main_image": "https://today-obs.line-scdn.net/0hWF4P_ZJ3CGkJKRYV22p3PjF_BBg6TxJgKx0VDX8oVV0jBR08YU1bCi0sXkV0GUltKUZGBiV5VFsjGkY7Mg/w1200",
+    "performance_score": 0,
+    "domain_rank": 235,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "shares": 3
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d25315a6dfd6ce76075636debcd0347e1a3c3979",
+  "url": "https://today.line.me/tw/v2/article/wJy06Pp",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T01:27:00.000+03:00",
+  "title": "我不是塑膠袋　竹北新月沙灣沙灘驚見僧帽水母 | 中廣新聞網 | LINE TODAY",
+  "text": "進入五月立夏，氣溫也逐漸升高，不少民眾開始到海邊戲水。新竹縣竹北市新月沙灣是夏季的熱門景點，每逢假日都吸引不少民眾前往戲水。但竹北市公所提醒，最近有民眾在沙灘上發現擁有劇毒的「僧帽水母」現蹤，民眾如果看到粉紅、綠、藍或紫色，外觀像透明小塑膠袋的物體，就有可能是僧帽水母，千萬不要觸碰！（彭清仁報導）\n新竹市水上救生協會前2天在竹北新月沙灣做船艇訓練時，教練在沙灘上發現含有劇毒的僧帽水母，熱心的在臉書社團分享，提醒到新月沙灣踏浪玩水的民眾注意，千萬不要觸碰。\n竹北市公所表示，新月沙灣除了擁有遼闊的沙灘之外，也是欣賞落日夕陽的絕佳去處。不過最近有民眾在沙灘上發現僧帽水母的蹤跡，因僧帽水母有劇毒，如果誤觸會造成劇痛，傷口會有紅色鞭痕，毒素也有可能引發過敏反應干擾心肺功能。\n竹北市公所也提醒，如果在沙灘上看到粉紅，綠、藍或紫色，外觀像透明小塑膠袋的物體，就有可能是僧帽水母，千萬不要觸碰。據了解，號稱有「世界第3毒」的僧帽水母毒性極強，觸鬚長可達10公尺，即使是已經死亡或斷落的觸鬚，數小時內依然具有毒性，若不慎誤觸，可能引發過敏、休克，甚至危及性命，到海邊戲水的民眾千萬不可掉以輕心。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Environment", "Health"],
+  "topics": [
+    "Environment->endangered species",
+    "Environment->environmental pollution",
+    "Environment->nature",
+    "Health->health organisation",
+    "Health->communicable disease"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:58:03.857+03:00",
+  "updated": "2025-05-08T03:03:17.000+00:00"
+}

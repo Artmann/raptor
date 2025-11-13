@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "23f584679902007c1c53c16b91d00c62d71ec899",
+    "url": "https://ooe.orf.at/stories/3311136",
+    "site_full": "ooe.orf.at",
+    "site": "orf.at",
+    "site_section": "https://osterreich24.com/time",
+    "site_categories": ["media"],
+    "section_title": "Letzte Nachrichten - Osterreich24.com",
+    "site_title": "news.ORF.at",
+    "title": "Schüler verprügelt: Brutales Mobbing an HTL - ooe.ORF.at",
+    "title_full": "Schüler verprügelt: Brutales Mobbing an HTL - ooe.ORF.at",
+    "published": "2025-06-26T13:59:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AT",
+    "main_image": "https://ibs.orf.at/ooe?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2021%2F10%2F82%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F868237_master_303382_adipositas3.jpg%3Fs%3Dccde57fd129203dc80c7baad4c569a56553aa6e0",
+    "performance_score": 0,
+    "domain_rank": 2074,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "23f584679902007c1c53c16b91d00c62d71ec899",
+  "url": "https://ooe.orf.at/stories/3311136",
+  "ord_in_thread": 0,
+  "author": "ORF.at",
+  "published": "2025-06-26T13:59:00.000+03:00",
+  "title": "Schüler verprügelt: Brutales Mobbing an HTL - ooe.ORF.at",
+  "text": "Gegen die mutmaßlichen Täter läuft ein Schulausschlussverfahren. Am Donnerstagnachmittag soll dazu eine Entscheidung fallen. Gernot Weissensteiner, der Direktor der HTL Vöcklabruck, bestätigt die Vorfälle. Es gebe auch Videomaterial, das sichergestellt worden sei. Details nennt Weissensteiner keine. Die Polizei ermittelt.\nFall flog vor zwei Wochen in der Schule auf\nDer Fall sei vor zwei Wochen ins Rollen gekommen, so Direktor Weissensteiner: „Es hat eigentlich eine harmlose Rangelei gegeben. Ein Lehrer hat das beobachtet. Er ist sofort dazwischen gegangen. Durch mehrmaliges Nachfragen hat der betroffene Schüler gesagt ‚Mir geht’s eh nicht so schlecht, aber es gibt Schüler bei uns in der Klasse, denen geht’s viel schlimmer‘. Und natürlich sind wir dem nachgegangen. Es hat sich dann herauskristallisiert, was sich da anbahnt“.\nOpfer und Täter sind zwischen 15 und 16 Jahren alt. Die drei misshandelten Burschen sind derzeit krankgeschrieben. Die Polizei ermittelt.\nMehrere Schüler suspendiert\nDie gewalttätigen Schüler dürfen momentan nicht in die Schule gehen. Sie wurden von der Bildungsdirektion suspendiert. Niemand habe Anzeichen für Mobbing gesehen, auch die Eltern der Burschen hätten nichts geahnt. Die Klasse sei unauffällig gewesen, die betroffenen Schüler dürften aus Scham geschwiegen haben, so Weissensteiner.\nDie Mobbingfälle werden laut dem Direktor der HTL Vöcklabruck nun in der Schule aufgearbeitet. Im Herbst soll auch es Workshops dazu geben, wie man mit Konflikten umgeht.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Social Issue", "Education"],
+  "topics": [
+    "Crime, Law and Justice->assault",
+    "Social Issue->bullying",
+    "Social Issue->social problem",
+    "Social Issue->children",
+    "Education->teachers",
+    "Education->school",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Direktor Weissensteiner",
+        "sentiment": "none"
+      },
+      {
+        "name": "Gernot Weissensteiner",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "HTL Vöcklabruck",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:14:35.622+03:00",
+  "updated": "2025-06-26T11:27:14.000+00:00"
+}

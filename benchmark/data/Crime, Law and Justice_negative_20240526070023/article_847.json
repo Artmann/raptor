@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "af1d7b2a17fa3f9fea48078398069d12a62e7fdb",
+    "url": "https://signalscv.com/2024/04/scv-deputies-arrest-man-on-suspicion-of-murder",
+    "site_full": "signalscv.com",
+    "site": "signalscv.com",
+    "site_section": "https://signalscv.com/feed/",
+    "site_categories": ["media"],
+    "section_title": "Santa Clarita Valley Signal",
+    "title": "SCV deputies arrest man on suspicion of murder",
+    "title_full": "SCV deputies arrest man on suspicion of murder",
+    "published": "2024-04-25T21:38:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://signalscv.s3.us-west-1.amazonaws.com/wp-content/uploads/2024/01/14100943/crime-1.jpeg",
+    "performance_score": 0,
+    "domain_rank": 16622,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "af1d7b2a17fa3f9fea48078398069d12a62e7fdb",
+  "url": "https://signalscv.com/2024/04/scv-deputies-arrest-man-on-suspicion-of-murder",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Perry Smith",
+  "published": "2024-04-25T21:38:00.000+03:00",
+  "title": "SCV deputies arrest man on suspicion of murder",
+  "text": "Santa Clarita Valley Sheriff’s Station deputies arrested a man Thursday who’s been charged in connection with a July 2022 murder, according to L.A. County Superior Court and L.A. County Sheriff’s Department records available online.\nNery Leonardo Lopez, 48, was taken into custody around 5 a.m., according to LASD booking log information.\nCourt records indicated Lopez stands accused of one charge in connection with a July 17 incident: one count of felony murder, as well as a specific allegation the crime was committed with a firearm.\nInformation available from the sheriff’s Homicide Bureau indicates the allegation against Lopez might have occurred outside the SCV.\nHomicide officials did not have any immediate comment on the case, nor were prosecutors available to explain what prompted the April 4 filing for an arrest warrant in connection with a nearly 2-year-old allegation.\nSCV Sheriff’s Station officials referred all questions to the department’s Homicide Bureau.\nHomicide officials said only two murders were reported on the day listed in court records for Lopez’s alleged offense — one murder happened in East Los Angeles and the other in Hawthorne.\nSheriff’s booking logs no longer list the city of residence for crime suspects.\nThe L.A. County District Attorney’s Office did not have a copy of the complaint immediately available.\nLopez was due Thursday morning in court on Temple Street in Downtown Los Angeles to answer to the charge.\nThe status of his hearing was not immediately available. LASD records indicate he’s being held in lieu of $3 million bail.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "lopez",
+        "sentiment": "none"
+      },
+      {
+        "name": "nery leonardo lopez",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "scv",
+        "sentiment": "negative"
+      },
+      {
+        "name": "homicide bureau",
+        "sentiment": "none"
+      },
+      {
+        "name": "l.a. county superior court",
+        "sentiment": "none"
+      },
+      {
+        "name": "l.a. county sheriff’s department",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "santa clarita valley sheriff’s station",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:38:35.894+03:00",
+  "updated": "2024-04-26T00:38:35.894+03:00"
+}

@@ -1,0 +1,142 @@
+{
+  "thread": {
+    "uuid": "f078d2e38fd656d0fa214a913052c716e10ce5a1",
+    "url": "https://huroncountyview.mihomepaper.com/articles/msu-researchers-address-gap-in-substance-use-disorder-treatment/",
+    "site_full": "huroncountyview.mihomepaper.com",
+    "site": "mihomepaper.com",
+    "site_section": "https://huroncountyview.mihomepaper.com/category/news/feed/",
+    "site_categories": ["media"],
+    "section_title": "News - Huron County View",
+    "site_title": null,
+    "title": "MSU researchers address gap in substance use disorder treatment",
+    "title_full": "MSU researchers address gap in substance use disorder treatment",
+    "published": "2025-09-18T07:02:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 335728,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f078d2e38fd656d0fa214a913052c716e10ce5a1",
+  "url": "https://huroncountyview.mihomepaper.com/articles/msu-researchers-address-gap-in-substance-use-disorder-treatment/",
+  "ord_in_thread": 0,
+  "author": "ohtadmin",
+  "published": "2025-09-18T07:02:00.000+03:00",
+  "title": "MSU researchers address gap in substance use disorder treatment",
+  "text": "EAST LANSING – A team of researchers from Michigan State University and community partners has conducted critical research to address gaps in treatment of substance use disorder in Michigan’s St. Clair County and the city of Port Huron.\nThis research, culminating in support resources, comes in time for September: National Alcohol and Drug Addiction Recovery Month.\nTo assess the community’s services, Amy Drahota, an associate professor in MSU’s Department of Psychology, along with Research Specialist Karren Campbell and Assistant Professor Heatherlun Uphold, both in MSU’s Charles Stewart Mott Department of Public Health, analyzed self-reported data from eight substance use treatment organizations serving 14 locations. They also compiled 20 publicly available social indicators to gain a comprehensive understanding of the community’s health landscape.\nSt. Clair County is the second community to implement the Health Equity Report Card, or HERC, model, which was developed by researchers at MSU and previously used in Genesee County.\nTakeaways and needs\nResearchers noted that St. Clair County has a limited number of services for pregnant and postpartum women and their families, and there are no services for the needs of single fathers or minor children experiencing substance use disorders. For those services that are in place, researchers found that barriers — such as difficulty in finding the services that organizations offer on their websites — inhibit access to care.\nAdditionally, there is a lack of clinical services across the full continuum of care, specifically higher levels of clinical care (e.g., intensive outpatient), as many types of services are not available anywhere in St. Clair County, including residential or inpatient treatment. This and the limited outpatient services and resources may explain why St. Clair County has been listed as the 46th most vulnerable county for substance use in Michigan.\nSpecific to the county, the majority of services exist in a five-block radius within the city of Port Huron, while the total size of the county is roughly 721 square miles in size. This may explain why St. Clair County residents are 4.5 times more likely to die from an overdose compared to Port Huron residents.\n“This work aims to enhance services for substance use disorders by providing hyperlocal, data-driven insights that inform critical funding and policy decisions,” said Drahota, co-principal investigator of the project. “We hope that this model can be replicated across Michigan to further address service inequities.”\nSubstance resources\nThe team of researchers created a digital substance use disorder resource directory and a Substance Use Disorder Health Equity Report Card (SUD-HERC) — two crucial community informed products. The directory is a comprehensive repository for the emergency workers, treatment providers, policymakers and residents that can help raise awareness and increase access to resources. The report card is a data-driven evaluation tool designed to inform policy development, treatment provision and resource allocation.\nThese tools were developed with feedback from the county and can be used to help drive significant improvements in addiction science, policy and community engagement. Stakeholders in other counties have expressed interest in implementing similar initiatives in their respective Michigan regions.\nThe newly launched resources are already making a difference. Ken Heuvelman, who serves as the substance use disorder director for Region 10 (Genesee, Lapeer, Sanilac and St. Clair counties) at the Prepaid Inpatient Health Plan, witnessed one service provider reporting that she had already used the tools to identify local barriers, demonstrate the community’s need and write a grant proposal to expand available treatment resources in the area.\n“It was great to see that our goal to educate on the issues in order to help others have access to the data for grant writing was actually taking place,” said Ken Heuvelman, community co-principal investigator of the study.\nThis project was supported by an MSU Addiction Consortium on Research and Education Network, or ACORN, grant awarded in 2023 and was sponsored by the colleges of Human Medicine and Social Science. ACORN grants support teams who are actively engaged in scholarship focused on addiction science.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Health", "Social Issue", "Education"],
+  "topics": [
+    "Health->mental health and disorder",
+    "Health->health treatment and procedure",
+    "Health->drug rehabilitation",
+    "Social Issue->social services",
+    "Social Issue->social problem",
+    "Social Issue->addiction",
+    "Education->college and university",
+    "Education->students",
+    "Education->teachers"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Karren Campbell",
+        "sentiment": "none"
+      },
+      {
+        "name": "Amy Drahota",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "St. Clair County",
+        "sentiment": "none"
+      },
+      {
+        "name": "Genesee County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Michigan State University",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "MSU",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Caseville",
+        "Port Austin",
+        "Port Hope",
+        "Hurontown",
+        "Bad Axe",
+        "Ubly",
+        "Kinde",
+        "Elkton",
+        "Pigeon",
+        "Harbor Beach"
+      ],
+      "state": ["Michigan"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:55:31.724+03:00",
+  "updated": "2025-09-18T08:59:31.000+03:00"
+}

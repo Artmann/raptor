@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "058807797543000f3a74c4c601feac79dd6534b2",
+    "url": "https://www.stuttgarter-zeitung.de/inhalt.politikfolgen-usa-und-china-ansehen-beschaedigt-und-der-tourismus-leidet.ec22c6bf-8a89-4e1f-955f-7d1da226ec9c.html",
+    "site_full": "www.stuttgarter-zeitung.de",
+    "site": "stuttgarter-zeitung.de",
+    "site_section": "https://www.stuttgarter-zeitung.de/",
+    "site_categories": ["media", "top_news_de", "top_news"],
+    "section_title": "Aktuelle Nachrichten",
+    "site_title": "Aktuelle Nachrichten",
+    "title": "Politikfolgen: USA und China: Ansehen beschädigt - und der Tourismus leidet - Wirtschaft",
+    "title_full": "Politikfolgen: USA und China: Ansehen beschädigt - und der Tourismus leidet - Wirtschaft",
+    "published": "2025-06-19T06:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.stuttgarter-zeitung.de/media.media.873398fd-891a-448d-bcb1-3fc3ba31ce09.original1024.jpg",
+    "performance_score": 0,
+    "domain_rank": 7327,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "058807797543000f3a74c4c601feac79dd6534b2",
+  "url": "https://www.stuttgarter-zeitung.de/inhalt.politikfolgen-usa-und-china-ansehen-beschaedigt-und-der-tourismus-leidet.ec22c6bf-8a89-4e1f-955f-7d1da226ec9c.html",
+  "ord_in_thread": 0,
+  "author": "Von Carsten Hoefer und Johannes Neudecker, dpa",
+  "published": "2025-06-19T06:35:00.000+03:00",
+  "title": "Politikfolgen: USA und China: Ansehen beschädigt - und der Tourismus leidet - Wirtschaft",
+  "text": "USA und China: Ansehen beschädigt - und der Tourismus leidet 19.06.2025 - 05:30 Uhr\n1 Die Zahl ausländischer Besucher in China ist in den vergangenen Jahren stark gesunken. (Symbolbild) Foto: Zhang Zhimin/XinHua/dpa",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Politics", "Economy, Business and Finance", "Social Issue"],
+  "topics": [
+    "Politics->international relations",
+    "Politics->economic policy",
+    "Politics->political development",
+    "Economy, Business and Finance->economy",
+    "Economy, Business and Finance->tourism and leisure industry",
+    "Economy, Business and Finance->financial and economic news",
+    "Social Issue->social condition",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Zhang Zhimin",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "China",
+        "sentiment": "none"
+      },
+      {
+        "name": "USA",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "dpa",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:41:39.042+03:00",
+  "updated": "2025-06-20T05:08:02.000+00:00"
+}

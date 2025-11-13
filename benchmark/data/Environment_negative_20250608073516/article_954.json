@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "e0fd3bfa33cd104e82c48a592b34f7db6527a75f",
+    "url": "https://www.freiepresse.de/vogtland/auerbach/expertin-warnt-welche-giftpilze-im-vogtland-auf-dem-vormarsch-sind-artikel13800747",
+    "site_full": "www.freiepresse.de",
+    "site": "freiepresse.de",
+    "site_section": "https://freiepresse.de",
+    "site_categories": ["metals", "business"],
+    "section_title": "Freie Presse - Nachrichten aus Chemnitz, dem Erzgebirge &amp; Vogtland",
+    "site_title": "Freie Presse - Nachrichten aus Chemnitz, dem Erzgebirge &amp; Vogtland",
+    "title": "Expertin warnt: Welche Giftpilze im Vogtland auf dem Vormarsch sind",
+    "title_full": "Expertin warnt: Welche Giftpilze im Vogtland auf dem Vormarsch sind",
+    "published": "2025-05-08T06:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.freiepresse.de/DYNIMG/34/74/16463474_W2040C2040x1360o0x0.jpg",
+    "performance_score": 0,
+    "domain_rank": 18871,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e0fd3bfa33cd104e82c48a592b34f7db6527a75f",
+  "url": "https://www.freiepresse.de/vogtland/auerbach/expertin-warnt-welche-giftpilze-im-vogtland-auf-dem-vormarsch-sind-artikel13800747",
+  "ord_in_thread": 0,
+  "author": "@freie_presse",
+  "published": "2025-05-08T06:00:00.000+03:00",
+  "title": "Expertin warnt: Welche Giftpilze im Vogtland auf dem Vormarsch sind",
+  "text": "Auerbach\nErste Pilze sprießen längst wieder im Vogtland. Damit beginnt für Sandra Gruner eine neue Beratungssaison. Mittlerweile werden ihr immer öfter Exemplare gebracht, die Wärme mögen. Einige sind tödlich.\nSie sehen Perlpilzen zum Verwechseln ähnlich – wenn die Details nicht auffallen: Hochgiftige Knollenblätterpilze sind immer öfter in vogtländischen Wäldern anzutreffen. Das beobachtet Sandra Gruner seit einigen Jahren und sie muss es wissen. Die Falkensteinerin ist Pilzsachverständige, bietet Beratungen, Führungen und Vorträge zum Thema...\nRegistrieren und testen.\nJetzt mit Ihrer Registrierung 1 Monat gratis testen und alle Beiträge lesen.\nSchon Abonnent? Melden Sie sich mit ihren Zugangsdaten an.\n© Copyright Chemnitzer Verlag und Druck GmbH & Co. KG",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Health", "Environment", "Social Issue"],
+  "topics": [
+    "Health->poisoning",
+    "Environment->hazardous materials",
+    "Environment->ecosystem",
+    "Environment->nature",
+    "Social Issue->social services",
+    "Social Issue->demographics",
+    "Social Issue->communities"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Sandra Gruner",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Auerbach",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "ford",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "F",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:50:26.105+03:00",
+  "updated": "2025-05-08T03:55:38.000+00:00"
+}

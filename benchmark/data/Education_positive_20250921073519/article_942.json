@@ -1,0 +1,130 @@
+{
+  "thread": {
+    "uuid": "91dffb22677a251dab5eb58f31d3193c6216448c",
+    "url": "https://www.theborneopost.com/2025/09/18/cyberjaya-college-kuching-diploma-equips-students-to-become-medical-assistants-provides-real-clinical-experience/",
+    "site_full": "www.theborneopost.com",
+    "site": "theborneopost.com",
+    "site_section": "https://www.theborneopost.com",
+    "site_categories": ["media", "top_news_my", "top_news"],
+    "section_title": "Borneo Post Online | Largest English Daily In Borneo",
+    "site_title": "Borneo Post Online | Largest English Daily In Borneo",
+    "title": "Cyberjaya College Kuching diploma equips students to become medical assistants, provides real clinical experience",
+    "title_full": "Cyberjaya College Kuching diploma equips students to become medical assistants, provides real clinical experience",
+    "published": "2025-09-18T09:08:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://www.theborneopost.com/newsimages/2025/09/KL-180925-NA-CCK-SALES-p3.jpg",
+    "performance_score": 0,
+    "domain_rank": 41392,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "91dffb22677a251dab5eb58f31d3193c6216448c",
+  "url": "https://www.theborneopost.com/2025/09/18/cyberjaya-college-kuching-diploma-equips-students-to-become-medical-assistants-provides-real-clinical-experience/",
+  "ord_in_thread": 0,
+  "author": "BP Editor 7",
+  "published": "2025-09-18T09:08:00.000+03:00",
+  "title": "Cyberjaya College Kuching diploma equips students to become medical assistants, provides real clinical experience",
+  "text": "KUALA LUMPUR (Sept 18): Medical assistants play a crucial role in Malaysia’s healthcare system, supporting doctors and nurses in clinical examinations, medical procedures, record-keeping, and community outreach.\nIn Sarawak, the demand for trained medical assistants is especially pressing in rural areas where access to healthcare remains limited.\nDeputy Premier as well as Minister of Public Health, Housing and Local Government Datuk Amar Dr Sim Kui Hian has called on more Sarawakians to take up training in the field to strengthen the state’s healthcare workforce.\nTo help meet this demand, Cyberjaya College Kuching is offering its Diploma in Medical and Health Sciences, a recognised programme designed to equip students with both theoretical knowledge and practical skills to serve as medical assistants.\nThe multi-semester course covers core subjects such as Human Anatomy, Health Sociology, Medical Microbiology, and Epidemiology, before advancing into specialised modules including Pharmacology, Emergency Medicine, and Community Health.\nStudents are also introduced to healthcare systems and research, with early clinical exposure forming a key component of their training.\n“Our approach ensures that students are not just absorbing theory but actively applying what they learn in real clinical environments,” said Cyberjaya College Kuching chief executive Doreen Tan.\n“From early on, they are exposed to hands-on experiences that mirror the demands of healthcare settings. This prepares them to step into the workforce with confidence.”\nAs part of their clinical rotations, students gain experience across multiple medical departments, including Paediatrics, Surgery, Orthopaedics, Mental Health, and Emergency Care.\n“I’ve always wanted to help others and understand how the body works,” said student Jesnita Johanes Juwing.\n“Doing physical examinations has been the highlight of my learning. The lecturers really guide us with care and practical insights.”\nCyberjaya College Kuching will hold its open day on Sept 27 from 10am to 4pm, where prospective students and parents can learn more about the diploma and other accredited programmes.\nFor details and registration, visit kch.cyberjaya.edu.my/openday or contact 082-688777.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Health", "Education"],
+  "topics": [
+    "Health->health organisation",
+    "Health->medical profession",
+    "Health->health care approach",
+    "Education->students",
+    "Education->vocational education",
+    "Education->college and university"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Datuk Amar Dr Sim Kui Hian",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Sarawak",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Cyberjaya College Kuching",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Emergency Medicine",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Health Sociology",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Community Health",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Health Sciences",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_my", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:19:51.980+03:00",
+  "updated": "2025-09-18T09:25:15.000+03:00"
+}

@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "080ef45522b945fba0f0db51b7c416440b80015a",
+    "url": "https://www.newsbreak.com/yakima-wa/3279849249401-two-people-hurt-in-shooting-at-yakima-hotel",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/yakima-wa",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "Yakima News, Weather, Safety, Sports | NewsBreak Yakima, WA",
+    "title": "Two people hurt in shooting at Yakima hotel",
+    "title_full": "Two people hurt in shooting at Yakima hotel",
+    "published": "2023-12-28T23:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/3VdneO_0qSrG0vr00?type=thumbnail_1600x1200",
+    "performance_score": 0,
+    "domain_rank": 3324,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "080ef45522b945fba0f0db51b7c416440b80015a",
+  "url": "https://www.newsbreak.com/yakima-wa/3279849249401-two-people-hurt-in-shooting-at-yakima-hotel",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NewsBreak Original",
+  "published": "2023-12-28T23:00:00.000+02:00",
+  "title": "Two people hurt in shooting at Yakima hotel",
+  "text": "YAKIMA, Wash. - The Yakima Police Department is investigating after an early morning shooting at a local hotel. It happened around 5:30 a.m. in the 1000 block of North 1st Street. Officers with the Yakima Police Department were called to the hotel after people reported a shooting had just happened. When officers got to the scene, they said they found two men were suffering from gunshot wounds, but it did not appear the wounds were life-threatening. The men were taken to a nearby hospital. Authorities said their initial investigation indicated there may have been a robbery that resulted in gunfire, but the investigation is ongoing. They are asking people with information to call the Yakima Police Department at 509-575-6200. If a person wants to stay anonymous, they can submit a tip at Crime Stoppers at 1-800-222-8477. COPYRIGHT 2023 BY APPLE VALLEY NEWS NOW. ALL RIGHTS RESERVED. THIS MATERIAL MAY NOT BE PUBLISHED, BROADCAST, REWRITTEN OR REDISTRIBUTED. KENNEWICK, Wash. — The Kennewick Police Department is investigating after the death of a 4-year-old. TRI-CITIES, Wash. — If you had a real tree for Christmas this year, it will soon be time to think about how to dispose of it before it becomes a fire hazard. YAKIMA, Wash. - Authorities have released new information on a crash that happened on Christmas Eve that sent three people to the hospital and ended in one person under arrest. KENNEWICK, Wash. - A Kennewick man is facing more than 20 years in prison after a jury found him guilty this week of murdering a gang rival. KENNEWICK, Wash. -- In early November, the City of Kennewick had a ribbon cutting to unveil its new inclusive playground, 'Kason's Korner'. Now, it is one of Kennewick's Top 10 achievements.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident",
+    "War, Conflict and Unrest",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "yakima police department",
+        "sentiment": "negative"
+      },
+      {
+        "name": "kennewick police department",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "yakima",
+        "sentiment": "none"
+      },
+      {
+        "name": "wash.",
+        "sentiment": "none"
+      },
+      {
+        "name": "yakima",
+        "sentiment": "none"
+      },
+      {
+        "name": "kennewick",
+        "sentiment": "none"
+      },
+      {
+        "name": "tri-cities",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:02:43.132+02:00",
+  "updated": "2023-12-29T01:02:43.132+02:00"
+}

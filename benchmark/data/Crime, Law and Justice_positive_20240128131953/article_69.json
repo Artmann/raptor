@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "002a2487acf0d230c95d23a1f014de572d609e96",
+    "url": "https://6abc.com/violent-crime-philadelphia-police-gun-violence-district-attorney/14235716/",
+    "site_full": "6abc.com",
+    "site": "6abc.com",
+    "site_section": "https://news.google.com/rss/search?pz=1&cf=all&hl=en-us&q=crime&cf=all&gl=us&ceid=us:en",
+    "site_categories": ["media"],
+    "section_title": "\"crime\" - Google News",
+    "title": "Violent crime rates decrease significantly in Philadelphia for 2023, says Interim Commissioner John Stanford and DA Larry Krasner - WPVI-TV",
+    "title_full": "Violent crime rates decrease significantly in Philadelphia for 2023, says Interim Commissioner John Stanford and DA Larry Krasner - WPVI-TV",
+    "published": "2023-12-29T00:54:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.abcotvs.com/dip/images/14235729_122823-wpvi-unsolved-crime-430-vid-vid.jpg?w=1600",
+    "performance_score": 0,
+    "domain_rank": 4911,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "002a2487acf0d230c95d23a1f014de572d609e96",
+  "url": "https://6abc.com/violent-crime-philadelphia-police-gun-violence-district-attorney/14235716/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@6abc",
+  "published": "2023-12-29T00:54:00.000+02:00",
+  "title": "Violent crime rates decrease significantly in Philadelphia for 2023, says Interim Commissioner John Stanford and DA Larry Krasner - WPVI-TV",
+  "text": "Homicides are now down more than 20%, non-fatal shootings are down 28%, and violent crime is down roughly 7%. PHILADELPHIA (WPVI) -- Violent crime is down across the board this year in Philadelphia, according to city data. But the Interim Commissioner John Stanford, as well as others in law enforcement officials, said more still needs to be done. \"I don't think anybody would have expected us to be this far down,\" said Stanford. The interim police commissioner credits the decrease in crime to several factors, including emerging out of the pandemic and a calming in civil unrest. More importantly, there has been increased policing of four districts in and around North Philadelphia which began in late 2022. That includes the 22nd, 24th, 25th, and 39th districts. \"I think being able to redeploy personnel,\" Stanford said on the increased policing. \"We pulled people out of administrative positions, put them out on the street, every class that came out of police academy in 2023 were sent out to those four core districts.\" Homicides are now down more than 20%, non-fatal shootings are down 28%, and violent crime is down roughly 7%. \"This may be the largest one-year drop in the history of this city as it relates to homicides,\" Stanford added. Despite the success, it comes on the heels of two years with over 500 homicides each. And while violent crime is down, some property crimes have exploded. Retail theft is up 28%, and reports of stolen vehicles were up 72%. District Attorney Larry Krasner blamed much of the increase in stolen vehicles on flaws in some cars that make them easier to steal. \"Thank you, Mr. Hyundai. Thank you, Mr. Kia. It would be nice if you made a car children couldn't steal, but that's what is happening there,\" said Krasner. Critics have blasted the district attorney for his handling of retail theft crimes, which his office often charged as a summary offense. He said he will focus on prosecuting retail theft rings in 2024. \"Do you think more needs to be done on your part?\" asked Action News Reporter Chad Pradelli. \"I think more needs to be done all the time,\" replied Krasner. \"And we've been working closely with the new challenges of retail theft. These are challenges that were not there before.\" Both Krasner and Stanford are hopeful of the decrease in crime, but say more work is ahead. \"The numbers are what they are, but they are just statistics,\" said Stanford. \"If people don't feel safe in this city, then those numbers mean nothing.\" Stanford also said a concern for him is while shootings are down, gun confiscations are up. RELATED: Check the 6abc Neighborhood Safety Tracker",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "john stanford",
+        "sentiment": "negative"
+      },
+      {
+        "name": "larry krasner",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "stanford",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "philadelphia",
+        "sentiment": "none"
+      },
+      {
+        "name": "north philadelphia",
+        "sentiment": "none"
+      },
+      {
+        "name": "philadelphia",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:04:37.039+02:00",
+  "updated": "2023-12-29T01:25:34.922+02:00"
+}

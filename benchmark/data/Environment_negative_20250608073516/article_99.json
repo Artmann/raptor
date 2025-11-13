@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "727c98a9d50aa9f9c298e1a444550e0977d58dc8",
+    "url": "https://www.cbc.ca/news/canada/edmonton/3-month-outage-begins-at-fort-mcmurray-upgrader-as-aging-coke-drums-replaced-1.7528962?cmp=rss",
+    "site_full": "www.cbc.ca",
+    "site": "cbc.ca",
+    "site_section": "https://world.einnews.com/ajax/headlines",
+    "site_categories": ["media", "top_news_ca", "top_news"],
+    "section_title": "",
+    "site_title": "CBC.ca - watch, listen, and discover with Canada&#x27;s Public Broadcaster",
+    "title": "3-month outage begins at Fort McMurray upgrader as aging coke drums replaced | CBC News",
+    "title_full": "3-month outage begins at Fort McMurray upgrader as aging coke drums replaced | CBC News",
+    "published": "2025-05-08T00:19:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://i.cbc.ca/1.6506739.1746649057!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/oilsands-50-now-20170622.jpg?im=Resize%3D620",
+    "performance_score": 0,
+    "domain_rank": 339,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "727c98a9d50aa9f9c298e1a444550e0977d58dc8",
+  "url": "https://www.cbc.ca/news/canada/edmonton/3-month-outage-begins-at-fort-mcmurray-upgrader-as-aging-coke-drums-replaced-1.7528962?cmp=rss",
+  "ord_in_thread": 0,
+  "author": "Lauren Krugel",
+  "published": "2025-05-08T00:19:00.000+03:00",
+  "title": "3-month outage begins at Fort McMurray upgrader as aging coke drums replaced | CBC News",
+  "text": "Oilsands giant Suncor Energy Inc. has begun a three-month outage at one of its upgraders so it can begin to replace enormous components first installed almost six decades ago.\nThe Calgary-based company is in the midst of a multi-year project to replace eight original coke drums dating back to 1967 at its Base Mine site north of Fort McMurray, Alta., with the goal of extending the upgrader's life by 30 years.\nThe drums, weighing 270 tonnes and standing nearly 30 metres, are used in the upgrading process, where tarry oilsands bitumen is converted into a lighter crude that can then be refined into fuel.\nIn a website post last year when one of the drums was being transported from Edmonton to the mine, Suncor said the load took up the entire width of the road, including the shoulder lanes.\nThe outage at the upgrader — one of two at the mine — began on May 1 and is expected to last 91 days.\nA coker drum used in the oil refining process started the process of being transported from Edmonton to Fort McMurray, Alta., on Jan. 7, 2025. The drum is 8.7 metres wide, 10.2 metres high and 47 metres long and weighs 444,144 kilograms, according to a news release from the Alberta government. (Dave Bajer/CBC) Shelley Powell, the Suncor senior vice-president in charge of major capital projects, says the first major crane lift of equipment was successfully completed over the weekend.\nThe project is using one of the biggest cranes in the world, the Mammoet PTC210DS.\n\"We were really well prepared. We have all of the pre-work done, and that included actually doing some early planning and preparatory lifts,\" Powell told Suncor's first-quarter conference call Wednesday.\n\"So we practised some of this stuff ahead of time to make sure we had the equipment in the right spot, we had people trained and ready to go, and everybody knew what their role was going to be.\"\nPowell added that some of the operators involved in the project have experience doing similar heavy-lifting jobs elsewhere in the world.\nSuncor tracking ahead of its production forecast at mid-point of year As wildfires threaten, oil and gas industry braces for increasing risks from a changing climate CEO Rich Kruger said collaboration between different teams is key to pulling off a project of this scale.\n\"We have to be seamless in our execution and our handoffs,\" he told investors. \"We won't declare victory until we're done, but we feel quite good about our level of preparation and planning.\"\nDesjardins Securities analyst Chris McCulloch said in a note that much is riding on the coke drum replacement going according to plan.\n\"Maintaining operational momentum will be pivotal for Suncor entering the heaviest stretch of scheduled maintenance this year,\" he wrote.\n\"In our view, success of the Base Plant and other planned turnarounds will materially impact the company's ability to achieve its 2025 production guidance and (capital expenditure) targets, which we maintain have been conservatively set.\"\nProduction, earnings for first three months of 2025 Late Tuesday, Suncor said its production for the first three months of 2025 was 853,000 barrels of oil per day, refining throughput was 483,000 barrels per day and refined product sales were 605,000 barrels per day.\nAll three measures set new first-quarter records for the company.\nNet earnings for the first three months of 2025 were $1.69 billion, up from $1.61 billion during the same 2024 period.\nThat amounted to $1.36 per share versus $1.25 per share.\nGross revenues were $13.33 billion, compared to $13.31 billion a year earlier.\nAdjusted operating earnings, a measure Suncor says provides a better comparison between quarters, were $1.63 billion, down from $1.82 billion, which it says was due to lower crude oil sales.\nChief financial officer Kris Smith said Suncor is positioned well to weather a West Texas Intermediate crude price of US$60 per barrel, the level it's been hovering around in recent weeks.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Environment",
+    "Social Issue"
+  ],
+  "topics": [
+    "Economy, Business and Finance->energy and resource",
+    "Economy, Business and Finance->business restructuring",
+    "Environment->energy resources",
+    "Social Issue->public housing",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Fort McMurray",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "CBC News Oilsands",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Suncor Energy Inc.",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T01:56:52.967+03:00",
+  "updated": "2025-05-07T22:59:50.000+00:00"
+}

@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "99fe09a788cfe9c5903b5e6f89ad600b2dae50e8",
+    "url": "https://www.dailybreeze.com/2025/01/23/bill-burr-and-shane-gillis-will-host-a-one-night-show-for-los-angeles-wildfire-aid",
+    "site_full": "www.dailybreeze.com",
+    "site": "dailybreeze.com",
+    "site_section": "https://www.dailybreeze.com/feed",
+    "site_categories": ["media"],
+    "section_title": "Daily Breeze",
+    "title": "Bill Burr and Shane Gillis will host a one-night show for Los Angeles wildfire aid - Daily Breeze",
+    "title_full": "Bill Burr and Shane Gillis will host a one-night show for Los Angeles wildfire aid - Daily Breeze",
+    "published": "2025-01-24T04:38:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.dailybreeze.com/wp-content/uploads/2025/01/LDN-L-BURRGILL-0124.jpg?w=1024&amp;h=656",
+    "performance_score": 0,
+    "domain_rank": 9614,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "99fe09a788cfe9c5903b5e6f89ad600b2dae50e8",
+  "url": "https://www.dailybreeze.com/2025/01/23/bill-burr-and-shane-gillis-will-host-a-one-night-show-for-los-angeles-wildfire-aid",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Charlie Vargas",
+  "published": "2025-01-24T04:38:00.000+02:00",
+  "title": "Bill Burr and Shane Gillis will host a one-night show for Los Angeles wildfire aid - Daily Breeze",
+  "text": "The show featuring the two comedians and actors will take place at The Wiltern in Los Angeles on Monday, Jan. 27.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Lifestyle and Leisure", "Social Issue"],
+  "topics": [
+    "Human Interest->ceremony",
+    "Lifestyle and Leisure->club and association",
+    "Lifestyle and Leisure->party",
+    "Social Issue->charity"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Shane Gillis",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Bill Burr",
+        "sentiment": "positive"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:06:59.325+02:00",
+  "updated": "2025-01-24T00:06:59.325+02:00"
+}

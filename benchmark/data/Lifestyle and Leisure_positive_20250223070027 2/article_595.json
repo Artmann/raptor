@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "b32aa8d51eaa92e5de42ff69480513dd7fea2696",
+    "url": "https://article.wn.com/view/2025/01/23/After_43_years_Charlie_Chan_sets_the_standard_for_Chinese_fo",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/europe",
+    "site_categories": ["media"],
+    "section_title": "World News - Europe",
+    "title": "After 43 years, Charlie Chan sets the standard for Chinese food in Cambridge - Worldnews.com",
+    "title_full": "After 43 years, Charlie Chan sets the standard for Chinese food in Cambridge - Worldnews.com",
+    "published": "2025-01-23T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3682,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b32aa8d51eaa92e5de42ff69480513dd7fea2696",
+  "url": "https://article.wn.com/view/2025/01/23/After_43_years_Charlie_Chan_sets_the_standard_for_Chinese_fo",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2025-01-23T02:00:00.000+02:00",
+  "title": "After 43 years, Charlie Chan sets the standard for Chinese food in Cambridge - Worldnews.com",
+  "text": "When I recently suggested to a friend that we have a bite to eat, he said he knew a great spot that would provide vast flavors with a relaxed environment: Charlie Chan in Cambridge, England. While unassuming from the outside, the restaurant has a minimal yet slick interior that felt modern. The intuitive design of the",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Lifestyle and Leisure", "Human Interest", "Social Issue"],
+  "topics": [
+    "Lifestyle and Leisure->organic food",
+    "Lifestyle and Leisure->lifestyle",
+    "Human Interest->anniversary",
+    "Social Issue->social condition",
+    "Social Issue->communities",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Charlie Chan",
+        "sentiment": "neutral"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:26:47.660+02:00",
+  "updated": "2025-01-24T00:26:47.660+02:00"
+}

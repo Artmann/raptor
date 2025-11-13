@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "46ad29e026b80c4b203738ae579cf63f538dfd9b",
+    "url": "https://www.nydailynews.com/2023/12/28/loreal-heiress-first-woman-100-billion-net-worth/",
+    "site_full": "www.nydailynews.com",
+    "site": "nydailynews.com",
+    "site_section": "https://nydailynews.com/news",
+    "site_categories": ["media", "celebrity_fan_gossip", "entertainment"],
+    "section_title": "News &#8211; New York Daily News",
+    "title": "L’Oreal heiress becomes first woman with $100 billion net worth",
+    "title_full": "L’Oreal heiress becomes first woman with $100 billion net worth",
+    "published": "2023-12-29T01:22:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.nydailynews.com/wp-content/uploads/2023/12/AP736543617879.jpg?w=1024&#038;h=683",
+    "performance_score": 0,
+    "domain_rank": 639,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "46ad29e026b80c4b203738ae579cf63f538dfd9b",
+  "url": "https://www.nydailynews.com/2023/12/28/loreal-heiress-first-woman-100-billion-net-worth/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Evan Rosen",
+  "published": "2023-12-29T01:22:00.000+02:00",
+  "title": "L’Oreal heiress becomes first woman with $100 billion net worth",
+  "text": "The richest woman in the world, L’Oreal heiress Francoise Bettencourt Meyers, just became the [first woman to amass a $100 billion fortune](https://www.bloomberg.com/news/articles/2023-12-28/l-oreal-heir-francoise-bettencourt-meyers-is-first-woman-to-hit-100-billion), according to a report published Thursday by Bloomberg. The milestone marks a successful year for the L’Oreal company with its stock at a record-high, [bringing Bettencourt Meyers’ net worth to $100.2 billion](https://www.cnn.com/2023/12/28/investing/francoise-bettencourt-meyers-100-billion-loreal/index.html), as measured by the Bloomberg Billionaires Index. Bettencourt Meyers, 70, is the only child of Liliane Bettencourt, whose father, Eugène Schueller, founded L’Oréal. She inherited her mother’s holdings when Bettencourt died in 2017. She now holds over 34% of the company’s stock and serves as the chairwoman of the family’s holding company, Tethys, as well as the vice chairwoman of L’Oreal Group’s board of directors. Already standing as the world’s largest cosmetics company, L’Oreal’s stock rose 35% this year, [its best year since 1998](https://www.afr.com/world/europe/l-oreal-heir-becomes-first-woman-with-us100b-fortune-20231229-p5eu3x), as spending on luxury goods has continued to increase since the pandemic. With a large portfolio of brands ranging from Lancôme to Maybelline, the L’Oreal Group did more than $42 billion (€38 billion) in sales in 2022, per company reports. Back in August, L’Oreal purchased Australian cosmetics brand Aesop for $2.5 billion — the largest brand acquisition ever completed by the company, according to financial markets platform Dealogic. Bettencourt Meyers now ranks as the 12th richest person in the world, directly behind Carlos Slim, a Mexican business magnate who became the first Latin American to cross the $100 billion threshold on Dec. 14. Tech billionaire and X owner Elon Musk [still sits atop the list, with a net worth estimated at around $240 billion](https://www.forbes.com/real-time-billionaires/#32cb38ba3d78), according to the Bloomberg Billionaires Index. He’s followed by Bernard Arnault, the chair of luxury goods maker LVMH (the conglomerate behind Louis Vuitton), who comes in at around $180 billion.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Human Interest",
+    "Social Issue"
+  ],
+  "external_links": [
+    "https://www.cnn.com/2023/12/28/investing/francoise-bettencourt-meyers-100-billion-loreal/index.html),",
+    "https://www.bloomberg.com/news/articles/2023-12-28/l-oreal-heir-francoise-bettencourt-meyers-is-first-woman-to-hit-100-billion),",
+    "https://www.afr.com/world/europe/l-oreal-heir-becomes-first-woman-with-us100b-fortune-20231229-p5eu3x),",
+    "https://www.forbes.com/real-time-billionaires/#32cb38ba3d78),",
+    "https://cnn.com/2023/12/28/investing/francoise-bettencourt-meyers-100-billion-loreal/index.html),",
+    "https://forbes.com/real-time-billionaires/#32cb38ba3d78),",
+    "https://afr.com/world/europe/l-oreal-heir-becomes-first-woman-with-us100b-fortune-20231229-p5eu3x),",
+    "https://bloomberg.com/news/articles/2023-12-28/l-oreal-heir-francoise-bettencourt-meyers-is-first-woman-to-hit-100-billion),"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "francoise bettencourt meyers",
+        "sentiment": "negative"
+      },
+      {
+        "name": "bettencourt meyers",
+        "sentiment": "none"
+      },
+      {
+        "name": "bettencourt",
+        "sentiment": "none"
+      },
+      {
+        "name": "liliane bettencourt",
+        "sentiment": "none"
+      },
+      {
+        "name": "eugène schueller",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "l’oreal group",
+        "sentiment": "none"
+      },
+      {
+        "name": "bettencourt meyers’",
+        "sentiment": "none"
+      },
+      {
+        "name": "bloomberg",
+        "sentiment": "none"
+      },
+      {
+        "name": "bloomberg billionaires index",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T02:53:01.306+02:00",
+  "updated": "2023-12-29T02:53:01.306+02:00"
+}

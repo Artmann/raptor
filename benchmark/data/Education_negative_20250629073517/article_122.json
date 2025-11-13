@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "17b5e4f087ec4642f188288ccf813c66830ccc43",
+    "url": "https://dailypost.ng/2025/06/26/students-killing-niger-govt-orders-immediate-closure-of-ibbu",
+    "site_full": "dailypost.ng",
+    "site": "dailypost.ng",
+    "site_section": "https://www.dailypost.ng",
+    "site_categories": ["media"],
+    "section_title": "Daily Post Nigeria - Nigeria News, Nigerian Newspapers",
+    "site_title": "Daily Post Nigeria - Nigeria News, Nigerian Newspapers",
+    "title": "Student's killing: Niger govt orders immediate closure of IBBU",
+    "title_full": "Student's killing: Niger govt orders immediate closure of IBBU",
+    "published": "2025-06-26T08:41:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NG",
+    "main_image": "https://dailypost.ng/wp-content/uploads/2025/06/bago.jpg",
+    "performance_score": 0,
+    "domain_rank": 11438,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "17b5e4f087ec4642f188288ccf813c66830ccc43",
+  "url": "https://dailypost.ng/2025/06/26/students-killing-niger-govt-orders-immediate-closure-of-ibbu",
+  "ord_in_thread": 0,
+  "author": "Mikal Attah",
+  "published": "2025-06-26T08:41:00.000+03:00",
+  "title": "Student's killing: Niger govt orders immediate closure of IBBU",
+  "text": "Niger State Government has ordered the immediate closure of Ibrahim Badamasi Babangida University, IBBU, Lapai, following growing security concerns in the",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Education", "Social Issue"],
+  "topics": [
+    "Crime, Law and Justice->law enforcement",
+    "Crime, Law and Justice->homicide",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Education->college and university",
+    "Education->state school",
+    "Education->students",
+    "Social Issue->social condition",
+    "Social Issue->social problem",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Abubakar Usman",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Niger State Government",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "17b5e4f087ec4642f188288ccf813c66830ccc43",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T08:49:40.197+03:00",
+  "updated": "2025-06-26T15:21:09.617+03:00"
+}

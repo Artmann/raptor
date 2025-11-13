@@ -1,0 +1,128 @@
+{
+  "thread": {
+    "uuid": "8aa60e906d30ba7f987abb34d1e033a31342759f",
+    "url": "https://www.wrex.com/news/freeport-police-arrest-teen-after-stolen-car-crash/article_8706c730-033b-11ef-b2ab-df688ae6ad2b.html",
+    "site_full": "www.wrex.com",
+    "site": "wrex.com",
+    "site_section": "https://wrex.com",
+    "site_categories": ["media"],
+    "section_title": "13 WREX | Rockford, Illinois News Weather & Sports | WREX Your Weather Authority",
+    "title": "Freeport police arrest teen after stolen car crash | News | wrex.com",
+    "title_full": "Freeport police arrest teen after stolen car crash | News | wrex.com",
+    "published": "2024-04-25T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/wrex.com/content/tncms/assets/v3/editorial/4/28/42852436-033f-11ef-9acb-bb944cf205fa/662ab7cc09691.image.png?crop=1920%2C1008%2C0%2C35&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 48462,
+    "domain_rank_updated": "2024-04-23T13:07:55.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8aa60e906d30ba7f987abb34d1e033a31342759f",
+  "url": "https://www.wrex.com/news/freeport-police-arrest-teen-after-stolen-car-crash/article_8706c730-033b-11ef-b2ab-df688ae6ad2b.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Kelsey Anderson",
+  "published": "2024-04-25T08:00:00.000+03:00",
+  "title": "Freeport police arrest teen after stolen car crash | News | wrex.com",
+  "text": "FREEPORT, Ill. (WREX) — On April 24, a blue Kia Soul was reported stolen from a home in the 400 block of West Roosevelt Street in Freeport. Approximately one hour later, a report was received of a blue Kia Soul driving erratically in the area of East Wyandotte Street and South Fruit Avenue. Officers located the vehicle in the area of South Bauscher Avenue and East Garden Street and tried to pull the car over. The Kia did not stop and continued driving westbound on East Empire Street from South Bauscher Avenue. To prevent a potential collision, officers blocked traffic at Galena Avenue and Empire Street. The Kia continued through the intersection and then crashed in the 500 block of E. Empire Street. The only occupant of the car, a 14-year-old male, was arrested. Investigation revealed damage to the steering column and altered to enable the Kia to be started without a key fob. No injuries or additional property damage were reported. The teen resident of Freeport was processed at the Police Department and released to a parent.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "kia soul",
+        "sentiment": "negative"
+      },
+      {
+        "name": "police department",
+        "sentiment": "none"
+      },
+      {
+        "name": "kia",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "ill.",
+        "sentiment": "none"
+      },
+      {
+        "name": "freeport",
+        "sentiment": "none"
+      },
+      {
+        "name": "east wyandotte street",
+        "sentiment": "none"
+      },
+      {
+        "name": "east empire street",
+        "sentiment": "none"
+      },
+      {
+        "name": "west roosevelt street",
+        "sentiment": "none"
+      },
+      {
+        "name": "south fruit avenue",
+        "sentiment": "none"
+      },
+      {
+        "name": "east garden street",
+        "sentiment": "none"
+      },
+      {
+        "name": "freeport",
+        "sentiment": "none"
+      },
+      {
+        "name": "empire street",
+        "sentiment": "none"
+      },
+      {
+        "name": "south bauscher avenue",
+        "sentiment": "none"
+      },
+      {
+        "name": "galena avenue",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:18:44.706+03:00",
+  "updated": "2024-04-26T00:18:44.706+03:00"
+}

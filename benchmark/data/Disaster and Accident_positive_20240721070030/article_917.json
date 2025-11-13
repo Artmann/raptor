@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "e989609464ea689e8a507485cfbbfeeb20660aad",
+    "url": "https://www.fastcompany.com/91144047/google-using-ai-to-predict-floods-and-send-families-cash-before-disaster-hits",
+    "site_full": "www.fastcompany.com",
+    "site": "fastcompany.com",
+    "site_section": "http://feeds.feedburner.com/fastcoexist/feed",
+    "site_categories": ["sci_fi_and_fantasy", "hobbies_and_interests"],
+    "section_title": "Fast Company",
+    "title": "Google is using AI to predict floods—and sending cash to people before disaster hits",
+    "title_full": "Google is using AI to predict floods—and sending cash to people before disaster hits - Fast Company",
+    "published": "2024-06-24T11:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images.fastcompany.com/image/upload/f_auto,q_auto,c_fit,w_1024,h_1024/wp-cms-2/2024/06/p-91144047-AI-can-predict-floods-and-nonprofits-are-sending-potential-victims-cash-in-advance.jpg",
+    "performance_score": 0,
+    "domain_rank": 362,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e989609464ea689e8a507485cfbbfeeb20660aad",
+  "url": "https://www.fastcompany.com/91144047/google-using-ai-to-predict-floods-and-send-families-cash-before-disaster-hits",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Adele Peters",
+  "published": "2024-06-24T11:00:00.000+03:00",
+  "title": "Google is using AI to predict floods—and sending cash to people before disaster hits",
+  "text": "When a disaster hits, it usually takes time for aid to arrive. But Google is now using AI to predict severe flooding in advance —and the company’s nonprofit arm is working with humanitarian organizations to give people cash to prepare in the days before a flood happens.\nThis summer, two nonprofits will begin rolling out the program in Nigeria, where climate change is raising the risk of extreme flooding. Google.org is giving $4.6 million to the International Rescue Committee and GiveDirectly. The groups will in turn send cash to 7,500 people.\n“During flood season, we’ll be using Google’s AI model, as well as government data, to monitor for flood risk and figure out in real time which communities are most exposed to an oncoming flood,” says Vera Lummis, Senior Manager, Digital Innovation at GiveDirectly. “Using digital cash technology, we can send them payments straight into their bank account within a day. That enables us to reach people in advance of the flood.”\nThe advantages of giving out cash before a disaster There’s early evidence that the approach works. In 2022, the International Rescue Committee tested cash transfers before flooding in Nigeria. In late July, after flood predictions, the group gave some families around $400. In early August, a severe flood hit. Heavy rain caused a nearby dam to overflow, and flash floods cut off roads to three of the six communities where the organization gave out cash. To study the effect of “anticipatory aid,” they gave a second group of people warnings, but didn’t give them cash until after floodwaters had receded.\nUnsurprisingly, advance aid helps. The group studied several factors, from food security and household income to whether families were forced to sell off some of their belongings because of the disaster. With the extra cash in hand, many people stockpiled food. “That’s important when half of these communities were entirely cut off from markets,” says Clare Clingain, a researcher in economic recovery and development at International Rescue Committee’s Airbel Impact Lab. Some farmers harvested their crops early before flooding ruined the food. Others evacuated their families and livestock.\nGiveDirectly also piloted the idea in Mozambique last year, giving families $225 three or four days before a flood. “Some families used [the cash] to purchase essential supplies like food and medicine,” Lummis says. “Some people relocated to safer areas. In some cases, people immediately started to make reinforcements to their homes, building stronger structures. Some people spent the cash immediately after to reinvest in businesses or buy seeds to replant because their crops had been destroyed.”\nCash transfers have already been proven as an effective way of giving aid, since recipients can decide how to spend the money in a way that’s most helpful for their specific situation. (In the past, some donations after disasters have been more of a burden than a help—for example, sending useless winter coats after a summer hurricane.) As technology improves, it’s becoming easier to take the next logical step and offer cash in advance.\nThe role for AI In its Flood Hub tool, Google uses satellite images to build a detailed map of a region. Then it uses AI to analyze local conditions and model potential flooding as early as seven days in advance . The forecasts can be more accurate than existing weather services. In some areas, like parts of Nigeria, governments have little or no existing infrastructure to predict flooding. The new tool can be used to give critical warnings; it can also help groups like GiveDirectly and the IRC provide more effective aid.\n“When you’re talking about climate-driven disasters—and the case of floods, which we’re focusing on in this project—a big challenge is figuring out who will be most affected,” says Lummis. AI can now help with that step, she says. (AI can also help identify people who need help after a disaster, something GiveDirectly and Google did after Hurricane Ian in Florida.) It’s also now easier to enroll people in advance via mobile phones, using databases to verify where they live. Some past attempts at anticipatory aid have been slowed down by the fact that organizations had to go door to door in a lengthy and expensive process. The ubiquity of mobile money also makes it easy to quickly send cash to the people who need it.\nSimilar AI tools could help better predict other climate disasters like drought and extreme heat, and organizations could give out cash in advance in those cases, too. As climate change progresses, multiple disasters are repeatedly hitting places like Nigeria, putting food security and incomes at risk. Communities obviously need longer-term solutions—from repairing aging infrastructure like dams to helping people make their homes more resilient or even permanently relocate. But emergency aid is also critical, and can also help families take steps to prepare for future disasters.\n“We’ve seen from some of the early results from the IRC studies that when [flood victims] can receive this cash in advance, they’re much more resilient to future floods,” says Alex Diaz, head of AI for social good at Google.org. “Because they had a big lump sum, they were able to take on a more expensive infrastructure project like hardening their homes that they wouldn’t have been able to do.”\nHow the work can grow Nigeria makes sense as a place to begin to scale this type of work because it’s at high risk of climate disasters. It’s also a place that’s often left out of climate action because conflicts make it a dangerous place to work, says Tara Clerkin, director of climate resilience research and innovation at the International Rescue Committee. “We’re really centering the protracted conflict settings, the ones that get the least amount of climate finance,” she says. “They’ve also by and large contributed the least to the climate crisis, and they’re bearing some of the worst impacts.”\nThe model could be used globally, and it’s something that governments and organizations like the UN can replicate. There’s growing interest in this type anticipatory action, but it still only makes up a tiny percentage of humanitarian aid. “We need partnerships with the multilaterals and governments that really embed this as part of social protection systems,” Diaz says. “The digital infrastructure is there, or can be built, in many places. We’ve seen how this can be done. But it’s going to take collective willpower to really move the system from being an entirely reactive one on realized loss to a more proactive one to mitigate harms.”\nRecognize your brand’s excellence by applying to this year’s Brands That Matter Awards before the extended deadline, June 14.\nSign up for Brands That Matter notifications here .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Environment"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.sites.research.google/floods/l/0/0/3",
+    "https://www.fastcompany.swoogo.com/24btmnotifications/register?ref=article",
+    "https://fastcompany.swoogo.com/24btmnotifications/register?ref=article",
+    "https://www.blog.google/technology/ai/google-ai-global-flood-forecasting/",
+    "https://www.cbsnews.com/news/best-intentions-when-disaster-relief-brings-anything-but-relief/",
+    "https://blog.google/technology/ai/google-ai-global-flood-forecasting/",
+    "https://www.cbsnews.com/news/best-intentions-when-disaster-relief-brings-anything-but-relief",
+    "https://cbsnews.com/news/best-intentions-when-disaster-relief-brings-anything-but-relief/",
+    "https://sites.research.google/floods/l/0/0/3",
+    "https://blog.google/technology/ai/google-ai-global-flood-forecasting",
+    "https://fastcompany.swoogo.com/24btmnotifications/register"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "vera lummis",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "google",
+        "sentiment": "negative"
+      },
+      {
+        "name": "international rescue committee",
+        "sentiment": "none"
+      },
+      {
+        "name": "google.org",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "nigeria",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-24T13:32:29.651+03:00",
+  "updated": "2024-06-24T13:32:29.651+03:00"
+}

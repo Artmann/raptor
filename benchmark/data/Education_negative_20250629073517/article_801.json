@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "87f2a948426b47088ebb726253a4758b9f7d8613",
+    "url": "https://news.myseldon.com/en/news/index/331368721",
+    "site_full": "news.myseldon.com",
+    "site": "myseldon.com",
+    "site_section": "https://news.myseldon.com/en/rubric/1",
+    "site_categories": ["media"],
+    "section_title": "Seldon.News - your go-to news aggregator",
+    "site_title": null,
+    "title": "Психолог пожаловалась на поощряющих онлайн-образование родителей и учителей | Society | Seldon News",
+    "title_full": "Психолог пожаловалась на поощряющих онлайн-образование родителей и учителей | Society | Seldon News",
+    "published": "2025-06-26T14:48:38.273+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://storage.myseldon.com/news-pict-4b/4B2591289649040C09CFC6D5E766D1BD",
+    "performance_score": 0,
+    "domain_rank": 21802,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "87f2a948426b47088ebb726253a4758b9f7d8613",
+  "url": "https://news.myseldon.com/en/news/index/331368721",
+  "ord_in_thread": 0,
+  "author": "@Govorit Moskva",
+  "published": "2025-06-26T14:48:38.273+03:00",
+  "title": "Психолог пожаловалась на поощряющих онлайн-образование родителей и учителей | Society | Seldon News",
+  "text": "Фото: ТАСС Из-за этого дети становятся «электронно-зависимыми». Они нуждаются в живом общении, необходимо его «предлагать», подчеркнула в эфире радиостанции «Говорит Москва» кандидат психологических наук Жанна Сугак. «Они [молодые люди — прим. ГМ] должны это [живое общение — прим. ГМ] видеть и понимать, они должны в этом участвовать, им должны это предлагать. Мы сначала их сажали на электронную среду, посмотрите, что сейчас происходит: везде искусственный интеллект, электронные учебники, электронные доски в школах, онлайн-школы, онлайн-образование. А теперь: «Ой, а что происходит? Почему... Copyright information of photo and video materials was taken from the website «Moscow speaks» , more details in our Terms of Service",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Health"],
+  "topics": [
+    "Education->parents group",
+    "Education->online and remote learning",
+    "Education->teachers",
+    "Social Issue->social problem",
+    "Social Issue->social services",
+    "Social Issue->children",
+    "Health->developmental disorder",
+    "Health->mental health and disorder"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "http://govoritmoskva.ru/news/456889/",
+    "http://govoritmoskva.ru/news/456889",
+    "http://www.govoritmoskva.ru/news/456889/"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:48:38.273+03:00",
+  "updated": "2025-06-26T11:54:42.000+00:00"
+}

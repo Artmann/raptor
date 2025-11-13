@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "aac88d8a823e1afa57f8ecd4c3b182ba9da1118b",
+    "url": "https://www.24horas.cl/actualidad/nacional/hasta-1-emiten-alerta-por-heladas-para-tres-regiones-del-pais",
+    "site_full": "www.24horas.cl",
+    "site": "24horas.cl",
+    "site_section": "http://www.24horas.cl/?widgetName=rssfeed&widgetId=1820099&getXmlFeed=true",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "24horas.cl te informa de las noticias de Chile y el mundo | 24horas",
+    "site_title": "24horas.cl te informa de las noticias de Chile y el mundo | 24horas",
+    "title": "Hasta -1°: emiten alerta por heladas para tres regiones del país",
+    "title_full": "Hasta -1°: emiten alerta por heladas para tres regiones del país",
+    "published": "2025-05-08T00:06:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CL",
+    "main_image": "https://www.24horas.cl/24horas/site/artic/20250507/imag/foto_0000002120250507160123/A_UNO_1470979.jpeg",
+    "performance_score": 0,
+    "domain_rank": 23695,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "aac88d8a823e1afa57f8ecd4c3b182ba9da1118b",
+  "url": "https://www.24horas.cl/actualidad/nacional/hasta-1-emiten-alerta-por-heladas-para-tres-regiones-del-pais",
+  "ord_in_thread": 0,
+  "author": "24horas",
+  "published": "2025-05-08T00:06:00.000+03:00",
+  "title": "Hasta -1°: emiten alerta por heladas para tres regiones del país",
+  "text": "Este miércoles, la Dirección Meteorológica de Chile (DMC) envío una alerta agrometeorología por heladas para tres regiones del país.\nSegún mencionó el organismo, \"la presencia de un anticiclón frío tras el paso de un sistema frontal favorecerá la presencia de heladas\" para los días viernes 9 y sábado 10 de mayo.\nEn detalle, las regiones afectadas serán las siguientes:\n- Metropolitana\n- O'Higgins\n- Maule\nPara la región Metropolitana se espera que el fenómeno afecte en las zonas de: la cordillera de la costa, valles y precordillera. En relación con las mínimas, estas irían entre -1 y 3 grados.\nAdvertencia Agrometeorológica: [07/may 15:49] Heladas entre las regiones Metropolitana y del Maule\n— MeteoChile (@meteochile_dmc)[pic.twitter.com/fPywJZhKbB][May 7, 2025]",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment", "Social Issue"],
+  "topics": [
+    "Weather->weather warning",
+    "Environment->environmental pollution",
+    "Environment->nature",
+    "Environment->climate change",
+    "Social Issue->social condition",
+    "Social Issue->communities"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T01:31:54.980+03:00",
+  "updated": "2025-05-07T22:36:28.000+00:00"
+}

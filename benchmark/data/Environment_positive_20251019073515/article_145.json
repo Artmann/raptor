@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "c5f24d92617fb9806875b7511bf47ec02127b70a",
+    "url": "https://www.independent.ie/regionals/galway/news/galway-village-welcomes-small-but-really-important-upgrades-as-works-set-to-commence-in-weeks/a426220916.html",
+    "site_full": "www.independent.ie",
+    "site": "independent.ie",
+    "site_section": "https://www.independent.ie/regionals/meath",
+    "site_categories": ["media", "rugby", "sports", "top_news_ie", "top_news"],
+    "section_title": "Meath News | Latest Local Meath News Headlines Today - Irish Independent",
+    "site_title": "Irish Independent",
+    "title": "Galway village welcomes 'small but really important' upgrades as works set to commence in weeks",
+    "title_full": "Galway village welcomes 'small but really important' upgrades as works set to commence in weeks",
+    "published": "2025-10-16T13:40:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IE",
+    "main_image": "https://focus.independent.ie/thumbor/teAYYWBLQfJC_iTvoK6f1yx18Bg=/629x460/smart/prod-mh-ireland/a33fe0af-b33e-402b-a82a-daa0a1fdf518/a4d00846-f0de-4a6e-b932-7ea375c43cbd/d3486fd7-c444-46b4-9688-63040bfa6fa6.jpg",
+    "performance_score": 0,
+    "domain_rank": 3656,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 7
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c5f24d92617fb9806875b7511bf47ec02127b70a",
+  "url": "https://www.independent.ie/regionals/galway/news/galway-village-welcomes-small-but-really-important-upgrades-as-works-set-to-commence-in-weeks/a426220916.html",
+  "ord_in_thread": 0,
+  "author": "Emma F. Smith",
+  "published": "2025-10-16T13:40:00.000+03:00",
+  "title": "Galway village welcomes 'small but really important' upgrades as works set to commence in weeks",
+  "text": "Galway village welcomes ‘small but really important’ upgrades as works set to commence in weeks\nWorks to upgrade Monivea’s footpaths and lighting will commence soon in the Galway village, with Galway County councillor Seán Broderick describing the project as “small but really important”.\nIncluded in these improvements is replacing the footpath between McGann’s Pub and Árd Aoibhinn Estate with a new and accessible walkway.\nThe 600m stretch of footpath is used by residents and children daily to get to and from the village and schools.\n“It hasn't been saved for a while, people have tripped and fallen on it. We wanted to get it done and get it repaired.” Cllr Broderick told the Irish Independent.\n“We all recognise the need for more housing and those bigger projects, and we have an involvement in them as well. But just because we're involved in the bigger project doesn't mean that the little things in the local towns and villages have to get neglected.” Cllr Broderick added.\nTwo streetlights will also be installed in the village as the evenings get darker.\nFunded partly by the LPT, Cllr Broderick called these improvements “small but really important” as he extends gratitude towards the residents of Monivea for their patience on these works.\nThese are works Cllr Broderick has pressed the county council to complete.\nDespite being delayed by Storm Amy, Cllr Broderick confirmed with county council engineers that works will commence in the coming weeks pending good weather.\nAdditional projects like this are in Cllr Broderick’s line of vision for early next year.\n“I'm looking at a number of projects that I'm trying to get done within the locality, projects that mean a lot to the local people and may not cost an awful lot of money. It would be the likes of footpaths, public lighting, speed ramps, pedestrian crossings, things like that.”\nFunded by the Local Democracy Reporting Scheme.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Lifestyle and Leisure", "Environment"],
+  "topics": [
+    "Lifestyle and Leisure->travel and tourism",
+    "Environment->sustainability"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Seán Broderick",
+        "sentiment": "none"
+      },
+      {
+        "name": "Cllr Broderick",
+        "sentiment": "none"
+      },
+      {
+        "name": "McGann",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": ["top_news_ie", "top_news"],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:45:52.178+03:00",
+  "updated": "2025-10-17T14:06:26.000+03:00"
+}

@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "b54b247330135f4cb8ac725dc322ba2b713eb38a",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-eks-assigning-ec2-security-groups-ipv6-kubernetes-pods/",
+    "site_full": "aws.amazon.com",
+    "site": "amazon.com",
+    "site_section": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+    "site_categories": ["tech"],
+    "section_title": "Recent Announcements",
+    "title": "Amazon EKS now supports assigning EC2 security groups to IPv6 Kubernetes pods",
+    "title_full": "Amazon EKS now supports assigning EC2 security groups to IPv6 Kubernetes pods",
+    "published": "2023-12-29T00:45:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png",
+    "performance_score": 0,
+    "domain_rank": 25,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b54b247330135f4cb8ac725dc322ba2b713eb38a",
+  "url": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-eks-assigning-ec2-security-groups-ipv6-kubernetes-pods/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "aws@amazon.com",
+  "published": "2023-12-29T00:45:00.000+02:00",
+  "title": "Amazon EKS now supports assigning EC2 security groups to IPv6 Kubernetes pods",
+  "text": "Posted On: Dec 28, 2023\nAmazon Elastic Kubernetes Service (EKS) customers can now leverage EC2 security groups to secure applications in clusters using Internet Protocol version 6(IPv6) address space.\nToday, EKS supports IPv6 enabling customers to scale containerized applications on Kubernetes beyond limits of private IPv4 address space. Kubernetes cluster administrators often have to operate in environments where IPv6 and IPv4 networks coexist. Until today, they could use network security rules that span pod to pod and pod to external Amazon Web Services service traffic defined in a single place with EC2 security groups, and applied to individual pods in IPv4 clusters. With this launch, customers can apply EC2 security groups for pods in both IPv4 and IPv6 clusters. Together with support for Amazon VPC CNI\nnetwork policies customers have an option for controlling network traffic within the cluster, while using security groups to control access to Amazon Web Services resources such as Amazon RDS outside the cluster.\nSupport for assigning security groups to IPv6 pods is available for most AWS Nitro based instances launched with new EKS clusters running Kubernetes version 1.25 and above. To get started, visit the Amazon EKS\ndocumentation and blog.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Economy, Business and Finance"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "amazon eks",
+        "sentiment": "negative"
+      },
+      {
+        "name": "amazon elastic kubernetes service",
+        "sentiment": "negative"
+      },
+      {
+        "name": "amazon web services",
+        "sentiment": "none"
+      },
+      {
+        "name": "eks",
+        "sentiment": "none"
+      },
+      {
+        "name": "amazon",
+        "sentiment": "none"
+      },
+      {
+        "name": "amazon vpc cni",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T02:06:12.379+02:00",
+  "updated": "2023-12-29T02:06:12.379+02:00"
+}

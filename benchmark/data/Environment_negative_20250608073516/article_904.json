@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "6a9a3d08d14bafb55f531f1c385ef1154df73554",
+    "url": "https://www.kgw.com/article/news/local/wildfire/oregon-braces-dangerous-fire-season/283-9a14ea48-cf4a-4e30-aeb5-6456000b4279",
+    "site_full": "www.kgw.com",
+    "site": "kgw.com",
+    "site_section": "http://rssfeeds.kgw.com/_/20/109984692/kgw/local",
+    "site_categories": ["media"],
+    "section_title": "KGW - Local",
+    "site_title": "Portland&#x27;s Leading Local News: Weather, Traffic, Sports and more in Portland, Oregon | kgw.com",
+    "title": "'More aggressive and difficult to fight' : Oregon braces for dangerous fire season",
+    "title_full": "'More aggressive and difficult to fight' : Oregon braces for dangerous fire season",
+    "published": "2025-05-08T05:56:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.kgw.com/assets/KGW/images/00916cc6-ad14-4022-8cb9-c2041187c194/20250508T012702/00916cc6-ad14-4022-8cb9-c2041187c194_1140x641.jpg",
+    "performance_score": 0,
+    "domain_rank": 5552,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6a9a3d08d14bafb55f531f1c385ef1154df73554",
+  "url": "https://www.kgw.com/article/news/local/wildfire/oregon-braces-dangerous-fire-season/283-9a14ea48-cf4a-4e30-aeb5-6456000b4279",
+  "ord_in_thread": 0,
+  "author": "Joe Raineri (KGW)",
+  "published": "2025-05-08T05:56:00.000+03:00",
+  "title": "'More aggressive and difficult to fight' : Oregon braces for dangerous fire season",
+  "text": "OREGON, USA — \"More aggressive and difficult to control\": Those are the words from Oregon Gov. Tina Kotek to describe this upcoming wildfire season. It's expected to be just as bad — if not worse — than what Oregonians experienced last summer.\nOne of the largest fire caches in the state is in Salem, and as you walk through it, it feels more like a Home Depot. The supplies are expected to fly off the shelves by the end of the summer.\nOn Wednesday, Kotek signed a proclamation declaring May as Wildfire Season Awareness Month. The conditions are going to be ripe for what could be another record-breaking year, just like in 2024 when nearly 2 million acres burned.\n\"Oregon received a considerable amount of moisture through this past winter, and our state is benefiting from a strong snowpack in the high country,\" said Kotek.\nThat snowpack is keeping much of the state out of a drought for now, but it will result in overgrowth with vegetation that could present a risk for firefighters.\n\"By July and August, we will experience above-average severity that will culminate in September and October as we reach peak fire danger,\" said Kotek.\nHomeowners can start preparing now, according to Oregon State Fire Marshal Mariana Ruiz-Temple.\n\"Getting the gutters cleaned a lot of time when an ember you can see get into your gutters and that can start a fire,\" said Ruiz-Temple.\nRELATED: Oregon offers free home fire safety assessments ahead of wildfire season. Here's what to know\nThe real concern this summer is going to be in July and August, which are typically the warmest months of the summer. Long-range weather models are already showing above-average temperatures by August across the Pacific Northwest.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue"],
+  "topics": [
+    "Environment->natural resources",
+    "Environment->climate change",
+    "Environment->sustainability",
+    "Social Issue->discrimination",
+    "Social Issue->social problem",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Tina",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Kotek",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:41:24.379+03:00",
+  "updated": "2025-05-08T03:45:56.000+00:00"
+}

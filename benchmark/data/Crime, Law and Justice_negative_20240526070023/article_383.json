@@ -1,0 +1,128 @@
+{
+  "thread": {
+    "uuid": "7abfa64364ec03ad1127a76f194f6064ccc5e073",
+    "url": "https://www.wibw.com/2024/04/25/authorities-release-identity-victim-31st-louisiana-crash-douglas-county",
+    "site_full": "www.wibw.com",
+    "site": "wibw.com",
+    "site_section": "https://wibw.com",
+    "site_categories": ["media"],
+    "section_title": "Home",
+    "title": "Authorities release identity of victim in 31st and Louisiana crash in Douglas County",
+    "title_full": "Authorities release identity of victim in 31st and Louisiana crash in Douglas County",
+    "published": "2024-04-25T23:05:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-wibw-prod.cdn.arcpublishing.com/resizer/v2/RY4Z2AOZN5AS7NOC5CCBTJ25RM.jpg?auth=18929f34c61f378956184d1191c98605cacdab21514abc02752b62a96ee5b3a2&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 21706,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7abfa64364ec03ad1127a76f194f6064ccc5e073",
+  "url": "https://www.wibw.com/2024/04/25/authorities-release-identity-victim-31st-louisiana-crash-douglas-county",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@wibw",
+  "published": "2024-04-25T23:05:00.000+03:00",
+  "title": "Authorities release identity of victim in 31st and Louisiana crash in Douglas County",
+  "text": "Authorities release identity of victim in 31st and Louisiana crash in Douglas County TOPEKA, Kan. (WIBW) - Authorities released the identity of the victim involved in 31st and Louisiana St. crash in Douglas County. According to [Douglas County Sheriff’s Office](https://www.dgso.org/wordpress/), the driver of a 2008 maroon Kia Sportage drove into oncoming traffic Wednesday afternoon, April 24, and struck a 2017 Ford F-150 east of 31st and Louisiana St., which is the 1400 block of N 1300 Rd. Douglas County Sheriff’s Office indicated the driver of the Kia, Michael Landsness, 37, of Lawrence, was pronounced dead at the scene by medics. Douglas County Sheriff’s Office said medics extricated the Kia passenger, Coty Galbreath, 34, of Kansas City, Mo., who suffered serious injuries and was flown to a Kansas City area hospital. He remains hospitalized on Thursday. Douglas County Sheriff’s Office indicated the driver and passenger in the F-150 were taken by ground ambulance to an area hospital and have both been treated and released. Douglas County Sheriff’s Office noted according to the preliminary crash investigation, the Kia was traveling at a high rate of speed westbound before crossing the center line and striking the pickup truck head-on as it traveled in the inside eastbound lane. Any additional details will be part of the completed crash report. Copyright 2024 WIBW. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.dgso.org/wordpress/),",
+    "https://dgso.org/wordpress/),"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "michael landsness",
+        "sentiment": "none"
+      },
+      {
+        "name": "lawrence",
+        "sentiment": "none"
+      },
+      {
+        "name": "coty galbreath",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "kia",
+        "sentiment": "none"
+      },
+      {
+        "name": "kia sportage",
+        "sentiment": "none"
+      },
+      {
+        "name": "douglas county sheriff’s office",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "douglas county",
+        "sentiment": "none"
+      },
+      {
+        "name": "douglas county topeka",
+        "sentiment": "none"
+      },
+      {
+        "name": "kan.",
+        "sentiment": "none"
+      },
+      {
+        "name": "louisiana",
+        "sentiment": "none"
+      },
+      {
+        "name": "kansas city",
+        "sentiment": "none"
+      },
+      {
+        "name": "louisiana st.",
+        "sentiment": "none"
+      },
+      {
+        "name": "mo.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:15:31.715+03:00",
+  "updated": "2024-04-26T02:43:03.263+03:00"
+}

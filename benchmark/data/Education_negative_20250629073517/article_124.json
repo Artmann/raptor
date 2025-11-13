@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "cda8b5a890c72f1ea8a5a4e73ba2de993b5e4010",
+    "url": "https://news.tvbs.com.tw/china/2914242",
+    "site_full": "news.tvbs.com.tw",
+    "site": "tvbs.com.tw",
+    "site_section": "https://news.tvbs.com.tw/web_api/play_feed_realtime",
+    "site_categories": ["media"],
+    "section_title": "TVBS 新聞網",
+    "site_title": null,
+    "title": "陸湖北女大學生　找槍手「男扮女裝」代考被抓包開除│TVBS新聞網",
+    "title_full": "陸湖北女大學生　找槍手「男扮女裝」代考被抓包開除│TVBS新聞網",
+    "published": "2025-06-26T08:09:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://cc.tvbs.com.tw/img/upload/2025/06/26/20250626130620-f56e74ce.jpg",
+    "performance_score": 0,
+    "domain_rank": 16317,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cda8b5a890c72f1ea8a5a4e73ba2de993b5e4010",
+  "url": "https://news.tvbs.com.tw/china/2914242",
+  "ord_in_thread": 0,
+  "author": "蔡儀潔",
+  "published": "2025-06-26T08:09:00.000+03:00",
+  "title": "陸湖北女大學生　找槍手「男扮女裝」代考被抓包開除│TVBS新聞網",
+  "text": "中國湖北中南財經政法大學爆出找槍手代考事件！校方26日發布公告，證實會計學院學生李某揚，在期末考試中委託他人冒名應試，違反考場規範，已依校規擬處以開除學籍。根據考試地點、時間與網路流出的照片比對，這起案件正是日前網路熱議的「男扮女裝冒名考試」，引發校園誠信問題再度被關注。\n事件發生在6月24日上午8點至10點，地點是該校文泰教學樓306教室。校方指出，李姓學生透過網路平台認識所謂「槍手」，安排對方進入考場應試。當場監考老師察覺異常，對方試圖逃離，目前身分仍在追查確認中。\n在官方公告前，已有網友在社群平台爆料，稱看到一名男子喬裝女學生、戴著假髮與口罩進入考場，引發現場側目與議論。消息曝光後掀起熱議，不少人質疑校方考場管理是否出現疏失。校方當時僅回應「仍在調查中」，直到26日正式發布處分說明，確認學生違規情節屬實。根據校規，學生若在考試期間找人代考，將面臨最嚴重的開除處分。這類行為不僅影響個人學歷資格，若列入學生紀錄，恐對未來升學與求職造成長遠影響。\n一位大學導師坦言，曾發現學生手機中存有十多筆代考聯絡資料，「就像隨時能點外送一樣方便」，顯示部分學生對誠信風險幾乎沒有認知。也有監考老師表示，面對高階偽裝與假證件，僅靠肉眼辨識效果有限，不少學校已考慮引進人臉辨識與AI偵測系統強化防弊。\n律師也提醒，冒名參加考試除了違反學校規定，在中國法律中也可能觸犯「冒用他人身分」等規定，若情節嚴重，甚至會涉及治安或刑事責任，代考與被代考雙方都可能面臨法律處分。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Education"],
+  "topics": [
+    "Education->college and university",
+    "Education->educational testing and examinations",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T08:51:20.659+03:00",
+  "updated": "2025-06-26T05:53:40.000+00:00"
+}

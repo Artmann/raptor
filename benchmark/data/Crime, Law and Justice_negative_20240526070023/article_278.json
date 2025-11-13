@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "c997234c244db18e09f7f4e64da77af85277e511",
+    "url": "https://natlawreview.com/article/department-labor-announces-final-overtime-rule",
+    "site_full": "natlawreview.com",
+    "site": "natlawreview.com",
+    "site_section": "https://www.natlawreview.com/recent-contributions/feed",
+    "site_categories": [],
+    "section_title": "Recent Contributors to The National Law Review",
+    "title": "Department of Labor Announces Final Overtime Rule",
+    "title_full": "Department of Labor Announces Final Overtime Rule",
+    "published": "2024-04-25T23:45:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://natlawreview.com/sites/default/files/styles/article_image/public/2024-04/department%20of%20labor%20DOL%20website.jpg?h=94ffabed&amp;itok=sjqSmkO1",
+    "performance_score": 0,
+    "domain_rank": 3447,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c997234c244db18e09f7f4e64da77af85277e511",
+  "url": "https://natlawreview.com/article/department-labor-announces-final-overtime-rule",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Miller Canfield",
+  "published": "2024-04-25T23:45:00.000+03:00",
+  "title": "Department of Labor Announces Final Overtime Rule",
+  "text": "On April 23, 2024, the Department of Labor (DOL) announced the final version of a rule that will significantly increase the annual salary threshold required to classify employees as exempt under the Fair Labor Standards Act (FLSA). Although the rule will not change the job duties test under current regulations for administrative, executive, and professional employees, it does provide for a stepped set of increases of the minimum salary requirement from the current level of $684 per week ($35,568 per year) to $844 per week ($43,888 per year). The initial increase is effective July 1, 2024, the salary threshold will increase again on January 1, 2025, to $1,128 per week ($58,656 per year) and be recalculated every three years thereafter (beginning July 1, 2027). The DOL estimates that approximately 1 million employees will be affected by the initial update and another 3 million employees will be impacted by the second salary increase. To maintain the exempt status of employees affected by the new rule, employers must either increase salaries or reclassify the employees as non-exempt workers who are entitled to overtime pay after 40 hours a week, at no less than time-and-half their regular hourly rates. Employers should examine compensation of workers who are classified as exempt but who are paid below the new salary levels to determine whether the need to pay overtime will significantly increase costs, whether conversion to an hourly paid status is most appropriate or whether other options such as salaried non-exempt status are preferrable. The analysis should consider the amount of overtime worked by the currently exempt employee, how payment of the premium rate will affect compensation and labor costs, how resetting rates to account for the need to pay overtime will affect employees and administrative burdens involved in tracking hours of a new group of employees. In addition to increasing the threshold salary level for white collar employees, the final rule also provides tiered updates to the total annual compensation requirement for \"highly compensated employees.\" Currently, an employee who is guaranteed total annual compensation of at least $107,432, and who customarily and regularly performs one or more of the exempt duties or responsibilities of an executive, administrative or professional employee, is exempt from overtime requirements. The new rule increases the salary threshold for highly compensated employees to $132,964 per year on July 1, 2024, and to $151,164 on January 1, 2025. In 2016, the DOL issued a similar rule, which was challenged in Texas and ultimately invalidated by a Texas federal court. We expect that similar challenges will be raised to the DOL’s 2024 rule.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Labor", "Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "department of labor",
+        "sentiment": "negative"
+      },
+      {
+        "name": "flsa",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:10:54.439+03:00",
+  "updated": "2024-04-26T04:47:00.329+03:00"
+}

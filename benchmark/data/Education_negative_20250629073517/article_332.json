@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "6f8c5b67889bdc35367b90639456c0b74d24cb9c",
+    "url": "https://www.newsbreak.com/news/4073369952506-gov-hobbs-vetoes-bill-to-punish-school-officials-who-oversee-financial-crises",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://newsbreak.com/scottsdale-az",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "Scottsdale, AZ Local News and More | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Gov. Hobbs vetoes bill to punish school officials who oversee financial crises - NewsBreak",
+    "title_full": "Gov. Hobbs vetoes bill to punish school officials who oversee financial crises - NewsBreak",
+    "published": "2025-06-25T22:01:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/3ZjLQb_129Q3DKo00",
+    "performance_score": 0,
+    "domain_rank": 3213,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6f8c5b67889bdc35367b90639456c0b74d24cb9c",
+  "url": "https://www.newsbreak.com/news/4073369952506-gov-hobbs-vetoes-bill-to-punish-school-officials-who-oversee-financial-crises",
+  "ord_in_thread": 0,
+  "author": "KJZZ",
+  "published": "2025-06-25T22:01:00.000+03:00",
+  "title": "Gov. Hobbs vetoes bill to punish school officials who oversee financial crises - NewsBreak",
+  "text": "kjzz.org\nwebsite\nArizona\nGov. Hobbs vetoes bill to punish school officials who oversee financial crises\nBy KJZZ,\n12 hours agoGov. Katie Hobbs vetoed a bill designed to punish superintendents and board members if a school district goes bankrupt. Rep. Matt Gress (R-Phoenix), the bill’s sponsor, said the legislation was inspired by the Isaac School District in Phoenix, which was put under receivership as it faced a more than $20 million deficit.\n3",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Politics", "Education", "Social Issue"],
+  "topics": [
+    "Politics->government",
+    "Politics->political process",
+    "Politics->government policy",
+    "Education->school",
+    "Education->educational grading",
+    "Education->teachers",
+    "Social Issue->social services",
+    "Social Issue->communities"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Katie Hobbs",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Matt Gress",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Isaac School District",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T10:52:43.169+03:00",
+  "updated": "2025-06-26T08:06:25.000+00:00"
+}

@@ -1,0 +1,126 @@
+{
+  "thread": {
+    "uuid": "03c22a938551867223acca7546d32d48fc0d14bf",
+    "url": "https://securityboulevard.com/2023/12/kaseyas-2023-highlights-and-the-road-ahead/",
+    "site_full": "securityboulevard.com",
+    "site": "securityboulevard.com",
+    "site_section": "https://securityboulevard.com/feed",
+    "site_categories": ["hacking", "tech"],
+    "section_title": "Security Boulevard",
+    "title": "Kaseya’s 2023 Highlights and the Road Ahead",
+    "title_full": "Kaseya’s 2023 Highlights and the Road Ahead - Security Boulevard",
+    "published": "2023-12-28T23:38:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "https://pixel.welcomesoftware.com/px.gif?key=YXJ0aWNsZT1iY2E3YzFlY2E0MDgxMWVlODMzYTdhYTgyNmVjMjU4Zg==",
+    "performance_score": 0,
+    "domain_rank": 10769,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "03c22a938551867223acca7546d32d48fc0d14bf",
+  "url": "https://securityboulevard.com/2023/12/kaseyas-2023-highlights-and-the-road-ahead/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Kaseya",
+  "published": "2023-12-28T23:38:00.000+02:00",
+  "title": "Kaseya’s 2023 Highlights and the Road Ahead",
+  "text": "Kaseya’s 2023 Highlights and the Road Ahead Woohoo! What an exciting year 2023 turned out to be. Right from upgrading to VSA 10 to unlocking the efficiencies between the Kaseya and Datto solutions and making the strategic acquisition of Vonahi Security, Kaseya has delivered tons of amazing benefits to its customers in 2023. As we stand on the cusp of 2024, we’d like to take a moment to celebrate the milestones and victories that marked our journey. Join us as we take stock of all that we have achieved and give you a glimpse into what lies ahead. VSA 10 upgrade The VSA 10 upgrade was one of the biggest wins of the year. Even though VSA 9 was powerful without comparison, harnessing its complete potential was no mean feat. The following are the key upgrades that distinguish and differentiate [VSA 10](https://www.kaseya.com/get-started/vsa-demo/) from its predecessor: Cutting-edge automation Powered by cutting-edge automation, VSA 10 saves users hundreds and thousands of hours of manual work while also making managing complex tasks seem like a breeze. This gives users the freedom to focus on more creative tasks while the mundane work is handled automatically. We received reports of higher productivity, more efficiency and better work-life balance by our hard-working technicians. Scripting flexibility Another notable change that makes VSA 10 more intuitive is the swapping of the proprietary scripting language of VSA 9’s Agent Procedures for industry-standard PowerShell, Bash, Batch and VBScript. This upgrade gave users more flexibility and freedom to tailor their scripting processes according to their specific needs and preferences. Access to widely used scripting languages makes it easier to integrate VSA 10 with a wide range of tools and existing networks. Seamless integrations The [Kaseya IT Complete platform](https://www.kaseya.com/) that provides seamless integration with a host of critical IT tools makes VSA even more powerful. This year, we further strengthened the connection between Kaseya and Datto solutions with several crucial integrations. Some of the standout integrations that users love are those with [Datto Networking solutions](https://www.datto.com/products/networking/) and with PSA solutions like [Autotask](https://www.datto.com/products/autotask-psa/), [BMS](https://www.kaseya.com/products/bms/) and Vorex. The integration between VSA and Datto’s networking solutions, which are considered the best in the industry, promises to make discovering, deploying and managing networks effortless and cost-effective for technicians. While SMBs can impress their end users with consistent uptime and exceptional performance, MSPs can deliver high-quality managed networking services in a way that will give them a competitive edge and boost profitability. An advanced policy module for greater efficiency Worth mentioning here is the new advanced policy module in VSA 10 that allows policies to be broken up into containerized objects, making it incredibly easy for managed service providers (MSPs) or IT departments to modify policies to meet the specific needs of their clients and end users. For instance, an MSP can create a policy object that includes all security settings for a client and then create a second policy object for the client’s workstations that includes all network access permissions. Mobile device management We also took note of the demand for [mobile device management (MDM)](https://www.kaseya.com/blog/mobile-device-management-mdm/) capabilities and added that to VSA 10. Whether it’s the organization’s own or employee-owned iPhones, iPads or Android devices, technicians can monitor, manage and secure them easily via the Kaseya console. The addition of MDM fulfills our vision of making VSA 10 a truly unified and remote monitoring and management (RMM) solution. It eliminates the need for users to use different management solutions for each type of device, making the management process seamless. Top-notch security Not just an efficient RMM solution, VSA 10 also doubles up as a formidable security solution. Designed to detect and stop threats like ransomware, and eliminate vulnerabilities through advanced patching capabilities, it provides a secure environment for businesses to operate. VSA 10 also provides real-time monitoring of all systems, ensuring that any potential issues are identified and addressed quickly. Kaseya Help Desk Service The [Kaseya Help Desk Service](https://www.kaseya.com/products/help-desk-services/) is our hottest new service launch of the year. It instantly enables MSPs and IT departments to expand their coverage and deliver best-in-class service delivery without expanding their payroll. Bolstered by 100% in-region staff (Orlando, Florida and Dundalk) and operating round the clock, our help desk service will manage the daily delivery and management of L1 and L2 tickets for customers, ensuring data sovereignty that supports major international compliance standards. This is truly one of the biggest launches in Kaseya’s history, freeing MSPs and IT departments from the clutches of the “have-you-tried-turning-it-off-and-on-again” script, freeing them to drive innovation and optimize services. Vonahi and audIT acquisitions At Kaseya, we relentlessly seek to make IT management easier for our customers. We aim to be the one-stop shop for any solution they need to manage their IT. To this end, we acquired Vonahi Security earlier this year. Vonahi, a pioneer in automated [network penetration testing](https://www.kaseya.com/blog/network-penetration-testing/), brings value to Kaseya’s security suite by expanding its scope and reach to meet a wider set of customer needs. vPenTest, an automated network penetration test platform developed by Vonahi, combines a hacker’s knowledge, methodology, processes and toolsets into a single, deployable SaaS platform. It’s designed in such a way that organizations of all sizes can use it to strengthen their IT environment easily, by performing a penetration test within their environment at any time. The best part — vPenTest provides more value at similar to less costs compared to traditional penetration tests. The company also completed its acquisition and integration of [audIT](https://www.channelfutures.com/mergers-acquisitions/kaseya-wraps-acquisition-of-simplified-sales-tool-audit), a premier and automated SaaS-based sales presentation system, in 2023. The solution allows MSPs to create impressive sales presentations in under 30 minutes that allows them to showcase the value of their work creatively and win the business of more prospects. With audIT, technicians can save a good four to six hours that typically go towards creating a presentation while leaving a better impression on clients. It’s the secret weapon in our MSPs’ arsenal to gain a competitive edge. The IT Complete stack The IT Complete stack has become even more comprehensive and powerful thanks to additional integrations with Datto solutions and acquisitions of Vonahi and audIT. With a continued focus on providing seamless workflows between tools and helping IT professionals and teams do their jobs efficiently, IT Complete continues to be a work in progress, with several more integrations in the pipeline. Closing thoughts While 2023 was a standout year for Kaseya and its customers, get ready to buckle up for an even more electrifying ride in 2024. We will be sharing news that’s set to make waves in the IT industry like never before. No, it’s not another acquisition, partnership or IPO announcement. You’ll have to tune in to [Connect Global 2024](https://www.kaseyaconnect.com/) for the big reveal. It’s an exciting time for Kaseya and its customers. There’s plenty to look back on with pride and even more to look forward to. The post [Kaseya’s 2023 Highlights and the Road Ahead](https://www.kaseya.com/blog/kaseya-2023-highlights-and-2024-outlook/) appeared first on [Kaseya](https://www.kaseya.com/). [Blog - Kaseya](https://www.kaseya.com/blog/) authored by [Kaseya](https: //www.kaseya.com/blog/kaseya-2023-highlights-and-2024-outlook/](https://www.kaseya.com/blog/kaseya-2023-highlights-and-2024-outlook/)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Human Interest"
+  ],
+  "external_links": [
+    "https://datto.com/products/autotask-psa/),",
+    "https://kaseya.com/blog/mobile-device-management-mdm/)",
+    "https://www.channelfutures.com/mergers-acquisitions/kaseya-wraps-acquisition-of-simplified-sales-tool-audit),",
+    "https://www.datto.com/products/networking/)",
+    "https://www.datto.com/products/autotask-psa/),",
+    "https://www.kaseya.com/products/help-desk-services/)",
+    "https://www.kaseya.com/blog/kaseya-2023-highlights-and-2024-outlook",
+    "https://www.kaseya.com/blog/)",
+    "https://www.kaseya.com/blog/mobile-device-management-mdm/)",
+    "https://channelfutures.com/mergers-acquisitions/kaseya-wraps-acquisition-of-simplified-sales-tool-audit),",
+    "https://www.kaseya.com/get-started/vsa-demo/)",
+    "https://www.kaseya.com/blog/kaseya-2023-highlights-and-2024-outlook/)",
+    "https://www.kaseya.com/products/bms/)",
+    "https://kaseya.com/get-started/vsa-demo/)",
+    "https://kaseyaconnect.com/)",
+    "https://kaseya.com/)",
+    "https://kaseya.com/products/bms/)",
+    "https://kaseya.com/blog/kaseya-2023-highlights-and-2024-outlook/",
+    "https://www.kaseyaconnect.com/)",
+    "https://www.kaseya.com/)",
+    "https://www.kaseya.com/blog/network-penetration-testing/),",
+    "https://www.kaseya.com/).",
+    "https://kaseya.com/).",
+    "https://datto.com/products/networking/)",
+    "https://kaseya.com/blog/kaseya-2023-highlights-and-2024-outlook/)",
+    "https://www.kaseya.com/blog/kaseya-2023-highlights-and-2024-outlook/",
+    "https://kaseya.com/products/help-desk-services/)",
+    "https://kaseya.com/blog/)",
+    "https://kaseya.com/blog/network-penetration-testing/),"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "kaseya",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "vsa",
+        "sentiment": "none"
+      },
+      {
+        "name": "vonahi security",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "road ahead kaseya",
+        "sentiment": "none"
+      },
+      {
+        "name": "kaseya",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:07:57.906+02:00",
+  "updated": "2023-12-29T00:07:57.906+02:00"
+}

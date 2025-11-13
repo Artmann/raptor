@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "7e45f70d06cb583c168d302c4059c75d64b1431d",
+    "url": "https://news.myseldon.com/en/news/index/335171267",
+    "site_full": "news.myseldon.com",
+    "site": "myseldon.com",
+    "site_section": "https://news.myseldon.com/en/rubric/9",
+    "site_categories": ["media"],
+    "section_title": "Seldon.News - your go-to news aggregator",
+    "site_title": null,
+    "title": "Студентка НГУ создает цифрового ассистента, который поможет психологам снизить нагрузку и избежать выгорания | Hi-Tech | Seldon News",
+    "title_full": "Студентка НГУ создает цифрового ассистента, который поможет психологам снизить нагрузку и избежать выгорания | Hi-Tech | Seldon News",
+    "published": "2025-09-18T08:50:27.784+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 34964,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7e45f70d06cb583c168d302c4059c75d64b1431d",
+  "url": "https://news.myseldon.com/en/news/index/335171267",
+  "ord_in_thread": 0,
+  "author": "@CNews",
+  "published": "2025-09-18T08:50:27.784+03:00",
+  "title": "Студентка НГУ создает цифрового ассистента, который поможет психологам снизить нагрузку и избежать выгорания | Hi-Tech | Seldon News",
+  "text": "Студентка Механико-математического факультета Новосибирского государственного университета Анна Ариничеваразрабатывает интеллектуального ассистента для психологов, который берет на себя рутинные задачи и помогает специалистам сосредоточиться непосредственно на работе с клиентом. Проект стал одним из победителей конкурса студенческих инициатив и получил грант в размере 1 млн руб. от Фонда содействия инновациям . Об этом CNews сообщили представители НГУ. По словам авторов идеи, AU–ассистент будет вести конспект консультаций, систематизировать информацию о клиентах и формировать отчеты о...",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "positive",
+  "categories": ["Health", "Education", "Science and Technology"],
+  "topics": [
+    "Health->health care approach",
+    "Health->mental health and disorder",
+    "Health->health treatment and procedure",
+    "Education->college and university",
+    "Education->students",
+    "Education->vocational education",
+    "Science and Technology->biomedical science",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->psychology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:50:27.784+03:00",
+  "updated": "2025-09-18T09:03:46.000+03:00"
+}

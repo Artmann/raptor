@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "4408411ac5e99aaf230be40de6eec2e467f0d6e2",
+    "url": "https://www.foxnews.com/us/scott-peterson-prosecutor-asks-judge-slam-door-key-killers-latest-appeal",
+    "site_full": "www.foxnews.com",
+    "site": "foxnews.com",
+    "site_section": "https://banking.einnews.com:443/live_feed",
+    "site_categories": ["media", "top_news"],
+    "section_title": "Live Feed Wire - Banking Industry Today - EIN Presswire",
+    "title": "Scott Peterson prosecutor asks court to reject killer's appeal attempt | Fox News",
+    "title_full": "Scott Peterson prosecutor asks court to reject killer's appeal attempt | Fox News",
+    "published": "2024-04-25T21:24:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/Laci-inset-scott-peterson.jpg",
+    "performance_score": 0,
+    "domain_rank": 295,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4408411ac5e99aaf230be40de6eec2e467f0d6e2",
+  "url": "https://www.foxnews.com/us/scott-peterson-prosecutor-asks-judge-slam-door-key-killers-latest-appeal",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "ajc.com",
+  "published": "2024-04-25T21:24:00.000+03:00",
+  "title": "Scott Peterson prosecutor asks court to reject killer's appeal attempt | Fox News",
+  "text": "Prosecutors have asked a California court to block new DNA testing of disputed evidence in the 2002 murder of pregnant Modesto woman Laci Peterson and her unborn son Conner - potentially setting up a road block at the heart of her husband and convicted killer Scott Peterson’s latest appeal. The Los Angeles Innocence Project picked up Peterson’s case in January. Lawyers have been arguing that a mattress found in a burned out car near where he lived with Lacey Peterson back in 2002 could show someone else was responsible for the murders of the 27-year-old and the couple’s unborn son Conner. SCOTT PETERSON DEFENSE DROPS MOTION TO SEAL IN BID FOR NEW TRIAL AFTER PROSECUTORS NOTE FILES MOSTLY PUBLIC The new appeal hinges on conducting state-of-the-art DNA testing on the mattress and a hammer with present-day technology. The Stanislaus County District Attorney's Office, which successfully prosecuted Peterson during his trial, filed a motion Monday arguing against new testing, noting that tests done in 2013 and 2019 went nowhere and calling out a series of lies exposed during Peterson's original trial, according to ABC 7, a local news station. SCOTT PETERSON CASE TAKEN UP BY LOS ANGELES INNOCENCE PROJECT, INVESTIGATING CLAIM OF ‘ACTUAL INNOCENCE’ A call to the district attorney's office went unanswered Thursday afternoon. However, the lengthy filing argues that there was already overwhelming evidence of Peterson's guilt revealed during his trial. Police arrested him in 2003 near the Mexico border after he bleached his hair blond and departed Northern California with his brother’s passport and $10,000 cash. TIMELINE: THE LACI PETERSON CASE A woman he was having an affair with named Amber Frey testified that he told her his wife was dead a month before she went missing. In recorded calls, he told her he didn't want to be a father and was considering a vasectomy. And his alibi, which was that he was fishing when his wife disappeared, placed him in the same body of water where her remains were later found. While Peterson has for years suggested the suspects in a burglary at the Medina household across the street from where he lived with his wife in 2002 could have killed her, prosecutors said that the break-in happened after she had already vanished. SCOTT PETERSON, KILLER OF PREGNANT WIFE, SPORTS NEW LOOK IN COURT IN LATEST BID FOR FREEDOM Lawyers for the Los Angeles Innocence Project are seeking new DNA testing on a hammer linked to a burglary across the street from the Peterson family home as well as a stained mattress found in a burned-out van parked less than a mile away. Peterson, who has always maintained his innocence, is currently serving a life prison sentence after a judge overturned his death sentence following a prior appeal. CLICK TO GET THE FOX NEWS APP His attempt to get a new trial was later denied. The judge previously scheduled a hearing on the DNA issue for May 29.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://abc7news.com/scott-peterson-prosecutors-say-convicted-killer-request-for-new-dna-tests-is-unnecessary/14723363/",
+    "https://abc7news.com/scott-peterson-prosecutors-say-convicted-killer-request-for-new-dna-tests-is-unnecessary/14723363",
+    "https://www.abc7news.com/scott-peterson-prosecutors-say-convicted-killer-request-for-new-dna-tests-is-unnecessary/14723363/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "scott peterson",
+        "sentiment": "negative"
+      },
+      {
+        "name": "claudia cowan",
+        "sentiment": "none"
+      },
+      {
+        "name": "michael ruiz fox",
+        "sentiment": "none"
+      },
+      {
+        "name": "laci peterson",
+        "sentiment": "none"
+      },
+      {
+        "name": "peterson",
+        "sentiment": "none"
+      },
+      {
+        "name": "conner",
+        "sentiment": "none"
+      },
+      {
+        "name": "lacey peterson",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "fox news true crime",
+        "sentiment": "negative"
+      },
+      {
+        "name": "county district attorney's office",
+        "sentiment": "none"
+      },
+      {
+        "name": "edt facebook twitter flipboard comments print email",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "modesto",
+        "sentiment": "none"
+      },
+      {
+        "name": "california",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:10:35.317+03:00",
+  "updated": "2024-04-26T02:36:18.891+03:00"
+}

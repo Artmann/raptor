@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "8cad2730d6f6c4ad38bdc8f9c6d3837ded2fffeb",
+    "url": "https://www.newsbreak.com/news/3774599380972-xaverian-boys-hockey-dominates-no-5-catholic-memorial-3-0",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://newsbreak.com/new-york-city-ny-sports",
+    "site_categories": ["under_construction"],
+    "section_title": "New York City, NY Sports and More | NewsBreak",
+    "title": "Xaverian Boys Hockey Dominates No. 5 Catholic Memorial 3-0 - NewsBreak",
+    "title_full": "Xaverian Boys Hockey Dominates No. 5 Catholic Memorial 3-0 - NewsBreak",
+    "published": "2025-01-23T06:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/2d1y3M_0yNN3ZCS00",
+    "performance_score": 0,
+    "domain_rank": 3577,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8cad2730d6f6c4ad38bdc8f9c6d3837ded2fffeb",
+  "url": "https://www.newsbreak.com/news/3774599380972-xaverian-boys-hockey-dominates-no-5-catholic-memorial-3-0",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "BVM Sportsdesk,",
+  "published": "2025-01-23T06:00:00.000+02:00",
+  "title": "Xaverian Boys Hockey Dominates No. 5 Catholic Memorial 3-0 - NewsBreak",
+  "text": "By BVM Sportsdesk, ,\n18 hours ago Xaverian boys hockey achieved a convincing 3-0 victory over No. 5 Catholic Memorial, demonstrating balanced scoring and stellar goaltending from Michael Bulkin. Coach Dave Spinale’s lineup changes paid off, with contributions from multiple lines leading to the team's third straight win. Bulkin highlighted his team's defensive strength, as he secured a 35-save shutout, aiding Xaverian's rise to a 4-1-1 record in their last six games. The victory reinforces their competitive position in the Catholic Conference as they aim for the title. Read full article\nRead in NewsBreak",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->sport event",
+    "Sport->ice hockey",
+    "Human Interest->record and achievement",
+    "Lifestyle and Leisure->exercise and fitness",
+    "Lifestyle and Leisure->game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Michael Bulkin",
+        "sentiment": "none"
+      },
+      {
+        "name": "Dave Spinale",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Catholic Memorial",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:07:06.678+02:00",
+  "updated": "2025-01-24T00:07:06.678+02:00"
+}

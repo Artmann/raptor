@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "62a4691815e53d5299870eddc5a3d703527a5747",
+    "url": "https://www.vol.at/brutal-bullying-case-in-voecklabruck-school/9508250",
+    "site_full": "www.vol.at",
+    "site": "vol.at",
+    "site_section": "https://osterreich24.com/time",
+    "site_categories": ["media", "top_news_at", "top_news"],
+    "section_title": "Letzte Nachrichten - Osterreich24.com",
+    "site_title": "VOL.AT | Nachrichten aus Vorarlberg, Österreich und der Welt",
+    "title": "Brutal Bullying Case in Vöcklabruck School - VOL.AT",
+    "title_full": "Brutal Bullying Case in Vöcklabruck School - VOL.AT",
+    "published": "2025-06-26T12:12:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AT",
+    "main_image": "https://www.vol.at/2025/06/Bilder-Jenny-1920-x-1080-px-2025-06-26T105905.328-4-3-286014401080-1440x1080.jpg",
+    "performance_score": 0,
+    "domain_rank": 16692,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "62a4691815e53d5299870eddc5a3d703527a5747",
+  "url": "https://www.vol.at/brutal-bullying-case-in-voecklabruck-school/9508250",
+  "ord_in_thread": 0,
+  "author": "translator",
+  "published": "2025-06-26T12:12:00.000+03:00",
+  "title": "Brutal Bullying Case in Vöcklabruck School - VOL.AT",
+  "text": "A serious bullying incident at a school in Vöcklabruck is leading to police investigations against the alleged perpetrators and likely to school expulsions. According to a media report, a 15-year-old was harassed, beaten, strangled, and filmed by five 20-year-old classmates over several months. Once, he was even pushed against a window and fell two meters down. The \"Krone\" refers to an anonymous source. Police and the education directorate are withholding details but confirm that an incident occurred. A spokeswoman for the Upper Austrian education directorate informed that the alleged perpetrators have been suspended. On Thursday, a conference will be held at the school to decide on the expulsion. The school immediately reported the allegations to the police as soon as they became known, she emphasized.\nThe police confirmed upon APA request that investigations are ongoing. However, they did not want to provide any details for the time being. The education directorate also asked for understanding that no further information on the matter could be provided due to the ongoing investigation.\n(APA/Red.)\nThis article has been automatically translated, read the original article here .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Crime, Law and Justice"],
+  "topics": [
+    "Education->teachers",
+    "Education->school",
+    "Education->students",
+    "Social Issue->bullying",
+    "Social Issue->children",
+    "Social Issue->social problem",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Crime, Law and Justice->police"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://mocafirst.at/?id=1000004_2000316",
+    "https://mocafirst.at/?id=1000004_2000317",
+    "https://mocafirst.at/?id=1000004_2000329",
+    "https://mocafirst.at/?id=1000004_2000328",
+    "https://mocafirst.at/?id=1000004_2000335",
+    "https://mocafirst.at/?id=1000004_2000319",
+    "https://www.mocafirst.at/?id=1000004_2000317",
+    "https://www.mocafirst.at/?id=1000004_2000316",
+    "https://www.mocafirst.at/?id=1000004_2000328",
+    "https://www.mocafirst.at/?id=1000004_2000329",
+    "https://www.mocafirst.at/?id=1000004_2000319",
+    "https://mocafirst.at/",
+    "https://www.mocafirst.at/?id=1000004_2000335"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Vöcklabruck",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_at", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T12:36:36.247+03:00",
+  "updated": "2025-06-26T09:52:51.000+00:00"
+}

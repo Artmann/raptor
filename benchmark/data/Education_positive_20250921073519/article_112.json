@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "a7c1dad2c2c6590e55a08e590184bc33fe9f591d",
+    "url": "https://rp-online.de/nrw/staedte/wermelskirchen/wermelskirchen-grundschulen-elterntaxi-elternhaltestellen-verkehrschaos_aid-135043445",
+    "site_full": "rp-online.de",
+    "site": "rp-online.de",
+    "site_section": "https://rp-online.de/nrw/feed.rss",
+    "site_categories": ["media", "top_news_de", "top_news"],
+    "section_title": "NRW | RP ONLINE",
+    "site_title": "Aktuelle Nachrichten | RP ONLINE",
+    "title": "Eltern-Haltezonen vor Wermelskirchener Grundschulen: „Die Situation ist besser geworden\"",
+    "title_full": "Eltern-Haltezonen vor Wermelskirchener Grundschulen: „Die Situation ist besser geworden\"",
+    "published": "2025-09-18T07:29:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://rp-online.de/imgs/32/2/4/3/3/7/5/4/3/9/tok_2f110b96b09efbad6ba414b1ef2825f6/w1200_h630_x1954_y845_Und_wenn_es_kurz_vor_knapp_schnell_gehen_muss__wird_kurz_vor_der_Schule_angehalten-dcb0f6aaedaf61ac.JPG",
+    "performance_score": 0,
+    "domain_rank": 4903,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 19,
+        "shares": 49
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a7c1dad2c2c6590e55a08e590184bc33fe9f591d",
+  "url": "https://rp-online.de/nrw/staedte/wermelskirchen/wermelskirchen-grundschulen-elterntaxi-elternhaltestellen-verkehrschaos_aid-135043445",
+  "ord_in_thread": 0,
+  "author": "Cristina Segovia-Buendía",
+  "published": "2025-09-18T07:29:00.000+03:00",
+  "title": "Eltern-Haltezonen vor Wermelskirchener Grundschulen: „Die Situation ist besser geworden\"",
+  "text": "Es ist Mittwoch, kurz nach sieben Uhr. Der Berufsverkehr auf den Wermelskirchener Straßen ist in vollem Gange: Voll besetzte Busse ziehen vorbei. Die Blechkarawanen bilden lange Schlagen an Ampeln und Kreuzungen. Vereinzelt passieren Fußgänger und Radfahrer den Weg. Die Jörgensgasse erscheint zu diesem Zeitpunkt wie verwaist. Die vermeintliche Ruhe vor dem (An-)Sturm?\nEltern-Haltezonen vor Wermelskirchener Grundschulen „Die Situation ist besser geworden“\nWermelskirchen · An immer mehr Grundschulen gibt es Eltern-Haltestellen, um den morgendlichen Verkehr vor den Einrichtungen einzudämmen. Doch wie gut funktioniert es an Wermelskirchener Grundschulen ?\n18.09.2025\n, 06:29 Uhr",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": ["Education"],
+  "topics": [
+    "Education->parents group",
+    "Education->students",
+    "Education->primary education"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Wermelskirchen",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:46:18.679+03:00",
+  "updated": "2025-09-19T08:06:11.000+03:00"
+}

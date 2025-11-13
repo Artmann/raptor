@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "d08083255d7f1e8007f35711a7e0e2015f57434e",
+    "url": "https://www.solothurnerzeitung.ch/aargau/freiamt/berikon-nur-eine-bewerbung-ging-ein-schulraumerweiterung-und-sanierung-der-kreisschule-mutschellen-geraet-ins-stocken-ld.2787841",
+    "site_full": "www.solothurnerzeitung.ch",
+    "site": "solothurnerzeitung.ch",
+    "site_section": "https://www.solothurnerzeitung.ch/aargau",
+    "site_categories": ["media", "top_news_ch", "top_news"],
+    "section_title": "Aargau – Nachrichten aus Kanton &amp; Region",
+    "site_title": "Solothurner Zeitung | Nachrichten Region Solothurn",
+    "title": "Mutschellen: Schulraumerweiterung muss neu ausgeschrieben werden",
+    "title_full": "Mutschellen: Schulraumerweiterung muss neu ausgeschrieben werden",
+    "published": "2025-06-26T06:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CH",
+    "main_image": "https://chm-images-prd.forward-publishing.io/2025/05/12/8fafc37c-780a-4bde-8d6e-5126bbacf11b.jpeg?auto=format&amp;s=ea1a9f7272d6cf55b34e998f8a77f524&amp;rect=1156%2C1638%2C5394%2C3034&amp;w=1200&amp;h=675",
+    "performance_score": 0,
+    "domain_rank": 148537,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d08083255d7f1e8007f35711a7e0e2015f57434e",
+  "url": "https://www.solothurnerzeitung.ch/aargau/freiamt/berikon-nur-eine-bewerbung-ging-ein-schulraumerweiterung-und-sanierung-der-kreisschule-mutschellen-geraet-ins-stocken-ld.2787841",
+  "ord_in_thread": 0,
+  "author": "Nathalie Wolgensinger",
+  "published": "2025-06-26T06:00:00.000+03:00",
+  "title": "Mutschellen: Schulraumerweiterung muss neu ausgeschrieben werden",
+  "text": "Berikon\nNur eine Bewerbung ging ein: Schulraumerweiterung und Sanierung der Kreisschule Mutschellen gerät ins Stocken\nDie Schulraumsanierung auf dem Mutschellen kommt nicht recht vom Fleck: Nur ein Architekturbüro bewarb sich für die Planungsarbeiten für die Sanierung und Erweiterung des Schulraumes der Kreisschule. Rudolfstettens Gemeinderat Michael Gutknecht, der Mitglied der Taskforce ist, nimmt Stellung zum weiteren Vorgehen.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Economy, Business and Finance", "Social Issue"],
+  "topics": [
+    "Education->school",
+    "Education->educational grading",
+    "Economy, Business and Finance->construction and property",
+    "Economy, Business and Finance->business governance",
+    "Social Issue->communities",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Michael Gutknecht",
+        "sentiment": "none"
+      },
+      {
+        "name": "Rudolfstettens",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ch", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T08:45:58.917+03:00",
+  "updated": "2025-06-26T05:52:42.000+00:00"
+}

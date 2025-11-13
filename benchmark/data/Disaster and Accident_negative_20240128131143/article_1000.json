@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "df586d75b6213e8e0bbc536695d134a7a51e2786",
+    "url": "https://www.starbeacon.com/region/ban-on-fires-extended-amid-poor-air-quality-caused-in-part-by-people-ignoring-the/article_887a75fe-8220-5b01-9e38-f06fad25ead8.html",
+    "site_full": "www.starbeacon.com",
+    "site": "starbeacon.com",
+    "site_section": "http://www.starbeacon.com/search/?q=&t=article&l=100&d=&d1=&d2=&s=start_time&sd=desc&nsa=eedition&c[]=news,news/*&f=rss",
+    "site_categories": ["media", "business", "entertainment"],
+    "section_title": "www.starbeacon.com - RSS Results in news,news/* of type article",
+    "title": "Ban on fires extended amid poor air quality caused, in part, by people ignoring the burn ban",
+    "title_full": "Ban on fires extended amid poor air quality caused, in part, by people ignoring the burn ban",
+    "published": "2023-12-28T23:41:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/starbeacon.com/content/tncms/custom/image/760622da-825e-11e5-8595-a7eb0b0092f8.jpg?resize=600%2C315",
+    "performance_score": 0,
+    "domain_rank": 85015,
+    "domain_rank_updated": "2023-12-26T12:06:35.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "df586d75b6213e8e0bbc536695d134a7a51e2786",
+  "url": "https://www.starbeacon.com/region/ban-on-fires-extended-amid-poor-air-quality-caused-in-part-by-people-ignoring-the/article_887a75fe-8220-5b01-9e38-f06fad25ead8.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Christian Martinez - Los Angeles Times (TNS)",
+  "published": "2023-12-28T23:41:00.000+02:00",
+  "title": "Ban on fires extended amid poor air quality caused, in part, by people ignoring the burn ban",
+  "text": "Angelenos hoping to cozy up by the fireplace this week should make other plans.\nThe South Coast Air Quality Management District has extended a no-burn order for much of Southern California through Thursday amid poor air quality. The agency chalks up the bad air to — coincidentally — residents enjoying holiday fires as well as \"stagnant\" weather.\nThe burn ban, which covers most of the region from the San Fernando and Santa Clarita valleys to just north of Oceanside, was first put into effect on Christmas Day.\n\"We've seen high levels of fine particle pollution over the past few days due to stagnant weather conditions and increased emissions from wood burning due to the holiday season,\" the South Coast AQMD said in a statement to The Times.\nStagnation occurs when an air mass lingers over an area, according to the National Weather Service. With little to no onshore or offshore air flow, particles from fires and other pollution, such as vehicle emissions, become concentrated in the atmosphere.\nThe AQMD ban prohibits the burning of wood and manufactured logs in fireplaces and outdoor wood-burning devices. Mountain communities above 3,000 feet and homes that rely on wood-burning furnaces are exempt.\nParticles from burning wood build up in the air and can cause asthma attacks and other respiratory issues, which can lead to an increase in hospitalizations and emergency room visits.\nIf the agency doesn't see an improvement in air quality, the burn ban could be extended to Friday.\nBut wet weather is in the forecast and could help clear the air.\nLos Angeles could see as much as an inch of rain in a storm set to arrive Friday and continue through Saturday.\n\"Rain showers expected over the holiday weekend should help reduce fine particle concentrations, making a No-Burn Alert unlikely on Saturday,\" the agency said.\n©2023 Los Angeles Times. Visit at\nlatimes.com. Distributed by Tribune Content Agency, LLC.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Disaster and Accident", "Health"],
+  "external_links": ["https://www.latimes.com", "https://latimes.com"],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "south coast air",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "national weather service",
+        "sentiment": "none"
+      },
+      {
+        "name": "south coast aqmd",
+        "sentiment": "none"
+      },
+      {
+        "name": "the times",
+        "sentiment": "none"
+      },
+      {
+        "name": "aqmd",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "southern california",
+        "sentiment": "none"
+      },
+      {
+        "name": "oceanside",
+        "sentiment": "none"
+      },
+      {
+        "name": "santa clarita",
+        "sentiment": "none"
+      },
+      {
+        "name": "san fernando",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:44:34.313+02:00",
+  "updated": "2023-12-29T01:44:34.313+02:00"
+}

@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "8609c3b4762a805b453f2e0c293aeebbdc514677",
+    "url": "https://www.foxnews.com/politics/mexican-gang-member-captured-after-2-dozen-prior-arrests-illegally-entering-us",
+    "site_full": "www.foxnews.com",
+    "site": "foxnews.com",
+    "site_section": "https://moxie.foxnews.com/google-publisher/politics.xml",
+    "site_categories": ["media", "top_news"],
+    "section_title": "Latest Political News on Fox News",
+    "title": "Mexican gang member captured after 2 dozen prior arrests for illegally entering US | Fox News",
+    "title_full": "Mexican gang member captured after 2 dozen prior arrests for illegally entering US | Fox News",
+    "published": "2024-04-25T23:10:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/tango.jpg",
+    "performance_score": 0,
+    "domain_rank": 295,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8609c3b4762a805b453f2e0c293aeebbdc514677",
+  "url": "https://www.foxnews.com/politics/mexican-gang-member-captured-after-2-dozen-prior-arrests-illegally-entering-us",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Adam Shaw",
+  "published": "2024-04-25T23:10:00.000+03:00",
+  "title": "Mexican gang member captured after 2 dozen prior arrests for illegally entering US | Fox News",
+  "text": "Border Patrol agents this week arrested a Mexican illegal immigrant gang member who has two dozen arrests for illegal entry, a sign of the many challenges that agents face at the southern border — and the threats of those attempting to enter.Border Patrol Chief Jason Owens announced that agents in Laredo, Texas, arrested a Mexican national who is a member of the \"Tango Blast\" gang.He has 24 arrests for illegal entry, under multiple names and dates of birth, Owens said. BORDER STATE LAWMAKER SOUNDS ALARM ON BLOODTHIRSTY VENEZUELAN GANG ENTERING US This image shows a Mexican national who has multiple illegal entries into the U.S. (Customs and Border Protection) \"Certainty of arrest & consequences = Border Security = the only way to stop subjects like this,\" he said.Recidivism, where illegal immigrants are removed or deported and then attempt to re-enter illegally once again, is a regular problem at the southern border. The Biden administration has attempted to tackle recidivism by increasing punishments for illegal entry after the ending of Title 42 last year. However, it has also attacked a law signed by Texas Gov. Greg Abbott that would make illegal entry a state crime and authorize police to arrest illegal immigrants. CLICK HERE FOR MORE COVERAGE OF THE BORDER SECURITY CRISIS A Border Patrol agent stands on a cliff looking for migrants that crossed the border wall between the U.S. and Mexico near Sasabe, Arizona. (Salwan Georges/The Washington Post via Getty Images) So far this fiscal year, Border Patrol agents have stopped 248 gang members, compared to 639 in all of FY 23 and 751 in FY 22. Overall, there have been 1.3 million migrant encounters at the southern border so far, compared to a record 2.4 million last fiscal year. BLOODTHIRSTY VENEZUELAN GANG TREN DE ARAGUA SETS UP SHOP IN US AS BORDER AUTHORITIES SOUND ALARM Republicans have called for the Biden administration to reverse its policies, which they believe are responsible for the historic crisis at the southern border. The Biden administration, meanwhile, says it needs more funding and comprehensive immigration reform from Congress. It has backed a bipartisan Senate bill, but that bill has so far failed to receive enough support to pass the chamber. CLICK HERE TO GET THE FOX NEWS APP But lawmakers and some officials have warned about the looming danger of gang members trying to enter into the U.S. Rep. Tony Gonzales, R-Texas , recently sounded the alarm about Tren De Aragua, a bloodthirsty Venezuelan street gang whose presence is being felt across the U.S.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "owens",
+        "sentiment": "none"
+      },
+      {
+        "name": "jason owens",
+        "sentiment": "none"
+      },
+      {
+        "name": "biden",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "fox news border patrol",
+        "sentiment": "negative"
+      },
+      {
+        "name": "customs",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "us",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "texas",
+        "sentiment": "none"
+      },
+      {
+        "name": "laredo",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:14:54.750+03:00",
+  "updated": "2024-04-26T16:45:14.170+03:00"
+}

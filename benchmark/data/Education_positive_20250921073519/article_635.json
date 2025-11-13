@@ -1,0 +1,122 @@
+{
+  "thread": {
+    "uuid": "faf9973261d7c9232a9a2049b270911e77150813",
+    "url": "https://fox56.com/news/local/reach-cyber-charter-school-kicks-off-year-with-hands-on-stem-activities-at-carbondale-ymca",
+    "site_full": "fox56.com",
+    "site": "fox56.com",
+    "site_section": "https://news.google.com/search?q=on%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "chevron-right",
+    "title": "Reach Cyber Charter School kicks off year with hands-on STEM activities at Carbondale YMCA",
+    "title_full": "Reach Cyber Charter School kicks off year with hands-on STEM activities at Carbondale YMCA",
+    "published": "2025-09-18T08:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://fox56.com/resources/media2/16x9/1920/986/center/90/98d3b32c-2083-4245-adf2-d9e4ef81c701-091725ReachCyberCharterBackToSchoolEventVO.00_00_12_29.Still004.jpg",
+    "performance_score": 0,
+    "domain_rank": 207417,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "faf9973261d7c9232a9a2049b270911e77150813",
+  "url": "https://fox56.com/news/local/reach-cyber-charter-school-kicks-off-year-with-hands-on-stem-activities-at-carbondale-ymca",
+  "ord_in_thread": 0,
+  "author": "Bill Lewis",
+  "published": "2025-09-18T08:35:00.000+03:00",
+  "title": "Reach Cyber Charter School kicks off year with hands-on STEM activities at Carbondale YMCA",
+  "text": "CARBONDALE, LACKAWANNA CO. (WOLF) — Students at Reach Cyber Charter School got a hands-on start to the school year at the Carbondale YMCA.\nThe back-to-school event, titled ‘Adventure Awaits,’ brought virtual classmates together in person, giving them the opportunity to connect and socialize with one another and with faculty.\nReach is a STEM focused, cyber charter school based in Pennsylvania, with over six thousand students from across the Commonwealth.\nWednesday's event featured many STEM based activities for students to explore focusing on topics such as compass navigation, circuit board building, wind tunnel engineering, mammal biology studies, code encrypting, and constellation mapping.\nDoug Miedel, Manager of External Outreach for Reach Cyber Charter School, says that each of the aforementioned activities are meant to serve as educational yet engaging fields of study the students can take an interest in and learn more about at Reach.\n\"All of these are different STEM opportunities for the students to partake in. Obviously being a STEM cyber school, that's big on what we do. So, STEM is built into our DNA at Reach. Each student gets that Stem kit. We get students ready for life after graduation with our career experiences as well. So, it's a really great program,\" said Miedel.\nReach is traveling across the state with more events like this, on Monday they will be visiting the Franklin Institute in Philadelphia.\nFor more information on Reach Cyber Charter School, visit their website.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Science and Technology", "Human Interest"],
+  "topics": [
+    "Education->students",
+    "Education->teachers",
+    "Education->online and remote learning",
+    "Science and Technology->scientific research",
+    "Science and Technology->social sciences",
+    "Science and Technology->technology and engineering",
+    "Human Interest->graduation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.reachcyber.org/",
+    "https://www.reachcyber.org",
+    "https://reachcyber.org/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Doug Miedel",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Wolfdale",
+        "Kingston",
+        "Strong",
+        "Hawley",
+        "Avoca",
+        "Wyoming",
+        "Trucksville",
+        "Wilkes-Barre",
+        "Clarks Summit",
+        "Plymouth",
+        "Hazleton",
+        "Woxall",
+        "West Hazleton",
+        "East Berwick",
+        "Chewton",
+        "Summit Station",
+        "West Pittston",
+        "Scranton",
+        "Pittston",
+        "Shavertown",
+        "Dunmore",
+        "Dickson City"
+      ],
+      "state": ["Pennsylvania"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:45:47.791+03:00",
+  "updated": "2025-09-18T08:57:23.000+03:00"
+}

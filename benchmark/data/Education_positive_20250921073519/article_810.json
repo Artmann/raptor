@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "73d3a3f04f0f5840c84916b13ab93bee2c527eb9",
+    "url": "https://www.wsfa.com/video/2025/09/17/old-troy-school-gets-new-life/",
+    "site_full": "www.wsfa.com",
+    "site": "wsfa.com",
+    "site_section": "https://wsfa.com/sports",
+    "site_categories": ["media"],
+    "section_title": "Sports",
+    "site_title": "Home",
+    "title": "Old Troy school gets new life",
+    "title_full": "Old Troy school gets new life",
+    "published": "2025-09-18T06:55:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-wsfa-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-18-2025%2Ft_6b5dae17cb6a42bfb1c85adba4a5d8cc_name_file_1280x720_2000_v3_1_.jpg?auth=4a02fd6546496727c8b2472078341523016d4366f76b4fda0ac4aa232955c0f5&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 47413,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "73d3a3f04f0f5840c84916b13ab93bee2c527eb9",
+  "url": "https://www.wsfa.com/video/2025/09/17/old-troy-school-gets-new-life/",
+  "ord_in_thread": 0,
+  "author": "@wsfa12news",
+  "published": "2025-09-18T06:55:00.000+03:00",
+  "title": "Old Troy school gets new life",
+  "text": "Updated: 7 hours ago\nIt's a big milestone for Lurleen B. Wallace Community College as the flag football team hosts its first home matchups.\nUpdated: 7 hours ago\nThe president of Auburn University announced the termination of an undisclosed number of employees for “hurtful” posts made on social media.\nUpdated: 7 hours ago\nTwo major construction projects at East Alabama Health are almost complete, bringing new resources in both critical care and mental health services to Lee County.\nUpdated: 7 hours ago\nLBW is committed to teaching and Enriching the lives of not just its students, but the greater community.\nUpdated: 7 hours ago\nA new online dashboard is now up and running, giving taxpayers access to information about the state's civil court system.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Education->teachers",
+    "Education->college and university",
+    "Education->students",
+    "Lifestyle and Leisure->exercise and fitness",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Auburn University",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "73d3a3f04f0f5840c84916b13ab93bee2c527eb9",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": ["Montgomery", "Selma"],
+      "state": ["Alabama"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:03:37.684+03:00",
+  "updated": "2025-09-18T09:13:01.000+03:00"
+}

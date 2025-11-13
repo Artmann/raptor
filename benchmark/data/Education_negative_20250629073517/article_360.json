@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "7ed0d37c4a8cfad41ec4aabd679546ca5739e9d3",
+    "url": "https://pressball.by/news/football/istochnik-3-mesyatsa-v-yuni-iks-labs-ne-platyat-zarplatu",
+    "site_full": "pressball.by",
+    "site": "pressball.by",
+    "site_section": "https://pressball.by/digest/football",
+    "site_categories": [],
+    "section_title": "Дайджест - Прессбол",
+    "site_title": "Прессбол - новости белорусского спорта",
+    "title": "Источник: 3 месяца в \"Юни Икс Лабс\" не платят зарплату",
+    "title_full": "Источник: 3 месяца в \"Юни Икс Лабс\" не платят зарплату",
+    "published": "2025-06-26T11:14:37.274+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BY",
+    "main_image": "https://pressball.by/wp-content/uploads/entities/stories/2025/06/71978img_7207.jpeg/",
+    "performance_score": 0,
+    "domain_rank": 84467,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7ed0d37c4a8cfad41ec4aabd679546ca5739e9d3",
+  "url": "https://pressball.by/news/football/istochnik-3-mesyatsa-v-yuni-iks-labs-ne-platyat-zarplatu",
+  "ord_in_thread": 0,
+  "author": "Вадим САЛЕЕВ",
+  "published": "2025-06-26T11:14:37.274+03:00",
+  "title": "Источник: 3 месяца в \"Юни Икс Лабс\" не платят зарплату",
+  "text": "Новичок первой лиги «Юни Икс Лабс» испытывает серьезные проблемы с финансами.\nКак сообщает источник, 3 месяца составляет задолженность по заработной плате и долги за аренду стадиона «Динамо-Юни». Отмечается, что в клубе уверены, что в ближайшее время команде закроют все долги.\nПока же «айтишники» обратились к «Лиде» и «Слониму» с просьбой провести матчи 14 и 16 тура не дома, а в гостях. Эта просьба была удовлетворена.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Social Issue", "Health", "Education"],
+  "topics": [
+    "Social Issue->social condition",
+    "Social Issue->poverty",
+    "Health->health care approach",
+    "Health->public health",
+    "Health->health organisation",
+    "Education->teachers",
+    "Education->vocational education",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T11:14:37.274+03:00",
+  "updated": "2025-06-26T08:20:21.000+00:00"
+}

@@ -1,0 +1,150 @@
+{
+  "thread": {
+    "uuid": "ca2327e7f0a2cb7b22291049e05fef980f384269",
+    "url": "https://www.eecs.mit.edu/2025-26-eecs-faculty-award-roundup/",
+    "site_full": "www.eecs.mit.edu",
+    "site": "mit.edu",
+    "site_section": "https://www.eecs.mit.edu/feed",
+    "site_categories": ["graduate_school", "education"],
+    "section_title": "MIT EECS",
+    "site_title": null,
+    "title": "2025-26 EECS Faculty Award Roundup",
+    "title_full": "2025-26 EECS Faculty Award Roundup",
+    "published": "2025-09-17T21:06:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 230,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ca2327e7f0a2cb7b22291049e05fef980f384269",
+  "url": "https://www.eecs.mit.edu/2025-26-eecs-faculty-award-roundup/",
+  "ord_in_thread": 0,
+  "author": "Jane Halpern September ; Department; Computer Science",
+  "published": "2025-09-17T21:06:00.000+03:00",
+  "title": "2025-26 EECS Faculty Award Roundup",
+  "text": "2025-26 EECS Faculty Award Roundup\nThis ongoing listing of awards and recognitions won by our faculty is added to all year, beginning in September.\nSamantha Coday, Assistant Professor, was awarded the NSF CAREER Award for her project, “Flexible, Efficient, and Dense Power Converters Enabling a More Electric Future”.\nChristina Delimitrou, Associate Professor, was awarded the inaugural 2025 Google ML and Systems Junior Faculty Award.\nJoel Emer, Professor of the Practice in EECS, was awarded the 2025 Alan D. Berenbaum Distinguished Service Award from ACM SIGARCH.\nNidhi Seethapathi, Assistant Professor, was named to MIT Technology review’s list of “2025 Innovators under 35”.\nJustin Solomon, Associate Professor of EECS, was named to the 2025 cohort of Schmidt Science Polymaths.\nRyan Williams, Professor of EECS, was awarded Best Paper at STOC 2025 for his paper, “Simulating Time With Square-Root Space”.\nMedia Inquiries\nJournalists seeking information about EECS, or interviews with EECS faculty members, should email eecs-communications@mit.edu.\nPlease note: The EECS Communications Office only handles media inquiries related to MIT’s Department of Electrical Engineering & Computer Science. Please visit other school, department, laboratory, or center websites to locate their dedicated media-relations teams.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Politics", "Social Issue"],
+  "topics": [
+    "Education->college and university",
+    "Education->teachers",
+    "Education->educational grading",
+    "Politics->education policy",
+    "Politics->government",
+    "Social Issue->demographics",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://blog.google/products/google-cloud/ml-systems-junior-faculty-awards/",
+    "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2442118&HistoricalAwards=false",
+    "https://www.sigarch.org/benefit/awards/acm-sigarch-distinguished-service-award/",
+    "https://acm-stoc.org/stoc2025/STOCprogram.html",
+    "https://www.schmidtsciences.org/eight-scientists-named-2025-schmidt-polymaths-to-tackle-breakthroughs-in-new-disciplines/",
+    "https://www.technologyreview.com/innovator/nidhi-seethapathi/",
+    "https://dl.acm.org/doi/10.1145/3717823.3718225",
+    "https://technologyreview.com/innovator/nidhi-seethapathi/",
+    "https://www.dl.acm.org/doi/10.1145/3717823.3718225",
+    "https://www.blog.google/products/google-cloud/ml-systems-junior-faculty-awards/",
+    "https://schmidtsciences.org/eight-scientists-named-2025-schmidt-polymaths-to-tackle-breakthroughs-in-new-disciplines/",
+    "https://www.schmidtsciences.org/eight-scientists-named-2025-schmidt-polymaths-to-tackle-breakthroughs-in-new-disciplines",
+    "https://sigarch.org/benefit/awards/acm-sigarch-distinguished-service-award/",
+    "https://www.technologyreview.com/innovator/nidhi-seethapathi",
+    "https://blog.google/products/google-cloud/ml-systems-junior-faculty-awards",
+    "https://www.nsf.gov/awardsearch/showAward",
+    "https://www.acm-stoc.org/stoc2025/STOCprogram.html",
+    "https://nsf.gov/awardsearch/showAward?AWD_ID=2442118&HistoricalAwards=false",
+    "https://www.sigarch.org/benefit/awards/acm-sigarch-distinguished-service-award"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Christina Delimitrou",
+        "sentiment": "none"
+      },
+      {
+        "name": "Nidhi Seethapathi",
+        "sentiment": "none"
+      },
+      {
+        "name": "Alan D. Berenbaum",
+        "sentiment": "none"
+      },
+      {
+        "name": "Justin Solomon",
+        "sentiment": "none"
+      },
+      {
+        "name": "Samantha Coday",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ryan Williams",
+        "sentiment": "none"
+      },
+      {
+        "name": "Joel Emer",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "EECS Communications Office",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "MIT Technology",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:36:33.696+03:00",
+  "updated": "2025-09-18T07:45:08.000+03:00"
+}

@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "76f854a9c24cd4431265231682c7b92583ef2d0e",
+    "url": "https://www.2news.com/news/prescribed-burn-in-dog-valley-affecting-our-air-quality/article_4b4be655-00ab-47fb-a161-fe08e980f828.html",
+    "site_full": "www.2news.com",
+    "site": "2news.com",
+    "site_section": "https://2news.com/news/local",
+    "site_categories": [],
+    "section_title": "Local News | 2news.com",
+    "site_title": "2news.com",
+    "title": "Prescribed burn in Dog Valley affecting our air quality | News | 2news.com",
+    "title_full": "Prescribed burn in Dog Valley affecting our air quality | News | 2news.com",
+    "published": "2025-05-08T02:11:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 26161,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "76f854a9c24cd4431265231682c7b92583ef2d0e",
+  "url": "https://www.2news.com/news/prescribed-burn-in-dog-valley-affecting-our-air-quality/article_4b4be655-00ab-47fb-a161-fe08e980f828.html",
+  "ord_in_thread": 0,
+  "author": "Alexandra Rae",
+  "published": "2025-05-08T02:11:00.000+03:00",
+  "title": "Prescribed burn in Dog Valley affecting our air quality | News | 2news.com",
+  "text": "Since May 6th, 2025, there has been an active prescribed burn in Dog Valley.\nWith all the smoke noticeable in the air, the public is asked not to call 911 because of it, as these prescribed burns are being monitored and will be seen throughout the week.\nEven though the smoke may be inconvenient, it has a purpose.\nAccording to the Humboldt-Toiyabe National Forest U.S. Department of Agriculture, prescribed fire is a critical tool to reduce the threat of high-severity wildfires, prevent insect and disease outbreaks, recycle nutrients that increase soil productivity, and improve wildlife habitat.\nFor this burn, weather permitting, fire crews plan on burning around 657 acres.\nAngela Schilling, one of our meteorologists here at 2 News Nevada, told us more about how the smoke may react in the coming days.\n\"The main thing is at night we don't get a lot of wind, and so during the day usually our winds pick up, and that can kind of mix everything around, but at night when you don't have a lot of wind, basically what happens is all the smoke and everything can settle at the bottom, kind of like if you think about if you have a glass and have something heavier like dirt, then you have water above. Basically during the day if you have wind, you mix it up and everything, but during the night it just sits at the bottom, so that's what's been happening.\"\nShe also mentions, \"During the day, even just with the sun coming up and it heats the surface, what happens with that is it can also break apart inversion as well; it's usually with wind, and an inversion is basically like a cap, so it's a lid, and that smoke and the haze sit there at night, but if you have wind or daytime heating and everything, it can break it apart.\"\nAs for the health of the community and people being affected by the smoke, everyone can be affected, but specifically those who are in sensitive groups, including all children, people with heart and lung disease, and very active adults, can be affected, especially if you're outside.\nBrendan Schnieder, a senior air quality specialist, tells us, \"Especially those that have asthma, heart conditions can be more affected by smoky conditions.\"\nBut he explains that there are things you can do to help stay out of the smoke.\n\"We always ask residents whenever it's smoky outside to be smoke smart, stay indoors if you can reduce activity, and make sure you're paying attention to airnow.gov. We send out air data there every hour of every day.\"\nAirNow also has fire and smoke maps, and if you want to check out the air quality, click here.\nSchnieder also tells us more about prescribed burns: \"Prescribed burns are meant to help make our forests healthier; they are sort of a short-time nuisance—they can cause air quality concerns temporarily, but they're designed to prevent severe wildfires that can impact us throughout the entire summer.\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->environmental pollution",
+    "Environment->air pollution"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.airnow.gov/",
+    "http://airnow.gov",
+    "http://www.airnow.gov",
+    "https://www.airnow.gov",
+    "https://airnow.gov/"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Angela Schilling",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Dog",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Humboldt-Toiyabe National Forest U.S. Department of Agriculture",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:21:23.479+03:00",
+  "updated": "2025-05-08T00:26:10.000+00:00"
+}

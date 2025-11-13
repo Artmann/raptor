@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "21c14a119a958d3bd66e044bdfc57f39cd459761",
+    "url": "https://www.lbc.co.uk/news/ambulance-passenger-90s-killed-crash/",
+    "site_full": "www.lbc.co.uk",
+    "site": "lbc.co.uk",
+    "site_section": "https://www.lbc.co.uk/news",
+    "site_categories": ["media"],
+    "section_title": "Latest Breaking News headlines and opinion | LBC",
+    "title": "Ambulance passenger in his 90s killed in horror crash that also left driver of other car... - LBC",
+    "title_full": "Ambulance passenger in his 90s killed in horror crash that also left driver of other car... - LBC",
+    "published": "2023-12-28T23:59:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "https://images.lbc.co.uk/images/624608?width=1200&crop=16_9&signature=BERh46wJlTKfxWI7c1SYlJ8saLg=",
+    "performance_score": 0,
+    "domain_rank": 9528,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "21c14a119a958d3bd66e044bdfc57f39cd459761",
+  "url": "https://www.lbc.co.uk/news/ambulance-passenger-90s-killed-crash/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Kit Heren",
+  "published": "2023-12-28T23:59:00.000+02:00",
+  "title": "Ambulance passenger in his 90s killed in horror crash that also left driver of other car... - LBC",
+  "text": "[ Nick Abbot ](/radio/presenters/nick-abbot/) 10pm - 1am Ambulance passenger in his 90s killed in horror crash that also left driver of other car dead 28 December 2023, 21:59 A man being transported in an ambulance has been killed in a crash with a car whose driver, a woman in her 70s, also died. Listen to this article Loading audio... Emergency services were called to the B1506 Bury Road, between Newmarket and Kentford, at about 7.30pm on December 19. One of those killed was a woman in her 70s, who was driving the car, a blue Volkswagen Golf. [Read more: 'Good Samaritan' father-of-two killed in car ram attack in front of children after stopping to help stranger](/news/sheffield-father-of-two-killed-car-ram-helping-stranger/) [Read more: Three men die after 4x4 plunges into North Yorkshire river amid strong winds and rain brought by Storm Gerrit](/news/three-men-die-after-4x4-plunges-into-north-yorkshire-river-gerrit/) The other was a man in his 90s, a passenger in the ambulance, who died after being taken to Addenbrooke's Hospital, Suffolk Police said. The female ambulance driver suffered serious injuries and was also taken to hospital. The second passenger, a woman, sustained minor injuries. Firefighters and ambulances were in attendance, as well as police, as they conducted their investigations. The road was closed temporarily on the evening of December 19, and drivers were advised to find alternative routes. Police are appealing for witnesses, who can call 101, quoting SC-19122023-302.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Disaster and Accident", "Human Interest"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "nick abbot",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "lbc",
+        "sentiment": "negative"
+      },
+      {
+        "name": "addenbrooke's hospital",
+        "sentiment": "none"
+      },
+      {
+        "name": "suffolk police",
+        "sentiment": "none"
+      },
+      {
+        "name": "volkswagen golf",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "yorkshire",
+        "sentiment": "none"
+      },
+      {
+        "name": "newmarket",
+        "sentiment": "none"
+      },
+      {
+        "name": "kentford",
+        "sentiment": "none"
+      },
+      {
+        "name": "north yorkshire",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:38:43.110+02:00",
+  "updated": "2023-12-29T00:38:43.110+02:00"
+}

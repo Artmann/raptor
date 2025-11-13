@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "a5d2475de63fb944cd5d7599710012635a9f6417",
+    "url": "https://www.augsburger-allgemeine.de/bayern/fruehe-psychische-erkrankungen-bei-kindern-experte-warnt-vor-zu-spaeter-hilfe-109558074",
+    "site_full": "www.augsburger-allgemeine.de",
+    "site": "augsburger-allgemeine.de",
+    "site_section": "https://www.augsburger-allgemeine.de/augsburg",
+    "site_categories": [
+      "media",
+      "job_search",
+      "jobs",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "Augsburg: News &amp; Nachrichten aktuell | Augsburger Allgemeine ",
+    "site_title": "Augsburger Allgemeine: Aktuelle Nachrichten und Hintergründe",
+    "title": "Frühe psychische Erkrankungen bei Kindern: Experte warnt vor zu später Hilfe",
+    "title_full": "Frühe psychische Erkrankungen bei Kindern: Experte warnt vor zu später Hilfe",
+    "published": "2025-06-26T07:39:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://images.mgpd.de/img/100841005/crop/c16_9-w1200/1911267701/203177429/depressionen-bei-schuelern.jpg",
+    "performance_score": 0,
+    "domain_rank": 5750,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a5d2475de63fb944cd5d7599710012635a9f6417",
+  "url": "https://www.augsburger-allgemeine.de/bayern/fruehe-psychische-erkrankungen-bei-kindern-experte-warnt-vor-zu-spaeter-hilfe-109558074",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T07:39:00.000+03:00",
+  "title": "Frühe psychische Erkrankungen bei Kindern: Experte warnt vor zu später Hilfe",
+  "text": "Herr Professor Schulte-Körne, gerade ist wieder eine Diskussion entbrannt, ob Kinder und Jugendliche einen besseren Schutz im Umgang mit sozialen Medien brauchen. Sie sind der Direktor der Klinik für Kinder- und Jugendpsychiatrie an der LMU in München - machen soziale Medien Kinder und Jugendliche krank?\nPROF. DR. GERD SCHULTE-KÖRNE: So einfach kann man das nicht sagen. Erschreckend ist die viele Zeit, die Kinder und Jugendliche heute vor dem Smartphone und damit meist in den sozialen Medien verbringen. Entscheidend ist: Welche Funktionen übernehmen die sozialen Medien? Da beobachten wir ja seit der Corona-Pandemie , dass sich der soziale Austausch ins Digitale verlagert. Und damit können Kompetenzen im sozialen Austausch verloren gehen, weil es natürlich einen Unterschied macht, ob ich jemanden persönlich treffe oder mich mit ihm nur digital austausche. Was uns aus medizinischer Sicht am meisten beunruhigt, sind die vielen Fehlinformationen über Erkrankungen in den sozialen Medien, etwa über Symptome, aber auch die Verbreitung von Idealen, was den eigenen Körper angeht.\nSie meinen beispielsweise die vielen Tipps zum Abnehmen , oder?\nSCHULTE-KÖRNE: Die sind gerade für Mädchen sehr gefährlich. Denn sie finden diese Informationen in der Pubertät vor, in einer Zeit, in der sich der Körper verändert und man nach Anerkennung, nach Erfolg sucht. Und ihnen wird erklärt, dass sie nur toll sind, wenn sie das eine oder andere Produkt verwenden oder ein bestimmtes Schönheitsideal erreichen. Was die Sache überdies so gefährlich macht: Die Auseinandersetzung findet in einem isolierten Raum statt.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Health", "Social Issue", "Education"],
+  "topics": [
+    "Health->mental health and disorder",
+    "Health->health organisation",
+    "Health->medical profession",
+    "Social Issue->disabilities",
+    "Social Issue->children",
+    "Social Issue->social services",
+    "Education->teachers",
+    "Education->students",
+    "Education->early childhood education"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Schulte-Körne",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "München",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "LMU",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T07:48:54.094+03:00",
+  "updated": "2025-06-26T05:01:48.000+00:00"
+}

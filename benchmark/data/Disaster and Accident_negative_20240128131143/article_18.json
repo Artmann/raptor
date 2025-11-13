@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "bb3b107af94b8a4600a5dc5c775f1faa961c85fd",
+    "url": "https://www.afr.com/markets/commodities/oil-declines-as-us-stockpile-data-paints-mixed-demand-picture-20231229-p5eu4p",
+    "site_full": "www.afr.com",
+    "site": "afr.com",
+    "site_section": "https://afr.com/companies/infrastructure",
+    "site_categories": ["financial_news", "finance"],
+    "section_title": "Infrastructure | Latest News &amp; Analysis | The Australian Financial Review | AFR",
+    "title": "Oil declines as US stockpile data paints mixed demand picture",
+    "title_full": "Oil declines as US stockpile data paints mixed demand picture",
+    "published": "2023-12-28T12:42:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://static.ffx.io/images/$zoom_0.8563%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_2041%2C$y_847/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/958a51e9842a51353b817309ba0c43cef6f0e4a0",
+    "performance_score": 0,
+    "domain_rank": 1981,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bb3b107af94b8a4600a5dc5c775f1faa961c85fd",
+  "url": "https://www.afr.com/markets/commodities/oil-declines-as-us-stockpile-data-paints-mixed-demand-picture-20231229-p5eu4p",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Mia Gindis and Alex Longley",
+  "published": "2023-12-28T12:42:00.000+02:00",
+  "title": "Oil declines as US stockpile data paints mixed demand picture",
+  "text": "Oil retreated for the fourth time in five sessions as rising inventories at the key US storage hub in Cushing, Oklahoma, partly offset a drop in national stockpiles to paint a mixed picture for demand.\nWest Texas Intermediate slipped 3.2 per cent to settle below $US72 a barrel after rising to the highest since November earlier this week. US government data showed that national crude stockpiles fell 7.1 million barrels, the biggest one-week decline since August. But inventories at Cushing held steady at the highest level since the same month.\nBrent slid 1.6 per cent to $US78.39 a barrel.\nFutures volumes have remained low during this holiday week, with trading activity below the 50-day average in the last eight sessions. Timespreads continue to flash short-term supply weakness.\nThe build at Cushing “along with a mild winter is keeping prices subdued”, said Dennis Kissler, senior vice president at BOK Financial. But mostly, Thursday’s choppy trading can be attributed to thin holiday volumes, with technical selling driving oil lower as prices breach moving average indicators, he added.\nGlobal oil demand growth could decline to 1.1 million barrels per day in 2024 in part because of improved fuel efficiency and higher penetration of renewables, according to a note from BOCI Global Commodities. But some traders are sceptical that the demand outlook is bleak enough to justify this level of market pessimism.\nCrude has risen 6 per cent since its December low as Houthi attacks on vessels in the Red Sea forced tankers and other ships to divert on longer voyages, boosting costs. Despite a US-led task force to protect the key waterway, nearly half of the container-ship fleet that regularly passes through the Red Sea is currently avoiding the route.\nBloomberg\nSave Log in or Subscribe to save article\nShare Introducing your Newsfeed\nFollow the topics, people and companies that matter to you.\nFind out more\nRead More Energy\nOil\nLatest In Commodities Fetching latest articles\nMost Viewed In Markets",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "dennis kissler",
+        "sentiment": "none"
+      },
+      {
+        "name": "cushing",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cushing",
+        "sentiment": "none"
+      },
+      {
+        "name": "bok financial",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "us",
+        "sentiment": "none"
+      },
+      {
+        "name": "oklahoma",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:01:36.359+02:00",
+  "updated": "2023-12-29T00:01:36.359+02:00"
+}

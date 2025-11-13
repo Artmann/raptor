@@ -1,0 +1,110 @@
+{
+  "thread": {
+    "uuid": "3752b63148ddb8d40814e772aeb714dbe2ef5387",
+    "url": "https://www.dawn.com/news/1909284/world-energy-methane-emissions-near-record-high-in-2024-iea",
+    "site_full": "www.dawn.com",
+    "site": "dawn.com",
+    "site_section": "http://www.dawn.com/world",
+    "site_categories": [
+      "media",
+      "top_news_in",
+      "top_news_pk",
+      "top_news_ae",
+      "top_news_qa",
+      "top_news_sa",
+      "top_news"
+    ],
+    "section_title": "World - DAWN.COM",
+    "site_title": "Home - DAWN.COM",
+    "title": "World energy methane emissions near record high in 2024: IEA",
+    "title_full": "World energy methane emissions near record high in 2024: IEA",
+    "published": "2025-05-08T03:06:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PK",
+    "main_image": "https://www.dawn.com/_img/social-default.jpg",
+    "performance_score": 0,
+    "domain_rank": 3010,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3752b63148ddb8d40814e772aeb714dbe2ef5387",
+  "url": "https://www.dawn.com/news/1909284/world-energy-methane-emissions-near-record-high-in-2024-iea",
+  "ord_in_thread": 0,
+  "author": "AFP",
+  "published": "2025-05-08T03:06:00.000+03:00",
+  "title": "World energy methane emissions near record high in 2024: IEA",
+  "text": "PARIS: Record fossil fuel production kept planet-heating methane emissions near historic highs last year, the International Energy Agency said on Wednesday, warning of a surge in massive leaks from oil and gas facilities.\nSlashing emissions of methane — second only to carbon dioxide for its contribution to global warming — is essential to meeting international targets on climate change and one of the fastest ways to curb temperature rise. But the IEA warned that countries are considerably underestimating their energy sector methane pollution, estimating that emissions are around 80 percent higher than the total reported by governments to the United Nations.\nThe energy sector is responsible for around a third of the methane emitted by human activities. It leaks from gas pipelines and other energy infrastructure, and is also deliberately released during equipment maintenance. Tackling this is considered one of the easiest ways to lower emissions because plugging leaks can often be done at little or no cost.\n“However, the latest data indicates that implementation on methane has continued to fall short of ambitions,” said IEA Executive Director Fatih Birol.\n‘Super-emitters’\nThe IEA’s Global Methane Tracker report said over 120 million tonnes was released from the fossil fuel sector in 2024, close to the record high in 2019. China has the largest energy methane emissions globally, mainly from its coal sector.\nThe United States follows in second, driven by its oil and gas sector, with Russia third. The IEA said its figures are based on measured data where possible, compared to emissions reported by governments, which can be outdated or estimated using information from the energy sector. Global methane emissions are becoming easier to monitor from space, with more than 25 satellites tracking gas plumes from fossil fuel facilities and other sources.\nThe IEA said that Europe’s Sentinel 5 satellite, which just sees the very largest leaks, showed that “super-emitting methane events” at oil and gas facilities rose to a record high in 2024. These huge leaks were observed all over the world, but particularly in the United States, Turkmenistan and Russia.\nAbandoned oil and gas wells, and coal mines are also significant sources of methane leaking into the atmosphere, the IEA said in new analysis for this year’s report. When taken together they would be the “world’s fourth-largest emitter of fossil fuel methane”, accounting for some eight million tonnes last year.\n‘Tremendous impact’\nSome 40pc of methane emissions come from natural sources, mainly wetlands. The rest are from human activities, particularly agriculture and the energy sector. Because methane is potent but relatively short-lived it is a key target for countries wanting to slash emissions quickly.\nMore than 150 countries have promised a 30pc reduction by 2030. Oil and gas firms have meanwhile pledged to slash methane emissions by 2050. The IEA estimated that cutting methane released by the fossil fuel sector would significantly slow global warming, preventing a roughly 0.1 degree Celsius rise in global temperatures by 2050.\n“This would have a tremendous impact — comparable to eliminating all CO2 emissions from the world’s heavy industry in one stroke,” the report said.\nPublished in Dawn, May 8th, 2025",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue"],
+  "topics": [
+    "Environment->global warming",
+    "Environment->energy resources",
+    "Environment->environmental pollution",
+    "Social Issue->social condition",
+    "Social Issue->social problem",
+    "Social Issue->population and census"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "International Energy Agency",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "United Nations",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "IEA",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "right",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:24:34.613+03:00",
+  "updated": "2025-05-08T01:29:36.000+00:00"
+}

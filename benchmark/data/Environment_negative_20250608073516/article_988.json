@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "21b8e0cffee558b82087b066160e2da890dd21e5",
+    "url": "https://news.tvbs.com.tw/life/2863494",
+    "site_full": "news.tvbs.com.tw",
+    "site": "tvbs.com.tw",
+    "site_section": "https://news.tvbs.com.tw/web_api/play_feed_realtime",
+    "site_categories": ["media"],
+    "section_title": "TVBS 新聞網",
+    "site_title": null,
+    "title": "核三廠停機、全台「用肺發電」？彭啓明：火力發電汙染僅2.3%│TVBS新聞網",
+    "title_full": "核三廠停機、全台「用肺發電」？彭啓明：火力發電汙染僅2.3%│TVBS新聞網",
+    "published": "2025-05-08T06:16:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://cc.tvbs.com.tw/img/upload/2025/05/08/20250508110024-6c975a04.jpg",
+    "performance_score": 0,
+    "domain_rank": 16606,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "21b8e0cffee558b82087b066160e2da890dd21e5",
+  "url": "https://news.tvbs.com.tw/life/2863494",
+  "ord_in_thread": 0,
+  "author": "萬紹安",
+  "published": "2025-05-08T06:16:00.000+03:00",
+  "title": "核三廠停機、全台「用肺發電」？彭啓明：火力發電汙染僅2.3%│TVBS新聞網",
+  "text": "核三廠二號機將於17日正式停機，據環境部統計，屆時全台火力發電將達84%，空氣汙染議題成為焦點；環境部長彭啓明表示，目前全台PM2.5平均12.8微克，空品僅次日本；其中，因火力發電造成的空氣汙染僅占比2.3%，對於核能轉火力造成的環境危害，彭坦言國人過度憂心。\n環境部長彭啓明登上資深媒體人黃暐瀚網路節目，談及核三廠二號機將於本月17日正式停機，據統計，屆時全台火力發電占比將達到84%，也令不少民眾憂心空氣品質變差，恐「用肺發電」，對此彭啓明表示，目前全台灣空氣汙染源統計，工業源占比10.7%、交通源占12.2%、逸散源（即車輛行駛、施工等等行為）占26.6%，最重汙染源為「境外傳輸」高達46.6%，細究因「電力」產生的汙染源占比為2.3%。\n彭啓明進一步指出，由核電轉換火力發電，其所產生的汙染僅增加0.03微克，且減少的備轉容量率大概是3％左右，對環境影響及用電量，應不會造成過度影響；國人過度憂心。\n同時，彭啓明也說到，目前台灣平均PM2.5來到12.8微克，自2016年起推傳統車輛改裝、鼓勵電動車等政策，空品開始明顯改善；從亞洲國家來看，僅有日本比我們略低，平均10微克左右，彭亦表示，希望2030年可以降到10、2035年降到10以下。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Environment", "Politics", "Social Issue"],
+  "topics": [
+    "Environment->environmental pollution",
+    "Environment->air pollution",
+    "Environment->energy resources",
+    "Politics->government",
+    "Politics->government policy",
+    "Politics->environmental policy",
+    "Social Issue->demographics",
+    "Social Issue->social condition",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T07:00:20.706+03:00",
+  "updated": "2025-05-08T04:04:22.000+00:00"
+}

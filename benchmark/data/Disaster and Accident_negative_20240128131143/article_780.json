@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "b4981ab16d3ff03aee49838400c41ab1de02a7f2",
+    "url": "https://www.odt.co.nz/news/australia/more-severe-weather-way-after-deadly-storms-hit-australia",
+    "site_full": "www.odt.co.nz",
+    "site": "odt.co.nz",
+    "site_section": "http://www.odt.co.nz/news/feed",
+    "site_categories": ["media", "travel", "australia_and_new_zealand"],
+    "section_title": "Otago Daily Times Online News",
+    "title": "More severe weather on way after deadly storms hit Australia",
+    "title_full": "More severe weather on way after deadly storms hit Australia",
+    "published": "2023-12-28T11:56:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NZ",
+    "main_image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2023/12/lightning_sig.jpg?itok=gk4sGPdE",
+    "performance_score": 0,
+    "domain_rank": 11294,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b4981ab16d3ff03aee49838400c41ab1de02a7f2",
+  "url": "https://www.odt.co.nz/news/australia/more-severe-weather-way-after-deadly-storms-hit-australia",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@odtnews",
+  "published": "2023-12-28T11:56:00.000+02:00",
+  "title": "More severe weather on way after deadly storms hit Australia",
+  "text": "You are not permitted to download, save or email this image. Visit [image gallery](/image_purchases) to purchase the image. New Year's Eve could be a wet one for parts of eastern Australia, with more severe weather forecast for the weekend. The Bureau of Meteorology says widespread showers and possibly thunderstorms are set to return to New South Wales and Queensland from Friday. Northeast NSW will bear the brunt of the rain in that state, with isolated and possibly severe thunderstorms into Sunday. Scattered showers are forecast for the remainder of the coast, with the chance of storms. Queensland is also expected to be hit by wet weather, with isolated showers and thunderstorms forecast across much of the state on Saturday, apart from the far southwest. \"Severe thunderstorms are possible ... between St Lawrence and Redcliffe, although activity will not be as widespread compared to previous days,\" according to senior meteorologist Sarah Scully. Isolated gusty thunderstorms are also possible over western South Australia. Showers and storms are a chance across parts of southern and eastern Australia on Friday, mainly NSW, eastern South Australia, and northern Victoria, Ms Scully said. There is a risk of severe thunderstorms about Sydney, the Blue Mountains and the Hunter regions. \"Severe thunderstorms will become more widespread from this weekend,\" she said. \"The focus areas will be northeast NSW and southeast and central Queensland. \"There are indications that isolated, very dangerous thunderstorms with destructive winds, giant hail and intense rainfall may be possible across southeast Queensland on Saturday.\" Storms and flash flooding across southeast Queensland have claimed seven lives since Christmas and caused significant damage to homes and infrastructure. Thousands of people remain without power in dangerous heatwave conditions not expected to ease until Saturday. Wild weather has also ravaged NSW and Victoria, with three people killed by flash flooding and a falling branch on Boxing Day.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Weather", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "sarah scully",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "bureau of meteorology",
+        "sentiment": "none"
+      },
+      {
+        "name": "redcliffe",
+        "sentiment": "none"
+      },
+      {
+        "name": "northeast nsw",
+        "sentiment": "none"
+      },
+      {
+        "name": "st lawrence",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "australia",
+        "sentiment": "none"
+      },
+      {
+        "name": "new south wales",
+        "sentiment": "none"
+      },
+      {
+        "name": "queensland",
+        "sentiment": "none"
+      },
+      {
+        "name": "south australia",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:14:25.812+02:00",
+  "updated": "2023-12-29T02:54:49.704+02:00"
+}

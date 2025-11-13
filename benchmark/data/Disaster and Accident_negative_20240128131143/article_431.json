@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "31be782d9055b12407e0bae40ecb03c2f33f3986",
+    "url": "https://www.kwqc.com/2023/12/28/crews-respond-apartment-fire-wednesday/",
+    "site_full": "www.kwqc.com",
+    "site": "kwqc.com",
+    "site_section": "http://www.kwqc.com/news",
+    "site_categories": ["media"],
+    "section_title": "News",
+    "title": "Crews respond to Davenport apartment fire Wednesday",
+    "title_full": "Crews respond to Davenport apartment fire Wednesday",
+    "published": "2023-12-28T23:25:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-kwqc-prod.cdn.arcpublishing.com/resizer/v2/6VHMTJE3F5BUNLNFOCKVQMKO54.jpg?auth=035463b9b3f02cf92e7e52789d6e441558af489eea246d942492edc59c6c8fb8&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 27131,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "31be782d9055b12407e0bae40ecb03c2f33f3986",
+  "url": "https://www.kwqc.com/2023/12/28/crews-respond-apartment-fire-wednesday/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@kwqcnews",
+  "published": "2023-12-28T23:25:00.000+02:00",
+  "title": "Crews respond to Davenport apartment fire Wednesday",
+  "text": "Crews respond to Davenport apartment fire Wednesday DAVENPORT, Iowa (KWQC) - Crews respond to an apartment fire Wednesday in Davenport. The Davenport Fire Department responded around 4:48 p.m. Wednesday to an apartment fire in the 700 Block of Vine Street, according to a media release. Crews said it was reported a Christmas tree was on fire inside one of the apartments. The first arriving unit advised a small, two-story, multi-family apartment building with nothing showing. After some investigating, crews found heavy smoke conditions inside one of the apartments, firefighters said. Crews attacked from within with a hose line and found a room and contents fire crews quickly extinguished. According to firefighters, all apartments were searched, and all occupants were all outside upon the department’s arrival. No injuries were reported. The fire was contained to the apartment of origin with no extension into the structure itself. Crews were on the scene for about 90 minutes before returning to service, firefighters said. The Red Cross was called to assist one man who was displaced by the fire. MidAmerican Energy assisted with controlling utilities. According to crews, the cause of the fire is under investigation. Copyright 2023 KWQC. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Human Interest", "Disaster and Accident", "Social Issue"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "davenport",
+        "sentiment": "neutral"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "red cross",
+        "sentiment": "none"
+      },
+      {
+        "name": "davenport fire department",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "iowa",
+        "sentiment": "none"
+      },
+      {
+        "name": "davenport",
+        "sentiment": "none"
+      },
+      {
+        "name": "davenport",
+        "sentiment": "none"
+      },
+      {
+        "name": "vine street",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:36:40.447+02:00",
+  "updated": "2023-12-29T00:36:40.447+02:00"
+}

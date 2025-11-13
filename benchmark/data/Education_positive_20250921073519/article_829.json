@@ -1,0 +1,110 @@
+{
+  "thread": {
+    "uuid": "edad385b23863decf58645422daf5d88735da57f",
+    "url": "https://learn.scu.edu.au/?new_loc=/ultra/organizations/_151932_1/cl/outline",
+    "site_full": "learn.scu.edu.au",
+    "site": "scu.edu.au",
+    "site_section": "https://learn.scu.edu.au",
+    "site_categories": [],
+    "section_title": "Blackboard Learn",
+    "site_title": "Blackboard Learn",
+    "title": "Blackboard Learn",
+    "title_full": "Blackboard Learn",
+    "published": "2025-09-08T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 36917,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "edad385b23863decf58645422daf5d88735da57f",
+  "url": "https://learn.scu.edu.au/?new_loc=/ultra/organizations/_151932_1/cl/outline",
+  "ord_in_thread": 0,
+  "author": "Blackboard",
+  "published": "2025-09-08T03:00:00.000+03:00",
+  "title": "Blackboard Learn",
+  "text": "🎓 New to SCU? Let’s Set You Up for Success! 🌟\nAt Southern Cross University, we’re here to support you—not just in your studies, but as a valued member of our inclusive and respectful community. 💛🌏\n✅ To get started, all new students must complete both:\n🚨 Important: If you don’t complete both by the end of your first study period, you won’t be able to continue your course. This includes:\n🎯 Exemptions: HDR and SCU College Language Program students only need to complete the Respect at SCU Module.\n💡 Pro Tip: Complete both modules early to avoid interruptions and start your classes smoothly!\n📍 Access them in MySCU (Blackboard) under First Year Induction (FYI) Module: Step 3 once you're enrolled.\nLet’s make your SCU journey a great one—start strong, stay on track and be a respectful part of our community! 💛📘\nPALS Peer Support Check-in online appointments are available to all enrolled SCU students, Monday to Friday, 5.30pm or 6.00pm AEST (QLD) time.\nBecause PALS Mentors are students just like you, they understand your study challenges and have some great solutions to help keep you on track. PALS Mentors can help with your assessment preparation, understanding rubrics and referencing, planning and time management.\nReach out if you are feeling stuck or isolated in your studies and get study help from a fellow student. Simply book a PALS Peer Support Check-in on your preferred day and time by clicking on this link",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Education->college and university",
+    "Education->students",
+    "Human Interest->graduation",
+    "Lifestyle and Leisure->exercise and fitness",
+    "Lifestyle and Leisure->lifestyle",
+    "Lifestyle and Leisure->wellness"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Southern Cross University",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "SCU College Language Program",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "HDR",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:06:43.810+03:00",
+  "updated": "2025-09-18T09:17:56.000+03:00"
+}

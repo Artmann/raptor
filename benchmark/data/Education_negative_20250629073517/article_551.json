@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "e1d6eafce12642a0ebbe763a61920e5e95ec5e72",
+    "url": "https://www.universiteitleiden.nl/en/in-the-media/2025/06/top-dutch-youth-protection-body-falls-short",
+    "site_full": "www.universiteitleiden.nl",
+    "site": "universiteitleiden.nl",
+    "site_section": "https://www.universiteitleiden.nl/en/in-the-media",
+    "site_categories": ["graduate_school", "education", "distance_learning"],
+    "section_title": "In the media - Leiden University",
+    "site_title": "Home - Universiteit Leiden",
+    "title": "Top Dutch youth protection body falls short - Leiden University",
+    "title_full": "Top Dutch youth protection body falls short - Leiden University",
+    "published": "2025-06-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "NL",
+    "main_image": "https://www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/law/mc/idm_bruning-inspectierapport.png/idm_bruning-inspectierapport.png/d600x315",
+    "performance_score": 0,
+    "domain_rank": 4626,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e1d6eafce12642a0ebbe763a61920e5e95ec5e72",
+  "url": "https://www.universiteitleiden.nl/en/in-the-media/2025/06/top-dutch-youth-protection-body-falls-short",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-25T03:00:00.000+03:00",
+  "title": "Top Dutch youth protection body falls short - Leiden University",
+  "text": "Top Dutch youth protection body falls short\nIn the media image: Marina Shatskih via Unsplash\nInspectors say the William Schrikker Foundation, a leading Dutch youth protection agency, is failing in its duties. Child law professor Mariëlle Bruning told NOS: ‘It is shocking that there is insufficient oversight of children’s safety.’\nA critical inspection report has found that the William Schrikker Foundation (WSS), one of the largest youth protection organisations in the Netherlands, is performing ‘largely inadequately’. The investigation was prompted by the case of a foster girl in Vlaardingen who was severely abused last year. An earlier inspection had already concluded that serious mistakes had been made by youth care organisations. In the new report, the ‘inspectie Gezondheidszorg’ and ‘Jeugd en de Inspectie Justitie en Veiligheid’ assessed the functioning of WSS. ‘I believe the inspectors are very clear,’ said Professor Mariëlle Bruning. ‘They state that children under youth protection orders issued by the court are currently not being adequately safeguarded. That also means there is insufficient oversight of their safety. That is deeply concerning.’\nWSS will not face sanctions, due to severe staff shortages and a lack of available youth care services. According to Professor Bruning, the absence of sanctions is linked to the fact that these shortages are beyond the organisation’s control. ‘But it is, of course, unimaginable that in the Netherlands we have been acknowledging for nearly three years that young people deemed in need of protection by the courts are not being adequately safeguarded. And yet we simply carry on as if that is acceptable.’\nMore information?\nCheck out the full NOS news broadcast (in Dutch)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Social Issue", "Education"],
+  "topics": [
+    "Social Issue->children",
+    "Social Issue->social services",
+    "Social Issue->demographics",
+    "Education->educational grading",
+    "Education->parents group",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.inspectie-jenv.nl/actueel/nieuws/2025/06/17/inspecties-jeugdbescherming-en-jeugdreclassering-bij-de-william-schrikker-stichting-grotendeels-onvoldoende",
+    "https://npo.nl/start/serie/nos-journaal/seizoen-25_11/nos-journaal_99648/afspelen",
+    "https://inspectie-jenv.nl/actueel/nieuws/2025/06/17/inspecties-jeugdbescherming-en-jeugdreclassering-bij-de-william-schrikker-stichting-grotendeels-onvoldoende",
+    "https://www.npo.nl/start/serie/nos-journaal/seizoen-25_11/nos-journaal_99648/afspelen"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mariëlle Bruning",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Leiden University",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T12:58:23.052+03:00",
+  "updated": "2025-06-26T10:11:11.000+00:00"
+}

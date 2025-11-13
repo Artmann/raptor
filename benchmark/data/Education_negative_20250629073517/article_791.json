@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "7aa56a19ec19533df30bc046338bed72442fabd4",
+    "url": "https://svpressa.ru/society/news/470077",
+    "site_full": "svpressa.ru",
+    "site": "svpressa.ru",
+    "site_section": "https://svpressa.ru/society",
+    "site_categories": [
+      "media",
+      "law_government_and_politics",
+      "politics",
+      "top_news_cz",
+      "top_news_ru",
+      "top_news"
+    ],
+    "section_title": "Современное общество и пути решения проблем | Свободная Пресса",
+    "site_title": "Свободная Пресса - общественно-политическое интернет-издание",
+    "title": "Российским школьникам вновь начнут ставить оценки за поведение",
+    "title_full": "Российским школьникам вновь начнут ставить оценки за поведение",
+    "published": "2025-06-26T14:24:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://svpressa.ru/p/47/470/470077/p-470077.jpg",
+    "performance_score": 0,
+    "domain_rank": 12461,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7aa56a19ec19533df30bc046338bed72442fabd4",
+  "url": "https://svpressa.ru/society/news/470077",
+  "ord_in_thread": 0,
+  "author": "@svpressa",
+  "published": "2025-06-26T14:24:00.000+03:00",
+  "title": "Российским школьникам вновь начнут ставить оценки за поведение",
+  "text": "Российским школьникам вновь начнут ставить оценки за поведение\nМинпросвещения РФ объявило о запуске пилотного проекта по введению оценок за поведение в российских школах. Как сообщается в телеграм-канале ведомства, классные руководители будут выставлять эти оценки с учетом мнения других педагогов и администрации учебного заведения.\n«Предлагается, что оценку поведения будет выставлять классный руководитель с учетом мнения педагогов, которые работают с ребенком, и администрации образовательной организации», — говорится в сообщении.\nЭксперимент охватит 84 школы в различных регионах, включая Новгородскую, Ярославскую, Тульскую, Ленинградскую области, ЛНР, Чеченскую Республику и Мордовию. Оценки будут ставить с 1 по 8 класс в течение всего учебного года, исключив выпускные классы, чтобы не создавать дополнительную нагрузку перед экзаменами.\nКак пояснила замминистра просвещения Ольга Колударова, в перспективе оценка за поведение может быть включена в документы об окончании школы. Цель нововведения — стимулировать просоциальное поведение учащихся, приобщение к традиционным ценностям и снижение числа случаев девиантного поведения.\nРанее в Минпромторге сообщили, что контроль за упакованной водой и молочной продукцией в детских садах и школах станет обязательным.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->students",
+    "Education->educational grading",
+    "Social Issue->social condition",
+    "Social Issue->social services",
+    "Social Issue->children"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_cz", "top_news_ru", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:45:04.562+03:00",
+  "updated": "2025-06-27T12:09:48.000+00:00"
+}

@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "c8cd98c57aac6cb24c57d318de46e72d7c4fe84d",
+    "url": "http://news.yunnan.cn/system/2025/10/16/033687622.shtml",
+    "site_full": "news.yunnan.cn",
+    "site": "yunnan.cn",
+    "site_section": "http://news.yunnan.cn",
+    "site_categories": ["media"],
+    "section_title": "新闻频道_云南网",
+    "site_title": null,
+    "title": "鄱阳湖湖区通江水体面积突破2500平方公里_国内_新闻频道_云南网",
+    "title_full": "鄱阳湖湖区通江水体面积突破2500平方公里_国内_新闻频道_云南网",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 71229,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c8cd98c57aac6cb24c57d318de46e72d7c4fe84d",
+  "url": "http://news.yunnan.cn/system/2025/10/16/033687622.shtml",
+  "ord_in_thread": 0,
+  "author": "www.yunnan.cn,云南日报报业集团,云南网",
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "鄱阳湖湖区通江水体面积突破2500平方公里_国内_新闻频道_云南网",
+  "text": "原标题：鄱阳湖湖区通江水体面积突破2500平方公里\n央视网消息 近期，受“五湖入河”及上游来水等因素共同影响，我国第一大淡水湖鄱阳湖水位持续上涨。截至10月15日8时，鄱阳湖星子站水位达14.75米，湖区通江水体面积扩大至2520平方公里，比去年同期增加2250平方公里；水体容积69亿立方米，同比增加60.3亿立方米。（总台记者 杜曦晨 汪星宇）",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->water", "Environment->natural resources"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:46:21.300+03:00",
+  "updated": "2025-10-16T14:02:55.000+03:00"
+}

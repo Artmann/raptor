@@ -1,0 +1,133 @@
+{
+  "thread": {
+    "uuid": "dc734f549f6c0a7afeffdc8b492a8fd743fae311",
+    "url": "https://www.cbsnews.com/sacramento/news/search-on-for-sacramento-state-arson-suspect/",
+    "site_full": "www.cbsnews.com",
+    "site": "cbsnews.com",
+    "site_section": "https://automotive.einnews.com:443/live_feed",
+    "site_categories": ["media", "television", "entertainment"],
+    "section_title": "Live Feed Wire - Automotive Industry Today - EIN Presswire",
+    "title": "Search on for Sacramento State arson suspect - CBS Sacramento",
+    "title_full": "Search on for Sacramento State arson suspect - CBS Sacramento",
+    "published": "2023-12-28T21:45:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/12/28/261572b0-48f0-4880-bee4-e114d9447dac/thumbnail/1200x630/37d060b9625b30bfbee58fb14c4e43c8/arson-suspect.png?v=5382e209c94ee904b3a96a69f8ca0ce0",
+    "performance_score": 0,
+    "domain_rank": 187,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "dc734f549f6c0a7afeffdc8b492a8fd743fae311",
+  "url": "https://www.cbsnews.com/sacramento/news/search-on-for-sacramento-state-arson-suspect/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Brandon Downs",
+  "published": "2023-12-28T21:45:00.000+02:00",
+  "title": "Search on for Sacramento State arson suspect - CBS Sacramento",
+  "text": "SACRAMENTO - Authorities are searching for a man they say is suspected of starting a fire on the Sacramento State campus earlier this month.\nShortly before 7 p.m. on Dec. 10, the Sacramento Fire Department responded to Sacramento State for a report of a fire. Cal Fire said the fire was confirmed to be arson on state property.\nAccording to the Sacramento State Police Department's crime page , a report of arson was recorded at Hornet Stadium at the same time.\nCal Fire said the arson suspect was identified as 33-year-old Cody Haney. An arrest warrant was issued by the Sacramento County District Attorney's Office.\nHaney is about 5'06\", 165 lbs., with blonde hair and blue eyes.\nHe was seen wearing a beige hoodie, blue vest, camouflage pants, brown boots and a blue/pink colored Fila backpack.\nCal Fire said Haney is possibly armed with knives and people should not attempt to contact him.\nAnyone who locates Haney is urged to contact the arson and bomb unit at (213) 302-5855 or arsonbomb@fire.ca.gov . People can also call crime stopped at 1(800)-AA-CRIME.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Human Interest",
+    "Disaster and Accident",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [
+    "https://csus.crimegraphics.com/2013/default.aspx",
+    "https://twitter.com/downsbrandon2",
+    "https://www.twitter.com/downsbrandon2",
+    "https://www.csus.crimegraphics.com/2013/default.aspx"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "cody haney",
+        "sentiment": "none"
+      },
+      {
+        "name": "haney",
+        "sentiment": "none"
+      },
+      {
+        "name": "brandon do",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "sacramento state",
+        "sentiment": "negative"
+      },
+      {
+        "name": "cbs",
+        "sentiment": "negative"
+      },
+      {
+        "name": "sacramento fire department",
+        "sentiment": "none"
+      },
+      {
+        "name": "arson sacramento state",
+        "sentiment": "none"
+      },
+      {
+        "name": "cal fire",
+        "sentiment": "none"
+      },
+      {
+        "name": "fila",
+        "sentiment": "none"
+      },
+      {
+        "name": "sacramento state police department",
+        "sentiment": "none"
+      },
+      {
+        "name": "sacramento county district attorney's office",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "sacramento sacramento",
+        "sentiment": "none"
+      },
+      {
+        "name": "hornet stadium",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:52:03.741+02:00",
+  "updated": "2023-12-29T13:23:43.255+02:00"
+}

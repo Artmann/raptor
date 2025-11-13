@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "367567ef63933855fb060d88208f6a6b992a6a20",
+    "url": "https://www.skysports.com/football/manchester-united-vs-rangers/report/521865",
+    "site_full": "www.skysports.com",
+    "site": "skysports.com",
+    "site_section": "http://www.skysports.com/rss/0,,11095,00.xml",
+    "site_categories": ["sports"],
+    "section_title": "SkySports | News",
+    "title": "Man Utd 2-1 Rangers: Bruno Fernandes scores stoppage-time winner after Cyriel Dessers equalised late on",
+    "title_full": "Man Utd 2-1 Rangers: Bruno Fernandes scores stoppage-time winner after Cyriel Dessers equalised late on",
+    "published": "2025-01-23T23:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "https://e0.365dm.com/25/01/1600x900/skysports-bruno-fernandes-manchester_6808807.jpg?20250123220838",
+    "performance_score": 0,
+    "domain_rank": 2038,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "367567ef63933855fb060d88208f6a6b992a6a20",
+  "url": "https://www.skysports.com/football/manchester-united-vs-rangers/report/521865",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Adam Bate",
+  "published": "2025-01-23T23:00:00.000+02:00",
+  "title": "Man Utd 2-1 Rangers: Bruno Fernandes scores stoppage-time winner after Cyriel Dessers equalised late on",
+  "text": "Manchester United vs Rangers. UEFA Europa League.\nOld Trafford.\nManchester United\n2\n- J Butland (52nd minute own goal)\n- B Fernandes (92nd minute)\nRangers\n1\n- C Dessers (88th minute)\nMan Utd 2-1 Rangers: Bruno Fernandes scores stoppage-time winner after Cyriel Dessers equalised late on\nMatch report as Bruno Fernandes scores a 92nd-minute winner to put Manchester United on the brink of progression to the round of 16 in the Europa League following a 2-1 win over Rangers at Old Trafford; Cyriel Dessers had cancelled out Jack Butland's own goal just minutes earlier\nThursday 23 January 2025 22:23, UK\nBruno Fernandes scored a stoppage-time winner for Manchester United as they beat Rangers 2-1 at Old Trafford despite Cyriel Dessers’ late equaliser.\nThe Rangers forward had looked to have secured a point for the Scottish club in the 88th minute when he sensationally bested Harry Maguire to score a beautiful goal and cancel out Jack Butland's earlier own goal but Fernandes then volleyed in superbly to secure victory.\nThe points move United up to fourth in the league phase. For all their Premier League struggles, Ruben Amorim's side are unbeaten after seven fixtures in Europe and a result away to Steaua Bucharest next week will ensure a top-eight finish that bypasses the play-off round. Rangers, now 14th, look almost sure to be in it.\nHow it happened\nIt was Butland, a boyhood United supporter, who had looked to have provided the game's defining moment when he punched Christian Eriksen's corner into his own net early in the second half to seemingly undermine his side's spirited resistance.\nBut Rangers, who had the better chances in the first half despite Matthijs de Ligt having a goal disallowed, kept pushing for an equaliser. They found it through Dessers' dramatic finish to the delight of the vocal away support but there was a twist.\nAmorim's comments at the weekend about this being the worst-ever United team had put the spotlight on the players but United showed character to find the winner. Lisandro Martinez's angled ball found its way to the captain, who made no mistake.\nIt was cruel on Rangers but it was also a much-needed magical moment at Old Trafford for a team that had lost four of their previous five games inside this stadium. Far from convincing, of course. But still capable of making this old stadium roar with delight.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->regular competition",
+    "Sport->soccer",
+    "Sport->sport event",
+    "Lifestyle and Leisure->exercise and fitness",
+    "Lifestyle and Leisure->lifestyle",
+    "Lifestyle and Leisure->game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Bruno Fernandes",
+        "sentiment": "negative"
+      },
+      {
+        "name": "J Butland",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Harry Maguire",
+        "sentiment": "none"
+      },
+      {
+        "name": "Jack Butland",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Manchester United vs Rangers",
+        "sentiment": "negative"
+      },
+      {
+        "name": "UEFA Europa League",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Rangers",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Old Trafford",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:31:30.196+02:00",
+  "updated": "2025-01-24T00:31:30.196+02:00"
+}

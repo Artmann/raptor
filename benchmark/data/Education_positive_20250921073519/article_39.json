@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "8d5e2dc769a0746eb83ab8d89f8e349798c2af58",
+    "url": "https://www.newsbreak.com/news/4240588814502-cal-poly-universities-embrace-ai-tools-including-chatgpt-for-student-use",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/salyer-ca",
+    "site_categories": ["under_construction"],
+    "section_title": "Salyer, CA Local News and More | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Cal Poly universities embrace AI tools, including ChatGPT, for student use - NewsBreak",
+    "title_full": "Cal Poly universities embrace AI tools, including ChatGPT, for student use - NewsBreak",
+    "published": "2025-09-18T01:54:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/1kjQ3A_14pv7wtX00",
+    "performance_score": 0,
+    "domain_rank": 2819,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8d5e2dc769a0746eb83ab8d89f8e349798c2af58",
+  "url": "https://www.newsbreak.com/news/4240588814502-cal-poly-universities-embrace-ai-tools-including-chatgpt-for-student-use",
+  "ord_in_thread": 0,
+  "author": "Veonna King",
+  "published": "2025-09-18T01:54:00.000+03:00",
+  "title": "Cal Poly universities embrace AI tools, including ChatGPT, for student use - NewsBreak",
+  "text": "krcrtv.com\nwebsite\nArcata\nCal Poly universities embrace AI tools, including ChatGPT, for student use\nBy Veonna King,\n5 hours agoARCATA, Calif. — Cal Poly universities are adapting to the times by integrating artificial intelligence tools, such as ChatGPT, across all campuses, including Humboldt. This shift is prompting educators to rethink their teaching methods. \"ChatGPT and other AIs can really challenge what goes on in the classroom, and it...\n2",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Education", "Human Interest"],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->information technology and computer science",
+    "Education->college and university",
+    "Education->students",
+    "Education->online and remote learning",
+    "Human Interest->record and achievement"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Veonna King",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": ["Salyer"],
+      "state": ["California"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:38:42.439+03:00",
+  "updated": "2025-09-18T07:45:44.000+03:00"
+}

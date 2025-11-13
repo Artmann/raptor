@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "ab3c7a33ff9fc3f0247d9c3908f2ee99027bcff2",
+    "url": "https://www.weser-kurier.de/deutschland-welt/geringere-grundsteuer-fuer-alte-haeuser-land-dagegen-doc8153dvuzwmvsajbqknw",
+    "site_full": "www.weser-kurier.de",
+    "site": "weser-kurier.de",
+    "site_section": "https://www.weser-kurier.de/landkreis-verden/gemeinde-langwedel",
+    "site_categories": [
+      "non_standard_content",
+      "adult",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "Gemeinde-Langwedel | Nachrichten aktuell",
+    "site_title": "Nachrichten aus Bremen & Niedersachsen",
+    "title": "Geringere Grundsteuer für alte Häuser? Land dagegen",
+    "title_full": "Geringere Grundsteuer für alte Häuser? Land dagegen",
+    "published": "2025-06-19T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://img.weser-kurier.de/image/029a-1e08cf210f9e-9370f41f059d-1000/1200,16-9,med,50,50,1_2048_1235_2048_1152_1_0_0_1_0_-41.5/Landscapegrundsteuer.webp",
+    "performance_score": 0,
+    "domain_rank": 15207,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ab3c7a33ff9fc3f0247d9c3908f2ee99027bcff2",
+  "url": "https://www.weser-kurier.de/deutschland-welt/geringere-grundsteuer-fuer-alte-haeuser-land-dagegen-doc8153dvuzwmvsajbqknw",
+  "ord_in_thread": 0,
+  "author": "dpa",
+  "published": "2025-06-19T03:00:00.000+03:00",
+  "title": "Geringere Grundsteuer für alte Häuser? Land dagegen",
+  "text": "Bei der Grundsteuer in Niedersachsen sollte nach Ansicht des Eigentümerverbands Haus und Grund künftig auch das Baujahr einer Immobilie berücksichtigt werden. Ältere Gebäude seien häufig nicht so wertvoll wie Neubauten, zudem erforderten sie mehr Maßnahmen zur Instandhaltung, argumentiert der Verband. Je älter ein Haus, desto geringer solle daher die Grundsteuer ausfallen. Bei Neubauten von 2022 und jünger soll dem Vorschlag zufolge keine Korrektur vorgenommen werden. Bei älteren Gebäuden soll aber stufenweise ein Alterswertfaktor die Steuerlast mindern, bis hin zu einem Faktor von 0,3 für Gebäuden von 1972 und älter. „Dieses Verfahren bildet den wahren Wert der Steuerobjekte viel besser ab“, teilte Haus und Grund mit. Derzeit läuft für den Alterswertfaktor auch eine Petition an den Landtag. Mit etwas mehr als 400 Unterschriften liegt diese bislang aber deutlich unter der Marke von 5.000 Mitzeichnungen, die nötig wäre, damit der Petitionsausschuss des Landtags sich in einer öffentlichen Anhörung mit dem Vorschlag befasst. Das Finanzministerium in Hannover winkt indes schon jetzt ab: Das Konzept eines Alterswertfaktors passe nicht zum niedersächsischen Grundsteuermodell und habe „keine Aussicht auf eine zukünftige Berücksichtigung“, heißt es. Denn: In Niedersachsen werde die Steuerbelastung nicht nach dem Wert des Grundstücks verteilt, sondern nach dem Nutzen für die Besitzer. Bemessen wird der Nutzen dabei zum einen nach der Fläche und zum anderen nach der Lage innerhalb der Gemeinde. Das ist das sogenannte Flächen-Lage-Modell. Die Lagefaktoren sollen dabei aber nicht den Wert der Bebauung widerspiegeln, sondern die Teilhabe an der kommunalen Leistung – etwa durch kürzere Wege und bessere Erreichbarkeit. Die Einführung eines Alterswertfaktors sei darüber hinaus auch unpraktikabel, weil sie mehr als drei Millionen Grundstücke betreffen würde, so das Finanzressort. Für diese müssten auch Regelungen etwa für unterschiedlich alte Gebäudeteile und Sanierungen getroffen werden. „Dies würde die Abgabe einer zusätzlichen Erklärung nach sich ziehen, wonach das zur Reform erforderliche Massenverfahren erneut durchgeführt werden müsste“, erklärt das Ministerium.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Politics", "Economy, Business and Finance", "Social Issue"],
+  "topics": [
+    "Politics->taxation",
+    "Politics->local government policy",
+    "Politics->government policy",
+    "Economy, Business and Finance->construction and property",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->economy",
+    "Social Issue->social services",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Niedersachsen",
+        "sentiment": "none"
+      },
+      {
+        "name": "Hannover",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:43:21.834+03:00",
+  "updated": "2025-06-20T05:08:39.000+00:00"
+}

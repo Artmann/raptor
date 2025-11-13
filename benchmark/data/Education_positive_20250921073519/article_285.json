@@ -1,0 +1,119 @@
+{
+  "thread": {
+    "uuid": "3be0e2f8c67a99e416c8f0d67e28cf8a4b9d23af",
+    "url": "https://article.wn.com/view/2025/09/18/AIChE_Awards_Its_2025_Langer_Prize_to_Mark_Blenner_of_the_Un/",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/it\\",
+    "site_categories": ["media"],
+    "section_title": "WN - it\\",
+    "site_title": "World News",
+    "title": "AIChE Awards Its 2025 Langer Prize to Mark Blenner of the University of Delaware (AIChE - American Institute of Chemical Engineers) - Worldnews.com",
+    "title_full": "AIChE Awards Its 2025 Langer Prize to Mark Blenner of the University of Delaware (AIChE - American Institute of Chemical Engineers) - Worldnews.com",
+    "published": "2025-09-18T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 8219,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3be0e2f8c67a99e416c8f0d67e28cf8a4b9d23af",
+  "url": "https://article.wn.com/view/2025/09/18/AIChE_Awards_Its_2025_Langer_Prize_to_Mark_Blenner_of_the_Un/",
+  "ord_in_thread": 0,
+  "author": "System",
+  "published": "2025-09-18T03:00:00.000+03:00",
+  "title": "AIChE Awards Its 2025 Langer Prize to Mark Blenner of the University of Delaware (AIChE - American Institute of Chemical Engineers) - Worldnews.com",
+  "text": ") Grant from chemical engineering society will support researcher's work to create cost-effective and value-generating solutions for microplastics recovery, degradation, and upcycling. The American Institute of Chemical Engineers (AIChE) will present its 2025 Langer Prize for Innovation and Entrepreneurial...\nread full story\nAsk about this article",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Education"],
+  "topics": [
+    "Science and Technology->scientific research",
+    "Science and Technology->chemistry",
+    "Science and Technology->biotechnology",
+    "Education->educational grading",
+    "Education->college and university",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.publicnow.com/view/87D6394E599CFC3C2073988CCD4D31877EE3A889?1758170824\n",
+    "https://www.publicnow.com/view/87D6394E599CFC3C2073988CCD4D31877EE3A889\n",
+    "https://publicnow.com/view/87D6394E599CFC3C2073988CCD4D31877EE3A889?1758170824\n"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mark Blenner",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "American Institute of Chemical Engineers",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "University of Delaware",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:04:51.523+03:00",
+  "updated": "2025-09-18T08:24:43.000+03:00"
+}

@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "bf6c90000beb81743eab74b7250e9d9e7458b45e",
+    "url": "https://www.newsbreak.com/ktar-news-560325/4075074989205-arizona-students-at-risk-as-president-trump-s-big-beautiful-bill-threatens-pell-grants",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://local.newsbreak.com/ktar-news-560325",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "KTAR News&#x27;s Home Page | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Arizona students at risk as President Trump's \"Big, Beautiful Bill\" threatens Pell Grants - NewsBreak",
+    "title_full": "Arizona students at risk as President Trump's \"Big, Beautiful Bill\" threatens Pell Grants - NewsBreak",
+    "published": "2025-06-26T15:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/0IEoSl_12B8I4pO00",
+    "performance_score": 0,
+    "domain_rank": 3213,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bf6c90000beb81743eab74b7250e9d9e7458b45e",
+  "url": "https://www.newsbreak.com/ktar-news-560325/4075074989205-arizona-students-at-risk-as-president-trump-s-big-beautiful-bill-threatens-pell-grants",
+  "ord_in_thread": 0,
+  "author": "SHIRA TANZER",
+  "published": "2025-06-26T15:00:00.000+03:00",
+  "title": "Arizona students at risk as President Trump's \"Big, Beautiful Bill\" threatens Pell Grants - NewsBreak",
+  "text": "Arizona\nArizona students at risk as President Trump’s “Big, Beautiful Bill” threatens Pell Grants\nBy SHIRA TANZER,\n1 hours agoPHOENIX — The U.S. House GOP budget proposal includes billions of dollars in cuts to Pell Grants, which could prevent Arizona students from pursuing post-secondary education. A Pell Grant is a form of need-based financial aid for college students that does not have to be repaid. Advocates with Education...",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education", "Politics", "Economy, Business and Finance"],
+  "topics": [
+    "Education->college and university",
+    "Education->educational testing and examinations",
+    "Education->students",
+    "Politics->government policy",
+    "Politics->political development",
+    "Politics->education policy",
+    "Economy, Business and Finance->financial service",
+    "Economy, Business and Finance->human resources"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Trump",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Arizona\nArizona",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T16:16:15.464+03:00",
+  "updated": "2025-06-26T13:27:09.000+00:00"
+}

@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "2f4d61b828d8b68f9a3923776aeaf3d0f4979213",
+    "url": "https://www.europapress.es/ciencia/cambio-climatico/noticia-segundo-abril-mas-calido-mantiene-temperaturas-subiendo-mas-15-20250508035947.html",
+    "site_full": "www.europapress.es",
+    "site": "europapress.es",
+    "site_section": "https://www.europapress.es/noticias",
+    "site_categories": ["media", "top_news_es", "top_news_pe", "top_news"],
+    "section_title": "\r\n\t Últimas Noticias - EUROPA PRESS\r\n",
+    "site_title": "Europa Press -  Agencia de noticias",
+    "title": "El segundo abril más cálido mantiene temperaturas subiendo más de 1,5º",
+    "title_full": "El segundo abril más cálido mantiene temperaturas subiendo más de 1,5º",
+    "published": "2025-05-08T04:59:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://img.europapress.es/fotoweb/fotonoticia_20250508035947_1200.jpg",
+    "performance_score": 0,
+    "domain_rank": 2631,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "shares": 2
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2f4d61b828d8b68f9a3923776aeaf3d0f4979213",
+  "url": "https://www.europapress.es/ciencia/cambio-climatico/noticia-segundo-abril-mas-calido-mantiene-temperaturas-subiendo-mas-15-20250508035947.html",
+  "ord_in_thread": 0,
+  "author": "Europa Press",
+  "published": "2025-05-08T04:59:00.000+03:00",
+  "title": "El segundo abril más cálido mantiene temperaturas subiendo más de 1,5º",
+  "text": "MADRID, 8 May. (EUROPA PRESS) -\n Abril de 2025 fue el segundo abril más cálido a nivel mundial, con una temperatura superficial del aire promedio de 14,96° Celsius, 0,60 °C por encima de la media de abril de 1991-2020.\n Así lo establece el último boletín mensual publicado por el Servicio de Cambio Climático de Copernicus (C3S) , implementado por el Centro Europeo de Previsiones Meteorológicas a Plazo Medio.\n El pasado mes fue 0,07 °C más frío que el abril récord de 2024 y 0,07 °C más cálido que el tercer abril más cálido de 2016. Superó en 1,51 °C el promedio estimado para el período 1850-1900 utilizado para definir el nivel preindustrial y fue el vigésimo primer mes de los últimos 22 meses en el que la temperatura media global del aire en superficie superó en más de 1,5 °C el nivel preindustrial.\n El período de 12 meses de mayo de 2024 a abril de 2025 superó en 0,70 °C el promedio del período 1991-2020 y en 1,58 °C el nivel preindustrial.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment"],
+  "topics": [
+    "Weather->weather statistic",
+    "Environment->global warming",
+    "Environment->climate change"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "EUROPA PRESS",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Servicio de Cambio Climático de Copernicus",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:02:01.650+03:00",
+  "updated": "2025-05-08T03:08:35.000+00:00"
+}

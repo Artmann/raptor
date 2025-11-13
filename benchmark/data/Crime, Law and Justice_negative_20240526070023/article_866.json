@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "b98fc15b18d9413c17ead78d2f860474558ac7f9",
+    "url": "https://wgme.com/news/local/man-accused-of-crashing-into-police-cruiser-while-driving-wrong-way-in-westbrook-maine-crime-oui-william-clarke-drive-matthew-mcgovern-aggravated-driving-to-endanger-reckless-conduct-unlawful-possession-of-scheduled-drug",
+    "site_full": "wgme.com",
+    "site": "wgme.com",
+    "site_section": "https://wgme.com",
+    "site_categories": ["media"],
+    "section_title": "chevron-right",
+    "title": "chevron-right",
+    "title_full": "chevron-right",
+    "published": "2024-04-25T18:26:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://wgme.com/resources/media/9415fc2e-6a88-453c-ac02-e998a844be95-large16x9_MatthewMcGovern.jpg",
+    "performance_score": 0,
+    "domain_rank": 21734,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b98fc15b18d9413c17ead78d2f860474558ac7f9",
+  "url": "https://wgme.com/news/local/man-accused-of-crashing-into-police-cruiser-while-driving-wrong-way-in-westbrook-maine-crime-oui-william-clarke-drive-matthew-mcgovern-aggravated-driving-to-endanger-reckless-conduct-unlawful-possession-of-scheduled-drug",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Ariana St Pierre, WGME",
+  "published": "2024-04-25T18:26:00.000+03:00",
+  "title": "chevron-right",
+  "text": "WESTBROOK (WGME) – Authorities say a Maine man, who was under the influence, crashed into a police cruiser while driving the wrong way in Westbrook. Police say they received a report of an erratic driver on Stroudwater Street heading towards William Clarke Drive around 8:25 p.m. on Sunday. Police say officers spotted the vehicle driving the wrong way on William Clarke Drive, heading directly towards them. They activated their emergency lights, but the driver did not stop and crashed into them, according to police. Police say the push bumper on the cruiser absorbed the hit, and the officers were not injured. The officers arrested the driver, identified as 45-year-old Matthew McGovern of Westbrook. McGovern was charged with OUI, aggravated driving to endanger, reckless conduct, unlawful possession of scheduled drugs, and criminal mischief. He was taken to the Cumberland County Jail. Police say Westbrook officers made four OUI arrests over the weekend, including this crash. “As the weather gets nicer, we remind everyone to make smart choices and not getting behind the wheel if they are impaired by alcohol or drugs,” the Westbrook Police Department said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Health", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "westbrook",
+        "sentiment": "negative"
+      },
+      {
+        "name": "matthew mcgovern",
+        "sentiment": "none"
+      },
+      {
+        "name": "mcgovern",
+        "sentiment": "none"
+      },
+      {
+        "name": "william clarke drive",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "maine",
+        "sentiment": "none"
+      },
+      {
+        "name": "cumberland county jail",
+        "sentiment": "none"
+      },
+      {
+        "name": "stroudwater street",
+        "sentiment": "none"
+      },
+      {
+        "name": "westbrook",
+        "sentiment": "none"
+      },
+      {
+        "name": "william clarke drive",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:40:18.040+03:00",
+  "updated": "2024-04-26T00:40:18.040+03:00"
+}

@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "a3c6093c1b3d5ddfa610e29c6fba0a9d4de6e6cf",
+    "url": "https://www.cbsnews.com/baltimore/news/ai-expert-discusses-concerns-of-voice-cloning-after-arrest-of-baltimore-county-athletics-director",
+    "site_full": "www.cbsnews.com",
+    "site": "cbsnews.com",
+    "site_section": "https://www.cbsnews.com/baltimore",
+    "site_categories": ["media", "television", "entertainment", "top_news"],
+    "section_title": "CBS Baltimore - Breaking News, Sports, First Alert Weather &amp; Community Journalism",
+    "title": "AI expert discusses concerns of voice cloning after arrest of Baltimore County athletics director - CBS Baltimore",
+    "title_full": "AI expert discusses concerns of voice cloning after arrest of Baltimore County athletics director - CBS Baltimore",
+    "published": "2024-04-25T19:34:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/14/7b0656dd-1b90-40a5-8e0d-6005777b6c97/thumbnail/1200x630/1aaf892e4c6dc51cca7b0d0fbb376705/ap24059741756486.jpg?v=63c131a0051f3823d92b0d1dffb5e0e4",
+    "performance_score": 0,
+    "domain_rank": 188,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a3c6093c1b3d5ddfa610e29c6fba0a9d4de6e6cf",
+  "url": "https://www.cbsnews.com/baltimore/news/ai-expert-discusses-concerns-of-voice-cloning-after-arrest-of-baltimore-county-athletics-director",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-04-25T19:34:00.000+03:00",
+  "title": "AI expert discusses concerns of voice cloning after arrest of Baltimore County athletics director - CBS Baltimore",
+  "text": "By Alex Glaze\nApril 25, 2024 / 4:34 PM EDT / CBS Baltimore\nCBS News Live",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Social Issue", "Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://twitter.com/Alex_Glaze",
+    "https://www.twitter.com/Alex_Glaze"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "gabriella waters",
+        "sentiment": "none"
+      },
+      {
+        "name": "dazhon darien",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cbs baltimore baltimore",
+        "sentiment": "negative"
+      },
+      {
+        "name": "neurodiversity ai lab",
+        "sentiment": "none"
+      },
+      {
+        "name": "pikesville high school",
+        "sentiment": "none"
+      },
+      {
+        "name": "morgan state university",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "baltimore county",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:18:17.863+03:00",
+  "updated": "2024-04-26T02:25:12.049+03:00"
+}

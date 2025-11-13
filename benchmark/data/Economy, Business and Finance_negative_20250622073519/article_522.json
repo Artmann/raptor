@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "973b80753f3cc4aa8eb99487e569611f3a049446",
+    "url": "https://www.communicationstoday.co.in/wolfspeed-nears-bankruptcy-deal-with-lenders-including-apollo",
+    "site_full": "www.communicationstoday.co.in",
+    "site": "communicationstoday.co.in",
+    "site_section": "https://www.communicationstoday.co.in",
+    "site_categories": ["tech"],
+    "section_title": "India&#039;s leading telecom news website and magazine",
+    "site_title": "India&#039;s leading telecom news website and magazine",
+    "title": "Wolfspeed nears bankruptcy deal with lenders including Apollo",
+    "title_full": "Wolfspeed nears bankruptcy deal with lenders including Apollo",
+    "published": "2025-06-19T05:45:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 171082,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "973b80753f3cc4aa8eb99487e569611f3a049446",
+  "url": "https://www.communicationstoday.co.in/wolfspeed-nears-bankruptcy-deal-with-lenders-including-apollo",
+  "ord_in_thread": 0,
+  "author": "archit_tandon",
+  "published": "2025-06-19T05:45:00.000+03:00",
+  "title": "Wolfspeed nears bankruptcy deal with lenders including Apollo",
+  "text": "Wolfspeed will be taken over by creditors including Apollo Global Management under a proposal that would put the struggling chipmaker into bankruptcy, Bloomberg News reported on Wednesday, citing people familiar with the plan.\nThe company will soon announce a deal for a so-called prepackaged bankruptcy, that would be long enough to slash billions in debt, the report said. After a restructuring support agreement is signed, Wolfspeed will ask creditors to vote on the plan and then file for Chapter 11 bankruptcy protection.\nShares of Wolfspeed, which makes chips using silicon carbide — a more energy-efficient material than traditional silicon, rose about 3% to $1.29 on Wednesday. The stock had fallen about 81% so far this year.\nWolfspeed and Apollo did not immediately respond to Reuters requests for comment.\nThe chipmaker raised going-concern doubts earlier in May, as deepening economic uncertainty stemming from changing U.S. trade policies, combined with weakening demand, triggered a series of financial challenges for the company.\nAs of March, the company had about $1.33 billion in unrestricted cash, cash equivalents and short-term investments, and about $6.5 billion of debt obligations, it said in a regulatory filing in May.\nIn a prepackaged bankruptcy, companies and their creditors agree on a reorganization plan prior to the bankruptcy filing and creditors even vote on the plan.\nShareholders could recover as much as 5% in the proposed scenario, the report said. In a typical bankruptcy, shareholders are usually wiped out because creditors must be paid first, and there often is not enough value left for equity holders.\nIn 2023, Wolfspeed announced $1.25 billion in debt financing led by Apollo, with the option to increase the total to as much as $2 billion to support the company’s U.S. expansion plans. Reuters",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Politics", "Social Issue"],
+  "topics": [
+    "Economy, Business and Finance->business restructuring",
+    "Economy, Business and Finance->financial service",
+    "Economy, Business and Finance->mergers and acquisitions",
+    "Politics->economic policy",
+    "Politics->political crisis",
+    "Politics->government",
+    "Social Issue->social networking",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Apollo Global Management",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Bloomberg News",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Reuters",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:39:17.523+03:00",
+  "updated": "2025-06-19T04:43:00.000+00:00"
+}

@@ -1,0 +1,128 @@
+{
+  "thread": {
+    "uuid": "2e5c68a8413c8d66bc7fd896c613639a70102e21",
+    "url": "https://digital.abcaudio.com/news/university-idaho-murders-house-demolished-despite-mixed-feelings-families",
+    "site_full": "digital.abcaudio.com",
+    "site": "abcaudio.com",
+    "site_section": "http://www.kmaland.com/search/?q=&t=article&l=100&d=&d1=&d2=&s=start_time&sd=desc&nsa=eedition&c[]=news,news/*&f=rss",
+    "site_categories": [],
+    "section_title": "www.kmaland.com - RSS Results in news,news/* of type article",
+    "title": "University of Idaho murders: House demolition begins despite mixed feelings from families",
+    "title_full": "University of Idaho murders: House demolition begins despite mixed feelings from families",
+    "published": "2023-12-28T23:32:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 93463,
+    "domain_rank_updated": "2023-12-26T12:06:35.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2e5c68a8413c8d66bc7fd896c613639a70102e21",
+  "url": "https://digital.abcaudio.com/news/university-idaho-murders-house-demolished-despite-mixed-feelings-families",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Emily Shapiro, ABC News",
+  "published": "2023-12-28T23:32:00.000+02:00",
+  "title": "University of Idaho murders: House demolition begins despite mixed feelings from families",
+  "text": "(NEW YORK) -- The off-campus house where four University of Idaho students were killed was demolished on Thursday -- despite mixed feelings from victims' families.\nThe demolition began before the sun came up. The three-story house in Moscow, Idaho, was torn down in under two hours.\nThe excavator started by removing the siding and then the first level of the house. The giant claw then busted through the second level, following by the third level and the roof.\nMoscow Police Chief James Fry and officials from the university were among those at the scene.\nAbout eight dump trucks removed the debris and the cleanup process is now underway.\nThe gruesome crime unfolded in the early hours of Nov. 13, 2022, when roommates Kaylee Goncalves, Madison Mogen and Xana Kernodle, and Kernodle's boyfriend Ethan Chapin, were stabbed to death inside the girls' home. Two other roommates survived.\nThe suspect, Bryan Kohberger, who was a criminology Ph.D. student at nearby Washington State University at the time of the murders, was arrested weeks later. He has pleaded not guilty and is awaiting a trial date.\nUniversity officials said they decided to tear down the house during winter break to try \"to decrease further impact on the students who live in that area.\"\nKaylee Goncalves' family is firmly against knocking down the house at this time, saying doing so would \"destroy one of the most critical pieces of evidence in the case\" before a trial date is even set.\n\"It is obvious from the two recent visits to the house, by both the Prosecution and the Defense, that there is still evidentiary value in having the King Road house still standing. There may be additional discovery by either party that prompts one side or the other to go back to the scene of the crime,\" the Goncalves family said in a statement this month. \"Jurors are notoriously unpredictable and they tend to make decisions on a variety of facts and circumstances. It would be foolish of us to try and foresee what they will want or need to make a just verdict in this case.\"\n\"It’s like screaming into a void,\" the family said. \"Nobody is listening.\"\nThe Goncalves and Kernodle families issued a strong new statement on the eve of the demolition pushing for a trial date to be set and urging the university to not tear down the house until the trial is completed.\nThey cited eight reasons they say the house could hold evidentiary value for the trial, including: all of the entry and exit points in the home; where any potential biological evidence was found inside or outside the house; and if the house itself could have been a target for the crime.\nBut Ethan Chapin's parents said they're supportive of the demolition. Ethan was a triplet and his brother and sister are both current University of Idaho students.\nThe Chapins said the demolition is \"for the good of the University, its students (including our own kids), and the community of Moscow.\"\nUniversity President Scott Green said, \"While we appreciate the emotional connection some family members of the victims may have to this house, it is time for its removal and to allow the collective healing of our community to continue.\"\nThe university added, \"After the trial was delayed earlier this fall, both prosecution and defense asked for access to the house and have both gone into the house in the last two months. Neither has asked for the house to be retained.\"\nABC News' Julie Scott contributed to this report.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "madison mogen",
+        "sentiment": "none"
+      },
+      {
+        "name": "xana kernodle",
+        "sentiment": "none"
+      },
+      {
+        "name": "bryan kohberger",
+        "sentiment": "none"
+      },
+      {
+        "name": "kaylee goncalves",
+        "sentiment": "none"
+      },
+      {
+        "name": "ethan chapin",
+        "sentiment": "none"
+      },
+      {
+        "name": "kernodle",
+        "sentiment": "none"
+      },
+      {
+        "name": "james fry",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "house",
+        "sentiment": "negative"
+      },
+      {
+        "name": "university of idaho",
+        "sentiment": "negative"
+      },
+      {
+        "name": "state university",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "new york",
+        "sentiment": "none"
+      },
+      {
+        "name": "moscow",
+        "sentiment": "none"
+      },
+      {
+        "name": "idaho",
+        "sentiment": "none"
+      },
+      {
+        "name": "washington",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:24:45.900+02:00",
+  "updated": "2023-12-29T01:24:45.900+02:00"
+}

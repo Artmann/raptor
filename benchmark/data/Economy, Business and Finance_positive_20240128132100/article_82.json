@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "cfef6c8a33ba26623aca271d76e53cb782ecab11",
+    "url": "https://see.news/egyptian-economy-grows-38-despite-russian-ukrainian-crisis",
+    "site_full": "see.news",
+    "site": "see.news",
+    "site_section": "https://see.news/category/news",
+    "site_categories": ["media"],
+    "section_title": "News",
+    "title": "Egyptian Economy Grows 3.8% Despite Russian-Ukrainian Crisis | Sada Elbalad",
+    "title_full": "Egyptian Economy Grows 3.8% Despite Russian-Ukrainian Crisis | Sada Elbalad",
+    "published": "2023-12-28T23:44:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AL",
+    "main_image": "https://i2.wp.com/see.news/images/2023/12/-1703799882-0.jpg?resize=920%2C550&amp;ssl=1",
+    "performance_score": 0,
+    "domain_rank": 95914,
+    "domain_rank_updated": "2023-12-26T12:06:35.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cfef6c8a33ba26623aca271d76e53cb782ecab11",
+  "url": "https://see.news/egyptian-economy-grows-38-despite-russian-ukrainian-crisis",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@",
+  "published": "2023-12-28T23:44:00.000+02:00",
+  "title": "Egyptian Economy Grows 3.8% Despite Russian-Ukrainian Crisis | Sada Elbalad",
+  "text": "H-Tayea\nPrime Minister Dr. Mustafa Madbouly chaired a meeting of the economic ministerial group this evening to discuss and monitor several economic files.\nDuring the meeting, it was noted that despite the severe impacts of the \"Russian-Ukrainian\" crisis during the fiscal year 2022/2023, the Egyptian economy achieved a growth rate of approximately 3.8%. There was a strong emphasis on the intention to increase the growth rates of the Egyptian economy.\nPresidential Council spokesperson Mohamed El-Homsany highlighted that the meeting reviewed the performance indicators of the Egyptian economy across various economic sectors in the past period. The Prime Minister stressed the importance of exerting different efforts to achieve the state's goals in various fields and to continue the process of economic reform.\nThe spokesperson clarified that the most prominent economic activities that achieved positive growth rates in the first quarter of the current fiscal year include tourism (restaurants and hotels), the Suez Canal, telecommunications and information technology, social services (including health and education), and agriculture.\nExtended Background:\nEgypt's economic resilience amidst the Russian-Ukrainian crisis is noteworthy. The country's ability to maintain a positive growth trajectory, particularly in key sectors such as tourism, the Suez Canal, IT, social services, and agriculture, highlights the effectiveness of its economic policies and reform measures. The tourism sector, a significant contributor to Egypt's GDP, has shown remarkable recovery, benefiting from the easing of global travel restrictions post-pandemic. The Suez Canal, a critical global trade artery, continues to be a steady source of revenue, bolstered by the recent global shifts in trade routes and logistics.\nThe growth in telecommunications and IT reflects Egypt's ongoing efforts to enhance its digital infrastructure, aligning with the global trend towards a more digitally connected economy. The emphasis on social services, including health and education, indicates a commitment to improving the quality of life and human capital, which are essential for sustainable development.\nThe agriculture sector's growth is particularly significant, given its role in ensuring food security and employment in rural areas. This growth can be attributed to various government initiatives aimed at modernizing the sector and increasing its efficiency and productivity.\nOverall, Egypt's economic performance, in the face of global challenges, demonstrates its agility and the government's commitment to pursuing growth and stability. This trajectory is expected to bolster investor confidence and attract more foreign investment, further driving economic development in the country.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "sada elbalad h-tayea",
+        "sentiment": "negative"
+      },
+      {
+        "name": "mustafa madbouly",
+        "sentiment": "negative"
+      },
+      {
+        "name": "mohamed el-homsany",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "presidential council",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "suez canal",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:08:30.667+02:00",
+  "updated": "2023-12-29T00:08:30.667+02:00"
+}

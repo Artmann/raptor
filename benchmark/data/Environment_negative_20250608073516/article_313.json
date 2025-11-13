@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "b6aaeab2457f90ef02b37817839fd6351f74bb5d",
+    "url": "https://www.wgal.com/article/lancaster-county-ephrata-bad-odor-wastewater-treatment-plant/64705265",
+    "site_full": "www.wgal.com",
+    "site": "wgal.com",
+    "site_section": "https://www.wgal.com/topstories-rss",
+    "site_categories": ["media"],
+    "section_title": "Top Stories",
+    "site_title": "York, Lancaster and Harrisburg PA News, Weather and Sports - WGAL Channel 8",
+    "title": "Residents say Ephrata Borough stinks: How the borough is working to fix the problem",
+    "title_full": "Residents say Ephrata Borough stinks: How the borough is working to fix the problem",
+    "published": "2025-05-08T02:11:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://kubrick.htvapps.com/vidthumb/images/ephrata-wastewater-treatment-plant-681be84743a8c.jpg?crop=0.998661311914324xw:1xh;center,top&amp;resize=1200:*",
+    "performance_score": 0,
+    "domain_rank": 17905,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b6aaeab2457f90ef02b37817839fd6351f74bb5d",
+  "url": "https://www.wgal.com/article/lancaster-county-ephrata-bad-odor-wastewater-treatment-plant/64705265",
+  "ord_in_thread": 0,
+  "author": "Taylor Hess",
+  "published": "2025-05-08T02:11:00.000+03:00",
+  "title": "Residents say Ephrata Borough stinks: How the borough is working to fix the problem",
+  "text": "Ephrata residents complain about bad smell: How the borough is working to fix the problem\nYou may notice an unpleasant smell in a portion of Ephrata Borough.\nPeople who live in the area say the foul odor has been around for a little over a year and continues to get worse.\nOne resident said the stench rotates between smelling like a dirty diaper pail and rotten eggs.\nJohn Poucel, another borough resident, says, \"It smells ungodly. I don't know, but sometimes it's okay. And then also you start getting a whiff, and you're like, 'Where is this coming from?'\"\nThe borough says they are actively working to fix the stinky smell.\nThey say the wastewater plant located on the South Reading Road is to blame.\nIt's a plant that takes sewage and removes contaminants, making the waste safer for the environment.\nBut parts of the system were not functioning properly. The borough says they discovered this after an investigation last week, adding that is likely what's causing the rancid odor.\nThat system has been fixed, but it could take weeks for the smell to improve.\nThe facility was upgraded recently. And with the new technology, there can come some issues.\nEphrata Borough manager Nancy Harris says, \"It's the second plant in the U.S. That's processing human waste that way. And the first one on the East Coast. So we have some growing pains. And unfortunately, it's impacting the residents in the area.\"\nThe borough says they are continuing to investigate what is happening at the treatment plant and want residents to know they are taking their concerns seriously.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue"],
+  "topics": [
+    "Environment->air pollution",
+    "Environment->environmental pollution",
+    "Environment->sustainability",
+    "Social Issue->social problem",
+    "Social Issue->communities"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "John Poucel",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "South",
+        "sentiment": "none"
+      },
+      {
+        "name": "Road",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:15:56.249+03:00",
+  "updated": "2025-05-08T00:19:55.000+00:00"
+}

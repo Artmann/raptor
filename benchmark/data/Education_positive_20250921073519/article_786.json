@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "b056d737d34b322a85c0be86050019ceb306c52f",
+    "url": "https://www.radiobielefeld.de/nachrichten/am-puls-der-stadt/lokale-eilmeldung-2025-09-18-1758174968.html",
+    "site_full": "www.radiobielefeld.de",
+    "site": "radiobielefeld.de",
+    "site_section": "https://www.radiobielefeld.de/service/lifestyle-freizeit",
+    "site_categories": ["media"],
+    "section_title": "Lifestyle &amp; Freizeit  - Radio Bielefeld",
+    "site_title": "Radio Bielefeld – der beste Mix | Radio Bielefeld",
+    "title": "Ab heute gibt es die erste \"Schulstraße\" in Bielefeld. Wir sind bei der Eröffnung in Gadderbaum live dabei. Radio an! - Radio Bielefeld",
+    "title_full": "Ab heute gibt es die erste \"Schulstraße\" in Bielefeld. Wir sind bei der Eröffnung in Gadderbaum live dabei. Radio an! - Radio Bielefeld",
+    "published": "2025-09-18T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.radiobielefeld.de/fileadmin/eilmeldung/eilmeldungNews-lokale-eilmeldung.jpg",
+    "performance_score": 0,
+    "domain_rank": 159340,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b056d737d34b322a85c0be86050019ceb306c52f",
+  "url": "https://www.radiobielefeld.de/nachrichten/am-puls-der-stadt/lokale-eilmeldung-2025-09-18-1758174968.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T03:00:00.000+03:00",
+  "title": "Ab heute gibt es die erste \"Schulstraße\" in Bielefeld. Wir sind bei der Eröffnung in Gadderbaum live dabei. Radio an! - Radio Bielefeld",
+  "text": "Lokalnachrichten\nAb heute gibt es die erste \"Schulstraße\" in Bielefeld. Wir sind bei der Eröffnung in Gadderbaum live dabei. Radio an!\nLokalnachrichten\n\"Engpässe\" in Bielefeld: Neue Baustellen im Herbst\nLifestyle & Freizeit\nBerlin | Antikriegsfilm «Der Tiger»: Im Inneren des Panzers\nLifestyle & Freizeit\nMünchen | «Downton Abbey – Das große Finale» - Abschied mit Stil\nLifestyle & Freizeit\nBerlin | Zorn und Zärtlichkeit im Widerstreit: «Miroirs No. 3»\nLifestyle & Freizeit\nKöln | Schauspieler Michael Kessler fürchtet sich im dunklen Wald\nLifestyle & Freizeit",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": ["Education", "Lifestyle and Leisure", "Social Issue"],
+  "topics": [
+    "Education->school",
+    "Education->students",
+    "Education->educational grading",
+    "Lifestyle and Leisure->holiday",
+    "Lifestyle and Leisure->lifestyle",
+    "Social Issue->communities",
+    "Social Issue->social networking",
+    "Social Issue->children"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Michael Kessler",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Schulstraße",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bielefeld",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Lifestyle & Freizeit\nMünchen",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:00:42.758+03:00",
+  "updated": "2025-09-18T09:05:16.000+03:00"
+}

@@ -1,0 +1,129 @@
+{
+  "thread": {
+    "uuid": "4ed523e5b0dd4f125b4f4bd44029156ca07ffa4e",
+    "url": "https://www.2news.com/news/local/desert-research-institute-opens-new-stem-colab/video_e8bff327-21a6-517f-b390-79bc0320848c.html",
+    "site_full": "www.2news.com",
+    "site": "2news.com",
+    "site_section": "https://2news.com",
+    "site_categories": [],
+    "section_title": "2news.com",
+    "site_title": "2news.com",
+    "title": "Desert Research Institute opens new STEM CoLab | Local News | 2news.com",
+    "title_full": "Desert Research Institute opens new STEM CoLab | Local News | 2news.com",
+    "published": "2025-09-18T08:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/2news.com/content/tncms/assets/v3/editorial/e/8b/e8bff327-21a6-517f-b390-79bc0320848c/68cb9a382db5d.image.jpg?crop=1280%2C672%2C0%2C23&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 77362,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4ed523e5b0dd4f125b4f4bd44029156ca07ffa4e",
+  "url": "https://www.2news.com/news/local/desert-research-institute-opens-new-stem-colab/video_e8bff327-21a6-517f-b390-79bc0320848c.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T08:35:00.000+03:00",
+  "title": "Desert Research Institute opens new STEM CoLab | Local News | 2news.com",
+  "text": "Desert Research Institute opens new STEM CoLab Sep 17, 2025 Sep 17, 2025 Updated 22 mins ago Facebook Twitter WhatsApp SMS Email Print Copy article link Save On Wednesday, the Desert Research Institute held a grand opening for a new STEM CoLab. As featured on 1:11+2 Desert Research Institute opens new STEM CoLab On Wednesday, the Desert Research Institute held a grand opening for a new STEM CoLab. Facebook Twitter WhatsApp SMS Email Print Copy article link Save Watch 2 News Most Popular ArticlesSorry, there are no recent results for popular articles. VideosSorry, there are no recent results for popular videos.\n1:11+2 Desert Research Institute opens new STEM CoLab On Wednesday, the Desert Research Institute held a grand opening for a new STEM CoLab.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Education"],
+  "topics": [
+    "Science and Technology->scientific institution",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific research",
+    "Education->college and university",
+    "Education->vocational education",
+    "Education->students"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Desert Research Institute",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Facebook Twitter",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Lakeridge",
+        "Wells",
+        "Orovada",
+        "Fernley",
+        "Silver City",
+        "Carson City",
+        "East Valley",
+        "Lemmon Valley",
+        "Elko",
+        "Mogul",
+        "Mountain City",
+        "Reno",
+        "Washoe Valley",
+        "Verdi",
+        "Glenbrook",
+        "Lovelock",
+        "Winnemucca",
+        "Dayton",
+        "Sparks",
+        "Double Spring",
+        "Valmy",
+        "Sun Valley",
+        "Preston"
+      ],
+      "state": ["Nevada"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:58:32.808+03:00",
+  "updated": "2025-09-18T09:03:31.000+03:00"
+}

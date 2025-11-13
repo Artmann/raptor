@@ -1,0 +1,110 @@
+{
+  "thread": {
+    "uuid": "c1c0b9cd54aa4f427e7cf23b0a9d71e50b9f7e86",
+    "url": "https://www.dailyexcelsior.com/shivacharya-of-kedar-peetha-confers-award-of-honour-to-ramesh-hangloo/",
+    "site_full": "www.dailyexcelsior.com",
+    "site": "dailyexcelsior.com",
+    "site_section": "https://www.dailyexcelsior.com",
+    "site_categories": ["media", "education", "business"],
+    "section_title": "Daily Excelsior - Latest News | Breaking News | Jammu , Kashmir and Ladakh",
+    "site_title": null,
+    "title": "Shivacharya of Kedar Peetha confers award of honour to Ramesh Hangloo",
+    "title_full": "Shivacharya of Kedar Peetha confers award of honour to Ramesh Hangloo",
+    "published": "2025-09-18T03:13:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 69993,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c1c0b9cd54aa4f427e7cf23b0a9d71e50b9f7e86",
+  "url": "https://www.dailyexcelsior.com/shivacharya-of-kedar-peetha-confers-award-of-honour-to-ramesh-hangloo/",
+  "ord_in_thread": 0,
+  "author": "Daily Excelsior",
+  "published": "2025-09-18T03:13:00.000+03:00",
+  "title": "Shivacharya of Kedar Peetha confers award of honour to Ramesh Hangloo",
+  "text": "Excelsior Correspondent\nJAMMU, Sept 17: Shrimaatdadguru Sri Sri Sri 1008 Padavi Vibhushitha Bhimashankaralinga Shivacharya Bhagavadpadaru of Kedar Peetha today conferred an award of honour to Ramesh Hangloo, the founder and director of Radio Sharda 90.4 FM, Jammu & Kashmir.\nThis grand award giving function took place under the auspices of the Veerashaiva Lingayat Sanghatana Vedika at the iconic Bharat Mandapam, New Delhi, and was attended by a large gathering of spiritual leaders, scholars, dignitaries, and cultural luminaries from across India.\nRamesh Hangloo was recognized for his exceptional contribution to the promotion and preservation of Kashmiri culture, language, and heritage through community radio, particularly for giving voice to the displaced Kashmiri Pandit community and other marginalized groups in Jammu & Kashmir. Under his leadership, Radio Sharda has emerged as a powerful medium of social integration, cultural revival and constructive journalism.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Education", "Lifestyle and Leisure"],
+  "topics": [
+    "Human Interest->award and prize",
+    "Education->social learning",
+    "Education->teachers",
+    "Education->religious education",
+    "Lifestyle and Leisure->club and association",
+    "Lifestyle and Leisure->trend",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Kedar Peetha",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Ramesh Hangloo",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Kashmir",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Radio Sharda 90.4 FM",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:40:57.806+03:00",
+  "updated": "2025-09-18T08:47:22.000+03:00"
+}

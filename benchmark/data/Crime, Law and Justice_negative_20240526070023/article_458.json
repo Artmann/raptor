@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "257fc6ac086bb93095c90701e819e932e42338b7",
+    "url": "https://cryptonews.net/news/legal/28922439",
+    "site_full": "cryptonews.net",
+    "site": "cryptonews.net",
+    "site_section": "https://cryptonews.net/",
+    "site_categories": ["finance"],
+    "section_title": "World news about cryptocurrency and blockchain technology from different sources",
+    "title": "FBI Cautions on Unregistered Crypto Money Transmitting Services",
+    "title_full": "FBI Cautions on Unregistered Crypto Money Transmitting Services",
+    "published": "2024-04-25T21:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://cnews24.ru/uploads/3df/3df783e30306c9e3ce7ed61b73f0370c4c173d9a.jpg",
+    "performance_score": 0,
+    "domain_rank": 80477,
+    "domain_rank_updated": "2024-04-23T13:07:59.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "257fc6ac086bb93095c90701e819e932e42338b7",
+  "url": "https://cryptonews.net/news/legal/28922439",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-04-25T21:35:00.000+03:00",
+  "title": "FBI Cautions on Unregistered Crypto Money Transmitting Services",
+  "text": "- FBI warns against using non-MSB registered crypto services - Non-compliance could lead to asset loss during law enforcement actions - Check crypto service registration via the FinCEN tool for safety The U.S. Federal Bureau of Investigation has issued a warning to Americans today about the risks of using cryptocurrency services that are not registered as Money Services Businesses (MSBs). The advisory, released through the FBI’s Internet Crime Complaint Center (IC3), stresses the importance of compliance with federal anti-money laundering regulations. According to the FBI’s recent statement, consumers should exercise caution and verify that any cryptocurrency money-transmitting service adheres to the necessary legal requirements, including collecting Know Your Customer (KYC) information. KYC protocols typically require collecting personal details such as name, date of birth, and address to help prevent illegal activities. The FBI highlighted the availability of a FinCEN tool that allows users to check whether a business is registered as an MSB, thus confirming its legitimacy. FBI warns Americans not to use #crypto services from firms that are not registered as Money Services Businesses (MSBs) under federal law…— myTradeSignals (@mytradesignals) April 25, 2024 Coinbase + Kraken appear in the US Financial Crimes Enforcement Network (FinCEN) tool provided to check for registered providers. pic.twitter.com/PGCvziukZM Moreover, the statement noted that engaging with unregistered services could lead to complications, including potential financial disruptions during law enforcement actions. Such services might also inadvertently be involved in illegal transactions, increasing the risk for users whose assets could become entangled in criminal investigations. The FBI advises against using any crypto service that fails to request essential KYC information before facilitating transactions. They warn that such neglect could indicate non-compliance with federal laws, posing significant risks to users, including losing access to funds during crackdowns on these services. This guidance comes in response to recent law enforcement operations targeting non-compliant cryptocurrency services, underscoring the ongoing efforts to safeguard the financial system and protect consumers from potential fraud and other illegal activities associated with unregistered crypto money transmitters.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "fbi cautions on unregistered crypto money transmitting services",
+        "sentiment": "negative"
+      },
+      {
+        "name": "non-msb",
+        "sentiment": "negative"
+      },
+      {
+        "name": "fbi",
+        "sentiment": "negative"
+      },
+      {
+        "name": "federal bureau of investigation",
+        "sentiment": "none"
+      },
+      {
+        "name": "fbi’s internet crime complaint center",
+        "sentiment": "none"
+      },
+      {
+        "name": "msb",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:19:54.981+03:00",
+  "updated": "2024-04-26T00:19:54.981+03:00"
+}

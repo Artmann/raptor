@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "03e8adb1fa5e82bbcfbf783295dcc073c1b33ccd",
+    "url": "https://www.shorenewsnetwork.com/2023/12/29/jd-com-wins-antimonopoly-lawsuit/",
+    "site_full": "www.shorenewsnetwork.com",
+    "site": "shorenewsnetwork.com",
+    "site_section": "https://www.shorenewsnetwork.com",
+    "site_categories": ["media"],
+    "section_title": "Shore News Network - The Latest Breaking, Viral and Trending News",
+    "title": "JD.com wins antimonopoly lawsuit against Alibaba",
+    "title_full": "JD.com wins antimonopoly lawsuit against Alibaba",
+    "published": "2023-12-29T11:40:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJBS064-BASEIMAGE.jpg",
+    "performance_score": 0,
+    "domain_rank": 44619,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "03e8adb1fa5e82bbcfbf783295dcc073c1b33ccd",
+  "url": "https://www.shorenewsnetwork.com/2023/12/29/jd-com-wins-antimonopoly-lawsuit/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Reuters",
+  "published": "2023-12-29T11:40:00.000+02:00",
+  "title": "JD.com wins antimonopoly lawsuit against Alibaba",
+  "text": "BEIJING (Reuters) -Chinese online retailer JD.com said on Friday that it won a lawsuit against rival Alibaba, which was fined 1 billion yuan ($140.68 million) for monopolistic practices. The High People’s Court of Beijing ruled that Alibaba Group Holding Limited along with Zhejiang Tmall Network Co and Zhejiang Tmall Technology Co had abused their market dominance and adopted monopolistic practices known as “choosing one from two” causing JD.com severe damage, JD.com said in a statement published on its official WeChat account. JD.com said it has nothing more to add beyond the statement. “This ruling is not only a fair decision for JD’s resistance against the ‘choose one out of two’ monopoly, but a landmark moment in upholding market fairness and competition order through the rule of law,” the statement said. “It will be a significant moment in China’s anti-monopoly legal process.” Alibaba did not immediately respond to a request for comment. Alibaba was fined a record $2.75 billion in an anti-trust probe by Chinese regulators in 2021 which stated that it had abused its market dominance. The two e-commerce giants in China had criticised each other for a practice called choosing one out of two, citing brands and merchants who had reportedly been told that if they wanted to operate on their platform, they have to do so exclusively. ($1 = 7.1083 Chinese yuan renminbi) (Reporting by Sophie Yu, Li Qiaoyi, and Casey Hall)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "jd.com",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "reuters",
+        "sentiment": "negative"
+      },
+      {
+        "name": "jd.com",
+        "sentiment": "negative"
+      },
+      {
+        "name": "alibaba beijing",
+        "sentiment": "negative"
+      },
+      {
+        "name": "zhejiang tmall technology co",
+        "sentiment": "none"
+      },
+      {
+        "name": "zhejiang tmall network co",
+        "sentiment": "none"
+      },
+      {
+        "name": "alibaba",
+        "sentiment": "none"
+      },
+      {
+        "name": "high people’s court",
+        "sentiment": "none"
+      },
+      {
+        "name": "alibaba group holding limited",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "beijing",
+        "sentiment": "none"
+      },
+      {
+        "name": "china",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T12:17:27.420+02:00",
+  "updated": "2023-12-29T12:17:27.420+02:00"
+}

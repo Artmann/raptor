@@ -1,0 +1,134 @@
+{
+  "thread": {
+    "uuid": "68426f0d38a828aa8dbba0db2e4febaacffccdde",
+    "url": "https://www.scoop.co.nz/stories/BU2406/S00395/port-marlborough-marine-team-assists-in-recovery-of-aratere.htm",
+    "site_full": "www.scoop.co.nz",
+    "site": "scoop.co.nz",
+    "site_section": "https://scoop.co.nz",
+    "site_categories": [
+      "media",
+      "law_government_and_politics",
+      "politics",
+      "top_news"
+    ],
+    "section_title": "Scoop - New Zealand News",
+    "title": "Port Marlborough Marine Team Assists In Recovery Of Aratere | Scoop News",
+    "title_full": "Port Marlborough Marine Team Assists In Recovery Of Aratere | Scoop News",
+    "published": "2024-06-22T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NZ",
+    "main_image": "http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg",
+    "performance_score": 0,
+    "domain_rank": 5241,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "68426f0d38a828aa8dbba0db2e4febaacffccdde",
+  "url": "https://www.scoop.co.nz/stories/BU2406/S00395/port-marlborough-marine-team-assists-in-recovery-of-aratere.htm",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Saturday",
+  "published": "2024-06-22T03:00:00.000+03:00",
+  "title": "Port Marlborough Marine Team Assists In Recovery Of Aratere | Scoop News",
+  "text": "Port Marlborough Marine Team Assists In Recovery Of Aratere Around 9pm tonight, the Interislander ferry Aratere was sucessfully refloated with the assistance of Port Marlborough tugs Maungatea and Monowai. Port Marlborough CE Rhys Welbourn said \"We are pleased with the successful operation and with the collaborative and positive work shown by all parties involved. The teams have shown their responsiveness and professionalism, and I’m very proud of our people here at Port Marlborough for their contributions to the recovery.\" The operation was undertaken by KiwiRail supported by a team of global experts and in collaboration with Maritime New Zealand (MNZ), Port Marlborough New Zealand (PMNZ), and Marlborough District Council Harbour Master. KiwiRail CE Peter Reidy said \"I am delighted with the successful operation, and we’re extremely grateful for the help and support of MNZ, PMNZ, the Harbour Master, our people, experts and customers, and authorities on the ground in Picton.\" The Aratere will now move to a safe anchorage in Picton Harbour overnight to re-ballast and stabilise the vessel before returning to berth at Port Marlborough.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "rhys welbourn",
+        "sentiment": "none"
+      },
+      {
+        "name": "kiwirail",
+        "sentiment": "none"
+      },
+      {
+        "name": "peter reidy",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "port marlborough marine",
+        "sentiment": "negative"
+      },
+      {
+        "name": "scoop news port marlborough marine",
+        "sentiment": "negative"
+      },
+      {
+        "name": "marlborough district council harbour master",
+        "sentiment": "none"
+      },
+      {
+        "name": "pmnz",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "monowai",
+        "sentiment": "none"
+      },
+      {
+        "name": "port marlborough new zealand",
+        "sentiment": "none"
+      },
+      {
+        "name": "port marlborough",
+        "sentiment": "none"
+      },
+      {
+        "name": "picton",
+        "sentiment": "none"
+      },
+      {
+        "name": "maritime new zealand",
+        "sentiment": "none"
+      },
+      {
+        "name": "maungatea",
+        "sentiment": "none"
+      },
+      {
+        "name": "picton harbour",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-22T15:19:56.801+03:00",
+  "updated": "2024-06-22T15:19:56.801+03:00"
+}

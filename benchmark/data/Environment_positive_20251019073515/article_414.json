@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "f12156f0397c60ab374fb6ce8650d6f86d2d21a3",
+    "url": "https://regnum.ru/news/3995000",
+    "site_full": "regnum.ru",
+    "site": "regnum.ru",
+    "site_section": "https://regnum.ru/rss",
+    "site_categories": ["media", "top_news_ru", "top_news"],
+    "section_title": "Информационное Агентство REGNUM",
+    "site_title": "Новости России, СНГ и мира - ИА REGNUM",
+    "title": "Путин назвал энергобаланс России одним из самых «зеленых» в мире - ИА REGNUM",
+    "title_full": "Путин назвал энергобаланс России одним из самых «зеленых» в мире - ИА REGNUM",
+    "published": "2025-10-16T14:38:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://regnum.ru/social/article/3995000/t/1760614726/cover.jpg",
+    "performance_score": 1,
+    "domain_rank": 21206,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 13,
+        "comments": 31,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f12156f0397c60ab374fb6ce8650d6f86d2d21a3",
+  "url": "https://regnum.ru/news/3995000",
+  "ord_in_thread": 0,
+  "author": "ИА REGNUM",
+  "published": "2025-10-16T14:38:00.000+03:00",
+  "title": "Путин назвал энергобаланс России одним из самых «зеленых» в мире - ИА REGNUM",
+  "text": "\\u003C/span> Энергетический баланс России является одним из самых «зеленых» в мире. Об этом 16 октября заявил президент РФ \\u003Cstrong>Владимир Путин\\u003C/strong> на пленарном заседании Российской энергетической недели в Москве. \\u003Cp>\\u003Cem>«Российский энергобаланс — один из самых зеленых в мире»,\\u003C/em> — подчеркнул глава государства.\\u003C/p> \\u003Cp>Ранее президент поручил правительству РФ добиться \\u003Ca href=\\\"https://regnum.ru/news/3980389\\\" target=\\\"_blank\\\">сокращения выброса парниковых газов\\u003C/a> в стране к 2035 году до 65-67% от уровня 1990 года. Путин отметил, что этого показателя нужно достичь при условии сбалансированного развития России.\\u003C/p> \\u003Cp>В ноябре 2023 года глава государства сообщил, что Россия планирует сократить выбросы углекислого газа до нуля \\u003Ca href=\\\"https://default/\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">к 2060 году\\u003C/a>. Для этого используются все эффективные инструменты, в том числе атомная энергетика, гидроэнергетика и наращивание поглощающей способности лесов и экологически чистых технологий, укказал президент.\\u003C/p> \\u003Cp>\\u003Cem>Новость дополняется\\u003C/em>\\u003C/p>\",\"dateline\":\"Москва, Центральный ФО, Москва\"}",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->energy resources", "Environment->sustainability"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://vk.com/rtrg?p=VK-RTRG-398479-5TeVt",
+    "https://mc.yandex.ru/watch/30593522",
+    "https://www.mc.yandex.ru/watch/30593522",
+    "https://vk.com/rtrg",
+    "https://www.vk.com/rtrg?p=VK-RTRG-398479-5TeVt"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ru", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:42:35.235+03:00",
+  "updated": "2025-10-17T15:16:34.000+03:00"
+}

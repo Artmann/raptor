@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "5814b8a7969e0bb9f96a08aa350a318d74ce0f2f",
+    "url": "https://news.ltn.com.tw/news/Taichung/paper/1705542",
+    "site_full": "news.ltn.com.tw",
+    "site": "ltn.com.tw",
+    "site_section": "https://www.ltn.com.tw",
+    "site_categories": [
+      "media",
+      "top_news_hk",
+      "top_news_nz",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "自由時報電子報",
+    "site_title": null,
+    "title": "台電「大甲溪光明計畫」擬擴大 環團憂影響生態",
+    "title_full": "台電「大甲溪光明計畫」擬擴大 環團憂影響生態",
+    "published": "2025-05-08T00:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://img.ltn.com.tw/Upload/news/600/2025/05/08/67.jpg",
+    "performance_score": 0,
+    "domain_rank": 7689,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5814b8a7969e0bb9f96a08aa350a318d74ce0f2f",
+  "url": "https://news.ltn.com.tw/news/Taichung/paper/1705542",
+  "ord_in_thread": 0,
+  "author": "自由時報電子報",
+  "published": "2025-05-08T00:30:00.000+03:00",
+  "title": "台電「大甲溪光明計畫」擬擴大 環團憂影響生態",
+  "text": "台電「大甲溪光明計畫」擬擴大 環團憂影響生態\n台電大甲溪光明計畫，將利用德基水庫與谷關水庫水位落差發電。（議員古秀英提供）\n〔記者歐素美／台中報導〕台電「大甲溪光明抽蓄水力計畫」，利用德基及谷關水庫水位落差，設置抽蓄水力發電機組，環保團體質疑有環評委員竟建議大甲溪光明電廠擴大規模；市議員古秀英表示，該計畫恐影響台灣黑熊等野生動植物生態，更影響部落族人生活，要求相關資訊一定要公開；台電指出，該計畫不建大壩，對環境影響較小。\n台電重啟「大甲溪光明抽蓄水力計畫」，要打造全台第三座大型儲能設施，反雪谷纜車環保團體質疑環評時竟有委員建議評估擴大開發規模的可行性。\n環團指出，該計畫鄰近台灣黑熊活動熱區，將在德基水庫、谷關水庫之間打通十．七公里的頭水隧道，涉及地質敏感區與開發面積大，且進出水口、地下廠房、土石堆置場等建設，都可能衝擊保育類及珍稀動植物，並質疑該計畫經費從二百億元暴增至六百億元，是否符合成本效益？\n市議員古秀英表示，該計畫開挖路段和時間長，一定會影響族人生活，要求台電謹慎評估，不能犧牲部落小族群者的權利，需做到基本的尊重和告知，並重視對生態的影響。\n台電表示，光明計畫因環評委員建議評估擴大規模的可行性，才調整抽蓄水力機組總裝置容量達六十一萬瓩，透過離峰時將下池水抽至上池儲能、尖峰時將上池水放至下池，達到儲能效果，並提出環境友善規劃，如遇稀有植物將優先採取施工迴避、原地保留等措施，努力降低對環境的影響。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->energy resources",
+    "Environment->endangered species",
+    "Environment->ecosystem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:09:15.336+03:00",
+  "updated": "2025-05-07T23:13:00.000+00:00"
+}

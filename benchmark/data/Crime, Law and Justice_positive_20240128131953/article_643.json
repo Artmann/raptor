@@ -1,0 +1,124 @@
+{
+  "thread": {
+    "uuid": "66b272b731d5fd69a15bd45f9ec65eee83d5ec1f",
+    "url": "https://thepeterboroughexaminer.com/news/two-new-officers-hired-in-kawartha-lakes-while-a-third-heads-back-home/article_1ccb16ff-e977-568e-8eb5-bce9a728b6f0.html",
+    "site_full": "thepeterboroughexaminer.com",
+    "site": "thepeterboroughexaminer.com",
+    "site_section": "https://mykawartha.com",
+    "site_categories": [],
+    "section_title": "Latest Peterborough News | Peterborough Examiner",
+    "title": "More recruits needed to meet Kawartha Lakes policing demands",
+    "title_full": "More recruits needed to meet Kawartha Lakes policing demands",
+    "published": "2023-12-29T05:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/thepeterboroughexaminer.com/content/tncms/assets/v3/editorial/7/6d/76d881a0-112c-5d18-b4a9-4701272822dd/658ef448b5f3d.image.jpg?crop=1400%2C735%2C0%2C132&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 32478,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "66b272b731d5fd69a15bd45f9ec65eee83d5ec1f",
+  "url": "https://thepeterboroughexaminer.com/news/two-new-officers-hired-in-kawartha-lakes-while-a-third-heads-back-home/article_1ccb16ff-e977-568e-8eb5-bce9a728b6f0.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Catherine Whitnall",
+  "published": "2023-12-29T05:00:00.000+02:00",
+  "title": "More recruits needed to meet Kawartha Lakes policing demands",
+  "text": "There’s two new faces, and one familiar one, set to patrol Lindsay and Ops Township. The recent hires are a positive step forward in meeting staffing Kawartha Lakes Police Service’s current and future demands. Const. Matthew Self initially started with the Lindsay-based police service in 2018 after having served previously with the Toronto Police Service. In November he accepted a position with Durham Regional Police, which was closer to home. “Even though it was a much easier commute (to work), he realized that he wanted to return to KLPS,” said Chief Mark Mitchell. “So he reached out to inquire about the possibility of returning … Matt was a strong officer during his tenure with us and, in particular, was a mentor to younger staff. He was also working in the role of Acting Sergeant at the time he left.” Fortunately, the police service has a vacancy available and Const. Self will return Jan. 3. After being recruited by the police service in mid-2023, Paul Baron and Owen Porter attended the Basic Constable Training course at the Ontario Police College. The two cadets — who both attained an academic average over 90 per cent — took the oath of office Dec. 14 and are currently involved in local field training. You might be interested in The new officers were two of the 548 new recruits that have graduated from the Ontario Police College (OPC) this year. “It sounds like a lot, but there’s a significant excess of demand over supply,” said Mitchell, explaining of the seven individuals recruited this year, only four obtained College seats. “And the OPC has added a fourth intake. This will allow 2,000 recruits to graduate in 2024; which still isn’t going to meet demand.” Part of this, he notes, is due to growth. Thousands of new residences are expected to be constructed in and around Lindsay over the next seven years. A report by the Fraser Institute earlier this year, supported this factor in the demand for more officers. Since 2010, Ontario’s population has increased from 13.1 million to 14.8 million; an increase of 13 per cent. However, the total number of police officers has remained flat. In response, the province has made a number of changes to criteria and bumped up recruitment and training supports, but access and opportunity are only one part of the hiring challenge facing police services across the province. According to the Canadian Occupational Projection System, over the period 2022-2031, new job openings — arising from expansion demand and replacement demand — are expected to total 38,900 while only 36,300 new job seekers are projected to be available to fill them. Over the last three years, the COVID-19 pandemic, rising crime rates, police defunding movements and a series of officers killed in the line of duty have been cited as contributory factors to recruitment issues by the Police Association of Ontario. Salaries — at least from an applicants’ perspective — don’t appear to be an issue, complemented by the province’s decision to cover OPC tuitions while some police services, such as Timmins’, have offered singing bonuses. For those wondering what the future might hold. the average salary for a police officer in Canada, according to the federal government’s Job Bank, is $48 an hour. Ontario sits at a median of $50 and, if an individual is willing to set aside some of the negatives associated with Nunavut — such as the isolation, inadequate social services and cost of living — they can make as much as $87 an hour.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "lindsay",
+        "sentiment": "negative"
+      },
+      {
+        "name": "matt",
+        "sentiment": "none"
+      },
+      {
+        "name": "mark mitchell",
+        "sentiment": "none"
+      },
+      {
+        "name": "owen porter",
+        "sentiment": "none"
+      },
+      {
+        "name": "matthew self",
+        "sentiment": "none"
+      },
+      {
+        "name": "paul baron",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "toronto police service",
+        "sentiment": "none"
+      },
+      {
+        "name": "ontario police college",
+        "sentiment": "none"
+      },
+      {
+        "name": "kawartha lakes police service",
+        "sentiment": "none"
+      },
+      {
+        "name": "durham regional police",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "ops township",
+        "sentiment": "none"
+      },
+      {
+        "name": "kawartha lakes",
+        "sentiment": "none"
+      },
+      {
+        "name": "lindsay",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T20:43:53.900+02:00",
+  "updated": "2023-12-29T20:43:53.900+02:00"
+}

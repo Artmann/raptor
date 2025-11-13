@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "ae3748f905f741f7164cec7b114499ee8dab2cc3",
+    "url": "https://dailytrust.com/300-level-female-student-arrested-over-trafficking-in-edo",
+    "site_full": "dailytrust.com",
+    "site": "dailytrust.com",
+    "site_section": "https://news.google.com/search?q=over%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": null,
+    "title": "300-level female student arrested over trafficking in Edo - Daily Trust",
+    "title_full": "300-level female student arrested over trafficking in Edo - Daily Trust",
+    "published": "2025-06-26T09:57:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NG",
+    "main_image": "https://dailytrust.com/wp-content/uploads/2023/11/cuff-jail-crime.webp",
+    "performance_score": 0,
+    "domain_rank": 23121,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ae3748f905f741f7164cec7b114499ee8dab2cc3",
+  "url": "https://dailytrust.com/300-level-female-student-arrested-over-trafficking-in-edo",
+  "ord_in_thread": 0,
+  "author": "@daily_trust",
+  "published": "2025-06-26T09:57:00.000+03:00",
+  "title": "300-level female student arrested over trafficking in Edo - Daily Trust",
+  "text": "The Edo State command of the National Drug law Enforcement Agency, (NDLEA) has arrested a 300-level female student of the Ambrose Alli University, Ekpoma, Esther Abumere (28), with various illicit drugs.The state NDLEA commander, Mitchell Ofoyeju, disclosed this yesterday in Benin while briefing journalists on the achievements of the command…",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Social Issue", "Education"],
+  "topics": [
+    "Crime, Law and Justice->human smuggling and trafficking",
+    "Social Issue->social problem",
+    "Social Issue->women",
+    "Social Issue->discrimination",
+    "Education->college and university",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://bit.ly/3ULAYGr",
+    "https://galins.com/l/dailytrustjune2025",
+    "https://www.galins.com/l/dailytrustjune2025",
+    "https://www.bit.ly/3ULAYGr"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Esther Abumere",
+        "sentiment": "none"
+      },
+      {
+        "name": "Mitchell",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Edo - Daily Trust",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "National Drug law Enforcement Agency",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "NDLEA",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Ambrose Alli University",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T10:05:59.323+03:00",
+  "updated": "2025-06-26T15:21:17.045+03:00"
+}

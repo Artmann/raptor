@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "a4be00c386531e2a8a64c77f92ac431a41d87356",
+    "url": "https://www.techinasia.com/news/tenable-warns-of-rising-cloud-risks-in-singapore-southeast-asia",
+    "site_full": "www.techinasia.com",
+    "site": "techinasia.com",
+    "site_section": "https://www.techinasia.com/wp-json/techinasia/2.0/categories/news/posts?page=1&per_page=30",
+    "site_categories": ["media"],
+    "section_title": "",
+    "site_title": "Tech in Asia - Connecting Asia's startup ecosystem",
+    "title": "Tenable warns of rising cloud risks in Singapore, Southeast Asia",
+    "title_full": "Tenable warns of rising cloud risks in Singapore, Southeast Asia",
+    "published": "2025-06-18T23:34:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ID",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3512,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a4be00c386531e2a8a64c77f92ac431a41d87356",
+  "url": "https://www.techinasia.com/news/tenable-warns-of-rising-cloud-risks-in-singapore-southeast-asia",
+  "ord_in_thread": 0,
+  "author": "Aiko Gao Ishida",
+  "published": "2025-06-18T23:34:00.000+03:00",
+  "title": "Tenable warns of rising cloud risks in Singapore, Southeast Asia",
+  "text": "A report released by cybersecurity firm Tenable on June 19, 2025, highlights major cloud security risks in Singapore and Southeast Asia.\nThe “2025 Cloud Security Risk Report” reveals issues like misconfigured storage systems and embedded secrets in workloads, which may lead to data breaches and regulatory violations.\nIt found that 9% of cloud storage resources contain sensitive data, and nearly 10% of publicly accessible storage has confidential information due to weak access controls.\nThe report also shows that 54% of organizations using AWS ECS task definitions have embedded secrets, creating risks of cloud environment takeovers.\nAdditionally, 3.5% of AWS EC2 instances have embedded credentials, increasing the threat of privilege escalation.\nAri Eitan, Tenable’s director of Cloud Security Research, warned, “Complacency is costly.” He stressed the need to protect sensitive data and credentials.\n🔗 Source: Tenable\n🧠 Food for thought 1️⃣ Southeast Asia’s data breach history highlights the urgency of cloud security The cloud vulnerabilities identified by Tenable aren’t theoretical concerns, as they reflect persistent security issues that have already resulted in significant breaches across the region.\nIn 2019, Sephora suffered a major breach exposing personal data of customers across Singapore, Malaysia, Indonesia, Thailand, the Philippines, Hong Kong, Australia, and New Zealand, including names, birth dates, and encrypted passwords 1 .\nThat same year, Malindo Air disclosed a breach affecting approximately 30 million passengers when former employees of an Indian contractor improperly accessed sensitive data, including passport numbers, home addresses, and phone numbers 2 .\nThese historical incidents demonstrate the very real consequences of cloud security vulnerabilities in Southeast Asia, particularly the risks associated with third-party contractors and misconfigured access controls, which align with the issues highlighted in Tenable’s findings.\nThe region’s growing digitalization has only increased the attack surface, with cybersecurity firm Palo Alto Networks reporting a nearly fivefold increase in daily cloud-based security alerts by the end of 2024, including a 235% increase in high-severity alerts targeting identity access management tokens 3 .\n2️⃣ Southeast Asia’s evolving regulatory landscape creates complex compliance challenges Tenable’s findings on cloud vulnerabilities are particularly concerning given the increasingly stringent and diverse data protection regulations across Southeast Asia.\nIndonesia’s Personal Data Protection Law enacted in 2022 now imposes penalties of up to 2% of annual revenue for non-compliance, while Malaysia’s PDPA amendments require organizations to appoint data protection officers and notify authorities of breaches, with fines reaching 1 million ringgit 4 .\nSingapore’s robust regulatory framework under the PDPA and Cybersecurity Act emphasizes consent and accountability for data handling, with penalties up to S$1 million, creating a high compliance bar for businesses operating in the region 4 .\nThe implementation of Thailand’s PDPA in 2022 added another layer of complexity by requiring consent for sensitive data processing and introducing penalties including both fines and potential imprisonment 4 .\nThis regulatory patchwork means that the cloud vulnerabilities identified by Tenable, particularly the 9% of storage resources containing sensitive data and the 54% of organizations with embedded secrets, represent not just security risks but significant compliance and financial liabilities across multiple jurisdictions.\n3️⃣ Cloud security emerges as a competitive differentiator in Southeast Asia’s digital infrastructure race Tenable’s findings come at a crucial juncture as Southeast Asia emerges as a key battleground for cloud computing infrastructure and services.\nBillions of dollars are being invested in building digital infrastructure across the region, with countries like Singapore and Indonesia leading in digital transformation efforts that rely heavily on secure cloud environments 5 .\nThe region has become a strategic focus in the competition between U.S. and Chinese cloud service providers, elevating the importance of security as a key differentiator in winning market share 5 .\nAs Southeast Asian nations develop their digital economies, robust cybersecurity practices are becoming essential for fostering trust in cloud services, particularly given the intensifying focus of attackers on identity access management and data exfiltration identified in recent threat research 3 .\nSingapore’s initiatives like the Cloud Outage Incident Response (COIR) framework mentioned in the Tenable report reflect the recognition that cloud security is not just an organizational concern but a national economic and security priority in the region’s digital transformation journey.\nRecent Tenable developments",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Politics", "Social Issue"],
+  "topics": [
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->business information",
+    "Politics->economic policy",
+    "Politics->safety of citizens",
+    "Politics->government policy",
+    "Social Issue->social networking",
+    "Social Issue->social services",
+    "Social Issue->population and census"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.zdnet.com/article/sephora-data-breach-hits-southeast-asia-and-anz-customers/",
+    "https://www.aseanbriefing.com/news/navigating-data-protection-laws-in-asean-6-a-guide-for-foreign-investors/",
+    "https://www.scmp.com/news/asia/southeast-asia/article/3030018/malindo-air-says-massive-data-breach-was-caused-former",
+    "https://unit42.paloaltonetworks.com/2025-cloud-security-alert-trends/",
+    "https://www.csis.org/analysis/cloud-computing-southeast-asia-and-digital-competition-china",
+    "https://www.tenable.com/",
+    "https://scmp.com/news/asia/southeast-asia/article/3030018/malindo-air-says-massive-data-breach-was-caused-former",
+    "https://unit42.paloaltonetworks.com/2025-cloud-security-alert-trends",
+    "https://www.zdnet.com/article/sephora-data-breach-hits-southeast-asia-and-anz-customers",
+    "https://www.aseanbriefing.com/news/navigating-data-protection-laws-in-asean-6-a-guide-for-foreign-investors",
+    "https://tenable.com/",
+    "https://www.tenable.com",
+    "https://www.unit42.paloaltonetworks.com/2025-cloud-security-alert-trends/",
+    "https://zdnet.com/article/sephora-data-breach-hits-southeast-asia-and-anz-customers/",
+    "https://aseanbriefing.com/news/navigating-data-protection-laws-in-asean-6-a-guide-for-foreign-investors/",
+    "https://csis.org/analysis/cloud-computing-southeast-asia-and-digital-competition-china"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ari Eitan",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Southeast",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:37:59.904+03:00",
+  "updated": "2025-06-19T04:44:09.000+00:00"
+}

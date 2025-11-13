@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "0c0f7c3b33e0bb0e9e1ecde3148aa4e835375ecd",
+    "url": "https://rpp.pe/peru/actualidad/senamhi-temperaturas-nocturnas-descenderan-hasta-los-100-c-en-la-costa-peruana-noticia-1633191",
+    "site_full": "rpp.pe",
+    "site": "rpp.pe",
+    "site_section": "https://rpp.pe/feed",
+    "site_categories": [
+      "media",
+      "top_news_co",
+      "top_news_pe",
+      "top_news_cl",
+      "top_news_ve",
+      "top_news"
+    ],
+    "section_title": "RPP NOTICIAS",
+    "site_title": "Últimas Noticias del Perú y el Mundo en RPP Noticias",
+    "title": "Se acerca el invierno: temperaturas nocturnas descenderán hasta los 10° C en la Costa, anuncia el Senhami",
+    "title_full": "Se acerca el invierno: temperaturas nocturnas descenderán hasta los 10° C en la Costa, anuncia el Senhami",
+    "published": "2025-05-08T00:39:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PE",
+    "main_image": "https://e.rpp-noticias.io/large/2025/05/07/213121_1740702.webp",
+    "performance_score": 0,
+    "domain_rank": 16295,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0c0f7c3b33e0bb0e9e1ecde3148aa4e835375ecd",
+  "url": "https://rpp.pe/peru/actualidad/senamhi-temperaturas-nocturnas-descenderan-hasta-los-100-c-en-la-costa-peruana-noticia-1633191",
+  "ord_in_thread": 0,
+  "author": "RedacciónRPP",
+  "published": "2025-05-08T00:39:00.000+03:00",
+  "title": "Se acerca el invierno: temperaturas nocturnas descenderán hasta los 10° C en la Costa, anuncia el Senhami",
+  "text": "El Senamhi informó que las temperaturas nocturnas tendrán un descenso desde el 10 al 15 de mayo en la Costa peruana.\nEl Servicio Nacional de Meteorología e Hidrología del Perú (Senamhi) informó a través de un comunicado que se prevé que las temperaturas en la costa peruana, desde Ica hasta Piura, desciendan durante las noches, desde el 10 al 15 de mayo.\nAsimismo, la entidad adscrita al Ministerio del Ambiente (Minam) anunció que se percibirá mayor sensación de frío durante las mañanas, especialmente en los distritos que se encuentren cerca al mar. Sin embargo, señaló que habrá presencia de brillo solar alrededor del mediodía.\nEn esa misma línea, la entidad señaló que las temperaturas nocturnas oscilarán entre los 10 °C y 15 °C en Ica, entre 14 °C y 17 °C en Lima, entre 15 °C y 17 °C en Áncash, entre 14 °C y 18 °C para La Libertad, entre 15 °C y 17 °C en Lambayeque, y entre 17 °C y 20 ° C para Piura.\nPor su parte, en Lima Metropolitana se prevén temperaturas mínimas de entre los 15 °C y 16 °C.\nCausas del descenso de las temperaturas\nDe acuerdo con los especialistas del Senamhi, este descenso en el clima se debe a la temperatura fría que presenta el mar frente a las costas peruanas.\nAsimismo, otra de las causas es la intensificación de los vientos del sur. “Lo que generará mayor nubosidad en las mañanas y condiciones más frías”, informó la entidad.\nComparte esta noticia",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment", "Social Issue"],
+  "topics": [
+    "Weather->weather forecast",
+    "Environment->climate change",
+    "Environment->population growth"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Metropolitana",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Servicio Nacional de Meteorología",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Ministerio del Ambiente",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Minam",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:11:05.387+03:00",
+  "updated": "2025-05-07T23:20:30.000+00:00"
+}

@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "bff4f263062775c86dd9917a402c12576a274ddf",
+    "url": "https://newsrnd.com/news/2023-12-28-israel-strikes-near-damascus.BkE4NRwivp.html",
+    "site_full": "newsrnd.com",
+    "site": "newsrnd.com",
+    "site_section": "https://newsrnd.com/news",
+    "site_categories": ["media"],
+    "section_title": "News/Politics - The Limited Times",
+    "title": "Israel strikes near Damascus - The Limited Times",
+    "title_full": "Israel strikes near Damascus - The Limited Times",
+    "published": "2023-12-28T23:52:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/12/28/411e13d815c0ce3575405fe15b1a1caa3e0172b20f7d502e4ebbe2ee7653b278.jpg",
+    "performance_score": 0,
+    "domain_rank": 47405,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bff4f263062775c86dd9917a402c12576a274ddf",
+  "url": "https://newsrnd.com/news/2023-12-28-israel-strikes-near-damascus.BkE4NRwivp.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Anonym",
+  "published": "2023-12-28T23:52:00.000+02:00",
+  "title": "Israel strikes near Damascus - The Limited Times",
+  "text": "An Israeli strike targeted the outskirts of the Syrian capital Damascus on Thursday, the Syrian Defense Ministry and state media said, amid the conflict between Israel and Hamas. \"At approximately 23:05 p.m. (20:05 GMT) today, the Israeli enemy carried out airstrikes from the occupied Syrian Golan, targeting targets in the southern region,\" the Defense Ministry said in a statement, without reporting casualties.\n\"Our air defense is intercepting hostile targets in the vicinity of Damascus,\" Syria's official SANA news agency wrote earlier. \"An Israeli attack targeted the outskirts of the capital Damascus,\" state television added. Israel rarely comments on strikes targeting Syria, but it has repeatedly said it would not allow its arch-enemy, Iran, which backs the government of President Bashar al-Assad, to expand its presence there.\nRise in attacks According to the Syrian Observatory for Human Rights, the strikes targeted a Syrian air defense position in the southern Sweida area and the vicinity of Damascus International Airport. The attack near the airport came 24 hours after flights resumed, suspended since an Israeli attack in late November just hours after it reopened following similar attacks the previous month, said the London-based NGO, which has a large network of correspondents in Syria.\nIsrael has launched hundreds of airstrikes on its northern neighbor since the start of Syria's civil war in 2011, mostly targeting Iranian-backed forces, including fighters of the Lebanese Ayatollah, as well as Syrian army positions. But it has stepped up its attacks since the start of the war between Israel and Hamas on Oct. 7, as tensions rise in the Middle East.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Politics",
+    "Disaster and Accident",
+    "War, Conflict and Unrest"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "bashar al-assad",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "hamas",
+        "sentiment": "none"
+      },
+      {
+        "name": "syrian observatory for human rights",
+        "sentiment": "none"
+      },
+      {
+        "name": "sana",
+        "sentiment": "none"
+      },
+      {
+        "name": "defense ministry",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "damascus",
+        "sentiment": "none"
+      },
+      {
+        "name": "israel",
+        "sentiment": "none"
+      },
+      {
+        "name": "iran",
+        "sentiment": "none"
+      },
+      {
+        "name": "damascus international airport",
+        "sentiment": "none"
+      },
+      {
+        "name": "golan",
+        "sentiment": "none"
+      },
+      {
+        "name": "syria",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:08:17.657+02:00",
+  "updated": "2023-12-29T00:08:17.657+02:00"
+}

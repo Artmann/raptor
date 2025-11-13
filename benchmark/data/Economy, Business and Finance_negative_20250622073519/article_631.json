@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "9a747abea92cfc6d7ad4627fc32f6c3adb70c162",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrfn7367408.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "http://finance.sina.com.cn/fund/",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "基金首页_新浪财经_新浪网",
+    "site_title": null,
+    "title": "上证券商ETF（510200）跌1.55%，半日成交额105.55万元|ETF_新浪财经_新浪网",
+    "title_full": "上证券商ETF（510200）跌1.55%，半日成交额105.55万元|ETF_新浪财经_新浪网",
+    "published": "2025-06-19T06:31:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9a747abea92cfc6d7ad4627fc32f6c3adb70c162",
+  "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrfn7367408.shtml",
+  "ord_in_thread": 0,
+  "author": "小浪财讯",
+  "published": "2025-06-19T06:31:00.000+03:00",
+  "title": "上证券商ETF（510200）跌1.55%，半日成交额105.55万元|ETF_新浪财经_新浪网",
+  "text": "6月19日，截止午间收盘，上证券商ETF（510200）跌1.55%，报1.143元，成交额105.55万元。上证券商ETF（510200）重仓股方面， 国泰海通 截止午盘跌0.65%， 中信证券 跌1.55%， 华泰证券 跌1.93%， 招商证券 跌1.31%， 东方证券 跌1.89%， 中金公司 跌1.91%， 兴业证券 跌1.66%， 方正证券 跌1.95%， 中国银河 跌2.36%， 光大证券 跌1.99%。\n上证券商ETF（510200）业绩比较基准为 上证证券行业指数 收益率，管理人为汇安基金管理有限责任公司，基金经理为陈思余，成立（2020-04-09）以来回报为16.22%，近一个月回报为1.88%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance"],
+  "topics": [
+    "Economy, Business and Finance->investment and opinion pieces",
+    "Economy, Business and Finance->business reporting and performance",
+    "Economy, Business and Finance->financial service"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+    "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+    "https://finance.sina.cn/app/sfa_macd.shtml"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_hk", "top_news_sg", "top_news_tw", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:39:26.771+03:00",
+  "updated": "2025-06-20T05:07:13.000+00:00"
+}

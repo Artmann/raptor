@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "5fc7ecb156bdc14e22a2e795bfc07bad63d3a135",
+    "url": "https://www.newsbytesapp.com/news/business/european-investment-bank-backs-indias-net-zero-target/tldr",
+    "site_full": "www.newsbytesapp.com",
+    "site": "newsbytesapp.com",
+    "site_section": "https://www.newsbytesapp.com/news/business",
+    "site_categories": ["media"],
+    "section_title": "Business News, News about Indian Corporates and Start-ups - NewsBytes",
+    "site_title": "NewsBytes: Latest News, India, Cricket, Politics, Bollywood, Gadgets",
+    "title": "European Investment Bank backs India's net-zero target",
+    "title_full": "European Investment Bank backs India's net-zero target",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 35442,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5fc7ecb156bdc14e22a2e795bfc07bad63d3a135",
+  "url": "https://www.newsbytesapp.com/news/business/european-investment-bank-backs-indias-net-zero-target/tldr",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "European Investment Bank backs India's net-zero target",
+  "text": "Next Article\nEuropean Investment Bank backs India's net-zero target\nThe European Investment Bank (EIB) is stepping up to help India hit its net-zero emissions target by 2070.\nThey're focusing on funding clean energy, better public transport, and water projects—think metro systems and battery storage—all aimed at creating jobs and making cities healthier.\nAccording to EIB Vice-President Nicola Beer, these efforts are focused on closing funding gaps and attracting more private investors.\nEIB's $60 million boost for India\nA big highlight: EIB is putting $60 million into the India Energy Transition Fund to ramp up renewables, energy efficiency, and electric vehicles.\nThese moves support India's goal of 500 GW non-fossil fuel energy by 2030.\nPlus, EIB's investments in urban infrastructure are helping low-income families get better access to essential services, making the shift to a greener future more inclusive.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Environment"],
+  "topics": [
+    "Economy, Business and Finance->business and market analysis",
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->macro economics",
+    "Environment->energy saving",
+    "Environment->sustainability",
+    "Environment->climate change"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Nicola Beer",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "European Investment Bank",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "EIB",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:29:51.613+03:00",
+  "updated": "2025-10-16T14:03:25.000+03:00"
+}

@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "e5858effe633850b998100a9b8fc40450c8af779",
+    "url": "https://www.kten.com/story/50713570/ardmore-teacher-accused-of-abusing-firstgrade-student",
+    "site_full": "www.kten.com",
+    "site": "kten.com",
+    "site_section": "http://feeds.feedburner.com/ktenlocalnews",
+    "site_categories": ["media", "education", "business"],
+    "section_title": "KTEN.com Local Texoma News",
+    "title": "Ardmore teacher accused of abusing first-grade student",
+    "title_full": "Ardmore teacher accused of abusing first-grade student",
+    "published": "2024-04-25T20:57:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://kten.images.worldnow.com/images/25872579_G.jpg",
+    "performance_score": 0,
+    "domain_rank": 43075,
+    "domain_rank_updated": "2024-04-23T13:07:55.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e5858effe633850b998100a9b8fc40450c8af779",
+  "url": "https://www.kten.com/story/50713570/ardmore-teacher-accused-of-abusing-firstgrade-student",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Walt Zwirko",
+  "published": "2024-04-25T20:57:00.000+03:00",
+  "title": "Ardmore teacher accused of abusing first-grade student",
+  "text": "Ardmore teacher accused of abusing first-grade student\nARDMORE, Okla. (KTEN) — An Ardmore schoolteacher has been accused of physically abusing one of her first-grade students.\nSusan Marie Hartman, 62, was arrested and charged with child abuse by injury after the March 27 incident at Charles Evans Elementary School.\nA police statement said Hartman was walking her class to lunch when she began scolding one student, \"clapping in his face.\" According to the narrative, Hartman \"grabbed his left wrist and jerked him aggressively out of the line.\"\nAn unnamed school official questioned about the incident told investigators that she \"absolutely believes [the student] was in pain when Susan jerked him around.\"\nThe entire incident was recorded by surveillance cameras.\nThe district attorney's office reviewed the evidence and decided to press charges.\nHartman was released on bond and is on administrative leave from her teaching position. Police said the Ardmore City Schools superintendent is considering possible termination.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Education", "Human Interest"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "susan marie hartman",
+        "sentiment": "none"
+      },
+      {
+        "name": "susan",
+        "sentiment": "none"
+      },
+      {
+        "name": "hartman",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "ardmore city schools",
+        "sentiment": "none"
+      },
+      {
+        "name": "charles evans elementary school",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "okla.",
+        "sentiment": "none"
+      },
+      {
+        "name": "ardmore",
+        "sentiment": "none"
+      },
+      {
+        "name": "ardmore",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:45:01.173+03:00",
+  "updated": "2024-04-26T00:45:01.173+03:00"
+}

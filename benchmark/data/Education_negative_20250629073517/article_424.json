@@ -1,0 +1,123 @@
+{
+  "thread": {
+    "uuid": "271984022a25a4d077450b7bf5bcca8d5645fe21",
+    "url": "https://www.finanzen.ch/nachrichten/aktien/ein-angriff-auf-die-berufsbildung-14587708",
+    "site_full": "www.finanzen.ch",
+    "site": "finanzen.ch",
+    "site_section": "https://finanzen.ch/termine/uebersicht",
+    "site_categories": ["investing", "financial_news", "finance"],
+    "section_title": "Aktienkurse | Aktien | B&#246;rsenkurse | finanzen.ch",
+    "site_title": "B&#246;rsen-Kurse und Finanznachrichten f&#252;r die Schweiz",
+    "title": "Ein Angriff auf die Berufsbildung",
+    "title_full": "Ein Angriff auf die Berufsbildung",
+    "published": "2025-06-26T11:26:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CH",
+    "main_image": "https://images.finanzen.net/mediacenter/unsortiert/facebookicon.jpg",
+    "performance_score": 0,
+    "domain_rank": 78563,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "271984022a25a4d077450b7bf5bcca8d5645fe21",
+  "url": "https://www.finanzen.ch/nachrichten/aktien/ein-angriff-auf-die-berufsbildung-14587708",
+  "ord_in_thread": 0,
+  "author": "Handelszeitung",
+  "published": "2025-06-26T11:26:00.000+03:00",
+  "title": "Ein Angriff auf die Berufsbildung",
+  "text": "26.06.2025 10:26:44\n|\nEin Angriff auf die Berufsbildung\nWeiter zum vollständigen Artikel bei Handelszeitung\n10 Dividendenwunder für die Ewigkeit – Wall Street Live mit Tim Schäfer\nDividenden seit über 200 Jahren – Diese Aktien zahlen zuverlässig wie ein Uhrwerk!\nHeute geht es um ein Thema, das besonders langfristig orientierte Anleger begeistert: Dividendenaktien mit jahrzehntelanger oder sogar jahrhundertelanger Historie. Gemeinsam mit Tim Schäfer @TimSchaeferMedia schauen wir uns Aktien an, die über 100 Jahre, teils sogar über 200 Jahre zuverlässig Dividenden zahlen – unabhängig von Krisen, Kriegen oder Pandemien.\nHighlights der Folge:\n🔹 York Water – Dividendenzahlung seit über 200 Jahren\n🔹 ExxonMobil – Dividendenhistorie seit 1882, profitiert vom Ölpreis\n🔹 Procter & Gamble – Cashmaschine mit Markenpower, zahlt seit 135 Jahren\n🔹 Eli Lilly – Pharma-Gigant mit starker Entwicklung durch Abnehmspritze\n🔹 Stanley Black & Decker – Value-Chance trotz aktueller Schwäche\n🔹 Coca-Cola – Buffett-Favorit, Dividendenzahlung seit 1893\n🔹 Johnson Controls – Spezialist für Gebäude- und Klimalösungen\n🔹 PPG Industries – Farben und Beschichtungen seit 1899\n🔹 Consolidated Edison – Versorger für New York mit konstanter Ausschüttung seit 1885\n👉🏽 https://bxplus.ch/wall-street-live-mit-tim-schaefer/\nMini-Futures auf SMI\nhttps://keyinvest-ch.ubs.com\nBörse aktuell - Live Ticker\nNVIDIA treibt den Techmarkt an: SMI mit Gewinnen -- DAX zeigt sich im Donnerstagshandel höher -- Asiens Börsen gehen uneinheitlich aus dem Handel\nAm heimischen Aktienmarkt geht es am Donnerstag nach oben. Der deutsche Aktienmarkt gewinnt daneben ebenfalls. An den Börsen in Asien entwickelten sich die Märkte uneinheitlich.\nfinanzen.net News\nDatum | Titel |\n---|---|\n{{ARTIKEL.NEWS.HEAD.DATUM | date : \"HH:mm\" }}\n|\n|",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Politics", "Social Issue"],
+  "topics": [
+    "Education->vocational education",
+    "Politics->education policy",
+    "Politics->civil rights",
+    "Politics->government",
+    "Social Issue->demographics",
+    "Social Issue->social problem",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://keyinvest-ch.ubs.com",
+    "https://www.youtube.com/eIhsmdi_oSM",
+    "https://www.handelszeitung.ch/politik/ein-angriff-auf-die-berufsbildung-837395",
+    "https://bxplus.ch/wall-street-live-mit-tim-schaefer/",
+    "https://www.keyinvest-ch.ubs.com",
+    "https://youtube.com/eIhsmdi_oSM",
+    "https://bxplus.ch/wall-street-live-mit-tim-schaefer",
+    "https://www.bxplus.ch/wall-street-live-mit-tim-schaefer/",
+    "https://handelszeitung.ch/politik/ein-angriff-auf-die-berufsbildung-837395"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Johnson Controls",
+        "sentiment": "none"
+      },
+      {
+        "name": "Tim Schäfer",
+        "sentiment": "none"
+      },
+      {
+        "name": "Eli Lilly",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Stanley Black & Decker",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Procter & Gamble",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Wall Street Live",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Coca-Cola",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T11:49:54.434+03:00",
+  "updated": "2025-06-26T08:55:24.000+00:00"
+}

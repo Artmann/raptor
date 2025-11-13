@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "aa06df577f8096bde8bcade4815e63f1e7feb19f",
+    "url": "https://www.jn.pt/pais/artigo/drones-ajudam-nas-sementeiras-para-regenerar-area-ardida-em-ponte-da-barca/18009297",
+    "site_full": "www.jn.pt",
+    "site": "jn.pt",
+    "site_section": "https://www.jn.pt",
+    "site_categories": ["media", "top_news_pt", "top_news"],
+    "section_title": "Jornal de Notícias",
+    "site_title": "Jornal de Not&iacute;cias",
+    "title": "Drones ajudam nas sementeiras para regenerar área ardida em Ponte da Barca",
+    "title_full": "Drones ajudam nas sementeiras para regenerar área ardida em Ponte da Barca",
+    "published": "2025-10-16T15:15:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PT",
+    "main_image": "https://staticx.noticiasilimitadas.pt/jn/53641c43-6ef9-4dbf-b13d-8bdd0d7bd6ce_1200x675.jpg",
+    "performance_score": 6,
+    "domain_rank": 18100,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": ["NLA"],
+    "social": {
+      "facebook": {
+        "likes": 199,
+        "comments": 13,
+        "shares": 29
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "aa06df577f8096bde8bcade4815e63f1e7feb19f",
+  "url": "https://www.jn.pt/pais/artigo/drones-ajudam-nas-sementeiras-para-regenerar-area-ardida-em-ponte-da-barca/18009297",
+  "ord_in_thread": 0,
+  "author": "Ana Peixoto Fernandes",
+  "published": "2025-10-16T15:15:00.000+03:00",
+  "title": "Drones ajudam nas sementeiras para regenerar área ardida em Ponte da Barca",
+  "text": "Drones ajudam nas sementeiras para regenerar área ardida em Ponte da Barca\nA área ardida no grande incêndio que afetou Ponte da Barca no verão passado está a ser alvo de sementeiras para regeneração de pasto para os animais e garantir a proteção dos solos.\nCorpo do artigo\nSegundo nota divulgada esta quinta-feira pela câmara local, a iniciativa \"junta esforços daquela autarquia, Instituto da Conservação da Natureza e das Florestas (ICNF) e comunidades de baldios\".\n\"Após os incêndios que devastaram vastas áreas do concelho de Ponte da Barca e consumiram importantes zonas do Parque Nacional da Peneda-Gerês (PNPG), a Serra Amarela começa a dar sinais de esperança. Está em curso uma ação de sementeira de pasto, uma medida essencial para acelerar a regeneração das áreas ardidas, proteger o solo e garantir alimento animal\", informa a câmara, referindo que as sementeiras \"têm como objetivo principal recuperar os ecossistemas afetados pelo fogo, promovendo a cobertura vegetal e prevenindo a erosão dos solos. Ao mesmo tempo, ajudam a garantir alimento para os animais, que viram os seus pastos naturais destruídos\".\nEm causa está a área de mais de 7500 hectares consumidos pelo incêndio, que deflagrou no dia 26 de julho em Ponte da Barca e foi dado como extinto a 4 de agosto. Da área total ardida, 5786 hectares estão dentro do PNPG.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "portuguese",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->flowers and plants", "Environment->conservation"],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_pt", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:36:27.655+03:00",
+  "updated": "2025-10-17T16:14:00.000+03:00"
+}

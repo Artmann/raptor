@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "9a26979dd899cbca9e7c3689324b9c15ca93fb3d",
+    "url": "https://cabinradio.ca/236320/news/environment/wildfires/nwt-warns-fire-danger-will-move-to-high-in-some-areas-this-week",
+    "site_full": "cabinradio.ca",
+    "site": "cabinradio.ca",
+    "site_section": "https://news.google.com/search?q=some%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["hobbies_and_interests", "radio"],
+    "section_title": "Google News - Search",
+    "site_title": "Front Page | Cabin Radio",
+    "title": "NWT warns fire danger will move to high in some areas this week",
+    "title_full": "NWT warns fire danger will move to high in some areas this week",
+    "published": "2025-05-08T01:10:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://cabinradio.ca/wp-content/uploads/2024/04/Ollie-20240430-478.jpg",
+    "performance_score": 0,
+    "domain_rank": 103144,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9a26979dd899cbca9e7c3689324b9c15ca93fb3d",
+  "url": "https://cabinradio.ca/236320/news/environment/wildfires/nwt-warns-fire-danger-will-move-to-high-in-some-areas-this-week",
+  "ord_in_thread": 0,
+  "author": "Ollie Williams",
+  "published": "2025-05-08T01:10:00.000+03:00",
+  "title": "NWT warns fire danger will move to high in some areas this week",
+  "text": "NWT Fire says wildfire danger in the Dehcho will move to “high” in the next day or two as the territory’s 2025 wildfire season begins. In a brief news release on Wednesday, the NWT’s wildfire agency said the danger would be particularly high in Fort Liard and the surrounding region, including Nahanni Butte.\n“Most of the South Slave and Dehcho are expected to reach moderate fire danger as temperatures rise and we continue to dry out,” NWT Fire stated.\n“In all areas in the south of the territory, we expect some periods of high winds – which can be problematic even at low or moderate levels of fire danger. That means for the south of the territory, conditions are here to support new starts and fast growth.”\nThere are no active fires at the moment.\nNWT Fire said person-caused fires are usually “the biggest issues” in May, appealing for people to avoid fires in high or extreme fire danger regions unless absolutely necessary for food or warmth.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Disaster and Accident"],
+  "topics": [
+    "Environment->natural resources",
+    "Environment->ecosystem",
+    "Environment->climate change",
+    "Social Issue->social condition",
+    "Social Issue->demographics",
+    "Disaster and Accident->fire"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Fort Liard",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:19:58.107+03:00",
+  "updated": "2025-05-07T23:27:20.000+00:00"
+}

@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "95edb9e5557f8e48de8bc6e123b09025b7ee62d2",
+    "url": "https://www.virgilio.it/italia/riolo-terme/notizielocali/riolo_terme_un_flash_mob_per_chiedere_pi_attenzione_su_fiumi_e_torrenti-75881393.html",
+    "site_full": "www.virgilio.it",
+    "site": "virgilio.it",
+    "site_section": "https://www.virgilio.it/italia/calenzano/notizielocali",
+    "site_categories": ["media", "top_news_it", "top_news"],
+    "section_title": "Notizie di Calenzano - Virgilio Calenzano",
+    "site_title": "Virgilio: Mail, Login, Ultime Notizie in tempo reale e tanto altro!",
+    "title": "Riolo Terme un Flash Mob per Chiedere pi Attenzione su Fiumi e Torrenti - Riolo Terme",
+    "title_full": "Riolo Terme un Flash Mob per Chiedere pi Attenzione su Fiumi e Torrenti - Riolo Terme",
+    "published": "2025-10-16T12:51:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://img.plug.it/img_newsreg_mid/3/6/8/55666863.jpg",
+    "performance_score": 0,
+    "domain_rank": 5429,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "95edb9e5557f8e48de8bc6e123b09025b7ee62d2",
+  "url": "https://www.virgilio.it/italia/riolo-terme/notizielocali/riolo_terme_un_flash_mob_per_chiedere_pi_attenzione_su_fiumi_e_torrenti-75881393.html",
+  "ord_in_thread": 0,
+  "author": "Ravenna Today",
+  "published": "2025-10-16T12:51:00.000+03:00",
+  "title": "Riolo Terme un Flash Mob per Chiedere pi Attenzione su Fiumi e Torrenti - Riolo Terme",
+  "text": "Riolo Terme, un flash mob per chiedere più attenzione su fiumi e torrenti\nL'associazione Amici del fiume Senio e il comitato Alluvionati Castel Bolognese/Bacino del Senio promuovono sabato per 18 ottobre \" dalle ore 10 alle ore 11 \" sul ponte del Senio di Riolo... Leggi tutta la notizia\nCRONACA",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->water pollution"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.ravennatoday.it/cronaca/riolo-terme-un-flash-mob-per-chiedere-piu-attenzione-su-fiumi-e-torrenti.html",
+    "https://ravennatoday.it/cronaca/riolo-terme-un-flash-mob-per-chiedere-piu-attenzione-su-fiumi-e-torrenti.html"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Riolo Terme",
+        "sentiment": "none"
+      },
+      {
+        "name": "Castel Bolognese",
+        "sentiment": "none"
+      },
+      {
+        "name": "ponte del Senio",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_it", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:29:56.331+03:00",
+  "updated": "2025-10-16T13:57:50.000+03:00"
+}

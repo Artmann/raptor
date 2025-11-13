@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "d287e00e7f0975122c28879e264824a816d2c38a",
+    "url": "https://www.theweathernetwork.com/en/news/climate/impacts/emissions-of-methane-remain-high-worldwide-despite-available-solutions",
+    "site_full": "www.theweathernetwork.com",
+    "site": "theweathernetwork.com",
+    "site_section": "https://news.google.com/search?q=below%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "The Weather Network: Weather forecasts, maps, news and videos",
+    "title": "Emissions of methane remain high worldwide despite available solutions",
+    "title_full": "Emissions of methane remain high worldwide despite available solutions",
+    "published": "2025-05-08T02:26:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://images.twnmm.com/c55i45ef3o2a/4qqPiO9aUvIzxApf0OAvFh/9599c2f6ed141ef1272dfc8c2937f385/Global_methane_Africa_Europe_Asia_NASA_Scientific-Visualization_Studio.jpg?fm=jpg&amp;q=80",
+    "performance_score": 0,
+    "domain_rank": 5569,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d287e00e7f0975122c28879e264824a816d2c38a",
+  "url": "https://www.theweathernetwork.com/en/news/climate/impacts/emissions-of-methane-remain-high-worldwide-despite-available-solutions",
+  "ord_in_thread": 0,
+  "author": "Pelmorex Corp.",
+  "published": "2025-05-08T02:26:00.000+03:00",
+  "title": "Emissions of methane remain high worldwide despite available solutions",
+  "text": "Methane accounts for a third of all global warming. Experts say its relatively easy to reduce in some sectors\"/",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Health"],
+  "topics": [
+    "Environment->global warming",
+    "Environment->climate change",
+    "Social Issue->social condition",
+    "Social Issue->social problem",
+    "Social Issue->mankind",
+    "Health->public health",
+    "Health->health organisation",
+    "Health->government health care"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.cbc.ca/news/science/methane-emission-update-iea-1.7527967",
+    "https://cbc.ca/news/science/methane-emission-update-iea-1.7527967"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Tomás Bredariol",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "International Energy Agency",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Global Methane Tracker",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "IEA",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:48:42.233+03:00",
+  "updated": "2025-05-31T16:03:29.063+03:00"
+}

@@ -1,0 +1,126 @@
+{
+  "thread": {
+    "uuid": "a959178387817bd629bcca41f006b073130ef40d",
+    "url": "https://philanthropynewsdigest.org/news/clark-foundation-awards-21-million-to-stevens-institute-of-technology",
+    "site_full": "philanthropynewsdigest.org",
+    "site": "philanthropynewsdigest.org",
+    "site_section": "http://www.philanthropynewsdigest.org/rss/feed/pndnews",
+    "site_categories": ["society"],
+    "section_title": "PND News",
+    "site_title": "Philanthropy News Digest",
+    "title": "Clark Foundation awards $21 million to Stevens Institute of Technology",
+    "title_full": "Clark Foundation awards $21 million to Stevens Institute of Technology",
+    "published": "2025-09-18T07:01:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://philanthropynewsdigest.org/var/ezflow_site/storage/images/site_pnd/news/clark-foundation-awards-21-million-to-stevens-institute-of-technology/38260017-1-eng-US/clark-foundation-awards-21-million-to-stevens-institute-of-technology.jpg",
+    "performance_score": 0,
+    "domain_rank": 73261,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a959178387817bd629bcca41f006b073130ef40d",
+  "url": "https://philanthropynewsdigest.org/news/clark-foundation-awards-21-million-to-stevens-institute-of-technology",
+  "ord_in_thread": 0,
+  "author": "webmaster@philanthropynewsdigest.org (Matt Sinclair)",
+  "published": "2025-09-18T07:01:00.000+03:00",
+  "title": "Clark Foundation awards $21 million to Stevens Institute of Technology",
+  "text": "Clark Foundation awards $21 million to Stevens Institute of Technology\nThe Stevens Institute of Technology in Hoboken, New Jersey, has announced a $21 million commitment from the A. James & Alice B. Clark Foundation in support of several programs and initiatives.\nThe largest investment in the university’s 155-year history will bolster the Clark Scholars Program and launch the Clark Scholars Philanthropy Challenge Endowed Fund. In addition, the gift will name the A. James Clark Residential Tower, which serves as a gathering place and houses 1,000 students.\nThe partnership between the institute and the foundation began during the previous tenure of Stevens president Nariman Farvardin as dean of the A. James Clark School of Engineering at the University of Maryland. The foundation is set to sunset in December.\n“This extraordinary contribution represents far more than financial support—it embodies the enduring legacy of a man who was my mentor and dear friend,” said Farvardin. “The Clark Scholars Program produces graduates who exemplify Jim Clark’s values: integrity, hard work, commitment to excellence, and dedication to humanitarianism.”\n(Photo credit: Getty Images/sefa ozel)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Education",
+    "Human Interest"
+  ],
+  "topics": [
+    "Economy, Business and Finance->financial service",
+    "Economy, Business and Finance->business financing",
+    "Education->educational grading",
+    "Education->college and university",
+    "Education->vocational education",
+    "Human Interest->award and prize"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.stevens.edu",
+    "https://clarkfoundationdc.org/overview",
+    "https://www.clarkfoundationdc.org/overview",
+    "https://stevens.edu"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Nariman Farvardin",
+        "sentiment": "none"
+      },
+      {
+        "name": "A. James Clark",
+        "sentiment": "none"
+      },
+      {
+        "name": "Jim Clark",
+        "sentiment": "none"
+      },
+      {
+        "name": "Stevens",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Stevens Institute of Technology",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "A. James & Alice B. Clark Foundation",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:38:31.464+03:00",
+  "updated": "2025-09-18T07:42:08.000+03:00"
+}

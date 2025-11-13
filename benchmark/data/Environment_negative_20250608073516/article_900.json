@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "499d4bb8d756d0d36273a7812dd9e7975d7b8dd1",
+    "url": "https://irkutskmedia.ru/news/2073624/?from=48",
+    "site_full": "irkutskmedia.ru",
+    "site": "irkutskmedia.ru",
+    "site_section": "https://irkutskmedia.ru/news",
+    "site_categories": ["media"],
+    "section_title": "Новости - IrkutskMedia.ru",
+    "site_title": "Новости Иркутска и Иркутской области на IrkutskMedia - IrkutskMedia.ru",
+    "title": "Проезд на участке дороги Усть-Кут - Уоян закрыли из-за подтопления - IrkutskMedia.ru",
+    "title_full": "Проезд на участке дороги Усть-Кут - Уоян закрыли из-за подтопления - IrkutskMedia.ru",
+    "published": "2025-05-08T06:40:56.197+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://primamediamts.servicecdn.ru/f/main/5285/5284374.jpeg?8625972fa427a59325578a0726353230",
+    "performance_score": 0,
+    "domain_rank": 158199,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "499d4bb8d756d0d36273a7812dd9e7975d7b8dd1",
+  "url": "https://irkutskmedia.ru/news/2073624/?from=48",
+  "ord_in_thread": 0,
+  "author": "IrkutskMedia.ru",
+  "published": "2025-05-08T06:40:56.197+03:00",
+  "title": "Проезд на участке дороги Усть-Кут - Уоян закрыли из-за подтопления - IrkutskMedia.ru",
+  "text": "На 172-м км трассы Усть-Кут — Уоян вблизи посёлка Магистральный закрыли проезд для легкового транспорта из-за подъёма уровня воды реки Окукихта. Часть дороги оказалась подтоплена, пишет ИА IrkutskMedia.\nКак сообщает пресс-служба Дирекции автодорог Приангарья, на участке установлены соответствующие дорожные знаки. Автомобилистам рекомендуют использовать объездной маршрут через село Казачинское с последующим поворотом на посёлок Улькан. Ограничения будут действовать до спада воды в реке.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": [
+    "Environment",
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Environment->water",
+    "Environment->water pollution",
+    "Social Issue->communities",
+    "Social Issue->social problem",
+    "Economy, Business and Finance->construction and property",
+    "Economy, Business and Finance->transport",
+    "Economy, Business and Finance->corporate news and profiles"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:40:56.197+03:00",
+  "updated": "2025-05-08T03:45:36.000+00:00"
+}

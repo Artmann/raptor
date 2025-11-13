@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "d91d075bd3052b9d0d6133ea950b835d15ee20ec",
+    "url": "https://www.ocala-news.com/2023/12/28/aaa-activates-tow-to-go-service-for-new-years-holiday/",
+    "site_full": "www.ocala-news.com",
+    "site": "ocala-news.com",
+    "site_section": "https://www.ocala-news.com/feed",
+    "site_categories": ["media"],
+    "section_title": "Ocala-News.com",
+    "title": "AAA activates ‘Tow to Go’ service for New Year’s holiday",
+    "title_full": "AAA activates ‘Tow to Go’ service for New Year’s holiday",
+    "published": "2023-12-29T00:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "https://www.ocala-news.com/wp-content/uploads/2022/09/Two-to-Go-AAA-featured-image.jpg",
+    "performance_score": 0,
+    "domain_rank": 30672,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d91d075bd3052b9d0d6133ea950b835d15ee20ec",
+  "url": "https://www.ocala-news.com/2023/12/28/aaa-activates-tow-to-go-service-for-new-years-holiday/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Staff Report",
+  "published": "2023-12-29T00:30:00.000+02:00",
+  "title": "AAA activates ‘Tow to Go’ service for New Year’s holiday",
+  "text": "AAA is offering its free transportation and towing service, “Tow to Go,” to keep impaired motorists off the road this New Year’s holiday.\nThe program is currently active and will be available until 6 a.m. on Tuesday, January 2, 2024. During that time, AAA will provide a free ride and vehicle tow to impaired drivers that do not have an alternative way to get home.\n“Many individuals will celebrate by partaking in alcoholic beverages,” stated the Marion County Sheriff’s Office in a social media post. “Please be responsible! If you drink, don’t drive, and don’t be the reason you or someone else doesn’t make it home.”\nSince 1998, the “Tow to Go” program has successfully removed nearly 30,000 impaired drivers off the road, according to AAA.\nThe free confidential ride is available to members of AAA as well as non-members, and a tow truck will take the vehicle and driver home or to a safe location within a ten-mile radius. In some instances, AAA may need to find other arrangements to help get an impaired individual to their home.\nAppointments cannot be scheduled in advance, and the “Tow to Go” program might not be available in rural areas or during severe weather conditions. The program operates on most major holidays.\nTo learn more about the program, visit the\nAAA “Tow to Go” website or call 1-855-286-9246.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Crime, Law and Justice", "Human Interest", "Social Issue"],
+  "external_links": [
+    "https://www.member.acg.aaa.com/fl/driving-safety/tow-to-go.html",
+    "https://member.acg.aaa.com/fl/driving-safety/tow-to-go.html"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "aaa",
+        "sentiment": "positive"
+      },
+      {
+        "name": "marion county sheriff’s office",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:07:40.873+02:00",
+  "updated": "2023-12-29T01:07:40.873+02:00"
+}

@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "0d6c3d0e9f305059724b1de19ecc0a2166a64e07",
+    "url": "https://finance.sina.com.cn/jjxw/2025-05-08/doc-inevuzvh5658192.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "https://finance.sina.cn",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪财经_金融信息服务商",
+    "site_title": null,
+    "title": "南宁开启降雨模式 出门携带雨具|广西_新浪财经_新浪网",
+    "title_full": "南宁开启降雨模式 出门携带雨具|广西_新浪财经_新浪网",
+    "published": "2025-05-08T03:15:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 259,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0d6c3d0e9f305059724b1de19ecc0a2166a64e07",
+  "url": "https://finance.sina.com.cn/jjxw/2025-05-08/doc-inevuzvh5658192.shtml",
+  "ord_in_thread": 0,
+  "author": "sina.com.cn",
+  "published": "2025-05-08T03:15:00.000+03:00",
+  "title": "南宁开启降雨模式 出门携带雨具|广西_新浪财经_新浪网",
+  "text": "本报讯（记者 赵金玲 通讯员 黄莉）冷空气南下影响广西，冷暖空气又“打”起来了。今明两天，广西将有大雨到暴雨，局地大暴雨，并伴有短时雷暴大风、冰雹等强对流天气。南宁将迎来新一轮降雨过程，注意防范雷暴大风，局地冰雹等强对流天气，出门记得带上雨具。\n　　据统计，5月5日8时至7日8时，受切变线影响，南宁市大部出现小到中雨，局部大雨到暴雨，并伴有6～8级阵风。100毫米以上的强降雨主要出现在兴宁区、隆安县、武鸣区、西乡塘区、宾阳县。累计最大降雨量出现在兴宁区高峰森林公园（156.4毫米）。\n　　今明两天，南宁市多降雨天气。南宁市气象台预计，今日白天，南宁城区多云，局地有阵雨或雷雨，偏南风1～2级，最低气温25℃，最高气温34℃。受高空槽和切变线共同影响，今晚至明天白天，隆安县、马山县、上林县、武鸣区、宾阳县有中到大雨，局地暴雨或大暴雨，其余县（市、区）有小到中雨，局地大雨或暴雨，并伴有雷暴大风，局地冰雹等强对流天气。\n　　广西气象台预计，5月10日前，广西多降雨及强对流天气。需特别注意的是，今晚至明天，受高空槽、切变线和弱冷空气“联手”影响，广西北部将迎来新一轮大到暴雨，局地大暴雨，并伴有雷暴大风、冰雹等强对流天气。\n　　今日白天，桂林、柳州、河池等市部分地区有中到大雨，局地暴雨，并伴有短时雷暴大风、冰雹等强对流天气，其他地区多云间阴，有分散阵雨或雷雨，局地中到大雨。\n　　受近期降雨影响，全区各主要江河来水量明显增加，江河底水得到较好补充，大部地区水文、气象干旱得到缓解，因旱人饮困难人数持续下降。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment", "Social Issue"],
+  "topics": [
+    "Weather->weather phenomena",
+    "Weather->weather warning",
+    "Weather->weather forecast",
+    "Environment->water",
+    "Environment->nature",
+    "Environment->climate change",
+    "Social Issue->demographics",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:24:09.691+03:00",
+  "updated": "2025-05-08T01:30:45.000+00:00"
+}

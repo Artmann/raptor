@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "64477574c03c7a0e8aa4570b8edfbdb282709e38",
+    "url": "https://goya.gob.ar/?q=content/feria-ciencia-provincial",
+    "site_full": "goya.gob.ar",
+    "site": "goya.gob.ar",
+    "site_section": "https://goya.gob.ar/?q=novedades",
+    "site_categories": [],
+    "section_title": "Todas las noticias | Goya",
+    "site_title": "Inicio | Goya",
+    "title": "Feria de Ciencia Provincial | Goya",
+    "title_full": "Feria de Ciencia Provincial | Goya",
+    "published": "2025-09-17T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "https://res.cloudinary.com/dfui25d7j/image/upload/v1539441035/LOGO_RADIO-03_h7v6ew.jpg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "64477574c03c7a0e8aa4570b8edfbdb282709e38",
+  "url": "https://goya.gob.ar/?q=content/feria-ciencia-provincial",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-17T03:00:00.000+03:00",
+  "title": "Feria de Ciencia Provincial | Goya",
+  "text": "Contenido principal\nFeria de Ciencia Provincial\nEl coordinador de Ciencia y Tecnología del Ministerio de Educación, profesor Gustavo Berbere, consideró de excelente nivel los trabajos presentados por los estudiantes de todos los niveles en la instancia provincial de la Feria de Ciencia.\nEn contacto con la AM local, destacó el trabajo de los alumnos de la Escuela 254 “Dr. Pedro Alcántara Díaz Colodrero” que permitió a los evaluadores seleccionar el proyecto de matemática “ZOOM…METRIA”, para participar a nivel nacional.\nDurante la entrevista, el funcionario provincial marco la calidad de todos los trabajos, recordando que Goya se hizo presente con 4 establecimientos educativos: Escuelas N°440, 511, la mencionada 254, y Especial; recordando que esta institución, los mismos estudiantes habían obtenido la distinción años atrás con el trabajo “Durmiendo con el enemigo”, referido al uso del celular, que contó con el invalorable aporte de Virginia Acosta.\nMUESTRA PROVINCIAL DE CIENCIAS\n“Los días lunes y martes se desarrolló la muestra provincial de trabajos, proyectos de todas las escuelas de la provincia, donde han podido mostrar la manera de trabajar en sus establecimientos con los docentes. Vale recordar que esto inició en las respectivas escuelas, sumando 9.500 proyectos. A la instancia zonal pasaron 400 trabajos, evaluados por 350 docentes. De allí, a la última etapa en Corrientes, la instancia provincial, donde se eligen los más representativos, para llegar al nivel nacional”, explicó el coordinador de Ciencia del Ministerio de Educación.\nNUEVA DISTINCIÓN PARA ALUMNOS DE LA ESCUELA 254\n“Todos los trabajos han sido excelentes, pero es allí donde viene la acción de los evaluadores, seleccionando a 18 proyectos, dentro de los que se encuentran los estudiantes de la “Escuela del Asilo”, con un eje principal: matemática, tomando las figuras geométricas. Desde esa experiencia hicieron más dinámica y activa la materia específica”, sostuvo.\nEn el diálogo radial, el profesor Berbere indicó: “Resaltamos de esta feria de ciencias, escuelas que nunca han participado, como el caso de Puerto Viejo Lavalle, Sauce, ocurriendo algo novedoso: fueron recibidos en su localidad como grandes destacados, más allá de la premiación”.\nMUESTRA DEPARTAMENTAL EN GOYA\nEl funcionario recordó: “Hemos podido concretar de manera efectiva la muestra departamental con la Municipalidad de Goya, con el Gobierno de la Provincia, con la participación de más de un centenar de proyectos educativos, exhibiendo esas producciones”.\nFinalmente Gustavo Berbere expresó: “Es un ámbito creado para que la comunidad toda pueda asistir a ver esos trabajos de nuestros estudiantes de todos los niveles. Es bueno lo que ha pasado en Goya, porque en la apertura el intendente Mariano Hormaechea expresaba que esta muestra vino para quedarse, destacando el aporte de la secretaria de Educación Sonia Espina. Es necesaria la articulación de todos estos organismos, donde se permite conocer la investigación de nuestros estudiantes, de nuestros docentes, esa es la intención más fuerte, nuestro anhelo es que se replique en otras localidades, porque es visibilizar el proyecto de nuestros alumnos”.\nDirección de Prensa - Municipalidad de Goya",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Education", "Science and Technology", "Human Interest"],
+  "topics": [
+    "Education->students",
+    "Education->teachers",
+    "Education->educational grading",
+    "Science and Technology->social sciences",
+    "Science and Technology->scientific research",
+    "Science and Technology->technology and engineering",
+    "Human Interest->graduation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Pedro Alcántara Díaz Colodrero",
+        "sentiment": "none"
+      },
+      {
+        "name": "Gustavo Berbere",
+        "sentiment": "none"
+      },
+      {
+        "name": "Goya",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:42:22.868+03:00",
+  "updated": "2025-09-18T07:48:55.000+03:00"
+}

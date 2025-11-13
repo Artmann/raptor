@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "9966330c7434f44f778a810a480d2e8323377ac6",
+    "url": "https://rostov.tsargrad.tv/news/rostovskaja-oblast-vozvedjot-3-vetroparka-na-700-mvt-s-zavodami-v-volgodonske_1407678",
+    "site_full": "rostov.tsargrad.tv",
+    "site": "tsargrad.tv",
+    "site_section": "https://tsargrad.tv/news/rubric",
+    "site_categories": ["top_news_ru", "top_news"],
+    "section_title": "Свежие новости России и мира сегодня - лента последних новостей дня",
+    "site_title": "Телеканал Царьград последние новости онлайн",
+    "title": "Ростовская область возведёт 3 ветропарка на 700 МВт с заводами в Волгодонске",
+    "title_full": "Ростовская область возведёт 3 ветропарка на 700 МВт с заводами в Волгодонске",
+    "published": "2025-10-16T15:37:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://img.tsargrad.tv/cache/e/c/1377645979684056_titels_economy-5.webp/w1056h594fill.webp",
+    "performance_score": 0,
+    "domain_rank": 20317,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 1
+      }
+    }
+  },
+  "uuid": "9966330c7434f44f778a810a480d2e8323377ac6",
+  "url": "https://rostov.tsargrad.tv/news/rostovskaja-oblast-vozvedjot-3-vetroparka-na-700-mvt-s-zavodami-v-volgodonske_1407678",
+  "ord_in_thread": 0,
+  "author": "tsargrad.tv",
+  "published": "2025-10-16T15:37:00.000+03:00",
+  "title": "Ростовская область возведёт 3 ветропарка на 700 МВт с заводами в Волгодонске",
+  "text": "Ростовская область возведёт 3 ветропарка на 700 МВт с заводами в Волгодонске\nРостовская область планирует строительство трёх новых ветропарков общей установленной мощностью 700 МВт в период с 2027 по 2029 годы. Проектное задание предусматривает поэтапную реализацию объектов в эти сроки.\nПервый ветропарк мощностью до 100 МВт будет возведён в Морозовском районе. Работы по строительству поручены компании «ВетроОГК-2», принадлежащей корпорации «Росатом». В рамках проекта предусмотрена организация производства гондол и башен для ветротурбин на предприятиях Волгодонска.\nДва других ветропарка планируется разместить в Белокалитвинском и Кагальницком районах. Мощность каждого из них оценивается примерно в 300 МВт. Для изготовления башенных конструкций предполагается задействовать производственные мощности в Таганроге. Реализация этих проектов будет способствовать развитию регионального индустриального кластера.\nДействующие в настоящее время шесть ветропарков обеспечивают порядка 8% потребляемой областью электроэнергии. Эти показатели учтены при планировании доводки энергетической инфраструктуры региона.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "positive",
+  "categories": ["Environment", "Economy, Business and Finance"],
+  "topics": [
+    "Environment->energy resources",
+    "Economy, Business and Finance->energy and resource"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ru", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:46:19.948+03:00",
+  "updated": "2025-10-17T16:18:13.000+03:00"
+}

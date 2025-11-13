@@ -1,0 +1,124 @@
+{
+  "thread": {
+    "uuid": "47560bdb5b7a3faf510ad6a294b7b057b9ca32c8",
+    "url": "https://www.prokerala.com/news/articles/a1491829.html",
+    "site_full": "www.prokerala.com",
+    "site": "prokerala.com",
+    "site_section": "http://www.prokerala.com/news",
+    "site_categories": [
+      "alternative_medicine",
+      "science",
+      "health",
+      "astrology"
+    ],
+    "section_title": "Latest News Headlines, Top Stories, Today's Headlines, Today's News",
+    "title": "Mpox: WHO reports 906 new cases from 26 countries in November",
+    "title_full": "Mpox: WHO reports 906 new cases from 26 countries in November",
+    "published": "2023-12-28T12:48:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://www.prokerala.com/news/photos/imgs/1200/monkeypox-ians-infographics-1410483.jpg",
+    "performance_score": 0,
+    "domain_rank": 22662,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "47560bdb5b7a3faf510ad6a294b7b057b9ca32c8",
+  "url": "https://www.prokerala.com/news/articles/a1491829.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@prokerala",
+  "published": "2023-12-28T12:48:00.000+02:00",
+  "title": "Mpox: WHO reports 906 new cases from 26 countries in November",
+  "text": "New Delhi, Dec 28 : There has been a global rise in mpox cases with 906 newcases recorded from 26 countries in November, the World Health Organisation (WHO) said. This amounts to an increase of 26 per cent compared to cases in October, the WHO said in its latest monthly update. Most cases in November were reported from the Americas (34 per cent) and from the European Region (29 per cent). In the Americas, the US reported the highest with nearly 300 cases. In Europe, Portugal reported 128 new cases. In the Asia region, cases increased in Singapore, while China's cases declined. Africa reported a small decline, but the WHO said irregular reporting and high numbers of suspected cases in the Democratic Republic of Congo (DRC) outbreak make it difficult to interpret the trend there. \"The constantly changing geographical distribution of the cases does not allow for an accurate prediction of the regional trends, but the continued high number of cases globally highlights the fact that this outbreak is not over, and the virus continues to find pockets of susceptible individuals,\" the WHO said. The group did not note any major changes in the epidemiology of the disease. Between January 1, 2022 and November 30, 2023, a total of 92,783 laboratory-confirmed cases of mpox, including 171 deaths, have been reported to WHO from 116 countries. In the global of all reported modes of transmission outbreak, sexual encounter is the most common, comprising 17,907 of 21,561 (83.1 per cent) of all reported transmission events, followed by person-to-person non-sexual contact. This pattern has persisted over the last six months, with 97.1 per cent of new cases reporting sexual contact, the WHO said. The most common symptom is any rash, reported in 89.9 per cent of cases, followed by fever (58.4 per cent), and systemic rash or genital rash (54.3 per cent and 50.2 per cent, respectively).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Science and Technology", "Disaster and Accident", "Health"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "who",
+        "sentiment": "negative"
+      },
+      {
+        "name": "world health organisation",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "new delhi",
+        "sentiment": "none"
+      },
+      {
+        "name": "americas",
+        "sentiment": "none"
+      },
+      {
+        "name": "singapore",
+        "sentiment": "none"
+      },
+      {
+        "name": "asia",
+        "sentiment": "none"
+      },
+      {
+        "name": "europe",
+        "sentiment": "none"
+      },
+      {
+        "name": "china",
+        "sentiment": "none"
+      },
+      {
+        "name": "democratic republic of congo",
+        "sentiment": "none"
+      },
+      {
+        "name": "africa",
+        "sentiment": "none"
+      },
+      {
+        "name": "portugal",
+        "sentiment": "none"
+      },
+      {
+        "name": "us",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:45:07.811+02:00",
+  "updated": "2023-12-29T00:45:07.811+02:00"
+}

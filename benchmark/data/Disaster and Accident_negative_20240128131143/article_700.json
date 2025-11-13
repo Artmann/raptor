@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "44b4bc3ac4bb0b270b8b3aa3d7419af1042a157f",
+    "url": "https://www.whio.com/news/national/two-persons-interest/CTX52KWTJ5XDK7QZ6FD6RDSF54/",
+    "site_full": "www.whio.com",
+    "site": "whio.com",
+    "site_section": "https://www.newsbreak.com/whio-dayton-523008",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "WHIO Dayton | NewsBreak",
+    "title": "Two persons of interest sought in murder investigation involving missing pregnant teen – WHIO TV 7 and WHIO Radio",
+    "title_full": "Two persons of interest sought in murder investigation involving missing pregnant teen – WHIO TV 7 and WHIO Radio",
+    "published": "2023-12-29T00:32:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/csjycqil_pSVmXxMuSd_TqHGv7g=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/4O5XVQPOM3LMUJYDAPMHHUUXTM.jpg",
+    "performance_score": 0,
+    "domain_rank": 14169,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "44b4bc3ac4bb0b270b8b3aa3d7419af1042a157f",
+  "url": "https://www.whio.com/news/national/two-persons-interest/CTX52KWTJ5XDK7QZ6FD6RDSF54/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Meredith Deliso, ABC News",
+  "published": "2023-12-29T00:32:00.000+02:00",
+  "title": "Two persons of interest sought in murder investigation involving missing pregnant teen – WHIO TV 7 and WHIO Radio",
+  "text": "SAN ANTONIO, Texas — Police said they are seeking two persons of interest in a capital murder case after 18-year-old Savanah Soto is believed to have been found dead days after the mom-to-be was scheduled to be induced. An 18-year-old full-term pregnant woman and a 22-year-old man were discovered dead in a vehicle in San Antonio on Tuesday, police said. An unborn child was also found deceased, police said. The Kia Optima found had been at that location for likely several days, police said. The female victim has yet to be officially identified by the medical examiner but \"I think we can be confident\" that it is Soto, San Antonio Police Chief William McManus said during a press briefing Thursday. The male victim has been identified as her boyfriend -- 22-year-old Matthew Guerra -- police said. He died from a gunshot wound to the head though the medical examiner has not yet determined the manner of death, McManus said. Right now police do not believe this to be a murder-suicide though noted \"that possibility exists,\" the chief said. The case is currently being investigated as a capital murder for both victims, he said. \"It was a heinous act, it was unspeakable, the tragedy of it,\" McManus said. Police released footage on Thursday of two persons of interest being sought in connection with the case. One was captured driving the victims' Kia Optima, and the other was seen driving a dark-colored pickup truck, police said. The person of interest in the pickup truck is seen talking to the driver of the victims' car. McManus said they do not believe either victim appears in the video. McManus had called the case \"very, very perplexing\" following the discovery of the bodies. \"It was undetermined at that time whether we were going to be looking at it as a murder-suicide, or as a capital-murder investigation,\" he said Thursday. \"I think we've gotten past that point right now, unless we get evidence that would lead us to believe otherwise.\" Soto, 18, was last seen on Dec. 22 in Leon Valley, according to the Texas Department of Public Safety. The agency issued a CLEAR Alert -- used to help law enforcement locate someone in imminent danger or whose disappearance is involuntary -- for Soto on Monday. The pregnant teen had passed her delivery date, which \"caused significant concern among her family members after missing an essential medical appointment,\" the Leon Valley Police Department said in a press release earlier on Tuesday. Soto's mother, Gloria Cordova, told San Antonio ABC affiliate KSAT that her daughter was scheduled to be induced at a hospital this past Saturday. \"When I called her all morning she wasn't answering, was going straight to voicemail,\" Cordova told the station. \"We went to the hospital anyways. She was a no-show, and that's when I called the cops.\" Cordova said her daughter's home was clean and had been prepped for the baby's arrival. \"This is not like her,\" Cordova told KSAT. \"She was so excited to have this baby. The house was already baby-ready.\" Detectives are combing through social media and cellphone records, as well as days of surveillance video from several different locations where the victims were known to be, the chief said. \"Detectives are hopeful that surveillance video will lead to the events leading up to their death,\" McManus said. Copyright © 2023, ABC Audio. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Disaster and Accident",
+    "Human Interest"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "soto",
+        "sentiment": "none"
+      },
+      {
+        "name": "william mcmanus",
+        "sentiment": "none"
+      },
+      {
+        "name": "savanah soto",
+        "sentiment": "none"
+      },
+      {
+        "name": "mcmanus",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "whio",
+        "sentiment": "negative"
+      },
+      {
+        "name": "whio radio",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "san antonio",
+        "sentiment": "none"
+      },
+      {
+        "name": "texas",
+        "sentiment": "none"
+      },
+      {
+        "name": "san antonio",
+        "sentiment": "none"
+      },
+      {
+        "name": "matthew guerra",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:03:58.948+02:00",
+  "updated": "2023-12-29T01:03:58.948+02:00"
+}

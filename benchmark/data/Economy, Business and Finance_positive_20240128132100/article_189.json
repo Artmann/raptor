@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "850c4941899b0234063d79a9725b1123c27a2704",
+    "url": "http://sedici.unlp.edu.ar:80/handle/10915/162061",
+    "site_full": "sedici.unlp.edu.ar",
+    "site": "unlp.edu.ar",
+    "site_section": "http://sedici.unlp.edu.ar/feed/atom_1.0/site",
+    "site_categories": ["tennis", "sports"],
+    "section_title": "SEDICI - Repositorio de la UNLP",
+    "title": "Protective Effect of Monoterpene Isoespintanol in a Rat Model of Prediabetes Induced by Fructose",
+    "title_full": "Protective Effect of Monoterpene Isoespintanol in a Rat Model of Prediabetes Induced by Fructose",
+    "published": "2023-12-28T05:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 7473,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "850c4941899b0234063d79a9725b1123c27a2704",
+  "url": "http://sedici.unlp.edu.ar:80/handle/10915/162061",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Di Sarli Gutiérrez; Luciana; Castro; María Cecilia; Farromeque Vásquez; Sherley Catherine; Villagarcía; Hernán Gonzalo; González Arbeláez; Luisa Fernanda; Rojano; Benjamín Alberto; Schinella; Guillermo Raúl; Maiztegui; Bárbara; Francini; Flavio",
+  "published": "2023-12-28T05:00:00.000+02:00",
+  "title": "Protective Effect of Monoterpene Isoespintanol in a Rat Model of Prediabetes Induced by Fructose",
+  "text": "Search among the 153094 resources available in the repository\nUpload your works to SEDICI to increase its visibility and improve its impact\nA high-fructose diet (HFD) induces murine alterations like those recorded in human prediabetes. Protective effects of isoespintanol (monoterpene isolated from Oxandra cf. xylopioides) on changes induced by HFD were evaluated. Animals were maintained for 21 days with a standard diet (C), 10% fructose (F), and F plus isoespintanol (FI, 10 mg/kg, i.p.). Glycemia, triglyceridemia, total and HDL-cholesterol, and insulin resistance index (IRX) were determined. Intraperitoneal glucose tolerance test (IGTT) was performed. In the liver, we measured glycogen, lipogenic gene expression (SREBP-1c, GPAT, FAS, and CPT1), oxidative stress (GSH and 3′-nitrotyrosine content), inflammation markers (iNOS, TNF-α, and PAI-1 gene expression; iNOS and COX-2 protein levels), p-eNOS, p-Akt, and p-GSK3β protein levels. Isoespintanol corrected enhanced triglycerides, lipogenic genes, and IRX, and reduced HDL-cholesterol induced by HFD. Increased liver glycogen and inflammatory markers and decreased GSH, p-Akt, and p-GSK3β measured in F rats were reversed by isoespintanol, and p-eNOS/e-NOS and iNOS/GADPH ratios were normalized. Isoespintanol restored glucose tolerance (IGTT) compared to F rats. These results demonstrate for the first time that isoespintanol prevents endocrine–metabolic alterations induced by HFD in prediabetic rats. These effects could be mediated by Akt/eNOS and Akt/GSK3β pathways, suggesting its possible use as a therapeutic tool for the prevention of diabetes at early stages of its development (prediabetes).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Health",
+    "Science and Technology"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "monoterpene isoespintanol",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "hfd",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:22:14.562+02:00",
+  "updated": "2023-12-29T00:22:14.562+02:00"
+}

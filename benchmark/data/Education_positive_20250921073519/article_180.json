@@ -1,0 +1,118 @@
+{
+  "thread": {
+    "uuid": "127ff2c5be434111a584640473f9023ad56ebae0",
+    "url": "https://www.kens5.com/article/news/career-expo-thousands-south-texas-students-robstown/503-4b70a93e-4e2c-43ef-a80f-0bf9795293dc",
+    "site_full": "www.kens5.com",
+    "site": "kens5.com",
+    "site_section": "https://events.kens5.com/local",
+    "site_categories": ["media"],
+    "section_title": "San Antonio Local News | San Antonio&#x27;s source for Local News, Sports, Weather | kens5.com",
+    "site_title": "San Antonio&#x27;s Leading Local News: Weather, Traffic, Sports and more | San Antonio, Texas | kens5.com",
+    "title": "Thousands attend South Texas career expo in Robstown | kens5.com",
+    "title_full": "Thousands attend South Texas career expo in Robstown | kens5.com",
+    "published": "2025-09-18T01:45:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.kens5.com/assets/KIII/images/351a0025-526e-4a01-a94c-6e4da51e35ac/20250918T034651/351a0025-526e-4a01-a94c-6e4da51e35ac_1140x641.jpg",
+    "performance_score": 0,
+    "domain_rank": 28132,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "127ff2c5be434111a584640473f9023ad56ebae0",
+  "url": "https://www.kens5.com/article/news/career-expo-thousands-south-texas-students-robstown/503-4b70a93e-4e2c-43ef-a80f-0bf9795293dc",
+  "ord_in_thread": 0,
+  "author": "Bill Eaves",
+  "published": "2025-09-18T01:45:00.000+03:00",
+  "title": "Thousands attend South Texas career expo in Robstown | kens5.com",
+  "text": "CORPUS CHRISTI, Texas — Thousands of students from across South Texas gathered at the Richard M. Borchard Regional Fairgrounds on Wednesday for the You! Choose Career Expo, an event aimed at connecting young people with opportunities in the region.\nMore than 47 schools bused in students to learn about careers in fields ranging from technology and health care to skilled trades. Organizers said the expo was designed to highlight the range of opportunities available in the Coastal Bend and encourage students to pursue futures close to home.\nCarroll High School senior Nicolas Martinez attended the event with plans to study medicine.\n“I’m very blessed to have gotten this opportunity,\" he said. \"I’m very proud to be chosen to come here and see all these places.\"\nWorkforce officials added that the event is part of a broader effort to strengthen the local talent pipeline by showing students that many career paths can begin right in South Texas.\nMore from 3NEWS on KIIITV.com:\nSubscribe to our YouTube channel for your daily news and exclusive extended interviews.\nDo you have a news tip? Tell 3!\nEmail tell3@kiiitv.com so we can get in touch with you about your story should we have questions or need more information. We realize some stories are sensitive in nature. Let us know if you'd like to remain anonymous.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Social Issue", "Education"],
+  "topics": [
+    "Economy, Business and Finance->human resources",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Social Issue->demographics",
+    "Social Issue->social services",
+    "Social Issue->social condition",
+    "Education->students",
+    "Education->vocational education"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.youtube.com/@KIIITV",
+    "https://youtube.com/@KIIITV"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Richard M. Bor",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Nicolas Martinez",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "South",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Carroll High School",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "127ff2c5be434111a584640473f9023ad56ebae0",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": ["San Antonio"],
+      "state": ["Texas"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:52:16.154+03:00",
+  "updated": "2025-09-18T07:59:51.000+03:00"
+}

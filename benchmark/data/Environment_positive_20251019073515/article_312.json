@@ -1,0 +1,138 @@
+{
+  "thread": {
+    "uuid": "69d3ca9f8a14bb5a1d969755ad6851141ae60dd8",
+    "url": "https://www.mypunepulse.com/pune-hydrogen-fuel-bus-trial-begins-under-national-green-hydrogen-mission-pmpml-to-propose-inclusion-in-public-transport-if-successful/",
+    "site_full": "www.mypunepulse.com",
+    "site": "mypunepulse.com",
+    "site_section": "https://news.google.com/search?q=under%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [],
+    "section_title": "Google News - Search",
+    "site_title": "PUNE PULSE - Trusted-Connected-Targeted",
+    "title": "Pune: Hydrogen-Fuel Bus Trial Begins Under National Green Hydrogen Mission; PMPML To Propose Inclusion In Public Transport If Successful",
+    "title_full": "Pune: Hydrogen-Fuel Bus Trial Begins Under National Green Hydrogen Mission; PMPML To Propose Inclusion In Public Transport If Successful",
+    "published": "2025-10-16T14:18:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://www.mypunepulse.com/wp-content/uploads/2025/10/1004290299.jpg",
+    "performance_score": 0,
+    "domain_rank": 79892,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "69d3ca9f8a14bb5a1d969755ad6851141ae60dd8",
+  "url": "https://www.mypunepulse.com/pune-hydrogen-fuel-bus-trial-begins-under-national-green-hydrogen-mission-pmpml-to-propose-inclusion-in-public-transport-if-successful/",
+  "ord_in_thread": 0,
+  "author": "Punepulse",
+  "published": "2025-10-16T14:18:00.000+03:00",
+  "title": "Pune: Hydrogen-Fuel Bus Trial Begins Under National Green Hydrogen Mission; PMPML To Propose Inclusion In Public Transport If Successful",
+  "text": "Pune: Hydrogen-Fuel Bus Trial Begins Under National Green Hydrogen Mission; PMPML To Propose Inclusion In Public Transport If Successful\nPune, October 16, 2025 – As part of the National Green Hydrogen Mission launched by the Government of India, a hydrogen-fuel bus trial was conducted on Wednesday at the premises of the Maharashtra Energy Development Agency (MAHAURJA) in Pune. The bus will undergo trials across various parts of the city over the next seven days. If the trial proves successful, the Pune Mahanagar Parivahan Mahamandal Ltd (PMPML) plans to propose the introduction of hydrogen-powered buses into the city’s public transport fleet.\nThe 12 hydrogen-fuelled buses have been manufactured by Tata Motors and purchased by Indian Oil Corporation. These eco-friendly buses are currently in use in Delhi and Vadodara during visits of dignitaries. For the Pune trials, one of these buses has been brought from Vadodara. The trial run was conducted on the roads near Aundh under the joint supervision of MAHAURJA, PMPML, Tata Motors, and Indian Oil. MAHAURJA Project General Manager Anand Raidhurga and PMPML Chairman and Managing Director Pankaj Deore were present during the test.\nWith fuel prices crossing the ₹100 mark, the shift toward sustainable and environment-friendly vehicles is gaining momentum. While electric vehicles are seen as greener alternatives, experts note that they still rely heavily on electricity produced from coal, which limits their eco-friendliness. In contrast, hydrogen fuel is considered a truly clean energy source, as it is produced by separating hydrogen (H₂) from water using electricity, resulting in zero carbon emissions.\nSpeaking about the initiative, Pankaj Deore, Chairman and Managing Director of PMPML, said,\n“PMPML is actively working towards adopting hydrogen-fuel buses for Pune’s public transport. MAHAURJA and Tata Motors have taken the lead in this project. If the trial is successful, hydrogen-powered buses will be inducted into the PMPML fleet.”\nKey Features of the Bus:\n- Seating capacity: 40 passengers\n- 30 kg hydrogen fuel tank mounted on the roof\n- Range: 300 km on a full tank\n- Maximum speed: 70 km/h\nAnand Raidhurga, General Manager of MAHAURJA, added,\n“MAHAURJA has taken the initiative to introduce hydrogen fuel technology in Maharashtra. Over the next seven days, the bus will be tested on busy city roads and highways. If the trial succeeds, efforts will be made to establish hydrogen refuelling stations and promote the use of hydrogen-fuel buses across the state.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->energy saving", "Environment->sustainability"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Anand Ra",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Pune Mahanagar Parivahan Mahamandal Ltd",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Maharashtra Energy Development Agency",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Public Transport If Successful\nPune",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "National Green Hydrogen Mission",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Indian Oil Corporation",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "IOC",
+            "exchange": "NSE"
+          }
+        ]
+      },
+      {
+        "name": "Government of India",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Tata Motors",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "TATA",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:23:36.295+03:00",
+  "updated": "2025-10-16T14:32:37.000+03:00"
+}

@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "4d15d1e613639e07973235c94903c712ca7110b3",
+    "url": "https://www.lex18.com/news/doctors-watching-rise-in-respiratory-illnesses-high-levels-reported-in-kentucky",
+    "site_full": "www.lex18.com",
+    "site": "lex18.com",
+    "site_section": "https://lex18.com",
+    "site_categories": ["media"],
+    "section_title": "LEX 18, WLEX, Lexington, Kentucky Breaking News, Weather, Sports and Traffic | LEX18 | WLEX-TV | Lex18.com",
+    "title": "Doctors watching rise in respiratory illnesses, high levels reported in Ky.",
+    "title_full": "Doctors watching rise in respiratory illnesses, high levels reported in Ky.",
+    "published": "2023-12-29T01:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ewscripps.brightspotcdn.com/dims4/default/a577747/2147483647/strip/true/crop/965x507+0+35/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F0b%2F90%2F27a8368e4e769a932c4134b6eb87%2Fvirus-map.png",
+    "performance_score": 0,
+    "domain_rank": 18779,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4d15d1e613639e07973235c94903c712ca7110b3",
+  "url": "https://www.lex18.com/news/doctors-watching-rise-in-respiratory-illnesses-high-levels-reported-in-kentucky",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Evelyn Schultz",
+  "published": "2023-12-29T01:00:00.000+02:00",
+  "title": "Doctors watching rise in respiratory illnesses, high levels reported in Ky.",
+  "text": "(LEX 18) — With just days left in the year, doctors are watching a rise in respiratory illnesses nationwide. [CDC data](https://www.cdc.gov/respiratory-viruses/data-research/dashboard/activity-levels.html) shows increases in flu, RSV, and COVID-19. \"It's just a little bit of everything right now,\" said Dr. Beth Hawse of Commonwealth Pediatrics. Almost half of states are seeing high or very high levels of respiratory illness, including Kentucky. A CDC map shows the Commonwealth shaded orange, indicating an increased number of people going to the doctor with fever, cough, or sore throat. Dr. Hawse says at her office, she's seeing more flu cases ahead of when cases typically peak. Wednesday, the [Lexington-Fayette County Health Department reported](https://www.facebook.com/photo?fbid=761432862684599&set=a.247803940714163) nearly 200 lab-confirmed flu cases last week, the most in one week this flu season. \"Usually, we'll see more of that when kids go to school in January, but we're just having some sporadic cases of flu,\" said Dr. Hawse. \"Now you're seeing this steadier rise in flu.\" She told LEX 18 more kids are also testing positive for strep. If you or a family member have respiratory symptoms, she recommends getting tested to determine the best treatment option. \"There are things we can do to help you feel better, and it's different guidance,\" she said. \"So I think it's best to be tested just to know what's going on.\" It's also important to stay home to prevent the spread of any virus. And according to Dr. Hawse, it's not too late to protect yourself by getting vaccinated. \"A lot of us are off work or school right now,\" she said. \"Now is a good time to get vaccinated before we start seeing each other again.\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Health"],
+  "external_links": [
+    "https://www.facebook.com/photo?fbid=761432862684599&set=a.247803940714163)",
+    "https://www.cdc.gov/respiratory-viruses/data-research/dashboard/activity-levels.html)",
+    "https://www.facebook.com/photo",
+    "https://cdc.gov/respiratory-viruses/data-research/dashboard/activity-levels.html)",
+    "https://facebook.com/photo?fbid=761432862684599&set=a.247803940714163)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "hawse",
+        "sentiment": "none"
+      },
+      {
+        "name": "beth hawse",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "commonwealth pediatrics",
+        "sentiment": "none"
+      },
+      {
+        "name": "cdc",
+        "sentiment": "none"
+      },
+      {
+        "name": "lexington-fayette county health department",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "ky.",
+        "sentiment": "none"
+      },
+      {
+        "name": "kentucky",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:11:55.435+02:00",
+  "updated": "2023-12-29T01:11:55.435+02:00"
+}

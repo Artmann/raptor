@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "17bf5d1da2884811dea07ecc27369bbf27d1df23",
+    "url": "https://www.kdrv.com/news/national/secret-service-says-agent-on-harris-detail-was-removed-from-assignment-after-distressing-behavior/article_fd6a054c-90f5-5e20-a6a2-7e1e58cfe127.html",
+    "site_full": "www.kdrv.com",
+    "site": "kdrv.com",
+    "site_section": "https://www.kdrv.com/news",
+    "site_categories": ["media"],
+    "section_title": "News | kdrv.com",
+    "title": "Secret Service says agent on Harris’ detail was removed from assignment after distressing behavior | National | kdrv.com",
+    "title_full": "Secret Service says agent on Harris’ detail was removed from assignment after distressing behavior | National | kdrv.com",
+    "published": "2024-04-25T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/kdrv.com/content/tncms/assets/v3/editorial/e/12/e126f2f2-de45-5476-9e1c-e08d8044364e/662aa52080f7a.image.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 41479,
+    "domain_rank_updated": "2024-04-23T13:07:55.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "17bf5d1da2884811dea07ecc27369bbf27d1df23",
+  "url": "https://www.kdrv.com/news/national/secret-service-says-agent-on-harris-detail-was-removed-from-assignment-after-distressing-behavior/article_fd6a054c-90f5-5e20-a6a2-7e1e58cfe127.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Michael Williams, CNN",
+  "published": "2024-04-25T08:00:00.000+03:00",
+  "title": "Secret Service says agent on Harris’ detail was removed from assignment after distressing behavior | National | kdrv.com",
+  "text": "Washington (CNN) — A Secret Service agent assigned to Vice President Kamala Harris’ detail was removed from their assignment after displaying behavior that colleagues found “distressing,” the agency said. The incident occurred about 9 a.m. ET Monday at Joint Base Andrews, the agency said, ahead of a planned visit by the vice president to Wisconsin. Secret Service spokesman Anthony Guglielmi said in a statement that the agent began “displaying behavior their colleagues found distressing.” The statement did not clarify what that behavior entailed. “The agent was removed from their assignment while medical personnel were summoned,” Guglielmi said. Harris was at the Naval Observatory during the incident and there “was no impact on her departure” from the base. “The U.S. Secret Service takes the safety and health of our employees very seriously,” Guglielmi said. “As this was a medical matter, we will not disclose any further details.” Harris’ office did not immediately return a request for comment The incident was first reported by [the Washington Examiner](https://www.washingtonexaminer.com/news/white-house/2976729/secret-service-agent-protecting-kamala-harris-involved-in-fight-with-other-agents/). The-CNN-Wire ™ & © 2024 Cable News Network, Inc., a Warner Bros. Discovery Company. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.washingtonexaminer.com/news/white-house/2976729/secret-service-agent-protecting-kamala-harris-involved-in-fight-with-other-agents/).",
+    "https://washingtonexaminer.com/news/white-house/2976729/secret-service-agent-protecting-kamala-harris-involved-in-fight-with-other-agents/)."
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "kamala harris",
+        "sentiment": "negative"
+      },
+      {
+        "name": "harris",
+        "sentiment": "negative"
+      },
+      {
+        "name": "guglielmi",
+        "sentiment": "none"
+      },
+      {
+        "name": "anthony guglielmi",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "secret service",
+        "sentiment": "negative"
+      },
+      {
+        "name": "u.s. secret service",
+        "sentiment": "none"
+      },
+      {
+        "name": "joint base andrews",
+        "sentiment": "none"
+      },
+      {
+        "name": "naval observatory",
+        "sentiment": "none"
+      },
+      {
+        "name": "washington examiner",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "wisconsin",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:24:37.218+03:00",
+  "updated": "2024-04-26T00:24:37.218+03:00"
+}

@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "a54e4f27b36d29205cffc179c512bab10b961edc",
+    "url": "https://www.welt.de/regionales/sachsen-anhalt/article68f0d81634e731de12f559aa/sachsen-anhalt-investiert-acht-millionen-euro-in-klaeranlagen.html",
+    "site_full": "www.welt.de",
+    "site": "welt.de",
+    "site_section": "http://www.welt.de",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "section_title": "WELT - Aktuelle Nachrichten, News, Hintergründe &amp; Videos",
+    "site_title": "WELT - Aktuelle Nachrichten, News, Hintergründe &amp; Videos",
+    "title": "Sachsen-Anhalt investiert acht Millionen Euro in Kläranlagen - WELT",
+    "title_full": "Sachsen-Anhalt investiert acht Millionen Euro in Kläranlagen - WELT",
+    "published": "2025-10-16T14:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://images.welt.de/68f0d81634e731de12f559aa/21a9800fcab44b1e211dd3a47620cec9-master/ci16x9-w1200/investitionen-in-klaeranlagen",
+    "performance_score": 0,
+    "domain_rank": 808,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a54e4f27b36d29205cffc179c512bab10b961edc",
+  "url": "https://www.welt.de/regionales/sachsen-anhalt/article68f0d81634e731de12f559aa/sachsen-anhalt-investiert-acht-millionen-euro-in-klaeranlagen.html",
+  "ord_in_thread": 0,
+  "author": "@welt",
+  "published": "2025-10-16T14:33:00.000+03:00",
+  "title": "Sachsen-Anhalt investiert acht Millionen Euro in Kläranlagen - WELT",
+  "text": "Das Land fördert Kläranlagen mit mehr als acht Millionen Euro aus einem europäischen Fonds – Ziel ist es, deren Energieverbrauch zu senken. Und es ist noch mehr geplant.\nAnzeige Das Land Sachsen-Anhalt investiert über acht Millionen Euro in die Steigerung der Energieeffizienz an Kläranlagen. Wie das Landesverwaltungsamt mitteilte, fließt das Geld in neun unterschiedliche Projekte im ganzen Bundesland. Damit soll der Energieverbrauch in den Kläranlagen gesenkt werden.\n«Mit diesen Investitionen stärken wir nicht nur die kommunale Infrastruktur, sondern leisten auch einen wichtigen Beitrag zum Klimaschutz», sagt der Präsident des Landesverwaltungsamtes Thomas Pleye. «Energieeffiziente Kläranlagen sind ein zentraler Baustein für eine nachhaltige Wasserwirtschaft.»\nGeld kommt aus dem EFRE-Fonds Mit etwa 1,5 Millionen Euro werden Maßnahmen an der Gemeinschaftskläranlage Wittenberg am stärksten bezuschusst. Jeweils rund 1,4 Millionen Euro werden für die Modernisierungen an der Kläranlage Wengelsdorf und der Kläranlage Elster eingesetzt. Auch die Kläranlage Halle-Nord bekommt 147.500 Euro.\nDas Geld kommt aus dem Europäischen Fonds für regionale Entwicklung (EFRE). Dieser soll kommunale Infrastrukturprojekte mit Fokus auf Klimaschutz und Energieeffizienz fördern. Laut einer Sprecherin des Landesverwaltungsamtes sollen in diesem Jahr auch noch weitere Maßnahmen bezuschusst werden.\ndpa-infocom GmbH",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": ["Environment", "Economy, Business and Finance"],
+  "topics": [
+    "Environment->energy saving",
+    "Environment->water pollution",
+    "Economy, Business and Finance->energy and resource",
+    "Economy, Business and Finance->utilities"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.welt.de%2Fregionales%2Fsachsen-anhalt%2Farticle68f0d81634e731de12f559aa%2Fsachsen-anhalt-investiert-acht-millionen-euro-in-klaeranlagen.html%3Fcid%3Dsocialmedia.linkedin.shared.web",
+    "https://www.linkedin.com/shareArticle",
+    "https://linkedin.com/shareArticle?url=https%3A%2F%2Fwww.welt.de%2Fregionales%2Fsachsen-anhalt%2Farticle68f0d81634e731de12f559aa%2Fsachsen-anhalt-investiert-acht-millionen-euro-in-klaeranlagen.html%3Fcid%3Dsocialmedia.linkedin.shared.web"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_de", "top_news_ch", "top_news_at", "top_news"],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:42:39.713+03:00",
+  "updated": "2025-10-16T14:57:56.000+03:00"
+}

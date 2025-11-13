@@ -1,0 +1,124 @@
+{
+  "thread": {
+    "uuid": "db2be5e5ac1bd51c79419be9fd973547bc154eba",
+    "url": "https://independent.ng/egypt-nigeria-deepen-educational-ties-through-fair/",
+    "site_full": "independent.ng",
+    "site": "independent.ng",
+    "site_section": "https://news.google.com/search?q=through%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "Independent Newspaper Nigeria – Breaking News from Nigeria and the World",
+    "title": "Egypt, Nigeria Deepen Educational Ties Through Fair  - Independent Newspaper Nigeria",
+    "title_full": "Egypt, Nigeria Deepen Educational Ties Through Fair  - Independent Newspaper Nigeria",
+    "published": "2025-09-18T09:16:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NG",
+    "main_image": "https://independent.ng/wp-content/uploads/Egypt-Nigeria-Deepen-Educational-Ties-Through-Fair.jpg",
+    "performance_score": 0,
+    "domain_rank": 135910,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "db2be5e5ac1bd51c79419be9fd973547bc154eba",
+  "url": "https://independent.ng/egypt-nigeria-deepen-educational-ties-through-fair/",
+  "ord_in_thread": 0,
+  "author": "Nicholas Uwerunonye",
+  "published": "2025-09-18T09:16:00.000+03:00",
+  "title": "Egypt, Nigeria Deepen Educational Ties Through Fair  - Independent Newspaper Nigeria",
+  "text": "Nigeria’s education landscape is receiving a diplomatic and economic boost as top Egyptian universities arrive in the country for the third Egypt– Nigeria Educational Fair, a week-long initiative designed to strengthen academic cooperation, expand scholarship opportunities, and open new channels for research and innovation.\nThe fair, which kicked off at the Hilton Hotel in Abuja on September 15 and runs through September 20, will also tour Kaduna, Zaria and Kano. It brings together institutions such as Cairo University, Ain Shams University, El-Galala University, and Badr University—some of Egypt’s fastest-growing centres of learning and research.\nAt its heart, the fair is more than a showcase of academic opportunities; it is also a subtle exercise in diplomacy and economic engagement. With higher education increasingly seen as a driver of global competitiveness, the initiative positions Nigeria and Egypt as strategic partners in shaping Africa’s knowledge economy.\nSpeaking at the opening ceremony, Dr. Assem Hassaballa El-Sheikh of the Egyptian Press Syndicate described the fair as an “avenue for us to interact with scholars and intellectuals in furthering the course of education in Africa.”\nHe praised the Nigerian Embassy in Cairo, the Egyptian mission in Abuja, noting that partnerships with local institutions have sustained the fair since 2015.\nEgypt’s Ambassador to Nigeria, Mohamed Fouad, who formally declared the fair open, underscored the deeper diplomatic message behind the initiative.\n“Education has always been the cornerstone of our historical bilateral relations,” he said, pointing to Al-Azhar University’s centuries-long history of hosting Nigerian students.\nHe reaffirmed the embassy’s commitment to strengthening bilateral cooperation not just in education but also in people-to-people ties.\nBeyond cultural diplomacy, the fair underscores the business side of higher education. With thousands of Nigerian students seeking international study each year, Egypt is positioning itself as a competitive destination.\nBy offering scholarships, affordable tuition, and opportunities for research collaboration, Egyptian universities are effectively tapping into a large and growing market of Nigerian families willing to invest in quality education abroad.\nEducation experts say the benefits go both ways. Nigeria’s demand for tertiary education is ballooning, with over 1.9 million candidates sitting for JAMB examinations in 2024 and only a fraction gaining admission into local universities. For Egypt, attracting Nigerian students means foreign exchange inflows, stronger institutional reputations, and long-term goodwill that can extend to business, trade, and diplomatic relations.\nProf. Ibrahim Muhammad, Director-General of Nigeria Arabic Village and an alumnus of Egyptian institutions, urged Nigerians to seize the opportunities.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Politics"],
+  "topics": [
+    "Education->students",
+    "Education->educational grading",
+    "Education->college and university",
+    "Politics->education policy",
+    "Politics->international relations",
+    "Politics->government"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Hilton Hotel",
+        "sentiment": "none"
+      },
+      {
+        "name": "Africa",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Ain Shams University",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "El-Galala University",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Cairo University",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Badr University",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:25:46.743+03:00",
+  "updated": "2025-09-18T09:31:51.000+03:00"
+}

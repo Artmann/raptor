@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "9fea38deaec0eb37f18d1414d41b5305ba5585ac",
+    "url": "https://www.nottinghampost.com/news/local-news/devils-bend-bramcote-finally-reopens-9359183",
+    "site_full": "www.nottinghampost.com",
+    "site": "nottinghampost.com",
+    "site_section": "https://www.nottinghampost.com/rss.xml",
+    "site_categories": ["media", "top_news"],
+    "section_title": "Nottinghamshire Live - frontpage",
+    "title": "Devil's Bend in Bramcote finally reopens after near 3-month closure - Nottinghamshire Live",
+    "title_full": "Devil's Bend in Bramcote finally reopens after near 3-month closure - Nottinghamshire Live",
+    "published": "2024-06-21T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "https://i2-prod.nottinghampost.com/incoming/article9359396.ece/ALTERNATES/s1200/3_JAJ_TEM_210624DevilsB_004JPG.jpg",
+    "performance_score": 0,
+    "domain_rank": 10278,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9fea38deaec0eb37f18d1414d41b5305ba5585ac",
+  "url": "https://www.nottinghampost.com/news/local-news/devils-bend-bramcote-finally-reopens-9359183",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Joseph Connolly",
+  "published": "2024-06-21T03:00:00.000+03:00",
+  "title": "Devil's Bend in Bramcote finally reopens after near 3-month closure - Nottinghamshire Live",
+  "text": "The infamous Devil's Bend section of road on Chilwell Lane in Bramcote has reopened after being closed for nearly three months. A section of ancient wall collapsed into the road on April 6, while the road was closed for gas works. It was meant to reopen on April 18 but stayed shut due to the danger of more of the wall falling. Repairs finally started on May 6 after a lengthy investigation. A separate section of wall collapsed in February 2021 and was repaired swiftly. But on this occasion, the longer closure has allowed Nottinghamshire County Council teams to ensure that the wall is reinforced properly and protected from collapsing again. Get the latest news straight to your phone by joining us on WhatsApp Work involved strengthening the wall with concrete and making sure that concrete wasn't visible. It also involved making sure the new brickwork matched the remaining, centuries old brickwork. The job was initially touted to be completed by June 18 before a week-long delay was announced to allow National Grid to carry out works that had been planned for before the wall's collapse. The new scheduled reopening date was set for June 24. But the road has now finally reopened. Devil's Bend, near the corner of Town Street and Chilwell Lane, is a slaloming section of carriageway renowned by those in the immediate and surrounding areas. Its name comes from its reputation for being a tricky turn to make, with some even choosing to avoid the route altogether . The wall’s exact age is unknown, but it is depicted on some of the oldest Ordnance Survey maps of the area that have been found. It was likely cut into the sandstone which formed the bedrock of Nottingham and its surrounding areas and it is believed the upper and lower sections were built at separate times.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Disaster and Accident", "Social Issue"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "nottinghamshire",
+        "sentiment": "negative"
+      },
+      {
+        "name": "nottinghamshire county council",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "bramcote",
+        "sentiment": "none"
+      },
+      {
+        "name": "chilwell lane",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-21T15:42:04.321+03:00",
+  "updated": "2024-06-21T15:42:04.321+03:00"
+}

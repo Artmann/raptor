@@ -1,0 +1,133 @@
+{
+  "thread": {
+    "uuid": "2b89830b8418272d5f8481235b9e016a68ced5ad",
+    "url": "https://japannews.yomiuri.co.jp/features/travel-spots/20240622-193469",
+    "site_full": "japannews.yomiuri.co.jp",
+    "site": "yomiuri.co.jp",
+    "site_section": "https://japannews.yomiuri.co.jp/editorial/political-pulse/",
+    "site_categories": ["top_news"],
+    "section_title": "Political Pulse &#045; The Japan News",
+    "title": "Kochi: Popular Creepy Characters Sing, Dance for Disaster Prevention - The Japan News",
+    "title_full": "Kochi: Popular Creepy Characters Sing, Dance for Disaster Prevention - The Japan News",
+    "published": "2024-06-22T09:53:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "JP",
+    "main_image": "https://japannews.yomiuri.co.jp/wp-content/uploads/2024/06/harima.jpg",
+    "performance_score": 0,
+    "domain_rank": 1739,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2b89830b8418272d5f8481235b9e016a68ced5ad",
+  "url": "https://japannews.yomiuri.co.jp/features/travel-spots/20240622-193469",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "The Yomiuri Shimbun",
+  "published": "2024-06-22T09:53:00.000+03:00",
+  "title": "Kochi: Popular Creepy Characters Sing, Dance for Disaster Prevention - The Japan News",
+  "text": "KOCHI — Harima and Yabashi, mascot characters that promote the famous Harimaya Bridge in Kochi, from which their names are derived, have started singing and dancing at events to raise disaster prevention awareness among children. Harima and Yabashi were created by Hitoshi Shimoo, 55, who runs a local cafe, and Yuya Okanoue, 36, to promote Harimaya Bridge (Harimayabashi in Japanese), a sightseeing spot considered to be one of the most disappointing in Japan alongside the Sapporo Clock Tower and Dutch Slope in Nagasaki. The mascots have become popular since their debut in January 2023, despite their slightly creepy appearance. Their song instructs children that if there is an earthquake: “listen to your teacher,” “don’t push others,” “don’t run,” “don’t talk” and “don’t go back after evacuation.” Shimoo wrote the lyrics. The choreography was thought up by the two of them together. They recorded the song, which is available for sale as a CD at Shimoo’s cafe. Harima and Yabashi came in second place in the Kimo Chara Grand Prix in Shiga Prefecture, a competition among the more unusual local characters from across the country in April. They are expanding their activities after often being invited to events around Kochi and neighboring Nankoku, and appear in a TV commercial encouraging people to get health checkups.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Arts, Culture and Entertainment"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "kochi",
+        "sentiment": "negative"
+      },
+      {
+        "name": "hitoshi shimoo",
+        "sentiment": "none"
+      },
+      {
+        "name": "shimoo",
+        "sentiment": "none"
+      },
+      {
+        "name": "yuya okanoue",
+        "sentiment": "none"
+      },
+      {
+        "name": "yabashi",
+        "sentiment": "none"
+      },
+      {
+        "name": "kimo chara",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "japan news kochi",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "kochi",
+        "sentiment": "none"
+      },
+      {
+        "name": "yabashi",
+        "sentiment": "none"
+      },
+      {
+        "name": "harimaya bridge",
+        "sentiment": "none"
+      },
+      {
+        "name": "shiga prefecture",
+        "sentiment": "none"
+      },
+      {
+        "name": "shimoo",
+        "sentiment": "none"
+      },
+      {
+        "name": "japan",
+        "sentiment": "none"
+      },
+      {
+        "name": "sapporo clock tower",
+        "sentiment": "none"
+      },
+      {
+        "name": "nagasaki",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-22T09:54:20.471+03:00",
+  "updated": "2024-06-29T13:32:05.539+03:00"
+}

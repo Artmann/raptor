@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "a99b38bb7ccfd93cf6a3b49a712430974434e754",
+    "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2024-04-25/man-was-shot-13-times-in-chicago-traffic-stop-where-officers-fired-nearly-100-rounds-autopsy-shows",
+    "site_full": "www.sandiegouniontribune.com",
+    "site": "sandiegouniontribune.com",
+    "site_section": "https://solarflares.einnews.com/live_feed",
+    "site_categories": ["real_estate", "media", "buying_selling_homes"],
+    "section_title": "Live Feed Wire - Solar Flares News Today - EIN Presswire",
+    "title": "Man was shot 13 times in Chicago traffic stop where officers fired nearly 100 rounds, autopsy shows - The San Diego Union-Tribune",
+    "title_full": "Man was shot 13 times in Chicago traffic stop where officers fired nearly 100 rounds, autopsy shows - The San Diego Union-Tribune",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ca-times.brightspotcdn.com/dims4/default/6256481/2147483647/strip/true/crop/3000x1575+0+213/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F21%2F30%2F4f10e1b21d90d32fa7144c06a71b%2Fa200519bc24b4af8a9b7a210c7d5c6a5",
+    "performance_score": 0,
+    "domain_rank": 1515,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a99b38bb7ccfd93cf6a3b49a712430974434e754",
+  "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2024-04-25/man-was-shot-13-times-in-chicago-traffic-stop-where-officers-fired-nearly-100-rounds-autopsy-shows",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "Man was shot 13 times in Chicago traffic stop where officers fired nearly 100 rounds, autopsy shows - The San Diego Union-Tribune",
+  "text": "An autopsy shows a man killed in a traffic stop where plainclothes Chicago police officers fired nearly 100 rounds was shot 13 times",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "reed",
+        "sentiment": "none"
+      },
+      {
+        "name": "dexter reed",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "san diego union",
+        "sentiment": "negative"
+      },
+      {
+        "name": "civilian office of police accountability",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "chicago",
+        "sentiment": "none"
+      },
+      {
+        "name": "cook county",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:14:31.373+03:00",
+  "updated": "2024-04-26T00:31:22.550+03:00"
+}

@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "0a7d3d4893653fdccac2cff6f569467592bde5d9",
+    "url": "https://www.princegeorgecitizen.com/national-news/opposition-bc-united-seeks-to-prevent-convicted-dangerous-offenders-from-name-changes-8655151",
+    "site_full": "www.princegeorgecitizen.com",
+    "site": "princegeorgecitizen.com",
+    "site_section": "https://www.princegeorgecitizen.com/national-news",
+    "site_categories": ["media", "education", "entertainment"],
+    "section_title": "National News  - Prince George Citizen",
+    "title": "Opposition BC United seeks to prevent convicted dangerous offenders from name changes - Prince George Citizen",
+    "title_full": "Opposition BC United seeks to prevent convicted dangerous offenders from name changes - Prince George Citizen",
+    "published": "2024-04-25T23:59:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2024/04/20240425160436-d3e4857d07beaedc68f61446a2282047b48b6fab052c15065a03474c24f8b70a.jpg;w=650;h=418;mode=crop",
+    "performance_score": 0,
+    "domain_rank": 44437,
+    "domain_rank_updated": "2024-04-23T13:07:55.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0a7d3d4893653fdccac2cff6f569467592bde5d9",
+  "url": "https://www.princegeorgecitizen.com/national-news/opposition-bc-united-seeks-to-prevent-convicted-dangerous-offenders-from-name-changes-8655151",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Canadian Press",
+  "published": "2024-04-25T23:59:00.000+03:00",
+  "title": "Opposition BC United seeks to prevent convicted dangerous offenders from name changes - Prince George Citizen",
+  "text": "VICTORIA — British Columbia's Opposition leader says community safety should come before protection of privacy rights for dangerous people. The public should know who is living in their community, BC United Leader Kevin Falcon said on Thursday after introducing proposed private-member's legislation to automatically stop people convicted of dangerous offences from legally changing their names. He said he introduced the proposed bill to amend the Name Act after learning child-killer Allan Schoenborn was recently permitted to legally change his name. Schoenborn was found guilty of three counts of first-degree murder for the deaths of his children, aged five, eight and 10, whose bodies were found in the family's Merritt, B.C., home in 2008. A judge ruled he was not criminally responsible because of a mental disorder after the verdict. His new identity has not been made public. His name change came to light when he asked the BC Review Board — the body that determines his custody status every year — to restrict publication of his new legal name. The board denied the application, saying it would give Schoenborn until April 30 to seek a legal review of its decision. If no legal action is taken, the board said it will use Schoenborn's current legal and former names in its reasons for disposition. Falcon said the NDP government has the power under the current Name Act to prevent name changes, but it did not do that with Schoenborn, who has been held at the Forensic Psychiatric Hospital in Coquitlam, B.C., since 2010. \"This is a huge problem for the safety of communities,\" he said at a news conference. \"And as I often say around these issues, when government balances competing interests, I put the interests of community safety well above the interest of Allan Schoenborn to have his name changed so that he can move around the community unnoticed.\" Falcon said recently permitting Schoenborn to change his name is \"not acceptable.\" He said he fears a dangerous person could \"show up in your community, perhaps even in a neighbourhood living in a basement suite across the street, without you even being aware because the NDP allowed his last name to be changed without anyone knowing what the new name is.\" The Opposition's Name Amendment Act, if passed, would automatically prevent people designated as a dangerous or long-term offender under the Criminal Code from filing applications to change their name, said Falcon. \"Currently, Vital Statistics, under the Ministry of Health, has complete authority to deny any change of name application that is 'sought for an improper purpose or is on any other ground objectionable,'\" Falcon said in the legislature. \"This government failed to use that to prevent Schoenborn's name change.\" Falcon called on the legislature to pass his private member's bill as soon as possible. Premier David Eby said earlier he would look at the current name-change legislation because people should not be able to evade responsibility for criminal offences by changing their names. This report by The Canadian Press was first published April 25, 2024. Dirk Meissner, The Canadian Press",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Social Issue", "Politics"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "george citizen",
+        "sentiment": "negative"
+      },
+      {
+        "name": "kevin falcon",
+        "sentiment": "negative"
+      },
+      {
+        "name": "schoenborn",
+        "sentiment": "none"
+      },
+      {
+        "name": "david eby",
+        "sentiment": "none"
+      },
+      {
+        "name": "allan schoenborn",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "bc united",
+        "sentiment": "negative"
+      },
+      {
+        "name": "forensic psychiatric hospital",
+        "sentiment": "none"
+      },
+      {
+        "name": "ndp",
+        "sentiment": "none"
+      },
+      {
+        "name": "falcon",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "merritt",
+        "sentiment": "none"
+      },
+      {
+        "name": "coquitlam",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:25:56.718+03:00",
+  "updated": "2024-04-26T05:26:42.453+03:00"
+}

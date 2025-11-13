@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "2a42c2a7d2be2226a9a748ec8bb112526e9ce2eb",
+    "url": "https://datafloq.com/news/kazakh-fintech-giant-kaspi-kz-makes-us-ipo-filing-public/",
+    "site_full": "datafloq.com",
+    "site": "datafloq.com",
+    "site_section": "https://datafloq.com/feed/?post_type=dfloq_news",
+    "site_categories": ["jobs", "job_search", "tech"],
+    "section_title": "News Archive | Datafloq",
+    "title": "Kazakh fintech giant Kaspi.kz makes US IPO filing public",
+    "title_full": "Kazakh fintech giant Kaspi.kz makes US IPO filing public",
+    "published": "2023-12-28T23:23:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://datafloq.com/wp-content/uploads/2023/12/tag-reuters-com-2023-newsml-LYNXMPEJBR0FT-1.jpg",
+    "performance_score": 0,
+    "domain_rank": 58898,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2a42c2a7d2be2226a9a748ec8bb112526e9ce2eb",
+  "url": "https://datafloq.com/news/kazakh-fintech-giant-kaspi-kz-makes-us-ipo-filing-public/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Reuters",
+  "published": "2023-12-28T23:23:00.000+02:00",
+  "title": "Kazakh fintech giant Kaspi.kz makes US IPO filing public",
+  "text": "(Reuters) – Kazakhstan-based fintech heavyweight Kaspi.kz disclosed a surge in profits and revenue for its most recent quarter on Thursday, when it took another step towards a U.S. listing by making its IPO paperwork public.\nThe company commands a valuation of nearly $19 billion on the London Stock Exchange, where its global depositary receipts are already listed.\nKaspi.kz joins several richly valued firms heading towards a U.S. listing in 2024. Social media giant Reddit, cloud security company Rubrik and software startup ServiceTitan are also expected to go public next year.\n“With a U.S. listing, we believe Kaspi.kz can reach a larger and more diverse investor base that will enjoy being with us for the next stage of our development,” co-founder and CEO Mikheil Lomtadze wrote in a letter attached to the IPO prospectus.\nNet income for the three months ended Sept. 30 was 232.49 billion Kazakh tenge ($512 million), up 40% from last year. In the same period, revenue grew nearly 51% to 508.44 billion Kazakh tenge.\nThe company’s payments, marketplace and fintech solutions cater to both consumers and merchants. Besides e-commerce purchases, its app also lets customers access buy now, pay later (BNPL) debt, renew their driving licenses and register their businesses.\nKaspi.kz did not disclose the number of shares it expects to sell in the IPO, but said its offer price would be similar to the trading price of its LSE-listed depositary receipts.\nIt has applied to list its American Depositary Shares (ADS) on the Nasdaq, the bourse where some of the biggest U.S. technology firms are traded.\nMorgan Stanley, J.P. Morgan and Citigroup are the lead underwriters for the IPO.\n(Reporting by Niket Nishant in Bengaluru; Editing by Shailesh Kuber)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Politics"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "rubrik",
+        "sentiment": "none"
+      },
+      {
+        "name": "mikheil lomtadze",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "reuters",
+        "sentiment": "negative"
+      },
+      {
+        "name": "ipo",
+        "sentiment": "negative"
+      },
+      {
+        "name": "london stock exchange",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "kazakhstan",
+        "sentiment": "none"
+      },
+      {
+        "name": "us",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "reddit",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T02:22:26.096+02:00",
+  "updated": "2023-12-29T02:22:26.096+02:00"
+}

@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "265f7643b7805e14b42dc59421dbd4ad74b9e5c1",
+    "url": "https://article.wn.com/view/2025/05/08/Unincorporated_Pleasanton_residents_relying_on_hose_water_af",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/home",
+    "site_categories": ["media"],
+    "section_title": "Home",
+    "site_title": "World News",
+    "title": "Unincorporated Pleasanton residents relying on hose water after line breaks - Worldnews.com",
+    "title_full": "Unincorporated Pleasanton residents relying on hose water after line breaks - Worldnews.com",
+    "published": "2025-05-08T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4256,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "265f7643b7805e14b42dc59421dbd4ad74b9e5c1",
+  "url": "https://article.wn.com/view/2025/05/08/Unincorporated_Pleasanton_residents_relying_on_hose_water_af",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T03:00:00.000+03:00",
+  "title": "Unincorporated Pleasanton residents relying on hose water after line breaks - Worldnews.com",
+  "text": "PLEASANTON — There is a garden hose running from Rick Hempy’s house to his neighbor’s homes, supplying them with water to shower, bathe or wash dishes. The web of hoses, which includes the one from Hempy’s home, was the unincorporated neighborhood’s latest water troubles. Last summer, a line supplying at least six homes",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Social Issue", "Environment", "Crime, Law and Justice"],
+  "topics": [
+    "Social Issue->social services",
+    "Environment->natural resources",
+    "Environment->environmental clean-up",
+    "Environment->water",
+    "Crime, Law and Justice->law enforcement"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Rick Hempy",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:05:50.974+03:00",
+  "updated": "2025-05-08T01:09:35.000+00:00"
+}

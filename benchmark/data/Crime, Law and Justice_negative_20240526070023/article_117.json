@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "93fc361bb98dcaf0c416c5305fb87d5122412fe7",
+    "url": "https://whdh.com/news/karen-read-back-in-court-for-murder-trial-father-says-shes-innocent",
+    "site_full": "whdh.com",
+    "site": "whdh.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": ["media", "tech"],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "Karen Read back in court for murder trial, father says she’s innocent - Boston News, Weather, Sports | WHDH 7News",
+    "title_full": "Karen Read back in court for murder trial, father says she’s innocent - Boston News, Weather, Sports | WHDH 7News",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://whdh.com/wp-content/uploads/sites/3/2024/04/WHDH_2024-04-25_22h33-13-cover.jpg?quality=60&strip=color",
+    "performance_score": 0,
+    "domain_rank": 11012,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "93fc361bb98dcaf0c416c5305fb87d5122412fe7",
+  "url": "https://whdh.com/news/karen-read-back-in-court-for-murder-trial-father-says-shes-innocent",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@7News",
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "Karen Read back in court for murder trial, father says she’s innocent - Boston News, Weather, Sports | WHDH 7News",
+  "text": "Karen Read was back in the courtroom for her murder trial Thursday as the judge and attorneys worked out final details before opening statements on Monday.\nRead’s father, Bill Read, spoke to reporters and vouched for his daughter outside the courthouse in Dedham.\n“My daughter is factually innocent. She’s being framed,” Bill Read said.\nRead is charged with second degree murder for the 2022 death of her boyfriend John O’Keefe, a Boston Police officer. O’Keefe was found dead outside the Canton home of another police officers after Read dropped him off at a late night party.\nThe state claims Read, in the midst of a tumultuous relationship with O’Keefe, killed him by hitting him with her SUV during an argument. Read’s defense team claims she dropped him off at a party hosted by another Boston Police officer, and he was beaten to death there.\nNorfolk Superior Court Judge Beverly Cannone, who is overseeing the trial, decided the trial will be held in a small court room, which gives the jury a head-on view of the witnesses who will be testifying. It’s across the hall from the main courtroom, where Read’s attorneys claim some jurors would have a poor view of the witness stand.\nCannone will also allow the jury to hear about a fight Read had with her boyfriend in Aruba during a previous family trip. O’Keefe’s niece and nephew will be called to the stand.\n“Both children indicate that there was an approximately 20-minute screaming match, or something to that effect,” prosecutor Adam Lally said in court.\nThe defense does not want the jury to hear about testing done on Read’s blood several hours after the alleged murder, saying the testing was inaccurate. Cannone said testimony regarding Read’s blood alcohol level will probably be allowed, although she has not made a final decision.\nThe murder trial is expected to take up to two months. The opening statements are slated to take place Monday morning, with each side getting 45 minutes to state their case.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "karen read",
+        "sentiment": "negative"
+      },
+      {
+        "name": "beverly cannone",
+        "sentiment": "none"
+      },
+      {
+        "name": "bill read",
+        "sentiment": "none"
+      },
+      {
+        "name": "o’keefe",
+        "sentiment": "none"
+      },
+      {
+        "name": "john o’keefe",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "boston news",
+        "sentiment": "negative"
+      },
+      {
+        "name": "norfolk superior court",
+        "sentiment": "none"
+      },
+      {
+        "name": "boston police",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "dedham",
+        "sentiment": "none"
+      },
+      {
+        "name": "canton",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:04:22.921+03:00",
+  "updated": "2024-04-26T01:07:01.716+03:00"
+}

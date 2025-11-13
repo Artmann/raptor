@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "1f859436836ca041ab8968e38c81dc7ee00c31a4",
+    "url": "https://www.virgilio.it/italia/cuneo/notizielocali/scuole_di_montagna_il_cuore_pulsante_delle_comunit_-75743464.html",
+    "site_full": "www.virgilio.it",
+    "site": "virgilio.it",
+    "site_section": "https://www.virgilio.it/italia/rodello/notizielocali",
+    "site_categories": ["media", "top_news_it", "top_news"],
+    "section_title": "Notizie di Rodello - Virgilio Rodello",
+    "site_title": "Virgilio: Mail, Login, Ultime Notizie in tempo reale e tanto altro!",
+    "title": "Scuole di Montagna il Cuore Pulsante delle Comunit - Cuneo",
+    "title_full": "Scuole di Montagna il Cuore Pulsante delle Comunit - Cuneo",
+    "published": "2025-09-18T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://img.plug.it/img_newsreg_mid/8/6/9/55527968.jpg",
+    "performance_score": 0,
+    "domain_rank": 5429,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1f859436836ca041ab8968e38c81dc7ee00c31a4",
+  "url": "https://www.virgilio.it/italia/cuneo/notizielocali/scuole_di_montagna_il_cuore_pulsante_delle_comunit_-75743464.html",
+  "ord_in_thread": 0,
+  "author": "IdeaWebTv",
+  "published": "2025-09-18T08:00:00.000+03:00",
+  "title": "Scuole di Montagna il Cuore Pulsante delle Comunit - Cuneo",
+  "text": "Scuole di montagna \"Il cuore pulsante delle comunità\"\n\"In una pluriclasse non si insegna per livelli, si insegna per legami\". Erri De Luca lo dice, ma chi vive la scuola di montagna lo sa da sempre. Qui, tra le valli della provincia di Cuneo,... Leggi tutta la notizia\nCRONACA",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": ["Education"],
+  "topics": [
+    "Education->primary education",
+    "Education->social learning",
+    "Education->school"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.ideawebtv.it/2025/09/18/scuole-di-montagna-il-cuore-pulsante-delle-comunita/",
+    "https://ideawebtv.it/2025/09/18/scuole-di-montagna-il-cuore-pulsante-delle-comunita/",
+    "https://www.ideawebtv.it/2025/09/18/scuole-di-montagna-il-cuore-pulsante-delle-comunita"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Erri De Luca",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "provincia di Cuneo",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_it", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:19:57.344+03:00",
+  "updated": "2025-09-18T08:24:45.000+03:00"
+}

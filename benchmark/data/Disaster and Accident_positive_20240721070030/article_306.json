@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "c040905461bba04583fe37269bd136668932a563",
+    "url": "https://www.10news.com/news/local-news/elderly-woman-rescued-from-submerged-car-in-mission-bay",
+    "site_full": "www.10news.com",
+    "site": "10news.com",
+    "site_section": "https://10news.com",
+    "site_categories": ["media"],
+    "section_title": "ABC 10News San Diego | 10News.com | San Diego, California News and Weather",
+    "title": "Elderly woman rescued from submerged car in Mission Bay",
+    "title_full": "Elderly woman rescued from submerged car in Mission Bay",
+    "published": "2024-06-21T21:57:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ewscripps.brightspotcdn.com/dims4/default/0d6faf8/2147483647/strip/true/crop/1273x668+0+21/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F68%2F68%2F242788d44660b6126706005c321d%2Fscreenshot-2024-06-21-at-1-39-51-pm.png",
+    "performance_score": 0,
+    "domain_rank": 7168,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 27
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c040905461bba04583fe37269bd136668932a563",
+  "url": "https://www.10news.com/news/local-news/elderly-woman-rescued-from-submerged-car-in-mission-bay",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Myra Wu",
+  "published": "2024-06-21T21:57:00.000+03:00",
+  "title": "Elderly woman rescued from submerged car in Mission Bay",
+  "text": "SAN DIEGO (KGTV) — An elderly woman was rescued by three good Samaritans after her car plunged into the water following a traffic accident on Friday, police said. The incident occurred around 11:34 a.m. near the intersection of Mission Bay Drive and Bluffside Avenue. According to Sgt. Williams, the woman, in her 70s, was driving south on Mission Bay Drive when she collided with the car in front of her. The woman lost control of her vehicle, striking metal poles and crashing through a fence. Her white Honda then flipped in the air and landed upside down in the Rose Creek canal. Williams said three men, including Lyft driver Juan Castillo, witnessed the accident and immediately ran to the creek. They waded through heavy mud and three feet of water to reach the woman, who was unconscious inside the submerged car. \"I saw this white vehicle coming off the ramp real quick, and landed on the water.\" Castillo said. \"The way it landed - I knew somebody must be drowning, so I just ran and jumped in there.\" Castillo and the other rescuers managed to open the door, allowing water to rush in, and carefully removed the woman's seatbelt. They dragged her to the west side of the creek, where firefighters were able to assist in the rescue. The woman was then transported to a local hospital, police said. \"I hope somebody would do the same thing for any of my family members if they are in the same situation,\" Castillo said. He had been waiting for his car at an auto shop across the street when he saw the accident happen. Police said the driver of the other vehicle involved in the initial collision was not injured. The San Diego Fire-Rescue Department is investigating the incident and has not yet released further details.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "williams",
+        "sentiment": "none"
+      },
+      {
+        "name": "castillo",
+        "sentiment": "none"
+      },
+      {
+        "name": "juan castillo",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "kgtv",
+        "sentiment": "negative"
+      },
+      {
+        "name": "honda",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "mission bay san diego",
+        "sentiment": "none"
+      },
+      {
+        "name": "rose creek",
+        "sentiment": "none"
+      },
+      {
+        "name": "bluffside avenue",
+        "sentiment": "none"
+      },
+      {
+        "name": "mission bay drive",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-22T00:19:33.959+03:00",
+  "updated": "2024-06-22T00:19:33.959+03:00"
+}

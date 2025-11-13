@@ -1,0 +1,157 @@
+{
+  "thread": {
+    "uuid": "963144af20a64f4c24fac2fcd5c0fe3b9ab3ecd8",
+    "url": "https://www.nba.com/news/nba-players-in-2024-paris-olympics",
+    "site_full": "www.nba.com",
+    "site": "nba.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": ["pro_basketball", "sports"],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "Every NBA player expected to compete in Paris Olympics | NBA.com",
+    "title_full": "Every NBA player expected to compete in Paris Olympics | NBA.com",
+    "published": "2024-06-23T22:41:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 804,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "963144af20a64f4c24fac2fcd5c0fe3b9ab3ecd8",
+  "url": "https://www.nba.com/news/nba-players-in-2024-paris-olympics",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "From NBA.com Staff",
+  "published": "2024-06-23T22:41:00.000+03:00",
+  "title": "Every NBA player expected to compete in Paris Olympics | NBA.com",
+  "text": "Check out the NBA players expected to suit up for USA, Canada, Australia and other countries during the Paris Olympics this summer.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Disaster and Accident", "Sport"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "lebron james (",
+        "sentiment": "none"
+      },
+      {
+        "name": "anthony edwards",
+        "sentiment": "none"
+      },
+      {
+        "name": "tyrese haliburton",
+        "sentiment": "none"
+      },
+      {
+        "name": "jayson tatum",
+        "sentiment": "none"
+      },
+      {
+        "name": "devin booker",
+        "sentiment": "none"
+      },
+      {
+        "name": "stephen curry",
+        "sentiment": "none"
+      },
+      {
+        "name": "joel embiid",
+        "sentiment": "none"
+      },
+      {
+        "name": "khem birch",
+        "sentiment": "none"
+      },
+      {
+        "name": "kevin durant",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "nba.com every nba",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "nba",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "lebron james (lakers",
+        "sentiment": "none"
+      },
+      {
+        "name": "(warriors) anthony davis (lakers",
+        "sentiment": "none"
+      },
+      {
+        "name": "kawhi leonard (clippers",
+        "sentiment": "none"
+      },
+      {
+        "name": "(celtics) canada nickeil alexander-walker (timberwolves",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "paris",
+        "sentiment": "none"
+      },
+      {
+        "name": "canada",
+        "sentiment": "none"
+      },
+      {
+        "name": "usa",
+        "sentiment": "none"
+      },
+      {
+        "name": "united states",
+        "sentiment": "none"
+      },
+      {
+        "name": "australia",
+        "sentiment": "none"
+      },
+      {
+        "name": "team usa",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-23T23:23:05.329+03:00",
+  "updated": "2024-06-24T01:15:34.898+03:00"
+}

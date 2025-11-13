@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "7156c0f758f91627ac71fbd6b57be6be8a85bfd4",
+    "url": "https://www.dailyexcelsior.com/india-sees-single-day-rise-of-702-covid-cases/",
+    "site_full": "www.dailyexcelsior.com",
+    "site": "dailyexcelsior.com",
+    "site_section": "https://dailyexcelsior.com/todays",
+    "site_categories": ["media", "education", "business"],
+    "section_title": "Today&#039;s Stories - DailyExcelsior",
+    "title": "India sees single-day rise of 702 Covid cases - DailyExcelsior",
+    "title_full": "India sees single-day rise of 702 Covid cases - DailyExcelsior",
+    "published": "2023-12-28T18:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2023/12/covid-1.jpg",
+    "performance_score": 0,
+    "domain_rank": 37704,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7156c0f758f91627ac71fbd6b57be6be8a85bfd4",
+  "url": "https://www.dailyexcelsior.com/india-sees-single-day-rise-of-702-covid-cases/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Daily Excelsior",
+  "published": "2023-12-28T18:30:00.000+02:00",
+  "title": "India sees single-day rise of 702 Covid cases - DailyExcelsior",
+  "text": "NEW DELHI, Dec 28: India saw a single day rise of 702 cases of COVID-19, with the number of active cases of the infection rising to 4,097, the health ministry said on Thursday. Six new fatalities — two from Maharashtra and one each from Karanataka, Kerala, West Bengal, and Delhi — were reported in a span of 24 hours, according to the ministry’s data updated at 8 am. The country had recorded 752 new cases on December 22. The number of daily cases had dropped to double-digits by December 5, but the cases have again gone up after emergence of a new variant and cold weather conditions. The daily numbers were in lakhs at the peak of the pandemic, which began in early 2020 and has seen more than 4.5 crore people getting infected and over 5.3 lakh deaths in about four years since then across the country. The number of people who recuperated from the infection stands at over 4.4 crore with a national recovery rate of 98.81 per cent, according to the ministry’s website. According to the website, 220.67 crore doses of Covid vaccines have so far been administered in the country. (PTI) India sees single-day rise of 702 Covid cases NEW DELHI, Dec 28: India saw a single day rise of 702 cases of COVID-19, with the number of active cases of the infection rising to 4,097, the health ministry said on Thursday.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Health"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "dailyexcelsior",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "new delhi",
+        "sentiment": "none"
+      },
+      {
+        "name": "india",
+        "sentiment": "none"
+      },
+      {
+        "name": "delhi",
+        "sentiment": "none"
+      },
+      {
+        "name": "west bengal",
+        "sentiment": "none"
+      },
+      {
+        "name": "maharashtra",
+        "sentiment": "none"
+      },
+      {
+        "name": "karanataka",
+        "sentiment": "none"
+      },
+      {
+        "name": "kerala",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:24:53.078+02:00",
+  "updated": "2023-12-29T01:24:53.078+02:00"
+}

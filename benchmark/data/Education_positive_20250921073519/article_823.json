@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "b4beae7b209bf14f9614466cd07ed956d476685b",
+    "url": "https://www.guadeloupe.franceantilles.fr/actualite/economie/lanis-etoile-letoile-bienfaisante-pour-une-annee-scolaire-reussie-1050686.php",
+    "site_full": "www.guadeloupe.franceantilles.fr",
+    "site": "franceantilles.fr",
+    "site_section": "https://www.guadeloupe.franceantilles.fr/actualite/economie/rss.xml",
+    "site_categories": ["media"],
+    "section_title": "France-Antilles Guadeloupe - Économie",
+    "site_title": "Toute l&#039;actualité de la Guadeloupe en ligne - FranceAntilles.fr",
+    "title": "L'anis étoilé : l'étoile bienfaisante pour une année scolaire réussie",
+    "title_full": "L'anis étoilé : l'étoile bienfaisante pour une année scolaire réussie",
+    "published": "2025-09-18T07:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "GP",
+    "main_image": "https://medias.franceantilles.fr/api/v1/images/view/68cb8b740c0b3766b10af185/width_1000/image.jpg",
+    "performance_score": 0,
+    "domain_rank": 143279,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": ["CFC"],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b4beae7b209bf14f9614466cd07ed956d476685b",
+  "url": "https://www.guadeloupe.franceantilles.fr/actualite/economie/lanis-etoile-letoile-bienfaisante-pour-une-annee-scolaire-reussie-1050686.php",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T07:32:00.000+03:00",
+  "title": "L'anis étoilé : l'étoile bienfaisante pour une année scolaire réussie",
+  "text": "L'anis étoilé : l'étoile bienfaisante pour une année scolaire réussie\nLa rentrée scolaire, chaque année, sonne comme un défi collectif. Les élèves doivent se replonger dans leurs cahiers, gérer le stress des examens à venir et maintenir un haut niveau de concentration. Les enseignants, eux, portent la responsabilité d'accompagner leurs classes avec patience, énergie et rigueur. Dans cette quête d'équilibre, une petite étoile brune peut se révéler précieuse : l'anis étoilé (Illicium verum), ou badiane de Chine.\nÀ la fois plante médicinale et épice culinaire, l'anis étoilé traverse les siècles et les cultures. Son parfum envoûtant, proche de celui du fenouil, cache des vertus étonnantes qui en font un allié de choix pour renforcer le corps et apaiser l'esprit. En cette rentrée, il mérite toute notre attention.\nUn voyage au cœur de l'histoire\nL'anis étoilé est originaire du sud de la Chine et du nord du Vietnam. Depuis plus de 2 000 ans, il occupe une place centrale dans la médecine traditionnelle chinoise. On lui attribuait la capacité de réchauffer l'organisme, de soulager les douleurs digestives et d'harmoniser l'énergie vitale.\nIl est introduit en Europe au XVIIe siècle par les explorateurs portugais et arabes. Les apothicaires le classent immédiatement parmi les plantes précieuses. Sa forme géométrique, une étoile à...",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "positive",
+  "categories": ["Education", "Lifestyle and Leisure", "Human Interest"],
+  "topics": [
+    "Education->teachers",
+    "Education->students",
+    "Education->school",
+    "Lifestyle and Leisure->wellness",
+    "Lifestyle and Leisure->lifestyle",
+    "Human Interest->graduation"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:06:24.231+03:00",
+  "updated": "2025-09-18T09:20:12.000+03:00"
+}

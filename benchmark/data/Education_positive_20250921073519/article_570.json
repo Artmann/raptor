@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "22d71291dd6c00a7e850161c8f811c5e359b372f",
+    "url": "https://www.europapress.es/epsocial/infancia/noticia-59-estudiantes-13-paises-valora-positivamente-comidas-escolares-world-vision-20250918073246.html",
+    "site_full": "www.europapress.es",
+    "site": "europapress.es",
+    "site_section": "https://www.europapress.es/noticias/",
+    "site_categories": ["media", "top_news_es", "top_news_pe", "top_news"],
+    "section_title": "\r\n\t Últimas Noticias - EUROPA PRESS\r\n",
+    "site_title": "Europa Press -  Agencia de noticias",
+    "title": "El 59% de estudiantes de 13 países valora positivamente las comidas escolares, según World Vision",
+    "title_full": "El 59% de estudiantes de 13 países valora positivamente las comidas escolares, según World Vision",
+    "published": "2025-09-18T08:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://img.europapress.es/fotoweb/fotonoticia_20250918073246_1200.jpg",
+    "performance_score": 0,
+    "domain_rank": 4744,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 3
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "22d71291dd6c00a7e850161c8f811c5e359b372f",
+  "url": "https://www.europapress.es/epsocial/infancia/noticia-59-estudiantes-13-paises-valora-positivamente-comidas-escolares-world-vision-20250918073246.html",
+  "ord_in_thread": 0,
+  "author": "europa press",
+  "published": "2025-09-18T08:32:00.000+03:00",
+  "title": "El 59% de estudiantes de 13 países valora positivamente las comidas escolares, según World Vision",
+  "text": "MADRID, 18 Sep. (EUROPA PRESS) -\n El 59% de estudiantes de 13 países valora positivamente las comidas escolares, según se desprende del informe 'La alimentación escolar en nuestras palabras: eligiendo nuestro futuro', de World Vision.\n El estudio contó con la participación de 1.235 niños (61% niños y 37% niñas), de entre 3 y 18 años, de 13 países, y 111 cuidadores. Los participantes procedieron de entornos rurales y urbanos e incluyeron a menores con discapacidades y la recopilación de la información se llevó a cabo en grupos de discusión y entrevistas que tuvieron lugar este año.\n Asimismo, el informe revela que el 59% de los niños calificó positivamente las comidas (buenas o muy buenas), mientras que el 38% las valoró negativamente (aceptables o malas). \"Esto demuestra que, aunque valoran la alimentación escolar, otros se sienten decepcionados, usualmente debido a raciones demasiado pequeñas, menús repetitivos o mala calidad de los alimentos\", asegura World Vision.\n En este sentido, el informe revela que los niños indicaron que \"rara vez\" se les consulta sobre la alimentación escolar y que, cuando comparten sus opiniones, los adultos no los escuchan. No obstante, aproximadamente siete de cada diez dijeron que desean participar en las decisiones sobre la alimentación escolar.\n También explica que, a la pregunta de qué cambiarían de la alimentación escolar, \"la petición más común fue que las raciones fueran más grandes\". Así, revela que, en Zimbabue, \"muchos dijeron que la comida se acababa demasiado rápido y les dejaba con hambre\".",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Education", "Health", "Social Issue"],
+  "topics": [
+    "Education->primary education",
+    "Education->students",
+    "Education->school",
+    "Health->health care approach",
+    "Health->health organisation",
+    "Health->diet",
+    "Social Issue->children",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "World Vision",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_es", "top_news_pe", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:37:43.357+03:00",
+  "updated": "2025-09-19T09:07:38.000+03:00"
+}

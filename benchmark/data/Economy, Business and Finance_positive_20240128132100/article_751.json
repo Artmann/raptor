@@ -1,0 +1,122 @@
+{
+  "thread": {
+    "uuid": "8cc0ebc18c60296dd7869022d8fb3d7c3184c870",
+    "url": "https://www.wgem.com/2023/12/28/new-illinois-law-mandates-paid-time-off-workers/",
+    "site_full": "www.wgem.com",
+    "site": "wgem.com",
+    "site_section": "https://wgem.com/politics",
+    "site_categories": ["media"],
+    "section_title": "Politics",
+    "title": "New Illinois law mandates paid time off for workers",
+    "title_full": "New Illinois law mandates paid time off for workers",
+    "published": "2023-12-29T01:35:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-wgem-prod.cdn.arcpublishing.com/resizer/v2/IGZP544ZWRGTJJUZZOPJBP5FEQ.png?auth=8fdcb550b7ade372b7bc937cd7d07f5fad4dbc828fc34ec3146f12b0348db74b&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 54096,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8cc0ebc18c60296dd7869022d8fb3d7c3184c870",
+  "url": "https://www.wgem.com/2023/12/28/new-illinois-law-mandates-paid-time-off-workers/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@WGEM",
+  "published": "2023-12-29T01:35:00.000+02:00",
+  "title": "New Illinois law mandates paid time off for workers",
+  "text": "New Illinois law mandates paid time off for workers SPRINGFIELD (WGEM) - A new Illinois law takes effect Jan. 1, mandating businesses give their full-time employees at least 40 hours of paid time off annually. “This is about bringing dignity to all workers because that is who is impacted by paid leave for all,” state Rep. Jehan Gordon-Booth, D-Peoria, said when Illinois Gov. JB Pritzker signed the legislation on March 13. She, along with state Sen. Majority Leader Kimberly Lightford, D-Westchester, sponsored the [legislation](https://www.ilga.gov/legislation/publicacts/fulltext.asp?name=102-1143&GA=102&SessionId=110&DocTypeId=SB&DocNum=208&GAID=16&SpecSess=&Session=). The law requires employers give full-time workers at least one hour of paid time off per 40 hours worked and allow them to accrue a minimum of 40 hours of paid time off annually. “Thanks to this measure, workers have the peace of mind that they can take care of themselves today without worrying about the consequences tomorrow,” Lightford said at the signing ceremony. While the law may bring peace of mind to workers, Noah Finley, the Illinois state director for the National Federation of Independent Business said it brings uncertainty to small businesses across the state. “They’re facing this new mandate they’re having to figure out and, like, we’ve held webinars, the Department of Labor has held webinars but they’re still trying to figure out exactly what that means,” he said. “And it’s going to cost them, they know that, but exactly how that plays out is not entirely clear and it’s just a whole slew of uncertainty.” Adding to the uncertainty, is the Illinois Department of Labor’s (DOL) rulemaking process. Though the new law goes into effect Jan. 1, Finley said he doesn’t expect to see DOL’s rules approved until at least March. Businesses can learn more about the new law on the DOL’s [website](https://labor.illinois.gov/laws-rules/paidleave.html). There’s also a link to a poster all businesses must display informing workers of their rights under the new law. Some workers are exempt from the new law. They include federal workers and college students who work part-time for the university. Copyright 2023 WGEM. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Politics", "Labor", "Economy, Business and Finance"],
+  "external_links": [
+    "https://www.ilga.gov/legislation/publicacts/fulltext.asp?name=102-1143&GA=102&SessionId=110&DocTypeId=SB&DocNum=208&GAID=16&SpecSess=&Session=).",
+    "https://labor.illinois.gov/laws-rules/paidleave.html).",
+    "https://www.ilga.gov/legislation/publicacts/fulltext.asp",
+    "https://www.labor.illinois.gov/laws-rules/paidleave.html).",
+    "https://ilga.gov/legislation/publicacts/fulltext.asp?name=102-1143&GA=102&SessionId=110&DocTypeId=SB&DocNum=208&GAID=16&SpecSess=&Session=)."
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "kimberly lightford",
+        "sentiment": "none"
+      },
+      {
+        "name": "noa",
+        "sentiment": "none"
+      },
+      {
+        "name": "jb pritzker",
+        "sentiment": "none"
+      },
+      {
+        "name": "jehan gordon-booth",
+        "sentiment": "none"
+      },
+      {
+        "name": "lightford",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "new illinois",
+        "sentiment": "negative"
+      },
+      {
+        "name": "d-westchester",
+        "sentiment": "none"
+      },
+      {
+        "name": "d",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "new illinois",
+        "sentiment": "none"
+      },
+      {
+        "name": "illinois",
+        "sentiment": "none"
+      },
+      {
+        "name": "peoria",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T02:06:38.052+02:00",
+  "updated": "2023-12-29T16:52:16.640+02:00"
+}

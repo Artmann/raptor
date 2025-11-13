@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "eba614c9c9cee1bfd633e63f3113648625e9a990",
+    "url": "https://www.foxnews.com/us/savanah-soto-murder-video-shows-persons-interest-pregnant-texas-teen-boyfriends-killing",
+    "site_full": "www.foxnews.com",
+    "site": "foxnews.com",
+    "site_section": "https://www.foxnews.com/us/savanah-soto-murder-video-shows-persons-interest-pregnant-texas-teen-boyfriends-killing",
+    "site_categories": ["media"],
+    "section_title": null,
+    "title": "Savanah Soto murder: Video shows persons of interest in pregnant Texas teen, boyfriend’s killing",
+    "title_full": "Savanah Soto murder: Video shows persons of interest in pregnant Texas teen, boyfriend’s killing",
+    "published": "2023-12-28T23:33:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/12/Person-of-interest-in-Texas-triple-murder-case-1.jpg",
+    "performance_score": 0,
+    "domain_rank": 287,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 21
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "eba614c9c9cee1bfd633e63f3113648625e9a990",
+  "url": "https://www.foxnews.com/us/savanah-soto-murder-video-shows-persons-interest-pregnant-texas-teen-boyfriends-killing",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Stepheny Price",
+  "published": "2023-12-28T23:33:00.000+02:00",
+  "title": "Savanah Soto murder: Video shows persons of interest in pregnant Texas teen, boyfriend’s killing",
+  "text": "Police on Thursday released video of two people of interest and vehicles in the capital murder case of 18-year-old pregnant Texas teen Savanah Soto, her unborn baby and her boyfriend, 22-year-old Matthew Guerra.The San Antonio Police Department released surveillance video Thursday showing an exchange between the two persons of interest. One person is driving a dark-colored Chevy Silverado. The other is driving what is believed to be Guerra's silver Kia Optima.In the video, it appears the driver of the Kia hands an object to the driver of the pickup truck.\"What we believe right now – it was something to wipe the side of the car down with,\" San Antonio Police Chief William McManus said at a press conference Thursday evening. \"We can’t be 100% certain of that, but that’s what we’re studying in this video and that’s what we believe right now.\" MATTHEW GUERRA, BOYFRIEND OF SLAIN PREGNANT TEEN SAVANAH SOTO, CONFIRMED DEAD BY GUNSHOT WOUND TO HEAD: POLICE San Antonio Police are searching for a dark-colored pickup truck that was seen on video at a nearby location where the bodies of Savanah Soto, her baby and Matthew Guerra were found. (San Antonio Police Department) Police said the video was taken near where the bodies were found.Soto, her baby and Guerra were all found dead in the Kia Optima at an apartment complex in San Antonio the day after Christmas. Police believe the bodies may have been in the car for three to four days before they were discovered.McManus said detectives are combing through surveillance video, social media and cell phone records to piece together what led to the victims' deaths. In the video, two persons of interest in the triple murder case of pregnant teen Savanah Soto and her boyfriend Matthew Guerra, one driving a dark-colored pickup truck, the other driving the victims’ silver Kia Optima. (San Antonio Police Department) The medical examiner determined that Guerra died from a contact gunshot wound to the head. McManus said the medical examiner has not yet determined Guerra's manner of death. He said police have not fully ruled out the possibility of a murder-suicide, but at this time they do not believe that was the case. PREGNANT TEXAS TEEN SAVANAH SOTO, BABY AND BOYFRIEND SHOT TO DEATH \"Clearly, it was a heinous act. It was unspeakable — the tragedy of it,\" McManus said. Police are asking the public for help in identifying two persons of interest in the Savanah Soto capital murder case. (San Antonio Police Department) Soto's family had reported her missing Friday, after she failed to show up for a scheduled induction to deliver her baby.She was nine months pregnant and a week past her due date, according to her family. San Antonio police confirmed 22-year-old Matthew Guerra as one of the three victims found dead inside a car with a gunshot wound to his head as the cause of death. (Fox 29 San Antonio) CLICK HERE TO GET THE FOX NEWS APP Anyone with any information on this dark-colored pickup truck, with a bed cover, or the two persons of interest seen in the video, is encouraged to call SAPD Homicide at (210) 207-7674 or (210) 207-7440.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Human Interest",
+    "Disaster and Accident",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [
+    "https://foxsanantonio.com/newsletter-daily/heres-what-we-know-about-the-missing-pregnant-woman-savanah-soto-found-dead-in-car-with-boyfriend-san-antonio-leon-valley-bexar-county-shooting-death-baby-people-local",
+    "https://www.foxsanantonio.com/newsletter-daily/heres-what-we-know-about-the-missing-pregnant-woman-savanah-soto-found-dead-in-car-with-boyfriend-san-antonio-leon-valley-bexar-county-shooting-death-baby-people-local"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "savanah soto",
+        "sentiment": "negative"
+      },
+      {
+        "name": "soto",
+        "sentiment": "none"
+      },
+      {
+        "name": "matthew guerra",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "matthew guerra.the san antonio police department",
+        "sentiment": "none"
+      },
+      {
+        "name": "fox news digital",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "texas",
+        "sentiment": "none"
+      },
+      {
+        "name": "guerra",
+        "sentiment": "none"
+      },
+      {
+        "name": "san antonio",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:37:29.955+02:00",
+  "updated": "2023-12-29T06:30:07.402+02:00"
+}

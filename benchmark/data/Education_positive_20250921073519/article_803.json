@@ -1,0 +1,141 @@
+{
+  "thread": {
+    "uuid": "226009497e2aa5a2b11dc8812d7fca470911fdc9",
+    "url": "https://www.minotdailynews.com/news/local-news/2025/09/dav-chapter-4-presents-scholarship-to-msu-student/",
+    "site_full": "www.minotdailynews.com",
+    "site": "minotdailynews.com",
+    "site_section": "https://news.google.com/search?q=was%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "News, Sports, Jobs - Minot Daily News",
+    "title": "DAV Chapter 4 presents scholarship to MSU student",
+    "title_full": "DAV Chapter 4 presents scholarship to MSU student",
+    "published": "2025-09-17T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 171351,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "226009497e2aa5a2b11dc8812d7fca470911fdc9",
+  "url": "https://www.minotdailynews.com/news/local-news/2025/09/dav-chapter-4-presents-scholarship-to-msu-student/",
+  "ord_in_thread": 0,
+  "author": "MDN Staff",
+  "published": "2025-09-17T03:00:00.000+03:00",
+  "title": "DAV Chapter 4 presents scholarship to MSU student",
+  "text": "DAV Chapter 4 presents scholarship to MSU student\nThe Disabled American Veterans (DAV) Chapter 4 awarded the $1,000 Bob Fix Memorial Scholarship to Grace Alvarez, Minot, a student at Minot State University, during its business meeting held Thursday, Sept. 11. The scholarship was presented by Ron Garcia, chairman of the DAV Chapter 4 Scholarship Committee.\nGrace Alvarez was joined by her parents, Eric and Sommer Alvarez, as members of the chapter recognized her academic achievements.\nAccording to nomination information, Grace Alvarez was born in Guam, then the family lived in Texas before moving to Minot in 2011. She and her siblings were homeschooled by their mother. Their father is retired from the U.S. Air Force. Grace Alvarez’s goal is to become an architectural draftsman. She is a freshman at MSU.\nThe scholarship is named in honor of the late Bob Fix, Minot, a DAV Chapter 4 member who also served as commander. Fix, who died in 2019, was born in Underwood and was raised and educated in Garrison. He joined the U.S. Navy and served until his honorable discharge in 1968.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->students",
+    "Education->college and university",
+    "Social Issue->charity",
+    "Social Issue->social services",
+    "Human Interest->award and prize"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Sommer Alvarez",
+        "sentiment": "none"
+      },
+      {
+        "name": "Grace Alvarez",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ron Garcia",
+        "sentiment": "none"
+      },
+      {
+        "name": "Eric",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Minot State University",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "U.S. Air Force",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "U.S. Navy",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "MSU",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Makoti", "Minto", "Minot"],
+      "state": ["North Dakota"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:03:00.434+03:00",
+  "updated": "2025-09-18T09:06:52.000+03:00"
+}

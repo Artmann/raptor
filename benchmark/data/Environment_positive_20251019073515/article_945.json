@@ -1,0 +1,129 @@
+{
+  "thread": {
+    "uuid": "2c4fedb26ccd6a7524799ba2dc111b5bb7e3883b",
+    "url": "https://www.klsescreener.com/v2/news/view/1605553/Gamuda_advances_Asean_s_clean_energy_transition_with_engineering_expertise",
+    "site_full": "www.klsescreener.com",
+    "site": "klsescreener.com",
+    "site_section": "https://www.klsescreener.com/v2/news",
+    "site_categories": ["financial_news", "finance"],
+    "section_title": "\n        News | KLSE Screener\n    ",
+    "site_title": "KLSE Screener",
+    "title": "Gamuda advances Asean's clean energy transition with engineering expertise | KLSE Screener",
+    "title_full": "Gamuda advances Asean's clean energy transition with engineering expertise | KLSE Screener",
+    "published": "2025-10-16T16:10:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://apicms.thestar.com.my/uploads/images/2025/10/16/3574280.jpg",
+    "performance_score": 0,
+    "domain_rank": 53051,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2c4fedb26ccd6a7524799ba2dc111b5bb7e3883b",
+  "url": "https://www.klsescreener.com/v2/news/view/1605553/Gamuda_advances_Asean_s_clean_energy_transition_with_engineering_expertise",
+  "ord_in_thread": 0,
+  "author": "TheStar",
+  "published": "2025-10-16T16:10:00.000+03:00",
+  "title": "Gamuda advances Asean's clean energy transition with engineering expertise | KLSE Screener",
+  "text": "Prime Minister Datuk Seri Anwar Ibrahim, with Deputy Prime Minister II & Minister of Energy Transition and Water Transformation, Datuk Fadillah Yusof, were briefed by (second from left) Gamuda Engineering executive director, Muhamad Elias Johari on the Ulu Padas Hydroelectric Dam project progress in Sabah at Gamuda’s AEBF-25 booth.\nKUALA LUMPUR: Gamuda Bhd , a regional engineering group, is advancing to meet the growing demand for clean energy by leveraging its engineering capabilities to deliver large-scale renewable energy (RE) projects with the speed and scale to meet the urgent green energy demands.\nGamuda Engineering managing director Justin Chin Jing Ho said ASEAN's clean energy transition is a powerful economic driver for the region.\n\"Hence, Gamuda is committed to playing an integral role by applying our top-to-toe engineering and development expertise to deliver the critical renewable energy and sustainable infrastructure that will underpin this growth,\" he said in a statement today.\n...\nFull Article on TheStar",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->sustainability", "Environment->energy resources"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.thestar.com.my/business/marketwatch/stocks/?qcounter=GAMUDA",
+    "http://www.thestar.com.my/business/business-news/2025/10/16/gamuda-advances-aseans-clean-energy-transition-with-engineering-expertise",
+    "http://charts.thestar.com.my/?s=GAMUDA",
+    "http://thestar.com.my/business/business-news/2025/10/16/gamuda-advances-aseans-clean-energy-transition-with-engineering-expertise",
+    "https://thestar.com.my/business/marketwatch/stocks/?qcounter=GAMUDA",
+    "https://www.thestar.com.my/business/marketwatch/stocks/",
+    "http://charts.thestar.com.my/",
+    "http://www.charts.thestar.com.my/?s=GAMUDA"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Datuk Seri Anwar Ibrahim",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Muhamad Elias Johari",
+        "sentiment": "none"
+      },
+      {
+        "name": "Datuk Fadillah Yusof",
+        "sentiment": "none"
+      },
+      {
+        "name": "Justin Chin Jing Ho",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Gamuda Engineering",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Gamuda Bhd",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "ASEAN",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:49:56.519+03:00",
+  "updated": "2025-10-16T17:11:23.000+03:00"
+}

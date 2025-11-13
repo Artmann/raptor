@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "f542f3c68aad071ab6fad736775193af10bf7852",
+    "url": "https://www.sacbee.com/news/california/fires/article305947746.html",
+    "site_full": "www.sacbee.com",
+    "site": "sacbee.com",
+    "site_section": "https://www.sacbee.com/news/california/fires",
+    "site_categories": ["media"],
+    "section_title": "Northern CA Wildfire News &amp; Updates |  Sacramento Bee",
+    "site_title": "Sacramento News: Local Politics, Crime &amp; More |  Sacramento Bee",
+    "title": "Wildfire breaks out in Tulare County, CA | Sacramento Bee",
+    "title_full": "Wildfire breaks out in Tulare County, CA | Sacramento Bee",
+    "published": "2025-05-08T00:25:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.mcclatchy-wires.com/incoming/b13q3f/picture290003454/alternates/LANDSCAPE_1140/904274ad-cc18-4c6a-b772-fd81b276817c",
+    "performance_score": 0,
+    "domain_rank": 1931,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f542f3c68aad071ab6fad736775193af10bf7852",
+  "url": "https://www.sacbee.com/news/california/fires/article305947746.html",
+  "ord_in_thread": 0,
+  "author": "CA WILDFIRE BOT",
+  "published": "2025-05-08T00:25:00.000+03:00",
+  "title": "Wildfire breaks out in Tulare County, CA | Sacramento Bee",
+  "text": "Fires\nBreaking: King Fire reported in Tulare County on May 7\nThe creation of this content included the use of AI based on templates created, reviewed and edited by journalists in the newsroom. Read more on our AI policy here.\nFirst discovered: 1:55 p.m. May 7\nInitial location: Tulare County, Calif.\nFire type: Wildfire\nFire name: King\nA new wildfire was reported today at 1:55 p.m. in Tulare County.\nKing Fire has been burning on private land. There is currently no information about the containment efforts for the fire and its cause remains unknown.\nSource: National Interagency Fire Center\nThis story was originally published May 7, 2025 at 2:25 PM.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Disaster and Accident", "Social Issue"],
+  "topics": [
+    "Environment->natural resources",
+    "Environment->energy resources",
+    "Environment->environmental pollution",
+    "Disaster and Accident->fire",
+    "Social Issue->population and census",
+    "Social Issue->social problem",
+    "Social Issue->discrimination"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "National Interagency Fire Center",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "f542f3c68aad071ab6fad736775193af10bf7852",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:15:54.343+03:00",
+  "updated": "2025-05-08T01:22:26.000+00:00"
+}

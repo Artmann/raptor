@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "f212fa3e1a3a77929e91173ce065988f2e608ef6",
+    "url": "https://www.fox35orlando.com/news/florida-man-caught-with-same-loaded-gun-at-airport-twice-tsa",
+    "site_full": "www.fox35orlando.com",
+    "site": "fox35orlando.com",
+    "site_section": "https://fox35orlando.com/local-news",
+    "site_categories": ["media"],
+    "section_title": "Local News",
+    "title": "Florida man caught with same loaded gun at airport, twice: TSA",
+    "title_full": "Florida man caught with same loaded gun at airport, twice: TSA",
+    "published": "2024-04-25T20:22:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/04/1280/720/gun.jpg?ve=1&amp;tl=1",
+    "performance_score": 0,
+    "domain_rank": 10356,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f212fa3e1a3a77929e91173ce065988f2e608ef6",
+  "url": "https://www.fox35orlando.com/news/florida-man-caught-with-same-loaded-gun-at-airport-twice-tsa",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "FOX 35 Orlando",
+  "published": "2024-04-25T20:22:00.000+03:00",
+  "title": "Florida man caught with same loaded gun at airport, twice: TSA",
+  "text": "A Florida man had another run-in with TSA agents this week after he was allegedly caught with a loaded gun at airport security in Virginia. It was the same gun he was nabbed with in 2019 at an airport in Florida, according to TSA. TSA said the gun was loaded with 10 bullets both times. The firearm found on Tuesday marks the sixth intercepted at Reagan International Airport (DCA) in Arlington, Virginia, this month, TSA said. In 2019, TSA stopped the man, whose identity was not immediately made available, and allowed him to return the gun to his car. On Tuesday, he wasn&apos;t let off that easily. TSA officers notified the Washington Metropolitan Washington Airports Authority Police, which confiscated the gun and issued him a criminal citation. \"The man told officials that he wanted to travel with the firearm for protection,\" TSA said. Florida man&apos;s attempt to carry loaded gun onto plane at West Virginia airport thwarted by TSA TSA issued a reminder to travelers that said guns are not permitted at the security checkpoint. Anyone who violates this will face a \"stiff\" financial civil penalty from TSA of up to $15,000. \"This individual did not learn his lesson the first time he carried his gun to a checkpoint and this second time could be costlier because his financial civil penalty may be significantly more for repeating his same mistake,\" said John Busch, TSA&apos;s Federal Security Director at DCA. \"Under any circumstances it is unacceptable to bring a loaded gun to an airport checkpoint, but to do it twice is just plain irresponsible.\"It remains unclear at this time how much the man was fined.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "tsa",
+        "sentiment": "negative"
+      },
+      {
+        "name": "washington metropolitan washington airports authority police",
+        "sentiment": "none"
+      },
+      {
+        "name": "tsa tsa",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "florida",
+        "sentiment": "none"
+      },
+      {
+        "name": "west virginia",
+        "sentiment": "none"
+      },
+      {
+        "name": "reagan international airport",
+        "sentiment": "none"
+      },
+      {
+        "name": "virginia",
+        "sentiment": "none"
+      },
+      {
+        "name": "arlington",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:31:01.264+03:00",
+  "updated": "2024-04-26T00:59:51.411+03:00"
+}

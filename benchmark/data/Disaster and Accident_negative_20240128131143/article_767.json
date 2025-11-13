@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "eda6e86fb41f0dbbed8a5b23bb7508e34b0bbb96",
+    "url": "https://www.cambridge-news.co.uk/news/local-news/what-know-far-peterborough-fire-28361325",
+    "site_full": "www.cambridge-news.co.uk",
+    "site": "cambridge-news.co.uk",
+    "site_section": "https://www.cambridge-news.co.uk/?service=rss",
+    "site_categories": ["media"],
+    "section_title": "Cambridgeshire Live - Home",
+    "title": "What we know so far about Peterborough fire as emergency services attend Padholme Road blaze",
+    "title_full": "What we know so far about Peterborough fire as emergency services attend Padholme Road blaze",
+    "published": "2023-12-29T00:19:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "https://i2-prod.walesonline.co.uk/incoming/article22768223.ece/ALTERNATES/s1200/3_PA-15839982.jpg",
+    "performance_score": 0,
+    "domain_rank": 10822,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "eda6e86fb41f0dbbed8a5b23bb7508e34b0bbb96",
+  "url": "https://www.cambridge-news.co.uk/news/local-news/what-know-far-peterborough-fire-28361325",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "newsdesk@cambridge-news.co.uk (Tom Burnett)",
+  "published": "2023-12-29T00:19:00.000+02:00",
+  "title": "What we know so far about Peterborough fire as emergency services attend Padholme Road blaze",
+  "text": "Dozens of firefighters are at the scene of a 'large fire' in\nPeterborough tonight (Thursday, December 28). Emergency services are attending the blaze on Padholme Road. Cambridgeshire Fire and Rescue Service has said it was called to a fire in the roof of an industrial building. More than 30 firefighters are currently at the scene.\nEmergency services were first contacted about the incident at around 8.50pm. Cambridgeshire Police has urged people to avoid the area and those living nearby have been advised to keep doors and windows shut due to smoke rising from the fire.\nLive updates:\nUpdates on the Padholme Road fire in Peterborough as they come in\nA Cambridgeshire Police spokesperson said: \"Police are assisting Cambs Fire & Rescue Service at a large fire off Padholme Road in Peterborough. Please avoid the area, and keeps doors and windows closed to protect from smoke.\"\nA Cambridgeshire Fire and Rescue Service spokesperson said: \"More than 30 firefighters are tackling a fire involving an industrial building on Padholme Road in Peterborough. Crews were called to the scene around 8.50pm reporting a large fire involving the roof. Please avoid the area where possible and keep windows closed if nearby.\"\nDo you want more of the latest Cambridgeshire news as it comes in? Sign up to our dedicated newsletter to make sure you never miss a big story from Cambridge or anywhere else in the county.\nYou can also sign up to our dedicated Peterborough, Traffic and Crime newsletters for the latest updates on the topics you are most interested in.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Human Interest", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "decembe",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cambridgeshire fire and rescue service",
+        "sentiment": "none"
+      },
+      {
+        "name": "cambridgeshire police",
+        "sentiment": "none"
+      },
+      {
+        "name": "cambs fire & rescue service",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "peterborough",
+        "sentiment": "none"
+      },
+      {
+        "name": "padholme road",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:13:01.875+02:00",
+  "updated": "2023-12-29T01:13:01.875+02:00"
+}

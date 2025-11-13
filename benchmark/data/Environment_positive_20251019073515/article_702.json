@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "93a2c34695e68032490b34d1bd411043ffb26d0c",
+    "url": "https://cenews.com.cn/news.html?aid=1745844",
+    "site_full": "cenews.com.cn",
+    "site": "cenews.com.cn",
+    "site_section": "https://cmsapi.cenews.com.cn/api/getarticles?cid=240&pagesize=20",
+    "site_categories": [],
+    "section_title": "",
+    "site_title": "中国环境网_全国生态环境信息平台",
+    "title": "雨霁初晴，浙江天台泳溪乡北山村的鎏金梯田，迎来了一年中最动人的时刻。流云舒展，如薄",
+    "title_full": "雨霁初晴，浙江天台泳溪乡北山村的鎏金梯田，迎来了一年中最动人的时刻。流云舒展，如薄",
+    "published": "2025-10-16T11:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 159851,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "93a2c34695e68032490b34d1bd411043ffb26d0c",
+  "url": "https://cenews.com.cn/news.html?aid=1745844",
+  "ord_in_thread": 0,
+  "author": "都市江南",
+  "published": "2025-10-16T11:30:00.000+03:00",
+  "title": "雨霁初晴，浙江天台泳溪乡北山村的鎏金梯田，迎来了一年中最动人的时刻。流云舒展，如薄",
+  "text": "雨霁初晴，浙江天台泳溪乡北山村的鎏金梯田，迎来了一年中最动人的时刻。流云舒展，如薄纱轻抚过山峦；稻浪翻金，在阳光下摇曳生辉。这片上帝遗落的调色盘，正描绘着秋天最绚烂的画卷。（陈琼卢鹤龄）",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->nature"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:50:56.073+03:00",
+  "updated": "2025-10-16T16:06:40.000+03:00"
+}

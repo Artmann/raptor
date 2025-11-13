@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "72cc512958f3fc131b711e65e6c4b266fb02358b",
+    "url": "https://rp-online.de/nrw/staedte/ratingen/ratingerin-gewinnt-balkonkraftwerk-bei-solartag-verlosung_aid-137040049",
+    "site_full": "rp-online.de",
+    "site": "rp-online.de",
+    "site_section": "https://rp-online.de/nrw/feed.rss",
+    "site_categories": ["media", "top_news_de", "top_news"],
+    "section_title": "NRW | RP ONLINE",
+    "site_title": "Aktuelle Nachrichten | RP ONLINE",
+    "title": "Aktion der Stadt: Ratingerin gewinnt Balkonkraftwerk bei Solartag-Verlosung",
+    "title_full": "Aktion der Stadt: Ratingerin gewinnt Balkonkraftwerk bei Solartag-Verlosung",
+    "published": "2025-10-16T16:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://rp-online.de/imgs/32/2/4/6/4/1/5/3/2/9/tok_00213494323cf09fd36d5a89fc1397d9/w1200_h630_x1374_y1073_Gewinn_Balkonmodul-8be9a1cf97761460.jpg",
+    "performance_score": 0,
+    "domain_rank": 4903,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "72cc512958f3fc131b711e65e6c4b266fb02358b",
+  "url": "https://rp-online.de/nrw/staedte/ratingen/ratingerin-gewinnt-balkonkraftwerk-bei-solartag-verlosung_aid-137040049",
+  "ord_in_thread": 0,
+  "author": "Marita Jüngst",
+  "published": "2025-10-16T16:00:00.000+03:00",
+  "title": "Aktion der Stadt: Ratingerin gewinnt Balkonkraftwerk bei Solartag-Verlosung",
+  "text": "Große Freude bei Gaby Winter aus Ratingen-West: Sie ist die glückliche Gewinnerin der Verlosung eines Stecker-PV-Moduls – auch bekannt als Balkonkraftwerk. Die Übergabe des Preises nahm der städtische Klimaschutzmanager Benjamin Reichpietsch vor. Die Stadt Ratingen hatte das Modul im Rahmen ihres Informationsstandes zu Solarthemen am 23. September auf dem Ratinger Marktplatz verlost.\nDer Informationsstand war Teil der Ratinger Tage der Nachhaltigkeit. Gemeinsam mit der Energieberatung der Verbraucherzentrale und Bürgersolarberatung Ratingen als Netzwerkpartner informierte das Klimaschutzmanagement der Stadt Ratingen zur Förderung erneuerbarer Energien und über die vielfältigen Möglichkeiten, Sonnenenergie im eigenen Haushalt zu nutzen. „Das große Interesse am Thema zeigt, dass immer mehr Ratingerinnen und Ratinger aktiv etwas für den Klimaschutz tun wollen“, freut sich Benjamin Reichpietsch. „Mit einem Balkonkraftwerk kann man ganz unkompliziert selbst Solarstrom erzeugen und gleichzeitig die Stromrechnung senken.“\nEin Balkonkraftwerk besteht aus ein bis zwei kleinen Solarmodulen und einem Wechselrichter, der den erzeugten Gleichstrom in haushaltsüblichen Wechselstrom umwandelt. Über eine spezielle Steckverbindung kann die Anlage einfach an das häusliche Stromnetz angeschlossen werden – etwa über eine Balkonsteckdose. So lässt sich ein Teil des eigenen Strombedarfs direkt durch Sonnenenergie decken.\nJe nach Ausrichtung und Standort kann ein Stecker-PV-Modul im Jahr bis zu 800 Kilowattstunden Strom erzeugen. Das entspricht rund 15 bis 25 Prozent des durchschnittlichen Stromverbrauchs eines Zwei-Personen-Haushalts, der in Deutschland bei etwa 2000 bis 3500 Kilowattstunden pro Jahr liegt. Außerdem sind in den letzten Jahren die Module immer erschwinglicher geworden und der Registrierungsaufwand ist weiter gesenkt worden. Es genügt bereits eine einmalige Online-Registrierung im Marktstammdatenregister der Bundesnetzagentur.\nMit der Verlosung und weiteren Informationsangeboten möchte die Stadt Ratingen den Ausbau erneuerbarer Energien vor Ort weiter vorantreiben und den Einstieg in die private Solarstromerzeugung erleichtern.\nWeitere Informationen zum Klimaschutz in Ratingen gibt es außerdem online unter",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": ["Environment", "Lifestyle and Leisure"],
+  "topics": [
+    "Environment->energy saving",
+    "Lifestyle and Leisure->house and home"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Gaby Winter",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Benjamin Reichpietsch",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Ratinger Marktplatz",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ratingen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:25:52.016+03:00",
+  "updated": "2025-10-17T17:12:23.000+03:00"
+}

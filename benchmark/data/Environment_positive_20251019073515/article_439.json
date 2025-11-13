@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "0537f2dee970c7723a6e0336928d021e3d418bb6",
+    "url": "https://stormlakeradio.com/news/platinum-crush-roadwork-progresses-culvert-work-begins/",
+    "site_full": "stormlakeradio.com",
+    "site": "stormlakeradio.com",
+    "site_section": "https://stormlakeradio.com/sports/coaches-corner",
+    "site_categories": ["media"],
+    "section_title": "Coaches Corner - Storm Lake Radio",
+    "site_title": "Local Radio in Storm Lake, IA - Storm Lake Radio",
+    "title": "Platinum Crush Roadwork Progresses; Culvert Work Begins",
+    "title_full": "Platinum Crush Roadwork Progresses; Culvert Work Begins",
+    "published": "2025-10-16T14:44:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://stormlakeradio.com/wp-content/uploads/2024/08/Buena-Vista-County-Courthouse.jpg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0537f2dee970c7723a6e0336928d021e3d418bb6",
+  "url": "https://stormlakeradio.com/news/platinum-crush-roadwork-progresses-culvert-work-begins/",
+  "ord_in_thread": 0,
+  "author": "news@stormlakeradio.com",
+  "published": "2025-10-16T14:44:00.000+03:00",
+  "title": "Platinum Crush Roadwork Progresses; Culvert Work Begins",
+  "text": "The Buena Vista County Board of Supervisors received a progress update Tuesday on Phases 2 and 3 of the Platinum Crush road project east of Alta.\nCounty Engineer Bret Wilkinson says work is underway on Phase 2 of the project. Peterson Contractors Inc. of Reinbeck was awarded the bid to serve as general contractor. Subcontractor Gus Construction Co. of Casey began work this week on the box culvert.\nThe culvert replacement is expected to take six to eight weeks. The road will reopen for winter, with PCI crews returning in spring to widen the road and prep for paving, says Wilkinson.\nMore updates are expected as the project progresses into winter and spring.\nPhase 3 of the project hinges on a railroad diagnostic meeting, expected in early November.\nThe board also revisited truck traffic concerns tied to harvest season. While congestion has eased, future improvements are being considered.\nWilkinson says Platinum Crush is exploring ways to improve flow and reduce backups.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->natural resources"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Bret Wilkinson",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Buena Vista County Board of Supervisors",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Peterson Contractors Inc.",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Newell", "Storm Lake", "Lakeside"],
+      "state": ["Iowa"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:47:35.568+03:00",
+  "updated": "2025-10-16T14:56:59.000+03:00"
+}

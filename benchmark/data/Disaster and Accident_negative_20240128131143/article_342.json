@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "9d17114619f04b8b36eb56aa2c46cfa539227fca",
+    "url": "https://www.stuff.co.nz/national/301031679/nz-news-live-fenz-continue-to-monitor-hotspots-at-avondale-jockey-club-after-massive-blaze",
+    "site_full": "www.stuff.co.nz",
+    "site": "stuff.co.nz",
+    "site_section": "https://www.stuff.co.nz/feeds",
+    "site_categories": ["media", "travel", "australia_and_new_zealand"],
+    "section_title": "Stuff.co.nz - Stuff",
+    "title": "NZ News Live: FENZ continue to monitor hotspots at Avondale Jockey Club after massive blaze",
+    "title_full": "NZ News Live: FENZ continue to monitor hotspots at Avondale Jockey Club after massive blaze",
+    "published": "2023-12-29T00:14:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NZ",
+    "main_image": "https://resources.stuff.co.nz/content/dam/images/4/y/y/w/y/y/image.related.StuffLandscapeSixteenByNine.1420x800.4z85j3.png/1703801685661.jpg",
+    "performance_score": 0,
+    "domain_rank": 1176,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9d17114619f04b8b36eb56aa2c46cfa539227fca",
+  "url": "https://www.stuff.co.nz/national/301031679/nz-news-live-fenz-continue-to-monitor-hotspots-at-avondale-jockey-club-after-massive-blaze",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "STUFF REPORTERS",
+  "published": "2023-12-29T00:14:00.000+02:00",
+  "title": "NZ News Live: FENZ continue to monitor hotspots at Avondale Jockey Club after massive blaze",
+  "text": "All of the updates on breaking news around New Zealand.\nMetService Severe Weather Warnings and Watches are already in place including areas that are popular with trampers so keep up with the latest forecasts before heading out to work off that Christmas feed. Stuff Breaking news: This story is developing.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Sport", "Disaster and Accident", "Science and Technology"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "avondale jockey club",
+        "sentiment": "negative"
+      },
+      {
+        "name": "metservice",
+        "sentiment": "none"
+      },
+      {
+        "name": "facebook whatsapp reddit",
+        "sentiment": "none"
+      },
+      {
+        "name": "travel homed lifestyle entertainment complex motoring food & wine oddstuff",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "new zealand",
+        "sentiment": "none"
+      },
+      {
+        "name": "wairarapa",
+        "sentiment": "none"
+      },
+      {
+        "name": "west coast",
+        "sentiment": "none"
+      },
+      {
+        "name": "auckland waikato bay of plenty taranaki",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:29:11.920+02:00",
+  "updated": "2023-12-29T00:47:49.011+02:00"
+}

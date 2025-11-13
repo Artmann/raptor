@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "03dc2206413f73fafecbc88001bbe1c3c266add5",
+    "url": "https://mynews13.com/fl/orlando/news/2025/05/07/sargassum-washing-up-on-brevard-beaches",
+    "site_full": "mynews13.com",
+    "site": "mynews13.com",
+    "site_section": "http://www.mynews13.com/content/news/cfnews13/feeds/rss.html/brevard.html",
+    "site_categories": ["media"],
+    "section_title": "Brevard County | Orlando Florida Local News | Spectrum News 13",
+    "site_title": "Spectrum News | News 13",
+    "title": "Stinky seaweed returns to Florida's Space Coast",
+    "title_full": "Stinky seaweed returns to Florida's Space Coast",
+    "published": "2025-05-08T01:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://s7d2.scene7.com/is/image/TWCNews/IMG_1008_crop",
+    "performance_score": 0,
+    "domain_rank": 18597,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "03dc2206413f73fafecbc88001bbe1c3c266add5",
+  "url": "https://mynews13.com/fl/orlando/news/2025/05/07/sargassum-washing-up-on-brevard-beaches",
+  "ord_in_thread": 0,
+  "author": "Greg Pallone",
+  "published": "2025-05-08T01:00:00.000+03:00",
+  "title": "Stinky seaweed returns to Florida's Space Coast",
+  "text": "CAPE CANAVERAL, Fla. — The first sargassum of the year has washed up on the Space Coast.\nThe macro algae washes up on Brevard County beaches from the Sargasso Sea every year, usually starting in May, and once it's here, it rots on the beach, creating a stinky mess.\nWhat You Need To Know Sargassum seaweed washes ashore on Florida’s Space Coast every year, usually starting in May\nResearchers say 2025 could set a record for the stinky seaweed\nCity leaders won’t remove the seaweed to avoid disturbing sea turtle nests, and more is expected until October Researchers say 2025 could set a record for the smelly seaweed, as in April they recorded the highest level of sargassum in the ocean since 2022.\n“It naturally accumulates (in the Sargasso Sea), we’ve seen since about 2010-2011, these belts of sargassum forming further south, and when the wind patterns change, we start to see these really big events of sargassum,” said Dr. Austin Fox, an assistant professor with Florida Tech Ocean Engineering & Sciences.\nWhen the seaweed comes up, fresh, tiny, microscopic organisms on the fronds can cause skin irritation for anyone who comes in contact with it.\nBut it’s also a good food source for birds who feed on the tiny creatures living in clumps.\n“You’ll see birds picking out the crabs, the shrimp and the things that live in the sargassum, so it’s an incredibly important source for nutrients, shelter and habitat for all types of different organisms,” Fox said.\nScientists say the Amazon River returning to a normal flow after a drought is likely dispersing nutrients fueling the blooms.\nCape Canaveral city leaders don’t plan on removing the seaweed because it risks disturbing sea turtle nests.\nExpect more to wash up until October.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": ["Environment->nature"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://oceanservice.noaa.gov/facts/sargassosea.html",
+    "https://www.oceanservice.noaa.gov/facts/sargassosea.html"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Austin Fox",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Space Coast",
+        "sentiment": "none"
+      },
+      {
+        "name": "Brevard County",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sargasso Sea",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Florida Tech Ocean Engineering & Sciences",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:27:30.940+03:00",
+  "updated": "2025-05-08T01:31:21.000+00:00"
+}

@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "8ba595bb66fa8bd767161314b6fe5139380caeba",
+    "url": "https://www.donaukurier.de/lokales/landkreis-roth/mehr-natur-mehr-schutz-vor-ueberschwemmung-babenbach-in-roth-renaturiert-19720340",
+    "site_full": "www.donaukurier.de",
+    "site": "donaukurier.de",
+    "site_section": "https://www.donaukurier.de/lokales/landkreis-roth",
+    "site_categories": ["media"],
+    "section_title": "Nachrichten aus dem Landkreis Roth | Lokale Nachrichten | Donaukurier.de",
+    "site_title": "Donaukurier.de",
+    "title": "Mehr Natur, mehr Schutz vor Überschwemmung: Babenbach in Roth renaturiert",
+    "title_full": "Mehr Natur, mehr Schutz vor Überschwemmung: Babenbach in Roth renaturiert",
+    "published": "2025-10-16T14:29:57.529+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://img.donaukurier.de/ezplatform/images/_aliases/detail_teaser_item_image_variation/9/7/0/8/408028079-1-ger-DE/e8cf5c0755f9-29-132150388.jpg",
+    "performance_score": 0,
+    "domain_rank": 43275,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8ba595bb66fa8bd767161314b6fe5139380caeba",
+  "url": "https://www.donaukurier.de/lokales/landkreis-roth/mehr-natur-mehr-schutz-vor-ueberschwemmung-babenbach-in-roth-renaturiert-19720340",
+  "ord_in_thread": 0,
+  "author": "Donaukurier",
+  "published": "2025-10-16T14:29:57.529+03:00",
+  "title": "Mehr Natur, mehr Schutz vor Überschwemmung: Babenbach in Roth renaturiert",
+  "text": "Die Renaturierung des Babenbachs ist in Roth (Landkreis Roth) offiziell eingeweiht worden. Beteiligte und Gäste feierten den Abschluss des Projekts gemeinsam, berichtet die Stadt. Die Maßnahme verbessert laut Stadt den Hochwasserschutz im Osten Roths deutlich und bietet ab sofort zusätzliche Sitzgelegenheiten.\nLesen Sie auch: Luftwaffenoffiziersschule offiziell in Dienst gestellt: Roth ist jetzt „Top Gun der Bundeswehr“\nDer Babenbach, der in Belmbrach entspringt und in die Rednitz mündet, ist ein Gewässer 3. Ordnung, das in der Unterhaltslast der Stadt Roth liegt. Er war in der Vergangenheit bei Starkregenereignissen immer wieder Ursache für Überflutungen angrenzender Grundstücke.\n26 Meter langer Stahlbetondurchlass eingebaut\nDie nun abgeschlossene Maßnahme schafft Abhilfe: Auf rund 260 Metern wurde der Bachlauf neu modelliert, verengte Durchlässe wurden ersetzt und ein 26 Meter langer Stahlbetondurchlass wurde eingebaut. Gleichzeitig wurde der stark begradigte und befestigte Bachlauf naturnah umgestaltet. Mäandrierende Strukturen, Stauschwellen und die Entfernung technischer Einbauten schaffen neue Lebensräume für Flora und Fauna. Die Uferbereiche wurden mit vier neuen Bäumen bepflanzt, weitere sollen in den nächsten Wochen durch die Stadtgärtnerei folgen.\nDie Maßnahme wurde durch Fördermittel auf Basis der RZWas 2021 unterstützt. Die Gesamtkosten belaufen sich auf rund 370.000 Euro, wovon 90 Prozent der förderfähigen Kosten bezuschusst wurden.\nHK",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->environmental clean-up",
+    "Environment->nature",
+    "Environment->water"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Roths",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Roth",
+        "sentiment": "none"
+      },
+      {
+        "name": "Belmbrach",
+        "sentiment": "none"
+      },
+      {
+        "name": "Babenbach",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:29:57.529+03:00",
+  "updated": "2025-10-16T14:41:17.000+03:00"
+}

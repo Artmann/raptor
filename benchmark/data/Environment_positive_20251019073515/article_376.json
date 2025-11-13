@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "7c9739768c8deeab881e733403fe3b4d73561ee4",
+    "url": "https://cj.sina.cn/article/norm_detail?url=https://finance.sina.com.cn/jjxw/2025-10-16/doc-infuautq8116345.shtml&vt=4",
+    "site_full": "cj.sina.cn",
+    "site": "sina.cn",
+    "site_section": "http://finance.sina.com.cn/stock/hkstock/marketalerts/2017-12-18/",
+    "site_categories": [
+      "top_news_hk",
+      "top_news_my",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪财经_金融信息服务商",
+    "site_title": "财经头条_新浪财经_金融信息服务商",
+    "title": "我国首个国家级深水油气应急救援基地在海南启用",
+    "title_full": "我国首个国家级深水油气应急救援基地在海南启用",
+    "published": "2025-10-16T14:24:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "https://n.sinaimg.cn/finance/c30320b4/20210712/wx_poster_finance1.png",
+    "performance_score": 0,
+    "domain_rank": 4801,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7c9739768c8deeab881e733403fe3b4d73561ee4",
+  "url": "https://cj.sina.cn/article/norm_detail?url=https://finance.sina.com.cn/jjxw/2025-10-16/doc-infuautq8116345.shtml&vt=4",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T14:24:00.000+03:00",
+  "title": "我国首个国家级深水油气应急救援基地在海南启用",
+  "text": "今天（10月16日），国家海上 油气 应急救援 海南 基地在海南省澄迈县正式启用，标志着我国首个国家级深水油气应急救援基地正式投入使用，我国南部海域海上油气应急救援响应时间大幅缩短。此次投用的国家海上油气应急救援海南基地由应急管理部、海南省人民政府和 中国海油 三方联合建设，总占地面积超过11000平方米，配套应急车间和实训演练场，装备我国首套自主研制的3000米级水下应急封井装置和水下溢油回收系统，具备快速封井、高效回收溢油能力。（央视新闻）\n打开App看更多精彩内容",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Environment", "Economy, Business and Finance"],
+  "topics": [
+    "Environment->energy resources",
+    "Economy, Business and Finance->business service",
+    "Economy, Business and Finance->energy and resource"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_my",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:36:33.858+03:00",
+  "updated": "2025-10-16T14:48:39.000+03:00"
+}

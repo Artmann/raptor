@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "aaab73dca252fa3a7e189457fd55fc03da8c1861",
+    "url": "https://www.socialsamosa.com/news-2/youtube-restrict-livestreaming-users-under-16-9420463",
+    "site_full": "www.socialsamosa.com",
+    "site": "socialsamosa.com",
+    "site_section": "https://news.google.com/search?q=under%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["marketing", "business", "society"],
+    "section_title": "Google News - Search",
+    "site_title": "Social Samosa",
+    "title": "YouTube to restrict livestreaming for users under 16",
+    "title_full": "YouTube to restrict livestreaming for users under 16",
+    "published": "2025-06-26T08:36:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://img-cdn.publive.online/fit-in/1200x675/socialsamosa/media/media_files/2025/06/26/youtube-to-restrict-livestreaming-for-users-under-16-2025-06-26-11-05-22.png",
+    "performance_score": 0,
+    "domain_rank": 89289,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "aaab73dca252fa3a7e189457fd55fc03da8c1861",
+  "url": "https://www.socialsamosa.com/news-2/youtube-restrict-livestreaming-users-under-16-9420463",
+  "ord_in_thread": 0,
+  "author": "Social Samosa",
+  "published": "2025-06-26T08:36:00.000+03:00",
+  "title": "YouTube to restrict livestreaming for users under 16",
+  "text": "YouTube has announced new restrictions aimed at reducing potential risks to young users on its platform. From next month, the minimum age to host a livestream will be raised to 16, with the company also planning to remove streams that feature children without adult supervision.\nThe platform confirmed the changes in a statement:\nThe update is expected to most significantly affect gaming streamers, many of whom begin livestreaming in their early teens. While YouTube has not publicly provided a specific reason for the policy change, it comes amid ongoing concerns about the safety and exploitation of minors on live broadcasts.\nOver the years, there have been multiple reports of teenagers being exposed to inappropriate interactions and risks through livestreams.\nThe policy shift also coincides with broader regulatory discussions in Australia, where the government is preparing to implement a minimum age of 16 for access to all social media platforms. YouTube has been exempted from the proposed rules, largely due to its perceived educational value. However, this week the country’s eSafety Commissioner renewed calls for YouTube to be included, citing the potential risks associated with the platform’s social features.\nThe move to raise the livestreaming age could be part of YouTube’s effort to differentiate itself from more socially-driven platforms, and to reinforce its stance on child safety.\nWhile the change may temporarily slow the ambitions of some young creators, it is unlikely to significantly affect YouTube’s overall livestreaming activity. Instead, the platform’s updated policy is being viewed as a prudent step towards greater protection for younger users.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Science and Technology", "Social Issue", "Education"],
+  "topics": [
+    "Science and Technology->social sciences",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Social Issue->children",
+    "Social Issue->social networking",
+    "Social Issue->ageism",
+    "Education->students",
+    "Education->social learning",
+    "Education->online and remote learning"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://support.google.com/youtube/answer/2474026?hl=en&co=GENIE.Platform%3DAndroid",
+    "https://www.support.google.com/youtube/answer/2474026?hl=en&co=GENIE.Platform%3DAndroid",
+    "https://support.google.com/youtube/answer/2474026"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "YouTube",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T08:43:56.362+03:00",
+  "updated": "2025-06-26T05:51:14.000+00:00"
+}

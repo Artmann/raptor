@@ -1,0 +1,122 @@
+{
+  "thread": {
+    "uuid": "890447e6edc874c0e3faebd88c7b7ac054dffde4",
+    "url": "https://www.nzherald.co.nz/world/australia-weather-extreme-heatwave-conditions-temperatures-to-scorch-northern-australia/B7D4T4Z5SBEA7IXY3K5V7FHJNM/",
+    "site_full": "www.nzherald.co.nz",
+    "site": "nzherald.co.nz",
+    "site_section": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&_website=nzh",
+    "site_categories": ["science", "geology"],
+    "section_title": "",
+    "title": "Australia weather: Extreme heatwave conditions, temperatures to scorch northern Australia - NZ Herald",
+    "title_full": "Australia weather: Extreme heatwave conditions, temperatures to scorch northern Australia - NZ Herald",
+    "published": "2023-12-28T10:49:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NZ",
+    "main_image": "https://www.nzherald.co.nz/resizer/huSnitfk1yLjzwt5fY06v7gbb_A=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/DSD4DSXS6JCKRJ7HC5DI42Q2WM.jpg",
+    "performance_score": 0,
+    "domain_rank": 1249,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 10,
+        "shares": 6
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "890447e6edc874c0e3faebd88c7b7ac054dffde4",
+  "url": "https://www.nzherald.co.nz/world/australia-weather-extreme-heatwave-conditions-temperatures-to-scorch-northern-australia/B7D4T4Z5SBEA7IXY3K5V7FHJNM/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Keira Jenkins",
+  "published": "2023-12-28T10:49:00.000+02:00",
+  "title": "Australia weather: Extreme heatwave conditions, temperatures to scorch northern Australia - NZ Herald",
+  "text": "Most of northern Australia is set for severe heatwave conditions and the Bureau of Meteorology is warning residents to stay indoors and keep the heat out of their homes.\nTemperatures are expected to soar across most of northern Australia over the coming days.\nParts of Queensland, the Northern Territory and Western Australia face extreme to severe heatwave conditions from Friday, the weather bureau says.\nWinton, in Queensland’s west, is expecting 43C, while temperatures up to 37C are forecast for Gympie in the state’s storm-ravaged southeast.\nAdvertisement Advertise with NZME. Highs up to 36C are predicted in Brisbane on Friday, while Longreach in the state’s west is forecast to get to 47C over the weekend.\nMore than 42,000 people remained without power across southeast Queensland on Thursday as the state recorded higher-than-average temperatures.\nHeatwave conditions are impacting much of northern Australia over the coming days, with temperatures climbing into the mid-to-high 40s in some areas.\nStay up to date with latest forecasts and warnings, particularly heading into the final weekend of 2023. pic.twitter.com/p8ukMEx5Zq\n— Bureau of Meteorology, Australia (@BOM_au) December 28, 2023 On Friday in the Northern Territory, it is predicted to reach 40C in Katherine and 43C in Tennant Creek.\nMarble Bar in WA’s Pilbara region may reach 49C on Saturday, and temperatures up to 45C are expected there for the next six days.\nAdvertisement Advertise with NZME. ”In the Northern Territory, low to severe-intensity heatwave conditions cover most areas,” the bureau said in a statement.\n”Locally, extreme heatwave levels are forecast around Darwin where warm minimums are leading to uncomfortable nights.\n”In Queensland, low to locally severe heatwave conditions are building along the east coast, including Brisbane, the Sunshine Coast and areas surrounding Cairns.”\nForecasters say people in the worst-affected areas should stay indoors, close windows and blinds to keep heat out of homes and seek out fans or air conditioners to keep cool.\nHeatwave conditions are predicted to continue in the NT and WA, while in Queensland the temperature is expected to fall from Saturday.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Disaster and Accident", "Weather"],
+  "external_links": [
+    "https://twitter.com/BOM_au/status/1740215101158817798?ref_src=twsrc%5Etfw",
+    "https://t.co/p8ukMEx5Zq",
+    "https://www.t.co/p8ukMEx5Zq",
+    "https://twitter.com/BOM_au/status/1740215101158817798",
+    "https://www.twitter.com/BOM_au/status/1740215101158817798?ref_src=twsrc%5Etfw"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "winton",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "nz herald",
+        "sentiment": "negative"
+      },
+      {
+        "name": "bureau of meteorology",
+        "sentiment": "negative"
+      },
+      {
+        "name": "nzme",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "australia",
+        "sentiment": "none"
+      },
+      {
+        "name": "western australia",
+        "sentiment": "none"
+      },
+      {
+        "name": "brisbane",
+        "sentiment": "none"
+      },
+      {
+        "name": "gympie",
+        "sentiment": "none"
+      },
+      {
+        "name": "northern territory",
+        "sentiment": "none"
+      },
+      {
+        "name": "longreach",
+        "sentiment": "none"
+      },
+      {
+        "name": "queensland",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:14:39.993+02:00",
+  "updated": "2023-12-29T01:14:39.993+02:00"
+}

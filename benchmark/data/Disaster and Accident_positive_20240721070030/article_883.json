@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "b377eee3d242e1bda9ee43075ba02496d8303411",
+    "url": "https://business.weatherzone.com.au/energy/finally-a-great-wind-power-week",
+    "site_full": "business.weatherzone.com.au",
+    "site": "weatherzone.com.au",
+    "site_section": "https://business.weatherzone.com.au/feed",
+    "site_categories": [],
+    "section_title": "Weatherzone Business",
+    "title": "Finally, a great wind power week | Weatherzone Business",
+    "title_full": "Finally, a great wind power week | Weatherzone Business",
+    "published": "2024-06-23T21:40:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 42168,
+    "domain_rank_updated": "2024-06-18T13:08:26.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b377eee3d242e1bda9ee43075ba02496d8303411",
+  "url": "https://business.weatherzone.com.au/energy/finally-a-great-wind-power-week",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Ashleigh Madden",
+  "published": "2024-06-23T21:40:00.000+03:00",
+  "title": "Finally, a great wind power week | Weatherzone Business",
+  "text": "After months of frustratingly low wind power, a windy week is on the cards across southern Australia. The change in the winds comes as several deep low-pressure systems and associated fronts sweep across the south of the continent this week. The image below shows the first low pressure system over the Bight with an associated cold front and cloud band moving across SA on Monday morning. Image: Himawari-9 satellite image for the three hours leading up to 10:30am on Monday, June 24. You can also see in the far southwest corner another low pressure system with cloud spinning around clockwise around it, which will bring the next burst of strong wind power later in the week. The first low pressure system is slow-moving and will direct strong and gusty northwesterly winds over SA, Vic, the ACT and southern NSW over the next 72 hours, elevating wind power in the region. The image below shows that wind power has already increased substantially on Monday in the National Electricity Market (NEM), peaking at 4834MW at around 3:30am. Image: Wind contribution to generation (MW) for the week leading up to Monday, June 24, Source: OpenNEM These strong winds should continue over the next few days, which is great news for wind power in the network. While winds will ease briefly in the eastern states mid-week, the next burst of strong winds will be hot on the last low’s tail, with winds increasing again from Wednesday in WA and Thursday in SA. Images: 10- metre wind forecast for the next seven days leading up to 11pm on Sunday, June 30, according to Access-G The second cold front looks much stronger than the first, with the potential for damaging winds across southern Vic, SA and Tas on Friday and Saturday. Although strong winds are usually great news for wind farms, the wind speeds forecast later this week have the potential to cause cut outs in these areas. Most wind farms turn off the turbines if the wind speed reaches the ‘cut off’ wind speed of 90km/h (25m/s) to prevent damage to the turbines. If this happens, the strong winds in these areas may not be able to be harnessed for wind power. However, most of the wind forecast this week should remain below this critical threshold, bringing a great week of wind power for southern Australia. For more information please get in touch with us at business@weatherzone.com.au, or join us at the Australia Wind Energy 2024 event on July 10-11, 2024, at the [Melbourne Convention and Exhibition Centre](https://www.windenergyaustralia.com/floorplan-book-a-stand). Visit us at Booth 64!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Weather", "Environment"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.windenergyaustralia.com/floorplan-book-a-stand).",
+    "https://windenergyaustralia.com/floorplan-book-a-stand)."
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "vic",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "himawari",
+        "sentiment": "none"
+      },
+      {
+        "name": "national electricity market",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "australia",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-24T09:45:34.388+03:00",
+  "updated": "2024-06-24T09:45:34.388+03:00"
+}

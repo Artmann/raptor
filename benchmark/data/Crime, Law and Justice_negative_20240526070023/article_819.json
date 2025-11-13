@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "dfecdfaefdcdb5bec663db940af25fa75886917b",
+    "url": "https://denvergazette.com/news/transportation/express-lane-fraud/article_85ede7b0-0314-11ef-b743-ebceb0144856.html",
+    "site_full": "denvergazette.com",
+    "site": "denvergazette.com",
+    "site_section": "http://www.outtherecolorado.com/home/",
+    "site_categories": ["uncategorized"],
+    "section_title": "Denver News, Sports & Business | Denver Gazette",
+    "title": "CDOT warns of fraud texts targeting express lane users | Transportation | denvergazette.com",
+    "title_full": "CDOT warns of fraud texts targeting express lane users | Transportation | denvergazette.com",
+    "published": "2024-04-25T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/denvergazette.com/content/tncms/assets/v3/editorial/4/41/441e3db0-0316-11ef-8d73-afb3f4d98e72/645b188a79c8e.preview.jpg?crop=1500%2C788%2C0%2C104&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 24087,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "dfecdfaefdcdb5bec663db940af25fa75886917b",
+  "url": "https://denvergazette.com/news/transportation/express-lane-fraud/article_85ede7b0-0314-11ef-b743-ebceb0144856.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Sage Kelley sage.kelley@denvergazette.com",
+  "published": "2024-04-25T08:00:00.000+03:00",
+  "title": "CDOT warns of fraud texts targeting express lane users | Transportation | denvergazette.com",
+  "text": "Drivers using the various Colorado ExpressTolls should beware of fraudulent texts asking for unwarranted payments. The Colorado Department of Transportation (CDOT) publicly announced the influx of toll-related fraud texts reported by the FBI Internet Crime Complaint Center (IC3) on Thursday. The FBI has seen an increase in these text scams throughout the country targeting toll roads. The scams are texting drivers and asking them to pay toll amounts to avoid late fees, according to the press release from CDOT. Example: \"(State Toll Service Name): We've noticed an outstanding toll amount of $12.51 on your record. To avoid a late fee of $50.00, visit https://myturnpiketollservices.com to settle your balance.\" Drivers should never respond to these text messages or follow the links, potentially leading to the sharing of personal information. The Colorado Transportation Investment Office (CTIO), the independent organization within CDOT responsible for Express Lanes, does not use text messaging to collect any payments or personal information, according to the release. Though Colorado has not received reports of this scam in the state, IC3 has received over 2,000 reports nationally since the beginning of March. Roadway users who receive one of these texts are advised to take the following steps: - File a complaint with the IC3, www.ic3.gov , and include: - The phone number from where the text originated. - The website listed within the text. - Check your toll account for your actual toll balance at ExpressToll.com . - Check for any Express Lane safety violations at expresslanesafety.com . - Delete any fraudulent texts received. - If you clicked any links or provided your information, make efforts to secure your personal information and financial accounts. Dispute any unfamiliar charges.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.ic3.gov/),",
+    "https://expresstoll.com/Home).",
+    "https://myturnpiketollservices.com)",
+    "https://expresslanesafety.com/CO/violations).",
+    "https://myturnpiketollservices.com",
+    "https://www.expresstoll.com/Home).",
+    "https://ic3.gov/),",
+    "https://www.expresslanesafety.com/CO/violations).",
+    "https://www.myturnpiketollservices.com)",
+    "https://www.myturnpiketollservices.com"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "cdot",
+        "sentiment": "negative"
+      },
+      {
+        "name": "colorado department of transportation",
+        "sentiment": "none"
+      },
+      {
+        "name": "fbi internet crime complaint center",
+        "sentiment": "none"
+      },
+      {
+        "name": "fbi",
+        "sentiment": "none"
+      },
+      {
+        "name": "colorado transportation investment office",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "colorado",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:36:44.529+03:00",
+  "updated": "2024-04-26T04:02:15.461+03:00"
+}

@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "f5c966a1c79f0b249c5b07da5802b7db045a1075",
+    "url": "https://www.unotv.com/estados/tabasco/pemex-confirma-derrame-en-tabasco-tras-fuga-en-ducto-hay-playas-negras-y-muerte-de-fauna",
+    "site_full": "www.unotv.com",
+    "site": "unotv.com",
+    "site_section": "https://www.unotv.com",
+    "site_categories": [
+      "media",
+      "television",
+      "entertainment",
+      "top_news_mx",
+      "top_news"
+    ],
+    "section_title": "Últimas Noticias de hoy en México y el mundo en vivo - UnoTV",
+    "site_title": "Últimas Noticias de hoy en México y el mundo en vivo - UnoTV",
+    "title": "Pemex confirma derrame en Tabasco tras fuga en ducto; hay playas negras y muerte de fauna",
+    "title_full": "Pemex confirma derrame en Tabasco tras fuga en ducto; hay playas negras y muerte de fauna",
+    "published": "2025-05-08T05:23:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 33101,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f5c966a1c79f0b249c5b07da5802b7db045a1075",
+  "url": "https://www.unotv.com/estados/tabasco/pemex-confirma-derrame-en-tabasco-tras-fuga-en-ducto-hay-playas-negras-y-muerte-de-fauna",
+  "ord_in_thread": 0,
+  "author": "Edwin Meza",
+  "published": "2025-05-08T05:23:00.000+03:00",
+  "title": "Pemex confirma derrame en Tabasco tras fuga en ducto; hay playas negras y muerte de fauna",
+  "text": "Pemex confirma derrame en Tabasco tras fuga en ducto; hay playas negras y muerte de fauna\nTras un derrame, Petróleos Mexicanos (Pemex) atendió dos fugas en un ducto submarino que transporta aceite crudo desde la Plataforma Akal-C hasta la Terminal Marítima de Dos Bocas, en Paraíso, Tabasco.\nLas autoridades reportaron afectaciones a la fauna y contaminación en las playas, lo que obligó a cerrar los accesos en algunas de ellas debido al riesgo por este desastre ambiental.\nPemex detecta fuga y derrame en la costa\nTras detectar el incidente, Pemex instaló dos abrazaderas metálicas para contener la fuga. Actualmente, se preparan las maniobras para verificar la hermeticidad del ducto y reanudar su operación.\nSin embargo, parte del aceite se desplazó hasta la costa de la TMDB, abarcando una extensión de 7 kilómetros, informó la empresa productiva del estado.\nLimpieza y diálogo con pescadores\nPemex activó de inmediato a personal y equipo especializado para llevar a cabo labores de limpieza, las cuales se prevé concluyan en las próximas horas.\nAdemás, se inició diálogo con comunidades de pescadores de la zona para establecer medidas de prevención y reactivar su actividad productiva.\nLa petrolera notificó el evento a la Agencia de Seguridad, Energía y Ambiente (ASEA), de la Secretaría de Medio Ambiente y Recursos Naturales (Semarnat), para que se implementen las acciones de remediación correspondientes.\nMuerte de fauna y playas negras por derrame de Pemex\nLos habitantes y pescadores reportaron la muerte de fauna y afectaciones ambientales debido al derrame de crudo en las aguas del Golfo de México. La agencia de fotografía Cuartoscuro constató los hechos.\nEn la localidad Playita El Mirador, según medios locales, la población se quejó de la cancelación de servicios turísticos durante el fin de semana largo, debido a la presencia de chapopote y aceite en el mar.\nEl ayuntamiento de Paraíso, encabezado por el alcalde Alfonso Baca Sevilla, izó la bandera negra como señal de que la zona no es apta para el turismo ni la pesca.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Politics"],
+  "topics": [
+    "Environment->water pollution",
+    "Environment->hazardous materials",
+    "Environment->environmental pollution",
+    "Social Issue->social problem",
+    "Social Issue->social condition",
+    "Social Issue->discrimination",
+    "Politics->environmental policy",
+    "Politics->civil rights",
+    "Politics->government policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Petróleos Mexicanos",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:24:36.520+03:00",
+  "updated": "2025-05-08T03:30:21.000+00:00"
+}

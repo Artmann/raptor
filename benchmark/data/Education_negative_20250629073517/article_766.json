@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "e4468b11f31428ae201ec82b0654569e805e7b26",
+    "url": "https://www.perfil.com/noticias/cordoba/cordoba-paro-de-los-docentes-de-la-unc-por-48-horas-contra-el-ajuste-a-las-universidades.phtml",
+    "site_full": "www.perfil.com",
+    "site": "perfil.com",
+    "site_section": "https://www.perfil.com/feed",
+    "site_categories": [
+      "social",
+      "top_news_cl",
+      "top_news_br",
+      "top_news_ar",
+      "top_news"
+    ],
+    "section_title": "Perfil",
+    "site_title": "Perfil | Ultimas noticias de Argentina y el mundo",
+    "title": "Córdoba: paro de los docentes de la UNC por 48 horas contra el ajuste a las universidades",
+    "title_full": "Córdoba: paro de los docentes de la UNC por 48 horas contra el ajuste a las universidades",
+    "published": "2025-06-26T13:13:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "https://fotos.perfil.com/2025/05/27/trim/1140/641/adiuc-2031055.jpg",
+    "performance_score": 0,
+    "domain_rank": 7210,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e4468b11f31428ae201ec82b0654569e805e7b26",
+  "url": "https://www.perfil.com/noticias/cordoba/cordoba-paro-de-los-docentes-de-la-unc-por-48-horas-contra-el-ajuste-a-las-universidades.phtml",
+  "ord_in_thread": 0,
+  "author": "José Pérez",
+  "published": "2025-06-26T13:13:00.000+03:00",
+  "title": "Córdoba: paro de los docentes de la UNC por 48 horas contra el ajuste a las universidades",
+  "text": "Los docentes de la Asociación de Docentes e Investigadores de la Universidad de Córdoba (Adiuc) cumplen desde este jueves un paro por 48 horas en reclamo de un aumento salarial y el tratamiento de la ley de presupuesto universitario.\nDía mundial del vitiligo: causas, impacto emocional y la necesidad de mayor visibilidad\nParo\n\"Tras más de un año y medio de ajuste sobre los salarios y el presupuesto universitario, y luego de múltiples acciones de protesta sostenidas frente a un gobierno decidido a desmantelar el sistema público de producción de conocimientos, el malestar es creciente y la realidad apremia\", indica un comunicado gremial.\nLa medida de fuerza que se realiza \"en conjunto con las federaciones nacionales\" en las facultades de la Casa de Trejo y en los colegios preuniversitarios Monserrat y Manuel Belgrano.\nCapilla del Monte lanzó descuentos y actividades para turistas durante las vacaciones de invierno\nMarcha\nPor la tarde, desde las 17, y bajo la consigna \"Córdoba por las universidades públicas\" la comunidad universitaria se movilizará hasta avenida Vélez Sársfield y Duarte Quirós frente a la Facultad de Ciencias Exactas Físicas y Naturales (FCEFyN).\nEn ese lugar habrá una concentración, ronda de antorchas, intervenciones artísticas y se dictará una clase pública.\nAdiuc realizó una consulta a los docentes para \"construir una herramienta\" que \"ayude a orientar la continuidad de las acciones gremiales que venimos desplegando hasta ahora, ampliando la participación y la opinión plural de la docencia de la UNC\".\n\"Las respuestas serán analizadas en reunión conjunta entre Junta Ejecutiva y el Cuerpo de Delegadas/os de ADIUC para definir medidas de acción gremial y para seguir articulando estas medidas nacionalmente con el FAB, CONADU y el Frente Sindical por las Universidades\", precisó el sindicato.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Social Issue", "Education"],
+  "topics": [
+    "Social Issue->social services",
+    "Social Issue->demographics",
+    "Social Issue->social problem",
+    "Education->college and university",
+    "Education->educational grading",
+    "Education->teachers"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Manuel Belgrano",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Universidad de Córdoba",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_cl", "top_news_br", "top_news_ar", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:31:52.230+03:00",
+  "updated": "2025-06-27T12:11:18.000+00:00"
+}

@@ -1,0 +1,153 @@
+{
+  "thread": {
+    "uuid": "2ce2d9877c99a9bb8e580dbafddffc43a962287f",
+    "url": "https://www.timesobserver.com/news/community/2025/09/65th-reunion-held/",
+    "site_full": "www.timesobserver.com",
+    "site": "timesobserver.com",
+    "site_section": "https://world.einnews.com/ajax/headlines",
+    "site_categories": ["media"],
+    "section_title": "",
+    "site_title": "News, Sports, Jobs - Times Observer",
+    "title": "65th reunion held",
+    "title_full": "65th reunion held",
+    "published": "2025-09-06T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 323938,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2ce2d9877c99a9bb8e580dbafddffc43a962287f",
+  "url": "https://www.timesobserver.com/news/community/2025/09/65th-reunion-held/",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-06T03:00:00.000+03:00",
+  "title": "65th reunion held",
+  "text": "65th reunion held\nThe 65th reunion of the Eisenhower High School Class of 1960 was held at Cable Hollow Event Center. In the front row are Terrie Larson, Bucky Knapp, Bev Chase, Sheila Hartman, Marie Colander, Peg Stino. In row two, Allan Robbins, Joan Silves, Dolly Youngberg. Back row are Linda Hagberg, Paul Carlstrom, Bob Darts, Jim Chase, Morris Beetle and Ken Williams.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Social Issue", "Education"],
+  "topics": [
+    "Human Interest->anniversary",
+    "Social Issue->communities",
+    "Social Issue->social networking",
+    "Social Issue->fraternal and community group",
+    "Education->school",
+    "Education->social learning",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Dolly Youngberg",
+        "sentiment": "none"
+      },
+      {
+        "name": "Marie Colander",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sheila Hartman",
+        "sentiment": "none"
+      },
+      {
+        "name": "Paul Carlstrom",
+        "sentiment": "none"
+      },
+      {
+        "name": "Terrie Larson",
+        "sentiment": "none"
+      },
+      {
+        "name": "Allan Robbins",
+        "sentiment": "none"
+      },
+      {
+        "name": "Linda Hagberg",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ken Williams",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bucky Knapp",
+        "sentiment": "none"
+      },
+      {
+        "name": "Joan Silves",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bev Chase",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bob Darts",
+        "sentiment": "none"
+      },
+      {
+        "name": "Jim Chase",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Newry",
+        "North Warren",
+        "Tidioute",
+        "Sugar Grove",
+        "Russell",
+        "Clarendon",
+        "Youngsville",
+        "Rainsburg",
+        "Warren"
+      ],
+      "state": ["Pennsylvania"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:06:12.962+03:00",
+  "updated": "2025-09-18T08:12:45.000+03:00"
+}

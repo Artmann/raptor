@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "7ff6fdc4c3acfab85f6fa0afe8c4b21b91fa97aa",
+    "url": "https://www.cbsnews.com/chicago/news/cpd-officers-basketball-community/",
+    "site_full": "www.cbsnews.com",
+    "site": "cbsnews.com",
+    "site_section": "https://cbsnews.com/chicago/local-news",
+    "site_categories": ["media", "television", "entertainment"],
+    "section_title": "Breaking News from CBS2 - CBS Chicago",
+    "title": "Chicago police officers hit the court in effort to build relationship with communities - CBS Chicago",
+    "title_full": "Chicago police officers hit the court in effort to build relationship with communities - CBS Chicago",
+    "published": "2023-12-29T17:42:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/12/29/9a021ded-0bfa-48a7-9d1b-57b9f54721e4/thumbnail/1200x630/c4d56d4a2eeb24638df252d95222114f/basketball-cpd.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
+    "performance_score": 0,
+    "domain_rank": 187,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7ff6fdc4c3acfab85f6fa0afe8c4b21b91fa97aa",
+  "url": "https://www.cbsnews.com/chicago/news/cpd-officers-basketball-community/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jeramie Bizzle",
+  "published": "2023-12-29T17:42:00.000+02:00",
+  "title": "Chicago police officers hit the court in effort to build relationship with communities - CBS Chicago",
+  "text": "CHICAGO (CBS) -- Chicago police hit the basketball court to bolster some community spirit.\nThey played against the group Royalty Empowerment from Detroit with the goal of building relationships between first responders and communities of color.\nThe organization's founder, Kaylin Drewrey, says basketball helps bridge the gap.\n\"I think social media plays a pivotal role on emergency responders in the community and there's people with videos and clips out there that's changing the narrative of policing with the citizens, especially the youth community so the thing with bridging the gap with basketball is to show that the police are human and the kids aren't all what the media portrayed them to be,\" he said.\nThe Royalty Empowerment founder says his team let the Chicago police win the game so they'll be invited back.\nDrewrey says he hopes to continue building healthy relationships with the Chicago police and the community.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Human Interest",
+    "Crime, Law and Justice",
+    "Lifestyle and Leisure"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "drewrey",
+        "sentiment": "none"
+      },
+      {
+        "name": "jeramie bizzle jeramie bizzle",
+        "sentiment": "none"
+      },
+      {
+        "name": "kaylin drewrey",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cbs chicago chicago",
+        "sentiment": "positive"
+      },
+      {
+        "name": "cbs",
+        "sentiment": "positive"
+      },
+      {
+        "name": "police officers chicago police department basketball",
+        "sentiment": "none"
+      },
+      {
+        "name": "royalty empowerment",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "chicago",
+        "sentiment": "none"
+      },
+      {
+        "name": "detroit",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T18:46:49.185+02:00",
+  "updated": "2023-12-31T13:23:26.989+02:00"
+}

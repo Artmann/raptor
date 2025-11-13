@@ -1,0 +1,132 @@
+{
+  "thread": {
+    "uuid": "8b94e91e4049749d76b7445f77a4ca0504abc075",
+    "url": "https://www.thenews.com.pk/print/1142715-website-app-launched-to-digitise-urdu-in-nastaleeq-font",
+    "site_full": "www.thenews.com.pk",
+    "site": "thenews.com.pk",
+    "site_section": "https://www.thenews.com.pk",
+    "site_categories": ["media"],
+    "section_title": "The News International: Latest News Breaking, Pakistan News",
+    "title": "Website, app launched to digitise Urdu in Nastaleeq font",
+    "title_full": "Website, app launched to digitise Urdu in Nastaleeq font",
+    "published": "2023-12-29T00:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.thenews.com.pk/assets/uploads/akhbar/2023-12-29/l_1142715_030648_updates.jpg",
+    "performance_score": 0,
+    "domain_rank": 5198,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8b94e91e4049749d76b7445f77a4ca0504abc075",
+  "url": "https://www.thenews.com.pk/print/1142715-website-app-launched-to-digitise-urdu-in-nastaleeq-font",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@Bilal Ahmed",
+  "published": "2023-12-29T00:00:00.000+02:00",
+  "title": "Website, app launched to digitise Urdu in Nastaleeq font",
+  "text": "The development of website www.dastaan.io and its corresponding mobile phone Android app, which can convert images of printed Urdu text in the Nastaleeq script into an editable text for computers and also read them out, was termed on Thursday a landmark event in the digitisation of the Urdu language in the modern era. The website and app have been developed by the Neurocomputation Lab at the NED University of Engineering and Technology in collaboration with the Anjuman Taraqqi-e-Urdu Pakistan. They were launched by NED University Vice Chancellor Dr Sarosh Hashmat Lodi at the varsity’s auditorium on Thursday. Federal Minister for Religious Affairs Aneeq Ahmed, Anjuman President Wajid Jawad and Treasurer Syed Abid Rizvi were also present on the occasion. Explaining how the project was conceived, Jawad said he was once talking to then Jang Group President the late Imran Aslam, who told him that the media group was thinking about publishing the London edition of Daily Jang in the Roman script and had hired a consultant for the job. The Anjuman president said he thought that if Urdu could be converted into the Roman script through digital means, digital means could also be used to convert something into the Nastaleeq script. As he discussed this idea with Aslam, the latter facilitated his correspondence with the consultant, with whose help the Anjuman contacted Lahore University of Management Sciences to provide expertise for the task. Jawad said that when the VC of the NED varsity, which is situated at a stone’s throw from the Anjuman headquarters Urdu Bagh, came to know that the Anjuman was trying to hire LUMS experts to develop some digital platform for Urdu, he complained and said the NED University was a better option for the Anjuman due its close proximity. In this way, a memorandum of understanding was signed between the NED and Anjuman on January 28, 2022. Later, Dr Lodi quipped that neither he nor Jawad had any clear picture of what they were venturing into, but the team of the Neurocomputation Lab under its principal investigator Dr Saad Ahmed Qazi and project head Majida Kazmi actualised their vision. They developed an artificial intelligence-based programme, fed it with a large corpus of Urdu text provided by the Anjuman and enabled it to collect more corpora in Urdu from digital means. The event was told that currently, the website and app could convert any uploaded image of printed Urdu text into editable text form and read it. However, the project was still not finished as they were planning to add more features to it, including converting Urdu text into Braille for people with vision impairment and development of an IOS app. The project head, Dr Majida, said Urdu is one of the most difficult languages to be digitised because of its script in which alphabets keep on changing their form based on their position in the word. She explained that the development of any optical character recognition (OCR) system — an artificial intelligence system that can recognise a written language through its characters — for English or other European languages that are written in the Roman alphabets was way easier because their alphabets were written discretely, and not joined into the following alphabets. She said the Nastaleeq script was also not linear and words came on the line in a diagonal manner. Similarly, she said, some alphabets of Urdu were written above the line while others would go below the line, due to which it is difficult to programme an OCR system for Urdu. The project head said a total of around 300 individuals, including 200 interns, participated in the project and approximately 90,000 man hours were spent on it in around two years. She explained that three master’s thesis and 20 final-year projects were done on the project while a candidate was also pursuing PhD in it. She said any language that was not being digitised was an endangered language in this digital world and therefore the project was very significant for the survival of Urdu. Earlier, the religious affairs minister lamented that although we as a nation often declared our love for Urdu, such professed love did not transform into action. He asked why the examinations for CSS had not been taken into Urdu. He, however, said Urdu was still the national language of Pakistan understood everywhere in the country. The K-Electric will undertake a critical maintenance activity at Malir Grid on Friday to ensure the stability and... BelongingThe VM Art Gallery is hosting an art exhibition featuring works by Malika Abbas and Wendy Marijnissen. Titled... In what appears to a major reason for an increase in street crime in Karachi, city police chief Khadim Hussain Rind... A minor boy died and another was injured during a confrontation between police and protesters during an operation...",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Economy, Business and Finance"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "jawad",
+        "sentiment": "none"
+      },
+      {
+        "name": "jang",
+        "sentiment": "none"
+      },
+      {
+        "name": "sarosh hashmat lodi",
+        "sentiment": "none"
+      },
+      {
+        "name": "wajid jawad",
+        "sentiment": "none"
+      },
+      {
+        "name": "imran aslam",
+        "sentiment": "none"
+      },
+      {
+        "name": "syed abid rizvi",
+        "sentiment": "none"
+      },
+      {
+        "name": "aneeq ahmed",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "ned university",
+        "sentiment": "none"
+      },
+      {
+        "name": "ned university of engineering and technology",
+        "sentiment": "none"
+      },
+      {
+        "name": "jang group",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "urdu",
+        "sentiment": "none"
+      },
+      {
+        "name": "nastaleeq",
+        "sentiment": "none"
+      },
+      {
+        "name": "pakistan",
+        "sentiment": "none"
+      },
+      {
+        "name": "anjuman taraqqi",
+        "sentiment": "none"
+      },
+      {
+        "name": "london",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:14:34.212+02:00",
+  "updated": "2023-12-29T00:14:34.212+02:00"
+}

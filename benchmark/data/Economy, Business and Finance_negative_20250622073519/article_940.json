@@ -1,0 +1,114 @@
+{
+  "thread": {
+    "uuid": "f0e3946f67405e7779c746119be13fb21e76c7b9",
+    "url": "https://decrypt.co/326005/civil-rights-elon-musks-xai-60-days-fix-alleged-clean-air-act-violations",
+    "site_full": "decrypt.co",
+    "site": "decrypt.co",
+    "site_section": "https://decrypt.co/rss",
+    "site_categories": ["finance"],
+    "section_title": "Decrypt",
+    "site_title": "Decrypt: AI, Bitcoin, Culture, Gaming, and Crypto News - Decrypt",
+    "title": "Civil Rights Group Gives Elon Musk's xAI 60 Days to Fix Alleged Clean Air Act Violations",
+    "title_full": "Civil Rights Group Gives Elon Musk's xAI 60 Days to Fix Alleged Clean Air Act Violations",
+    "published": "2025-06-19T06:36:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CO",
+    "main_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/elon-musk-decrypt-style-01-gID_7.png",
+    "performance_score": 0,
+    "domain_rank": 3608,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f0e3946f67405e7779c746119be13fb21e76c7b9",
+  "url": "https://decrypt.co/326005/civil-rights-elon-musks-xai-60-days-fix-alleged-clean-air-act-violations",
+  "ord_in_thread": 0,
+  "author": "Vince Dioquino",
+  "published": "2025-06-19T06:36:00.000+03:00",
+  "title": "Civil Rights Group Gives Elon Musk's xAI 60 Days to Fix Alleged Clean Air Act Violations",
+  "text": "In brief\n- xAI allegedly operates 26 or more gas turbines without required permits or pollution controls.\n- Thermal images show turbines running despite the company claiming they weren't operational.\n- Groups estimate turbines could emit up to 2,000 tons of nitrogen oxides annually if no controls are placed.\nIn Memphis's Boxtown neighborhood, where cancer rates soar up to four times more than the national average, residents face a new threat.\nThermal images allegedly show how gas turbines from xAI's facility pump toxins into already polluted air, prompting a civil rights group to give Elon Musk's AI lab a deadline: install pollution controls, or face a lawsuit.\nIn a letter, attorneys for the NAACP, via the Southern Environmental Law Center, accused xAI of running 26 unpermitted gas turbines at its Memphis supercomputer site. The company has 60 days to address the alleged Clean Air Act violations.\n\"We cannot afford to normalize this kind of environmental injustice,\" Derrick Johnson, president and CEO of the NAACP, said in a statement. \"We will not allow xAI to get away with this.\"\nDecrypt has reached out to xAI for comment.\nData centers that supply AI computing power are power-intensive and require a constant supply of electricity. Energy consumption from AI facilities is expected to account for 49% of global data center electricity usage by the end of 2025, surpassing even Bitcoin's energy consumption.\nThe civil rights organization alleges that xAI's turbines have the potential \"to emit more than 2,000 tons of smog-forming nitrogen oxides\" annually, which could make it the largest industrial source in Memphis.\nHowever, due to slower clean-energy deployments, the rising demand is primarily met by utilizing fossil fuels such as natural gas and coal.\nThermal imaging conducted in April purportedly revealed nearly all turbines were operational, contradicting xAI's claims. The NAACP noted that proper pollution controls could reduce emissions to approximately 177 tons annually, which is less than 10% of current levels.\nLocal officials, including Memphis's mayor and the Shelby County Health Department, allegedly claim that a \"364-day exemption\" applies to xAI's turbines, the NAACP said, adding that despite these claims, they haven't identified which specific exemption would cover turbines based on the size of xAI's operations.\nThe emissions projections are more concerning given how Memphis ranks as the fifth most prone metro area, according to a 2025 report by the Asthma and Allergy Foundation of America.\nIf negotiations fail and a lawsuit proceeds, xAI could face injunctions halting its operations, as well as substantial fines for each violation.\nEdited by Sebastian Sinclair",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Politics", "Economy, Business and Finance", "Social Issue"],
+  "topics": [
+    "Politics->civil rights",
+    "Politics->environmental policy",
+    "Politics->government",
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->energy and resource",
+    "Social Issue->social problem",
+    "Social Issue->discrimination",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://southernenvironment.sharefile.com/share/view/d1ba632c4da7414a",
+    "https://southernenvironment.sharefile.com/share/view/d688d7e766824187/fo67f6d0-9a96-4b31-95a1-d92ec839399f",
+    "https://aafa.org/wp-content/uploads/2025/03/aafa-2025-allergy-capitals-report.pdf",
+    "https://www.southernenvironment.sharefile.com/share/view/d1ba632c4da7414a",
+    "https://www.southernenvironment.sharefile.com/share/view/d688d7e766824187/fo67f6d0-9a96-4b31-95a1-d92ec839399f",
+    "https://www.aafa.org/wp-content/uploads/2025/03/aafa-2025-allergy-capitals-report.pdf"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Derrick Johnson",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Boxtown",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Civil Rights Group Gives Elon Musk",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Southern Environmental Law Center",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "NAACP",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "f0e3946f67405e7779c746119be13fb21e76c7b9",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:42:59.230+03:00",
+  "updated": "2025-06-19T04:47:23.000+00:00"
+}

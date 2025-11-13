@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "d7645a1f24947d19fe1e14d66f6c963d7f035755",
+    "url": "https://www.ettoday.net/news/20250626/2985564.htm",
+    "site_full": "www.ettoday.net",
+    "site": "ettoday.net",
+    "site_section": "https://www.ettoday.net/news/20250112/2890770.htm",
+    "site_categories": ["media", "top_news_hk", "top_news_tw", "top_news"],
+    "section_title": "比睡滿8小時重要！研究揭「1作息」可降低48%死亡率 | ETtoday生活新聞 | ETtoday新聞雲",
+    "site_title": "ETtoday新聞雲 | Today is my day",
+    "title": "北市高中生破解悠遊卡「刷退變現」　爽領數十萬吃上詐欺罪",
+    "title_full": "北市高中生破解悠遊卡「刷退變現」　爽領數十萬吃上詐欺罪",
+    "published": "2025-06-26T12:51:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://cdn2.ettoday.net/images/4341/e4341352.jpg",
+    "performance_score": 1,
+    "domain_rank": 8489,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 15,
+        "comments": 17,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d7645a1f24947d19fe1e14d66f6c963d7f035755",
+  "url": "https://www.ettoday.net/news/20250626/2985564.htm",
+  "ord_in_thread": 0,
+  "author": "ETtoday新聞雲",
+  "published": "2025-06-26T12:51:00.000+03:00",
+  "title": "北市高中生破解悠遊卡「刷退變現」　爽領數十萬吃上詐欺罪",
+  "text": "▲圖為南港警分局外觀。（圖／資料畫面）\n記者張君豪／台北報導\n北市驚傳一名高中生網購NFC讀寫機，異想天開插入悠遊卡後發現居然可透過電腦更改悠遊卡內儲值金額，該名少年發現新大陸，多次持無記名悠遊卡自己使用電腦充值後，在到鄰近捷運站進行刷退，北市捷運公司統計發現特定悠遊卡出現密集刷退動作，且每次刷退金額都是1千元新台幣，累計金額數十萬，帳戶系統出現異常後，捷運公司今年3月委任法務人員到南港警分局南港派出所報案，警方日前約談該名少年到案，訊後並依涉犯詐欺罪嫌移。\n知情警私下透露，NFC讀寫機並非新玩意，確實可以竄改悠遊卡內儲值金額，但因突然暴增的金額會和悠遊卡公司後端平台的帳務資料庫核對不上，該系統只要刷退、消費金額大於該卡片內部原先的儲值金額，就遭視為異常並跳出警訊，捷運公司據此大批總數約數百筆的異常紀錄，鎖定特定持卡人使用NFC讀寫機竄改悠遊卡儲值數據。\n南港警方今年3月接獲報案後展開追查，雖然犯嫌使用的悠遊卡雖非實名購買登記，但警方根據涉案悠遊卡號、擴大勾稽比對這些卡片的使用紀錄，很快的涉案人使用卡片騎乘U-BIKE、搭乘捷運、公車動線就曝光，警方據此鎖定就讀北市某高中的16歲少年涉案，緊急向士林院檢申請同行書和搜索票，到少年住家展開搜索、在少年臥室內查扣大批悠遊卡和NFC修改機器，警訊後依涉犯詐欺罪嫌將他移送士林少年法庭。\n警方指出，該名少年異想天開，僅憑改寫悠遊卡內儲值金額就貿然刷退引發捷運、悠遊卡公司帳戶系統異常，警方也借此案例呼籲，修改悠遊卡儲值金額內容，並無法同步修改悠遊卡帳戶系統內的客戶剩餘金額，只要民眾一竄改使用必定會遭檢警及悠遊卡公司列管鎖定，呼籲民眾切莫異想天開以身試法。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Social Issue", "Education"],
+  "topics": [
+    "Crime, Law and Justice->fraud",
+    "Social Issue->social problem",
+    "Social Issue->social networking",
+    "Social Issue->juvenile delinquency",
+    "Education->teachers",
+    "Education->students",
+    "Education->educational testing and examinations"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_hk", "top_news_tw", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T12:57:11.372+03:00",
+  "updated": "2025-06-27T10:12:29.000+00:00"
+}

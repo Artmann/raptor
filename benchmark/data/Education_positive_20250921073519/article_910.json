@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "e6ae74b6936bc8959b0aeed9d2c978785aad7140",
+    "url": "https://westconcordmn.net/stories/triton-welcomes-new-principal,125228",
+    "site_full": "westconcordmn.net",
+    "site": "westconcordmn.net",
+    "site_section": "https://westconcordmn.net/news",
+    "site_categories": [],
+    "section_title": "News - West Concord Messenger",
+    "site_title": "Home - West Concord Messenger",
+    "title": "Triton Welcomes New Principal",
+    "title_full": "Triton Welcomes New Principal",
+    "published": "2025-09-13T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn2.creativecirclemedia.com/mainstreet/original/20250913-104745-a99-Principal%20Fox.JPG",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e6ae74b6936bc8959b0aeed9d2c978785aad7140",
+  "url": "https://westconcordmn.net/stories/triton-welcomes-new-principal,125228",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-13T03:00:00.000+03:00",
+  "title": "Triton Welcomes New Principal",
+  "text": "Tanisha Fox is the new High School principal at Triton this year. She was born and raised in Richmond, Minnesota, near St. Cloud, and graduated from ROCORI High School. Tanisha is the youngest of three children, her older brother now lives in Wells, MN, where he serves as the Superintendent at USC, and her sister is a Doctor of Nurse Practicing in Wahpeton, ND. While in her first year of college, her dad remarried, and she gained three step-sisters. They’ve grown into one big, blended family.\nFor college, Tanisha attended North Dakota State University in Fargo, where she majored in English Education. After graduation, she began teaching high school English at Kindred High School, a small town outside of Fargo. During that time, Tanisha earned her master’s degree in Educational Leadership from Minnesota State University–Moorhead.\nShe then moved into administration as the Dean of Students at Mountain Lake Public Schools. While there, completed her Specialist degree in K–12 Principal and Superintendent licensure. Tanisha worked as a High School English teacher at Kindred High School, North Dakota and Dean of Students at Mountain Lake Public Schools in Minnesota.\nTanisha was married this past June to husband, Sheldon. Andrecently purchased a home here in the district and have been busy with some minor renovations. They don’t have kids yet, but are excited to be building our life together in this community. They have one pet their cat, Archie. Travel is one of Tanisha’s greatest passions. She has been an avid traveler since she was young and have continued to make it a priority as an adult. Most recently, Sheldon and Tanisha went to Hawaii for our honeymoon, which was a beautiful trip.\nTanisha relates her experience with the 2025-26 school year. “From my very first days here, the welcoming atmosphere at Triton has been so strong and genuine. Before school began, I had the chance to meet individually with each teacher, and the message I heard again and again was the strength of the staff community. Teachers described Triton as a place where you truly get to know your students—and where the staff feels like family. In my short time here, I’ve already seen that proven true.”\n“This year, my personal goal is to look, listen, and learn. I want to fully understand who Triton is as a school and what our priorities should be moving forward.” Tanisha continues. “As a district, we already have strong aims in place: Improving student performance, Strengthening community support and engagement, Ensuring a safe, caring, and respectful school environment and Building a strong workforce. My role is to keep these goals at the center of everything I do. I want to build on the strengths already here and help ensure Triton students are set up for success—both in school and in life.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Lifestyle and Leisure"],
+  "topics": null,
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Tanisha Fox",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "St. Cloud",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "North Dakota State University",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "ROCORI High School",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["West Concord"],
+      "state": ["Minnesota"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:15:59.062+03:00",
+  "updated": "2025-09-18T09:26:59.000+03:00"
+}

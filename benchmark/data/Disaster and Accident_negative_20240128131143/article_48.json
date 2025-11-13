@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "cb06c5f70bfe684f7d0eb579a3f928fac30dfd77",
+    "url": "https://askubuntu.com/questions/1490878/livebooting-ubuntu-on-acer-aspire-15-laptop-just-loop-restarts-into-grub",
+    "site_full": "askubuntu.com",
+    "site": "askubuntu.com",
+    "site_section": "https://askubuntu.com/feeds",
+    "site_categories": ["non_standard_content", "adult"],
+    "section_title": "Recent Questions - Ask Ubuntu",
+    "title": "livebooting ubuntu on Acer Aspire 15 laptop just loop restarts into Grub",
+    "title_full": "livebooting ubuntu on Acer Aspire 15 laptop just loop restarts into Grub",
+    "published": "2023-12-28T23:18:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon@2.png?v=c492c9229955",
+    "performance_score": 0,
+    "domain_rank": 2742,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cb06c5f70bfe684f7d0eb579a3f928fac30dfd77",
+  "url": "https://askubuntu.com/questions/1490878/livebooting-ubuntu-on-acer-aspire-15-laptop-just-loop-restarts-into-grub",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Adam Dayan",
+  "published": "2023-12-28T23:18:00.000+02:00",
+  "title": "livebooting ubuntu on Acer Aspire 15 laptop just loop restarts into Grub",
+  "text": "I'm trying to install Ubuntu on my Winbdows AMD Acer Aspire 5 15 laptop but when I select \"Try or install Ubuntu\" (or \"Ubuntu (safe graphics)\") in the Grub menu the laptop simply reboots and ends up at the same Grub menu. Before the the Grub menu appears I momentarily see a log that reads \"error: file /boot not found\"\nI'm livebooting off a USB burnt using balenaEtcher and I've tried both the Ubuntu 22.04 LTS and 23.10 images and both have the same issue. I've turned off SecureBoot and fast boot in the BIOS and I've turned off Windows 11 hibernate by running \"powercfg.exe /hibernate off\" in CommandPrompt.\nIn the grub CLI I've explored the filesystem and the USB partition 1 (hd0,gpt1) is mounted as root and running\nls / returns\nboot/ boot.catalog casper/ install/ md5sum.txt pool/ preseed/ ubuntu which I believe means the correct partition as been mounted as the rootfs. I've additionally tried manually running the commands found at\n/boot/grub/grub.cfg without the\nquiet argument to the kernel but I get the same result without any extra output. I've tried using 2 different USB sticks.\nAny help would be greatly appreciated, thank you!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Disaster and Accident",
+    "Human Interest"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "acer aspire",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:03:58.289+02:00",
+  "updated": "2023-12-29T00:03:58.289+02:00"
+}

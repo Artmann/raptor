@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "bf567e288c27cebdba8ab5d35fe4def3e1efe122",
+    "url": "https://local.newsbreak.com/bbc-2085458/4295282453065-tackling-traffic-improves-street-s-air-quality",
+    "site_full": "local.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://local.newsbreak.com/bbc-2085458",
+    "site_categories": [],
+    "section_title": "BBC&#x27;s Home Page | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Tackling traffic improves street's air quality - NewsBreak",
+    "title_full": "Tackling traffic improves street's air quality - NewsBreak",
+    "published": "2025-10-16T16:23:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/3tIxzD_15i15N7b00",
+    "performance_score": 0,
+    "domain_rank": 2819,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bf567e288c27cebdba8ab5d35fe4def3e1efe122",
+  "url": "https://local.newsbreak.com/bbc-2085458/4295282453065-tackling-traffic-improves-street-s-air-quality",
+  "ord_in_thread": 0,
+  "author": "Danielle Malgwi",
+  "published": "2025-10-16T16:23:00.000+03:00",
+  "title": "Tackling traffic improves street's air quality - NewsBreak",
+  "text": "By Danielle Malgwi ,\n7 minutes ago Ewell High Street's nitrogen dioxide emissions have been monitored since 2007. Read full article\nRead in NewsBreak",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->air pollution"],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:32:47.663+03:00",
+  "updated": "2025-10-16T16:40:57.000+03:00"
+}

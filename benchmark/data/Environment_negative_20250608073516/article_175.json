@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "25d9bac31a3bf7a800ce7eaa05941e513b330b86",
+    "url": "https://www.kplctv.com/video/2025/05/07/flooding-beauregard-parish",
+    "site_full": "www.kplctv.com",
+    "site": "kplctv.com",
+    "site_section": "http://www.kplctv.com/homepage",
+    "site_categories": ["media"],
+    "section_title": "KPLC 7 News, Lake Charles, Louisiana",
+    "site_title": "KPLC 7 News, Lake Charles, Louisiana",
+    "title": "Flooding in Beauregard Parish",
+    "title_full": "Flooding in Beauregard Parish",
+    "published": "2025-05-08T01:13:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-kplc-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F05-07-2025%2Ft_c5572c846c2d4a808f1711ecd7000425_name_file_1280x720_2000_v3_1_.jpg?auth=0fed85a98b224e334d1929880b06ae6b98bd5c344eeed7e550010be5720ea44a&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 22331,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "25d9bac31a3bf7a800ce7eaa05941e513b330b86",
+  "url": "https://www.kplctv.com/video/2025/05/07/flooding-beauregard-parish",
+  "ord_in_thread": 0,
+  "author": "@KPLC7News",
+  "published": "2025-05-08T01:13:00.000+03:00",
+  "title": "Flooding in Beauregard Parish",
+  "text": "Skip to content\nVideo\nTraffic\nLegal Corner\nHealth\nLiving Your Best Life\nAbout Us\nMeet the Team\nNextGen TV\nZeam - News Streams\nPowerNation\nCircle Country\nInvestigateTV\nWatching Your Wallet\nGray DCC\nDigital Marketing\nFlooding in Beauregard Parish\nPublished: May. 7, 2025 at 5:13 PM CDT\n|\nUpdated: 1 hour ago\nEmail This Link\nShare on Facebook\nShare on X (formerly Twitter)\nShare on Pinterest\nShare on LinkedIn\n1 dead, 1 in custody in Lake Arthur shooting\nUpdated: 1 hour ago\nJennings man accused of having inappropriate relationship with runaway juvenile\nUpdated: 1 hour ago\nA Jennings man is facing a felony sex charge after reportedly having an inappropriate relationship with a runaway child.\nSEVERE WEATHER: SWLA school, office and road closures\nUpdated: 5 hours ago",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Disaster and Accident"],
+  "topics": [
+    "Environment->natural resources",
+    "Environment->environmental pollution",
+    "Environment->water",
+    "Social Issue->communities",
+    "Social Issue->social problem",
+    "Disaster and Accident->emergency response",
+    "Disaster and Accident->natural disaster"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "DCC\nDigital Marketing\nFlooding",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:31:02.884+03:00",
+  "updated": "2025-05-07T23:36:11.000+00:00"
+}

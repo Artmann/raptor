@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "367a20f4b7e26e132ccd6d6b511e8e5b7296fabf",
+    "url": "https://article.wn.com/view/2025/10/16/Chinese_team_designs_leadfree_ecofriendly_solar_cells_breaki_v/",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/renewable-energy",
+    "site_categories": ["media"],
+    "section_title": "World News - Renewable Energy",
+    "site_title": "World News",
+    "title": "Chinese team designs lead-free, eco-friendly solar cells, breaking efficiency record",
+    "title_full": "Chinese team designs lead-free, eco-friendly solar cells, breaking efficiency record",
+    "published": "2025-10-16T10:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 8219,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "367a20f4b7e26e132ccd6d6b511e8e5b7296fabf",
+  "url": "https://article.wn.com/view/2025/10/16/Chinese_team_designs_leadfree_ecofriendly_solar_cells_breaki_v/",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T10:32:00.000+03:00",
+  "title": "Chinese team designs lead-free, eco-friendly solar cells, breaking efficiency record",
+  "text": "SHANGHAI, Oct. 16 (Xinhua) -- In a significant advance for green energy, Chinese scientists have created a tin-based solar cell that rivals the efficiency of conventional lead-based models while eliminating environmental and health...\n\"Our goal was to create a solar cell that is truly green throughout its lifecycle,\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Environment"],
+  "topics": [
+    "Science and Technology->biotechnology",
+    "Science and Technology->scientific innovation",
+    "Environment->energy saving",
+    "Environment->sustainability",
+    "Environment->climate change"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Xinhua",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "603888",
+            "exchange": "SHA"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "367a20f4b7e26e132ccd6d6b511e8e5b7296fabf",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:04:26.486+03:00",
+  "updated": "2025-10-16T16:18:00.000+03:00"
+}

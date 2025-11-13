@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "10d94e9783911aa9be874043ab0a74e59606c933",
+    "url": "https://www.newsru.co.il/finance/18sep2025/pitchbook304.html",
+    "site_full": "www.newsru.co.il",
+    "site": "newsru.co.il",
+    "site_section": "https://newsru.co.il/israel/20nov2024/alert500.html",
+    "site_categories": ["media", "top_news_il", "top_news"],
+    "section_title": "Ракетная тревога в Метуле - NEWSru.co.il",
+    "site_title": "Новости Израиля, ежечасные новости Израиля сегодня онлайн Newsru.co.il",
+    "title": "Два израильских вуза в мировом ТОП-10 по количеству успешных создателей стартапов - NEWSru.co.il",
+    "title_full": "Два израильских вуза в мировом ТОП-10 по количеству успешных создателей стартапов - NEWSru.co.il",
+    "published": "2025-09-18T08:39:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IL",
+    "main_image": "https://images.newsru.co.il/l/230/29/2302992.jpg?cb=1758173948",
+    "performance_score": 0,
+    "domain_rank": 39154,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "10d94e9783911aa9be874043ab0a74e59606c933",
+  "url": "https://www.newsru.co.il/finance/18sep2025/pitchbook304.html",
+  "ord_in_thread": 0,
+  "author": "Wikipedia Photo Gsella",
+  "published": "2025-09-18T08:39:00.000+03:00",
+  "title": "Два израильских вуза в мировом ТОП-10 по количеству успешных создателей стартапов - NEWSru.co.il",
+  "text": "Два израильских вуза в мировом ТОП-10 по количеству успешных создателей стартапов\nТель-Авивский университет второй год подряд занял седьмое место в мире и первое за пределами США в индексе предпринимательства PitchBook.\nИндекс, который считается одним из самых престижных в этой области, изучает, какие университеты мира выращивают наибольшее количество предпринимателей среди своих выпускников. Рейтинг составляется на основании венчурного капитала, привлеченного основанными выпускниками вузов стартап-компаниями.\nПо данным PitchBook, за последнее десятилетие 865 выпускников ТАУ основали 736 компаний, которые вместе привлекли 30 миллиардов долларов инвестиций.\nВ 2025 году впервые в ТОП-10 рейтинга попал еще один израильский вуз – хайфский \"Технион\", который занял десятую строку, поднявшись на шесть позиций по сравнению с прошлым годом. За последние 10 лет 783 выпускника хайфского вуза создали 671 стартап, мобилизовавший 26,7 млрд долларов.\nВсе остальные восемь мест первой десятки занимают американские вузы – Беркли, Стэнфорд, Гарвард, Пенсильванский университет, MIT, Корнелл, университет Техаса и Анн Арбор.\nСледующий неамериканский вуз в рейтинге – университет Торонто – занял только 17-ю строчку.\nЕврейский университет в Иерусалиме – на 30й строке, университет Райхмана – 47й, университет Бен-Гурион в Негеве – 52-й, университет Бар-Илан делит 90-93 места.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "positive",
+  "categories": ["Education"],
+  "topics": [
+    "Education->college and university",
+    "Education->vocational education",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_il", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:47:37.242+03:00",
+  "updated": "2025-09-18T08:50:07.000+03:00"
+}

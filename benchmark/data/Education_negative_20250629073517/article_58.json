@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "44d117dbbe74c690b113171efc9581b7d07e0c51",
+    "url": "https://www.zaobao.com.sg/realtime/china/story20250626-6970965",
+    "site_full": "www.zaobao.com.sg",
+    "site": "zaobao.com.sg",
+    "site_section": "https://www.zaobao.com.sg/cn",
+    "site_categories": ["media", "top_news_sg", "top_news_my", "top_news"],
+    "section_title": "中国版首页 | 联合早报 - 享誉新加坡与国际的权威中文新闻媒体",
+    "site_title": "联合早报 | 联合早报",
+    "title": "中国一高校学生找人男扮女装替考 被开除学籍 | 联合早报",
+    "title_full": "中国一高校学生找人男扮女装替考 被开除学籍 | 联合早报",
+    "published": "2025-06-26T07:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "https://www.zaobao.com.sg/_web2/assets/social-share.png",
+    "performance_score": 0,
+    "domain_rank": 11973,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 46
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "44d117dbbe74c690b113171efc9581b7d07e0c51",
+  "url": "https://www.zaobao.com.sg/realtime/china/story20250626-6970965",
+  "ord_in_thread": 0,
+  "author": "联合早报",
+  "published": "2025-06-26T07:33:00.000+03:00",
+  "title": "中国一高校学生找人男扮女装替考 被开除学籍 | 联合早报",
+  "text": "中国中南财经政法大学的一名学生找人男扮女装替考，她的学籍被开除。\n有网友星期二（6月24日）在社交平台上发文称，中南财经政法大学某场考试中，一男子着女装替考。相关消息在网上引发热议。\n中南财经政法大学星期三（6月25日）在官网发布通报称，6月24日进行的《高级会计学》考试过程中，会计学院一名李姓学生有违纪舞弊行为：委托他人代为考试。\n通报称，根据《中南财经政法大学全日制学生考试违纪舞弊处理办法（修订）》第九条第二款的规定，拟决定给予李姓学生开除学籍处分。\n通报称，代考人为李姓学生从网络平台结识，事发后逃离现场，其身份在调查核实中。\n据学校官网资料，中南财经政法大学位于湖北省武汉市，是中国教育部直属的全国重点大学，“211工程”和“985工程优势学科创新平台”重点建设高校，“双一流”建设高校，教育部、财政部和湖北省共建高校。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Education", "Crime, Law and Justice"],
+  "topics": [
+    "Education->educational testing and examinations",
+    "Education->teachers",
+    "Education->students",
+    "Crime, Law and Justice->law",
+    "Crime, Law and Justice->fraud",
+    "Crime, Law and Justice->investigation (criminal)"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_sg", "top_news_my", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T08:11:44.991+03:00",
+  "updated": "2025-06-27T06:11:01.000+00:00"
+}

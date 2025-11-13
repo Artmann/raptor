@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "48b8f762897d359bdea1c53cfd69308338ca6ec5",
+    "url": "https://www.eluniverso.com:443/noticias/economia/cultivos-afectados-lluvias-invierno-2025-ecuador-ministerio-agricultura-nota",
+    "site_full": "www.eluniverso.com",
+    "site": "eluniverso.com",
+    "site_section": "https://eluniverso.com/guayaquil",
+    "site_categories": [
+      "media",
+      "top_news_co",
+      "top_news_pe",
+      "top_news_cl",
+      "top_news_ve",
+      "top_news"
+    ],
+    "section_title": "Guayaquil | El Universo",
+    "site_title": "El Universo | Noticias de Ecuador y del mundo",
+    "title": "Informe actualizado de cultivos afectados por lluvias: 28.000 hectáreas con pérdida total y 12.000 hectáreas con pérdida parcial",
+    "title_full": "Informe actualizado de cultivos afectados por lluvias: 28.000 hectáreas con pérdida total y 12.000 hectáreas con pérdida parcial",
+    "published": "2025-05-08T00:40:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "EC",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 8420,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "48b8f762897d359bdea1c53cfd69308338ca6ec5",
+  "url": "https://www.eluniverso.com:443/noticias/economia/cultivos-afectados-lluvias-invierno-2025-ecuador-ministerio-agricultura-nota",
+  "ord_in_thread": 0,
+  "author": "peter-tavra-franco",
+  "published": "2025-05-08T00:40:00.000+03:00",
+  "title": "Informe actualizado de cultivos afectados por lluvias: 28.000 hectáreas con pérdida total y 12.000 hectáreas con pérdida parcial",
+  "text": "En mayo se prevé la finalización de la etapa invernal en la región Costa de Ecuador, que en los últimos meses generó importantes afectaciones a los diferentes cultivos.\nEl ministro de Agricultura y Ganadería, Danilo Palacios, realizó ayer un balance actualizado de la afectación del agro por el invierno. Señaló que hasta el último reporte del 6 de mayo existían 28.000 hectáreas afectadas con pérdida total y 12.000 hectáreas con pérdida parcial.\nEl secretario de Estado recordó que el balance de las afectaciones se realiza de manera diaria para conocer la situación de los diferentes cultivos, en especial los más impactados, como el arroz, el maíz y el cacao.\nPublicidad\nEn este contexto, según lo dicho por Palacios, el arroz sigue siendo el cultivo con mayor afectación por la época invernal con 18.000 hectáreas de pérdida total y 2.000 hectáreas de pérdida parcial.\n“El 50 % de los cultivos más afectados es el arroz, luego vienen maíz y cacao”, sostuvo el ministro Palacios, ayer en Guayaquil, durante la rueda de negocios del maíz.\nMientras que respecto a las bonificaciones, señaló que hasta el martes pasado se han entregado a 12.000 productores ayudas de $ 800, que suman alrededor de $ 10 millones.\nPublicidad\nEsto se trata del bono Catta-Nuevo Ecuador, que fue creado el 27 de marzo pasado con el Decreto Ejecutivo 587, con la finalidad de mitigar el impacto económico de la precipitación pluvial y permitir la continuidad de las actividades productivas, garantizando la soberanía alimentaria nacional.\nSin embargo, Palacios reconoció que están optimizando los recursos, tratando de focalizar esa ayuda para llegar a los productores que han tenido mayores afectaciones por este invierno.\nPublicidad\n“Nosotros aún estamos en funciones prorrogadas y estamos tratando de optimizar al máximo los recursos heredados de la administración anterior”, explicó.\nDe todas maneras proyectó que se podría ayudar a unos 3.000 productores más. “Vamos a tratar de hallar las áreas más afectadas y ojalá ese volumen que tenemos nos dé para asistir a todos”, indicó el ministro. (I)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue"],
+  "topics": [
+    "Environment->climate change",
+    "Environment->natural resources",
+    "Environment->water",
+    "Social Issue->demographics",
+    "Social Issue->population and census"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Danilo Palacios",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Costa de",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Agricultura y Ganadería",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T01:50:53.327+03:00",
+  "updated": "2025-05-07T22:53:34.000+00:00"
+}

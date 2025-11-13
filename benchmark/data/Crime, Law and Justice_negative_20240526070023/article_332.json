@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "c5c0e8b09c591d1bd5af2952360d15b0ebcb07d7",
+    "url": "https://www.thenews.com.pk/print/1182339-shop-owner-shot-dead-in-north-nazimabad",
+    "site_full": "www.thenews.com.pk",
+    "site": "thenews.com.pk",
+    "site_section": "https://www.thenews.com.pk",
+    "site_categories": ["media"],
+    "section_title": "The News International: Latest News Breaking, Pakistan News",
+    "title": "Shop owner shot dead in North Nazimabad",
+    "title_full": "Shop owner shot dead in North Nazimabad",
+    "published": "2024-04-25T19:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.thenews.com.pk/assets/uploads/akhbar/2024-04-26/l_1182339_020955_updates.jpg",
+    "performance_score": 0,
+    "domain_rank": 5171,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c5c0e8b09c591d1bd5af2952360d15b0ebcb07d7",
+  "url": "https://www.thenews.com.pk/print/1182339-shop-owner-shot-dead-in-north-nazimabad",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@Our Correspondent",
+  "published": "2024-04-25T19:00:00.000+03:00",
+  "title": "Shop owner shot dead in North Nazimabad",
+  "text": "An elderly man who ran a general store was shot and killed in North Nazimabad on Thursday morning. The man used to run the shop within the precincts of his house located at Dir Colony in North Nazimabad within the limits of Shahrah-e-Noor Jahan police station. Following the incident, police and rescue workers transported the casualty to Abbasi Shaheed Hospital where the deceased person was identified as 60-year-old Ghulam Muhammad, son of Sher Muhammad. Initially, police claimed that the victim was killed over a family dispute; however, after initial investigations, they said he was shot and killed by a drug peddler, Tati Khan, with whom he recently had an altercation over some matter. According to police, the deceased man was an elderly citizen who forbade drug dealers from carrying out their business near his shop a few days ago, following which heated arguments took place. Police said they were waiting for the family members of the victim to register a case. Meanwhile, the heirs of Ghulam Muhammad have rejected the police’s claim that he was killed by a drug dealer and stated that he might have been killed during a robbery bid. The deceased man had been running his shop for the past 20 years, the family said, adding that the shop was usually opened after the Fajr prayers. According to the family, an unidentified assailant fired a shot for resisting a robbery attempt, which proved fatal. After the firing, the assailant fled the scene and Ghulam Muhammad was taken to a hospital but he had already passed away by the time he reached there. The picture shows a pharmacy. — AFP/FileThe Karachi administration has launched a campaign to check the expiry dates... In this still, Karachi Mayor Barrister Murtaza Wahab addresses an event on April 25, 2024. — Facebook/Barrister... In this still, Sindh Inspector General of Police Ghulam Nabi Memon chairs a meeting at the Central Police Office on... A handcuffed suspect stands behind the bars with a policeman standing outside the jail in this undated image. —... In this still, Sindh Chief Minister Syed Murad Ali Shah meets federal energy minister Owais Ahmad Khan Laghari in... This representational image shows the hands of a detained person. — AFP/File A court on Thursday sent to jail a...",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "tati khan",
+        "sentiment": "none"
+      },
+      {
+        "name": "ghulam muhammad",
+        "sentiment": "none"
+      },
+      {
+        "name": "sher muhammad",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "abbasi shaheed hospital",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "north nazimabad",
+        "sentiment": "none"
+      },
+      {
+        "name": "shahrah",
+        "sentiment": "none"
+      },
+      {
+        "name": "dir colony",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:13:02.754+03:00",
+  "updated": "2024-04-26T07:26:09.084+03:00"
+}

@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "5593e729e24fce0e7dbb84ea714d83fa971cc5f6",
+    "url": "https://www.thewesterlysun.com/lifestyle/entertainment/newport-festivals-foundation-and-the-united-announce-partnership-to-provide-free-music-lessons/article_094a2f99-0770-4e86-b5e8-874d93df420c.html",
+    "site_full": "www.thewesterlysun.com",
+    "site": "thewesterlysun.com",
+    "site_section": "https://world.einnews.com/ajax/headlines",
+    "site_categories": ["media"],
+    "section_title": "",
+    "site_title": "thewesterlysun.com",
+    "title": "Newport Festivals Foundation and The United announce partnership to provide free music lessons | Entertainment | thewesterlysun.com",
+    "title_full": "Newport Festivals Foundation and The United announce partnership to provide free music lessons | Entertainment | thewesterlysun.com",
+    "published": "2025-09-18T07:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/thewesterlysun.com/content/tncms/custom/image/f5f0293e-7cd2-11ed-a4b8-df29b8856731.jpg?resize=200%2C200",
+    "performance_score": 0,
+    "domain_rank": 323144,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5593e729e24fce0e7dbb84ea714d83fa971cc5f6",
+  "url": "https://www.thewesterlysun.com/lifestyle/entertainment/newport-festivals-foundation-and-the-united-announce-partnership-to-provide-free-music-lessons/article_094a2f99-0770-4e86-b5e8-874d93df420c.html",
+  "ord_in_thread": 0,
+  "author": "Nancy Burns-Fusaro",
+  "published": "2025-09-18T07:00:00.000+03:00",
+  "title": "Newport Festivals Foundation and The United announce partnership to provide free music lessons | Entertainment | thewesterlysun.com",
+  "text": "Newport Festivals Foundation, which produces the Newport Folk and Newport Jazz Festivals, and The United have announced a partnership to provide free music lessons in Westerly.\nBeginning Sept. 18, any student, ages 9-18 can register to receive 10 private music lessons at the United Music School, free of charge.\n\"We believe that every student in Rhode Island should have access to music education, regardless of their economic status,” said Dan Swain, director of programs for Newport Festivals Foundation. “And selfishly, if the next generation isn’t learning how to actually play real instruments, we won’t have artists to put on the Newport Folk and Newport Jazz Festival stages in ten years from now.”\nFor the past two years, the foundation has operated its free lessons program on Aquidneck Island and in Providence, providing over 300 students with free private music lessons. The partnership with The United will allow students from southern Rhode Island to access the program.\n\"We are thrilled to partner with Newport Festivals Foundation to make music lessons accessible to every child in our community,” said Carly Callahan, executive director of The United. “This program ensures that young people in southern Rhode Island can experience the joy and confidence that come from making music, regardless of their circumstances.”\n“This partnership opens the door for students who may not otherwise have the chance to study music,” said Tom Foley, director of the United Music School. “Whether it’s picking up a guitar for the first time or discovering their voice, these lessons can spark creativity that lasts a lifetime.”\nThe expansion into Westerly was made possible due to the support of the Joyce and George Wein Foundation.\nParents and students are encouraged to visit newportfestivals.org/lessons to sign up for lessons and learn more about the program. Lessons will be offered in bagpipes, banjo, baritone, bass guitar, button accordion, clarinet, double bass, flute, guitar, harp, mandolin, percussion, piano, saxophone, tin whistle, trombone, trumpet, ukulele, viola, violin, & voice.\nUpon completion of the form, applicants will be added to a waitlist. Once a spot becomes available, the United Music School will reach out to schedule the lessons.\nQuestions about the initiative can be sent to info@newportfestivals.org\n— Nancy Burns-Fusaro",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Arts, Culture and Entertainment", "Education"],
+  "topics": [
+    "Arts, Culture and Entertainment->music",
+    "Arts, Culture and Entertainment->festival",
+    "Education->students",
+    "Education->curriculum",
+    "Education->vocational education"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "http://newportfestivals.org/lessons",
+    "http://www.newportfestivals.org/lessons"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Dan Swain",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Aquidneck Island",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Newport Festivals Foundation",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "United Music School",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": ["Watch Hill", "Bradford", "Ashaway"],
+      "state": ["Rhode Island"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:52:05.634+03:00",
+  "updated": "2025-09-18T07:56:05.000+03:00"
+}

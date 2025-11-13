@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "af6fa40353895e0acf08246ff261721e6fac937f",
+    "url": "https://soonersports.com/sports/2019/8/12/208798453",
+    "site_full": "soonersports.com",
+    "site": "soonersports.com",
+    "site_section": "https://soonersports.com/sports/football/stats",
+    "site_categories": ["world_soccer", "tech", "sports"],
+    "section_title": " Football Cumulative Statistics",
+    "site_title": "University of Oklahoma Athletics",
+    "title": "Sooners in the NFL - University of Oklahoma",
+    "title_full": "Sooners in the NFL - University of Oklahoma",
+    "published": "2025-09-12T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://soonersports.com/images/logos/site/site.png",
+    "performance_score": 0,
+    "domain_rank": 80259,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "af6fa40353895e0acf08246ff261721e6fac937f",
+  "url": "https://soonersports.com/sports/2019/8/12/208798453",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-12T03:00:00.000+03:00",
+  "title": "Sooners in the NFL - University of Oklahoma",
+  "text": "Completed Event: Volleyball versus Saint Mary's on September 12, 2025 , Win , 3, to, 1\nFinal\nVolleyball\n3\nvs Saint Mary's\n1\nUpdated August 28, 2025 | All-Time Draft Picks | Since 2000 | First-Rounders | Draft Notes\nOU Football History & Tradition\nPlayer | Team | Position | Roster | No. | At OU |\n---|---|---|---|---|---|\n|\nUFA = Unrestricted Free Agent | IR = Injured Reserve | PUP = Physically Unable to Perform\nInformation is accurate as of the date at the top of this page, compiled using official NFL team rosters.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Education"],
+  "topics": [
+    "Sport->sport event",
+    "Sport->volleyball",
+    "Sport->regular competition",
+    "Education->teachers",
+    "Education->students",
+    "Education->college and university"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mary",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "NFL",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:59:04.582+03:00",
+  "updated": "2025-09-18T09:05:14.000+03:00"
+}

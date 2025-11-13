@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "405ffdbcd450b39cda966e319de12c8011b9fa2f",
+    "url": "https://article.wn.com/view/2025/10/16/Minister_says_9_Tannourine_water_samples_have_tested_free_of/",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/health",
+    "site_categories": ["media"],
+    "section_title": "World News - Health",
+    "site_title": "World News",
+    "title": "Minister says 9 Tannourine water samples have tested free of bacteria - Worldnews.com",
+    "title_full": "Minister says 9 Tannourine water samples have tested free of bacteria - Worldnews.com",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 8219,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "405ffdbcd450b39cda966e319de12c8011b9fa2f",
+  "url": "https://article.wn.com/view/2025/10/16/Minister_says_9_Tannourine_water_samples_have_tested_free_of/",
+  "ord_in_thread": 0,
+  "author": "System",
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "Minister says 9 Tannourine water samples have tested free of bacteria - Worldnews.com",
+  "text": "Nine Tannourine Mineral Water samples sent to the state-run Lebanese Agricultural Research Institute have tested free of bacteria and authorities are awaiting results from the state-run Industrial Research Institute and the American University of Beirut in order to take the appropriate decision, Agriculture Minister Nizar Hani...\nread full story\n\"The Tannourine Mineral Water company is well-known and its image is pioneering and perhaps what happened will represent a positive reaction and a step forward and will not affect the reputation of this prestigious company,\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Health", "Environment"],
+  "topics": [
+    "Health->health treatment and procedure",
+    "Health->medical condition",
+    "Environment->water"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.naharnet.com/stories/en/315873-minister-says-9-tannourine-water-samples-have-tested-free-of-bacteria",
+    "https://naharnet.com/stories/en/315873-minister-says-9-tannourine-water-samples-have-tested-free-of-bacteria"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Nizar Hani",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Lebanese Agricultural Research Institute",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Industrial Research Institute",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "American University of Beirut",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:00:43.419+03:00",
+  "updated": "2025-10-16T15:18:49.000+03:00"
+}

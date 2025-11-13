@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "87bff024d99cf5426e24325d73db6141d49770c5",
+    "url": "https://news.china.com/socialgd/10000169/20250508/48301899.html",
+    "site_full": "news.china.com",
+    "site": "china.com",
+    "site_section": "https://news.china.com/social",
+    "site_categories": [],
+    "section_title": "社会新闻_新闻频道_中华网",
+    "site_title": null,
+    "title": "天津动物园回应将狮子放走廊 已调整安置方案_新闻频道_中华网",
+    "title_full": "天津动物园回应将狮子放走廊 已调整安置方案_新闻频道_中华网",
+    "published": "2025-05-08T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 2204,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "87bff024d99cf5426e24325d73db6141d49770c5",
+  "url": "https://news.china.com/socialgd/10000169/20250508/48301899.html",
+  "ord_in_thread": 0,
+  "author": "#5434",
+  "published": "2025-05-08T03:00:00.000+03:00",
+  "title": "天津动物园回应将狮子放走廊 已调整安置方案_新闻频道_中华网",
+  "text": "天津动物园回应将狮子放走廊 已调整安置方案。近日，有网友发布视频称天津野生动物园将狮子关在空中走廊中，“没到闭园时间它们就得一直在这儿”。视频显示，有两只狮子在空中走廊中来回踱步，该空中走廊由圆弧铁网及玻璃步道构成。\n5月7日，天津野生动物园的工作人员表示，空中走廊内部的空间并不小，狮子也有其他候场休息的地方。工作人员解释说，空中走廊的空间能让狮子比较自在地来回走，不会委屈到它们。若到闭园时间，工作人员会将狮子放回它们自己的屋子中。\n工作人员补充说，现在已将狮子从空中走廊中撤走，后续还会继续调整，具体方案仍不确定。他们会将狮子放在更合适的馆中。\n天津野生动物园是一座集动物互动、展示、科普教育、休闲娱乐为一体的综合性动物园，园区共展示来自全球各地的200多种珍稀野生动物。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue"],
+  "topics": [
+    "Environment->animal",
+    "Environment->nature",
+    "Environment->endangered species",
+    "Social Issue->charity",
+    "Social Issue->public housing",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:25:25.338+03:00",
+  "updated": "2025-05-08T00:29:23.000+00:00"
+}

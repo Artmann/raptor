@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "0c8d710d99e2dcc38a3a8126164a5c6fd3575043",
+    "url": "https://www.cbs58.com/news/fond-du-lac-district-attorney-warns-wisconsinites-to-visit-their-doctors-after-deadly-health-scare",
+    "site_full": "www.cbs58.com",
+    "site": "cbs58.com",
+    "site_section": "https://www.cbs58.com/rss",
+    "site_categories": ["media"],
+    "section_title": "CBS58 News",
+    "title": "Fond du Lac District Attorney warns Wisconsinites to visit their doctors after deadly health scare",
+    "title_full": "Fond du Lac District Attorney warns Wisconsinites to visit their doctors after deadly health scare",
+    "published": "2023-12-28T23:45:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://newscdn2.weigelbroadcasting.com/4elpK-1703800994-271169-blog-0500P_TONEY%20AG%20RACE_PKG_WDJTCGYQ_1.JPG",
+    "performance_score": 0,
+    "domain_rank": 14824,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0c8d710d99e2dcc38a3a8126164a5c6fd3575043",
+  "url": "https://www.cbs58.com/news/fond-du-lac-district-attorney-warns-wisconsinites-to-visit-their-doctors-after-deadly-health-scare",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Duaa Israr",
+  "published": "2023-12-28T23:45:00.000+02:00",
+  "title": "Fond du Lac District Attorney warns Wisconsinites to visit their doctors after deadly health scare",
+  "text": "Fond du Lac District Attorney warns Wisconsinites to visit their doctors after deadly health scare\nFOND DU LAC, Wis. (CBS 58) -- This New Year, make your well-being a priority -- that's the message Eric Toney wants people know.\nIn July, the Fond du Lac district attorney began experiencing health issues.\n“Fever, chills, sweats, and then night sweats was what really put it over the edge where that’s just not normal,\" said Toney.\nFrom there, his symptoms took a turn for the worse.\n“I actually fell in the office where I had lost control of one of my legs for maybe 20 seconds and it cleared up,\" said Toney.\nThe problem was his heart.\n\"He was a young man who developed an infection in his aortic valve,\" said Dr. Thomas Hinkamp, a cardiothoracic surgeon with SSM Health St. Agnes Hospital.\nEach heartbeat was more difficult than the one before.\n“His heart was able to pump out blood, but the blood that he did pump out unfortunately, would drop right back into the heart,\" said Hinkamp. \"His heart really wasn’t going to tolerate it for a long period of time.”\nOne visit turned into another and before he knew it, Toney was in the operating room.\n“You’re going to need open heart surgery, so that was quite a whirlwind for me, I certainly wasn’t expecting it,\" said Toney.\nToney says while his situation may be rare, his message to others isn't.\n“We can take our health for granted and that’s why it's so important to just make sure that when you’re seeing those symptoms, just check in with your doctor,\" said Toney.\nToney says he plans on starting the new year by running a 5k with his now-healthy heart.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Health"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "toney",
+        "sentiment": "none"
+      },
+      {
+        "name": "eric toney",
+        "sentiment": "none"
+      },
+      {
+        "name": "thomas hinkamp",
+        "sentiment": "none"
+      },
+      {
+        "name": "hinkamp",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "ssm health st. agnes hospital",
+        "sentiment": "none"
+      },
+      {
+        "name": "cbs",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "wis.",
+        "sentiment": "none"
+      },
+      {
+        "name": "lac",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:29:40.758+02:00",
+  "updated": "2023-12-29T00:29:40.758+02:00"
+}

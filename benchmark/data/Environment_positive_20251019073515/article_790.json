@@ -1,0 +1,119 @@
+{
+  "thread": {
+    "uuid": "03c757340e5dfe40fda04bb27a8d14b4867c3619",
+    "url": "https://www-bbc-com.pages.dev/news/articles/c3rjdg7y7qlo",
+    "site_full": "www-bbc-com.pages.dev",
+    "site": "pages.dev",
+    "site_section": "https://www-bbc-com.pages.dev/home",
+    "site_categories": [],
+    "section_title": "BBC - Home",
+    "site_title": "Deployment Not Found",
+    "title": "Thriving St Albans peregrine falcon chicks spotted miles apart",
+    "title_full": "Thriving St Albans peregrine falcon chicks spotted miles apart",
+    "published": "2025-10-15T08:04:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ichef.bbci.co.uk/news/1024/branded_news/1d12/live/a86821b0-a8e1-11f0-9f43-d30f6cff76c5.jpg",
+    "performance_score": 0,
+    "domain_rank": 344,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "03c757340e5dfe40fda04bb27a8d14b4867c3619",
+  "url": "https://www-bbc-com.pages.dev/news/articles/c3rjdg7y7qlo",
+  "ord_in_thread": 0,
+  "author": "Alex Pope",
+  "published": "2025-10-15T08:04:00.000+03:00",
+  "title": "Thriving St Albans peregrine falcon chicks spotted miles apart",
+  "text": "Cathedral's peregrine falcon chicks now thriving\nTwo peregrine falcon siblings that were born and raised on top of a cathedral have shown \"resilience and determination\" after being spotted in different counties, a wildlife charity has said.\nThe males - called VAT and VCT - were hatched at St Albans Cathedral in 2023. VAT has been seen about 76 miles (122km) away on top of St Peter's Church, Oundle, Northamptonshire, and VCT in Basingstoke, Hampshire, 58 miles (93km) away.\nBarry Trevis, a licensed bird-ringer and nest recorder, who helped build their nest tray, said it was a wonderful discovery as \"70% of peregrine falcon offspring don't make it past their first winter\".\nIn April, a number of eggs were destroyed at the cathedral.\nSince 2022, parents Alban and Boudica have made the cathedral their home and have produced 10 chicks.\nTheir antics featured in a live camera feed project run by St Albans Cathedral, in partnership with Herts and Middlesex Wildlife Trust.\nAfter the eggs were destroyed, an \"unusual\" second clutch of eggs was laid and three healthy chicks hatched in June, the trust said.\nMr Trevis added: \"Sadly, the statistics are such that 70% of Peregrine Falcon offspring don't make it past their first winter but with four out of our seven chicks raised on the cathedral now having left the vicinity and been recorded in new locations, the progress of these remarkable birds continues to extend our knowledge of their survival and dispersal.\"\nHe said that this year's juveniles could still be seen close to the cathedral.\nLea Ellis, engagement manager at the trust, said: \"In our world today, there is a constant battle to survive, especially when the odds are stacked against us.\n\"The St Albans peregrines have shown us how, with resilience and determination, along with our support, these challenges can be overcome.\"\nThe Very Reverend Jo Kelly-Moore, Dean of St Albans, said: \"It is inspiring to see these remarkable birds of prey make their way into the wider world.\n\"The peregrines remind us that St Albans Cathedral is not only a place of prayer and pilgrimage, but also a living home where creation flourishes.\n\"Their journey speaks to the beauty and resilience of the natural world.\"\nFollow Beds, Herts and Bucks news on BBC Sounds, Facebook, Instagram and X.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->endangered species", "Environment->animal"],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.bbc.co.uk/sounds/curation/p0cjf099",
+    "https://www.instagram.com/bbc3cr",
+    "https://www.bbc.co.uk/news/articles/cq80yqnl54eo",
+    "https://x.com/BBC3cr",
+    "https://www.facebook.com/BBCBedsHertsBucks/",
+    "https://instagram.com/bbc3cr",
+    "https://facebook.com/BBCBedsHertsBucks/",
+    "https://www.facebook.com/BBCBedsHertsBucks",
+    "https://bbc.co.uk/sounds/curation/p0cjf099",
+    "https://www.x.com/BBC3cr",
+    "https://bbc.co.uk/news/articles/cq80yqnl54eo"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Barry Trevis",
+        "sentiment": "none"
+      },
+      {
+        "name": "Boudica",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Middlesex Wildlife Trust",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "St Albans Cathedral",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "VCT",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:10:39.189+03:00",
+  "updated": "2025-10-16T16:31:25.000+03:00"
+}

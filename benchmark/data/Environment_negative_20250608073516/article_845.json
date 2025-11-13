@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "9e3a7c4a820c00999b9c893012ce39d5916baae2",
+    "url": "http://www.gs.news.cn/20250508/bc2e568ff2c043c5884b4f3a47fa7e0e/c.html",
+    "site_full": "www.gs.news.cn",
+    "site": "news.cn",
+    "site_section": "http://www.gs.news.cn/index.htm",
+    "site_categories": [],
+    "section_title": "新华网甘肃频道--首页",
+    "site_title": "新华网甘肃频道--首页",
+    "title": "今明两天 甘肃省大部大风沙尘持续-新华网",
+    "title_full": "今明两天 甘肃省大部大风沙尘持续-新华网",
+    "published": "2025-05-08T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 997,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9e3a7c4a820c00999b9c893012ce39d5916baae2",
+  "url": "http://www.gs.news.cn/20250508/bc2e568ff2c043c5884b4f3a47fa7e0e/c.html",
+  "ord_in_thread": 0,
+  "author": "1054",
+  "published": "2025-05-08T03:00:00.000+03:00",
+  "title": "今明两天 甘肃省大部大风沙尘持续-新华网",
+  "text": "原标题：今明两天 我省大部大风沙尘持续\n5月7日，来自省、市气象局的消息，近期，甘肃省仍多大风沙尘，8-9日，省内自西向东陆续有降水降温天气，全省大部将降温6℃至8℃。\n据气象实况，5月6日8时至7日8时，庆阳大部及张掖南部、武威北部、白银北部、平凉西部、兰州中部、天水北部出现沙尘天气，其中肃南、民乐、民勤、古浪、景泰、华池、庆城、宁县、西峰共出现9站扬沙，最低能见度出现在西峰，为4公里。嘉峪关、酒泉中部、张掖南部、甘南中部共出现6站大风，最大风速出现在酒泉，达20.1米/秒。\n根据最新气象观测资料，预计7日夜间到8日白天，定西、陇南、天水、平凉阴间多云有阵雨或雷阵雨，省内其余地方多云，部分地方阴有阵雨或小雨，祁连山区及甘南高原有雨夹雪。另外，金昌、武威、白银、定西、平凉、庆阳伴有5到6级西北风或偏北风，阵风可达7到9级，酒泉、嘉峪关、张掖、甘南、兰州、天水伴有4到5级西北风或偏北风，上述地区伴有扬沙或浮尘天气，局部地方有沙尘暴。8日夜间到9日白天，甘南、陇南多云，局部地方阴有阵雨，省内其余地方多云转晴。另外，甘南、白银、天水、平凉、庆阳及定西市东北部伴有4到5级偏北风或西北风，并伴有浮尘天气。8-9日，受冷空气影响，全省大部自西向东气温将下降6℃至8℃。9日夜间到10日白天，全省各地晴或多云。\n受高原槽和冷空气共同影响，预计5月8日，兰州市将有大风沙尘、降温及弱降水天气。8日，全市平均风力为4到5级，偏北县区为6到7级，阵风可达8级以上，并伴有短时扬沙或浮尘，市区最低能见度在3公里左右；8日，全市最高气温将下降5℃至7℃，市区最高气温为19℃左右；9日清晨，永登、榆中、皋兰及兰州新区部分地方地面最低温度将降至0℃以下，出现霜冻。7日傍晚至8日白天，兰州市有小雨，累计降水量0.5到6毫米，市区主要降水时段为8日3时至7时及8日14时至18时。\n8日，兰州市为阴转小雨天气，伴有3到4级北风，气温在10℃至20℃之间；9日，兰州市多云转晴，气温在6℃至21℃之间；10日，兰州市晴好，气温在7℃至25℃之间。\n兰州日报社全媒体记者 滕效宏\n【纠错】;)责任编辑：王小华",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment", "Social Issue"],
+  "topics": [
+    "Weather->weather warning",
+    "Weather->weather phenomena",
+    "Environment->environmental pollution",
+    "Environment->climate change",
+    "Environment->air pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:28:12.670+03:00",
+  "updated": "2025-05-08T03:33:39.000+00:00"
+}

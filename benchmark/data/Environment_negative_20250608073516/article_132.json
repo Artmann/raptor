@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "85d0b5f9769366eef0d2627f8b8afc789187568e",
+    "url": "https://www.nacion.com/el-pais/fiscalia-descubre-construccion-de-residencial-en/IJNW47VMGJBC3PKTV3F77H4ZVA/story",
+    "site_full": "www.nacion.com",
+    "site": "nacion.com",
+    "site_section": "https://nacion.com/ancora",
+    "site_categories": ["media", "law_government_and_politics", "politics"],
+    "section_title": "Áncora | La Nación",
+    "site_title": "Últimas noticias de Costa Rica | La Nación",
+    "title": "Fiscalía descubre construcción de residencial en corredor biológico; Setena habría sido engañada",
+    "title_full": "Fiscalía descubre construcción de residencial en corredor biológico; Setena habría sido engañada",
+    "published": "2025-05-08T01:08:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CR",
+    "main_image": "https://www.nacion.com/resizer/v2/IKRO5BFUKBBTRPUPO7XVPJTA2I.png?smart=true&amp;auth=5f2c2030495c3efed8f76fa0ac668d83ba5d9aa635fd01e961fffd55af4bcc72&amp;width=1440",
+    "performance_score": 0,
+    "domain_rank": 13463,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "85d0b5f9769366eef0d2627f8b8afc789187568e",
+  "url": "https://www.nacion.com/el-pais/fiscalia-descubre-construccion-de-residencial-en/IJNW47VMGJBC3PKTV3F77H4ZVA/story",
+  "ord_in_thread": 0,
+  "author": "Patricia Recio",
+  "published": "2025-05-08T01:08:00.000+03:00",
+  "title": "Fiscalía descubre construcción de residencial en corredor biológico; Setena habría sido engañada",
+  "text": "La Fiscalía Ambiental de Osa descubrió la construcción de un proyecto residencial que se levantaba dentro de un bosque en el corredor biológico Paso la Danta, en Portalón de Savegre en Quepos.\nTras el hallazgo se ordenó la paralización de las obras, como medida cautelar; además se ordenó a la empresa responsable eliminar las obras que se ejecutaban sobre una quebrada y permitir la restitución de las áreas de protección de los cuerpos de agua que fueron afectados.\nAdemás, tendrá que realizar obras de mitigación para prevenir deslizamientos o derrumbes en las zonas intervenidas.\nLEA MÁS: Fiscalía investiga presunto plan para autorizar construcciones cerca de Gandoca-Manzanillo\nSegún la Fiscalía, se presume que los imputados habrían engañado a la Secretaría Técnica Nacional Ambiental (Setena), mediante la presentación de una certificación en la que se indicaba que el área donde se levantaban las obras no correspondía a bosque y era apta para la construcción, lo que habría llevado a ese ente a incurrir en error.\nNo obstante, tras una inspección de esa entidad en conjunto con la Fiscalía, se determinó que el sitio se encuentra dentro de un bosque, por lo que no se permite la edificación de obras.\nSegún el Ministerio Público, el caso actualmente se mantiene en investigación bajo el expediente 24-000079-1111-PE, por los presuntos delitos de cambio de uso de suelo, tala ilegal, aprovechamiento ilegal de recursos forestales, usurpación de aguas, destrucción de vegetación dentro de un área de protección, tala en área de protección, invasión de un área de protección y falsedad ideológica.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Environment", "Crime, Law and Justice"],
+  "topics": [
+    "Environment->conservation",
+    "Environment->natural resources",
+    "Environment->endangered species",
+    "Crime, Law and Justice->administrative law",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Crime, Law and Justice->corruption"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Fiscalía Ambiental de Osa",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Secretaría Técnica Nacional Ambiental",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:16:58.116+03:00",
+  "updated": "2025-05-07T23:22:05.000+00:00"
+}

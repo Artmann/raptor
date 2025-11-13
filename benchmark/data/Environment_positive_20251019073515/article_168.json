@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "d88b8900bc510bdd7c3418f2ad5d74ea200e8fe4",
+    "url": "https://www.europapress.es/esandalucia/sevilla/noticia-junta-resalta-andalucia-cuenta-221-hectometros-cubicos-mas-agua-gracias-obras-hidraulicas-2019-20251016113732.html",
+    "site_full": "www.europapress.es",
+    "site": "europapress.es",
+    "site_section": "https://www.europapress.es/epagro/union-europea",
+    "site_categories": ["media", "top_news_es", "top_news_pe", "top_news"],
+    "section_title": "\r\n\tEpAgro - EpAgro - Unión Europea | noticias e información de actualidad\r\n",
+    "site_title": "Europa Press -  Agencia de noticias",
+    "title": "La Junta resalta que Andalucía cuenta con 221 hectómetros cúbicos más de agua gracias a las obras hidráulicas desde 2019",
+    "title_full": "La Junta resalta que Andalucía cuenta con 221 hectómetros cúbicos más de agua gracias a las obras hidráulicas desde 2019",
+    "published": "2025-10-16T12:37:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://img.europapress.es/fotoweb/fotonoticia_20251016113733_1200.jpg",
+    "performance_score": 0,
+    "domain_rank": 4744,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d88b8900bc510bdd7c3418f2ad5d74ea200e8fe4",
+  "url": "https://www.europapress.es/esandalucia/sevilla/noticia-junta-resalta-andalucia-cuenta-221-hectometros-cubicos-mas-agua-gracias-obras-hidraulicas-2019-20251016113732.html",
+  "ord_in_thread": 0,
+  "author": "europa press",
+  "published": "2025-10-16T12:37:00.000+03:00",
+  "title": "La Junta resalta que Andalucía cuenta con 221 hectómetros cúbicos más de agua gracias a las obras hidráulicas desde 2019",
+  "text": "SEVILLA 16 Oct. (EUROPA PRESS) -\nEl consejero de Agricultura, Pesca, Agua y Desarrollo Rural de la Junta de Andalucía, Ramón Fernández-Pacheco, ha destacado que Andalucía cuenta actualmente con 221 hectómetros cúbicos más de recursos hídricos disponibles que antes, incluidas aguas regeneradas y desaladas, gracias a las obras de infraestructuras hidráulicas ejecutadas desde 2019. Esta cantidad, según ha concretado, equivale al consumo de agua de más de 3.300.000 andaluces.\nDurante su intervención en los desayunos informativos de Europa Press, Fernández-Pacheco ha precisado que Andalucía dispone ya de 53 hectómetros cúbicos adicionales de aguas regeneradas al año gracias a los sistemas terciarios habilitados en distintas estaciones depuradoras.\nJunto a ello, según ha apuntado, la comunidad autónoma andaluza puede desalar 20 hectómetros cúbicos más al año que en 2019 \"gracias a la puesta en marcha de nuevas desaladoras y a la ampliación de las existentes\". También cuenta con capacidad para conducir hasta 102 hectómetros cúbicos de agua subterránea \"que antes no se podían aprovechar por falta de infraestructuras\".\nAdemás, Andalucía dispone de 46 hectómetros cúbicos adicionales de agua que antes se perdían en presas \"por la ausencia de tomas flotantes o de tomas en zonas de embalse muerto\". En esta cifra se incluyen los recursos generados en potabilizadoras, entre ellas la de Cuevas del Almanzora, en la provincia de Almería, la última en entrar en funcionamiento.\n\"Con trabajo bien hecho, con planificación adecuada y mediante la ejecución de las obras hidráulicas necesarias, somos capaces de poner a disposición de los andaluces un agua que, o bien hasta ahora no teníamos capacidad de usar por falta de conducciones, o que es volumen nuevo de agua apta para ser usada gracias a la desalación y la regeneración\", ha subrayado el consejero.\nEl titular andaluz de Agua ha señalado que el Ejecutivo autonómico ha llevado a cabo cerca de 1.000 actuaciones en materia hídrica e hidráulica desde 2019, con una inversión en torno a 1.400 millones de euros, cifra que se eleva en 400 millones más si se incluye lo invertido y lo previsto para modernizar el regadío e impulsar el uso del agua regenerada en el campo.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Environment", "Politics"],
+  "topics": [
+    "Environment->water",
+    "Environment->natural resources",
+    "Politics->government policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ramón Fernández-Pacheco",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Andalucía",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_es", "top_news_pe", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:51:10.786+03:00",
+  "updated": "2025-10-17T14:15:34.000+03:00"
+}

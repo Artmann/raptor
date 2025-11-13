@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "15c34628fa413d1b311b64c922553cbbdda35ef4",
+    "url": "https://www.mk.ru/social/2025/06/26/shkolnik-poluchil-pochti-nol-ballov-za-ege-izza-polomki-noutbuka-i-poteri-blanka.html",
+    "site_full": "www.mk.ru",
+    "site": "mk.ru",
+    "site_section": "https://mkbryansk.ru/polls",
+    "site_categories": ["media", "top_news_ru", "top_news"],
+    "section_title": "Социологические опросы населения онлайн - МК",
+    "site_title": "Новости России и мира - Новостной портал Московский Комсомолец - МК",
+    "title": "Школьник получил почти ноль баллов за ЕГЭ из-за поломки ноутбука и потери бланка - МК",
+    "title_full": "Школьник получил почти ноль баллов за ЕГЭ из-за поломки ноутбука и потери бланка - МК",
+    "published": "2025-06-26T15:54:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://static.mk.ru/upload/entities/2025/06/26/15/articles/facebookPicture/1a/0e/cb/48/1990422f541f8df533ecf0a75ca1189a.jpg",
+    "performance_score": 0,
+    "domain_rank": 3982,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "15c34628fa413d1b311b64c922553cbbdda35ef4",
+  "url": "https://www.mk.ru/social/2025/06/26/shkolnik-poluchil-pochti-nol-ballov-za-ege-izza-polomki-noutbuka-i-poteri-blanka.html",
+  "ord_in_thread": 0,
+  "author": "Дмитрий Истров",
+  "published": "2025-06-26T15:54:00.000+03:00",
+  "title": "Школьник получил почти ноль баллов за ЕГЭ из-за поломки ноутбука и потери бланка - МК",
+  "text": "Школьник из Миякинского района Башкирии получил за ЕГЭ по информатике почти ноль баллов из-за сломавшегося ноутбука и утерянного бланка, сообщает Telegram-канал Mash Batash.\nШкольник сделал первое задание, после чего ноутбук стал работать некорректно, и ему принесли новый. Выполнив все задания, ученик отправился домой, а впоследствии выяснилось, что ему зачли только первую попытку.\nРодители школьника утверждают, что школа отправила в Региональный центр обработки информации оба бланка, но один из них \"потерялся в дороге\".\nЧитайте материал \"Инфляция в России замедлилась\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": [
+    "Education->educational testing and examinations",
+    "Education->students",
+    "Education->school",
+    "Human Interest->human mishap",
+    "Social Issue->social problem",
+    "Social Issue->social services",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://t.me/mash_batash/7833",
+    "https://www.t.me/mash_batash/7833"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ru", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T16:06:37.405+03:00",
+  "updated": "2025-06-26T13:14:32.000+00:00"
+}

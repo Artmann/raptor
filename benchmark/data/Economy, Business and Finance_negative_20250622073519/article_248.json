@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "9b221f39ae4261556a0cc94dd92bf44bcd8e1aad",
+    "url": "https://elceo.com/negocios/credito-real-recibe-multa-de-2-6-mdp-por-omisiones-de-exconsejeros",
+    "site_full": "elceo.com",
+    "site": "elceo.com",
+    "site_section": "https://www.elceo.com",
+    "site_categories": [
+      "real_estate",
+      "financial_news",
+      "buying_selling_homes",
+      "finance"
+    ],
+    "section_title": "EL CEO | Noticias de negocios, mercados, economía, tecnología y política, la información oportuna para líderes y tomadores de decisiones.",
+    "site_title": "EL CEO | Noticias de negocios, mercados, economía, tecnología y política, la información oportuna para líderes y tomadores de decisiones.",
+    "title": "Crédito Real recibe multa de 2.6 mdp por omisiones de exconsejeros",
+    "title_full": "Crédito Real recibe multa de 2.6 mdp por omisiones de exconsejeros",
+    "published": "2025-06-19T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://elceo.com/wp-content/uploads/2025/06/CreditoReal_multa_CNBV.jpg",
+    "performance_score": 0,
+    "domain_rank": 131709,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9b221f39ae4261556a0cc94dd92bf44bcd8e1aad",
+  "url": "https://elceo.com/negocios/credito-real-recibe-multa-de-2-6-mdp-por-omisiones-de-exconsejeros",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-19T03:00:00.000+03:00",
+  "title": "Crédito Real recibe multa de 2.6 mdp por omisiones de exconsejeros",
+  "text": "Crédito Real recibió una multa de 2.6 millones de pesos por parte de la Comisión Nacional Bancaria y de Valores (CNBV) . La sanción a la que fuera uno de los mayores prestamistas no bancarios del país fue por omitir la entrega de información al público inversionista.\nEl regulador determinó que l a empresa omitió aclarar si los miembros de su consejo de administración o directivos relevantes realizaron operaciones con valores de la emisora en 2020.\nLa multa fue impuesta en mayo de este año y es susceptible de impugnación por la empresa , de acuerdo con el portal de sanciones de la CNBV.\nLa sanción ocurre en medio de los esfuerzos de Crédito Real por cumplir con el proceso de reestructura que emprendió tras la crisis que afectó a las financieras no bancarias a partir de 2021, con una serie de incumplimientos en sus obligaciones financieras.\nCrédito Real reconoció que la mitad del valor de su cartera de crédito consistía en intereses no pagados , hasta que finalmente cayó en default a inicios de 2022.\nCrédito Real y el inicio de su reestructura En julio de ese año, un juzgado federal decretó la disolución de la empresa a solicitud de Francisco Romanos Berrondo, exdirector general y su principal accionista. En esa ocasión la disolución se suspendió un mes después gracias a un recurso promovido por un grupo de inversionistas.\nEllo abrió la puerta a Crédito Real para negociar y liquidar adeudos con algunos de sus creedores. En mayo de 2023 firmó un acuerdo reparatorio con un grupo de acreedores ; eventualmente, ello sentó las bases para s olicitar un procedimiento de concurso mercantil que inició en noviembre de ese año.\nLa empresa reconoció créditos por alrededor de 2.100 millones de dólares durante e l proceso que finalizó en agosto de 2024, cuando el juzgado especializado en concursos mercantiles publicó la sentencia aprobatoria del convenio concursal.\nComo parte de este proceso, en febrero Crédito Real presentó una solicitud voluntaria de quiebra ante un Tribunal de Distrito en Estados Unidos , la cual entró a trámite un mes después. La solicitud, hecha bajo el Capítulo 15 de la Ley de Quiebras, dejó sin efecto el proceso involuntario iniciado en ese país por un grupo de acreedores en 2022.\nEl objetivo del proceso que inició en febrero era lograr el reconocimiento en Estados Unidos del concurso mercantil en México , de acuerdo con la empresa.\nLee también:\nPara más información visita nuestro canal de YouTube",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Politics", "Social Issue"],
+  "topics": [
+    "Economy, Business and Finance->financial service",
+    "Economy, Business and Finance->business reporting and performance",
+    "Economy, Business and Finance->business governance",
+    "Politics->government department",
+    "Politics->government",
+    "Politics->economic policy",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "http://www.youtube.com/watch?v=RcT9jB5amnw",
+    "http://www.youtube.com/watch",
+    "http://youtube.com/watch?v=RcT9jB5amnw"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Comisión Nacional Bancaria",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "CNBV",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:38:22.100+03:00",
+  "updated": "2025-06-19T04:41:39.000+00:00"
+}

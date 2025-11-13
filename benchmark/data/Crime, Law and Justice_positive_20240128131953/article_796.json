@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "59f441f68dfa3b5bdb82e9e0e6ce253d5634dc5b",
+    "url": "https://www.salemnews.com/news/state_news/benefit-fraud-down-as-auditors-cast-wider-nets/article_6c48804c-a5b6-11ee-88f2-7337fe14cbd4.html",
+    "site_full": "www.salemnews.com",
+    "site": "salemnews.com",
+    "site_section": "https://www.salemnews.com/news",
+    "site_categories": ["media", "buying_selling_cars", "vehicles"],
+    "section_title": "News | salemnews.com",
+    "title": "Benefit fraud down as auditors cast wider nets | State News | salemnews.com",
+    "title_full": "Benefit fraud down as auditors cast wider nets | State News | salemnews.com",
+    "published": "2023-12-29T07:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/salemnews.com/content/tncms/assets/v3/editorial/7/a6/7a6591a0-a5b7-11ee-961a-a7f2453de864/658dccb296052.image.jpg?crop=511%2C511%2C14%2C0&amp;resize=200%2C200&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 21791,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "59f441f68dfa3b5bdb82e9e0e6ce253d5634dc5b",
+  "url": "https://www.salemnews.com/news/state_news/benefit-fraud-down-as-auditors-cast-wider-nets/article_6c48804c-a5b6-11ee-88f2-7337fe14cbd4.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Alison Kuznitz | State House News Service",
+  "published": "2023-12-29T07:00:00.000+02:00",
+  "title": "Benefit fraud down as auditors cast wider nets | State News | salemnews.com",
+  "text": "Auditor Diana DiZoglio's office identified more than $12.3 million in public benefit fraud in fiscal 2023, representing a decrease of about $1.2 million compared with her predecessor's findings in the year prior. The auditor's Bureau of Special Investigations (BSI), tasked with examining potential fraud surrounding payments intended to support vulnerable residents, such as low-income families and children, detected fraud totaling $12,322,688 from July 1, 2022 through June 30, 2023, according to a newly released report. Investigators identified fraud within 782 completed cases, with an average fraud amount of about $15,758. BSI said operational challenges during the COVID-19 pandemic \"decreased significantly\" in 2023, which translated into increased referrals, decreased case and fewer delays in fraud calculations. Nearly 70% of the fraud dollars, or about $8.5 million, involved the Department of Transitional Assistance (DTA). Another 27% of the fraud, or about $3.3 million, was tied to MassHealth. Other fraud dealt with the Department of Early Education and Care and the Social Security Administration. Fraud examiners can refer cases for prosecution or seek civil recoveries, among other remedies. The report warns that in some instances, a closed case without fraud \"does not necessarily indicate that fraud was not committed.\" Rather, the report states, \"it's more likely that BSI was not able to obtain the necessary documentation to substantiate the fraud, or that the individual was not receiving public assistance benefits during the period of the allegation.\" A Quincy woman is barred from working as a MassHealth provider following multiple fraud indictments, including billing for services that didn't happen and submitting false claims to MassHealth. A pending case in Barnstable County Superior Court deals with a Marston Mills woman who was indicted over fraudulent childcare and DTA benefits. \"The indictment alleges that between 2015 and 2020, the woman failed to report her spouse, the father of her children, as a part of her household and that she failed to report his income,\" the report states. \"As a result, his income was not counted when the benefits programs determined her eligibility and it is alleged she stole approximately $110,890.99 in EEC benefits from June 2015 through November 2020, $29,177 in SNAP benefits from January 2015 through January 2019, and $3,927.55 in TAFDC benefits from May 2018 through August 2018.\" As part of a joint investigation with MassHealth and Attorney General Andrea Campbell's office looking into fraud among personal care attendants, BSI said it found one woman who used her married name to seek care and her maiden name to apply as the caregiver. \"The subject submitted timesheets and was paid for the PCA services she fraudulently indicated that she provided to herself. The calculated amount of overpayment totaled $36,897.30 for approximately two years of fraud,\" the report said, which noted the case made it to Worcester Superior Court.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "diana dizoglio",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "bureau of special investigations",
+        "sentiment": "none"
+      },
+      {
+        "name": "department of transitional assistance",
+        "sentiment": "none"
+      },
+      {
+        "name": "department of early education and care",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-30T00:20:37.011+02:00",
+  "updated": "2023-12-30T00:20:37.011+02:00"
+}

@@ -1,0 +1,138 @@
+{
+  "thread": {
+    "uuid": "c9b96bdd341ed431da5ae9e6fa026241a1099b70",
+    "url": "https://www.az-online.de/deutschland/ist-so-ein-blackout-in-bayern-nach-strom-katastrophe-in-spanien-wie-wahrscheinlich-zr-93714098.html",
+    "site_full": "www.az-online.de",
+    "site": "az-online.de",
+    "site_section": "https://www.az-online.de",
+    "site_categories": ["media"],
+    "section_title": "Aktuelle Nachrichten aus Uelzen und Niedersachsen | az-online.de",
+    "site_title": "Aktuelle Nachrichten aus Uelzen und Niedersachsen | az-online.de",
+    "title": "Nach Strom-Katastrophe in Spanien: Wie wahrscheinlich ist so ein Blackout in Bayern?",
+    "title_full": "Nach Strom-Katastrophe in Spanien: Wie wahrscheinlich ist so ein Blackout in Bayern?",
+    "published": "2025-05-08T05:42:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 98279,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c9b96bdd341ed431da5ae9e6fa026241a1099b70",
+  "url": "https://www.az-online.de/deutschland/ist-so-ein-blackout-in-bayern-nach-strom-katastrophe-in-spanien-wie-wahrscheinlich-zr-93714098.html",
+  "ord_in_thread": 0,
+  "author": "Klaus-Maria Mehr",
+  "published": "2025-05-08T05:42:00.000+03:00",
+  "title": "Nach Strom-Katastrophe in Spanien: Wie wahrscheinlich ist so ein Blackout in Bayern?",
+  "text": "Neue Solartheorie nach Blackout-Katastrophe in Spanien: Wie wahrscheinlich ist der Fall in Bayern?\nEin Blackout in Spanien könnte durch eine Überproduktion von Solarstrom verursacht worden sein. Ist Bayern auch gefährdet? Ein Experte sieht durchaus Risiken.\nMünchen – Es war ein Moment des völligen Stillstands: In Spanien und Portugal gingen am 28. April 2025 die Lichter aus – und nicht nur die. Züge blieben stehen, Aufzüge stecken, Ampeln fielen aus und selbst die Mobilfunknetze brachen zusammen. Drei Menschen starben möglicherweise an den Folgen des Blackouts. Spätestens seit Wirtschaftsminister Hubert Aiwanger den zweifelhaften Rat erteilte, jeder Haushalt solle sich ein Notstromaggregat anschaffen, stellt sich die Frage: Wie wahrscheinlich ist denn so ein lang anhaltender totaler Stromausfall für Bayern?\nUm dieser Frage näherzukommen, muss man die Funktion unserer Stromnetze im Allgemeinen erklären und den spanischen Fall im Besonderen betrachten. Alle Stromnetze in Europa laufen mit einer Frequenz von 50 Hz. Nicht mehr und nicht weniger.\nFall eins: Zu viel Strom im Netz\nWenn die Frequenz lokal oder national über 50 Hertz steigt, heißt das, dass zu viel Strom ins Netz eingespeist wird. Also deutlich mehr Strom, als derzeit verbraucht wird. Der überschüssige Strom muss dem Netz entzogen werden, sonst wird es überversorgt und instabil. Im Idealfall wird die überschüssige Energie in Akkus oder Pumpspeicherkraftwerken gespeichert und so dem Netz entzogen und später wieder eingespeist. Sollten die Speicherkapazitäten nicht reichen, muss die Stromerzeugung heruntergefahren werden. Als Erstes werden dafür konventionelle Kraftwerke heruntergefahren. Wenn dann immer noch zu viel Strom mit Wind oder Sonne produziert wird, können die Netzbetreiber automatisiert die Wechselrichter der Anlagen vom Netz nehmen.\nFall zwei: Zu hoher Verbrauch, zu wenig Angebot\nWenn mehr Strom nachgefragt wird, als vorhanden ist, sinkt die Frequenz im Netz. Ein Blackout droht. Auch hier reagieren die Netzbetreiber automatisiert in Sekunden. Bei einem plötzlichen Leistungsabfall eines Kraftwerkes werden andere Kraftwerke hochgefahren, Speicher zugeschaltet, im Ernstfall große Energieabnehmer heruntergeregelt. In beiden Fällen gibt es drei Eskalationsstufen: die Primärregelung, die Sekundärregelung, die Tertiärregelung.\nBlackout-Sicherheitsnetz: Wie wird die Frequenz geregelt?\nPrimärregelung (Sekundenbereich)\nWas passiert?\nDie Primärregelung greift innerhalb von Sekunden ein, wenn die Frequenz von 50 Hz abweicht. Automatisch gesteuerte Kraftwerke oder Batteriespeicher erhöhen oder senken ihre Leistung, um die Frequenz wieder zu stabilisieren.\nBeispiel: Wenn ein großes Kraftwerk ausfällt, sinkt die Frequenz. Andere Kraftwerke erhöhen automatisch ihre Leistung, um den Ausfall auszugleichen.\nTechnische Grundlage: Diese Regelung ist dezentral und erfolgt direkt durch die Kraftwerke, die mit sogenannten Primärreglern ausgestattet sind.\nSekundärregelung (Minutenbereich)\nWas passiert? Die Sekundärregelung übernimmt, sobald die Primärregelung den ersten Schock abgefangen hat. Sie stabilisiert die Netzfrequenz dauerhaft, indem sie gezielt Kraftwerke hoch- oder herunterfährt.\nBeispiel: Wenn die Nachfrage nach Strom dauerhaft höher ist als das Angebot, werden zusätzliche Kraftwerke aktiviert, um die Lücke zu schließen.\nTechnische Grundlage: Diese Regelung wird zentral von den Übertragungsnetzbetreibern gesteuert.\nTertiärregelung (15-Minuten-Zeitraum)\nWas passiert? Die Tertiärregelung kommt zum Einsatz, wenn langfristige Ungleichgewichte bestehen. Sie dient dazu, die Stromversorgung für längere Zeiträume zu sichern und wirtschaftlich zu optimieren.\nBeispiel: Wenn ein plötzlicher Kälteeinbruch die Nachfrage nach Strom über mehrere Stunden erhöht, werden zusätzliche Kraftwerke oder Speicher aktiviert, die längerfristig Strom liefern können.\nTechnische Grundlage: Diese Regelung wird auf dem sogenannten Regelenergiemarkt organisiert. Hier bieten Kraftwerksbetreiber ihre Kapazitäten an, um bei Bedarf einspringen zu können.\nSpanien im Dunkeln: Genaue Ursache immer noch unklar – doch es gibt Indizien\nAlle Stromnetze in Europa funktionieren da relativ gleich. Nun ist in Spanien etwas gehörig schiefgegangen. Die genauen Ursachen des Blackouts sind noch nicht geklärt. Der spanische Netzbetreiber Red Eléctrica Española (REE) schließt Cyberangriffe aus, doch die spanische Justiz prüft weiterhin Sabotage-Verdacht.\nBlackout in Spanien: Zu viel Solarstrom im Netz? Auch für Bayern eine Gefahr?\nDie unter Experten derzeit populärste Theorie hat tatsächlich indirekt mit den erneuerbaren Energien zu tun: Möglicherweise gab es tatsächlich eine Überproduktion von Solarstrom. Je besser ein nationales Netz in das europäische Netz eingebunden ist, desto leichter lässt sich diese Überproduktion ausgleichen. In Bayern etwa versorgt im Sommer extrem billiger Solarstrom die Tiroler Pumpspeicherkraftwerke, weil der Freistaat selbst über viel zu wenig Speichermedien verfügt und zu schlechte Leitungen zu den norddeutschen Nachbarn. Den verkaufen dann die Tiroler übrigens im Winter gerne wieder teuer an den Freistaat, das ist aber ein anderes Thema. Das initiale Speichern ist jedenfalls auch bei sehr hohem PV-Stromaufkommen möglich, weil das bayerische Stromnetz gut mit seinen Nachbarn verbunden ist.\nBayerns Stromnetz ist besser integriert als das spanische\nSpanien dagegen hat keinen besonders gut ausgebauten Zugang zum europäischen Netz. Deshalb muss hier schnell die Produktion gedämpft werden. Und möglicherweise passierte hier ein fataler Fehler. Normalerweise schaltet der Netzbetreiber automatisch ab einer gewissen Frequenzhöhe PV-Anlagen ferngesteuert ab und nimmt sie vom Netz.\nCheckliste: Vorbereitung auf einen möglichen Stromausfall\nGrundversorgung sicherstellen\nLebensmittelvorrat: Haltbare Lebensmittel für mindestens 10 Tage (z. B. Konserven, Nudeln, Reis, Brotaufstriche).\nWasser: Mindestens 2 Liter Trinkwasser pro Person und Tag für 10 Tage.\nBeleuchtung und Energie\nTaschenlampen: Batteriebetrieben, solarbetrieben oder per Kurbel betrieben.\nErsatzbatterien: Ausreichender Vorrat für Taschenlampen und andere Geräte.\nKerzen und Streichhölzer/Feuerzeuge: Für alternative Lichtquellen (in feuerfesten Gefäßen verwenden).\nPowerbanks: Vollständig aufgeladen für Smartphones und andere Geräte.\nKurbelradio oder batteriebetriebenes Radio: Um wichtige Informationen zu empfangen.\nWärme und Schutz\nWarme Kleidung und Decken: Für den Fall, dass die Heizung ausfällt.\nAlternative Heizquelle: Kamin, Ofen oder Heizstrahler (nur mit ausreichender Belüftung und Sicherheitsvorkehrungen).\nCO-Warnmelder: Bei Nutzung von gasbetriebenen Heizgeräten.\nKochen und Essen\nCampingkocher oder Grill: Mit geeignetem Brennstoff (nur im Freien verwenden, um Erstickungsgefahr zu vermeiden).\nKalte Speisen: Vorrat an Lebensmitteln, die ohne Kochen verzehrt werden können.\nKommunikation und Information\nBargeld: Da Geldautomaten nicht funktionieren könnten.\nTelefon: Mobiltelefone aufgeladen halten und Ersatzakkus bereithalten.\nKontaktliste: Wichtige Telefonnummern in Papierform notieren.\nMedizinische Versorgung\nMedikamente: Ausreichender Vorrat an benötigten Medikamenten.\nErste-Hilfe-Set: Für kleinere Verletzungen und Notfälle.\nSonstiges\nNotfallplan: Mit der Familie besprechen, was im Ernstfall zu tun ist.\nWichtige Dokumente: Kopien von Ausweisen, Versicherungen und anderen wichtigen Unterlagen griffbereit haben.\nBatteriebetriebene Uhr: Um die Zeit auch ohne Strom verfolgen zu können.\nDiese Checkliste kann helfen, die Auswirkungen eines Stromausfalls auf ein Minimum zu reduzieren. Weitere Hinweise finden Sie auf der Website des Bundesamts für Bevölkerungsschutz und Katastrophenhilfe (BBK).\nDerzeit prominente Theorie für Blackout: Wurden zu viele Solaranlagen auf einmal vom Netz genommen?\nMöglicherweise schaltete man in Spanien auf einen Schlag aber zu viele Solarkraftwerke ab. Das würde zumindest erklären, wie binnen nur fünf Sekunden plötzlich 15 Gigawatt an Leistung fehlten. Man beachte: 15 Gigawatt versorgen etwa 10 bis 12 Millionen Haushalte gleichzeitig mit Strom. Um 15 Gigawatt Leistung zu erzeugen, bräuchte man etwa 10 bis 12 Atomkraftwerke. So einen Wegfall zu kompensieren, ist für das modernste, bestens integrierte Netz unmöglich. Experten sprechen in Deutschland von drei Gigawatt, also den spontanen Wegfall von etwa drei Kohlekraftwerken, die ohne Ausfälle kompensierbar wären.\nEine Gefahr, die für Bayern nicht mehr besteht: In Deutschland wird das seit einigen Jahren nicht flächendeckend gemacht, sondern per Zufallsprinzip Stück für Stück, bis die Frequenz wieder bei 50 Hertz liegt.\nHinzu kommt: Spanien und Portugal sind nur schwach mit dem restlichen europäischen Stromnetz verbunden. Diese Isolation machte es unmöglich, schnell auf Stromreserven aus Nachbarländern zuzugreifen, was die Länge des Blackouts teilweise erklärt. Ein Problem, das auch Bayern betreffen könnte – wenn auch aus anderen Gründen.\nBayern: Sicher oder nur scheinbar sicher?\nGrundsätzlich ist die Gefahr eines Blackouts in Bayern gering. Michael Sterner, Professor für Energiewirtschaft an der Ostbayerischen Technischen Hochschule Regensburg, sieht allerdings trotzdem Gefahren, wie er jüngst der Mittelbayerischen Zeitung erklärte. Er hält großflächige Blackouts in Bayern durchaus für denkbar. Besonders kritisch sei die Abhängigkeit von Stromimporten aus dem Norden Deutschlands, die durch den schleppenden Netzausbau noch verschärft werde. „Natürlich kann ein Blackout passieren“, so Sterner.\nSchwachstellen im bayerischen Stromnetz\nDer schleppende Ausbau der Nord-Süd-Stromtrassen ist ein Dauerthema. Die Trassen sollen den Strom aus Windkraftanlagen im Norden Deutschlands in den Süden transportieren, doch die früheren CSU-Regierungen haben wenig dazu beigetragen, den Netzausbau voranzutreiben. Weiter fehlen eben die Speicherkapazitäten.\nFazit: Ein Stromausfall wie in Spanien mag in Bayern unwahrscheinlich sein – unmöglich ist er nicht.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->energy resources",
+    "Environment->environmental pollution",
+    "Environment->energy saving"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.merkur.de/bayern/",
+    "https://www.merkur.de/bayern/ukraine-energiekrise-bayern-experte-soeder-regierung-katastrophales-zeugnis-putin-91709512.html",
+    "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Stromausfall/stromausfall_node.html",
+    "https://www.merkur.de/bayern/regensburg/",
+    "https://www.merkur.de/politik/hubert-aiwanger-spitzenkandidat-freie-waehler-karriere-privat-bayern-92494802.html",
+    "https://www.merkur.de/bayern/aiwanger-gibt-rat-fuer-mega-blackout-in-deutschland-experte-raet-dringend-davon-ab-93707810.html",
+    "https://www.merkur.de/politik/csu-org26650/",
+    "https://merkur.de/bayern/aiwanger-gibt-rat-fuer-mega-blackout-in-deutschland-experte-raet-dringend-davon-ab-93707810.html",
+    "https://merkur.de/bayern/ukraine-energiekrise-bayern-experte-soeder-regierung-katastrophales-zeugnis-putin-91709512.html",
+    "https://merkur.de/politik/hubert-aiwanger-spitzenkandidat-freie-waehler-karriere-privat-bayern-92494802.html",
+    "https://www.merkur.de/bayern/regensburg",
+    "https://merkur.de/politik/csu-org26650/",
+    "https://merkur.de/bayern/",
+    "https://bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Stromausfall/stromausfall_node.html",
+    "https://www.merkur.de/politik/csu-org26650",
+    "https://merkur.de/bayern/regensburg/",
+    "https://www.merkur.de/bayern"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Hubert Aiwanger",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Spanien",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bayern",
+        "sentiment": "none"
+      },
+      {
+        "name": "Portugal",
+        "sentiment": "none"
+      },
+      {
+        "name": "München",
+        "sentiment": "none"
+      },
+      {
+        "name": "Europa",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "ford",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "F",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:31:17.770+03:00",
+  "updated": "2025-05-08T03:33:45.000+00:00"
+}

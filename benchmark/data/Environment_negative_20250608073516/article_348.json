@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "008ee114ab3080b1a820619177047f647f684d59",
+    "url": "https://www.tvn-2.com/nacionales/sinaproc-anuncia-precaucion-por-fuertes-lluvias_1_2188498.html",
+    "site_full": "www.tvn-2.com",
+    "site": "tvn-2.com",
+    "site_section": "https://tvmax-9.com/rss/",
+    "site_categories": ["media"],
+    "section_title": "",
+    "site_title": "TVN | Noticias, Deportes y Entretenimiento de Panamá",
+    "title": "¡Precaución! Sinaproc advierte sobre caída de árboles por fuertes lluvias y vientos",
+    "title_full": "¡Precaución! Sinaproc advierte sobre caída de árboles por fuertes lluvias y vientos",
+    "published": "2025-05-08T02:19:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PA",
+    "main_image": "https://static.tvn-2.com/clip/017e5f5b-b1cf-4d5e-b9de-7a034a77f9b4_facebook-aspect-ratio_default_0.jpg",
+    "performance_score": 0,
+    "domain_rank": 75388,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "008ee114ab3080b1a820619177047f647f684d59",
+  "url": "https://www.tvn-2.com/nacionales/sinaproc-anuncia-precaucion-por-fuertes-lluvias_1_2188498.html",
+  "ord_in_thread": 0,
+  "author": "Redacción de TVN Noticias",
+  "published": "2025-05-08T02:19:00.000+03:00",
+  "title": "¡Precaución! Sinaproc advierte sobre caída de árboles por fuertes lluvias y vientos",
+  "text": "Noticiero Estelar\nEn vivo\nciudad de panamá/Con la llegada de la temporada de lluvias y tormentas en Panamá, aumentan los riesgos más comunes en zonas urbanas y rurales; uno de ellos es la caída de árboles, calificado por las autoridades como uno de los más peligrosos. Este incidente ya ha afectado a al menos 13 viviendas en el mes de abril, según reportes del Sistema Nacional de Protección Civil (Sinaproc).\nEl Sinaproc reiteró su compromiso con la prevención y hace un llamado a los municipios, comunidades y ciudadanos a colaborar en la identificación de riesgos y el mantenimiento del arbolado. Solo con acciones conjuntas se puede garantizar la seguridad de todos durante la temporada de lluvias y vientos fuertes.\nEl personal de respuesta de Sinaproc ha realizado inspecciones en diferentes sectores para detectar árboles en riesgo y brindar recomendaciones a la población, a fin de evitar colapsos sobre viviendas, muros o cercas perimetrales.\nTe puede interesar: Instituto de Meteorología prevé lluvias dentro de la normalidad para este trimestre\nEntre los factores más comunes que provocan la caída de árboles durante esta temporada, se destacan:\nOtros factores de riesgo incluyen la edad avanzada del árbol, la presencia de plagas, raíces expuestas y la falta de mantenimiento por parte de propietarios o autoridades locales.\nLa caída de árboles no solo provoca lesiones graves o pérdidas humanas, sino también daños materiales en viviendas, cercas y vehículos, además de interrupciones en servicios esenciales como electricidad y telecomunicaciones.\nRecomendaciones para evitar tragedias según Sinaproc:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Environment", "Weather"],
+  "topics": [
+    "Environment->environmental pollution",
+    "Environment->natural resources",
+    "Environment->climate change",
+    "Weather->weather warning"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.tvnpass.com/?utm_source=WEB&utm_medium=boton&utm_campaign=envivo",
+    "https://www.sinaproc.gob.pa/",
+    "https://www.tvnpass.com/",
+    "https://tvnpass.com/?utm_source=WEB&utm_medium=boton&utm_campaign=envivo",
+    "https://www.sinaproc.gob.pa",
+    "https://sinaproc.gob.pa/"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Sistema Nacional de Protección Civil",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Instituto de Meteorología",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:28:47.351+03:00",
+  "updated": "2025-05-08T00:33:38.000+00:00"
+}

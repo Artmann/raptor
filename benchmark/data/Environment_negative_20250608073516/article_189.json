@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "129d84a40948936b429d873be9bd4be4eb2b6f79",
+    "url": "https://eldinero.com.do/322415/mas-de-un-millon-de-personas-sin-agua-a-causa-de-los-efectos-de-las-lluvias-en-rd",
+    "site_full": "eldinero.com.do",
+    "site": "eldinero.com.do",
+    "site_section": "https://www.eldinero.com.do",
+    "site_categories": [],
+    "section_title": "Periódico elDinero",
+    "site_title": "Periódico elDinero",
+    "title": "Más de un millón de personas sin agua a causa de los efectos de las lluvias en RD",
+    "title_full": "Más de un millón de personas sin agua a causa de los efectos de las lluvias en RD",
+    "published": "2025-05-08T00:22:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DO",
+    "main_image": "https://eldinero.com.do/wp-content/uploads/agua-en-rd.webp",
+    "performance_score": 0,
+    "domain_rank": 181412,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "129d84a40948936b429d873be9bd4be4eb2b6f79",
+  "url": "https://eldinero.com.do/322415/mas-de-un-millon-de-personas-sin-agua-a-causa-de-los-efectos-de-las-lluvias-en-rd",
+  "ord_in_thread": 0,
+  "author": "Agencia EFE",
+  "published": "2025-05-08T00:22:00.000+03:00",
+  "title": "Más de un millón de personas sin agua a causa de los efectos de las lluvias en RD",
+  "text": "El Centro de Operaciones de Emergencias (COE) informó este miércoles de que más de un millón de usuarios no tiene agua, a causa de los efectos provocados por las lluvias en decenas de acueductos estos días, mientras que el número de personas desplazadas por las intensas precipitaciones aumentó a 17,855.\nUn informe del COE , en el que se recogen datos del Instituto Nacional de Aguas Potables y Alcantarillados (Inapa) y de la Corporación del Acueducto y Alcantarillado de Santo Domingo (Caasd), da cuenta de que las lluvias afectaron 51 acueductos, de los cuales hay 48 fuera de servicio.\nLa situación ha dejado sin el servicio a 1,003,328 personas, de acuerdo con la información, en la que se añade que se está supliendo agua potable a la población afectada con camiones cisternas.\nEn otro orden, el COE informó de que 17,855 personas tuvieron que salir de sus hogares y movilizarse a zonas seguras por las lluvias , que han afectado 3,284 viviendas, de las cuales hay 282 con daños considerables mientras que cinco quedaron totalmente destruidas.\nHay siete puentes afectados y 27 localidades incomunicadas, de acuerdo con el organismo que mantiene en alerta amarilla a Monseñor Nouel, Puerto Plata, Duarte (en especial el Bajo Yuna), La Vega y Espaillat.\nEn tanto, en alerta verde están Sánchez Ramírez, San Cristóbal, San Juan, Monte Plata, Santo Domingo, San José de Ocoa, Azua, Distrito Nacional, Dajabón y Santiago.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Politics"],
+  "topics": [
+    "Environment->water",
+    "Environment->water pollution",
+    "Social Issue->social problem",
+    "Social Issue->poverty",
+    "Politics->human rights",
+    "Politics->government policy",
+    "Politics->civil rights"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "COE",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:35:51.739+03:00",
+  "updated": "2025-05-07T23:41:48.000+00:00"
+}

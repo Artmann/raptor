@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "2e466ccc6fd0750e618534ad854133de2e527e14",
+    "url": "https://www.ticinonews.ch/svizzera/vallese-divieto-di-telefoni-cellulari-nelle-scuole-del-cantone-414195",
+    "site_full": "www.ticinonews.ch",
+    "site": "ticinonews.ch",
+    "site_section": "https://ticinonews.ch/svizzera",
+    "site_categories": ["media", "top_news_ch", "top_news"],
+    "section_title": "Svizzera - Ticinonews.ch ",
+    "site_title": "Ticinonews.ch – Il Ticino in diretta: News, Ultima Ora, Sport, Multimedia",
+    "title": "Vallese, divieto di telefoni cellulari nelle scuole del Cantone",
+    "title_full": "Vallese, divieto di telefoni cellulari nelle scuole del Cantone",
+    "published": "2025-06-26T08:51:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CH",
+    "main_image": "https://dexter-cdn01.gruppocdt.ch/ticinonews/stories/2025/06/26/960x640/e9fc2861-9a8e-474d-bdfc-46892027480d.jpeg",
+    "performance_score": 1,
+    "domain_rank": 150958,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 12,
+        "comments": 1,
+        "shares": 8
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2e466ccc6fd0750e618534ad854133de2e527e14",
+  "url": "https://www.ticinonews.ch/svizzera/vallese-divieto-di-telefoni-cellulari-nelle-scuole-del-cantone-414195",
+  "ord_in_thread": 0,
+  "author": "Keystone-ats",
+  "published": "2025-06-26T08:51:00.000+03:00",
+  "title": "Vallese, divieto di telefoni cellulari nelle scuole del Cantone",
+  "text": "Il Canton Vallese vieterà in futuro i telefoni cellulari in tutte le scuole. \"La capacità di concentrazione (degli allievi) sta diminuendo\", ha dichiarato il consigliere di Stato vallesano Christophe Darbellay ai giornali di Tamedia. Darbellay, che è anche presidente dalla Conferenza dei direttori cantonali della pubblica educazione (CDPE), ha giustificato il divieto con la crescente esposizione dei bambini ai media digitali. Il capo del Dipartimento dell'istruzione vallesano ha dichiarato che è allarmante il numero di bambini che hanno difficoltà di apprendimento e di lettura già in giovane età. Un suo amico medico gli ha precisato che molti bambini hanno difficoltà a seguire semplici conversazioni. Anche gli studi scientifici lo hanno spinto ad agire. Sebbene le ultime raccomandazioni dei pediatri francesi fossero rivolte principalmente ai bambini di età inferiore ai sei anni, Darbellay ha sottolineato che anche gli allievi più grandi risentono del consumo eccessivo di schermi nel loro sviluppo cognitivo e sociale: \"le scansioni cerebrali mostrano, ad esempio, che il cervello è molto meno attivo quando un bambino fissa un cellulare rispetto a quando gioca all'aperto\".\n\"Tragitto casa-scuola: responsabilità genitori\"\nIl divieto di utilizzare i telefoni cellulari dovrebbe essere applicato in ogni momento all'interno delle sedi scolastiche, compresi gli intervalli e la pausa pranzo. \"Il tragitto casa-scuola è invece responsabilità dei genitori\", ha detto Darbellay. Tuttavia, il politico vallesano suggerisce di concordare con i bambini regole chiare sull'uso del cellulare. Alla domanda su una regolamentazione a livello nazionale, Darbellay ha fatto riferimento alle competenze cantonali in materia di organizzazione scolastica: \"su questo tema parlo come consigliere di Stato vallesano\". Regole standardizzate a livello cantonale allevierebbero l'onere di insegnanti e genitori. \"La pressione dei coetanei è alta tra i bambini e gli adolescenti\", ha sottolineato il consigliere di Stato del Centro. Anche i cantoni di Argovia e Nidvaldo hanno già deciso di vietare i telefoni cellulari nelle loro scuole.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": ["Education"],
+  "topics": [
+    "Education->school",
+    "Education->educational grading",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Christophe Darbellay",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Canton Vallese",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Dipartimento dell'istruzione vallesano",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "CDPE",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ch", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T09:19:37.261+03:00",
+  "updated": "2025-06-27T07:09:07.000+00:00"
+}

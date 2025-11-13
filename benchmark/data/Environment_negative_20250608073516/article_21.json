@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "72d9e76c01b6b31c4ba4593976d51dffe63a09c1",
+    "url": "https://www.richmond-news.com/alberta-news/hundreds-of-homes-people-evacuated-as-wildfires-threaten-areas-north-of-edmonton-10627934",
+    "site_full": "www.richmond-news.com",
+    "site": "richmond-news.com",
+    "site_section": "https://richmond-news.com/weather",
+    "site_categories": ["media"],
+    "section_title": "Richmond Weather  - Richmond News",
+    "site_title": "Richmond Local News  - Richmond News",
+    "title": "Hundreds of homes, people evacuated as wildfires threaten areas north of Edmonton",
+    "title_full": "Hundreds of homes, people evacuated as wildfires threaten areas north of Edmonton",
+    "published": "2025-05-08T00:24:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/05/d21a2f664ad7e79473dd420ea90e0ae40ea3646421d421b8ac6cc9254b957de3.jpg;w=1200;h=800;mode=crop",
+    "performance_score": 0,
+    "domain_rank": 48844,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "72d9e76c01b6b31c4ba4593976d51dffe63a09c1",
+  "url": "https://www.richmond-news.com/alberta-news/hundreds-of-homes-people-evacuated-as-wildfires-threaten-areas-north-of-edmonton-10627934",
+  "ord_in_thread": 0,
+  "author": "Aaron Sousa; The Canadian Press",
+  "published": "2025-05-08T00:24:00.000+03:00",
+  "title": "Hundreds of homes, people evacuated as wildfires threaten areas north of Edmonton",
+  "text": "EDMONTON — Hundreds of people and dozens of homes have been evacuated as an active wildfire continues to threaten rural areas north of Edmonton.\nA spokeswoman for Sturgeon County says 43 homes have been evacuated since mandatory orders were issued on Tuesday. Residents in the nearby town of Redwater are to prepare for a possible evacuation.\nOfficials have said the out-of-control blaze near the Redwater Provincial Recreation Area started over the weekend because an all-terrain vehicle caught fire after an apparent electrical or mechanical failure.\nSpeaking to reporters Wednesday, Sturgeon County fire Chief Chad Moore said roughly 175 people are responding to the fire, which he says grew beyond the county's fire-retardant lines.\nMoore believes the fire is nearing 2,000 hectares in size. He added crews will search the area for damaged properties and alert residents individually.\nMayor Alanna Hnatiw said the area has had support from neighbouring municipalities as well as Alberta Wildfire.\n\"It's been a tireless fight against some really difficult conditions,\" she said. \"There's been devastation that we know will last generations around here.\"\nAlberta Wildfire says it is helping Sturgeon County battle the blaze by sending additional firefighters, heavy equipment and helicopters to the scene.\nThe agency is also helping officials in Athabasca County fight another wildfire that's burning south of the town of Boyle and moving north.\nRoughly 800 people have been told to leave town and register with a reception centre at Parkland Motels in Lac La Biche.\nDerrick Forsythe, an information officer with Alberta Wildfire, said Alberta continues to experience warm and dry conditions and that wildfires can spark in an instant.\n\"We ask people who are out ... to follow any advisories, restrictions or bans that may be in place,\" he said.\nAlberta Forestry Minister Todd Loewen said central Alberta is the main area of concern right now and officials are hoping for better weather to subdue the flames.\nHe added that the number of active fires isn't severe enough to warrant calling in help from other areas.\n\"At this point, things are going OK,\" he said Wednesday.\n— With files from Jack Farrell\nThis report by The Canadian Press was first published May 7, 2025.\nAaron Sousa, The Canadian Press",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Crime, Law and Justice"],
+  "topics": [
+    "Environment->natural resources",
+    "Environment->environmental pollution",
+    "Social Issue->social services",
+    "Social Issue->social problem",
+    "Social Issue->communities",
+    "Crime, Law and Justice->law enforcement",
+    "Crime, Law and Justice->arson",
+    "Crime, Law and Justice->investigation (criminal)"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Alanna Hnatiw",
+        "sentiment": "none"
+      },
+      {
+        "name": "Chad Moore",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "72d9e76c01b6b31c4ba4593976d51dffe63a09c1",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T00:55:18.258+03:00",
+  "updated": "2025-05-07T22:01:43.000+00:00"
+}

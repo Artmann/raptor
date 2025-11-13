@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "75eda04cfc7fb550e294efe62b70388a7ee2524b",
+    "url": "https://local.newsbreak.com/news-12-1587832/3996373664220-manhole-fire-causes-power-outage-in-crown-heights",
+    "site_full": "local.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://local.newsbreak.com/news-12-1587832",
+    "site_categories": [],
+    "section_title": "News 12&#x27;s Home Page | NewsBreak",
+    "site_title": "404 Not Found",
+    "title": "Manhole fire causes power outage in Crown Heights - NewsBreak",
+    "title_full": "Manhole fire causes power outage in Crown Heights - NewsBreak",
+    "published": "2025-05-08T00:56:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/36r1vq_10vqJxmg00",
+    "performance_score": 0,
+    "domain_rank": 3115,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "75eda04cfc7fb550e294efe62b70388a7ee2524b",
+  "url": "https://local.newsbreak.com/news-12-1587832/3996373664220-manhole-fire-causes-power-outage-in-crown-heights",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T00:56:00.000+03:00",
+  "title": "Manhole fire causes power outage in Crown Heights - NewsBreak",
+  "text": "Open in NewsBreak\n|\nSign in\nChoose your location\nSee all locations\nSign In\nAbout NewsBreak\nPartner with us\nFollow us\n©2024 NewsBreak. All Rights Reserved.\nBrooklyn, New York\n· 1 hours ago\nNews 12\nManhole fire causes power outage in Crown Heights\n2\n0\nShare\nComments\nLoading editor...\nPost\nCommunity Policy\nYou may also like\nNews 12\n70 ·\n9 days ago\nNews10NBC WHEC Rochester, NY\nlast hour\nNews 12\n3 ·\nlast hour\n2 On Your Side\n63 ·\n17 days ago\nCBS News\n39 ·\n6 days ago\nComments\n/\nClose\nCommunity Policy",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Crime, Law and Justice"],
+  "topics": [
+    "Environment->environmental pollution",
+    "Social Issue->public housing",
+    "Social Issue->social problem",
+    "Social Issue->social services",
+    "Crime, Law and Justice->arson"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "CBS News",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:29:20.293+03:00",
+  "updated": "2025-05-07T23:33:09.000+00:00"
+}

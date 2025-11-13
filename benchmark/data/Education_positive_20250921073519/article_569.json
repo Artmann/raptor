@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "a7c7605f7d061fb41c647fef98f49c1821e45250",
+    "url": "http://mountainadvocate.com/stories/crochet-for-newbies-knox-public-library,30425",
+    "site_full": "mountainadvocate.com",
+    "site": "mountainadvocate.com",
+    "site_section": "https://mountainadvocate.com",
+    "site_categories": ["hobbies_and_interests"],
+    "section_title": "Home - Mountain Advocate - The Mountain Advocate",
+    "site_title": "Mountain Advocate Online",
+    "title": "Crochet for Newbies, Knox Public Library",
+    "title_full": "Crochet for Newbies, Knox Public Library",
+    "published": "2025-09-04T17:38:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a7c7605f7d061fb41c647fef98f49c1821e45250",
+  "url": "http://mountainadvocate.com/stories/crochet-for-newbies-knox-public-library,30425",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-04T17:38:00.000+03:00",
+  "title": "Crochet for Newbies, Knox Public Library",
+  "text": "Crochet for Newbies, Knox Public Library\nNo comments on this item Please log in to comment by clicking here",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Lifestyle and Leisure", "Education", "Human Interest"],
+  "topics": [
+    "Lifestyle and Leisure->hobby",
+    "Lifestyle and Leisure->club and association",
+    "Lifestyle and Leisure->lifestyle",
+    "Education->adult and continuing education"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Knox Public Library",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Barbourville", "Mackville", "Artemus"],
+      "state": ["Kentucky"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:37:34.885+03:00",
+  "updated": "2025-09-18T08:44:59.000+03:00"
+}

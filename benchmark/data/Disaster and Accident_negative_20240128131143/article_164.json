@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "19b5cc6441db2a5de4c7b68e6ed577d5cd75299b",
+    "url": "https://helenair.com/maclane-jpeg/image_1c994ed0-a5ae-11ee-9fb6-47160bf2fe33.html",
+    "site_full": "helenair.com",
+    "site": "helenair.com",
+    "site_section": "https://helenair.com/search/?f=rss&amp",
+    "site_categories": ["media"],
+    "section_title": "helenair.com - RSS Results",
+    "title": "MacLane.jpeg",
+    "title_full": "MacLane.jpeg",
+    "published": "2023-12-28T20:22:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/1/c9/1c994ed0-a5ae-11ee-9fb6-47160bf2fe33/658dbcfbbe92c.image.jpg?crop=1114%2C585%2C0%2C638&amp;resize=1114%2C585&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 15963,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "19b5cc6441db2a5de4c7b68e6ed577d5cd75299b",
+  "url": "https://helenair.com/maclane-jpeg/image_1c994ed0-a5ae-11ee-9fb6-47160bf2fe33.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Montana Historical Society",
+  "published": "2023-12-28T20:22:00.000+02:00",
+  "title": "MacLane.jpeg",
+  "text": "MacLane.jpeg\n- Montana Historical Society\n-\n-\n0\nMost Popular\n-\n[1 dead, 2 injured in head-on collision near Helmville](/news/local/1-dead-2-injured-in-head-on-collision-near-helmville/article_4acb144e-a128-11ee-8932-ebd037998dcf.html)\n-\n[Family in Helena recovers some belongings with help of Apple AirTags](/news/local/crime-courts/family-recovers-some-belongings-with-help-of-apple-air-tags/article_8600d344-a413-11ee-86d6-1b3216933821.html)\n-\n[Four former Montana State Bobcats shed light on decisions to transfer to FBS programs](/sports/college/big-sky-conference/montana-state-university/bobcats-fbs-reimer-aigbedion-kettels-valdez/article_e19adf97-8546-5e5e-af1b-d77de58f4969.html)\n-\n[Thomas Baumeister and John Sullivan: Let FWP biologists do their job](/opinion/column/thomas-baumeister-and-john-sullivan-let-fwp-biologists-do-their-job/article_17adb234-a01e-11ee-b2a9-23066ebef4ea.html)\n-\n[Helena man gets 20 years, 12 suspended, for felony sexual assault](/news/local/crime-courts/helena-man-sentenced-for-felony-sexually-assault/article_e08a23e6-a0ea-11ee-91d5-d7e2d6d52f39.html)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "john sullivan",
+        "sentiment": "none"
+      },
+      {
+        "name": "helena",
+        "sentiment": "none"
+      },
+      {
+        "name": "thomas baumeister",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "montana historical society",
+        "sentiment": "negative"
+      },
+      {
+        "name": "montana state bobcats",
+        "sentiment": "none"
+      },
+      {
+        "name": "helena",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "helmville",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:12:30.447+02:00",
+  "updated": "2023-12-29T00:12:30.447+02:00"
+}

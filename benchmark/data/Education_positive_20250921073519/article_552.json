@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "e47322b2ca0a8ade713b296b16e0b5931728a9e5",
+    "url": "https://hoy.com.do/carolina-mejia-anuncia-250-becas-google/",
+    "site_full": "hoy.com.do",
+    "site": "hoy.com.do",
+    "site_section": "https://hoy.com.do/secciones/el-pais",
+    "site_categories": ["marketing", "business"],
+    "section_title": "El País | Hoy Digital",
+    "site_title": "Hoy Digital | Guardianes de la verdad",
+    "title": "Carolina Mejía anuncia 250 becas Google",
+    "title_full": "Carolina Mejía anuncia 250 becas Google",
+    "published": "2025-09-18T07:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DO",
+    "main_image": "https://hoy.com.do/wp-content/uploads/2025/09/5_El-Pais_18_7okp01.jpg",
+    "performance_score": 0,
+    "domain_rank": 50385,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e47322b2ca0a8ade713b296b16e0b5931728a9e5",
+  "url": "https://hoy.com.do/carolina-mejia-anuncia-250-becas-google/",
+  "ord_in_thread": 0,
+  "author": "@periodicohoy",
+  "published": "2025-09-18T07:00:00.000+03:00",
+  "title": "Carolina Mejía anuncia 250 becas Google",
+  "text": "La alcaldesa Carolina Mejía, a través de Google, anunció 250 becas a estudiantes para que se preparen en el programa Google Skill Boost, sobre el análisis de datos e inteligencia artificial.\nEl acto fue encabezado por Mejía, en el Salón Futuro I del Centro Futuro, una dependencia de la Alcaldía del Distrito Nacional que ofrece capacitación gratuita en Cristo Rey.\nLa iniciativa pertenece a una plataforma oficial de aprendizaje en línea de Google Cloud que proporciona cursos, laboratorios prácticos y rutas de aprendizaje para desarrollar habilidades en tecnología.\nPuedes leer: Fondo “Ale” ofrecerá becas a jóvenes huérfanos Jet Set\n“Nosotros vamos a tocar de manera inicial 250 jóvenes con estas becas para certificarlos y que puedan tener la fortaleza de presentar ese conocimiento que es como una semillita en nuestras manos”, dijo Mejía.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Education"],
+  "topics": [
+    "Education->students",
+    "Education->college and university",
+    "Education->vocational education"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Carolina Mejía",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Alcaldía del Distrito Nacional",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:35:43.819+03:00",
+  "updated": "2025-09-18T08:42:08.000+03:00"
+}

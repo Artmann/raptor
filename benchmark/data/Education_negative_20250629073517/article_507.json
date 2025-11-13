@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "273ada4ad682c45fd632d6ae3ea9f610fbf0c883",
+    "url": "https://www.sueddeutsche.de/bildung/bildung-linke-fordert-kindergarten-moratorium-dpa.urn-newsml-dpa-com-20090101-250626-930-720108",
+    "site_full": "www.sueddeutsche.de",
+    "site": "sueddeutsche.de",
+    "site_section": "https://www.sueddeutsche.de",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "section_title": "Aktuelle Nachrichten und Kommentare - SZ.de",
+    "site_title": "Aktuelle Nachrichten und Kommentare - SZ.de",
+    "title": "Bildung - Linke fordert Kindergarten-Moratorium - Bildung - SZ.de",
+    "title_full": "Bildung - Linke fordert Kindergarten-Moratorium - Bildung - SZ.de",
+    "published": "2025-06-26T12:19:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.sueddeutsche.de/2025/06/26/6dcdab2b-a424-4610-985b-39c75f2fafe1.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=undefined%2Cundefined%2Cundefined%2Cundefined",
+    "performance_score": 0,
+    "domain_rank": 1135,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "273ada4ad682c45fd632d6ae3ea9f610fbf0c883",
+  "url": "https://www.sueddeutsche.de/bildung/bildung-linke-fordert-kindergarten-moratorium-dpa.urn-newsml-dpa-com-20090101-250626-930-720108",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T12:19:00.000+03:00",
+  "title": "Bildung - Linke fordert Kindergarten-Moratorium - Bildung - SZ.de",
+  "text": "Erfurt (dpa/th) - Die Thüringer Linke-Fraktion hat ein Personal-Moratorium für Kindergärten gefordert, damit keine Erzieherinnen und Erzieher entlassen werden. „Ein Moratorium, wie der Freistaat Sachsen es gemacht hat, dass bis zum 31.12.2026 keine Erzieherinnen entlassen werden“, sagte die Linke-Bildungspolitikerin Ulrike Grosse-Röthig. Hintergrund sind massiv sinkende Kinderzahlen in den Einrichtungen des Landes aufgrund des demografischen Wandels. In etlichen Kommunen werden Kindergärten geschlossen, teils setzen Träger Fachkräfte bei den Wochenarbeitsstunden herunter. „Kein Kindergarten kostet mehr, nur weil weniger Kinder drin sind“, sagte Grosse-Röthig. Nur die Einnahmen aus Elternbeiträgen würden sinken. „Und da sind wir als Land in der Pflicht.“ Die Linke-Fraktion fordert in einem Maßnahmen-Papier zur frühkindlichen Bildung ein „Kindergarten-im Dorf-Gesetz“. Damit sollen Kindergärten erhalten bleiben, auch wenn sie künftig nicht die geforderte Mindestkinderzahl erreichen. „Dazu gehört, dass Einnahmeausfälle durch demografischen Wandel ausgeglichen werden und damit der Kindergarten buchstäblich im Dorf bleiben kann“, heißt es in dem Papier. Die stark sinkenden Kinderzahlen sind schon seit längerem bekannt. Mit einer Änderung des Betreuungsschlüssels noch unter der rot-rot-grünen Minderheitsregierung sollten die Folgen daraus abgemildert und Arbeitsplätze in den Einrichtungen gesichert werden. Eine Erzieherin oder ein Erzieher muss sich nach dem neuen Betreuungsschlüssel um weniger Kinder gleichzeitig kümmern als bisher. Die Änderung gilt seit Anfang des Jahres. Für die Umsetzung haben Kommunen eine Übergangszeit. Nach Angaben des Bildungsministeriums von Ende Mai setzt knapp die Hälfte der Einrichtungen die neuen Vorgaben um. © dpa-infocom, dpa:250626-930-720108/1",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->vocational education",
+    "Education->early childhood education",
+    "Education->school",
+    "Social Issue->communities",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ulrike Grosse-Röthig",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Erfurt",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sachsen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "dpa",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_de", "top_news_ch", "top_news_at", "top_news"],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T12:38:06.749+03:00",
+  "updated": "2025-06-27T10:09:00.000+00:00"
+}

@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "c61008f8b3f7741330429562a248376f60d2a05b",
+    "url": "https://www.lenouvelliste.ch/valais/le-valais-interdit-les-telephones-dans-ses-ecoles-1458194",
+    "site_full": "www.lenouvelliste.ch",
+    "site": "lenouvelliste.ch",
+    "site_section": "https://lenouvelliste.ch",
+    "site_categories": ["media", "top_news_ch", "top_news"],
+    "section_title": "Le Nouvelliste - Actualités du Valais, Nationales et Internationales",
+    "site_title": "Le Nouvelliste - Actualités du Valais, Nationales et Internationales",
+    "title": "Le Valais interdit les téléphones dans ses écoles",
+    "title_full": "Le Valais interdit les téléphones dans ses écoles",
+    "published": "2025-06-26T14:48:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CH",
+    "main_image": "https://media.lenouvelliste.ch/media/image/135/nf_normal_16_9/659192142-highres.jpg",
+    "performance_score": 1,
+    "domain_rank": 49713,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 19,
+        "comments": 6,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c61008f8b3f7741330429562a248376f60d2a05b",
+  "url": "https://www.lenouvelliste.ch/valais/le-valais-interdit-les-telephones-dans-ses-ecoles-1458194",
+  "ord_in_thread": 0,
+  "author": "Keystone - ATS",
+  "published": "2025-06-26T14:48:00.000+03:00",
+  "title": "Le Valais interdit les téléphones dans ses écoles",
+  "text": "Votre publicité ici avec IMPACT_medias\nLe Valais interdit les téléphones dans ses écoles\nLe conseiller d’Etat Christophe Darbellay a annoncé l’interdiction des téléphones mobiles dans toutes les écoles du canton, y compris durant les pauses. D’autres cantons ont déjà pris position sur cette question.\nVotre publicité ici avec IMPACT_medias",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": ["Education"],
+  "topics": [
+    "Education->school",
+    "Education->educational grading",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ch", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T16:19:39.476+03:00",
+  "updated": "2025-06-27T14:11:55.000+00:00"
+}

@@ -1,0 +1,136 @@
+{
+  "thread": {
+    "uuid": "0b07e88a8b90861c45ebba0cfce0b7ef3aa51748",
+    "url": "https://www.indiatoday.in/education-today/news/story/aicte-launches-drive-to-make-20-lakh-students-industry-ready-2789225-2025-09-18",
+    "site_full": "www.indiatoday.in",
+    "site": "indiatoday.in",
+    "site_section": "https://www.indiatoday.in/rss/home",
+    "site_categories": [
+      "religion",
+      "media",
+      "catholicism",
+      "top_news_in",
+      "top_news_ph",
+      "top_news_kw",
+      "top_news_iq",
+      "top_news_nz",
+      "top_news_pk",
+      "top_news_ae",
+      "top_news_za",
+      "top_news_qa",
+      "top_news_sg",
+      "top_news_sa",
+      "top_news_my",
+      "top_news"
+    ],
+    "section_title": "",
+    "site_title": "Latest News, Breaking News Today - Entertainment, Cricket, Business, Politics - India Today",
+    "title": "20 lakh students to benefit from AICTE's new skill initiatives",
+    "title_full": "20 lakh students to benefit from AICTE's new skill initiatives",
+    "published": "2025-09-18T07:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/beyond-coding-future-engineering-skills-every-student-must-learn-for-2030-jobs-154137787-16x9_1.jpg?VersionId=RIbhz.IinZYcfYi64f976PIZtADcx80y",
+    "performance_score": 0,
+    "domain_rank": 3659,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0b07e88a8b90861c45ebba0cfce0b7ef3aa51748",
+  "url": "https://www.indiatoday.in/education-today/news/story/aicte-launches-drive-to-make-20-lakh-students-industry-ready-2789225-2025-09-18",
+  "ord_in_thread": 0,
+  "author": "@indiatoday",
+  "published": "2025-09-18T07:35:00.000+03:00",
+  "title": "20 lakh students to benefit from AICTE's new skill initiatives",
+  "text": "20 lakh students to benefit from AICTE's new skill initiatives\nThe All India Council for Technical Education (AICTE) has rolled out a set of reforms to make engineering students more industry-ready. Announced on Engineers' Day, the initiatives aim to impact 20 lakh learners across the country through skill-building, research, and innovation.\nOn the occasion of Engineers’ Day (September 15), the All India Council for Technical Education (AICTE) announced a fresh set of initiatives to strengthen the employability of engineering graduates and bridge the industry-academia gap.\nThe reforms, launched by Dr. Vineet Joshi, Secretary of Higher Education, Government of India, includes Project PRACTICE (Project for Advancing Critical Thinking, Industry Connect and Employability), the AICTE Research Internship (ARI) Portal, and the mandatory establishment of R&D Cells and Climate Cells in every approved institute.\nAt the heart of this effort is Project PRACTICE, designed to support nearly 1,000 tier-2 and tier-3 colleges, which often face challenges in achieving strong academic outcomes. Over the next three years, the project is expected to impact around 20 lakh students and 10,000 faculty members through project-based learning, live industry assignments, and skill-development initiatives.\nThe programme has a joint funding of Rs 23.31 crore, with equal contributions from AICTE and its partners Maker Bhavan Foundation, LEAP, and CRISP.\nAdding a technological edge, AICTE also announced free access to AI-powered tools like ChatGPT and Perplexity Go for students, with the aim of shifting their focus from routine tasks to innovation, research, and problem-solving.\nChairman Professor TG Sitharam highlighted that the initiatives go beyond employability, noting their potential to foster innovation, strengthen sustainability efforts, and deepen collaborations between academia and industry.\nThe ARI Portal, launched alongside Project PRACTICE, will serve as a platform to connect students with research-based internship opportunities. Meanwhile, the mandated R&D and Climate Cells are expected to nurture an innovation-driven ecosystem while raising environmental awareness amongst future engineers.\nR. Subrahmanyam of CRISP, one of the partner organisations, emphasised that these steps will particularly help underserved institutions, enabling them to narrow the gap with premier colleges.\nWith over 30 lakh students currently enrolled across 5,868 AICTE-approved institutions, officials believe that these measures mark a decisive push towards building a more skilled, industry-ready generation of engineering graduates.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->students",
+    "Education->vocational education",
+    "Education->college and university",
+    "Social Issue->social services",
+    "Social Issue->adults",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Vineet Joshi",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "All India Council for Technical Education",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [
+      "top_news_in",
+      "top_news_ph",
+      "top_news_kw",
+      "top_news_iq",
+      "top_news_nz",
+      "top_news_pk",
+      "top_news_ae",
+      "top_news_za",
+      "top_news_qa",
+      "top_news_sg",
+      "top_news_sa",
+      "top_news_my",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:45:14.619+03:00",
+  "updated": "2025-09-19T08:09:37.000+03:00"
+}

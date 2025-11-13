@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "2c8b6b584afbf4f8f01e11a61bf23bed9f16c13a",
+    "url": "https://nation.africa/kenya/health/inside-five-hour-surgery-to-save-boy--4665604",
+    "site_full": "nation.africa",
+    "site": "nation.africa",
+    "site_section": "https://consumer.einnews.com:443/live_feed",
+    "site_categories": ["media"],
+    "section_title": "Live Feed Wire - Consumer News Today - EIN Presswire",
+    "title": "Inside five-hour surgery to save boy | Nation",
+    "title_full": "Inside five-hour surgery to save boy | Nation",
+    "published": "2024-06-22T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "KE",
+    "main_image": "https://nation.africa/resource/image/4665606/landscape_ratio3x2/1200/800/d72305e243f80bdb797a7f5156e67c8c/ur/surgeon-francis-osawa-during-an-interview-at-gertrude-s-children-s-hospital-in-nairobi-on-may-23-2024-bonface-bogita.jpg",
+    "performance_score": 0,
+    "domain_rank": 7978,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2c8b6b584afbf4f8f01e11a61bf23bed9f16c13a",
+  "url": "https://nation.africa/kenya/health/inside-five-hour-surgery-to-save-boy--4665604",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Leon Lidigu",
+  "published": "2024-06-22T03:00:00.000+03:00",
+  "title": "Inside five-hour surgery to save boy | Nation",
+  "text": "Fred is sweating profusely in bed inside the surgical ward waiting anxiously.\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Health", "Human Interest", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "fred",
+        "sentiment": "none"
+      },
+      {
+        "name": "fred omondi",
+        "sentiment": "none"
+      },
+      {
+        "name": "nancy ambogo",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "muthaiga",
+        "sentiment": "none"
+      },
+      {
+        "name": "kiambu county",
+        "sentiment": "none"
+      },
+      {
+        "name": "gertrude’s children’s hospital",
+        "sentiment": "none"
+      },
+      {
+        "name": "siaya",
+        "sentiment": "none"
+      },
+      {
+        "name": "kakamega county",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-22T08:17:02.439+03:00",
+  "updated": "2024-06-22T08:21:21.179+03:00"
+}

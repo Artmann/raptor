@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "d589b7f3498bf51f2a1f09b03b4473bd21633b90",
+    "url": "https://www.investmentexecutive.com/news/research-and-markets/companies-grew-more-confident-about-initial-public-offerings-in-2023/",
+    "site_full": "www.investmentexecutive.com",
+    "site": "investmentexecutive.com",
+    "site_section": "http://www.investmentexecutive.com",
+    "site_categories": ["media"],
+    "section_title": "Canada’s Financial Industry Newspaper | Investment Executive",
+    "title": "Companies grew more confident about initial public offerings in 2023 | Investment Executive",
+    "title_full": "Companies grew more confident about initial public offerings in 2023 | Investment Executive",
+    "published": "2023-12-28T23:14:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://www.investmentexecutive.com/wp-content/uploads/sites/3/2023/08/SB124-Image-Medium.jpeg",
+    "performance_score": 0,
+    "domain_rank": 55500,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d589b7f3498bf51f2a1f09b03b4473bd21633b90",
+  "url": "https://www.investmentexecutive.com/news/research-and-markets/companies-grew-more-confident-about-initial-public-offerings-in-2023/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@IE_Canada",
+  "published": "2023-12-28T23:14:00.000+02:00",
+  "title": "Companies grew more confident about initial public offerings in 2023 | Investment Executive",
+  "text": "The signs of life shown by the initial public offering (IPO) market in the U.S., especially in the second half of the year, are giving analysts hope that more companies will be enticed to go public in 2024. Overall, 108 initial public offerings raised proceeds of about $19.4 billion in 2023, according to Renaissance Capital. That’s up from a dismal 71 IPOs for proceeds of $7.7 billion in 2022, when high inflation and rising interest rates discouraged companies from hitting the market. This year’s big IPOs included health-care products company Kenvue in May, U.K. chip designer Arm Holdings in September and footwear company Birkenstock in October. They accounted for over half of the total IPO proceeds, according to Renaissance Capital. Instacart also had a splashy IPO in late summer. A post-pandemic surge for IPOs was stifled by the highest inflation in four decades in 2022, raising concerns about the economy buckling under the pressure. The Federal Reserve then embarked on a historic round of rate hikes to tame inflation, which made borrowing more expensive and increased caution in the IPO market. The Fed’s preferred measure of inflation, the monthly personal consumption and expenditures report, has cooled to a pace of 2.6% from a high of 7.1% in the middle of 2022. Other measures of inflation, such as the consumer price index, reached a peak of 9.1% in 2022. The central bank fought inflation by raising its benchmark rate from near zero to a range of 5.25% to 5.50%. The Fed has held that range steady for several months and has signaled that it could start cutting rates in 2024. Wall Street is betting that could happen early in the year. Cooling inflation and falling interest rates could push the IPO market back toward a more normal level of activity, which averaged about 170 IPOs with average proceeds of about $43 billion from 2017 to 2019. “While the IPO market’s recovery is still somewhat tenuous, all signs point to a solid pickup in 2024,” said Renaissance Capital in its recent IPO review for 2023. The IPO market is expected to grow along with an economy. Corporate profits are expected to rise after shaking off an earnings recession. Earnings gains of just under 2% during the fourth quarter of 2023 could be followed by a gain of more than 8% in the first quarter of 2024 and 10% during the second quarter of 2024 for companies in the S&P 500, analysts forecast. The S&P 500 index is on track to close the year with a gain of more than 20%. Wall Street is increasingly expecting the Fed to achieve its so-called soft landing goal by trimming inflation to the central bank’s 2% target without an ensuing recession. IPO activity could speed up as CEOs gain more confidence that the “soft landing” will happen, according to a Goldman Sachs analysis.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Politics",
+    "Economy, Business and Finance"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "instacart",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "federal reserve",
+        "sentiment": "none"
+      },
+      {
+        "name": "kenvue",
+        "sentiment": "none"
+      },
+      {
+        "name": "renaissance capital",
+        "sentiment": "none"
+      },
+      {
+        "name": "arm holdings",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.k.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:35:34.353+02:00",
+  "updated": "2023-12-29T00:35:34.353+02:00"
+}

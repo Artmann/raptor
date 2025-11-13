@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "745b194df2651c878ff00cde21094f25c3bfa1cb",
+    "url": "https://www.newsbreak.com/wetm-18-news-1589973/3996621806338-brief-break-in-clouds-but-more-rain-on-the-way-adding-to-flooding-concerns",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/wetm-18-news-1589973",
+    "site_categories": ["under_construction"],
+    "section_title": "WETM 18 News&#x27;s Home Page | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Brief break in clouds, but more rain on the way adding to flooding concerns - NewsBreak",
+    "title_full": "Brief break in clouds, but more rain on the way adding to flooding concerns - NewsBreak",
+    "published": "2025-05-08T03:45:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/1B1Dmt_10w54KqS00",
+    "performance_score": 0,
+    "domain_rank": 3115,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "745b194df2651c878ff00cde21094f25c3bfa1cb",
+  "url": "https://www.newsbreak.com/wetm-18-news-1589973/3996621806338-brief-break-in-clouds-but-more-rain-on-the-way-adding-to-flooding-concerns",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T03:45:00.000+03:00",
+  "title": "Brief break in clouds, but more rain on the way adding to flooding concerns - NewsBreak",
+  "text": "ELMIRA, N.Y. (WETM) – A spotty thunderstorm or two may develop this evening as we still cope with the surface low pressure system that has been very glacial in its pace. These storms will be slow moving showers and could train over the same locations that were experiencing heavy rain and flooding last night. We catch a break on brief break come Thursday, but the problem is that we stand to get another round of showers and storms on Friday. This will add to an already saturated ground and add to swollen waterways. A ridge will finally break the clouds and give a chance to dry out by Mothers Day. After that the sun will most definitely come out for most of next week. The next best chance of rain after Sunday is not really until possibly next Thursday. But until then take the opportunity to dump out any standing water around your home and clear storm grates of debris to help drain the rain. For the latest news, weather, sports, and streaming video, head to WETM - MyTwinTiers.com.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment", "Social Issue"],
+  "topics": [
+    "Weather->weather warning",
+    "Weather->weather forecast",
+    "Weather->weather phenomena",
+    "Environment->water pollution",
+    "Environment->environmental pollution",
+    "Environment->climate change",
+    "Social Issue->social problem",
+    "Social Issue->public housing",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.mytwintiers.com",
+    "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1B1Dmt_10w54KqS00",
+    "https://img.particlenews.com/image.php?url=1B1Dmt_10w54KqS00",
+    "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1B1Dmt_10w54KqS00",
+    "https://img.particlenews.com/image.php",
+    "https://www.img.particlenews.com/image.php?url=1B1Dmt_10w54KqS00",
+    "https://mytwintiers.com"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "NewsBreak",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:44:52.440+03:00",
+  "updated": "2025-05-08T02:48:52.000+00:00"
+}

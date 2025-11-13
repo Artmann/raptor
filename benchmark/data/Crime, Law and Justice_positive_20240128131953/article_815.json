@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "3fb83b76760520fad58339f976da1b7666eec45c",
+    "url": "https://brooklyneagle.com/articles/2023/12/29/2023-shootings-and-homicides-reduction/",
+    "site_full": "brooklyneagle.com",
+    "site": "brooklyneagle.com",
+    "site_section": "http://brooklyneagle.com/rss.xml",
+    "site_categories": ["media"],
+    "section_title": "Brooklyn Eagle",
+    "title": "Crime continues to decrease in Brooklyn: Major reduction in shootings and homicides in 2023",
+    "title_full": "Crime continues to decrease in Brooklyn: Major reduction in shootings and homicides in 2023",
+    "published": "2023-12-30T00:28:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://brooklyneagle.com/wp-content/uploads/2023/03/Gonzalez-DA-at-CB2-Mary-Frost-1024x812-1.jpg",
+    "performance_score": 0,
+    "domain_rank": 22615,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3fb83b76760520fad58339f976da1b7666eec45c",
+  "url": "https://brooklyneagle.com/articles/2023/12/29/2023-shootings-and-homicides-reduction/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Rob Abruzzese",
+  "published": "2023-12-30T00:28:00.000+02:00",
+  "title": "Crime continues to decrease in Brooklyn: Major reduction in shootings and homicides in 2023",
+  "text": "<a href=\"https://brooklyneagle.com/articles/2023/12/29/jacksonville-university-college-of-law-new-campus/\">\n</a>\nCrime continues to decrease in Brooklyn: Major reduction in shootings and homicides in 2023\nBrooklyn District Attorney Eric Gonzalez announced significant progress in reducing gun violence in the borough in 2023, with shooting incidents and victims dropping by about 25 percent, equating to 150 fewer shooting victims compared to the previous year.\nAdditionally, homicides decreased by almost 10 percent, and overall serious crimes saw a reduction of more than 5 percent.\nThese positive trends in public safety have been accelerating over the past three years, marking a reversal from the spike in gun violence during the peak of the COVID pandemic and returning to low crime levels not seen since before the health crisis.\nThe Brooklyn DA’s Office credited its focus on violent street gangs, partnering with community organizations, and enhancing prosecution efforts for gun offenses.\n“We’re seeing a real impact in our efforts to keep Brooklyn safe,” said District Attorney Gonzalez. “The reduction in gun violence is particularly notable, with shootings and shooting victims down by a quarter and homicides by 10 percent. These aren’t just statistics; they represent lives saved and communities strengthened.”\nIn 2023, Brooklyn recorded 337 shooting incidents, down from 449 in 2022, and 397 shooting victims, down from 544. There were 15 fewer murders, with a notable decrease in gun homicides, which constituted 63 percent of the total number of murders this year. This ratio is similar to the record lows of 2018 and 2019 when homicides involving shootings were at 64 percent.\nSignificant gains were observed in Brooklyn North precincts, particularly in Brownsville’s 73rd Precinct, where murders dropped by 67 percent and shootings by 30 percent.\nOther areas like East New York and Bedford-Stuyvesant also saw substantial declines in shootings. Greenpoint experienced an 87.5 percent decrease in shootings, while southern neighborhoods like Sheepshead Bay and Coney Island recorded drops of 71.5 percent and 55.6 percent, respectively. Overall, gun violence in public housing developments fell by 41 percent.\nThe seven major index crimes in Brooklyn decreased by 5.1 percent in 2023. Burglaries were down by 18.4 percent, grand larcenies by 7.2 percent, reported rapes by 6.1 percent, and robberies by 4.2 percent. However, there were slight increases in felony assaults and grand larceny auto.\nThe DA’s Office’s efforts included the indictment of 32 alleged gang members, including drill rapper “Sheff G,” and initiatives focused on prevention, such as domestic violence programs and gun buyback events.\nBrooklyn’s Conviction Review Unit continued to address past miscarriages of justice, exonerating three individuals in 2023.\nThese statistics, based on the NYPD’s preliminary CompStat reports as of Dec. 24, 2023, reflect a concerted effort by the Brooklyn DA’s Office, the NYPD and community partners.\nLeave a Comment",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "eric gonzalez",
+        "sentiment": "none"
+      },
+      {
+        "name": "gonzalez",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "brooklyn da’s office",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "brooklyn",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-30T00:42:30.850+02:00",
+  "updated": "2023-12-30T00:42:30.850+02:00"
+}

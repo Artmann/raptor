@@ -1,0 +1,114 @@
+{
+  "thread": {
+    "uuid": "b080f954d33a66601284f6081800261dc238c70c",
+    "url": "https://www.kmvt.com/video/2025/09/18/twin-falls-minico-volleyball-pick-up-conference-wins/",
+    "site_full": "www.kmvt.com",
+    "site": "kmvt.com",
+    "site_section": "https://news.google.com/search?q=up%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "KMVT | Homepage | Twin Falls, ID",
+    "title": "Twin Falls and Minico volleyball pick up conference wins",
+    "title_full": "Twin Falls and Minico volleyball pick up conference wins",
+    "published": "2025-09-18T07:52:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-kmvt-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-18-2025%2Ft_ca89491c74be4400ad700477d9663c93_name_file_1280x720_2000_v3_1_.jpg?auth=de1775a36767f9709194a070bea9d8fe1d5d9749ac147cb94df93ddd9d8e1e5e&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 181875,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b080f954d33a66601284f6081800261dc238c70c",
+  "url": "https://www.kmvt.com/video/2025/09/18/twin-falls-minico-volleyball-pick-up-conference-wins/",
+  "ord_in_thread": 0,
+  "author": "@kmvtnews",
+  "published": "2025-09-18T07:52:00.000+03:00",
+  "title": "Twin Falls and Minico volleyball pick up conference wins",
+  "text": "Updated: May 20, 2025 at 10:03 AM MDT\nPolls are open from eight in the morning to eight in the evening. If you have an absentee ballot that you haven’t turned in, you can bring it in to be counted.\nUpdated: May 8, 2025 at 9:36 AM MDT\nIf you’re looking for some gear to support your favorite Magic Valley team, a store in Burley is the place to go!\nUpdated: May 1, 2025 at 8:56 AM MDT\nAround 10 a.m. Wednesday, a reported drug raid occurred at Monroe Street and Heyburn Avenue.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Education"],
+  "topics": [
+    "Sport->volleyball",
+    "Sport->sport event",
+    "Sport->regular competition",
+    "Education->teachers",
+    "Education->students",
+    "Education->school"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Heyburn Avenue",
+        "sentiment": "none"
+      },
+      {
+        "name": "Street",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Filer",
+        "Hazelton",
+        "Burley",
+        "Rupert",
+        "Heyburn",
+        "Eden",
+        "Shoshone",
+        "Twin Falls",
+        "Minidoka",
+        "Hagerman",
+        "Wendell",
+        "Buhl",
+        "Silverton",
+        "Jerome",
+        "Kimberly"
+      ],
+      "state": ["Idaho"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:48:14.219+03:00",
+  "updated": "2025-09-18T08:57:53.000+03:00"
+}

@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "f60fcce8d16c61ae46f5de811f79d8594cd4c1d6",
+    "url": "https://bvmsports.com/2025/01/23/a-surprisingly-flowy-flash-of-a-daniel-woods-v14",
+    "site_full": "bvmsports.com",
+    "site": "bvmsports.com",
+    "site_section": "https://bvmsports.com/feed/articles-feed/",
+    "site_categories": ["uncategorized"],
+    "section_title": "BVM Sports - Articles",
+    "title": "A Surprisingly Flowy Flash of a Daniel Woods V14",
+    "title_full": "A Surprisingly Flowy Flash of a Daniel Woods V14",
+    "published": "2025-01-23T23:57:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gripped.com/wp-content/uploads/2025/01/uznik.jpg",
+    "performance_score": 0,
+    "domain_rank": 33724,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f60fcce8d16c61ae46f5de811f79d8594cd4c1d6",
+  "url": "https://bvmsports.com/2025/01/23/a-surprisingly-flowy-flash-of-a-daniel-woods-v14",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Aaron Pardy",
+  "published": "2025-01-23T23:57:00.000+02:00",
+  "title": "A Surprisingly Flowy Flash of a Daniel Woods V14",
+  "text": "A Surprisingly Flowy Flash of a Daniel Woods V14\nOn November 8, Austrian climber Nicolai Užnik flashed American Gangster V14 (8B+) in Zillertal, Austria. The five-star problem was established by Daniel Woods in 2009 and has since seen repeats by Paul Robinson, Jimmy Webb, and Pietro Vidi, among others. Starting and ending with a jug, the powerful line links a couple two-move V12s into a committing finish. Although footage had been released in the past, Mellow just released full send video of Užnik’s ascent, which you can watch below. “After having narrowly missed out on flashing another boulder of this grade not too long ago, this time I got...\nRead more at\n Gripped Magazine",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Health", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->sport climbing",
+    "Lifestyle and Leisure->exercise and fitness",
+    "Lifestyle and Leisure->outdoor recreational activities"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://gripped.com/news/a-surprisingly-flowy-flash-of-a-daniel-woods-v14/",
+    "https://www.gripped.com/news/a-surprisingly-flowy-flash-of-a-daniel-woods-v14/",
+    "https://gripped.com/news/a-surprisingly-flowy-flash-of-a-daniel-woods-v14"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Nicolai Užnik",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Paul Robinson",
+        "sentiment": "none"
+      },
+      {
+        "name": "Daniel Woods",
+        "sentiment": "none"
+      },
+      {
+        "name": "Pietro Vidi",
+        "sentiment": "none"
+      },
+      {
+        "name": "Jimmy Webb",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "Zillertal",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:07:29.224+02:00",
+  "updated": "2025-01-24T00:07:29.224+02:00"
+}

@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "56f58c2b60ac190ce3281c0f8afd0eb307c75d20",
+    "url": "https://westconcordmn.net/stories/triton-administrative-assistants-honored-with-cobra-pride-recognition,125671",
+    "site_full": "westconcordmn.net",
+    "site": "westconcordmn.net",
+    "site_section": "https://westconcordmn.net/news",
+    "site_categories": [],
+    "section_title": "News - West Concord Messenger",
+    "site_title": "Home - West Concord Messenger",
+    "title": "Triton Administrative Assistants Honored with Cobra Pride Recognition",
+    "title_full": "Triton Administrative Assistants Honored with Cobra Pride Recognition",
+    "published": "2025-09-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn2.creativecirclemedia.com/mainstreet/original/20250916-093645-95e-Admin%20Assist%20%281%29.jpg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "56f58c2b60ac190ce3281c0f8afd0eb307c75d20",
+  "url": "https://westconcordmn.net/stories/triton-administrative-assistants-honored-with-cobra-pride-recognition,125671",
+  "ord_in_thread": 0,
+  "author": "Triton School",
+  "published": "2025-09-16T03:00:00.000+03:00",
+  "title": "Triton Administrative Assistants Honored with Cobra Pride Recognition",
+  "text": "Triton's Administrative Assistants were honored with the Cobra Pride Recognition at the School Board meeting on September 15.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->teachers",
+    "Education->school",
+    "Social Issue->communities",
+    "Social Issue->fraternal and community group",
+    "Social Issue->social networking",
+    "Human Interest->award and prize"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Triton",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "56f58c2b60ac190ce3281c0f8afd0eb307c75d20",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["West Concord"],
+      "state": ["Minnesota"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:15:42.539+03:00",
+  "updated": "2025-09-18T09:27:52.000+03:00"
+}

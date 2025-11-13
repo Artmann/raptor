@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "ac63f22c2585661dba6af2f00eb1e6afa9866699",
+    "url": "https://www.newsargus.com/news/national/nestle-has-found-itself-in-hot-water-over-filtering-so-called-natural-mineral-waters/image_b00ed83f-9474-5bbe-881c-929d9486f3b1.html",
+    "site_full": "www.newsargus.com",
+    "site": "newsargus.com",
+    "site_section": "http://www.newsargus.com/search/?f=rss&amp;t=article&amp;c=brunswick_beacon&amp;l=50&amp;s=start_time&amp;sd=desc",
+    "site_categories": ["media"],
+    "section_title": "www.newsargus.com - RSS Results",
+    "site_title": "newsargus.com",
+    "title": "Nestle has found itself in hot water over filtering so-called natural mineral waters",
+    "title_full": "Nestle has found itself in hot water over filtering so-called natural mineral waters",
+    "published": "2025-05-08T05:02:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/newsargus.com/content/tncms/assets/v3/editorial/b/00/b00ed83f-9474-5bbe-881c-929d9486f3b1/681c05b23a8c7.image.jpg?crop=341%2C341%2C85%2C0&amp;resize=200%2C200&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 117296,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ac63f22c2585661dba6af2f00eb1e6afa9866699",
+  "url": "https://www.newsargus.com/news/national/nestle-has-found-itself-in-hot-water-over-filtering-so-called-natural-mineral-waters/image_b00ed83f-9474-5bbe-881c-929d9486f3b1.html",
+  "ord_in_thread": 0,
+  "author": "FABRICE COFFRINI",
+  "published": "2025-05-08T05:02:00.000+03:00",
+  "title": "Nestle has found itself in hot water over filtering so-called natural mineral waters",
+  "text": "Nestle has found itself in hot water over filtering so-called natural mineral waters\n- FABRICE COFFRINI\n- Updated\nTags\nAs featured on\nFrench authorities ordered Nestle on Wednesday to stop filtering its Perrier and held back on allowing the under-pressure brand from using the description 'natural mineral water'.\nLatest e-Edition\n- To view our latest e-Edition click the image on the left.\nMost Popular\nNewsletters - Sign up Today!\nSuccess! An email has been sent to with a link to confirm list signup.\nError! There was an error processing your request.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": ["Environment->water", "Environment->environmental pollution"],
+  "ai_allow": false,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "FABRICE COFFR",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Nestle",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Perrier",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "ac63f22c2585661dba6af2f00eb1e6afa9866699",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:36:50.285+03:00",
+  "updated": "2025-05-08T03:43:53.000+00:00"
+}

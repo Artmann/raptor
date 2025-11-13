@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "bfc93de59ab0023c246d7cb5cd030b047b84b782",
+    "url": "https://www.bastillepost.com/global/article/5205965-healthcare-professionals-trained-in-smoking-cessation-techniques-at-taco-workshop-in-hong-kong",
+    "site_full": "www.bastillepost.com",
+    "site": "bastillepost.com",
+    "site_section": "https://www.bastillepost.com/global",
+    "site_categories": ["media", "travel", "japan", "top_news_hk", "top_news"],
+    "section_title": "Bastillepost",
+    "site_title": "巴士的報",
+    "title": "Healthcare Professionals Trained in Smoking Cessation Techniques at TACO Workshop in Hong Kong",
+    "title_full": "Healthcare Professionals Trained in Smoking Cessation Techniques at TACO Workshop in Hong Kong",
+    "published": "2025-09-18T07:40:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "HK",
+    "main_image": "https://image.bastillepost.com/1200x/wp-content/uploads/global/2025/09/P2025091800321_photo_1312622_FB.jpg",
+    "performance_score": 0,
+    "domain_rank": 96560,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bfc93de59ab0023c246d7cb5cd030b047b84b782",
+  "url": "https://www.bastillepost.com/global/article/5205965-healthcare-professionals-trained-in-smoking-cessation-techniques-at-taco-workshop-in-hong-kong",
+  "ord_in_thread": 0,
+  "author": "Bastillepost",
+  "published": "2025-09-18T07:40:00.000+03:00",
+  "title": "Healthcare Professionals Trained in Smoking Cessation Techniques at TACO Workshop in Hong Kong",
+  "text": "DH holds training workshop on comprehensive smoking cessation intervention for local, Mainland and Macao healthcare professionals\nThe Tobacco and Alcohol Control Office (TACO) of the Department of Health (DH) today (September 18) commenced a two-day training workshop on comprehensive smoking cessation intervention for healthcare professionals, attracting over 140 healthcare professionals from Hong Kong, the Mainland and Macao.\nThe training aims to enhance healthcare professionals' skills in providing smoking cessation services. Content includes smoking cessation counselling, prevention of relapse, treatment of tobacco dependence, motivational interviewing in smoking cessation, case studies of smoking cessation and pharmacotherapy. The training provides healthcare professionals with the knowledge and skills necessary for different smoking cessation interventions, preparing them to help smokers quit smoking by various channels.\nSince being designated as a World Health Organization (WHO) Collaborating Centre for Smoking Cessation and Treatment of Tobacco Dependence in 2012, the DH has served as a regional hub for supporting training in smoking cessation treatment and services. It regularly provides training in smoking cessation treatment for healthcare professionals locally, on the Mainland and across the entire Western Pacific region. In addition to organising this training workshop, TACO organises the Annual Training Programme on Tobacco Control for tobacco control and smoking cessation practitioners across the Western Pacific region, and conducts Chinese Medicine (CM)Acupuncture Smoking Cessation Training Workshop to help frontline CM practitioners enhance their knowledge and skills in delivering cessation treatment.\nOf the 144 healthcare professionals who participated in the training course this year, 43 were from Mainland China and Macao. This facilitated the exchanges of insights on tobacco control and the sharing of experiences in smoking cessation services among local and regional healthcare practitioners. Since 2021, a cumulative total of over 580 local and non-local healthcare professionals have participated in the training workshop on comprehensive smoking cessation intervention organised by the DH.\nThe Government has introduced various tobacco control measures, including strengthening smoking cessation services. In this connection, the DH will further promote smoking cessation services and provide continued support in cessation training and assistance. Members of the public can call 1833 183 or visit the smoking cessation thematic website for more information on quitting and the available support tools and services.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Health", "Education", "Social Issue"],
+  "topics": [
+    "Health->health care approach",
+    "Health->health treatment and procedure",
+    "Health->health organisation",
+    "Education->adult and continuing education",
+    "Social Issue->addiction",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Macao",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "TACO Workshop",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "World Health Organization",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Department of Health",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_hk", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:49:27.560+03:00",
+  "updated": "2025-09-19T09:09:25.000+03:00"
+}

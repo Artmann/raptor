@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "c0cf0dcbf456237690a64c399f7dcdcba66b2617",
+    "url": "https://www.newsbreak.com/news/4240821947375-toby-s-house-crisis-nursery-gets-new-home",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/great-falls-mt",
+    "site_categories": ["under_construction"],
+    "section_title": "Great Falls, MT Local News and More | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Toby's house crisis nursery gets new home - NewsBreak",
+    "title_full": "Toby's house crisis nursery gets new home - NewsBreak",
+    "published": "2025-09-18T00:13:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/34DoDw_14q8wIKK00",
+    "performance_score": 0,
+    "domain_rank": 2819,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c0cf0dcbf456237690a64c399f7dcdcba66b2617",
+  "url": "https://www.newsbreak.com/news/4240821947375-toby-s-house-crisis-nursery-gets-new-home",
+  "ord_in_thread": 0,
+  "author": "Fairfield Sun Times",
+  "published": "2025-09-18T00:13:00.000+03:00",
+  "title": "Toby's house crisis nursery gets new home - NewsBreak",
+  "text": "9 hours ago Toby's House Crisis Nursery in Great Falls has a new home in the works after a donor purchased a new site for the nonprofit. Read full article\nRead in NewsBreak",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Social Issue", "Education"],
+  "topics": [
+    "Social Issue->family",
+    "Social Issue->children",
+    "Social Issue->social services",
+    "Education->early childhood education",
+    "Education->parents group"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Toby",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Dick",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Arizona Weather Force",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": ["Great Falls"],
+      "state": ["Montana"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:48:06.556+03:00",
+  "updated": "2025-09-18T09:59:52.512+03:00"
+}

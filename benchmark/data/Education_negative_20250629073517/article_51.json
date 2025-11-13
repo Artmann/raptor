@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "8ee399f17b5211ee1de5869727e06721ca069bcd",
+    "url": "https://news.tvbs.com.tw/politics/2914224",
+    "site_full": "news.tvbs.com.tw",
+    "site": "tvbs.com.tw",
+    "site_section": "https://news.tvbs.com.tw/meteorological",
+    "site_categories": ["media"],
+    "section_title": "天氣預報，氣象報告｜TVBS新聞網",
+    "site_title": null,
+    "title": "「準公幼政策失衡！」　幼教工會：擠壓公幼空間│TVBS新聞網",
+    "title_full": "「準公幼政策失衡！」　幼教工會：擠壓公幼空間│TVBS新聞網",
+    "published": "2025-06-26T07:59:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://cc.tvbs.com.tw/img/upload/2025/06/26/20250626125333-3c04bd8a.jpg",
+    "performance_score": 0,
+    "domain_rank": 16317,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8ee399f17b5211ee1de5869727e06721ca069bcd",
+  "url": "https://news.tvbs.com.tw/politics/2914224",
+  "ord_in_thread": 0,
+  "author": "邱婉柔",
+  "published": "2025-06-26T07:59:00.000+03:00",
+  "title": "「準公幼政策失衡！」　幼教工會：擠壓公幼空間│TVBS新聞網",
+  "text": "為彌補公幼的不足，政府多年前開始推動準公共化平價幼兒園，從107學年度至今，數量已增加近七倍，預算也從一年63億元增加到現在的218億元．不過全國幼教產業工會批評，施政多年卻出現資源錯置、品質失衡等問題，甚至還擠壓公立幼兒園的招生空間！\n新聞旁白(2024.9.12)：「下一秒卻疑似動手打了女童的臉，還用力拉扯睡袋。」\n還有北市信義區，爆出毛姓狼師的幼兒園，也是準公幼體系，兒虐案頻傳，也讓民團質疑，由政府協助成立的準公共幼兒園出了什麼問題，因為他們說有九成不當對待的案件，都來自準公共．而這準公共幼兒園，從107學年度至今，已成長了近七倍！\n全國幼教產業工會理事長許文菁：「準公共化幼兒園一直出現，這個有不當對待的案件產生，我覺得是跟(師資)有高度關聯，畢竟(有些)老師不具備，專業的教學背景。」\n原來，為防止準公幼招不到老師，教育部訂定相關細則，只要園所報請縣市府核准，即可聘用無幼教背景、僅受短期訓練的大學畢業生教學，工會認為，這根本影響幼教品質！\n全國幼教產業工會理事長許文菁：「它應該是要運用在，譬如說偏鄉或者是那個地方，人力人口比較不足的地方，才可以開放這一條，給園所使用，不然在市區，怎麼會有聘不到人力的問題。」\n畢竟準公共跟公幼相比，雖然準公共的月費，仍略高公幼，但因沒寒暑假，再加上有才藝課，不少家長，會選擇多花點錢，讓孩子去念準公共，這當然也衝擊到公幼，不少公幼只能縮班，或關閉，但越來越多的準公共，民團透露，雖大領政府補助，老師薪資不只沒跟上，也沒有相對完善的評鑑和退場機制！\n立委(民)林月琴：「政府貼補(準公共)的費用，跟貼補非營利的費用，差不多是一致的，那這樣子的話你管理的強度，應該要跟非營利一樣。」\n至於教育部，則回應，會持續辦理師資培育，但若準公共薪資不改善，或許培育再多人，也徒勞！",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Politics"],
+  "topics": [
+    "Education->parents group",
+    "Education->educational grading",
+    "Education->early childhood education",
+    "Social Issue->social services",
+    "Politics->education policy",
+    "Politics->civil rights",
+    "Politics->government policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T08:06:54.643+03:00",
+  "updated": "2025-06-26T05:17:55.000+00:00"
+}

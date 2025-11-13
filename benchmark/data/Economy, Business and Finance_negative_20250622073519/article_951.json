@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "2dcf4dbe0f8ce9128b371c7cba2a6ce18adb7414",
+    "url": "https://news.myseldon.com/en/news/index/331013253",
+    "site_full": "news.myseldon.com",
+    "site": "myseldon.com",
+    "site_section": "https://news.myseldon.com/en/rubric/15",
+    "site_categories": ["media"],
+    "section_title": "Seldon.News - your go-to news aggregator",
+    "site_title": null,
+    "title": "Законодатели просят компанию Tesla отложить запуск сервиса Robotaxi: в чем причина? | Cars & Motorcycles | Seldon News",
+    "title_full": "Законодатели просят компанию Tesla отложить запуск сервиса Robotaxi: в чем причина? | Cars & Motorcycles | Seldon News",
+    "published": "2025-06-19T07:43:11.111+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://storage.myseldon.com/news-pict-d8/D89746888DA2D9510B64A9F031EAECD5",
+    "performance_score": 0,
+    "domain_rank": 21802,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2dcf4dbe0f8ce9128b371c7cba2a6ce18adb7414",
+  "url": "https://news.myseldon.com/en/news/index/331013253",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-19T07:43:11.111+03:00",
+  "title": "Законодатели просят компанию Tesla отложить запуск сервиса Robotaxi: в чем причина? | Cars & Motorcycles | Seldon News",
+  "text": "Законодатели Техаса попросили компанию Tesla отложить свой план Robotaxi, запуск которого изначально планировалось осуществить в Остине, на...",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Politics", "Social Issue"],
+  "topics": [
+    "Economy, Business and Finance->corporate news and profiles",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Politics->government policy",
+    "Social Issue->mankind",
+    "Social Issue->social problem",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:43:11.111+03:00",
+  "updated": "2025-06-19T04:46:53.000+00:00"
+}

@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "9d9e355c8129d076894d46009be00a498458b306",
+    "url": "https://trib.com/opinion/column/article_600bc9a8-1439-4ee1-b76c-51cc2292a0c8.html",
+    "site_full": "trib.com",
+    "site": "trib.com",
+    "site_section": "https://trib.com/search/?f=rss&amp",
+    "site_categories": ["media", "education", "business"],
+    "section_title": "trib.com - RSS Results",
+    "site_title": "Casper Star-Tribune | Breaking News | Get the latest news, weather and sports from Casper Star Tribune.",
+    "title": "Court should uphold Education Savings Accounts in Wyoming",
+    "title_full": "Court should uphold Education Savings Accounts in Wyoming",
+    "published": "2025-06-26T12:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/c/d6/cd651a94-b252-11ef-ab91-870170602d4b/6750728a599a5.image.jpg?crop=1177%2C618%2C0%2C571",
+    "performance_score": 0,
+    "domain_rank": 11001,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9d9e355c8129d076894d46009be00a498458b306",
+  "url": "https://trib.com/opinion/column/article_600bc9a8-1439-4ee1-b76c-51cc2292a0c8.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T12:00:00.000+03:00",
+  "title": "Court should uphold Education Savings Accounts in Wyoming",
+  "text": "The Wyoming Education Association’s (WEA) lawsuit against school-choice legislation reveals its hostility to children, families and education freedom.\nThe timing of it is particularly egregious, coming two weeks before money from the expanded Education Savings Account (ESA) program was to be distributed by the state to parents and used for tuition, homeschooling, curriculum and other expenses for the upcoming school year. Schools, in particular, will be hit hard by the suit. Those that are expecting payments from parents receiving the $7,000 ESA now won’t have money to hire teachers and prepare classrooms at a pivotal time.\nAs Superintendent of Public Instruction Megan Degenfelder told Cowboy State Daily recently, “Left wing lawfare is what they do… But what deeply troubles me is the timing. The Education Savings Account program became law last year, with some changes made this year. To wait until two weeks before the funds are to begin distribution to ask for an injunction is devastating to the nearly 4,000 Wyoming families that have signed up for the program and the many service providers that are counting on those families. This is reckless and our Wyoming children are the collateral damage.\"\nThankfully, there is a vast body of legal precedent that supports an ultimate victory for the ESA legislation and the nearly 4,000 families seeking to help their children reach their highest potential outside of traditional public schools.\nThe WEA claims the legislation violates the Wyoming Constitution’s requirement to provide a “complete and uniform education,” and argues that it means the state should only fund public schools and nothing else. But as research from Mountain States Policy Center shows, “Uniformity Clauses, however, were never intended to be a ceiling or limitation on creativity. Instead, they were simply meant to ensure there was a floor.”\nPlus, the U.S. Supreme Court has weighed in on this issue. For example, in 2002 the Supreme Court ruled in Zelman v. Simmons-Harris that governments may fund any school, including religious ones, as long as it was on a voluntary basis. In 2021 it ruled in Carson v Makin that Maine couldn’t stop religious schools from receiving tuition assistance as it violated parents’ right to Free Exercise under the First Amendment. State court decisions across the country have also bolstered school choice programs.\nIn 2022 in a similar case dealing with ESAs in West Virginia, that state’s Supreme Court found, “the West Virginia Constitution does not prohibit the Legislature from enacting the Hope Scholarship Act in addition to providing for a thorough and efficient system of free schools. The Constitution allows the Legislature to do both of those things.”\nLike the WEA, opponents of ESAs in West Virginia argued that public schools would be hurt by students exiting to private schools and homeschooling. But as evidence in Arizona shows, the academic success of public school students improved even as thousands left public school systems for other options. The state has even saved money in the process.\nIn providing ESAs, Wyoming is not funding religious schools. It is instead allowing parents to use the money already set aside for their child or children’s education to choose how to best allocate it. In essence, ESAs place parents on the same footing as the WEA as arbiters of what constitutes a good education. They do not create a new system. Instead, they simply redistribute power from the union alone to parents throughout the state.\nInterest in the case is so strong that on June 20th the Partnership for Educational Choice, a collaboration between nonprofits EdChoice and the Institute for Justice, filed a motion to intervene in the WEA’s case against the state. It represents two Wyoming families, one in Casper and one in Cody, that have applied for the ESA program and want to be included as defendants in the case given how essential they find the funding to the educational success of their children.\nRealizing the individual needs and different learning styles of children, including those with special needs, learning disabilities and other issues, it is not only unfair of the WEA to sue, but cruel. Just as other judges have done across the country, the court should quickly decide in favor of the thousands of families eager to pursue an education option that best suits their children.\nMarta Mossburg lives in Riverton. She is a research fellow at Mountain States Policy Center, an independent research organization based in Idaho, Montana, Washington and Wyoming. Online at mountainstatespolicy.org.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education", "Politics", "Social Issue"],
+  "topics": [
+    "Education->school",
+    "Education->parents group",
+    "Education->educational grading",
+    "Politics->education policy",
+    "Politics->government",
+    "Politics->political process",
+    "Social Issue->social services",
+    "Social Issue->children",
+    "Social Issue->family"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "http://mountainstatespolicy.org",
+    "http://www.mountainstatespolicy.org"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Megan Degenfelder",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Wyoming Education Association",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Cowboy State Daily",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T12:19:30.095+03:00",
+  "updated": "2025-06-26T09:31:05.000+00:00"
+}

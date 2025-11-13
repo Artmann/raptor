@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "69b3bd42f0cef92018e6a35e19cb6fbbbce58603",
+    "url": "https://www.newsbreak.com/west-palm-beach-fl/3279892093988-construction-worker-dies-days-after-hit-and-run-crash-driver-at-large",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/wptv-west-palm-beach-563672",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "WPTV West Palm Beach | NewsBreak",
+    "title": "Construction worker dies days after hit-and-run crash, driver at large",
+    "title_full": "Construction worker dies days after hit-and-run crash, driver at large",
+    "published": "2023-12-29T00:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/2s0ima_0qStzMjf00?type=thumbnail_1600x1200",
+    "performance_score": 0,
+    "domain_rank": 3324,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "69b3bd42f0cef92018e6a35e19cb6fbbbce58603",
+  "url": "https://www.newsbreak.com/west-palm-beach-fl/3279892093988-construction-worker-dies-days-after-hit-and-run-crash-driver-at-large",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NewsBreak Original",
+  "published": "2023-12-29T00:00:00.000+02:00",
+  "title": "Construction worker dies days after hit-and-run crash, driver at large",
+  "text": "A 67-year-old road construction worker has died five days after being critically injured in a hit-and-run crash in a construction zone in West Palm Beach. The crash happened on Dec. 21 on North Congress Avenue and Executive Center Drive. West Palm Beach police said Louis Vixon, of Miami, was working in a coned-off area where overnight road resurfacing was taking place, when he was struck by a dark-colored car. The impact catapulted him into a second worker. A passing West Palm Beach Fire Department rescue truck, responding to another call, stopped to render aid and took Vixon to St. Mary’s Medical Center. Vixon underwent hours of surgery for his internal injuries. The second worker was not injured. Vixon remained in critical condition in the hospital’s trauma intensive care unit. He was declared brain dead on Christmas Eve, and died the morning after Christmas. West Palm Beach Police Department Traffic Homicide Unit investigators are still looking for a dark passenger car with visible damage. Anyone who sees a car matching the description with recent damage, or has information about this crash, should call traffic homicide investigator Mark Hatfield at 561-822-1784, or report the information anonymously to Crime Stoppers of Palm Beach County at 800-458-TIPS (8477), or online at www.CrimeStoppersPBC.com .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Disaster and Accident", "Labor"],
+  "external_links": [
+    "https://www.wptv.com/news/region-c-palm-beach-county/west-palm-beach/construction-worker-critically-injured-in-hit-and-run-crash",
+    "http://www.CrimeStoppersPBC.com",
+    "https://wptv.com/news/region-c-palm-beach-county/west-palm-beach/construction-worker-critically-injured-in-hit-and-run-crash",
+    "http://CrimeStoppersPBC.com"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "louis vixon",
+        "sentiment": "none"
+      },
+      {
+        "name": "vixon",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "st. mary’s medical center",
+        "sentiment": "none"
+      },
+      {
+        "name": "north congress avenue and executive center drive",
+        "sentiment": "none"
+      },
+      {
+        "name": "west palm beach fire department",
+        "sentiment": "none"
+      },
+      {
+        "name": "west palm beach police department traffic homicide unit",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "west palm beach",
+        "sentiment": "none"
+      },
+      {
+        "name": "miami",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:18:15.494+02:00",
+  "updated": "2023-12-29T00:18:15.494+02:00"
+}

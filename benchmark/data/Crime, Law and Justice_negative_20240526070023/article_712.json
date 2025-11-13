@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "d5230fb6bd2a0326a513358293c3f6039c3765f0",
+    "url": "https://abcnews4.com/news/local/inmate-found-unresponsive-at-charleston-county-detention-center-dies-at-musc-ccso-charleston-county-sheriff-office-medical-university-of-south-carolina-sc-wciv",
+    "site_full": "abcnews4.com",
+    "site": "abcnews4.com",
+    "site_section": "http://abcnews4.com",
+    "site_categories": ["media"],
+    "section_title": "chevron-right",
+    "title": "chevron-right",
+    "title_full": "chevron-right",
+    "published": "2024-04-25T21:50:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://abcnews4.com/resources/media/60231352-a90d-4037-b440-c5b4bb469acf-large16x9_CopyofThumbnails.png",
+    "performance_score": 0,
+    "domain_rank": 16072,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d5230fb6bd2a0326a513358293c3f6039c3765f0",
+  "url": "https://abcnews4.com/news/local/inmate-found-unresponsive-at-charleston-county-detention-center-dies-at-musc-ccso-charleston-county-sheriff-office-medical-university-of-south-carolina-sc-wciv",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Matthew Sockol",
+  "published": "2024-04-25T21:50:00.000+03:00",
+  "title": "chevron-right",
+  "text": "CHARLESTON COUNTY, S.C. (WCIV) — An inmate at the Sheriff Al Cannon Detention Center died in medical care a day after hanging himself while in custody. 33-year-old Forrest Michael Kreider of Michigan was identified as the deceased by the Charleston County Coroner's Office. Read more: [Charleston Animal Society offers $3,000 reward after finding neglected, emaciated dog](https://abcnews4.com/news/local/charleston-animal-society-offers-3000-reward-after-finding-neglected-emaciated-dog-wciv-abc-news-4-whitney-veterinarian) According to the Charleston County Sheriff's Office (CCSO), deputies responded to the detention center on April 23 shortly after 10 a.m. for reports of an apparent suicide. EMS arrived and was able to regain a pulse for the unresponsive inmate. The inmate was transported to the Medical University of South Carolina (MUSC) for treatment and died on April 24 at approximately 7 p.m. According to the coroner's office, Kreider died from asphyxia due to hanging. The death was determined to be suicide. Read more: [Walterboro man sentenced 60 years in prison after murdering ex-girlfriend in parking lot](https://abcnews4.com/news/local/walterboro-man-sentenced-60-years-in-prison-after-murdering-ex-girlfriend-south-carolina-true-crime-news-abc-wciv-news-4-2024) Kreider was booked at the Sheriff Al Cannon Detention Center on Jan. 7 and charged with assault and battery in the first degree. He was being held on $30,000 bond, according to jail records. The South Carolina Law Enforcement Division (SLED) is investigating the incident.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Health"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "forrest michael kreider",
+        "sentiment": "none"
+      },
+      {
+        "name": "kreider",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "sheriff al cannon detention center",
+        "sentiment": "negative"
+      },
+      {
+        "name": "charleston county sheriff's office",
+        "sentiment": "none"
+      },
+      {
+        "name": "charleston county coroner's office",
+        "sentiment": "none"
+      },
+      {
+        "name": "medical university of south carolina",
+        "sentiment": "none"
+      },
+      {
+        "name": "ems",
+        "sentiment": "none"
+      },
+      {
+        "name": "musc",
+        "sentiment": "none"
+      },
+      {
+        "name": "charleston animal society",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "s.c.",
+        "sentiment": "none"
+      },
+      {
+        "name": "charleston county",
+        "sentiment": "none"
+      },
+      {
+        "name": "walterboro",
+        "sentiment": "none"
+      },
+      {
+        "name": "michigan",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:31:46.952+03:00",
+  "updated": "2024-04-26T00:31:46.952+03:00"
+}

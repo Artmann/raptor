@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "1bce98b58920edac11a0f9e591a745342a449d05",
+    "url": "https://www.elesquiu.com/sociedad/2025/9/18/concientizacion-estudiantes-sobre-la-nocividad-del-tabaco-en-el-rodeo-568592.html",
+    "site_full": "www.elesquiu.com",
+    "site": "elesquiu.com",
+    "site_section": "https://elesquiu.com",
+    "site_categories": ["tech", "top_news_ar", "top_news"],
+    "section_title": "El Esquiu -  Diario de Catamarca - Argentina",
+    "site_title": "El Esquiu -  Diario de Catamarca - Argentina",
+    "title": "Concientización a estudiantes sobre la nocividad del tabaco en El Rodeo",
+    "title_full": "Concientización a estudiantes sobre la nocividad del tabaco en El Rodeo",
+    "published": "2025-09-18T05:08:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "https://www.elesquiu.com/u/fotografias/m/2025/9/18/f1280x720-566821_698496_5050.jpg",
+    "performance_score": 0,
+    "domain_rank": 76586,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1bce98b58920edac11a0f9e591a745342a449d05",
+  "url": "https://www.elesquiu.com/sociedad/2025/9/18/concientizacion-estudiantes-sobre-la-nocividad-del-tabaco-en-el-rodeo-568592.html",
+  "ord_in_thread": 0,
+  "author": "Redacción El Esquiu",
+  "published": "2025-09-18T05:08:00.000+03:00",
+  "title": "Concientización a estudiantes sobre la nocividad del tabaco en El Rodeo",
+  "text": "Concientización a estudiantes sobre la nocividad del tabaco en El Rodeo\nVanessa Perea y Mariné Rearte, de la Dirección de Enfermedades Crónicas, comentaron a El Esquiú Play acerca de las actividades que se van a realizar desde este jueves en la villa de El Rodeo por la Semana del Estudiante: “Vamos a estar en la hostería junto con otros ministerios y realizando las actividades propuestas por nuestra dirección, que un poco van a ser una interacción, un feedback con los chicos.\nDurante el juego, aprendemos y también realizamos las actividades de prevención y promoción para la salud. Va a haber también premios”, manifestó Rearte y llamó a los papás a que acompañen, “para aprender un poco de todo lo que está surgiendo ahora con respecto también a esta nueva moda, que es los vaper y hablar también un poquito de cada programa”.\nAsimismo, señaló: “Estamos trabajando, promocionando, pidiendo a otros organismos que nos ayuden a difundir un poco lo nocivo de este producto (por los vapeadores), como siempre lo hemos estado dando a conocer, sobre todo cómo las tabacaleras, vuelvo a recalcar, van agregando sustancias tan nocivas a dicho elemento y el desconocimiento que sigue habiendo en los jóvenes es inmenso. Sobre todo, hablamos de agregados, te puedo nombrar algunos, como el CBD, el fentanilo, que es una sustancia que está en auge ahora”.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Health", "Education", "Social Issue"],
+  "topics": [
+    "Health->public health",
+    "Health->communicable disease",
+    "Health->health organisation",
+    "Education->students",
+    "Education->curriculum",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mariné Reart",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Rearte",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Dirección de Enfermedades Crónicas",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ar", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:17:59.401+03:00",
+  "updated": "2025-09-18T09:25:36.000+03:00"
+}

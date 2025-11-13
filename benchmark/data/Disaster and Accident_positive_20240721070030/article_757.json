@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "0378bb6996236aebae9970653972808b447bd9c4",
+    "url": "https://english.news.cn/20240624/c7ec5e381494483b8a05a8794c1cd10c/c.html",
+    "site_full": "english.news.cn",
+    "site": "news.cn",
+    "site_section": "https://www.google.com/alerts/feeds/08180648316426821174/6322528772732512117",
+    "site_categories": ["media"],
+    "section_title": "Google Alert - \"Carbon utilization\" OR \"Climate change\" OR \"CO2 Emissions\" OR \"Carbon Capture Storage\" OR \"Formic Acid\" OR \"CO2 Utilization\" OR \"Recycling\" OR \"Carbon Recycling\" OR \"Clean Tech\" OR \"Energy Storage\" OR \"Fuel Cell\"",
+    "title": "News Analysis: Experts urge greater efforts to address climate change as heatwaves hit Egypt -Xinhua",
+    "title_full": "News Analysis: Experts urge greater efforts to address climate change as heatwaves hit Egypt -Xinhua",
+    "published": "2024-06-23T20:26:02.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 992,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0378bb6996236aebae9970653972808b447bd9c4",
+  "url": "https://english.news.cn/20240624/c7ec5e381494483b8a05a8794c1cd10c/c.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-06-23T20:26:02.000+03:00",
+  "title": "News Analysis: Experts urge greater efforts to address climate change as heatwaves hit Egypt -Xinhua",
+  "text": "CAIRO, June 23 (Xinhua) -- Egypt has suffered successive heatwaves for 10-14 days, longer than a typical duration of 4-5 days. Moreover, the southern Aswan Governorate recently recorded temperatures of over 50 degrees Celsius and reported dozens of heat-related deaths.\nEgyptian experts said the recent rise in temperatures underscores the urgent need for heightened measures to combat climate change.\nThe surge in temperatures is also attributed to the existence of a high-pressure system, known as a \"thermal dome,\" Mahmoud Shaheen, director general of the Forecasts and Early Warning Center at the Egyptian Meteorological Authority, told Xinhua.\nShaheen expected continued higher-than-usual temperatures throughout this summer and the upcoming seasons.\nAmr Abdel-Aziz, director of the Climate Change Department at the Egyptian Ministry of Environment, linked the temperature increase in Egypt to the mounting thermal emissions and resulting global climate change.\n\"Egypt is making great efforts to contribute to reducing the volume of thermal emissions. However, this requires solidarity and broad international participation,\" he said.\nAbdel-Aziz highlighted Egypt's endeavors in three steps to confront climate change and alleviate its negative impacts.\n\"The first is monitoring and predicting factors concerning climate change, especially temperatures, humidity, and rainfall, which affect activities in Egypt in one way or another,\" said the official.\nThe second is conducting a continuous risk assessment of climate change, focusing on the effects of increasing temperatures on sectors such as human health, agriculture, water resources, and livestock, he added, noting that the third is taking adaptive measures such as developing agricultural and animal breeds that can withstand high temperatures or changing agricultural cycles.\nAbdel-Aziz also noted that an interactive map has been completed, in collaboration between the Ministry of Environment and relevant authorities, to project climate variables up to the year 2100.\nMustafa Sherbiny, an expert in sustainability and climate risk assessment, said the impacts of climate change are already evident, such as intense heatwaves, heavy rainfall, droughts, diminishing ice sheets, sea ice, and glaciers, as well as rapidly rising sea levels and ocean warming.\nThe expert said high temperatures are one of the primary adverse effects of climate change for Egypt, as they may lead to heat exhaustion, sunstroke, occupational injuries like burns and fainting, and worsening pre-existing conditions such as asthma, kidney disease, or heart disease in individuals.\nThese health impacts also carry economic ramifications, such as lower worker productivity, heightened healthcare expenses, and jeopardized financial stability for workers due to potential job loss, according to Sherbiny.\n\"The negative effects of extreme heat on health can be predicted and largely prevented through following policies and implementing specific and multiple interventions, which Egypt is already working on,\" the expert said. ■",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Health", "Environment"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "mahmoud shaheen",
+        "sentiment": "none"
+      },
+      {
+        "name": "amr abdel-aziz",
+        "sentiment": "none"
+      },
+      {
+        "name": "shaheen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "xinhua",
+        "sentiment": "negative"
+      },
+      {
+        "name": "egyptian meteorological authority",
+        "sentiment": "none"
+      },
+      {
+        "name": "climate change department",
+        "sentiment": "none"
+      },
+      {
+        "name": "forecasts and early warning center",
+        "sentiment": "none"
+      },
+      {
+        "name": "ministry of environment",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "xinhua cairo",
+        "sentiment": "none"
+      },
+      {
+        "name": "egypt",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-23T20:26:06.089+03:00",
+  "updated": "2024-06-23T21:15:13.773+03:00"
+}

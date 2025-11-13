@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "a75d00aed110c8fc5a524e44195d0ce31e5697fc",
+    "url": "https://www.newsvl.ru/accidents/2025/05/08/231534",
+    "site_full": "www.newsvl.ru",
+    "site": "newsvl.ru",
+    "site_section": "https://www.newsvl.ru/photos",
+    "site_categories": ["media", "top_news_ru", "top_news"],
+    "section_title": "Фоторепортажи",
+    "site_title": "Новости Владивостока на VL.ru",
+    "title": "На Фастовской загорелись два электромобиля на станции зарядки - Новости Владивостока на VL.ru",
+    "title_full": "На Фастовской загорелись два электромобиля на станции зарядки - Новости Владивостока на VL.ru",
+    "published": "2025-05-08T06:36:51.450+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://static.vl.ru/news/1746672382328_default",
+    "performance_score": 0,
+    "domain_rank": 73123,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a75d00aed110c8fc5a524e44195d0ce31e5697fc",
+  "url": "https://www.newsvl.ru/accidents/2025/05/08/231534",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T06:36:51.450+03:00",
+  "title": "На Фастовской загорелись два электромобиля на станции зарядки - Новости Владивостока на VL.ru",
+  "text": "Во Владивостоке снова пожар на станции зарядки электромобилей. На этот раз огонь на Фастовской. Горит сразу два автомобиля.\nПожарные прибыли на место и оперативно залили огонь пеной. Судя по всему, электромобиль Nissan LEAF загорелся, когда стоял на зарядке. Он выгорел полностью. Сильно пострадал автомобиль, который просто был припаркован рядом.\nПодробности выясняются.\nПроисшествияИсточник — Новости VL.ru",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Environment"],
+  "topics": [
+    "Crime, Law and Justice->arson",
+    "Environment->sustainability",
+    "Environment->energy resources",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:36:51.450+03:00",
+  "updated": "2025-05-08T03:40:44.000+00:00"
+}

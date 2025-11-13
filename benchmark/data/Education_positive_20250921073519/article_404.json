@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "84891d037d337c5533f7808d1258a2ef933664b7",
+    "url": "https://www.herald-dispatch.com/news/wvu-extension-brings-young-innovators-program-to-lincoln-county/article_8c62d23d-13ae-49ad-a33d-70d68bdc3006.html",
+    "site_full": "www.herald-dispatch.com",
+    "site": "herald-dispatch.com",
+    "site_section": "https://www.herald-dispatch.com/online_features/press_releases",
+    "site_categories": ["media"],
+    "section_title": "Press Releases | herald-dispatch.com",
+    "site_title": "herald-dispatch.com",
+    "title": "WVU Extension launches Young Innovators program in 16 West Virginia schools | News | herald-dispatch.com",
+    "title_full": "WVU Extension launches Young Innovators program in 16 West Virginia schools | News | herald-dispatch.com",
+    "published": "2025-09-18T07:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/custom/image/82e993e8-fba6-11eb-9b6f-f31780c4da4f.jpg?resize=600%2C315",
+    "performance_score": 0,
+    "domain_rank": 81099,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "84891d037d337c5533f7808d1258a2ef933664b7",
+  "url": "https://www.herald-dispatch.com/news/wvu-extension-brings-young-innovators-program-to-lincoln-county/article_8c62d23d-13ae-49ad-a33d-70d68bdc3006.html",
+  "ord_in_thread": 0,
+  "author": "HD Media",
+  "published": "2025-09-18T07:00:00.000+03:00",
+  "title": "WVU Extension launches Young Innovators program in 16 West Virginia schools | News | herald-dispatch.com",
+  "text": "MORGANTOWN — West Virginia University Extension, using funding from the Hayhurst Family and the Claude Worthington Benedum Foundation, will bring opportunities to local areas for West Virginia youth to learn about entrepreneurship.\nThe WVU Extension Young Innovators program, a free, hands-on initiative designed to empower middle and high school students with real-world skills in leadership, creativity and entrepreneurial problem-solving, will be available in 16 West Virginia middle and high schools for the 2025-26 academic year.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education"],
+  "topics": [
+    "Education->school",
+    "Education->early childhood education",
+    "Education->students"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Worthington Benedum Foundation",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": ["Huntington"],
+      "state": ["West Virginia"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:16:32.177+03:00",
+  "updated": "2025-09-18T08:24:46.000+03:00"
+}

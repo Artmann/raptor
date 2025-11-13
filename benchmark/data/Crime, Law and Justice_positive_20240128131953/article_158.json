@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "aafb7e882755ac62fa43c62ac917ebbd6df6a04b",
+    "url": "https://www.dawn.com/news/1801505",
+    "site_full": "www.dawn.com",
+    "site": "dawn.com",
+    "site_section": "https://www.dawn.com/pakistan",
+    "site_categories": ["media"],
+    "section_title": "Pakistan - DAWN.COM",
+    "title": "Khadija Shah acquitted in May 9 case - Newspaper - DAWN.COM",
+    "title_full": "Khadija Shah acquitted in May 9 case - Newspaper - DAWN.COM",
+    "published": "2023-12-29T04:11:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PK",
+    "main_image": "https://www.dawn.com/_img/social-default.jpg",
+    "performance_score": 0,
+    "domain_rank": 3100,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "aafb7e882755ac62fa43c62ac917ebbd6df6a04b",
+  "url": "https://www.dawn.com/news/1801505",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Saleem Shahid",
+  "published": "2023-12-29T04:11:00.000+02:00",
+  "title": "Khadija Shah acquitted in May 9 case - Newspaper - DAWN.COM",
+  "text": "QUETTA: Fashion designer Khadija Shah, arrested by Quetta police in connection with PTI’s May 9 violent attacks, was acquitted by an anti-terrorism court (ATC) on Thursday. Initially detained in Lahore, Ms Shah faced charges under Section 169 of the CrPC. After a three-day transit remand, she was brought to Quetta, where the ATC judge remanded her into police custody for three days. Later, she was held in Quetta police custody for seven days for further investigation into the May 9 violence following Imran Khan’s arrest. Police sought an extension of her remand, but the ATC judge rejected the request and discharged her from the case. Her lawyer, Iqbal Shah, had submitted an application, urging the police to present evidence supporting the allegations. He emphasised that if the police failed to prove the charges, Khadija Shah should be acquitted from the case registered under Section 169. He noted that Ms Shah was not produced in court until 4pm, and when he inquired at the woman police station, she was not present. The officials at the woman police station later said she had been acquitted in the case and had left for Islamabad. Published in Dawn, December 29th, 2023",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Crime, Law and Justice", "Human Interest"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "khadija shah",
+        "sentiment": "negative"
+      },
+      {
+        "name": "shah",
+        "sentiment": "none"
+      },
+      {
+        "name": "iqbal shah",
+        "sentiment": "none"
+      },
+      {
+        "name": "imran khan",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "atc",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "quetta",
+        "sentiment": "none"
+      },
+      {
+        "name": "quetta",
+        "sentiment": "none"
+      },
+      {
+        "name": "lahore",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T04:25:20.998+02:00",
+  "updated": "2023-12-29T04:25:20.998+02:00"
+}

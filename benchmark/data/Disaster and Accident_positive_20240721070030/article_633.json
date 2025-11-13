@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "8a4781da89cb068ce3c5f6395d2bc4851963c789",
+    "url": "https://www.king5.com/article/news/local/residents-thankful-home-after-wildfire-threat-near-yakima-washington/281-47ff00a5-6dd5-4cb6-9b00-b3c2892b9a17",
+    "site_full": "www.king5.com",
+    "site": "king5.com",
+    "site_section": "http://rssfeeds.king5.com/_/20/109845662/king5/local",
+    "site_categories": ["media"],
+    "section_title": "KING - Local",
+    "title": "Residents thankful to be home after wildfire threat near Yakima",
+    "title_full": "Residents thankful to be home after wildfire threat near Yakima",
+    "published": "2024-06-23T03:17:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.king5.com/assets/KING/images/37bb16e7-a600-417b-bbfe-d1425144ddd4/20240623T000759/37bb16e7-a600-417b-bbfe-d1425144ddd4_1140x641.jpg",
+    "performance_score": 0,
+    "domain_rank": 4176,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8a4781da89cb068ce3c5f6395d2bc4851963c789",
+  "url": "https://www.king5.com/article/news/local/residents-thankful-home-after-wildfire-threat-near-yakima-washington/281-47ff00a5-6dd5-4cb6-9b00-b3c2892b9a17",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jim Nelson",
+  "published": "2024-06-23T03:17:00.000+03:00",
+  "title": "Residents thankful to be home after wildfire threat near Yakima",
+  "text": "YAKIMA, Wash. — After a suspenseful day of burning, evacuations and simply waiting, people in the Terrace Heights area near Yakima are back home while crews monitor the [remnants of the Key Road fire. ](/article/news/local/wildfire/yakima-wildfire-evacuation-notices/281-f08ee12d-0be8-4a44-9f93-b87b44cdb5a2) \"It was no fun being around here,\" said Craig Rust, who lives about a quarter-mile away from the fire line. The county issued a Level 3 evacuation on Friday morning, June 21, telling residents to \"get out now.\" \"My wife was calling me and keeping me informed while I was at work,\" he said. \"She had everything ready, all the medications and money gathered up.\" The Rusts, like most residents in the immediate area, were without power as crews assessed the severity of the threat. \"The house was getting warm and it was getting warm around the corner where the fire was burning,\" Rust said. \"I was worried about my food spoiling in the refrigerator and freezer.\" According to Washington Department of Natural Resources spokesman Ryan Rudrock, the fire has been contained to just 25 acres at Sportsman State Park. He credited the [state's aerial attack initiative](/article/news/local/washington-aerial-firefighting-fleets-more-than-doubled-since-2016-wildfire-season/281-638a1b01-0a92-497e-b38c-bcda9f83d401) with limiting the spread of the fire, adding that four Yakima-based helicopters were in the air within minutes. \"That's why it's 25 acres and not the whole state park,\" Rudrock said. Shortly before 8 p.m. on Friday, the county reduced the evacuation to a Level 2, meaning people could go home, but were still warned to be ready to evacuate. By that point, crews were monitoring hot spots and addressing hazardous trees. On Saturday, they continued to monitor the area as temperatures soared toward 90 degrees. Red Flag Warning The National Weather Service (NWS) [ issued a Red Flag Warning](https://forecast.weather.gov/wwamap/wwatxtget.php?cwa=SEW&wwa=red%20flag%20warning) on Saturday, expecting dry and breezy conditions on Sunday. The Red Flag Warning is in effect from 1-8 p.m. Sunday for wind gusts and low humidity for fire weather zones of the Lower Columbia Basin in both Washington and Oregon. Winds could reach up to 40 miles per hour and the relative humidity could be as low as 15 percent. NWS warns that windy conditions combined with low humidity can result in rapid fire spread. \"A Red Flag Warning means that critical fire weather conditions are either occurring now, or will shortly. A combination of strong winds, low relative humidity, and warm temperatures can contribute to extreme fire behavior,\" according to the NWS. NWS also issued a wind advisory for Kittitas Valley, just north of Yakima, on Saturday. It will remain in effect from 5 a.m. Sunday to midnight Monday. Residents can expect northwest winds up to 35 miles per hour, with some gusts reaching 50 miles per hour, according to the NWS. The NWS warns gusty winds could dislodge tree limbs and lead to power outages.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://forecast.weather.gov/wwamap/wwatxtget.php?cwa=SEW&wwa=red%20flag%20warning",
+    "https://www.forecast.weather.gov/wwamap/wwatxtget.php?cwa=SEW&wwa=red%20flag%20warning",
+    "https://forecast.weather.gov/wwamap/wwatxtget.php"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "ryan rudrock",
+        "sentiment": "none"
+      },
+      {
+        "name": "craig rust",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "washington department of natural resources",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "yakima yakima",
+        "sentiment": "none"
+      },
+      {
+        "name": "wash.",
+        "sentiment": "none"
+      },
+      {
+        "name": "key road",
+        "sentiment": "none"
+      },
+      {
+        "name": "yakima",
+        "sentiment": "none"
+      },
+      {
+        "name": "rrace heights",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-23T03:27:26.566+03:00",
+  "updated": "2024-06-30T14:45:17.495+03:00"
+}

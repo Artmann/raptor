@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "d467bfd0e8087721d018617a7849f8af2cb96555",
+    "url": "https://www.sports.fr/football/ligue-europa/la-lazio-prend-la-tete-mu-sarrache-897390.html",
+    "site_full": "www.sports.fr",
+    "site": "sports.fr",
+    "site_section": "https://www.sports.fr/football/ligue-des-champions-football",
+    "site_categories": ["sports"],
+    "section_title": "Ligue des champions - Sports.fr",
+    "title": "La Lazio prend la tête, MU s'arrache",
+    "title_full": "La Lazio prend la tête, MU s'arrache",
+    "published": "2025-01-23T22:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://www.sports.fr/wp-content/uploads/2025/01/Matteo-Guendouzi-Valentin-Castellanos-et-Alessio-Romagnoli-Lazio.jpg",
+    "performance_score": 0,
+    "domain_rank": 53111,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d467bfd0e8087721d018617a7849f8af2cb96555",
+  "url": "https://www.sports.fr/football/ligue-europa/la-lazio-prend-la-tete-mu-sarrache-897390.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Arnold Fortin",
+  "published": "2025-01-23T22:30:00.000+02:00",
+  "title": "La Lazio prend la tête, MU s'arrache",
+  "text": "Il reste encore un match à jouer pour la Lazio et toutes les équipes engagées cette saison en Ligue Europa, mais le succès des Romains jeudi soir face à la Real Sociedad (3-1) leur permet d’espérer terminer premiers de la phase de ligue de la compétition. Contre l’équipe espagnole, ils n’ont pas tremblé une minute et ont rapidement plié la rencontre. Avant de se déplacer à Braga le 30 janvier prochain, ils comptent trois points d’avance sur l’Eintracht Francfort (victorieux ce soir contre Ferencvaros, 2-0) et autant sur l’Athlétic Bilbao (pulvérisé par le Besiktas, 4-1), avec une bien meilleure différence de buts (+7).\nLes buts de la Lazio ont été inscrits par Mario Gila (1-0, 5e), Mattia Zaccagni (2-0, 32e) et Valentin Castellanos (3-0, 34e). La Sociedad est passée totalement à côté de sa première période et s’est même retrouvée à dix avec les deux cartons jaunes reçus par Aihen Munoz (12e et 30e). La réduction de l’écart, signée Ander Barrenetxea en fin de match n’aura rien changé à l’histoire (3-1, 82e).\nManchester United devra encore lutter\nDans le même temps, Manchester United s’est fait une petite frayeur chez lui face aux Glasgow Rangers. Après avoir bénéficié d’un but contre-son-camp de Jack Butland (1-0, 52e), les Red Devils ont concédé l’égalisation à l’approche du temps additionnel (88e) mais Bruno Fernandes a permis aux siens de sauver la baraque quatre minutes plus tard (2-1, 90e+2). Un résultat qui permet à United de se hisser à la quatrième place avec quinze points.\nLa qualification directe est encore loin d’être acquise pour les hommes de Ruben Amorim. Il leur faudra réussir un bon match chez les Roumains du FCSB, quant à eux huitièmes. Pas une partie de plaisir.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->regular competition",
+    "Sport->soccer",
+    "Sport->sport event",
+    "Lifestyle and Leisure->game",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:44:43.273+02:00",
+  "updated": "2025-01-24T00:44:43.273+02:00"
+}

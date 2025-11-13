@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "a626dec0bbdedd8b3071af0b301e3dc129ffacf3",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/zcgyd/2025-09-18/doc-infqwutr9010230.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "https://finance.sina.cn",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪财经_金融信息服务商",
+    "site_title": null,
+    "title": "拓维信息股价涨5.51%，万家基金旗下2只基金重仓，合计持有30.8万股浮盈赚取65.31万元|拓维信息_新浪财经_新浪网",
+    "title_full": "拓维信息股价涨5.51%，万家基金旗下2只基金重仓，合计持有30.8万股浮盈赚取65.31万元|拓维信息_新浪财经_新浪网",
+    "published": "2025-09-18T08:04:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 548,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a626dec0bbdedd8b3071af0b301e3dc129ffacf3",
+  "url": "https://finance.sina.com.cn/money/fund/aiassistant/zcgyd/2025-09-18/doc-infqwutr9010230.shtml",
+  "ord_in_thread": 0,
+  "author": "小浪财讯",
+  "published": "2025-09-18T08:04:00.000+03:00",
+  "title": "拓维信息股价涨5.51%，万家基金旗下2只基金重仓，合计持有30.8万股浮盈赚取65.31万元|拓维信息_新浪财经_新浪网",
+  "text": "9月18日， 拓维信息 涨5.51%，截至发稿，报40.60元/股，成交46.18亿元，换手率10.29%，总市值511.39亿元。\n资料显示，拓维信息系统股份有限公司位于湖南省长沙市岳麓区桐梓坡西路298号，成立日期1996年5月20日，上市日期2008年7月23日，公司主营业务涉及面向K-12的教育服务和基于手机游戏、动漫的移动互联网产品。主营业务收入构成为：软件及服务72.71%，智能计算产品21.74%，其他5.55%。\n从基金十大重仓股角度\n数据显示，万家基金旗下2只基金重仓拓维信息股票，合计持有拓维信息30.8万股，按前一日收盘38.48元，今日截止发稿股价40.6元计算，日浮盈65.31万元。\n基金名称 基金代码 基金经理 持股数量(股) 占流通股比例(%) 占基金净值比(%) 持股数量变动(股) 万家中证软件服务ETF 560360 贺方舟 186549 0.0149 3.89 -37600 万家国证2000ETF 159628 杨坤 121500 0.0097 0.46 +24800\n其中，万家中证软件服务ETF（560360）二季度减持3.76万股，持有股数18.65万股，占基金净值比例为3.89%，位居第八大重仓股。根据测算，今日浮盈赚取约39.55万元。\n万家国证2000ETF（159628）二季度增持2.48万股，持有股数12.15万股，占基金净值比例为0.46%，位居第五大重仓股。根据测算，今日浮盈赚取约25.76万元。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Health", "Education"],
+  "topics": [
+    "Economy, Business and Finance->financial service",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->business reporting and performance",
+    "Health->health organisation",
+    "Health->medical service",
+    "Education->educational grading",
+    "Education->school",
+    "Education->curriculum"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+    "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+    "https://finance.sina.cn/app/sfa_macd.shtml"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_hk", "top_news_sg", "top_news_tw", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:09:33.919+03:00",
+  "updated": "2025-09-19T09:06:42.000+03:00"
+}

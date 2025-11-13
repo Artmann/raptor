@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "4cf2ff21b62c1c54cc71239f57dd3621d5a9a3b3",
+    "url": "https://www.soychile.cl/Valdivia/Sociedad/2025/10/16/925131/gore-los-rios-68-milones.html",
+    "site_full": "www.soychile.cl",
+    "site": "soychile.cl",
+    "site_section": "https://www.soychile.cl/copiapo/sociedad",
+    "site_categories": ["media", "top_news_cl", "top_news"],
+    "section_title": "Buscador | soychile.cl - Noticias de todo nuestro país | Soychile.cl",
+    "site_title": "soychile.cl  - Noticias de todo nuestro país",
+    "title": "Gore Los Ríos destinó $68 millones para fortalecer desarrollo cultural, social, deportivo y medioambiental | Soychile.cl",
+    "title_full": "Gore Los Ríos destinó $68 millones para fortalecer desarrollo cultural, social, deportivo y medioambiental | Soychile.cl",
+    "published": "2025-10-16T13:40:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CL",
+    "main_image": "https://img.soy-chile.cl/Fotos/2025/10/16/file_20251016103413.jpg",
+    "performance_score": 0,
+    "domain_rank": 61375,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4cf2ff21b62c1c54cc71239f57dd3621d5a9a3b3",
+  "url": "https://www.soychile.cl/Valdivia/Sociedad/2025/10/16/925131/gore-los-rios-68-milones.html",
+  "ord_in_thread": 0,
+  "author": "SoyChile",
+  "published": "2025-10-16T13:40:00.000+03:00",
+  "title": "Gore Los Ríos destinó $68 millones para fortalecer desarrollo cultural, social, deportivo y medioambiental | Soychile.cl",
+  "text": "El Gobierno Regional de Los Ríos y el Consejo Regional aprobaron una inversión total de $68.025.234 para cinco proyectos impulsados por los municipios de Paillaco, Río Bueno y Panguipulli que serán financiados a través de la línea de asignación directa a municipios de la subvención del 8 % del Presupuesto de Inversión Regional, instrumento que permite apoyar proyectos con pertinencia local y alto impacto social.Entre las iniciativas aprobadas se encuentra el Boulevard Cultural del Bueno: Artes, Música y Expresiones, impulsado por la Municipalidad de Río Bueno ($12 millones) y también en Río Bueno, la Primera Muestra Costumbrista Mapuche: Sabores y Tradiciones del Valle de Mantilhue ($17,5 millones).En Paillaco, el Core Los Ríos respaldó el proyecto Paillaco se Composta Bien, con una inversión regional de $6 millones 600 mil y el programa Más Deporte para Paillaco, con un financiamiento de $4 millones 500 mil.Finalmente, en Panguipulli se aprobó el Tercer Festival Gastronómico Sabor Fest Panguipulli 2025, con un aporte regional de 27 millones 300 mil pesos.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Environment", "Social Issue"],
+  "topics": [
+    "Environment->environmental pollution",
+    "Environment->sustainability",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Panguipulli",
+        "sentiment": "none"
+      },
+      {
+        "name": "Paillaco",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bueno",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Consejo Regional",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Municipalidad de Río Bueno",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_cl", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:49:04.392+03:00",
+  "updated": "2025-10-16T17:07:09.000+03:00"
+}

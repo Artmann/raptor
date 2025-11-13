@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "f680c50f9d53c385f3178b7bbb0fc65514c4ee95",
+    "url": "https://www.sidrolandia.ms.gov.br/noticias/infraestrutura/obras-executa-drenagem-e-limpeza-para-melhorar-o-escoamento-das-aguas-pluviais-em-sidrolandia",
+    "site_full": "www.sidrolandia.ms.gov.br",
+    "site": "sidrolandia.ms.gov.br",
+    "site_section": "https://www.sidrolandia.ms.gov.br/noticias",
+    "site_categories": [],
+    "section_title": "Notícias - Prefeitura de Sidrolândia",
+    "site_title": "Prefeitura de Sidrolândia",
+    "title": "Obras executa drenagem e limpeza para melhorar o escoamento das águas",
+    "title_full": "Obras executa drenagem e limpeza para melhorar o escoamento das águas",
+    "published": "2025-10-16T12:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BR",
+    "main_image": "https://cdn1.sidrolandia.ms.gov.br//uploads/rails_admin_content_builder/content_builder_image/image/13939/left_or_right_site__41_.png",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f680c50f9d53c385f3178b7bbb0fc65514c4ee95",
+  "url": "https://www.sidrolandia.ms.gov.br/noticias/infraestrutura/obras-executa-drenagem-e-limpeza-para-melhorar-o-escoamento-das-aguas-pluviais-em-sidrolandia",
+  "ord_in_thread": 0,
+  "author": "Comunicação",
+  "published": "2025-10-16T12:00:00.000+03:00",
+  "title": "Obras executa drenagem e limpeza para melhorar o escoamento das águas",
+  "text": "A Prefeitura de Sidrolândia, por meio da Secretaria Municipal de Infraestrutura (Seinfra), realizou um importante serviço de drenagem das águas pluviais no final da avenida Antero Lemes da Silva, no bairro Pé de Cedro.\nO local apresentava acúmulo de água e sujeira, que há anos não passava por limpeza, causando mau cheiro, proliferação de mosquitos e formação de larvas, o que comprometia as condições de higiene e bem-estar dos moradores da região.\nCom autorização da Secretaria de Meio Ambiente, foi possível remover uma grande pedra que obstruía a passagem da água, permitindo a limpeza completa e o fluxo adequado da drenagem.\nA ação faz parte do trabalho contínuo da Secretaria de Obras para melhorar a infraestrutura urbana, prevenir alagamentos e garantir mais qualidade de vida à população.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "portuguese",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->water", "Environment->environmental clean-up"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:43:09.364+03:00",
+  "updated": "2025-10-16T16:51:29.000+03:00"
+}

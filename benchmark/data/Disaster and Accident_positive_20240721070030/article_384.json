@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "fcd710ffcc92a54dcc78b01cd5e71dca502bffe5",
+    "url": "https://signalscv.com/2024/06/city-county-host-summer-fire-safety-event",
+    "site_full": "signalscv.com",
+    "site": "signalscv.com",
+    "site_section": "https://signalscv.com/feed/",
+    "site_categories": ["media"],
+    "section_title": "Santa Clarita Valley Signal",
+    "title": "City, county host summer fire safety event",
+    "title_full": "City, county host summer fire safety event",
+    "published": "2024-06-22T04:05:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://signalscv.s3.us-west-1.amazonaws.com/wp-content/uploads/2024/06/21175813/062124_FIRESAFETY_WEB_HM_10-scaled.jpg",
+    "performance_score": 0,
+    "domain_rank": 16343,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fcd710ffcc92a54dcc78b01cd5e71dca502bffe5",
+  "url": "https://signalscv.com/2024/06/city-county-host-summer-fire-safety-event",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Katherine Quezada",
+  "published": "2024-06-22T04:05:00.000+03:00",
+  "title": "City, county host summer fire safety event",
+  "text": "The city of Santa Clarita, in partnership with the L.A. County Fire Department, held a Summer Fire Safety Press Conference on Friday morning aimed to educate residents about the mitigation of wildfires and the dangers of fireworks, just a couple of weeks before the July 4 festivities.\nIn attendance at Towsley Canyon Park were local city officials, first responders, and nearly 400 goats and sheep as the main attraction. The goats were showcasing how the agencies are utilizing eco-friendly procedures to graze vegetation and diminish the chance of wildfires following numerous blazes that broke out last week, including the Post Fire that has burned over 15,000 acres.\n“Wildfire prevention is a shared responsibility and particularly vital in our community,” Councilman Jason Gibbs said to the audience.\nDue to the dry conditions and winds that the Santa Clarita Valley often faces, the threat of wildfires is higher, and blazes can quickly spread, causing extensive damage to structures and landscapes, he added.\nFifth District Supervisor Kathryn Barger asked that people not purchase fireworks for the upcoming summer celebrations as it can cause wildfires in the SCV and its unincorporated areas.\n“This whole area is a high fire zone. The city of Santa Clarita puts on an incredible firework show, please take advantage of it,” she said. “It’s about recognizing that we have to protect our community, but we also have to protect our loved ones.”\nShe also advised attendees to talk to their neighbors and educate them about the dangers that exist revolving blazes.\nThe 400 goats and sheep, provided by Shepherdess Land & Livestock, were grazing the open space overgrown with bushes, a procedure that is eco-friendly by minimizing the need for machinery.\nL.A County Fire Department Deputy Fire Chief Dennis Breshears spoke about how grazing helps with wildfires and discussed the steps residents can take if they are told to evacuate in case a blaze erupts.\n“Grazing helps reduce the density of vegetation thereby decreasing the fuel load available when we receive the wildland fire call,” he said.\nResidents were encouraged to create a ready, set, go plan that includes evacuation routes, and emergency contacts, and to stay aware of the latest news updates from local officials via social media platforms during an emergency, he added.\nFor evacuation orders and updates members of the community can download the\nGenasys Protect app that provides up to date information regarding emergency situations.\n“Don’t wait. Your safety and the safety of first responders rely on you doing timely evacuations,” Breshears said.\nSCV Sheriff’s Station Capt. Justin Diez was in attendance to speak about how the station will be handling illegal fireworks leading up to the July 4 festivities.\nResidents who are aware of illegal firework usage can report it through the resident service center.\nTips regarding illegal fireworks will not immediately receive a response from deputy sheriffs, but the information will be used for mapping and planning purposes, Diez said.\nDuring the Fourth of July holiday the SCV Sheriff’s Station typically receives 300 to 400 calls for service regarding fireworks in addition to all other regular calls for service, he added, and explicitly asked that residents only use the 9-1-1 number for emergencies. Illegal fireworks should be reported to the non-emergency business line number at 661-260-4000.\nThis year the station will have deputies dedicated to firework suppression and all fireworks, even those labeled safe and sane, are considered illegal throughout Santa Clarita and the valley’s unincorporated areas.\n“Any [fires] that start in Santa Clarita due to illegal fireworks use are going to be considered negligent and anybody responsible will face criminal charges,” Diez said.\nDuring the conference attendees were able to witness a water drop above the hillside performed by personnel with the L.A County Fire Department and get a close look at law enforcement vehicles and fire engines.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Health", "Human Interest", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://protect.genasys.com/download",
+    "https://www.protect.genasys.com/download"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "kathryn barger",
+        "sentiment": "none"
+      },
+      {
+        "name": "jason gibbs",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "l.a. county fire department",
+        "sentiment": "negative"
+      },
+      {
+        "name": "post",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "santa clarita",
+        "sentiment": "none"
+      },
+      {
+        "name": "santa clarita valley",
+        "sentiment": "none"
+      },
+      {
+        "name": "towsley canyon park",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-22T05:52:11.833+03:00",
+  "updated": "2024-06-22T05:52:11.833+03:00"
+}

@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "d842dedefa7bf31b4866a4ee1cdeed31ffb70985",
+    "url": "https://news.myseldon.com/en/news/index/331349194",
+    "site_full": "news.myseldon.com",
+    "site": "myseldon.com",
+    "site_section": "https://news.myseldon.com/en/rubric/9",
+    "site_categories": ["media"],
+    "section_title": "Seldon.News - your go-to news aggregator",
+    "site_title": null,
+    "title": "Публикации в международных научных базах перестанут учитывать при оценке НИУ | Science | Seldon News",
+    "title_full": "Публикации в международных научных базах перестанут учитывать при оценке НИУ | Science | Seldon News",
+    "published": "2025-06-26T09:54:07.172+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 21802,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d842dedefa7bf31b4866a4ee1cdeed31ffb70985",
+  "url": "https://news.myseldon.com/en/news/index/331349194",
+  "ord_in_thread": 0,
+  "author": "@Kommersant",
+  "published": "2025-06-26T09:54:07.172+03:00",
+  "title": "Публикации в международных научных базах перестанут учитывать при оценке НИУ | Science | Seldon News",
+  "text": "Публикации в международных научных базах перестанут учитывать при оценке НИУ Число публикаций и цитирований в международных научных базах Web of Science и Scopus больше не будут иметь значение при оценке эффективности вузов, имеющих статус научно-исследовательских университетов (НИУ). Это следует из проекта приказа Минобрнауки, опубликованного 25 июня для общественного обсуждения. Напомним, статус НИУ присваивается на конкурсной основе. Сейчас его имеют 29 учебных заведений, среди них — ВШЭ, МЭИ, МАИ, РНИМУ имени Пирогова, ИТМО, Томский госуниверситет. Этот статус дает вузам возможность...",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Politics", "Social Issue", "Education"],
+  "topics": [
+    "Politics->education policy",
+    "Social Issue->demographics",
+    "Social Issue->discrimination",
+    "Social Issue->social problem",
+    "Education->educational grading",
+    "Education->college and university"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T09:54:07.172+03:00",
+  "updated": "2025-06-26T06:57:55.000+00:00"
+}

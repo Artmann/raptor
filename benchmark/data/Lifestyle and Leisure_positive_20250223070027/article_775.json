@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "c46365ba6b3ffb8aad53a3a08949c3b782b62f70",
+    "url": "https://www.goal.com/en/lists/man-utd-player-ratings-vs-rangers-alejandro-garnacho-bruno-fernandes-harry-maguire/blt044973fccf122e62",
+    "site_full": "www.goal.com",
+    "site": "goal.com",
+    "site_section": "https://www.goal.com/en/news",
+    "site_categories": ["world_soccer", "sports"],
+    "section_title": "Football News, page 1 | Goal.com",
+    "title": "Man Utd player ratings vs Rangers: Bruno Fernandes bails out Harry Maguire! Captain's late volley grabs vital Europa League victory for Red Devils after costly slips from England defender | Goal.com",
+    "title_full": "Man Utd player ratings vs Rangers: Bruno Fernandes bails out Harry Maguire! Captain's late volley grabs vital Europa League victory for Red Devils after costly slips from England defender | Goal.com",
+    "published": "2025-01-24T05:11:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets.goal.com/images/v3/bltd082c6ed4fb859bf/crop/MM5DGNZSHA5DEMBZG45G433XMU5DAORSGUZA====/GettyImages-2195565746.jpg",
+    "performance_score": 0,
+    "domain_rank": 1783,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c46365ba6b3ffb8aad53a3a08949c3b782b62f70",
+  "url": "https://www.goal.com/en/lists/man-utd-player-ratings-vs-rangers-alejandro-garnacho-bruno-fernandes-harry-maguire/blt044973fccf122e62",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Richard Martin",
+  "published": "2025-01-24T05:11:00.000+02:00",
+  "title": "Man Utd player ratings vs Rangers: Bruno Fernandes bails out Harry Maguire! Captain's late volley grabs vital Europa League victory for Red Devils after costly slips from England defender | Goal.com",
+  "text": "Manchester United have one foot in the Europa League knockout stage after Bruno Fernandes nicked a barely deserved 2-1 win over Rangers. The Red Devils looked to have thrown away victory when Harry Maguire lost track of Cyriel Dessers and gifted the substitute striker an 88th-minute equaliser which cancelled out Jack Butland's own goal.\nBut less than three minutes later Lisandro Martinez picked out the Portuguese 'Magnifico' in the area and the captain volleyed low past Butland to give United a fourth consecutive Europa League victory which took them into fourth in the standings, within touching distance of clinching their place in the last 16 ahead of their final game of the league phase next week at FCSB.\nGOAL rates Man United's players from Old Trafford...",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->soccer",
+    "Lifestyle and Leisure->exercise and fitness",
+    "Lifestyle and Leisure->game",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Bruno Fernandes",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Harry Maguire",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Lisandro Martinez",
+        "sentiment": "none"
+      },
+      {
+        "name": "Jack Butland",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Manchester United",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Europa League",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Red Devils",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Rangers",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:34:09.936+02:00",
+  "updated": "2025-02-01T02:53:32.455+02:00"
+}

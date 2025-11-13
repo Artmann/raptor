@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "1582ccbd4597eb32b79c9d163aee81ca639d2627",
+    "url": "https://andina.pe/agencia/noticia-piura-supervisan-avances-del-proyecto-drenaje-pluvial-integral-sullana-y-bellavista-1048524.aspx",
+    "site_full": "andina.pe",
+    "site": "andina.pe",
+    "site_section": "https://andina.pe/agencia/rss",
+    "site_categories": ["travel", "south_america", "top_news_pe", "top_news"],
+    "section_title": "Agencia Peruana de Noticias Andina",
+    "site_title": "Agencia Peruana de Noticias | ANDINA",
+    "title": "Piura: supervisan avances del proyecto de drenaje pluvial integral de Sullana y Bellavista | Noticias | Agencia Peruana de Noticias Andina",
+    "title_full": "Piura: supervisan avances del proyecto de drenaje pluvial integral de Sullana y Bellavista | Noticias | Agencia Peruana de Noticias Andina",
+    "published": "2025-10-16T09:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PE",
+    "main_image": "https://portal.andina.pe/EDPfotografia3/Thumbnail/2025/10/16/001215969W.webp",
+    "performance_score": 0,
+    "domain_rank": 61993,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 2
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1582ccbd4597eb32b79c9d163aee81ca639d2627",
+  "url": "https://andina.pe/agencia/noticia-piura-supervisan-avances-del-proyecto-drenaje-pluvial-integral-sullana-y-bellavista-1048524.aspx",
+  "ord_in_thread": 0,
+  "author": "Empresa Peruana de Servicios Editoriales S. A. EDITORA PERÚ",
+  "published": "2025-10-16T09:32:00.000+03:00",
+  "title": "Piura: supervisan avances del proyecto de drenaje pluvial integral de Sullana y Bellavista | Noticias | Agencia Peruana de Noticias Andina",
+  "text": "Representantes de la Autoridad Nacional de Infraestructura (ANIN), el alcalde distrital de Bellavista, Julio Oliva; y funcionarios de la Municipalidad Provincial de Sullana supervisaron los avances del Proyecto Drenaje Pluvial Integral de Sullana y Bellavista, en la zona de intervención del Sector 1: Dren Boquerón de Núñez.\nDurante la jornada, las autoridades locales verificaron el progreso de las actividades de movimiento de tierras, que se ejecutan con maquinaria y personal especializado, marcando un paso importante en la fase inicial del proyecto.\nEn el lugar, los especialistas de la ANIN y de la empresa contratista Benito Roggio e Hijos S.A. Sucursal Perú presentaron los avances de la obra, que incluyen el replanteo topográfico, el monitoreo de aire y ruido, el ahuyentamiento de fauna silvestre y la movilización de equipos y materiales.\nEl alcalde de la Municipalidad Distrital de Bellavista, Julio Oliva, resaltó el trabajo articulado que su comuna ha mantenido con el proyecto desde el inicio, resaltando la apertura al diálogo y la coordinación técnica y social desarrollada durante todo el proceso.\n“Desde el primer momento se nos acercaron y han escuchado nuestro punto de vista técnico y, sobre todo, social, para tener el mejor proyecto para Sullana y Bellavista”, afirmó.\nPor último, destacó el trabajo de socialización realizado por el equipo del proyecto a través de las reuniones informativas con la población, organizaciones y entidades públicas.\nPor su parte, el gerente municipal de la Municipalidad Provincial de Sullana, Paul Loayza, instó a continuar informando a la población, con el fin de mantener el diálogo e informar oportunamente sobre los trabajos que demandará el proyecto.\nEl drenaje está en marcha\nDurante la exposición técnica, los especialistas informaron que ya fue presentado ante la ANIN el Estudio Definitivo de Ingeniería (EDI) correspondiente a los sectores Cola de Alacrán 2 y 3, mientras que los sectores Cola de Alacrán 1 y Canal Vía se encuentran en su etapa final de diseño.\nEl Dren Boquerón de Núñez tiene un plazo de ejecución de 366 días y representa un paso decisivo hacia la protección integral de Sullana y Bellavista frente a los efectos de las lluvias intensas.\nMás en Andina:\n(FIN) NDP/MAO",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->water pollution"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Julio Oliva",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Autoridad Nacional de Infraestructura",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "ANIN",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Municipalidad Provincial de Sullana",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_pe", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:53:25.015+03:00",
+  "updated": "2025-10-17T15:06:20.000+03:00"
+}

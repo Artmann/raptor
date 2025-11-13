@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "1df16728fe6f109bbaaab4cbb7be7dd297e6262d",
+    "url": "https://finance.sina.cn/stock/jdts/2025-09-18/detail-infqwutp4042590.d.html?vt=4&cid=76993&node_id=76993",
+    "site_full": "finance.sina.cn",
+    "site": "sina.cn",
+    "site_section": "https://finance.sina.cn/stock/jdts",
+    "site_categories": [
+      "financial_news",
+      "finance",
+      "top_news_hk",
+      "top_news_my",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "焦点透视_手机新浪网",
+    "site_title": "手机新浪网",
+    "title": "通义首个深度研究Agent模型DeepResearch正式开源_手机新浪网",
+    "title_full": "通义首个深度研究Agent模型DeepResearch正式开源_手机新浪网",
+    "published": "2025-09-18T07:43:30.880+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4801,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1df16728fe6f109bbaaab4cbb7be7dd297e6262d",
+  "url": "https://finance.sina.cn/stock/jdts/2025-09-18/detail-infqwutp4042590.d.html?vt=4&cid=76993&node_id=76993",
+  "ord_in_thread": 0,
+  "author": "sina_mobile",
+  "published": "2025-09-18T07:43:30.880+03:00",
+  "title": "通义首个深度研究Agent模型DeepResearch正式开源_手机新浪网",
+  "text": "通义首个深度研究Agent模型DeepResearch正式开源\n（来源：界面新闻）\n据阿里云消息，近日，通义首个深度研究Agent模型DeepResearch正式开源。该模型参数仅30B（激活3B），在多个权威评测集上取得SOTA成绩。目前，通义DeepResearch的模型、框架和方案均已全面开源，用户可在Github、Hugging Face和魔搭社区下载模型和代码。\n（来源：界面新闻）\n据阿里云消息，近日，通义首个深度研究Agent模型DeepResearch正式开源。该模型参数仅30B（激活3B），在多个权威评测集上取得SOTA成绩。目前，通义DeepResearch的模型、框架和方案均已全面开源，用户可在Github、Hugging Face和魔搭社区下载模型和代码。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Education"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Education->vocational education",
+    "Education->online and remote learning",
+    "Education->college and university"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_my",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:43:30.880+03:00",
+  "updated": "2025-09-19T08:09:04.000+03:00"
+}

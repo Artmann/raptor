@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "cd57f18b0102904f7ac01d47b7825d04da7f8573",
+    "url": "https://www.lr-online.de/lausitz/spremberg/windpark-in-spremberg-streit-um-windraeder-im-stadtwald-geht-in-naechste-runde-78012536.html",
+    "site_full": "www.lr-online.de",
+    "site": "lr-online.de",
+    "site_section": "https://www.lr-online.de",
+    "site_categories": ["media"],
+    "section_title": "Startseite | Lausitzer Rundschau",
+    "site_title": "Startseite | Lausitzer Rundschau",
+    "title": "Windpark in Spremberg: Streit um Windräder im Stadtwald geht in nächste Runde",
+    "title_full": "Windpark in Spremberg: Streit um Windräder im Stadtwald geht in nächste Runde",
+    "published": "2025-05-08T06:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://cdn.lr-online.de/2025/05/07/d0fc5fc6-9aa0-4746-8fce-19b4f2c8171f.jpeg?width=1200&crop=4000%2C2250%2C0%2C321&format=webp&token=f312863a82c8627dd09cb1b712ba35c7c491a749f272ae47fdede1dc7ce9c8d5",
+    "performance_score": 0,
+    "domain_rank": 35354,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cd57f18b0102904f7ac01d47b7825d04da7f8573",
+  "url": "https://www.lr-online.de/lausitz/spremberg/windpark-in-spremberg-streit-um-windraeder-im-stadtwald-geht-in-naechste-runde-78012536.html",
+  "ord_in_thread": 0,
+  "author": "Tobias Roitsch",
+  "published": "2025-05-08T06:00:00.000+03:00",
+  "title": "Windpark in Spremberg: Streit um Windräder im Stadtwald geht in nächste Runde",
+  "text": "Windpark in Spremberg: Streit um Windräder im Stadtwald geht in nächste Runde\nDer geplante Bau von elf Windrädern im Stadtwald von Spremberg ist ein Streitthema. Und bleibt es auch. So wird nun an dem Millionen-Projekt gerüttelt.\nSpremberg\nEin Artikel von",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Environment", "Politics"],
+  "topics": [
+    "Environment->sustainability",
+    "Environment->energy resources",
+    "Environment->conservation",
+    "Politics->environmental policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Spremberg",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:57:13.499+03:00",
+  "updated": "2025-05-08T04:02:33.000+00:00"
+}

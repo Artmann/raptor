@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "10337b0098bc1007c90f5d3e0664826d9e6985ae",
+    "url": "https://www.wyomingnews.com/laramieboomerang/opinion/court-should-uphold-education-savings-accounts-in-wyoming/article_7bba8a6d-fa99-4d19-bbe8-c2d607c84aef.html",
+    "site_full": "www.wyomingnews.com",
+    "site": "wyomingnews.com",
+    "site_section": "http://www.thecheyennepost.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5b%5d=%23topstory",
+    "site_categories": ["media"],
+    "section_title": "www.wyomingnews.com - RSS Results",
+    "site_title": "wyomingnews.com | Local First",
+    "title": "Court should uphold Education Savings Accounts in Wyoming",
+    "title_full": "Court should uphold Education Savings Accounts in Wyoming",
+    "published": "2025-06-26T14:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/1/18/1186ff92-b27d-11ef-9575-c3ab58b517db/6750b9529eaaf.image.jpg?crop=317%2C317%2C0%2C16&amp;resize=200%2C200&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 22501,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "10337b0098bc1007c90f5d3e0664826d9e6985ae",
+  "url": "https://www.wyomingnews.com/laramieboomerang/opinion/court-should-uphold-education-savings-accounts-in-wyoming/article_7bba8a6d-fa99-4d19-bbe8-c2d607c84aef.html",
+  "ord_in_thread": 0,
+  "author": "Marta Mossburg Wyoming columnist",
+  "published": "2025-06-26T14:00:00.000+03:00",
+  "title": "Court should uphold Education Savings Accounts in Wyoming",
+  "text": "The Wyoming Education Association’s lawsuit against school-choice legislation reveals its hostility to children, families and education freedom.\nThe timing of it is particularly egregious, coming two weeks before money from the expanded Education Savings Account (ESA) program was to be distributed by the state to parents and used for tuition, homeschooling, curriculum and other expenses for the upcoming school year. Schools, in particular, will be hit hard by the suit. Those that are expecting payments from parents receiving the $7,000 ESA now won’t have money to hire teachers and prepare classrooms at a pivotal time.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education", "Politics", "Social Issue"],
+  "topics": [
+    "Education->school",
+    "Education->parents group",
+    "Education->educational grading",
+    "Politics->political process",
+    "Politics->education policy",
+    "Politics->government",
+    "Social Issue->social condition",
+    "Social Issue->family",
+    "Social Issue->social services"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Wyoming Education Association",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:13:25.075+03:00",
+  "updated": "2025-06-26T11:16:41.000+00:00"
+}

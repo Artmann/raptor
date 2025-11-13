@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "3ea44a878f5277ff8aeeb46bccb5d81fec692caa",
+    "url": "https://www.thedailybeast.com/idf-says-it-failed-in-its-mission-following-review-into-killing-of-3-hostages",
+    "site_full": "www.thedailybeast.com",
+    "site": "thedailybeast.com",
+    "site_section": "http://thedailybeast.com",
+    "site_categories": ["politics", "law_government_and_politics", "media"],
+    "section_title": "The Daily Beast: The Latest in Politics, Media &amp; Entertainment News",
+    "title": "IDF Says It ‘Failed in Its Mission’ Following Review Into Killing of 3 Hostages",
+    "title_full": "IDF Says It ‘Failed in Its Mission’ Following Review Into Killing of 3 Hostages",
+    "published": "2023-12-29T00:11:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2560,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1703799344/2023-11-16T192609Z_29490366_RC2IE4A4LU3R_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA_ahscll",
+    "performance_score": 0,
+    "domain_rank": 694,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3ea44a878f5277ff8aeeb46bccb5d81fec692caa",
+  "url": "https://www.thedailybeast.com/idf-says-it-failed-in-its-mission-following-review-into-killing-of-3-hostages",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Alex Nguyen",
+  "published": "2023-12-29T00:11:00.000+02:00",
+  "title": "IDF Says It ‘Failed in Its Mission’ Following Review Into Killing of 3 Hostages",
+  "text": "Following an investigation by the [Israel Defense Forces](https://www.thedailybeast.com/keyword/israel-defense-forces) into its [killing](https://www.thedailybeast.com/israel-admits-mistakenly-killing-three-hostages-in-idf-ground-operation-in-gaza) of three [hostages](https://www.thedailybeast.com/keyword/hostage) during a rescue mission in the Shejaiya area in [Gaza](https://www.thedailybeast.com/keyword/gaza) on Dec. 15, the IDF Chief of the General Staff, Herzi Halevi, said on Thursday that it “failed in its mission to rescue” them and “the entire chain of command feels responsible.” The [report](https://www.idf.il/en/mini-sites/idf-press-releases-regarding-the-hamas-israel-war/december-pr/statement-on-the-findings-of-the-investigation-into-the-circumstances-of-the-deaths-of-3-hostages-from-idf-fire-2/) reads, “An IDF soldier fired toward three figures, identified as threats, and hit two of the hostages who were killed. The third figure fled.” The fighters were then told to hold their fire. “After approximately 15 minutes, the battalion commander heard shouts in Hebrew of ‘help’ and ‘they are shooting at me,’ and gave additional orders to hold fire, calling out in Hebrew ‘come toward us’.” But when the third man, who was injured at this point, walked out of the building he was hiding in, two IDF troops “who did not hear the order due to noise from a nearby tank,” shot and killed him. The IDF’s review stated that the three hostages–Yotam Haim, 28, Alon Shamriz, 26, and Samer Talalka, 22–were unarmed and walking shirtless, with one of them waving a white flag, but they were “standing at a point with limited visibility relative to the position of the soldier that fired the shot.” Aerial footage of the Shejaiya area was attached to the press release with a “blind spot” region from the soldier’s window highlighted. Halevi said, “The shooting at the hostages should not have occurred–this shooting did not match up to the risk and the situation. However, it was carried out under complex circumstances, and in intense combat conditions under a prolonged threat.” The press release cited that forces previously encountered cries of “help” and “hostages” in Hebrew that turned out to be “a terrorist deception attempt,” and the engineering unit accompanying the combat group identified the particular building the three men were hiding in as “suspected of being rigged with explosives.” “We, the commanders, must ensure that the operational instructions are clear,” Halevi added, stressing the need for “improving communication, transferring information from the command to the forces, and reporting on suspected signs of hostages’ presence from the field to the command.” According to [The Jerusalem Post](https://www.jpost.com/israel-hamas-war/article-779923), the military wing announced on Thursday that it would not take any action against the soldiers who killed the three abductees, despite them violating rules of engagement by firing on people who presented no immediate danger.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident",
+    "War, Conflict and Unrest",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [
+    "https://www.idf.il/en/mini-sites/idf-press-releases-regarding-the-hamas-israel-war/december-pr/statement-on-the-findings-of-the-investigation-into-the-circumstances-of-the-deaths-of-3-hostages-from-idf-fire-2/)",
+    "https://www.jpost.com/israel-hamas-war/article-779923),",
+    "https://idf.il/en/mini-sites/idf-press-releases-regarding-the-hamas-israel-war/december-pr/statement-on-the-findings-of-the-investigation-into-the-circumstances-of-the-deaths-of-3-hostages-from-idf-fire-2/)",
+    "https://jpost.com/israel-hamas-war/article-779923),"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "herzi halevi",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "israel defense forces",
+        "sentiment": "negative"
+      },
+      {
+        "name": "idf",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "gaza",
+        "sentiment": "none"
+      },
+      {
+        "name": "shejaiya",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:26:40.525+02:00",
+  "updated": "2023-12-29T00:26:40.525+02:00"
+}

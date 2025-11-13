@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "a37976f64502e867883e94817fbdc80a461950df",
+    "url": "https://www.cittadinanzattiva.it/notizie/17208-stop-ai-cellulari-anche-nelle-scuole-superiori.html",
+    "site_full": "www.cittadinanzattiva.it",
+    "site": "cittadinanzattiva.it",
+    "site_section": "https://www.cittadinanzattiva.it/notizie.html",
+    "site_categories": ["law_government_and_politics", "immigration"],
+    "section_title": "Notizie - Cittadinanzattiva  una organizzazione, fondata nel 1978",
+    "site_title": "Cittadinanzattiva  una organizzazione, fondata nel 1978 - Cittadinanzattiva  una organizzazione, fondata nel 1978",
+    "title": "Stop ai cellulari anche nelle scuole superiori",
+    "title_full": "Stop ai cellulari anche nelle scuole superiori",
+    "published": "2025-06-26T12:37:10.242+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 120945,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a37976f64502e867883e94817fbdc80a461950df",
+  "url": "https://www.cittadinanzattiva.it/notizie/17208-stop-ai-cellulari-anche-nelle-scuole-superiori.html",
+  "ord_in_thread": 0,
+  "author": "Fabio Cruccu",
+  "published": "2025-06-26T12:37:10.242+03:00",
+  "title": "Stop ai cellulari anche nelle scuole superiori",
+  "text": "Il Ministero dell'Istruzione ha inviato una circolare in cui vieta l'utilizzo degli smartphone nelle scuole anche agli studenti delle scuole superiori. La decisione arriva dopo che organizzazioni internazionali come l'OCSE o l'OMS hanno segnalato la possibile correlazione tra l'utilizzo dei cellulari e il peggioramento del rendimento scolastico.\nIn Italia arriva lo stop ufficiale all'uso dei cellulari anche nelle scuole superiori: dopo aver proibito lo smartphone nelle scuole elementari e medie, il ministro dell'Istruzione e del Merito Giuseppe Valditara ha da poco diffuso una nuova circolare per estendere il divieto, a partire dal prossimo settembre, anche agli studenti delle scuole secondarie di secondo grado. Gli smartphone saranno vietati durante le attività didattiche e, più in generale, durante l'orario scolastico, con sanzioni previste per chi viola il divieto.\nLa misura, definita «improcrastinabile» dal ministro Valditara, punta a ridurre i potenziali effetti negativi sui minori derivanti da uso eccessivo o non corretto dello smartphone. In particolare, la decisione ministeriale arriva dopo che diverse organizzazioni internazionali, tra cui l'OCSE (Organizzazione per la Cooperazione e lo Sviluppo Economico) e l'OMS (Organizzazione Mondiale della Sanità) hanno segnalato una possibile correlazione tra l'utilizzo eccessivo di smartphone e social media da parte degli adolescenti e il loro peggiore rendimento scolastico, con conseguenze negative che impattano anche sulla loro salute mentale. Secondo questi studi, in particolare, ad abusare di più dei social media è la fascia d'età dei 13 anni, con l'11% degli adolescenti totali che dimostra un uso scorretto degli smartphone.\nL'Italia, comunque, non è l'unico Paese a essere intervenuto in tal senso: Francia, Spagna, Svezia, Regno Unito e Repubblica Ceca hanno già adottato una serie di provvedimenti per limitare l'utilizzo dei cellulari nelle scuole, mentre l'Australia ha addirittura proibito l'utilizzo dei social media ai minori di 16 anni, con una storica legge approvata nel novembre del 2024.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->teachers",
+    "Education->upper secondary education",
+    "Education->students",
+    "Social Issue->teenagers",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": " Giuseppe Valditar",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": " Itali",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "'OCS",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "'OM",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T12:37:10.242+03:00",
+  "updated": "2025-06-26T09:42:34.000+00:00"
+}

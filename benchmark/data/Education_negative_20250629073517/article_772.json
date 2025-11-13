@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "36cc33068d1762efaa708e060e5969159df8bde7",
+    "url": "https://www.cairo24.com/2235062",
+    "site_full": "www.cairo24.com",
+    "site": "cairo24.com",
+    "site_section": "https://cairo24.com/rss.aspx",
+    "site_categories": [
+      "social",
+      "top_news_iq",
+      "top_news_kw",
+      "top_news_eg",
+      "top_news"
+    ],
+    "section_title": "جميع الموضوعات",
+    "site_title": "القاهرة 24",
+    "title": "إصابة طالبتين بحالة إغماء خلال أداء امتحان الفيزياء بالفيوم",
+    "title_full": "إصابة طالبتين بحالة إغماء خلال أداء امتحان الفيزياء بالفيوم",
+    "published": "2025-06-26T14:35:48.552+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "EG",
+    "main_image": "https://www.cairo24.com/UploadCache/libfiles/160/1/600x338o/259.jpeg",
+    "performance_score": 1,
+    "domain_rank": 136281,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 19,
+        "comments": 1,
+        "shares": 16
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "36cc33068d1762efaa708e060e5969159df8bde7",
+  "url": "https://www.cairo24.com/2235062",
+  "ord_in_thread": 0,
+  "author": "@cairo24_",
+  "published": "2025-06-26T14:35:48.552+03:00",
+  "title": "إصابة طالبتين بحالة إغماء خلال أداء امتحان الفيزياء بالفيوم",
+  "text": "إصابة طالبتين بحالة إغماء خلال أداء امتحان الفيزياء بالفيوم\nالخميس 26/يونيو/2025 - 02:20 م\nأصيبت طالبتان بحالة إغماء خلال تأديتهما امتحانات الثانوية العامة بمحافظة الفيوم، وتم نقلهما إلى مستشفى سنورس المركزي، وتحرر محضر بالواقعة، وأخطرت النيابة التي تولت التحقيق.\nتلقت الأجهزة الأمنية بمديرية أمن الفيوم بلاغًا من مأمور قسم شرطة سنورس يفيد بورود إشارة من غرفة عمليات شرطة النجدة بمحافظة الفيوم، بتلقيه بلاغًا بإصابة طالبتين بحالة إغماء أثناء تأديتهما امتحان مادة الفيزياء بلجنة مدرسة لطفي سليمان بمركز سنورس.\nوعلى الفور، انتقلت قوة من الشرطة وسيارات الإسعاف إلى مكان المدرسة، وتبين إصابة الطالبتين ريم جمال محمود (17 سنة)، ونورهان عويس عبد المولى (17 سنة)، وتم نقلهما إلى مستشفى سنورس المركزي، حيث تم عمل الإسعافات اللازمة لهما.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "arabic",
+  "sentiment": "negative",
+  "categories": ["Education"],
+  "topics": [
+    "Education->teachers",
+    "Education->educational testing and examinations",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_iq", "top_news_kw", "top_news_eg", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:35:48.552+03:00",
+  "updated": "2025-06-27T12:07:26.000+00:00"
+}

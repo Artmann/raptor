@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "91bdf1e4cab4352c54535365bbfb95dc1a7ea0b3",
+    "url": "https://www.fijitimes.com.fj/mp-male-student-numbers-declining",
+    "site_full": "www.fijitimes.com.fj",
+    "site": "fijitimes.com.fj",
+    "site_section": "https://world.einnews.com/ajax/headlines",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "",
+    "site_title": "The Fiji Times - Latest Fiji News, Sports and Weather",
+    "title": "MP: Male student numbers declining",
+    "title_full": "MP: Male student numbers declining",
+    "published": "2025-06-26T03:45:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FJ",
+    "main_image": "https://www.fijitimes.com.fj/wp-content/uploads/2025/06/education-forum-10.jpg",
+    "performance_score": 0,
+    "domain_rank": 67747,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "91bdf1e4cab4352c54535365bbfb95dc1a7ea0b3",
+  "url": "https://www.fijitimes.com.fj/mp-male-student-numbers-declining",
+  "ord_in_thread": 0,
+  "author": "Jake Wise",
+  "published": "2025-06-26T03:45:00.000+03:00",
+  "title": "MP: Male student numbers declining",
+  "text": "The number of male students in Fiji’s primary and secondary schools has seen a significant decline over recent years.\nThis was revealed by Education Minister Aseri Radrodro during the 2025 Education Forum held at the Grand Pacific Hotel, Suva, yesterday.\nMr Radrodro said a review of enrolment data from Early Childhood Education (ECE) to secondary school levels over the past five years revealed a consistent drop in the number of boys transitioning from primary to secondary school.\n“What is very interesting to note was the number of students, especially male students, from primary school to secondary school has reduced over the years,” Mr Radrodro said.\nHe described the trend as a “pressing issue requiring national attention”, adding that it should be a topic of critical discussion among stakeholders.\n“Where are all these male primary school students’ pathways in terms of continuing their education in the secondary school level?\n“That data has been consistent, and I think we all share the concern and the responsibility in this forum to ensure that we try and come up with a solution.”\nDespite the Government’s ongoing support through free education grants, transport subsidies, free textbooks, and back-to-school assistance, Mr Radrodro acknowledged that these measures had not been enough to stem the dropout rate among boys.\n“The data showed me this morning that there continues to be a challenge in terms of male primary school students continuing their education at the secondary level and beyond.”\nHe added that this was precisely why the Education Forum was convened — to examine systemic issues and collectively ask, “Why?”\nMr Radrodro told the media the ministry was expected to further analyse the data to identify specific barriers affecting male student retention and explore targeted interventions to address them.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->primary education",
+    "Education->students",
+    "Social Issue->social services",
+    "Social Issue->children",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Aseri Radrodro",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Grand Pacific Hotel",
+        "sentiment": "none"
+      },
+      {
+        "name": "Suva",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T10:56:41.364+03:00",
+  "updated": "2025-06-26T07:59:49.000+00:00"
+}

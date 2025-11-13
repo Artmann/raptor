@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "060badad261ce98718295ca880e3470a71911098",
+    "url": "https://finance.sina.cn/2025-10-16/detail-infuautq8109780.d.html?vt=4&cid=76729&node_id=76729",
+    "site_full": "finance.sina.cn",
+    "site": "sina.cn",
+    "site_section": "https://finance.sina.cn/china",
+    "site_categories": [
+      "financial_news",
+      "finance",
+      "top_news_hk",
+      "top_news_my",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "宏观经济_手机新浪网",
+    "site_title": "手机新浪网",
+    "title": "怀柔区34个水灾受灾村煤改清洁能源设备全部恢复运行_手机新浪网",
+    "title_full": "怀柔区34个水灾受灾村煤改清洁能源设备全部恢复运行_手机新浪网",
+    "published": "2025-10-16T14:25:45.471+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4801,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "060badad261ce98718295ca880e3470a71911098",
+  "url": "https://finance.sina.cn/2025-10-16/detail-infuautq8109780.d.html?vt=4&cid=76729&node_id=76729",
+  "ord_in_thread": 0,
+  "author": "北京日报",
+  "published": "2025-10-16T14:25:45.471+03:00",
+  "title": "怀柔区34个水灾受灾村煤改清洁能源设备全部恢复运行_手机新浪网",
+  "text": "怀柔区34个水灾受灾村煤改清洁能源设备全部恢复运行 北京日报 《北京日报》官方账号 10.16 19:01 关注 转自：北京日报客户端\n日前，经过精心组织、周密部署，我区高质量完成34个水灾受灾村煤改 清洁能源 设备的恢复运行工作，3021台受损采暖设备全部恢复运行。\n今年7月水灾发生后，区农业农村局逐户深入摸排，精准掌握居民取暖实际需求，依据受灾设备状况细致划分为“更换、维修、清洗”三类，建立详实台账，实行“一户一档”动态管理，确保底数清、情况明。\n针对摸排出的不同设备损毁类型，采取整机更换、配件维修、设备清洗的差异化恢复措施，有效恢复设备供暖性能。对于需要更换的设备，严格执行《怀柔区清洁取暖设备性能标准》，聘请第三方监理严把安装质量及施工安全关。同时，加强清洁取暖相关政策宣传解读，提高群众知晓度与参与度，强化资金使用监管，规范补贴发放流程，严防套取、骗取补贴资金行为。\n“我们将持续做好清洁取暖设备的运行维护和应急保障工作，确保群众安全、温暖、清洁过冬。”区农业农村局相关负责人说。\n来源：北京怀柔",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Environment", "Disaster and Accident"],
+  "topics": [
+    "Environment->energy saving",
+    "Environment->energy resources",
+    "Disaster and Accident->emergency response",
+    "Disaster and Accident->disaster"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_my",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:25:45.471+03:00",
+  "updated": "2025-10-16T14:43:31.000+03:00"
+}

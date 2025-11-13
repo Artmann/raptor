@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "964811ca90c6bdbef1f318155aeb25efea9cbd45",
+    "url": "https://www.northjersey.com/story/money/food/2023/12/28/wendys-one-cent-jr-bacon-cheeseburger-limits/72051995007/",
+    "site_full": "www.northjersey.com",
+    "site": "northjersey.com",
+    "site_section": "https://northjersey.com",
+    "site_categories": ["media"],
+    "section_title": "NJ news from Bergen, Passaic | Bergen Record",
+    "title": "Wendy's: One-cent Jr. Bacon Cheeseburger offer is limited per customer",
+    "title_full": "Wendy's: One-cent Jr. Bacon Cheeseburger offer is limited per customer",
+    "published": "2023-12-29T00:50:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3174,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "964811ca90c6bdbef1f318155aeb25efea9cbd45",
+  "url": "https://www.northjersey.com/story/money/food/2023/12/28/wendys-one-cent-jr-bacon-cheeseburger-limits/72051995007/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "James Powel",
+  "published": "2023-12-29T00:50:00.000+02:00",
+  "title": "Wendy's: One-cent Jr. Bacon Cheeseburger offer is limited per customer",
+  "text": "There's only so much bacon that can be brought home. Wendy's is offering a 1-cent Jr. Bacon Cheeseburger in celebration of National Bacon Day on December 30. The promotion launched Wednesday and requires that customers order the penny burger through the company's app or website. A company spokesperson confirmed that the offer is valid for one Jr. Bacon Cheeseburger per customer during the promotion. The deal is an opportunity for customers to relax their wallets after the holiday spending season . Here's how to claim your 1-cent Jr. Bacon Cheeseburger. Wendy's bacon day deal is available between Dec. 27 and Jan. 2 at participating locations. Customers can get one Jr. Bacon Cheeseburger for just 1¢, complete with all the fixings: A beefy patty, applewood smoked bacon, American cheese, lettuce, tomato, and mayo. Download the Wendy's app or visit the company's website , create a rewards account, and click the \"Reward Store.\" Review the current offers in the reward portal, select the one-cent deal and add it to your order. As long as you have a rewards account, the deal will be added to your cart. Deal hunters don't need to delete the app once they have secured their penny burger: Wendy's often has other deals throughout the year for reward members, including free fries, chicken nuggets and shakes.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Social Issue",
+    "Lifestyle and Leisure"
+  ],
+  "external_links": [
+    "https://order.wendys.com/rewards-home?lang=en_US",
+    "https://www.nationaldaycalendar.com/national-day/bacon-day-december-30",
+    "https://order.wendys.com/rewards-home",
+    "https://nationaldaycalendar.com/national-day/bacon-day-december-30",
+    "https://www.order.wendys.com/rewards-home?lang=en_US"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "bacon cheesebu",
+        "sentiment": "negative"
+      },
+      {
+        "name": "wendy",
+        "sentiment": "neutral"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "bacon cheeseburger",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T02:50:58.521+02:00",
+  "updated": "2023-12-29T02:50:58.521+02:00"
+}

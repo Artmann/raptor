@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "adf5cd802f2960dc795aa2b16b3f6f02ebae0f9c",
+    "url": "https://soledade.pb.gov.br/informa.php?id=4545",
+    "site_full": "soledade.pb.gov.br",
+    "site": "soledade.pb.gov.br",
+    "site_section": "https://soledade.pb.gov.br/rss",
+    "site_categories": [],
+    "section_title": "Noticias",
+    "site_title": "Prefeitura Municipal de Soledade",
+    "title": "Escola Prof. Luiz Gonzaga Burity promoveu Mostra Pedagógica, valorizando o protagonismo estudantil",
+    "title_full": "Escola Prof. Luiz Gonzaga Burity promoveu Mostra Pedagógica, valorizando o protagonismo estudantil",
+    "published": "2025-09-17T06:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "BR",
+    "main_image": "https://soledade.pb.gov.br/fotos/4545/Img0_600x400.jpg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "adf5cd802f2960dc795aa2b16b3f6f02ebae0f9c",
+  "url": "https://soledade.pb.gov.br/informa.php?id=4545",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-17T06:00:00.000+03:00",
+  "title": "Escola Prof. Luiz Gonzaga Burity promoveu Mostra Pedagógica, valorizando o protagonismo estudantil",
+  "text": "Ontem (16/09), a Escola Municipal Prof. Luiz Gonzaga Burity realizou a Mostra Pedagógica \"Ciências, Cultura e Protagonismo Estudantil\", um evento que reuniu a comunidade escolar em torno de experiências criativas e inovadoras.\nAo todo, foram apresentados 13 projetos desenvolvidos pelos alunos sob a orientação dos professores e com o apoio da direção escolar e da Secretaria de Educação, sendo eles: Na Roda da Ciência: Descobrindo Máquinas Simples; Divermática: A Matemática Através da Diversão; Recriar Brincando; Nordeste em Cena; Pesquisa Aeroespacial; Energia Pura; Vozes\n- Mulheres; As Multifaces do Urbano Diante da Arte Estudantil; Reinterpretando Histórias; Luz, Câmera, Canção...; Entre Culturas e Tempos: Uma Jornada Visual; Teatro em Cena: Dando Voz às Minorias; e Teatro: Vida de Droga ou Uma Droga de Vida.\nA Mostra evidenciou o engajamento dos estudantes e destacou a importância do trabalho coletivo entre professores e alunos na construção do conhecimento, revelando talentos e promovendo reflexões sobre ciência, cultura e questões sociais presentes no cotidiano.\nPMS/ASCOM",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "portuguese",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest"],
+  "topics": ["Education->students", "Education->school", "Education->teachers"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:02:08.787+03:00",
+  "updated": "2025-09-18T08:05:07.000+03:00"
+}

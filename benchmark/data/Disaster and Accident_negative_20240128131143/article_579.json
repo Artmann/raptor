@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "b9f9d435cc347b17d30c54e4a73f71578a8faaca",
+    "url": "https://www.kctv5.com/2023/12/28/photos-lawrence-restaurant-damaged-by-fire-be-demolished/",
+    "site_full": "www.kctv5.com",
+    "site": "kctv5.com",
+    "site_section": "https://www.kctv5.com/news",
+    "site_categories": ["media"],
+    "section_title": "News",
+    "title": "PHOTOS: Lawrence restaurant damaged by fire to be demolished",
+    "title_full": "PHOTOS: Lawrence restaurant damaged by fire to be demolished",
+    "published": "2023-12-29T00:31:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-kctv-prod.cdn.arcpublishing.com/resizer/v2/YN5V4OG6VZCJXHSWVMQHTGQT3E.png?auth=b40baceb8da87e0f1ebe593e03a224fb8452f760eb5031e2b7500842dcd9af05&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 13185,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b9f9d435cc347b17d30c54e4a73f71578a8faaca",
+  "url": "https://www.kctv5.com/2023/12/28/photos-lawrence-restaurant-damaged-by-fire-be-demolished/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Heidi Schmidt",
+  "published": "2023-12-29T00:31:00.000+02:00",
+  "title": "PHOTOS: Lawrence restaurant damaged by fire to be demolished",
+  "text": "LAWRENCE, Kan. (KCTV) - A popular Lawrence restaurant will soon be a memory.\nThe Lawrence Historic Resources Commission approved a plan Thursday to demolish Cielito Lindo . Fire heavily damaged the Mexican restaurant on Dec. 13.\nThe fire burned for more than seven hours before firefighters extinguished it.\nDocuments provided during Thursday’s commission meeting showed the fire started on the first floor of the restaurant near the kitchen. The fire burned through the floor and into the second floor of the building. The roof of the restaurant partially collapsed as firefighters fought the flames from outside the building.\nALSO READ: Woman charged with first-degree murder MIA after body found in KC-area park The day after the fire a codes inspector determined the building was too dangerous to be left standing.\nPictures provided to members of the Lawrence Historic Resources Commission show the extent of the damage.\nAutoplay Crews and the owner of the building are allowed to enter the building to prepare it for demolition. A timeline of when the building will be torn down has not been released.\nCopyright 2023 KCTV. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Social Issue", "Disaster and Accident", "Human Interest"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "lawrence",
+        "sentiment": "negative"
+      },
+      {
+        "name": "cielito lindo",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "kctv",
+        "sentiment": "negative"
+      },
+      {
+        "name": "autoplay crews",
+        "sentiment": "none"
+      },
+      {
+        "name": "esources commission",
+        "sentiment": "none"
+      },
+      {
+        "name": "lawrence historic resources commission",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "lawrence",
+        "sentiment": "none"
+      },
+      {
+        "name": "kan.",
+        "sentiment": "none"
+      },
+      {
+        "name": "kc",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:47:02.420+02:00",
+  "updated": "2023-12-29T00:47:02.420+02:00"
+}

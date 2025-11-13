@@ -1,0 +1,145 @@
+{
+  "thread": {
+    "uuid": "c300d096662e115b7d9637059f24b151b2c8650e",
+    "url": "https://english.news.cn/20240623/bc660890dec0493e8c76320d5f2bc320/c.html",
+    "site_full": "english.news.cn",
+    "site": "news.cn",
+    "site_section": "https://english.news.cn/list/latestnews.htm",
+    "site_categories": ["media"],
+    "section_title": "Latest news | English.news.cn",
+    "title": "Australia commits humanitarian aid for Horn of Africa-Xinhua",
+    "title_full": "Australia commits humanitarian aid for Horn of Africa-Xinhua",
+    "published": "2024-06-23T12:13:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 992,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c300d096662e115b7d9637059f24b151b2c8650e",
+  "url": "https://english.news.cn/20240623/bc660890dec0493e8c76320d5f2bc320/c.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Xinhua",
+  "published": "2024-06-23T12:13:00.000+03:00",
+  "title": "Australia commits humanitarian aid for Horn of Africa-Xinhua",
+  "text": "CANBERRA, June 23 (Xinhua) -- The Australian government has committed an additional funding for humanitarian aid in the Horn of Africa region.\nForeign Minister Penny Wong, International Development and the Pacific Minister Pat Conroy and Assistant Foreign Minister Tim Watts on Saturday announced 23 million Australian dollars (15.2 million U.S. dollars) in funding to help deliver healthcare, food and clean water amid ongoing humanitarian crises in the Horn of Africa.\nIt includes 13 million Australian dollars (8.6 million dollars) for vulnerable people in Sudan and Sudanese refugees who have been displaced to neighboring countries, 6 million Australian dollars (3.9 million dollars) to Ethiopia and Somalia to support people affected by crises, and 4 million Australian dollars (2.6 million dollars) to Kenya in response to flooding.\nWong, Conroy and Watts said in a joint statement that Australia is deeply concerned by the compounding effects of ongoing conflicts and climate change on vulnerable people in the region.\n\"Australia is gravely concerned by the deteriorating humanitarian situation in the Horn of Africa and is working with international partners to help the most vulnerable and address instability in the region,\" Wong said.\nThe aid will be delivered by Australian and local non-government organizations, United Nations partners and the International Committee of the Red Cross. ■",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Politics", "Human Interest", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.youtube.com/user/ChinaViewTV",
+    "https://www.facebook.com/XinhuaNewsAgency/",
+    "https://twitter.com/XHNews",
+    "https://youtube.com/user/ChinaViewTV",
+    "https://www.twitter.com/XHNews",
+    "https://facebook.com/XinhuaNewsAgency/",
+    "https://www.facebook.com/XinhuaNewsAgency"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "pat conroy",
+        "sentiment": "none"
+      },
+      {
+        "name": "penny wong",
+        "sentiment": "none"
+      },
+      {
+        "name": "tim watts",
+        "sentiment": "none"
+      },
+      {
+        "name": "wong",
+        "sentiment": "none"
+      },
+      {
+        "name": "conroy",
+        "sentiment": "none"
+      },
+      {
+        "name": "watts",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "xinhua",
+        "sentiment": "negative"
+      },
+      {
+        "name": "international development",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "xinhua canberra",
+        "sentiment": "none"
+      },
+      {
+        "name": "australia",
+        "sentiment": "none"
+      },
+      {
+        "name": "horn of africa",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "sudan",
+        "sentiment": "none"
+      },
+      {
+        "name": "somalia",
+        "sentiment": "none"
+      },
+      {
+        "name": "kenya",
+        "sentiment": "none"
+      },
+      {
+        "name": "ethiopia",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-23T12:31:33.117+03:00",
+  "updated": "2024-06-23T12:31:33.117+03:00"
+}

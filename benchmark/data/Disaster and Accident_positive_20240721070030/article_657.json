@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "dadeaa1a997bd9d3241f2215fa6e473a81649dee",
+    "url": "https://www.businesstoday.in/tech-today/news/story/isro-successfully-completes-reusable-launch-vehicle-landing-experiment-big-boost-for-orbital-re-entry-missions-434369-2024-06-23",
+    "site_full": "www.businesstoday.in",
+    "site": "businesstoday.in",
+    "site_section": "https://www.businesstoday.in/news",
+    "site_categories": ["media", "financial_news", "finance"],
+    "section_title": "Business News Today: Top Headlines, Share Market, Finance and Economy News Updates",
+    "title": "ISRO nails autonomous landing experiment of Reusable Launch Vehicle, big boost for orbital re-entry missions - BusinessToday",
+    "title_full": "ISRO nails autonomous landing experiment of Reusable Launch Vehicle, big boost for orbital re-entry missions - BusinessToday",
+    "published": "2024-06-23T04:31:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202406/66779c87eec05-in-a-release--isro-said-the-rlv-lex-03-re-demonstrated-the-autonomous-landing-capability-of-the-rlv-235446600-16x9.jpg",
+    "performance_score": 0,
+    "domain_rank": 3858,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 7
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "dadeaa1a997bd9d3241f2215fa6e473a81649dee",
+  "url": "https://www.businesstoday.in/tech-today/news/story/isro-successfully-completes-reusable-launch-vehicle-landing-experiment-big-boost-for-orbital-re-entry-missions-434369-2024-06-23",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@business_today",
+  "published": "2024-06-23T04:31:00.000+03:00",
+  "title": "ISRO nails autonomous landing experiment of Reusable Launch Vehicle, big boost for orbital re-entry missions - BusinessToday",
+  "text": "The Indian Space Research Organisation (ISRO) on June 23 said it has achieved a third consecutive success in the Reusable Launch Vehicle Landing Experiment by demonstrating the autonomous landing capability of the launch vehicle under more challenging conditions. “Pushpak executed a precise horizontal landing, showcasing advanced autonomous capabilities under challenging conditions. With the objectives of RLV LEX accomplished, ISRO embarks into RLV-ORV, the orbital reusable vehicle,” ISRO said in a post on X (formally Twitter). Related ArticlesISRO and Wipro 3D partner for space exploration with 3D-printed rocket engine'Another milestone': ISRO rocket accomplishes zero orbital debris missionAfter Chandrayaan-3 success, ISRO to launch Chandrayaan-4 in 2 phases. Check details here Hat-trick for ISRO in RLV LEX! 🚀🇮🇳ISRO achieved its third and final consecutive success in the Reusable Launch Vehicle (RLV) Landing EXperiment (LEX) on June 23, 2024.&quot;Pushpak&quot; executed a precise horizontal landing, showcasing advanced autonomous capabilities under… pic.twitter.com\\/cGMrw6mmyH— ISRO (@isro) June 23, 2024This mission simulated the approach and landing interface and high-speed landing conditions for a vehicle returning from space, reaffirming the Indian Space Research Organisation's expertise in acquiring the most critical technologies required for the development of a Reusable Launch Vehicle, the space agency said. In a release, ISRO said the RLV LEX-03 re-demonstrated the autonomous landing capability of the RLV under more challenging release conditions and more severe wind conditions. The winged vehicle, named ‘Pushpak’, was released from an Indian Air Force Chinook Helicopter at an altitude of 4.5 km “from a release point 4.5 km away from the runway. Pushpak autonomously executed cross-range correction manoeuvres, approached the runway and performed a precise horizontal landing at the runway centreline,” it said. It added that this mission simulated the approach and landing interface and high-speed landing conditions for a vehicle returning from space, reaffirming ISRO’s expertise in acquiring the most critical technologies required for the development of a Reusable Launch Vehicle (RLV). “Through this mission, the advanced guidance algorithm catering to longitudinal and lateral plane error corrections, which is essential for the future Orbital Re-entry Mission has been validated,” the space agency said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "isro",
+        "sentiment": "negative"
+      },
+      {
+        "name": "indian space research organisation",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-06-23T07:19:38.398+03:00",
+  "updated": "2024-06-23T08:01:26.334+03:00"
+}

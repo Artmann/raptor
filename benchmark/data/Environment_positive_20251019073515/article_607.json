@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "557f733d801cd415b894df627ab66292c8c81af2",
+    "url": "https://www.lanazione.it/cronaca/sansepolcro-differenziata-in-crescita-con-il-nuovo-sistema-di-raccolta-rahmrlqu",
+    "site_full": "www.lanazione.it",
+    "site": "lanazione.it",
+    "site_section": "https://www.lanazione.it/sitemaps/nazione/sitemap_news1.xml",
+    "site_categories": ["media", "top_news_it", "top_news"],
+    "section_title": "",
+    "site_title": "La Nazione - Tutte le ultime notizie in tempo reale dalla Toscana",
+    "title": "Sansepolcro, differenziata in crescita con il nuovo sistema di raccolta",
+    "title_full": "Sansepolcro, differenziata in crescita con il nuovo sistema di raccolta",
+    "published": "2025-10-16T15:17:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://www.lanazione.it/image-service/view/acePublic/alias/contentid/NTE1ZjZhMjgtYmZmMy00/0/raccolta-differenziata.jpeg?f=1.90:1&amp;w=1200",
+    "performance_score": 0,
+    "domain_rank": 17146,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "557f733d801cd415b894df627ab66292c8c81af2",
+  "url": "https://www.lanazione.it/cronaca/sansepolcro-differenziata-in-crescita-con-il-nuovo-sistema-di-raccolta-rahmrlqu",
+  "ord_in_thread": 0,
+  "author": "La Nazione",
+  "published": "2025-10-16T15:17:00.000+03:00",
+  "title": "Sansepolcro, differenziata in crescita con il nuovo sistema di raccolta",
+  "text": "Arezzo, 16 ottobre 2025 – Sansepolcro, differenziata in crescita con il nuovo sistema di raccolta\nI residenti nelle zone del porta a porta devono utilizzare il nuovo kit per il conferimento\nIl 2025 segna per Sansepolcro un anno di grande trasformazione sul fronte della gestione dei rifiuti. Un percorso iniziato nei primi mesi dell’anno con l’introduzione dei nuovi cassonetti stradali e proseguito, da giugno, con l’avvio del servizio porta a porta nel centro storico e nell’anello limitrofo. L’obiettivo dell’Amministrazione comunale, in sinergia con Sei Toscana, è stato sin da subito chiaro: migliorare la qualità della raccolta differenziata, ridurre l’impatto ambientale e restituire maggiore ordine e decoro alle vie della città.\nI primi risultati confermano la bontà della direzione intrapresa. La percentuale di raccolta differenziata, che nel 2024 si attestava al 47%, ha superato il 60% già a metà anno, a testimonianza di una partecipazione attiva e consapevole da parte dei cittadini. Questo progresso è frutto sia della riorganizzazione dei servizi sia di un’attenzione crescente da parte della comunità alle buone pratiche ambientali.\nCon il passaggio al nuovo porta a porta, anche il sistema di conferimento è stato rinnovato. I nuovi sacchi e mastelli, diversi rispetto a quelli utilizzati in passato, sono indispensabili per garantire il corretto svolgimento del servizio. Per questo motivo, l’Amministrazione ricorda a tutti i residenti delle zone interessate che è necessario utilizzare e, chi non lo avesse ancora fatto, ritirare il nuovo kit.\nÈ possibile ritirare il kit del porta a porta al centro di raccolta di Gricignano, a partire dalla prossima settimana e fino a fine novembre, nei pomeriggi del mercoledì e del sabato, durante l’orario di apertura. Al momento del ritiro è sufficiente presentare una bolletta della tassa rifiuti (TARI) oppure la dichiarazione di iscrizione alla tassa rifiuti (TARI), ritirabile gratuitamente all’Ufficio Tributi del Comune di Sansepolcro. È inoltre possibile ritirare il kit anche per altre persone presentando apposita delega.\nA PARTIRE DA LUNEDÌ 20 OTTOBRE GLI OPERATORI DI SEI TOSCANA INIZIERANNO LA RIMOZIONE DEI VECCHI MASTELLI EVENTUALMENTE LASCIATI IN STRADA. Un passaggio necessario per uniformare il servizio e migliorare ulteriormente la qualità della raccolta. Solo con il contributo di tutti sarà possibile consolidare i risultati raggiunti e continuare a costruire una città più pulita, più ordinata e più sostenibile.\nPer maggiori informazioni: numero verde Sei Toscana 800127484, sito www.seitoscana.it e app Iren Ambiente (scaricabile gratuitamente per sistemi Android e iOS).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": ["Environment", "Lifestyle and Leisure"],
+  "topics": [
+    "Environment->sustainability",
+    "Environment->waste materials",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Sansepolcro",
+        "sentiment": "none"
+      },
+      {
+        "name": "Arezzo",
+        "sentiment": "none"
+      },
+      {
+        "name": "Toscana",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_it", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:24:33.009+03:00",
+  "updated": "2025-10-17T16:23:18.000+03:00"
+}

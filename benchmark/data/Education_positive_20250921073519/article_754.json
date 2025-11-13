@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "6a7521ea0d3fdafae17d3fdaf3b8841cdf2fd351",
+    "url": "https://www.newsbreak.com/news/4240358029388-georgetown-co-library-receives-grant-to-honor-american-revolution-in-sc",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/andrews-sc",
+    "site_categories": ["under_construction"],
+    "section_title": "Andrews, SC Local News and More | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Georgetown Co. Library receives grant to honor American Revolution in SC - NewsBreak",
+    "title_full": "Georgetown Co. Library receives grant to honor American Revolution in SC - NewsBreak",
+    "published": "2025-09-17T23:20:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/3O4GBg_14pgTyyl00",
+    "performance_score": 0,
+    "domain_rank": 2819,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6a7521ea0d3fdafae17d3fdaf3b8841cdf2fd351",
+  "url": "https://www.newsbreak.com/news/4240358029388-georgetown-co-library-receives-grant-to-honor-american-revolution-in-sc",
+  "ord_in_thread": 0,
+  "author": "ABC 15 Weather Authority Blog",
+  "published": "2025-09-17T23:20:00.000+03:00",
+  "title": "Georgetown Co. Library receives grant to honor American Revolution in SC - NewsBreak",
+  "text": "wpde.com\nwebsite\nGeorgetown County, South Carolina\nGeorgetown Co. Library receives grant to honor American Revolution in SC\nBy ABC 15 Weather Authority Blog,\n9 hours agoGEORGETOWN COUNTY, S.C. (WPDE) — On Wednesday, the Georgetown County Library (GCL) announced they've been awarded a grant for “A Glorious Cause: South Carolina and the American Revolution: A Public History Initiative of the Georgetown County Library.”. This project will show South Carolina's role in securing American independence...\n5",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->students",
+    "Education->educational grading",
+    "Education->social learning",
+    "Social Issue->social services",
+    "Human Interest->anniversary"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "South Carolina\nGeorgetown Co",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "ABC",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": ["St. Andrews", "Andrews"],
+      "state": ["South Carolina"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:58:38.580+03:00",
+  "updated": "2025-09-18T09:05:21.000+03:00"
+}

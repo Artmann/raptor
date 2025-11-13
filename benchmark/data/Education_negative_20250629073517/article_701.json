@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "861a13fc31bcc1d794eb9099f333df7eb8088c7a",
+    "url": "https://www.newsbreak.com/nc-newsline-1665766/4074826668662-nc-house-senate-pass-bills-to-ban-dei-in-public-schools-universities-and-state-government",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://local.newsbreak.com/nc-newsline-1665766",
+    "site_categories": ["under_construction"],
+    "section_title": "NC Newsline&#x27;s Home Page | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "NC House, Senate pass bills to ban DEI in public schools, universities and state government - NewsBreak",
+    "title_full": "NC House, Senate pass bills to ban DEI in public schools, universities and state government - NewsBreak",
+    "published": "2025-06-26T12:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/2TwApb_12AtWzoT00",
+    "performance_score": 0,
+    "domain_rank": 3213,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "861a13fc31bcc1d794eb9099f333df7eb8088c7a",
+  "url": "https://www.newsbreak.com/nc-newsline-1665766/4074826668662-nc-house-senate-pass-bills-to-ban-dei-in-public-schools-universities-and-state-government",
+  "ord_in_thread": 0,
+  "author": "Ahmed Jallow",
+  "published": "2025-06-26T12:30:00.000+03:00",
+  "title": "NC House, Senate pass bills to ban DEI in public schools, universities and state government - NewsBreak",
+  "text": "Image: Adobe Stock This story has been updated. North Carolina lawmakers voted this week to approve three Republican-backed bills that would restrict diversity, equity and inclusion programs in public schools, universities and state government. The Republican-led state Senate passed both education measures earlier this year. They now head to Democratic Gov. Josh Stein. Senate Bill 227 targets K-12 education, while Senate Bill 558 focuses on public colleges and universities. The bills would prohibit what sponsors describe as “divisive concepts” from being taught in the classroom. These measures are part of Republican-led efforts to dismantle diversity, equity and inclusion initiatives across the public sector — in government, higher education and K-12 education. Several Democratic representatives denounced the legislation targeting K-12 schools and universities as harmful in Wednesday’s House floor debate. “It is un-American to be anti-diversity, equity and inclusion,” said Rep. Amos L. Quick III, D-Guilford. Opponents also contend the bills will chill academic freedom and honest discussions about historical oppression and that the prohibitions are vaguely worded. “What this bill does is chill teachers. They will be reluctant… to teach about the Trail of Tears, or Japanese internment camps… some of these things that are crucial to North Carolina history,” said Rep. Marcia Morey, D-Durham. Separately, the North Carolina Senate on Wednesday passed House Bill 171 , (“Equality in State Agencies/Prohibition on DEI”) which would ban state agencies from promoting, supporting, funding, implementing or maintaining workplace DEI, including in hirings, dedicated staff positions and offering or requiring DEI training. State workers who violate the measure could be subject to removal, a fine of up to $5,000 and potential civil litigation. And the state auditor’s office, currently held by Republican Dave Boliek, would conduct “periodic” audits of agencies to assure compliance. Sen. Danny Britt, R-Hoke, described the bill as ensuring “everyone should be treated equally across the board.” An amendment adopted on the Senate floor added provisions that would require internal grievance processes before civil actions can be filed. Another amendment would require that only a prevailing party could receive attorney fees. The bill had originally seemed to indicate that complainants who challenged alleged DEI activities unsuccessfully could receive them. Britt stated he believes this change “would eliminate, or at least greatly reduce, the number of unfounded DEI claims.” Sen. Val Applewhite of Cumberland County said the bill is not about protecting merit. “It’s about protecting privilege. It’s about fear, fear that as this nation grows more diverse… the grip on power by a shrinking few is slipping away.” After a brief debate, the House voted to concur with Senate amendments to the bill on Thursday morning on a 60-48 partisan vote. The bill now heads to Gov. Stein. To overcome a potential veto from Democratic Gov. Josh Stein, House Republicans would need at least one Democrat to vote with them if all members are present. In the Senate, Republicans have enough votes along party lines to override a veto on their own. No action from Stein expected until after lawmakers depart from Raleigh for a summer break.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education", "Politics", "Social Issue"],
+  "topics": [
+    "Education->college and university",
+    "Education->teachers",
+    "Education->state school",
+    "Politics->government",
+    "Politics->education policy",
+    "Politics->political development",
+    "Social Issue->diversity, equity and inclusion",
+    "Social Issue->social services",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.ncleg.gov/BillLookUp/2025/s558",
+    "https://www.ncleg.gov/BillLookUp/2025/s227",
+    "https://www.ncleg.gov/BillLookUp/2025/h171",
+    "https://ncleg.gov/BillLookUp/2025/s558",
+    "https://ncleg.gov/BillLookUp/2025/h171",
+    "https://ncleg.gov/BillLookUp/2025/s227"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Amos L. Quick III",
+        "sentiment": "none"
+      },
+      {
+        "name": "Josh Stein",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "NC House",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Senate",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "North Carolina House",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:08:45.257+03:00",
+  "updated": "2025-06-28T02:17:31.723+03:00"
+}

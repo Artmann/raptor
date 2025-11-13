@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "75e5e592104f572d05dc7e101cc6984509d2a5c8",
+    "url": "https://www.comoxvalleyrecord.com/opinion/were-going-to-miss-our-emissions-targets-7981553",
+    "site_full": "www.comoxvalleyrecord.com",
+    "site": "comoxvalleyrecord.com",
+    "site_section": "https://news.google.com/search?q=our%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "Welcome to the Comox Valley Record  - Comox Valley Record",
+    "title": "We're going to miss our emissions targets",
+    "title_full": "We're going to miss our emissions targets",
+    "published": "2025-05-08T01:23:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://www.bpmcdn.com/f/files/comoxvalley/2025-february/250212-cvr-icbc-surrey-ev.jpg;w=1200;h=900;mode=crop",
+    "performance_score": 0,
+    "domain_rank": 162627,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "75e5e592104f572d05dc7e101cc6984509d2a5c8",
+  "url": "https://www.comoxvalleyrecord.com/opinion/were-going-to-miss-our-emissions-targets-7981553",
+  "ord_in_thread": 0,
+  "author": "Marc Kitteringham",
+  "published": "2025-05-08T01:23:00.000+03:00",
+  "title": "We're going to miss our emissions targets",
+  "text": "The province put out its annual climate change accountability report, and things aren't looking too great.\nThe report, which goes into the weeds about how much the province's industries and sectors are contributing to greenhouse gas emissions, starts with a sobering admission: that \"B.C.’s current policy landscape does not put us on track to meet our 2030 targets.\"\nAs a takeaway, that's not great. While the report does say that we are reducing the intensity by which we're emitting these harmful chemicals, and shows things the province is working on to make up the deficit, it also shows that the seriousness we should have around this just isn't there.\nI read the story this morning as I flipped through a bunch of different news sites to get a feeling for what's going on today. As I moved to a new news organization's front page, I saw a story that said vehicle sellers want the government to drop their mandate for EV sales.\nThe cognitive dissonance made my head spin.\nI'm not going to pretend that I agree with much of what's going on here. I have my feelings about politics these days, and commercialism and all that. But what I'm seeing is people only caring about the bottom line for the next year, and not the calamity that we are sprinting towards.\nTransportation makes up the lion's share of our emissions in B.C. The report says that 42 per cent of our emissions come from the cars we drive. I've argued for fewer cars in our lives before, so I think it's clear that I don't think cars are the answer. However, as anyone going downtown in Courtenay can tell, people are still driving. If we insist on driving and want a habitable planet, we need to make that shift. I'm sorry, but it's just math at this point.\nThe report says that since 2007 vehicle emissions were up 18 per cent. To meet our targets, we have to be at least 27 per cent below our transportation emissions from 2007. We are going in the opposite direction, and transportation is the only sector that is moving up.\n\"Achieving the sectoral target for transportation will require a significant downward trajectory as sector emissions have risen since 2007,\" the report says. \"Provincial modelling projects that transportation emission reductions will be largely attributable to biofuel blending and the increased deployment of zero-emission vehicles.\"\nInvestment in cleaner transportation and transit projects was both lower than forecast as well. I know times are tough, but I don't think we understand how everything we are seeing right now, all of the instability and difficulty, is the result — albeit indirectly — of a warming world. I don't have the space to go into that, since it would take at least a few books, but a 2017 paper called \"Impact of a changing climate on global stability, wellbeing, and planetary health30006-2/fulltext)\" by Neil Morisetti and Jason Blackstock is a good place to start.\n\"The most commonly identified risk to stability from climate change stems from its role as a stress multiplier in already vulnerable regions of the world,\" the paper says. \"The impact of these risks cannot be isolated in our globalized world. Increased migration pressures and radical terrorism are international challenges. But the interconnected risks go deeper.\"\nIf we don't take this seriously now, we won't have the opportunity to later. If we insist on driving headlong into this future, the least we could do is not rule out EVs.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Politics"],
+  "topics": [
+    "Environment->global warming",
+    "Environment->environmental pollution",
+    "Environment->climate change",
+    "Social Issue->social problem",
+    "Politics->environmental policy",
+    "Politics->government policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(17",
+    "https://thelancet.com/journals/lanplh/article/PIIS2542-5196(17"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:40:16.650+03:00",
+  "updated": "2025-05-07T23:44:34.000+00:00"
+}

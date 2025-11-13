@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "a750ce9145216ad42808fa6252b4c82f9e46ccdd",
+    "url": "https://www.cbsnews.com/minnesota/news/air-quality-forecast-summer-2025-minnesota",
+    "site_full": "www.cbsnews.com",
+    "site": "cbsnews.com",
+    "site_section": "https://news.google.com/search?q=above%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [
+      "media",
+      "television",
+      "entertainment",
+      "top_news_ca",
+      "top_news_ph",
+      "top_news_iq",
+      "top_news_nz",
+      "top_news_au",
+      "top_news_us",
+      "top_news_za",
+      "top_news_sg",
+      "top_news_kw",
+      "top_news"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": "CBS News | Breaking news, top stories &amp; today's latest headlines",
+    "title": "Latest air quality forecast indicates above average wildfire smoke impacts in Minnesota this summer - CBS Minnesota",
+    "title_full": "Latest air quality forecast indicates above average wildfire smoke impacts in Minnesota this summer - CBS Minnesota",
+    "published": "2025-05-08T01:23:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/05/07/fd96ba4a-35a9-470a-affe-177f5bb2b878/thumbnail/1200x630/0d3426f370ff1ea6ec6553437de144b2/gettyimages-1503006922.jpg?v=e61856d8e666e7ed5709adc37bb2d465",
+    "performance_score": 0,
+    "domain_rank": 203,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a750ce9145216ad42808fa6252b4c82f9e46ccdd",
+  "url": "https://www.cbsnews.com/minnesota/news/air-quality-forecast-summer-2025-minnesota",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T01:23:00.000+03:00",
+  "title": "Latest air quality forecast indicates above average wildfire smoke impacts in Minnesota this summer - CBS Minnesota",
+  "text": "The Minnesota Pollution Control Agency has released its latest air quality forecast for the summer season.\nIt's important to keep in mind that there are basically two different types of pollutants: wildfire smoke, which you're probably familiar with, and ozone.\nOzone occurs when chemicals at the surface of the Earth in the atmosphere interact with sunlight, and it is not good to ingest.\nThe forecast for this summer is calling for below average precipitation, which means you have less clouds, more sun and a better chance of seeing ozone. The forecast is calling for a slightly above average ozone season, with four to seven days of ozone expected, and also anticipating the greatest impacts being around the Twin Cities suburbs and the Rochester region.\nWhen it comes to wildfires, drought does make an impact. Below, you can see the forecast going through July. Locations in yellow should anticipate drought conditions to develop. Spots in brown can anticipate drought to persist.\nWhen we have drought, that does, of course, stress out vegetation. Things in the atmosphere, like strong winds and low relative humidity, increase the chances of seeing wildfires.\nThe forecast also calls for elevated wildfire activity in Canada, which, as we've seen in the past, does impact Minnesota and western Wisconsin.\nThe MPCA forecasts a slightly above average wildfire season here, which means 12 to 16 days of wildfire smoke impacts are anticipated.\nWCCO's NEXT Weather team will let you know about days where air quality could be an issue.\nMore from CBS News Midweek \"cooldown\" in Twin Cities ahead of summer warmth Cooler Wednesday in Twin Cities ahead of big weekend warmth What are the best fishing conditions, weather-wise? Tuesday marks 60 years since deadly Twin Cities tornado outbreak In: NEXT Weather Air Quality Pollution Lisa Meadows Lisa has been fascinated by the weather all her life. She obtained her Bachelor of Science degree in Meteorology with a minor in mathematics from Valparaiso University. She also obtained a Bachelor of Arts degree in Communications, and has the American Meteorological Society Certified Broadcast Meteorologist designation, as well as a NWA Seal of Approval from the National Weather Association.\nTwitter Facebook Instagram",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->environmental pollution",
+    "Environment->air pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.pca.state.mn.us/air-water-land-climate/current-air-quality-conditions",
+    "https://www.facebook.com/MeteorologistLisaMeadows/",
+    "https://www.instagram.com/metlisameadows/",
+    "https://twitter.com/lisameadowscbs",
+    "https://facebook.com/MeteorologistLisaMeadows/",
+    "https://www.facebook.com/MeteorologistLisaMeadows",
+    "https://www.twitter.com/lisameadowscbs",
+    "https://www.instagram.com/metlisameadows",
+    "https://instagram.com/metlisameadows/",
+    "https://pca.state.mn.us/air-water-land-climate/current-air-quality-conditions"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Earth",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:38:27.900+03:00",
+  "updated": "2025-05-08T05:16:26.704+03:00"
+}

@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "e1752f39f2140891587d1a7c05ed74515a0cbbec",
+    "url": "https://www.columbian.com/news/2023/dec/28/call-for-fall-quickly-gets-complicated-for-clark-county-fire-district-6-in-hazel-dell/",
+    "site_full": "www.columbian.com",
+    "site": "columbian.com",
+    "site_section": "http://www.columbian.com/rss/",
+    "site_categories": ["media"],
+    "section_title": "The Columbian",
+    "title": "Call for fall quickly gets complicated for Clark County Fire District 6 in Hazel Dell",
+    "title_full": "Call for fall quickly gets complicated for Clark County Fire District 6 in Hazel Dell",
+    "published": "2023-12-29T00:28:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://pcdn.columbian.com/wp-content/uploads/2023/12/1229_met_ccfd6-rescue.jpg",
+    "performance_score": 0,
+    "domain_rank": 8428,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 1,
+        "shares": 5
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e1752f39f2140891587d1a7c05ed74515a0cbbec",
+  "url": "https://www.columbian.com/news/2023/dec/28/call-for-fall-quickly-gets-complicated-for-clark-county-fire-district-6-in-hazel-dell/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Becca Robbins",
+  "published": "2023-12-29T00:28:00.000+02:00",
+  "title": "Call for fall quickly gets complicated for Clark County Fire District 6 in Hazel Dell",
+  "text": "Rescue crews helped an injured woman back to safety after she fell down an embankment Thursday morning on Northeast Hazel Dell Avenue, just north of Vancouver city limits.\nThe 43-year-old woman, whose name was not released, was taken to an area hospital for treatment of injuries that were not considered life threatening, according to Dave Schmitke, a spokesman for Clark County Fire District 6.\nFire District 6 responded at 6:58 a.m. to a call for a fall at Hazel Dell Avenue and Alki Road.\nWhile those types of calls are common for the agency, Schmitke said the response quickly became challenging.\nFire crews arrived to find the woman — a resident of a nearby homeless encampment — had fallen down the muddy hillside and was unable to move. They learned the woman had fallen elsewhere days prior, and she was in a great deal of pain Thursday morning, according to Schmitke.\nThe Vancouver Fire Department and Clark County’s Technical Rescue Team, a regional team that comprises Fire District 6, Vancouver Fire and Clark-Cowlitz Fire Rescue, also responded.\nRescue crews secured the woman to a backboard, Schmitke said, and used a rope system to haul her up the embankment.\nSchmitke said the rescue operation took about an hour; he called it a team effort.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Human Interest", "Disaster and Accident", "Health"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "schmitke",
+        "sentiment": "none"
+      },
+      {
+        "name": "dave schmitke",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "hazel dell rescue",
+        "sentiment": "negative"
+      },
+      {
+        "name": "clark county’s technical rescue team",
+        "sentiment": "none"
+      },
+      {
+        "name": "vancouver fire and clark-cowlitz fire rescue",
+        "sentiment": "none"
+      },
+      {
+        "name": "vancouver fire department",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "clark county",
+        "sentiment": "none"
+      },
+      {
+        "name": "northeast hazel dell avenue",
+        "sentiment": "none"
+      },
+      {
+        "name": "vancouver",
+        "sentiment": "none"
+      },
+      {
+        "name": "alki road",
+        "sentiment": "none"
+      },
+      {
+        "name": "hazel dell avenue",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:09:55.798+02:00",
+  "updated": "2023-12-29T01:09:55.798+02:00"
+}

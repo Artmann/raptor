@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "78354c2a4c03c5d9e0cb224653a772d99ae74fda",
+    "url": "https://www.lastampa.it/cronaca/2025/06/26/news/docente_italiana_in_fuga_da_teheran_angelina_spenillo-15207144",
+    "site_full": "www.lastampa.it",
+    "site": "lastampa.it",
+    "site_section": "http://www.lastampa.it",
+    "site_categories": ["web_design_html", "tech", "top_news_it", "top_news"],
+    "section_title": "\n   La Stampa - Ultime notizie di cronaca e news dall'Italia e dal mondo\n  ",
+    "site_title": "La Stampa - Ultime notizie di cronaca e news dall'Italia e dal mondo",
+    "title": "Docente italiana in fuga da Teheran. \"Avevo vinto la cattedra per insegnare in Iran\" - La Stampa",
+    "title_full": "Docente italiana in fuga da Teheran. \"Avevo vinto la cattedra per insegnare in Iran\" - La Stampa",
+    "published": "2025-06-26T08:58:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://www.gedistatic.it/content/gnn/img/lastampa/2025/06/26/075805181-c7133630-979e-45f2-b646-07c62dfd99f8.jpg",
+    "performance_score": 0,
+    "domain_rank": 2659,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "78354c2a4c03c5d9e0cb224653a772d99ae74fda",
+  "url": "https://www.lastampa.it/cronaca/2025/06/26/news/docente_italiana_in_fuga_da_teheran_angelina_spenillo-15207144",
+  "ord_in_thread": 0,
+  "author": "La Stampa",
+  "published": "2025-06-26T08:58:00.000+03:00",
+  "title": "Docente italiana in fuga da Teheran. \"Avevo vinto la cattedra per insegnare in Iran\" - La Stampa",
+  "text": "Certo, la maestra Angelina Spenillo, lucana, originaria di Lagonegro, in provincia di Potenza, non avrebbe mai immaginato di dover fuggire nottetempo e lasciare i suoi alunni a Teheran per il conflitto tra Iran e Israele. Era arrivata lì da meno di due mesi e sarebbe rimasta «volentieri» in quel che definisce più volte «un clima scolastico di fratellanza ». Insegnava in due classi, di quinta e seconda elementare, «immersa in decine di culture diverse, nella mia scuola del mondo». La maestra Angelina Spenillo è dovuta scappare a causa della guerra, dopo esser rimasta per giorni chiusa in casa, mentre fuori c’erano i bombardamenti.\nil retroscena Trump sceglie la trattativa: “Cessate il fuoco con Israele” dal nostro inviato Alberto Simoni 23 Giugno 2025",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->teachers",
+    "Education->vocational education",
+    "Education->college and university",
+    "Social Issue->discrimination",
+    "Social Issue->emigration",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Angelina Spenillo",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Trump",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "provincia di Potenza",
+        "sentiment": "none"
+      },
+      {
+        "name": "Lagonegro",
+        "sentiment": "none"
+      },
+      {
+        "name": "Israele",
+        "sentiment": "none"
+      },
+      {
+        "name": "Teheran",
+        "sentiment": "none"
+      },
+      {
+        "name": "Iran",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_it", "top_news"],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T15:12:06.025+03:00",
+  "updated": "2025-06-27T13:05:40.000+00:00"
+}

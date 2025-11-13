@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "05489e3dac8d5af429a48cee3ea8a3bdc1d66a2d",
+    "url": "https://www.newsbreak.com/hot-104-7-520833/3996345586423-safety-warning-now-issued-for-hikers-in-minnesota",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/hot-104-7-520833",
+    "site_categories": ["under_construction"],
+    "section_title": "Hot 104.7&#x27;s Home Page | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Safety Warning Now Issued For Hikers In Minnesota - NewsBreak",
+    "title_full": "Safety Warning Now Issued For Hikers In Minnesota - NewsBreak",
+    "published": "2025-05-08T00:37:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/45LhQ4_10voXfVM00",
+    "performance_score": 0,
+    "domain_rank": 3115,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "05489e3dac8d5af429a48cee3ea8a3bdc1d66a2d",
+  "url": "https://www.newsbreak.com/hot-104-7-520833/3996345586423-safety-warning-now-issued-for-hikers-in-minnesota",
+  "ord_in_thread": 0,
+  "author": "David Drew",
+  "published": "2025-05-08T00:37:00.000+03:00",
+  "title": "Safety Warning Now Issued For Hikers In Minnesota - NewsBreak",
+  "text": "Minnesota\nSafety Warning Now Issued For Hikers In Minnesota\nBy David Drew,\n1 hours agoEarly spring hiking in Minnesota can be unpredictable, with lingering snow and mud found on trails in parts of the state. However, now that we're well into the season, with summer beginning in June, the hiking trails throughout Minnesota are getting in great shape. The warmer weather and good trail...\n1",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Social Issue", "Environment"],
+  "topics": [
+    "Health->emergency care",
+    "Health->injury",
+    "Social Issue->communities",
+    "Social Issue->social condition",
+    "Environment->nature",
+    "Environment->sustainability"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "David Drew",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:14:02.872+03:00",
+  "updated": "2025-05-07T23:20:08.000+00:00"
+}

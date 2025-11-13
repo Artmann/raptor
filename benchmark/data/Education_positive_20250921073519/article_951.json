@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "2bf98a66f6ddc570900b3f7725c30a943677843d",
+    "url": "https://vm.ru/news/1262248-sobyanin-v-sherbinke-otkryli-novyj-korpus-shkoly-2122-imeni-yurasova",
+    "site_full": "vm.ru",
+    "site": "vm.ru",
+    "site_section": "http://vm.ru",
+    "site_categories": ["media", "top_news_ru", "top_news"],
+    "section_title": "«Вечерняя Москва» - ежедневная городская столичная газета",
+    "site_title": null,
+    "title": "Собянин: В Щербинке открыли новый корпус школы № 2122 имени Юрасова",
+    "title_full": "Собянин: В Щербинке открыли новый корпус школы № 2122 имени Юрасова",
+    "published": "2025-09-18T09:09:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://cdni-vm.servicecdn.ru/2021.05/original/720_60b4f4f882682c5a3a0d0298.jpg",
+    "performance_score": 0,
+    "domain_rank": 42438,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2bf98a66f6ddc570900b3f7725c30a943677843d",
+  "url": "https://vm.ru/news/1262248-sobyanin-v-sherbinke-otkryli-novyj-korpus-shkoly-2122-imeni-yurasova",
+  "ord_in_thread": 0,
+  "author": "Нарек Акопян",
+  "published": "2025-09-18T09:09:00.000+03:00",
+  "title": "Собянин: В Щербинке открыли новый корпус школы № 2122 имени Юрасова",
+  "text": "Собянин: В Щербинке открыли новый корпус школы № 2122 имени Юрасова\nВ Щербинке построили новый корпус школы №2122 имени Героя Советского Союза О.А. Юрасова, сообщил мэр Москвы Сергей Собянин. По его словам, корпус принял первых учеников 1 сентября. Он соединен с основным зданием теплым переходом, рассчитан на 400 детей.\nМэр отметил, что общее количество мест в школе увеличилось до 1100, что позволит принять больше учащихся. В новом корпусе расположены универсальные и специализированные кабинеты, лабораторно-исследовательские комплексы, спортивный зал и зоны отдыха.\nСергей Собянин подчеркнул, что новый корпус создает комфортные условия для учебы и научно-исследовательской деятельности, включая возможности для детей с ограниченными возможностями здоровья.\n— Около школы обустроили площадки для подвижных игр и проведения мероприятий, спортивную зону. Всю прилегающую территорию благоустроили, — написал мэр города в личном блоге в MAX.\nСобянин также открыл обновленный спорткомплекс «Олимпия» на Фрязевской улице, а также рассказал о завершении реконструкции еще трех спорткомплексов в районах Ясенево, Царицыно и Савелки.\nЭксклюзивы\nВечерка ТВ\nПриметы и советы\nПроще, чем кажется",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "positive",
+  "categories": ["Education", "Politics", "Social Issue"],
+  "topics": [
+    "Education->school",
+    "Education->primary education",
+    "Education->state school",
+    "Politics->education policy",
+    "Politics->local government and authority",
+    "Social Issue->communities",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://max.ru/mossobyanin/AZlbaJ7vaUY",
+    "https://www.max.ru/mossobyanin/AZlbaJ7vaUY"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ru", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:20:16.885+03:00",
+  "updated": "2025-09-19T10:04:48.000+03:00"
+}

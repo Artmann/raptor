@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "1eebf53016f18850f46d7df6664a4c0d001abb53",
+    "url": "http://stock.10jqka.com.cn/20250918/c671234664.shtml",
+    "site_full": "stock.10jqka.com.cn",
+    "site": "10jqka.com.cn",
+    "site_section": "http://www.10jqka.com.cn",
+    "site_categories": ["stocks", "finance", "financial_news"],
+    "section_title": "同花顺财经__让投资变得更简单",
+    "site_title": null,
+    "title": "全国首个《寡核苷酸药物非临床安全性技术指南》团体标准发布",
+    "title_full": "全国首个《寡核苷酸药物非临床安全性技术指南》团体标准发布",
+    "published": "2025-09-18T08:54:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4785,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1eebf53016f18850f46d7df6664a4c0d001abb53",
+  "url": "http://stock.10jqka.com.cn/20250918/c671234664.shtml",
+  "ord_in_thread": 0,
+  "author": "同花顺7x24快讯",
+  "published": "2025-09-18T08:54:00.000+03:00",
+  "title": "全国首个《寡核苷酸药物非临床安全性技术指南》团体标准发布",
+  "text": "第九届中国(天津)核酸药物大会9月17日在天津开幕。天津经开区核酸医药产业园、天津核酸产业创新服务中心正式揭牌，全国首个《寡核苷酸药物非临床安全性技术指南》团体标准发布。3个重点项目现场签约，合作规模上亿元，合作方向涉及生产制造基地建设、新型核酸药物和疫苗开发、冠脉化心脏类器官核酸药物研发等领域。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Health", "Education", "Social Issue"],
+  "topics": [
+    "Health->vaccine",
+    "Health->drug rehabilitation",
+    "Health->health treatment and procedure",
+    "Education->college and university",
+    "Education->students",
+    "Education->vocational education",
+    "Social Issue->demographics",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:00:34.943+03:00",
+  "updated": "2025-09-18T09:11:11.000+03:00"
+}

@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "1d111544397882141ab4f2e16b8e928ab4cca65d",
+    "url": "http://www.op-online.de/sport/fussball/fc-bayern-verliert-weitere-wertvolle-millionen-bei-tel-abgang-zr-93788601.html",
+    "site_full": "www.op-online.de",
+    "site": "op-online.de",
+    "site_section": "http://www.op-online.de",
+    "site_categories": ["media"],
+    "section_title": "Aktuelle Nachrichten aus Offenbach - op-online.de",
+    "site_title": "Aktuelle Nachrichten aus Offenbach - op-online.de",
+    "title": "FC Bayern verliert weitere wertvolle Millionen bei Tel-Abgang",
+    "title_full": "FC Bayern verliert weitere wertvolle Millionen bei Tel-Abgang",
+    "published": "2025-06-19T05:54:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 35251,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1d111544397882141ab4f2e16b8e928ab4cca65d",
+  "url": "http://www.op-online.de/sport/fussball/fc-bayern-verliert-weitere-wertvolle-millionen-bei-tel-abgang-zr-93788601.html",
+  "ord_in_thread": 0,
+  "author": "Adrian Rehling",
+  "published": "2025-06-19T05:54:00.000+03:00",
+  "title": "FC Bayern verliert weitere wertvolle Millionen bei Tel-Abgang",
+  "text": "FC Bayern verliert weitere wertvolle Millionen bei Tel-Abgang\nNach Sané verlässt nun also auch Mathys Tel den FC Bayern. Der Klub bekommt für den Flügelspieler weniger Geld als vorgesehen – und das gleich im doppelten Sinne.\nMünchen – Nach der Leihe kommt der Kauf. Und damit der nächste Abgang beim FC Bayern. Mit Mathys Tel sucht ein weiterer Flügelspieler das Weite, schließt sich fortan fest Tottenham Hotspur an. Der 20-Jährige, der bereits in der vergangenen Saison an den Premier-League-Klub ausgeliehen war, wechselt für eine Ablösesumme von 35 Millionen Euro nach England – die Bayern nicht einmal komplett sehen wird.\nDenn: Tels erster Profiverein wird an dem Transfer beteiligt. Und das gar nicht mal so mickrig. In einer Klausel ließ sich Frankreich-Klub Stade Rennes eine prozentuale Beteiligung bei einem Weiterverkauf des FC Bayern zusichern. In satter Höhe von 25 Prozent. Die Bayern müssen also noch einmal knapp neun Millionen abtreten.\nFC Bayern verliert weitere Millionen an Tel-Ex-Klub Stade Rennes\nUnd so werden aus den 50 Millionen Euro, die vor der Leihe mit den Spurs vereinbart worden sein sollen, aus Münchener Sicht nicht einmal mehr 30 Millionen Euro, die auf dem eigenen Konto verbleiben. Immerhin: Für die Leihe zahlte Tottenham bereits zehn Millionen Euro. Und beim Kauf gab der FC Bayern 20 Millionen Euro für Tel aus – damit steht ein Plus im Gesamtpaket.\nMit dem Abgang von Tel erhöht sich dennoch der Druck auf Bayerns Sportvorstand Max Eberl, die Offensive neu zu besetzen. Nicht nur Tel, sondern auch Leroy Sané und Thomas Müller werden in der kommenden Saison also nicht mehr mit von der Partie sein. Gleich drei Offensivspieler, die es in irgendeiner Form zu ersetzen gilt.\nEberl wollte allerdings erst einmal auf den Abgang blicken und sagte: „Mathys Tel ist als sehr junger Spieler zum FC Bayern gekommen und hat hier seine ersten Schritte in den internationalen Spitzenfußball gemeistert. Es hat sich gezeigt, dass der Schritt nach Tottenham für seine Entwicklung der richtige war. Diesen Weg bei den ‚Spurs‘ wird er nun weitergehen.“ Der französische U21-Nationalspieler verabschiede sich seinerseits gebührend via Instagram: „Ich liebe euch alle, Mia san Mia.“ (rele)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Sport", "Economy, Business and Finance", "Human Interest"],
+  "topics": [
+    "Sport->sports transaction",
+    "Economy, Business and Finance->financial service",
+    "Economy, Business and Finance->business governance"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen",
+    "https://absolutfussball.com/deutschland/fc-bayern-muenchen/"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "England",
+        "sentiment": "none"
+      },
+      {
+        "name": "München",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "FC Bayern",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Frankreich-Klub Stade Rennes",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:40:32.486+03:00",
+  "updated": "2025-06-19T04:53:25.000+00:00"
+}

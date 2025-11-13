@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "47d960f34309d3c0ce051a18528e742f3205a0f1",
+    "url": "https://www.agenda.ge/en/news/2023/5107",
+    "site_full": "www.agenda.ge",
+    "site": "agenda.ge",
+    "site_section": "https://www.agenda.ge/en/rss.xml",
+    "site_categories": ["media"],
+    "section_title": "Agenda.ge news.feed",
+    "title": "Deputy Justice Minister lauds role of domestic reforms against human trafficking in obtaining EU candidacy",
+    "title_full": "Deputy Justice Minister lauds role of domestic reforms against human trafficking in obtaining EU candidacy",
+    "published": "2023-12-29T11:28:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GE",
+    "main_image": "https://www.agenda.ge/files/banks/justice.jpg",
+    "performance_score": 0,
+    "domain_rank": 40860,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "47d960f34309d3c0ce051a18528e742f3205a0f1",
+  "url": "https://www.agenda.ge/en/news/2023/5107",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Agenda ge; Tbilisi; Georgia",
+  "published": "2023-12-29T11:28:00.000+02:00",
+  "title": "Deputy Justice Minister lauds role of domestic reforms against human trafficking in obtaining EU candidacy",
+  "text": "Beka Dzamashvili, the Georgian Deputy Justice Minister, on Thursday highlighted the “significant role” of domestic reforms against human trafficking in the country obtaining the European Union membership\ncandidate status this month.\nChairing a session of the Inter-Agency Council on Human Trafficking, the official reviewed progress and related initiatives, with the discussion reviewing this year’s efforts and progress achieved as part of the 2023-2024 action plan for combating human trafficking, the Justice Ministry press office said.\nCiting positive mentions in the European Commission's latest report over Georgia's progress in combating organised crime, Dzamashvili stressed the most\nrecent report from the United States Department of State had also ranked the county at the “highest level globally” for its accomplishments against human trafficking.\nHe highlighted only 38 out of 198 countries, including Georgia and 18 EU member states, had received the highest rating in the evaluation.\nThe meeting also addressed the necessity of conducting an “extensive information campaign” to raise awareness about the dangers of trafficking, with the Council deciding to intensify awareness-raising activities throughout 2024 while targeting various audiences.\nAlong with Council members, the session was attended by representatives from the Parliament, international and domestic organisations, the Public Defender’s Office and the US Embassy in Georgia.\nKey tasks outlined for the Council include facilitating the effective implementation of functions assigned to relevant state bodies in preventing human trafficking, developing proposals for combating the crime, collaborating with various sectors and monitoring the current situation in the area.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Politics", "Human Interest", "Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "beka dzamashvili",
+        "sentiment": "negative"
+      },
+      {
+        "name": "dzamashvili",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "eu",
+        "sentiment": "negative"
+      },
+      {
+        "name": "united states department of state",
+        "sentiment": "none"
+      },
+      {
+        "name": "justice ministry",
+        "sentiment": "none"
+      },
+      {
+        "name": "european union",
+        "sentiment": "none"
+      },
+      {
+        "name": "european commission",
+        "sentiment": "none"
+      },
+      {
+        "name": "inter-agency council on human trafficking",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "georgia",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T16:05:59.462+02:00",
+  "updated": "2023-12-29T16:05:59.462+02:00"
+}

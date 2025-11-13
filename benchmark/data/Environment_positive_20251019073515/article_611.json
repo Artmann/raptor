@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "fc290fdaa1df38fb23cc866dfaa05505b855c9f5",
+    "url": "https://www.zugerzeitung.ch/aargau/brugg/wasserschlossreis-erfolgreiche-ernte-in-diesem-jahr-ld.4029270",
+    "site_full": "www.zugerzeitung.ch",
+    "site": "zugerzeitung.ch",
+    "site_section": "https://www.zugerzeitung.ch/aargau/brugg",
+    "site_categories": ["media"],
+    "section_title": "Brugg – Nachrichten aus Stadt und Region",
+    "site_title": "Zuger Zeitung | Nachrichten für die Region Zug – ZZ",
+    "title": "Wasserschlossreis: Erfolgreiche Ernte in diesem Jahr",
+    "title_full": "Wasserschlossreis: Erfolgreiche Ernte in diesem Jahr",
+    "published": "2025-10-16T06:05:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CH",
+    "main_image": "https://chm-images-prd.forward-publishing.io/2025/10/14/0aac292c-06b7-43cc-b967-6c0557095b56.jpg?auto=format&amp;s=31fe5467353de905da67f8c40129aae4&amp;rect=0%2C239%2C4000%2C2087&amp;w=1200&amp;h=675",
+    "performance_score": 0,
+    "domain_rank": 145548,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fc290fdaa1df38fb23cc866dfaa05505b855c9f5",
+  "url": "https://www.zugerzeitung.ch/aargau/brugg/wasserschlossreis-erfolgreiche-ernte-in-diesem-jahr-ld.4029270",
+  "ord_in_thread": 0,
+  "author": "Fiora Schmucki",
+  "published": "2025-10-16T06:05:00.000+03:00",
+  "title": "Wasserschlossreis: Erfolgreiche Ernte in diesem Jahr",
+  "text": "Was hier im Aargau wächst, ist tatsächlich Reis – wir waren bei der Ernte dabei\nDer Bio-Reis der Max Schwarz AG landet mittlerweile in vielen Kochtöpfen. Die Ernte jedoch ist auf den eben noch gefluteten Feldern eine Herausforderung – zumal der Mähdrescher nicht gerade ein Leichtgewicht ist. Die AZ hat Geschäftsführer Heiner Gysi aufs Feld begleitet.\nNeugierig auf diesen Artikel?\nMit einem Abonnement profitieren Sie vom exklusiven Zugriff auf alle abo+ Artikel.\n-\nVerpassen Sie nichts, was in Ihrer Region passiert\n-\nIhr Digitalabo gibt es ab CHF 0.25/Woche im ersten Monat\n-\nJederzeit kündbar\nBereits Abonnent:in?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->sustainability", "Environment->nature"],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Heiner Gysi",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Aargau",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Schwarz AG",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:25:45.749+03:00",
+  "updated": "2025-10-16T15:35:55.000+03:00"
+}

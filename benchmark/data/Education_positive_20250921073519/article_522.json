@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "2dc1d1ca28f402802ff21de3e5d7a219dc0d1a45",
+    "url": "https://www.kpcnews.com/newssun/article_5dd2f63c-1db2-4978-88a7-f259b9ea1bfd.html",
+    "site_full": "www.kpcnews.com",
+    "site": "kpcnews.com",
+    "site_section": "http://www.kpcnews.com/search/?f=rss&t=article&c=newssun&l=50&s=start_time&sd=desc",
+    "site_categories": ["media"],
+    "section_title": "www.kpcnews.com - RSS Results in newssun of type article",
+    "site_title": "kpcnews.com | Serving the Northeast Indiana Community",
+    "title": "CFNC grants support child care, education, accessibility",
+    "title_full": "CFNC grants support child care, education, accessibility",
+    "published": "2025-09-18T07:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/kpcnews.com/content/tncms/custom/image/9dd65992-b861-11ed-9571-e7c6e4601664.jpg?resize=600%2C315",
+    "performance_score": 0,
+    "domain_rank": 232466,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2dc1d1ca28f402802ff21de3e5d7a219dc0d1a45",
+  "url": "https://www.kpcnews.com/newssun/article_5dd2f63c-1db2-4978-88a7-f259b9ea1bfd.html",
+  "ord_in_thread": 0,
+  "author": "From Staff Reports",
+  "published": "2025-09-18T07:00:00.000+03:00",
+  "title": "CFNC grants support child care, education, accessibility",
+  "text": "LIGONIER — The Community Foundation of Noble County has announced the awarding of more than $120,000 in grants from the AWS Accessible Communities Fund and the Community Impact Fund, supporting a diverse range of initiatives that improve accessibility, strengthen early childhood education, and promote youth engagement throughout the region.\nThese grant awards reflect the foundation’s deep commitment to uplifting community members of all abilities and ages, ensuring that everyone in Noble County has access to safe, enriching, and inclusive experiences.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Economy, Business and Finance"],
+  "topics": [
+    "Education->school",
+    "Education->parents group",
+    "Education->early childhood education",
+    "Economy, Business and Finance->financial service",
+    "Economy, Business and Finance->human resources",
+    "Economy, Business and Finance->business governance"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Noble County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Altona",
+        "Angola",
+        "Merriam",
+        "Kendallville",
+        "Fremont",
+        "Avilla",
+        "Pittsburg",
+        "Laotto",
+        "St. Joe",
+        "Fairview",
+        "Gentryville",
+        "Spencerville",
+        "Petersville",
+        "Coesse",
+        "Freelandville",
+        "Colburn",
+        "Hudson",
+        "Auburn",
+        "Huntertown",
+        "Corunna",
+        "Malden",
+        "Newbern"
+      ],
+      "state": ["Indiana"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:29:33.814+03:00",
+  "updated": "2025-09-18T08:33:30.000+03:00"
+}

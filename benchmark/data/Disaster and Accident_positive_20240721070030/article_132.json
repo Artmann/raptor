@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "6d770606ac11f7a5c3884886af03d82c7fc9ee1b",
+    "url": "https://in-cyprus.philenews.com/international/usa-humanitarian-aid-continues-as-pier-restored",
+    "site_full": "in-cyprus.philenews.com",
+    "site": "philenews.com",
+    "site_section": "http://emm.newsbrief.eu/rss/rss?type=rtn&language=en&duplicates=false",
+    "site_categories": ["media"],
+    "section_title": "Latest news clusters for en",
+    "title": "USA: humanitarian aid continues as pier restored | in-cyprus.com",
+    "title_full": "USA: humanitarian aid continues as pier restored | in-cyprus.com",
+    "published": "2024-06-21T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CY",
+    "main_image": "https://in-cyprus.philenews.com/wp-content/uploads/2024/06/PIER-GAZA-usa-israel.jpg",
+    "performance_score": 0,
+    "domain_rank": 27456,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6d770606ac11f7a5c3884886af03d82c7fc9ee1b",
+  "url": "https://in-cyprus.philenews.com/international/usa-humanitarian-aid-continues-as-pier-restored",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-06-21T03:00:00.000+03:00",
+  "title": "USA: humanitarian aid continues as pier restored | in-cyprus.com",
+  "text": "The delivery of humanitarian aid from Cyprus to Gaza has resumed after the US Central Command successfully repositioned the temporary pier on the Gaza coastline on Wednesday, the Pentagon announced. The Central Command had towed the pier to the port of Ashdod on June 14 to avoid potential damage from rough seas. “I can confirm that personnel reanchored and reestablished the temporary pier to the Gaza beach yesterday,” said Pentagon Spokesman Pat Ryder. The pier’s reinstatement allowed for the overnight transfer of more than 656 metric tons of aid, which will be delivered to the Gaza food distribution point, Ryder said. “As has been the case in the past, Israeli Defense Force engineers provided all the necessary support to ensure the safe emplacement of the pier on the beach, and there were no U.S. boots on the ground during the reestablishment of the pier,” he added. According to Ryder, despite sustaining some damage from weather conditions and temporary operational disruptions, the pier has delivered a significant amount of aid to Gaza since last month. “Since May 17, when the temporary pier first went operational, over 4,100 metric tons — or 9.1 million pounds — [of aid] have been delivered through the maritime corridor for onward delivery by humanitarian organisations,” he noted. “While it’s always been our intention for the pier to be a temporary solution as part of the broader international effort to surge humanitarian assistance into Gaza to meet the urgent needs of the Palestinian people, we have not established an end date for this mission as of now,” he said. Therefore, Ryder said, “we’ll continue to facilitate the transfer of humanitarian aid via the maritime corridor”, and “as always”, we will “take the necessary steps to ensure the safety and security of the personnel operating the pier; to include adjusting to sea states in the eastern Mediterranean Sea — the same way we do with aircraft operations in the event of inclement weather or conditions.” (information from CNA)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Politics", "Human Interest"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "pat ryder",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "us central command",
+        "sentiment": "negative"
+      },
+      {
+        "name": "defense force",
+        "sentiment": "none"
+      },
+      {
+        "name": "ryder",
+        "sentiment": "none"
+      },
+      {
+        "name": "central command",
+        "sentiment": "none"
+      },
+      {
+        "name": "pentagon",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "gaza",
+        "sentiment": "none"
+      },
+      {
+        "name": "usa",
+        "sentiment": "none"
+      },
+      {
+        "name": "cyprus",
+        "sentiment": "none"
+      },
+      {
+        "name": "ashdod",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-21T10:18:40.218+03:00",
+  "updated": "2024-06-21T12:57:07.038+03:00"
+}

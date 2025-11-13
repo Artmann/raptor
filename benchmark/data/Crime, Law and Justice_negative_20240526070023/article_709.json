@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "a88901999df79e3d83826c54e259d8c6bcc5bc39",
+    "url": "https://whdh.com/news/newton-3-alarm-fire-most-likely-caused-by-oily-rags",
+    "site_full": "whdh.com",
+    "site": "whdh.com",
+    "site_section": "https://nasa.einnews.com/live_feed",
+    "site_categories": ["media", "tech"],
+    "section_title": "Live Feed Wire - NASA News Today - EIN Presswire",
+    "title": "Newton 3-alarm fire most likely caused by oily rags",
+    "title_full": "Newton 3-alarm fire most likely caused by oily rags",
+    "published": "2024-04-25T23:10:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://whdh.com/wp-content/uploads/sites/3/2024/04/WHDH_2024-04-24_18h42-06-cover.jpg?quality=60&strip=color",
+    "performance_score": 0,
+    "domain_rank": 11012,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a88901999df79e3d83826c54e259d8c6bcc5bc39",
+  "url": "https://whdh.com/news/newton-3-alarm-fire-most-likely-caused-by-oily-rags",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@7News",
+  "published": "2024-04-25T23:10:00.000+03:00",
+  "title": "Newton 3-alarm fire most likely caused by oily rags",
+  "text": "NEWTON, MASS. (WHDH) - A three-alarm fire that tore through an unoccupied house in Newton late Wednesday morning was most likely caused by oily rags sitting in a trash bag, according to a statement from the Massachusetts Department of Fire Services. At around 11:30 a.m., Newton firefighters responded to a 2-and-a-half story house at 8 Central Ave. for reports of smoke billowing from the building, the statement said. The fire began near the top of a staircase on the second floor, where oily staining rags had been left in a trash bag the day before, according to the statement. Firefighters found heavy fire on the upper floors of the house and battled the flames through the afternoon until they were extinguished, the statement said. The oils in many paints, stains, and varnishes release heat as they dry, and if rags with such substances are left in a pile, the heat can become strong enough to ignite them. “These fires are especially dangerous because they can smolder undetected for hours before bursting into flames that spread to other combustible items,” Newton Fire Chief Gregory J. Gentile said in the statement. Massachusetts State Police investigators identified oily rags as the cause or a potential factor in around a dozen residential fires last year, the statement said. Those who are planning to take on a project that involves painting, staining, or varnishing should be sure to dispose of rags and applicators safely, it said. “First, dry them individually outdoors. You can hang dry them or spread them out flat on the ground. Once they’re dry, place them in a can filled with water and cover it with a tight-fitting lid. An old paint can works perfectly. Then drop it off at a household hazardous waste collection in your community,” State Fire Marsal Jon M. Davine said in the statement. (Copyright (c) 2024 Sunbeam Television. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed.)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "newton",
+        "sentiment": "none"
+      },
+      {
+        "name": "gregory j. ge",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "newton",
+        "sentiment": "negative"
+      },
+      {
+        "name": "massachusetts department of fire services",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "mass.",
+        "sentiment": "none"
+      },
+      {
+        "name": "newton",
+        "sentiment": "none"
+      },
+      {
+        "name": "newton",
+        "sentiment": "none"
+      },
+      {
+        "name": "central ave.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:31:36.433+03:00",
+  "updated": "2024-04-26T00:32:03.789+03:00"
+}

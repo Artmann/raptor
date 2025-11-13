@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "a0d1e5c3120cb37c4d43e9ac965a72417990ee54",
+    "url": "https://vm.ru/news/1240393-permskij-kolledzh-otchislil-studentov-priehavshih-na-voennye-sbory-na-lichnom-avto",
+    "site_full": "vm.ru",
+    "site": "vm.ru",
+    "site_section": "http://vm.ru/news",
+    "site_categories": ["media", "top_news_ru", "top_news"],
+    "section_title": "Все самые важные новости столицы, России и мира | «Вечерняя Москва»",
+    "site_title": null,
+    "title": "Пермский колледж отчислил студентов, приехавших на военные сборы на личном авто",
+    "title_full": "Пермский колледж отчислил студентов, приехавших на военные сборы на личном авто",
+    "published": "2025-06-26T14:38:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://cdni-vm.servicecdn.ru/2024.09/original/720_66d5a6f482682c4ae0897fb4.jpg",
+    "performance_score": 0,
+    "domain_rank": 16035,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a0d1e5c3120cb37c4d43e9ac965a72417990ee54",
+  "url": "https://vm.ru/news/1240393-permskij-kolledzh-otchislil-studentov-priehavshih-na-voennye-sbory-na-lichnom-avto",
+  "ord_in_thread": 0,
+  "author": "Ксения Рыбакова",
+  "published": "2025-06-26T14:38:00.000+03:00",
+  "title": "Пермский колледж отчислил студентов, приехавших на военные сборы на личном авто",
+  "text": "Пермский колледж отчислил студентов, приехавших на военные сборы на личном авто\nВ Перми студенты добились восстановления в колледже. Их незаконно отчислили после того, как они приехали на военные сборы на личном автомобиле. Об этом в среду, 25 июня, сообщили в пресс-службе прокуратуры по региону.\nИнцидент произошел в начале текущего года. На военные сборы, которые устроил колледж, часть учащихся приехала на личных автомобилях. Организаторы посчитали это нарушением порядка проведения мероприятия. После этого двух студентов отчислили.\nУчащиеся обжаловали решение. Руководство учреждения ознакомило студентов с приказом об отчислении с нарушением сроков. В итоге прокуратура отменила через суд приказы об отчислении, а также взыскала в их пользу компенсацию морального вреда, передает сайт ведомства.\nВ конце мая стало известно, что студента-политолога Артема Пронько отчислили из СПбГУ после решения суда о его причастности к акции с «подвешенной Минервой». По версии следователей, Пронько занимался пикетированием, подвесив манекен Минервы на памятник графу Сергею Уварову около здания Двенадцати коллегий.\nЭксклюзивы\nВечерка ТВ\nПриметы и советы",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Social Issue", "Education"],
+  "topics": [
+    "Social Issue->social condition",
+    "Social Issue->teenagers",
+    "Social Issue->social services",
+    "Education->college and university",
+    "Education->vocational education",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://epp.genproc.gov.ru/web/proc_59/mass-media/news/reg-news?item=105078484",
+    "https://www.epp.genproc.gov.ru/web/proc_59/mass-media/news/reg-news?item=105078484",
+    "https://epp.genproc.gov.ru/web/proc_59/mass-media/news/reg-news"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ru", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T15:20:25.460+03:00",
+  "updated": "2025-06-26T12:26:06.000+00:00"
+}

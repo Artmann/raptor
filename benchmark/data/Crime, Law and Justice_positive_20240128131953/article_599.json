@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "c1a40c1cd4868aa88d62e5ed0f43d70480747623",
+    "url": "https://www.dtnext.in/news/national/up-ranks-first-in-the-inter-operable-criminal-justice-system-757526",
+    "site_full": "www.dtnext.in",
+    "site": "dtnext.in",
+    "site_section": "https://dtnext.in/ani",
+    "site_categories": ["media"],
+    "section_title": "ANI, dtnext",
+    "title": "UP ranks first in the Inter-Operable Criminal Justice System",
+    "title_full": "UP ranks first in the Inter-Operable Criminal Justice System",
+    "published": "2023-12-29T19:15:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://dtnext-prod.s3.ap-south-1.amazonaws.com/h-upload/2023/12/29/790088-untitled1.jpg",
+    "performance_score": 0,
+    "domain_rank": 60701,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c1a40c1cd4868aa88d62e5ed0f43d70480747623",
+  "url": "https://www.dtnext.in/news/national/up-ranks-first-in-the-inter-operable-criminal-justice-system-757526",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "ANI",
+  "published": "2023-12-29T19:15:00.000+02:00",
+  "title": "UP ranks first in the Inter-Operable Criminal Justice System",
+  "text": "UP ranks first in the Inter-Operable Criminal Justice System Uttar Pradesh has ranked first for the third consecutive year in recording the highest entry rate on the Inter-Operable Criminal Justice System LUCKNOW: Uttar Pradesh has consistently ranked first for the third consecutive year in recording the highest entry rate on the Inter-Operable Criminal Justice System (ICJS) platform, conceptualized by the Supreme Court's e-committee and implemented by the Ministry of Home Affairs. Notably, the ICJS platform facilitates the seamless transfer of data and information among various pillars of the criminal justice system nationwide. In these, data related to crimes and criminals is exchanged between courts, police, jails, and forensic science laboratories through a single window system. ADG Prosecution Deepesh Juneja said that the Directorate of Prosecution Uttar Pradesh has recorded 1,56,22,514 entries on the ICJS platform so far. Madhya Pradesh is in second place with 35,04,828 entries, and Bihar is in third place with 16,65,107 entries. Through ICJS, records such as FIR, case numbers, jail ID, and records from filing FIRs against suspects to imprisonment of culprits are maintained. Additionally, details of court cases, trials, judgments, prosecution, and forensic information can be accessed by courts, police, jails, and forensic science laboratories through a single platform. Information related to criminal justice related to the investigation, search, case history, case pendency, current status of the criminal, etc. required from time to time is also available on ICJS. The police department gets help in data analytics for the prediction of crimes based on this information and effective management of crime control in the future. In addition to this, photographs, videos, documentary evidence as well as court case data, and video recordings of court proceedings related to crimes and criminals are also preserved on ICJS. Furthermore, it facilitates the enablement of judicial proceedings through video conferencing.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Politics", "Crime, Law and Justice", "Social Issue"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "deepesh juneja",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "inter-operable criminal justice system uttar pradesh",
+        "sentiment": "negative"
+      },
+      {
+        "name": "ministry of home affairs",
+        "sentiment": "none"
+      },
+      {
+        "name": "adg",
+        "sentiment": "none"
+      },
+      {
+        "name": "prosecution uttar pradesh",
+        "sentiment": "none"
+      },
+      {
+        "name": "supreme court",
+        "sentiment": "none"
+      },
+      {
+        "name": "uttar pradesh",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "bihar",
+        "sentiment": "none"
+      },
+      {
+        "name": "madhya pradesh",
+        "sentiment": "none"
+      },
+      {
+        "name": "lucknow",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T19:31:36.461+02:00",
+  "updated": "2023-12-29T19:31:36.461+02:00"
+}

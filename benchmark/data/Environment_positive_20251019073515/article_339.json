@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "3d4af05b1bc13a2a1154dabf1898465d03690320",
+    "url": "https://english.news.cn/20251016/e76394a7b06948788954192760e378a5/c.html",
+    "site_full": "english.news.cn",
+    "site": "news.cn",
+    "site_section": "https://english.news.cn/list/latestnews.htm",
+    "site_categories": ["media"],
+    "section_title": "Latest news | English.news.cn",
+    "site_title": "新华网_让新闻离你更近",
+    "title": "Economic Watch: China's outdoor boom turns trails into green gold-Xinhua",
+    "title_full": "Economic Watch: China's outdoor boom turns trails into green gold-Xinhua",
+    "published": "2025-10-16T14:18:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3291,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3d4af05b1bc13a2a1154dabf1898465d03690320",
+  "url": "https://english.news.cn/20251016/e76394a7b06948788954192760e378a5/c.html",
+  "ord_in_thread": 0,
+  "author": "Xinhua",
+  "published": "2025-10-16T14:18:00.000+03:00",
+  "title": "Economic Watch: China's outdoor boom turns trails into green gold-Xinhua",
+  "text": "BEIJING, Oct. 16 (Xinhua) -- Ranging from the hiking trails of the Qinghai-Tibet Plateau in western China to coastal camping sites, and from family-friendly forest adventures to recreational fishing, outdoor venues and activities have ignited consumer markets and spawned new industrial frontiers across China.\nMore and more consumers are realizing that happiness is only a trail or camping spot away. Zhang Yu, a backpacker from southwest China's Chongqing Municipality, stood on a narrow plank walkway that cuts across a mirror-bright lake in Nyingchi of Xizang Autonomous Region.\nGolden marsh grass brushed his knees, while snowy peaks were visible above the treeline and every footstep served to further expand his immersion in a living canvas.\n\"Every step feels like walking through a landscape painting,\" said Zhang. \"This hiking route is compact, scenically diverse and very popular.\"\nNyingchi has tapped into the potential of its core natural landscapes, such as Basum Lake and Yani Wetland, cultivating immersive outdoor experiences like hiking, camping and cycling.\nRelevant data confirms a surge in China's enthusiasm for the outdoors. Meituan data shows that during the recently concluded National Day holiday, the search volume for \"outdoor hiking\" had increased by over 253 percent year on year, while the \"outdoor rafting\" search volume grew by 121 percent.\nIn 2024 alone, China saw some 200 million online orders for outdoor sports consumption, with total consumption value exceeding 300 billion yuan (about 42 billion U.S. dollars).\nAccording to iiMedia Research estimates, the core market value of China's domestic camping economy will rise to 487.98 billion yuan by 2030, featuring a compound annual growth rate of 14.7 percent.\n\"Unlike the 'tasting' and 'trying out' of the early years, many young people have now turned outdoor activities into a way of life,\" said Liu Yi, an outdoor enthusiast from the coastal city of Qingdao in east China's Shandong Province.\nNowadays, cycling groups pass by the coastal highway near her home on a daily basis, while an increasing number of her friends are sharing their hiking records on social media, Liu revealed.\nThe rise in China's outdoor activity levels is inseparable from the continuous improvement of venues and facilities under the guidance of local governments. Statistics show that, as of the end of 2024, China had 171,800 fitness trails, totaling 407,500 kilometers in length. The country also had 2,055 camping sites and 914 skiing venues.\nRetailers are also feeling this outdoor rush. At a Decathlon store on Chongqing's Nanbin Road, store manager Cen Lin can barely keep shelves stocked. \"This year has seen a rapid increase in outdoor gear, indicating that consumers are increasingly favoring outdoor sports experiences,\" said Cen.\nBeijing climber Chen Shaoxuan has spent more than 20,000 yuan in less than a year on diving fins and mask, safety belts, chalk bags, climbing shoes and an action camera -- chronicling her evolution from curious novice to micro-celebrity with over 10,000 online followers.\nVip.com, a popular Chinese e-commerce platform, has revealed that in 2025, canyoning shoes and surfing and diving equipment have seen sales soar by 56 percent and 47 percent year on year, respectively. Notably, the outdoor consumption range is continuously expanding, with water sports and ice and snow sports particularly gaining steam, the platform revealed.\nThis ripple effect is boosting more than just sports brands.\n\"There were a lot of tourists coming to hike during this National Day holiday and all the hotels and inns in the town were fully booked,\" said Chen Xian'gang, Party secretary of Xizang's Bagar Township, a sought-after destination for outdoor enthusiasts. Local herdsmen, aiming at the outdoor travel needs of tourists, have launched related offerings such as guiding services and yak rentals.\n\"This outdoor fever is not a passing trend. It echoes people's emphasis on health, nature and experiences. Under policy promotion, the outdoor sector is becoming a new growth driver,\" said Wang Dianli, a professor at the School of Public Administration, Shandong University. ■",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Lifestyle and Leisure", "Environment"],
+  "topics": [
+    "Lifestyle and Leisure->outdoor recreational activities",
+    "Environment->sustainability",
+    "Environment->parks"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.youtube.com/user/ChinaViewTV",
+    "https://www.facebook.com/XinhuaNewsAgency/",
+    "https://twitter.com/XHNews",
+    "https://youtube.com/user/ChinaViewTV",
+    "https://www.twitter.com/XHNews",
+    "https://facebook.com/XinhuaNewsAgency/",
+    "https://www.facebook.com/XinhuaNewsAgency"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Zhang Yu",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Nyingchi",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Xinhua",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "603888",
+            "exchange": "SHA"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "3d4af05b1bc13a2a1154dabf1898465d03690320",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:28:45.393+03:00",
+  "updated": "2025-10-16T14:41:21.000+03:00"
+}

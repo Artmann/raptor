@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "1b0f56bda4f26c023c01f10a5505ad5bd35ad33d",
+    "url": "https://www.nbd.com.cn/articles/2025-05-08/3868175.html",
+    "site_full": "www.nbd.com.cn",
+    "site": "nbd.com.cn",
+    "site_section": "http://www.nbd.com.cn/columns/332",
+    "site_categories": ["media"],
+    "section_title": "重磅原创-首页 | 新闻决定影响力 |《每日经济新闻》报社旗下网站",
+    "site_title": "每经网 | 新闻决定影响力 |《每日经济新闻》报社旗下网站",
+    "title": "港股芯片股震荡下挫，地平线机器人跌超4.4% | 每经网",
+    "title_full": "港股芯片股震荡下挫，地平线机器人跌超4.4% | 每经网",
+    "published": "2025-05-08T05:50:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 16449,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1b0f56bda4f26c023c01f10a5505ad5bd35ad33d",
+  "url": "https://www.nbd.com.cn/articles/2025-05-08/3868175.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T05:50:00.000+03:00",
+  "title": "港股芯片股震荡下挫，地平线机器人跌超4.4% | 每经网",
+  "text": "每经AI快讯，5月8日，港股芯片股震荡下挫，地平线机器人(09660.HK)跌超4.4%，中芯国际(00981.HK)跌近3%，贝克微(02149.HK)、晶门半导体(02878.HK)均跌超1%。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Social Issue",
+    "Environment"
+  ],
+  "topics": [
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->business reporting and performance",
+    "Economy, Business and Finance->market and exchange",
+    "Social Issue->population and census",
+    "Social Issue->demographics",
+    "Environment->energy resources"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:43:18.284+03:00",
+  "updated": "2025-05-08T03:48:55.000+00:00"
+}

@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "364962401f25b44e85780d925b37ef831de3f725",
+    "url": "https://www.elperiodico.cat/ca/barcelona/20250508/associacions-veins-alerten-deteriorament-dels-117149214",
+    "site_full": "www.elperiodico.cat",
+    "site": "elperiodico.cat",
+    "site_section": "https://elperiodico.cat",
+    "site_categories": ["media", "education", "business"],
+    "section_title": "El Periódico - Notícies i última hora de Catalunya, Espanya i el món",
+    "site_title": "El Periódico - Notícies i última hora de Catalunya, Espanya i el món",
+    "title": "Associacions de veïns alerten del deteriorament dels eixos verds",
+    "title_full": "Associacions de veïns alerten del deteriorament dels eixos verds",
+    "published": "2025-05-08T01:11:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://estaticos-cdn.prensaiberica.es/clip/07d1706c-6aeb-43cc-9ce7-6d05f8b4a9b9_16-9-aspect-ratio_default_0.jpg",
+    "performance_score": 0,
+    "domain_rank": 62559,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "364962401f25b44e85780d925b37ef831de3f725",
+  "url": "https://www.elperiodico.cat/ca/barcelona/20250508/associacions-veins-alerten-deteriorament-dels-117149214",
+  "ord_in_thread": 0,
+  "author": "Carles Cols",
+  "published": "2025-05-08T01:11:00.000+03:00",
+  "title": "Associacions de veïns alerten del deteriorament dels eixos verds",
+  "text": "Urbanisme\nAssociacions de veïns alerten del deteriorament dels eixos verds\nPer vergonya, desgana o falta de fe en el projecte per part de l’Ajuntament de Barcelona, els eixos verds de l’Eixample estan en perill. Aquesta és l’advertència que han llançat associacions de veïns i diverses entitats agrupades sota el nom d’una plataforma de nom inequívoc, Volem un Consell de Cent Verd i Viu, que, tot i que en el cognom només hi porta el nom d’un carrer, també es refereix al cas dels altres tres eixos inaugurats fa dos anys, això és, Rocafort, Borrell i Girona. La plataforma ha analitzat el que, segons la seva opinió, és una progressiva i evitable degradació de tot aquest seguit de carrers.\nLa plataforma té previst presentar avui els resultats de l’anàlisi al mig de la intersecció de Borrell amb Consell de Cent. Més que una presentació serà una ocupació d’aquesta plaça, la més envaïda pel trànsit de vehicles, que poques vegades respecten els senyals i travessen directament per la zona estrictament per als vianants, fins i tot a la sortida de les escoles.\nNotícies relacionadesSegons l’opinió de la plataforma, el primer error de partida va ser que el govern municipal no va predicar de manera clara i rotunda el manual d’ús d’aquests nous carrers de l’Eixample. El segon error va ser que no va programar un període de mà dura contra les infraccions, com sí que va fer en un primer moment amb les motocicletes i amb resultats evidents.\nLa conclusió és que l’equip de Jaume Collboni encara desconfia d’aquest model d’urbanisme, malgrat l’èxit quotidià de públic que té. A més, el fet que hagi desplegat episòdicament agents cívics als eixos verds ha sigut més un placebo que una medicina efectiva.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "catalan",
+  "sentiment": "negative",
+  "categories": ["Politics", "Social Issue", "Environment"],
+  "topics": [
+    "Politics->environmental policy",
+    "Politics->local government and authority",
+    "Politics->civil rights",
+    "Social Issue->social problem",
+    "Social Issue->communities",
+    "Social Issue->social condition",
+    "Environment->conservation",
+    "Environment->parks",
+    "Environment->nature"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:24:35.088+03:00",
+  "updated": "2025-05-07T23:29:37.000+00:00"
+}

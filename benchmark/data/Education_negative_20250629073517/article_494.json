@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "2a8c60c65dd701aba7f18ba2afac0765eaf97944",
+    "url": "https://www.malaysiakini.com/news/747325",
+    "site_full": "www.malaysiakini.com",
+    "site": "malaysiakini.com",
+    "site_section": "https://m.malaysiakini.com/en",
+    "site_categories": ["media", "top_news_sg", "top_news_my", "top_news"],
+    "section_title": "Malaysiakini",
+    "site_title": "Malaysiakini",
+    "title": "Higher education institutions urged to comply with SOP after student's death",
+    "title_full": "Higher education institutions urged to comply with SOP after student's death",
+    "published": "2025-06-26T12:10:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2025/06/0b434559b72ae41d87022c0bb4d9d627.jpg=s600",
+    "performance_score": 0,
+    "domain_rank": 19526,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 9,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2a8c60c65dd701aba7f18ba2afac0765eaf97944",
+  "url": "https://www.malaysiakini.com/news/747325",
+  "ord_in_thread": 0,
+  "author": "Bernama",
+  "published": "2025-06-26T12:10:00.000+03:00",
+  "title": "Higher education institutions urged to comply with SOP after student's death",
+  "text": "The Higher Education Ministry has reminded public and private higher education institutions to always comply with the standard operating procedures (SOP) set by their respective universities as an ongoing measure to strengthen the safety and welfare aspects of students.\nThe ministry said compliance is crucial to ensure that the security and welfare of students are always at the optimum level.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Education", "Social Issue"],
+  "topics": [
+    "Health->health organisation",
+    "Health->government health care",
+    "Education->college and university",
+    "Education->students",
+    "Education->educational grading",
+    "Social Issue->social services",
+    "Social Issue->welfare",
+    "Social Issue->death and dying"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_sg", "top_news_my", "top_news"],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T12:31:46.238+03:00",
+  "updated": "2025-06-27T10:10:58.000+00:00"
+}

@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "3b02fd8f310a9ada6354d39dcc82bc3ca5c03298",
+    "url": "https://www.sundaypost.com/news/uk-news/jay-slater-fundraiser-passes-30000-target-as-tenerife-search-goes-on",
+    "site_full": "www.sundaypost.com",
+    "site": "sundaypost.com",
+    "site_section": "https://www.sundaypost.com/category/news/uk-news/",
+    "site_categories": ["tech"],
+    "section_title": null,
+    "title": "Jay Slater fundraiser passes £30,000 target as Tenerife search goes on",
+    "title_full": "Jay Slater fundraiser passes £30,000 target as Tenerife search goes on",
+    "published": "2024-06-23T23:17:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 25800,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3b02fd8f310a9ada6354d39dcc82bc3ca5c03298",
+  "url": "https://www.sundaypost.com/news/uk-news/jay-slater-fundraiser-passes-30000-target-as-tenerife-search-goes-on",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Press Association",
+  "published": "2024-06-23T23:17:00.000+03:00",
+  "title": "Jay Slater fundraiser passes £30,000 target as Tenerife search goes on",
+  "text": "A fundraiser set up by the last person to speak to Jay Slater, the British teenager who went missing during a holiday in Tenerife, has hit its target of £30,000.\nThe GoFundMe created by Lucy Law to “get Jay Slater home” had received £31,721 in donations by Sunday evening.\nThe page was set up by Mr Slater’s friend three days ago and a post below, which claims to be from Mr Slater’s mother Debbie Duncan, confirmed it was “approved by our family”.\nThe post said: “We have not yet withdrawn any funds and are currently covering the expenses, such as the trip to Tenerife and accommodation, ourselves. The funds will remain on hold with GoFundMe until we post a further update on this page.”\nMr Slater, from Oswaldtwistle, Lancashire, disappeared following an attempt to walk back to his accommodation after missing a bus.\nHe had attended the NRG music festival on the island with two friends before his disappearance.\nMs Law, who went to the festival with Mr Slater, said he called her at about 8.30am on Monday and told her he was “lost in the mountains, he wasn’t aware of his surroundings, he desperately needed a drink and his phone was on 1%”.\nMs Duncan, who flew to Tenerife on Tuesday, said searching for her son was “an absolute living nightmare”.\nMs Duncan told ITV News: “He’s the life and soul, he’s a beautiful boy.”\nMr Slater was last seen wearing a white T-shirt with shorts and trainers, and carrying a black bag.\nSearch teams have narrowed their efforts on small buildings close to where his phone last pinged in Tenerife.\nOfficers from the Guardia Civil in the Canary Islands could be seen circling two structures at the bottom of a ravine in Rural de Teno Park on Sunday.\nEfforts appeared to be solely focused on the one area after days of searches in the village of Masca and the surrounding landscape.\nMembers of a search and rescue team search near the last known location of Jay Slater (James Manning/PA) Those conducting the searches on the seventh day of the hunt for Mr Slater could be seen looking into blue barrels outside one of the small buildings.\nThe efforts come after the teenager’s mother issued a direct plea to her missing son, saying: “We just need you home.”\nMs Duncan told the PA news agency she has “not slept” since the 19-year-old disappeared.\nShe said she did not know whether the Spanish authorities turning down an offer of help from the UK was because they viewed it as “an insult”.\nAsked how the family was coping with the situation, Ms Duncan said: “We’re not. I’m not coping very well at all.\n“I’ve not slept, I’m exhausted. It’s been awful.\n“I can’t give up on him, I just can’t.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Disaster and Accident", "Social Issue"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "jay slater",
+        "sentiment": "negative"
+      },
+      {
+        "name": "mr slater",
+        "sentiment": "none"
+      },
+      {
+        "name": "law",
+        "sentiment": "none"
+      },
+      {
+        "name": "slater",
+        "sentiment": "none"
+      },
+      {
+        "name": "lucy law",
+        "sentiment": "none"
+      },
+      {
+        "name": "debbie duncan",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "tenerife",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "lancashire",
+        "sentiment": "none"
+      },
+      {
+        "name": "oswaldtwistle",
+        "sentiment": "none"
+      },
+      {
+        "name": "tenerife",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-24T00:15:14.701+03:00",
+  "updated": "2024-06-24T00:15:14.701+03:00"
+}

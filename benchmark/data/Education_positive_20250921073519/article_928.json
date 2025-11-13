@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "f5d1ce2d2abe59fe68f789e9e381a528a0707e13",
+    "url": "https://carolinereview.com/stories/caroline-county-public-schools-connecting-students-with-real-world-opportunities,37074",
+    "site_full": "carolinereview.com",
+    "site": "carolinereview.com",
+    "site_section": "https://carolinereview.com/stories",
+    "site_categories": [],
+    "section_title": "Stories - Caroline Review",
+    "site_title": null,
+    "title": "Caroline County Public Schools: Connecting Students with Real-World Opportunities",
+    "title_full": "Caroline County Public Schools: Connecting Students with Real-World Opportunities",
+    "published": "2025-08-21T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://zeta.creativecirclecdn.com/caroline/original/20250821-111111-26d-CCPS%20logo%20for%20web.jpg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f5d1ce2d2abe59fe68f789e9e381a528a0707e13",
+  "url": "https://carolinereview.com/stories/caroline-county-public-schools-connecting-students-with-real-world-opportunities,37074",
+  "ord_in_thread": 0,
+  "author": "Contributed by Caroline County Public Schools",
+  "published": "2025-08-21T03:00:00.000+03:00",
+  "title": "Caroline County Public Schools: Connecting Students with Real-World Opportunities",
+  "text": "Caroline County Public Schools (CCPS) is proud to introduce its Work-Based Learning (WBL) Continuum—a system that connects students to real-world experiences, preparing them for success in college, careers, and life.\nThe WBL Continuum guides students through progressive stages of career awareness, exploration, and preparation. Early experiences include career fair participation, workplace tours, and classroom visits from guest speakers. These opportunities spark interest and expose students to a variety of career paths.\nAs students move through the continuum, they engage in additional activities such as resume writing, mock interviews, and workplace readiness training. These experiences build confidence and prepare students for more immersive opportunities like job shadowing, internships, and apprenticeships.\nHands-on learning allows students to gain firsthand insight into job responsibilities, workplace culture, and industry expectations. These experiences also help students develop critical soft skills and build professional networks that support long-term career growth. According to Education and Employers, Students who have four or more meaningful employer interactions are 86% less likely to be unemployed and can earn up to 22% more during their careers.”\nCCPS is actively seeking local business partners to support and expand these efforts. Whether by hosting a student for a job shadow, speaking at a school event, or offering an internship or apprenticeship, businesses play a vital role in shaping the future workforce.\n“Work-based learning is a win-win,” says Jason Bruns, CCPS Work-Based Learning Coordinator. “Students gain real-world experience, and employers help shape the next generation of professionals right here in Caroline County.”\nBusinesses interested in partnering with CCPS are encouraged to contact Jason Bruns at 410-479-2332 or scan the QR code to learn how they can get involved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": [
+    "Education->teachers",
+    "Education->students",
+    "Education->vocational education",
+    "Human Interest->graduation",
+    "Social Issue->children",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Caroline County Public Schools",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "WBL",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Goldsboro"],
+      "state": ["Maryland"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:17:56.989+03:00",
+  "updated": "2025-09-18T09:22:57.000+03:00"
+}

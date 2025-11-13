@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "f54d5318df37156a669e3c80f99a00c082e05a42",
+    "url": "https://article.wn.com/view/2025/10/16/India_s_solarplusstorage_tender_sets_record_low_INR_286_tari/",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/renewable-energy",
+    "site_categories": ["media"],
+    "section_title": "World News - Renewable Energy",
+    "site_title": "World News",
+    "title": "India's solar-plus-storage tender sets record low INR 2.86 tariff - Worldnews.com",
+    "title_full": "India's solar-plus-storage tender sets record low INR 2.86 tariff - Worldnews.com",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 8219,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f54d5318df37156a669e3c80f99a00c082e05a42",
+  "url": "https://article.wn.com/view/2025/10/16/India_s_solarplusstorage_tender_sets_record_low_INR_286_tari/",
+  "ord_in_thread": 0,
+  "author": "System",
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "India's solar-plus-storage tender sets record low INR 2.86 tariff - Worldnews.com",
+  "text": "India’s Solar Energy Corp. (SECI) 2 GW solar and 4 GWh storage auction reached a record-low INR 2.86 ($0.033)/kWh, with Shivalaya Construction winning the largest 600 MW allocation amid strong competition. From pv magazine India India’s SECI has reached a record low tariff of INR 2.86/kWh in a tender for 2 GW...\nread full story\n\"The cutthroat competition witnessed in the recent standalone BESS tenders seems to have rubbed onto the solar-plus-storage segment as well, and we welcome the new entrants in the list as SECI's first time awardees,\"\nAsk about this article",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Environment"],
+  "topics": [
+    "Economy, Business and Finance->energy and resource",
+    "Economy, Business and Finance->business financing",
+    "Environment->sustainability",
+    "Environment->energy resources"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.pv-magazine.com/?p=320009",
+    "https://pv-magazine.com/?p=320009",
+    "https://www.pv-magazine.com/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Solar Energy Corp.",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "SECI",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "SECI",
+            "exchange": "NSX"
+          }
+        ]
+      },
+      {
+        "name": "Shivalaya Construction",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:04:25.376+03:00",
+  "updated": "2025-10-16T16:21:23.000+03:00"
+}

@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "2877ad657156269027ab15927a26cd4e155b7f24",
+    "url": "https://unionradio.net/fuertes-precipitaciones-en-merida-provocaron-emergencias-en-cinco-municipios",
+    "site_full": "unionradio.net",
+    "site": "unionradio.net",
+    "site_section": "https://www.unionradio.net",
+    "site_categories": ["shopping"],
+    "section_title": "Unionradio.net | Unión Radio &#8211; Centro de Noticias &#8211; Noticias de Venezuela",
+    "site_title": "Just a moment...",
+    "title": "Fuertes precipitaciones en Mérida provocaron emergencias en cinco municipios",
+    "title_full": "Fuertes precipitaciones en Mérida provocaron emergencias en cinco municipios",
+    "published": "2025-05-08T00:58:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "VE",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 180179,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2877ad657156269027ab15927a26cd4e155b7f24",
+  "url": "https://unionradio.net/fuertes-precipitaciones-en-merida-provocaron-emergencias-en-cinco-municipios",
+  "ord_in_thread": 0,
+  "author": "Deinelbith Blanco",
+  "published": "2025-05-08T00:58:00.000+03:00",
+  "title": "Fuertes precipitaciones en Mérida provocaron emergencias en cinco municipios",
+  "text": "CARACAS.- Las fuertes precipitaciones en el estado Mérida afectaron particularmente a cinco municipios, cuyas emergencias están siendo atendidas por los funcionarios de Protección Civil.\nSucre, Rangel, Libertador, Campo Elías y Tulio Febres Cordero son las zonas que resultaron perjudicadas por las lluvias.\nEl director de Protección Civil en Mérida, Luis Lobo, resaltó que el último de estos es donde hay una mayor emergencia, ya que existen zonas que se encuentran incomunicadas por la caída de un puente.\n«(En) las últimas 24 horas tenemos la afectación de cinco municipios. (En) el municipio Tulio Febres Cordero se despachó una comisión de Protección Civil con ingenieros y técnicos para hacer una evaluación en el sector del gas, donde nos llegó una denuncia sobre la crecida del río trayendo como consecuencia la caída de un puente», explicó.\nAsimismo, las vías hacia los pueblos del sur también se encuentran inhabilitadas debido a las lluvias: «El municipio Sucre (en el sector Bolero Alto), allí tenemos maquinaría realizando la rehabilitación de la vía sobre unos deslizamientos que hubo el fin de semana pasado».\nMientras que en el sector Mucujún del municipio Libertador, a la altura de la carretera trasandina, se registraron derrumbes de rocas en las últimas horas, por lo que las autoridades instaron a los civiles a transitar por vías alternas cuando llueve fuerte.\nDeinelbith Blanco/Unión Radio",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Environment"],
+  "topics": [
+    "Disaster and Accident->emergency response",
+    "Disaster and Accident->natural disaster",
+    "Environment->natural resources",
+    "Environment->environmental pollution",
+    "Environment->water"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.ivoox.com/player_ej_146332870_6_1.html?c1=12416e",
+    "https://ivoox.com/player_ej_146332870_6_1.html?c1=12416e",
+    "https://www.ivoox.com/player_ej_146332870_6_1.html"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Tulio Febres Cordero",
+        "sentiment": "none"
+      },
+      {
+        "name": "Luis Lobo",
+        "sentiment": "none"
+      },
+      {
+        "name": "Rangel",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Bolero Alto",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Protección Civil",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:34:03.512+03:00",
+  "updated": "2025-05-08T01:37:58.000+00:00"
+}

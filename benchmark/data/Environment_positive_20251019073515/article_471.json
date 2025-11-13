@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "cd16be31224fd28d9249559e972433c71a477802",
+    "url": "http://spanish.xinhuanet.com/20251016/3c2f9c45ea0d4025902d366796e7f846/c.html",
+    "site_full": "spanish.xinhuanet.com",
+    "site": "xinhuanet.com",
+    "site_section": "http://spanish.xinhuanet.com",
+    "site_categories": ["japan", "travel"],
+    "section_title": "Xinhua Español: Información global en español. Actualidad, China, internacional, iberoamérica,economía,\r\n        deportes, sociedad, opinión, comidas, viajes.",
+    "site_title": "新华网_让新闻离你更近",
+    "title": "Xi felicita a la Organización de las Naciones Unidas para la Alimentación y la Agricultura por su 80º aniversario | Spanish.xinhuanet.com",
+    "title_full": "Xi felicita a la Organización de las Naciones Unidas para la Alimentación y la Agricultura por su 80º aniversario | Spanish.xinhuanet.com",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 1865,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cd16be31224fd28d9249559e972433c71a477802",
+  "url": "http://spanish.xinhuanet.com/20251016/3c2f9c45ea0d4025902d366796e7f846/c.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "Xi felicita a la Organización de las Naciones Unidas para la Alimentación y la Agricultura por su 80º aniversario | Spanish.xinhuanet.com",
+  "text": "BEIJING, 16 oct (Xinhua) -- El presidente chino, Xi Jinping, felicitó hoy jueves a la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) por el 80º aniversario de su fundación.\nXi felicita a la Organización de las Naciones Unidas para la Alimentación y la Agricultura por su 80º aniversario\nspanish.news.cn| 2025-10-16 18:53:32|\nspanish.news.cn| 2025-10-16 18:53:32|\nPara cualquier sugerencia o consulta puede ponerse en contacto con nosotros a\ntravés del siguiente correo\nelectrónico:\nelectrónico:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Politics", "Environment"],
+  "topics": [
+    "Politics->international organisation",
+    "Environment->sustainability"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Organización de las Naciones Unidas para la Alimentación",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Naciones Unidas para la Alimentación y la Agricultura",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:53:29.031+03:00",
+  "updated": "2025-10-16T15:08:37.000+03:00"
+}

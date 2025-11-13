@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "a7702bba3a66c39de18953dc44f516d7ad0519e7",
+    "url": "http://santafe.mitelefe.com/nacionales/se-concreta-paro-universitario-de-48-horas-con-movilizacion-en-capital-federal",
+    "site_full": "santafe.mitelefe.com",
+    "site": "mitelefe.com",
+    "site_section": "https://santafe.mitelefe.com/nacionales",
+    "site_categories": [],
+    "section_title": "Nacionales - Telefe Santa Fe",
+    "site_title": null,
+    "title": "Se concreta paro universitario de 48 horas con movilización en Capital Federal - Telefe Santa Fe",
+    "title_full": "Se concreta paro universitario de 48 horas con movilización en Capital Federal - Telefe Santa Fe",
+    "published": "2025-06-26T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "https://telefe-static2.akamaized.net/media/584602/asamblea-adul-paro-universidad-1568x882.jpeg?v=20250626090003000&format=main&width=640&height=360&mode=crop",
+    "performance_score": 0,
+    "domain_rank": 75816,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a7702bba3a66c39de18953dc44f516d7ad0519e7",
+  "url": "http://santafe.mitelefe.com/nacionales/se-concreta-paro-universitario-de-48-horas-con-movilizacion-en-capital-federal",
+  "ord_in_thread": 0,
+  "author": "Telefe Santa Fe",
+  "published": "2025-06-26T03:00:00.000+03:00",
+  "title": "Se concreta paro universitario de 48 horas con movilización en Capital Federal - Telefe Santa Fe",
+  "text": "Este jueves 26 y viernes 27 de junio habrá paro docente en todas las universidades nacionales. La medida de fuerza fue convocada por los gremios del sector en reclamo por mejoras salariales y por el aumento urgente del presupuesto para las casas de altos estudios. En ese marco, también se realizará una nueva jornada nacional de visibilización en defensa de la universidad pública.\nCon la consigna “Prendete a defender la universidad pública”, este jueves 26 de junio habrá distintas acciones en todo el país. En Santa Fe, la Universidad Nacional del Litoral (UNL) convoca a la comunidad a concentrarse a las 12.30 horas en la explanada del Rectorado (Bv. Pellegrini 2750), donde se recolectarán firmas para exigir el tratamiento y la aprobación de la Ley de Financiamiento Universitario.\nLa actividad forma parte de una serie de medidas impulsadas por el sistema universitario argentino ante el complejo panorama presupuestario que atraviesan las instituciones. Desde el mes de abril del año pasado, cuando se realizó una multitudinaria marcha federal universitaria, distintas universidades vienen desarrollando protestas, clases públicas y recolección de firmas para visibilizar la crisis.\nReclamos centrales\nLos gremios docentes denuncian un fuerte atraso salarial frente a la inflación y la falta de acuerdo paritario. A esto se suma el reclamo por una actualización urgente del presupuesto para garantizar el normal funcionamiento de las universidades, incluyendo salarios, becas, servicios, comedores y recursos académicos.\nLa semana pasada, rectores, estudiantes y docentes advirtieron que, si no hay respuestas concretas desde el Gobierno Nacional, las universidades podrían enfrentar serias dificultades para continuar funcionando con normalidad en el segundo semestre.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Social Issue", "Education", "Politics"],
+  "topics": [
+    "Social Issue->social problem",
+    "Social Issue->social services",
+    "Social Issue->demographics",
+    "Education->college and university",
+    "Education->teachers",
+    "Politics->political process",
+    "Politics->political campaigns",
+    "Politics->civil rights"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Universidad Nacional del Litoral",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T16:33:07.472+03:00",
+  "updated": "2025-06-26T13:36:50.000+00:00"
+}

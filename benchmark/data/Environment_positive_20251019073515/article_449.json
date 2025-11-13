@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "341603086e30de4965f515ab75becd28c379c180",
+    "url": "https://www.cgiar.org/news-events/news/for-better-soil-health-women-in-pakistan-trained-in-compost-making/",
+    "site_full": "www.cgiar.org",
+    "site": "cgiar.org",
+    "site_section": "https://www.cgiar.org/research/cgiar-portfolio/gender-equality-youth-social-inclusion",
+    "site_categories": ["agriculture", "business"],
+    "section_title": "Gender equality, youth &amp; social inclusion - CGIAR",
+    "site_title": "CGIAR: Science for humanity&#039;s greatest challenges",
+    "title": "For Better Soil Health: Women in Pakistan Trained in Compost Making - CGIAR",
+    "title_full": "For Better Soil Health: Women in Pakistan Trained in Compost Making - CGIAR",
+    "published": "2025-10-02T12:56:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://storage.googleapis.com/cgiarorg/2025/10/compost-making-news-header.jpg",
+    "performance_score": 0,
+    "domain_rank": 24628,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "341603086e30de4965f515ab75becd28c379c180",
+  "url": "https://www.cgiar.org/news-events/news/for-better-soil-health-women-in-pakistan-trained-in-compost-making/",
+  "ord_in_thread": 0,
+  "author": "International Center",
+  "published": "2025-10-02T12:56:00.000+03:00",
+  "title": "For Better Soil Health: Women in Pakistan Trained in Compost Making - CGIAR",
+  "text": "For Better Soil Health: Women in Pakistan Trained in Compost Making\n- From\n-\nPublished on\n02.10.25\n- Impact Area\n-\nFunders\nUnited States Department of Agriculture\nWomen farmers in Walana village, Pakistan, are turning farm waste into a valuable resource thanks to a compost-making training organized under the ICARDA–U.S. Department of Agriculture (USDA) Fertilize Right (FR) project. This practical training equipped women with innovative techniques to reduce chemical fertilizing, improve soil health, and create a new source of income.\nFrom 3–4 September 2025, in partnership with the Soil and Water Conservation Research Institute (SAWCRI) in Pakistan, 25 women farmers—actively involved in agriculture and livestock rearing—had the opportunity to participate in a compost-making training. This extensive workshop aimed to enhance the skills of rural women in preparing compost by recycling organic materials available at the farm level and using it to improve the fertility and health of their soils, while reducing the use of chemical fertilizers and protecting the environment.\nOver the two days, participants were introduced to on-farm composting and took part in a practical session on compost preparation. They learned how to build compost pits, layer materials in varying thicknesses, maintain proper moisture and aeration, and add composting stimulators to speed up the process. The program also included an engaging field visit to compost sites at SAWCRI Chakwal.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->land resources", "Environment->sustainability"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Better Soil Health",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Water Conservation Research Institute",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "USDA",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:49:37.413+03:00",
+  "updated": "2025-10-16T15:02:11.000+03:00"
+}

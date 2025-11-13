@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "ea5f4440a9484e08ad0cb6bd9b4814fc5b7e9843",
+    "url": "https://news.rambler.ru/moscow_city/55320034-sobyanin-novyy-korpus-shkoly-2122-imeni-yurasova-postroen-v-scherbinke/",
+    "site_full": "news.rambler.ru",
+    "site": "rambler.ru",
+    "site_section": "https://ru24.net/luhovitsy",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news_ru",
+      "top_news_ua",
+      "top_news_il",
+      "top_news"
+    ],
+    "section_title": "Луховицы — все новости (вчера, сегодня, сейчас) от ru24.net",
+    "site_title": "Рамблер/новости, почта и поиск — медийный портал: новости России и мира, электронная почта, погода, развлекательные и коммуникационные сервисы. Новости сегодня и сейчас",
+    "title": "Собянин: Новый корпус школы №2122 имени Юрасова построен в Щербинке - Рамблер/новости",
+    "title_full": "Собянин: Новый корпус школы №2122 имени Юрасова построен в Щербинке - Рамблер/новости",
+    "published": "2025-09-18T09:08:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://img-renderer.rambler.ru/api/generate/media/?clusterId=55320034&amp;format=png",
+    "performance_score": 0,
+    "domain_rank": 355,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ea5f4440a9484e08ad0cb6bd9b4814fc5b7e9843",
+  "url": "https://news.rambler.ru/moscow_city/55320034-sobyanin-novyy-korpus-shkoly-2122-imeni-yurasova-postroen-v-scherbinke/",
+  "ord_in_thread": 0,
+  "author": "Агентство «Москва»",
+  "published": "2025-09-18T09:08:00.000+03:00",
+  "title": "Собянин: Новый корпус школы №2122 имени Юрасова построен в Щербинке - Рамблер/новости",
+  "text": "Новый корпус школы на 400 детей построен и работает в Щербинке. Об этом сообщил мэр Москвы Сергей Собянин в мессенджере Max. «В Щербинке построили новый корпус школы №2122 имени Героя Советского Союза Олега Юрасова . Он принял первых учеников 1 сентября. Корпус соединен с основным зданием теплым переходом и рассчитан на 400 детей. Количество мест в школе увеличилось – теперь в ней смогут учиться 1,1 тыс. ребят», – говорится в сообщении. В новом корпусе разместили: универсальные и специализированные учебные кабинеты, лабораторно-исследовательские комплексы, спортивный зал, зоны отдыха. «Таким образом создали комфортные условия для учебы и научно-исследовательской деятельности, в том числе для детей с ограниченными возможностями здоровья», – отметил мэр . Помимо этого, около школы обустроили площадки для подвижных игр и проведения мероприятий, спортивную зону, а всю прилегающую территорию благоустроили.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Politics"],
+  "topics": [
+    "Education->school",
+    "Education->primary education",
+    "Education->state school",
+    "Human Interest->record and achievement",
+    "Politics->education policy",
+    "Politics->local government and authority"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news_ru",
+      "top_news_ua",
+      "top_news_il",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:18:29.135+03:00",
+  "updated": "2025-09-19T10:07:05.000+03:00"
+}

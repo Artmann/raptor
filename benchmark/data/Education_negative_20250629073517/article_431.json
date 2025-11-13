@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "40f4f4c1fd17e732a3e8c8c4764eb933d0871877",
+    "url": "https://fergana.agency/news/138613",
+    "site_full": "fergana.agency",
+    "site": "fergana.agency",
+    "site_section": "https://fergana.agency/uz",
+    "site_categories": ["media"],
+    "section_title": "Узбекистан",
+    "site_title": "Фергана - международное агентство новостей",
+    "title": "В Узбекистане зафиксировано рекордно низкое количество абитуриентов",
+    "title_full": "В Узбекистане зафиксировано рекордно низкое количество абитуриентов",
+    "published": "2025-06-26T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "UZ",
+    "main_image": "https://fergana.agency/siteapi/media/images/0da63c72-e3bd-43da-8e38-1a82446cc138.jpeg",
+    "performance_score": 0,
+    "domain_rank": 68452,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "40f4f4c1fd17e732a3e8c8c4764eb933d0871877",
+  "url": "https://fergana.agency/news/138613",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T03:00:00.000+03:00",
+  "title": "В Узбекистане зафиксировано рекордно низкое количество абитуриентов",
+  "text": "В Узбекистане завершилась кампания по приему документов для поступления в вузы на 2025/26 учебный год в режиме онлайн. С 5 по 25 июня через сайты государственных услуг зарегистрировались 732 411 абитуриентов, что стало самым низким показателем за последние семь лет, следует из отчета Агентства оценки знаний и квалификации при Министерстве образования, науки и инноваций республики.\nВ ведомстве уточнили, что из общего числа подавших заявки на прохождение тестирования 386 112 девушек и 346 299 юношей.\nБольше всего претендентов на поступление в высшие и профессиональные учреждения выбрали обучение на узбекском языке — 644 027 человек. Далее следуют те, кто предпочел русский язык — 71 476 граждан, каракалпакский — 14 959 и другие языки — 1949.\nВ агентстве предупредили абитуриентов, которым нужно оплатить услугу, что их не допустят к экзаменам, если они не перечислят деньги до конца сегодняшнего дня — 26 июня.\nОтметим, что для выпускников этого года тестирование бесплатное.\nДанная норма также распространяется на лиц:\n✅ с ограниченными возможностями;\n✅ включенных в «Молодежную тетрадь»;\n✅ зарегистрированных в «Едином реестре социальной защиты»;\n✅ находящихся на полном государственном обеспечении;\n✅ рекомендуемых к обучению без экзаменов.\nТаким образом, заплатить должны по сути лишь те, кто уже предпринимал попытку поступить в вуз раньше. С них взимается 0,5 базовой расчетной величины — 187500 сумов ($15).\nВозвращаясь к количеству абитуриентов, отметим, что по сравнению с прошлым годом цифра снизилась более чем на 18%. Тогда студентами пожелали стать 894 279 человек.\nРекорд по данному показателю был установлен в 2020 году — 1 484 085 абитуриентов. К слову, с 2022 года число подавших заявку онлайн неизменно снижается.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Politics"],
+  "topics": [
+    "Education->college and university",
+    "Education->entrance examination",
+    "Social Issue->population and census",
+    "Social Issue->demographics",
+    "Politics->education policy",
+    "Politics->government",
+    "Politics->political process"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://fergana.media/news/120335/",
+    "https://my.uzbmb.uz/stat",
+    "https://nova24.uz/uzbekistan/v-uzbekistane-rekordno-snizilos-kolichestvo-abiturientov/",
+    "https://www.my.uzbmb.uz/stat",
+    "https://www.nova24.uz/uzbekistan/v-uzbekistane-rekordno-snizilos-kolichestvo-abiturientov/",
+    "https://fergana.media/news/120335",
+    "https://www.fergana.media/news/120335/",
+    "https://nova24.uz/uzbekistan/v-uzbekistane-rekordno-snizilos-kolichestvo-abiturientov"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T11:55:23.607+03:00",
+  "updated": "2025-06-26T08:59:22.000+00:00"
+}

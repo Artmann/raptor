@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "baffb3ea3393e07f69593031f8f2e789fb895121",
+    "url": "https://www.hstoday.us/subject-matter-areas/maritime-security/u-s-coast-guard-rescues-disabled-vessel-near-galves-banks",
+    "site_full": "www.hstoday.us",
+    "site": "hstoday.us",
+    "site_section": "https://www.hstoday.us/rss",
+    "site_categories": ["media", "hacking", "tech"],
+    "section_title": "Hstoday",
+    "title": "U.S. Coast Guard Rescues Disabled Vessel Near Galves Banks",
+    "title_full": "U.S. Coast Guard Rescues Disabled Vessel Near Galves Banks",
+    "published": "2024-06-21T15:09:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.hstoday.us/wp-content/uploads/2024/06/240613-G-G0020-7913.jpg",
+    "performance_score": 0,
+    "domain_rank": 24181,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "baffb3ea3393e07f69593031f8f2e789fb895121",
+  "url": "https://www.hstoday.us/subject-matter-areas/maritime-security/u-s-coast-guard-rescues-disabled-vessel-near-galves-banks",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Homeland Security Today",
+  "published": "2024-06-21T15:09:00.000+03:00",
+  "title": "U.S. Coast Guard Rescues Disabled Vessel Near Galves Banks",
+  "text": "The U.S. Coast Guard successfully rescued a disabled vessel, Uchan, and their crew approximately 25 miles offshore from Galves Banks on June 13, 2024.\nThe operation involved a coordinated effort from the Joint Rescue Sub-Center (JRSC) Guam and U.S. Coast Guard Station Apra Harbor’s 45-foot Response Boat-Medium.\nJRSC watchstanders received a distress call via VHF CH 16 from the operator of the 19-foot vessel, Uchan, which reportedly had three persons aboard and was adrift due to engine troubles. The JRSC Guam team immediately issued an Urgent Marine Information Broadcast (UMIB) advising mariners in the area of the situation and assumed the role of Search and Rescue Mission Coordinator (SMC) under the direction of Cmdr. Ryan Crose, deputy sector commander.\nWatchstanders directed the launch of the response crew, who arrived on the scene and assessed the engine failure was due to water contamination in the fuel line and tank. The vessel was placed in a stern tow and began the return journey to Malesso Pier, with an estimated time of arrival of 3.5 hours. During the operation, Petty Officer 3rd Class Alexandra Avalos, a boatswain’s mate and the coxswain, was at the helm conducting her first SAR tow flawlessly.\n“This mission showed how dedicated and adaptable our team is,” said Petty Officer 3rd Class Alexandra Avalos. “Our crew did an amazing job, and I have to shout out to the mariners for being proactive and using a marine radio to call for help. Having the right equipment out there makes all the difference.”\nThe evolution took nine hours, with a five-hour tow back to safety. All mariners aboard Uchan arrived safely to the pier and were uninjured.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Human Interest"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "ryan crose",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "u.s. coast guard",
+        "sentiment": "negative"
+      },
+      {
+        "name": "joint rescue sub-center",
+        "sentiment": "none"
+      },
+      {
+        "name": "rescue mission coordinator",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "uchan",
+        "sentiment": "none"
+      },
+      {
+        "name": "galves banks",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-21T16:36:20.838+03:00",
+  "updated": "2024-06-21T16:36:20.838+03:00"
+}

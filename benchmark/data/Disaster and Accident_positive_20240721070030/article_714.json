@@ -1,0 +1,119 @@
+{
+  "thread": {
+    "uuid": "b6d14523f3c99e0d13d6e762417e79ddedae1c90",
+    "url": "https://www.foxnews.com/us/hiker-lost-10-days-found-alive-northern-california-mountains",
+    "site_full": "www.foxnews.com",
+    "site": "foxnews.com",
+    "site_section": "https://www.foxnews.com",
+    "site_categories": ["media", "top_news"],
+    "section_title": "Fox News - Breaking News Updates | Latest News Headlines | Photos &amp; News Videos",
+    "title": "Hiker lost for 10 days found alive in Northern California mountains | Fox News",
+    "title_full": "Hiker lost for 10 days found alive in Northern California mountains | Fox News",
+    "published": "2024-06-23T15:18:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/McClish-rescue-thumb.jpg",
+    "performance_score": 0,
+    "domain_rank": 301,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 16,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b6d14523f3c99e0d13d6e762417e79ddedae1c90",
+  "url": "https://www.foxnews.com/us/hiker-lost-10-days-found-alive-northern-california-mountains",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Stephen Sorace",
+  "published": "2024-06-23T15:18:00.000+03:00",
+  "title": "Hiker lost for 10 days found alive in Northern California mountains | Fox News",
+  "text": "A hiker who got lost in the mountains of Northern California for over a week was found alive on Thursday after witnesses heard his cries for help, authorities said.Lukas McClish, 34, disappeared on June 11 after setting off on a hike in Boulder Creek, the Santa Cruz County Sheriff’s Office said. He was found yelling for help 10 days later in a remote canyon in Big Basin State Park.McClish told KGO-TV that he had left his home in Boulder Creek with few supplies, believing he was only going for a three-hour hike before getting lost in the Santa Cruz Mountains.I left with just a pair of pants, and my pair of hiking shoes, and a hat. I had a flashlight, and a pair of folding scissors, like a Leatherman tool. And that was about it,\" McClish told KGO-TV. CALIFORNIA COUPLE'S BODIES RECOVERED FROM WATERFALL NEAR YOSEMITE: ‘THEY WERE IMPORTANT’ McClish was photographed reuniting with family after being found in a remote wooded area in Santa Cruz County in Northern California. (CAL FIRE CZU San Mateo-Santa Cruz Unit) McClish was reported missing five days later after he failed to show up to a family gathering on Father’s Day, KSWB-TV reported. Lukas McClish, 34, told local news outlets that he survived by drinking water from creeks and waterfalls out of his boot and eating wild berries. (Santa Cruz County Sheriff's Office) The 34-year-old told KSWB that he survived 10 days lost in the wild by drinking water from creeks and waterfalls out of his boot, eating wild berries and sleeping on a bed of wet leaves. All the while, he yelled for help in the hopes of being rescued.McClish’s calls went unanswered until Thursday, when the sheriff’s office said multiple witnesses reported hearing someone yelling for help in Big Basin State Park. Rescuers said McClish was not injured during the ordeal. (CAL FIRE CZU San Mateo-Santa Cruz Unit) The sheriff’s office launched a drone to establish the exact location of the voice, and spotted McClish in the forest between Empire Grade and Big Basin Highway near Foreman Creek. CALIFORNIA HIKERS RESCUED AFTER RUNNING OUT OF WATER DURING BLISTERING HEAT WAVE McClish had no major injuries, according to the sheriff's office, and he was reunited with his family. Officials shared photos of a ragged McClish hugging family in the woods. McClish was found alive 10 days after getting lost in the woods. (CAL FIRE CZU San Mateo-Santa Cruz Unit) McClish said he’s had enough of the outdoors for a while.\"I did enough hiking for probably the whole rest of the year,\" he told KGO-TV. CLICK TO GET THE FOX NEWS APP Multiple agencies assisted the sheriff’s office in the rescue effort, including CAL Fire CZU, Boulder Creek Volunteer Fire Department, California Department of Corrections and Rehabilitation and California State Parks.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Health", "Human Interest"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://abc7.com/post/missing-hiker-lukas-mcclish-found-alive-after-spending/14989475/",
+    "https://www.ksbw.com/article/missing-hiker-speaks-on-9-nights-lost-in-santa-cruz-mountains/61214606",
+    "https://abc7.com/post/missing-hiker-lukas-mcclish-found-alive-after-spending/14989475",
+    "https://ksbw.com/article/missing-hiker-speaks-on-9-nights-lost-in-santa-cruz-mountains/61214606",
+    "https://www.abc7.com/post/missing-hiker-lukas-mcclish-found-alive-after-spending/14989475/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "mcclish",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "kgo-tv",
+        "sentiment": "none"
+      },
+      {
+        "name": "santa cruz county sheriff’s office",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "northern california",
+        "sentiment": "none"
+      },
+      {
+        "name": "boulder creek",
+        "sentiment": "none"
+      },
+      {
+        "name": "san mateo-santa cruz",
+        "sentiment": "none"
+      },
+      {
+        "name": "california",
+        "sentiment": "none"
+      },
+      {
+        "name": "santa cruz mountains.i",
+        "sentiment": "none"
+      },
+      {
+        "name": "big basin state park.mcclish",
+        "sentiment": "none"
+      },
+      {
+        "name": "santa cruz county",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-23T15:39:21.508+03:00",
+  "updated": "2024-06-23T18:03:57.659+03:00"
+}

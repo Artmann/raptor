@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "94d4e8cbffd701e79263a252397059757bde5067",
+    "url": "https://www.mz.de/panorama/linke-fordert-kindergarten-moratorium-4073058",
+    "site_full": "www.mz.de",
+    "site": "mz.de",
+    "site_section": "https://mz.de/panorama",
+    "site_categories": ["top_news_de", "top_news"],
+    "section_title": "Panorama - Nachrichten, Reportagen und mehr | MZ.de",
+    "site_title": "Mitteldeutsche Zeitung",
+    "title": "Bildung: Linke fordert Kindergarten-Moratorium",
+    "title_full": "Bildung: Linke fordert Kindergarten-Moratorium",
+    "published": "2025-06-26T12:19:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://bmg-images.forward-publishing.io/2025/06/26/30528e92-35ac-4988-9a51-8d855262253a.jpeg?rect=0%2C107%2C2048%2C1152&amp;w=1024",
+    "performance_score": 0,
+    "domain_rank": 49323,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "94d4e8cbffd701e79263a252397059757bde5067",
+  "url": "https://www.mz.de/panorama/linke-fordert-kindergarten-moratorium-4073058",
+  "ord_in_thread": 0,
+  "author": "dpa",
+  "published": "2025-06-26T12:19:00.000+03:00",
+  "title": "Bildung: Linke fordert Kindergarten-Moratorium",
+  "text": "Bildung Linke fordert Kindergarten-Moratorium\nIn Thüringen sinkt wie in anderen ostdeutschen Bundesländern die Zahl der Kindergartenkinder. Mancherorts werden schon Einrichtungen geschlossen. Die Linke fordert ein Umsteuern.\nErfurt - Die Thüringer Linke-Fraktion hat ein Personal-Moratorium für Kindergärten gefordert, damit keine Erzieherinnen und Erzieher entlassen werden. „Ein Moratorium, wie der Freistaat Sachsen es gemacht hat, dass bis zum 31.12.2026 keine Erzieherinnen entlassen werden“, sagte die Linke-Bildungspolitikerin Ulrike Grosse-Röthig.\nHintergrund sind massiv sinkende Kinderzahlen in den Einrichtungen des Landes aufgrund des demografischen Wandels. In etlichen Kommunen werden Kindergärten geschlossen, teils setzen Träger Fachkräfte bei den Wochenarbeitsstunden herunter.\n„Kein Kindergarten kostet mehr, nur weil weniger Kinder drin sind“, sagte Grosse-Röthig. Nur die Einnahmen aus Elternbeiträgen würden sinken. „Und da sind wir als Land in der Pflicht.“\nLinke: Kindergarten im Dorf lassen\nDie Linke-Fraktion fordert in einem Maßnahmen-Papier zur frühkindlichen Bildung ein „Kindergarten-im Dorf-Gesetz“. Damit sollen Kindergärten erhalten bleiben, auch wenn sie künftig nicht die geforderte Mindestkinderzahl erreichen. „Dazu gehört, dass Einnahmeausfälle durch demografischen Wandel ausgeglichen werden und damit der Kindergarten buchstäblich im Dorf bleiben kann“, heißt es in dem Papier.\nDie stark sinkenden Kinderzahlen sind schon seit längerem bekannt. Mit einer Änderung des Betreuungsschlüssels noch unter der rot-rot-grünen Minderheitsregierung sollten die Folgen daraus abgemildert und Arbeitsplätze in den Einrichtungen gesichert werden.\nEine Erzieherin oder ein Erzieher muss sich nach dem neuen Betreuungsschlüssel um weniger Kinder gleichzeitig kümmern als bisher. Die Änderung gilt seit Anfang des Jahres. Für die Umsetzung haben Kommunen eine Übergangszeit. Nach Angaben des Bildungsministeriums von Ende Mai setzt knapp die Hälfte der Einrichtungen die neuen Vorgaben um.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education"],
+  "topics": [
+    "Education->early childhood education",
+    "Education->school",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ulrike Grosse-Röthig",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Thüringen",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sachsen",
+        "sentiment": "none"
+      },
+      {
+        "name": "Erfurt",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Bildung Linke",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Die Linke",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T12:51:09.039+03:00",
+  "updated": "2025-06-27T10:12:19.000+00:00"
+}

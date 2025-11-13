@@ -1,0 +1,148 @@
+{
+  "thread": {
+    "uuid": "7fd34d7e4253d968fca29c012f1ed766d077a2c7",
+    "url": "https://www.europapress.es/catalunya/noticia-paneque-destaca-papel-colaboracion-publico-privada-autosuficiencia-hidrica-20251016141921.html",
+    "site_full": "www.europapress.es",
+    "site": "europapress.es",
+    "site_section": "https://www.europapress.es/catalunya",
+    "site_categories": ["media", "top_news_es", "top_news_pe", "top_news"],
+    "section_title": "\r\n\tNoticias de Cataluña hoy | EUROPA PRESS\r\n",
+    "site_title": "Europa Press -  Agencia de noticias",
+    "title": "Paneque destaca el papel de la colaboración público-privada en la autosuficiencia hídrica",
+    "title_full": "Paneque destaca el papel de la colaboración público-privada en la autosuficiencia hídrica",
+    "published": "2025-10-16T15:19:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://img.europapress.es/fotoweb/fotonoticia_20251016141921_1200.jpg",
+    "performance_score": 0,
+    "domain_rank": 4744,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7fd34d7e4253d968fca29c012f1ed766d077a2c7",
+  "url": "https://www.europapress.es/catalunya/noticia-paneque-destaca-papel-colaboracion-publico-privada-autosuficiencia-hidrica-20251016141921.html",
+  "ord_in_thread": 0,
+  "author": "Europa Press Catalunya",
+  "published": "2025-10-16T15:19:00.000+03:00",
+  "title": "Paneque destaca el papel de la colaboración público-privada en la autosuficiencia hídrica",
+  "text": "BARCELONA 16 Oct. (EUROPA PRESS) -\nLa consellera de Territorio, Vivienda y Transición Energética de la Generalitat, Sílvia Paneque, ha destacado el papel de la colaboración público-privada en la autosuficiencia hídrica, en una visita este jueves a la depuradora de Rubí (Barcelona), informa el Departamento en un comunicado este jueves.\nLa visita ha servido para conocer el proyecto impulsado por AstraZeneca para habilitar un sistema terciario para la depuración natural con humedales artificiales del agua tratada en la planta.\n\"La colaboración público-privada, junto a la implicación de centros de investigación de referencia, nos permite avanzar hacia la autosuficiencia hídrica\", ha añadido la consellera.\nLa actuación es fruto del convenio suscrito por la Agència Catalana de l'Aigua (ACA), el Consell Comarcal del Baix Llobregat (Barcelona), el Consejo Superior de Investigaciones Científicas (CSIC) y AstraZeneca para mejorar potencialmente la calidad de la riera de Rubí con soluciones basadas en la naturaleza.\nPaneque ha explicado que las actuaciones en el ciclo del agua \"deben buscar el equilibrio entre el abastecimiento, el saneamiento y el medio\" y ha dicho que la calidad del agua es igual de importante que la cantidad.\nGeneralitat de Catalunya",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Environment", "Politics"],
+  "topics": ["Environment->water", "Politics->government policy"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Sílvia Paneque",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Baix Llobregat",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Consejo Superior de Investigaciones Científicas",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Agència Catalana de l'Aigua",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Generalitat",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "AstraZeneca",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "AZN",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "CSIC",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "ACA",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_es", "top_news_pe", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:38:56.372+03:00",
+  "updated": "2025-10-17T16:22:42.000+03:00"
+}

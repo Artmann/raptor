@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "2a1404b519ee729cb3dacabf0eec5fe1fc61e1b6",
+    "url": "https://www.citizen.co.za/comaro-chronicle/news-headlines/local-news/2025/09/18/water-supply-restored-at-glenvista-primary-school/",
+    "site_full": "www.citizen.co.za",
+    "site": "citizen.co.za",
+    "site_section": "https://www.citizen.co.za/comaro-chronicle/news-headlines/local-school-news",
+    "site_categories": ["media", "top_news_za", "top_news"],
+    "section_title": "Latest School News Headlines In Aspen | Comaro Chronicle",
+    "site_title": "The Citizen | More News, Your Way",
+    "title": "Glenvista Primary water issue solved: School reopens after disruption | Comaro Chronicle",
+    "title_full": "Glenvista Primary water issue solved: School reopens after disruption | Comaro Chronicle",
+    "published": "2025-09-18T09:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ZA",
+    "main_image": "https://www.citizen.co.za/comaro-chronicle/wp-content/uploads/sites/37/2025/09/pexels-yankrukov-86_85063.jpg",
+    "performance_score": 0,
+    "domain_rank": 13728,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2a1404b519ee729cb3dacabf0eec5fe1fc61e1b6",
+  "url": "https://www.citizen.co.za/comaro-chronicle/news-headlines/local-news/2025/09/18/water-supply-restored-at-glenvista-primary-school/",
+  "ord_in_thread": 0,
+  "author": "Print Content",
+  "published": "2025-09-18T09:00:00.000+03:00",
+  "title": "Glenvista Primary water issue solved: School reopens after disruption | Comaro Chronicle",
+  "text": "Several concerned parents and grandparents reached out to the Comaro Chronicle expressing concern over the lack of running water at Glenvista Primary School.\nThe school, located in the heart of Glenvista, had reportedly been without water for three weeks, prompting fears about the well-being of the learners.\nSteve Mabona, spokesperson for the Gauteng Department of Education (GDE), confirmed that they were aware of the situation.\nMabona explained that the water supply issues had been caused by an incorrect billing error, which led to a temporary disconnection of services by Johannesburg Water.\n“This caused a two-week disruption, during which learners were advised to stay at home for health and safety reasons.”\nHe said the GDE worked swiftly to resolve the issue, taking steps to ensure that the learners’ basic needs were met. “As an interim measure, we provided JoJo tanks with water to the school to ensure there was sufficient supply for basic needs such as drinking water and sanitation,” Mabona said.\nAccording to Mabona, the water supply issue was eventually resolved. “Johannesburg Water corrected the billing issue, and we are pleased to confirm that the water supply to Glenvista Primary was restored on September 5,” he shared.\n“Teaching and learning are now continuing without interruption, and we remain committed to ensuring a safe and supportive environment for all our learners.”\nThe Glenvista Primary School was approached for comment, but has not yet received a response.\nFor now, it seems the situation has been resolved, but many in the community hope that similar issues will not occur again in the future.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Education"],
+  "topics": ["Education->primary education", "Education->parents group"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Steve Mabona",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Glenvista",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Gauteng Department of Education",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Glenvista Primary School",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_za", "top_news"],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:17:22.037+03:00",
+  "updated": "2025-09-18T09:25:26.000+03:00"
+}

@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "0090fdc6b9489be2a757b32fa390f85955ea4074",
+    "url": "https://news.ltn.com.tw/news/Taichung/paper/1705541",
+    "site_full": "news.ltn.com.tw",
+    "site": "ltn.com.tw",
+    "site_section": "https://news.ltn.com.tw/rss/local.xml",
+    "site_categories": [
+      "media",
+      "top_news_hk",
+      "top_news_nz",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "地方新聞 - 自由時報",
+    "site_title": null,
+    "title": "烏日焚化爐游泳池 議員批開放遙遙無期",
+    "title_full": "烏日焚化爐游泳池 議員批開放遙遙無期",
+    "published": "2025-05-08T00:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+    "performance_score": 0,
+    "domain_rank": 7689,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0090fdc6b9489be2a757b32fa390f85955ea4074",
+  "url": "https://news.ltn.com.tw/news/Taichung/paper/1705541",
+  "ord_in_thread": 0,
+  "author": "自由時報電子報",
+  "published": "2025-05-08T00:30:00.000+03:00",
+  "title": "烏日焚化爐游泳池 議員批開放遙遙無期",
+  "text": "烏日焚化爐游泳池 議員批開放遙遙無期\n2025/05/08 05:30\n〔記者蘇孟娟／台中報導〕台中市烏日焚化爐溫水游泳池已經停業四六二天，地方盼不到重新開放，包括市議員曾威及何文海七日斥市府一拖再拖，焚化爐持續燒垃圾卻未照顧地方建設求，只會佔地方便宜；環保局長陳宏益指出，目前朝尋求民間機構投資、整建、經營方式辦理，相關程序進行中。\n環保局︰相關程序進行中\n曾威及何文海均質疑文山焚化爐改建進度一拖再拖，連烏日焚化爐的游泳池也已停業四六二天，迄今竟看不到任何進度。\n曾威指出，烏日焚化爐一直在燒，市府卻遲不解決游泳池問題，連敬老愛心卡都要研擬開放游泳池使用，烏日焚化爐游泳池開放卻遙遙無期，籲環保局不要再佔烏日人便宜，儘快解決烏日游泳池的問題並開放使用。\n何文海也聲援要求環保局應加快改善腳步，讓烏日游泳池也可以儘速重新讓民眾使用。\n何文海另指出，台中市目前各運動局所管的運動場館，包括國民運動中心，都已提供市民使用敬老愛心卡，但只有環保局所轄的文山、后里以及烏日溫水游泳池一直未開放敬老愛心卡使用，最近發現文山游泳池推出憑敬老愛心卡入場也可享五十元的敬老優惠，但因機器還沒購買，須等機器上線，要求市府儘速購買機器，讓優惠「實質上路」。\n陳宏益指出，包括烏日焚化爐游泳池及文山焚爐游泳池均有相關規劃，會加速辦理。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Social Issue", "Politics", "Environment"],
+  "topics": [
+    "Social Issue->communities",
+    "Social Issue->social services",
+    "Politics->government policy",
+    "Politics->local government and authority",
+    "Politics->civil rights",
+    "Environment->energy resources",
+    "Environment->environmental pollution",
+    "Environment->sustainability"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:20:26.735+03:00",
+  "updated": "2025-05-08T01:26:54.000+00:00"
+}

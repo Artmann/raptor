@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "f41100371d949f458acbba48e3c40e23f0136f76",
+    "url": "https://rostov.tsargrad.tv/news/v-rostove-otkryli-zavod-cinkovyh-belil-15-mlrd-investicij-do-24-tys-tgod_1407457",
+    "site_full": "rostov.tsargrad.tv",
+    "site": "tsargrad.tv",
+    "site_section": "https://rostov.tsargrad.tv/news",
+    "site_categories": ["top_news_ru", "top_news"],
+    "section_title": "Свежие новости России и мира сегодня - лента последних новостей дня",
+    "site_title": "Телеканал Царьград последние новости онлайн",
+    "title": "В Ростове открыли завод цинковых белил - 1,5 млрд инвестиций, до 24 тыс т/год",
+    "title_full": "В Ростове открыли завод цинковых белил - 1,5 млрд инвестиций, до 24 тыс т/год",
+    "published": "2025-10-16T13:49:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://img.tsargrad.tv/cache/e/c/1377645979684056_titels_economy-5.webp/w1056h594fill.webp",
+    "performance_score": 0,
+    "domain_rank": 20317,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f41100371d949f458acbba48e3c40e23f0136f76",
+  "url": "https://rostov.tsargrad.tv/news/v-rostove-otkryli-zavod-cinkovyh-belil-15-mlrd-investicij-do-24-tys-tgod_1407457",
+  "ord_in_thread": 0,
+  "author": "tsargrad.tv",
+  "published": "2025-10-16T13:49:00.000+03:00",
+  "title": "В Ростове открыли завод цинковых белил - 1,5 млрд инвестиций, до 24 тыс т/год",
+  "text": "В Ростове открыли завод цинковых белил — 1,5 млрд инвестиций, до 24 тыс т/год\n15 октября в Ростове-на-Дону ввели в эксплуатацию новый завод по выпуску цинковых белил. На церемонии открытия присутствовал губернатор области Юрий Слюсарь. Информация опубликована на сайте регионального правительства.\nОбъём инвестиций в строительство современного производства превысил 1,5 млрд рублей. Предприятие включено в перечень приоритетных инвестиционных проектов региона. На первом этапе завод рассчитан на выпуск от 10 до 16 тысяч тонн продукции в год с последующим увеличением мощности до 24 тысяч тонн. Ранее эти материалы закупались за пределами области. Теперь их планируется производить на Дону.\nГубернатор отметил, что запуск предприятия создаст новые рабочие места, обеспечит поступления в бюджет в виде налогов и укрепит экономическую устойчивость области.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Environment"],
+  "topics": [
+    "Economy, Business and Finance->manufacturing and engineering",
+    "Economy, Business and Finance->business and market analysis",
+    "Environment->hazardous materials",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ru", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:25:32.041+03:00",
+  "updated": "2025-10-17T15:14:46.000+03:00"
+}

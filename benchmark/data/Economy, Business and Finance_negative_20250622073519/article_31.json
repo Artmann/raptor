@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "3c2675dcfd04d7ba708cb0ca6512ddc122824d29",
+    "url": "https://www.wr.de/lokales/siegen-und-umland/article409295258/siegen-unendlich-nervig-wenn-die-bahnschranke-ewig-unten-ist.html",
+    "site_full": "www.wr.de",
+    "site": "wr.de",
+    "site_section": "http://www.wr.de/schlagzeilen",
+    "site_categories": ["uncategorized"],
+    "section_title": "mutig - offen - mittendrin - wr.de ",
+    "site_title": "mutig - offen - mittendrin - wr.de",
+    "title": "Siegen: Unendlich nervig - wenn die Bahnschranke ewig unten ist",
+    "title_full": "Siegen: Unendlich nervig - wenn die Bahnschranke ewig unten ist",
+    "published": "2025-06-19T06:31:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://img.sparknews.funkemedien.de/409295485/409295485_1750251570_v16_9_1600.jpeg",
+    "performance_score": 0,
+    "domain_rank": 100449,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3c2675dcfd04d7ba708cb0ca6512ddc122824d29",
+  "url": "https://www.wr.de/lokales/siegen-und-umland/article409295258/siegen-unendlich-nervig-wenn-die-bahnschranke-ewig-unten-ist.html",
+  "ord_in_thread": 0,
+  "author": "Hendrik Schulz",
+  "published": "2025-06-19T06:31:00.000+03:00",
+  "title": "Siegen: Unendlich nervig - wenn die Bahnschranke ewig unten ist",
+  "text": "Siegen. Seit Jahren ist Bahnschranke am Haardter Berg in Siegen-Weidenau mehr als 10 Minuten unten - und das mehrmals am Tag. Anwohner haben die Nase voll.\nTextToSpeechModule\nSiegen. Seit Jahren ist Bahnschranke am Haardter Berg in Siegen-Weidenau mehr als 10 Minuten unten - und das mehrmals am Tag. Anwohner haben die Nase voll.\nKennen Sie schon unsere PLUS-Inhalte?\n Jetzt\nWR\ntesten",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Social Issue", "Economy, Business and Finance"],
+  "topics": [
+    "Social Issue->social condition",
+    "Social Issue->communities",
+    "Economy, Business and Finance->transport",
+    "Economy, Business and Finance->construction and property"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Siegen-Weidenau",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:35:40.767+03:00",
+  "updated": "2025-06-19T04:38:20.000+00:00"
+}

@@ -1,0 +1,140 @@
+{
+  "thread": {
+    "uuid": "5d8aec50c3cfa4dbb5691f79251808eba3e8433f",
+    "url": "https://saposyprincesas.elmundo.es/consejos/bienestar/empezar-el-curso-de-forma-saludable",
+    "site_full": "saposyprincesas.elmundo.es",
+    "site": "elmundo.es",
+    "site_section": "https://saposyprincesas.elmundo.es",
+    "site_categories": [
+      "society",
+      "teens",
+      "top_news_ar",
+      "top_news_ve",
+      "top_news_pe",
+      "top_news_sa",
+      "top_news_co",
+      "top_news_es",
+      "top_news_be",
+      "top_news_mx",
+      "top_news_cl",
+      "top_news_pt",
+      "top_news"
+    ],
+    "section_title": "Sapos y Princesas: Artículos, actividades y planes en familia",
+    "site_title": "Sapos y Princesas: Artículos, actividades y planes en familia",
+    "title": "Claves para empezar el curso de forma saludable",
+    "title_full": "Claves para empezar el curso de forma saludable",
+    "published": "2025-09-02T17:28:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://saposyprincesas.elmundo.es/assets/2025/09/vuelta-al-cole-saludable.jpg",
+    "performance_score": 0,
+    "domain_rank": 955,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5d8aec50c3cfa4dbb5691f79251808eba3e8433f",
+  "url": "https://saposyprincesas.elmundo.es/consejos/bienestar/empezar-el-curso-de-forma-saludable",
+  "ord_in_thread": 0,
+  "author": "SYP Studio",
+  "published": "2025-09-02T17:28:00.000+03:00",
+  "title": "Claves para empezar el curso de forma saludable",
+  "text": "La vuelta al cole es una oportunidad perfecta para renovar rutinas y reforzar hábitos saludables en casa. Después del verano, adaptarse de nuevo a los horarios y actividades escolares puede ser un reto, pero también una oportunidad ideal para establecer pequeñas acciones que beneficien a toda la familia. Hoy, más que nunca, moverse más, comer de forma saludable, dormir las horas adecuadas y disfrutar de bienestar emocional son esenciales para el crecimiento y desarrollo de los niños y niñas.\nCon el objetivo de fomentar hábitos de vida saludable, Grupo IFA, líder del sector de la distribución por superficie en el mercado del sur de Europa, y la Gasol Foundation, fundación de los hermanos Pau y Marc Gasol cuya misión es prevenir la obesidad infantil, se han comprometido en trabajar juntos para que todas las familias tengan las herramientas para lograrlo ¡y pasarlo bien en el camino!\nPorque la salud empieza en casa, Grupo IFA y la Gasol Foundation comparten algunas ideas fáciles y divertidas para mejorar los hábitos alimentarios y el bienestar de toda la familia y, en especial, de los más pequeños de casa. ¡Toma nota!\n1. Alimentación saludable: colores en el plato\nIncluir frutas y verduras en cada comida es esencial para que los más pequeños crezcan sanos y llenos de energía. Sin embargo, aunque introducirlas puede ser todo un desafío, hacerlo de manera creativa, como proponerse comer fruta de todos los colores durante la semana y convertidlo en un juego familiar puede resultar muy divertido.\nAdemás, otra actividad creativa como planificar y cocinar juntos también contribuye a fomentar buenos hábitos y autonomía en casa. Teniendo en cuenta que, según los datos del estudio PASOS Longitudinal 2022–2025, la adherencia a la dieta mediterránea ha disminuido en 11 puntos, por lo que ahora, más que nunca, conviene apostar por estos pequeños gestos diarios para mejorar la alimentación familiar.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Health", "Education", "Social Issue"],
+  "topics": [
+    "Health->health organisation",
+    "Health->health care approach",
+    "Health->diet",
+    "Education->early childhood education",
+    "Education->parents group",
+    "Education->school",
+    "Social Issue->children",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://gasolfoundation.org/es/",
+    "https://grupoifa.com/",
+    "https://www.grupoifa.com/",
+    "https://grupoifa.com",
+    "https://www.gasolfoundation.org/es/",
+    "https://gasolfoundation.org/es"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Marc Gasol",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Europa",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Gasol Foundation",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [
+      "top_news_ar",
+      "top_news_ve",
+      "top_news_pe",
+      "top_news_sa",
+      "top_news_co",
+      "top_news_es",
+      "top_news_be",
+      "top_news_mx",
+      "top_news_cl",
+      "top_news_pt",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:41:41.923+03:00",
+  "updated": "2025-09-19T09:09:44.000+03:00"
+}

@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "8f103815a8aaabaf68fbb651440178e0309ea1c4",
+    "url": "https://www.dailypress.com/2025/06/25/norfolk-school-closures-list",
+    "site_full": "www.dailypress.com",
+    "site": "dailypress.com",
+    "site_section": "https://www.dailypress.com",
+    "site_categories": ["media"],
+    "section_title": "Daily Press - Virginia News, Sports, Weather, Business & Things to Do",
+    "site_title": "Daily Press - Virginia News, Sports, Weather, Business & Things to Do",
+    "title": "10 Norfolk schools recommended for closure in preliminary plan",
+    "title_full": "10 Norfolk schools recommended for closure in preliminary plan",
+    "published": "2025-06-25T20:18:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 8808,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8f103815a8aaabaf68fbb651440178e0309ea1c4",
+  "url": "https://www.dailypress.com/2025/06/25/norfolk-school-closures-list",
+  "ord_in_thread": 0,
+  "author": "gqlshare",
+  "published": "2025-06-25T20:18:00.000+03:00",
+  "title": "10 Norfolk schools recommended for closure in preliminary plan",
+  "text": "NORFOLK — A consultant tasked with developing a plan to close and consolidate 10 of the city’s public schools has created a preliminary list of properties to shutter.\nIn documents obtained by The Virginian-Pilot, engineering consultant Woolpert has developed a list of schools to close. The list, which will be presented at two community engagement meetings Thursday, has been created as the Norfolk City Council has directed the Norfolk School Board to create a plan to close and consolidate 10 schools or risk punitive action.\nThe preliminary list of schools set for closure:\nGhent School Tarrallton Elementary School Willoughby Early Childhood Center P. B. Young Sr. Elementary School Lindenwood Elementary School Granby Elementary School Berkley Campostella Early Childhood Education Center Norview Elementary School The Southeastern Cooperative Educational Programs Center Norfolk Technical Center The city mandate to close schools comes as student enrollment in Norfolk has been on a steady decline. It has dropped by 22% since 2010, from 31,176 students to a projected 24,459 students in 2025, according to a recent City Council resolution.\nThe consultant also recommends rebuilding Maury High School, which already is in the works , as well as Suburban Park Elementary School and Jacox Elementary School.\nMonroe Elementary School, Oceanair Elementary School, St. Helena Elementary School, Chesterfield Elementary School and Lake Taylor High School would be repurposed under the plan to accommodate students of various closed schools and programs.\nThe consultant considered the condition of school buildings and their location relative to similar nearby schools and student population density when developing the list, according to a presentation provided to the Pilot.\nAccording to the presentation, the average age of Norfolk Public Schools’ 49 facilities is 55 years old, 6 years older than the national average and 11 years older than the average in the Southeast.\nNorfolk City Council has asked the School Board to create a plan by August to close and consolidate at least 10 schools or risk restrictions to how it can use city funding.\nA media representative for Norfolk Public Schools did not respond to a request for comment Wednesday.\nThe discussion about school closures comes amid turmoil within school system leadership. The Norfolk School Board fired Superintendent Sharon Byrdsong in a divided vote June 11. Byrdsong criticized School Board members over what she said were efforts to undermine her administration in a May memo obtained by the Pilot.\nThe community engagement meetings about the school closures will be held at 1 p.m. Thursday at Booker T. Washington High School and 5 p.m. at Granby High School.\nTrevor Metcalfe, 757-222-5345, trevor.metcalfe@pilotonline.com",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->state school",
+    "Education->school",
+    "Social Issue->social services",
+    "Social Issue->social problem",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.pilotonline.com/2025/06/11/norfolk-school-superintendent-fired/",
+    "https://www.pilotonline.com/2025/06/19/norfolk-superintendent-memo/",
+    "https://www.pilotonline.com/2025/03/25/norfolk-council-school-board-close-schools/",
+    "https://www.pilotonline.com/2025/03/05/norfolk-school-board-approve-maury-design/",
+    "https://www.pilotonline.com/2025/03/25/norfolk-council-school-board-close-schools",
+    "https://www.pilotonline.com/2025/03/05/norfolk-school-board-approve-maury-design",
+    "https://pilotonline.com/2025/06/19/norfolk-superintendent-memo/",
+    "https://www.pilotonline.com/2025/06/19/norfolk-superintendent-memo",
+    "https://pilotonline.com/2025/03/25/norfolk-council-school-board-close-schools/",
+    "https://www.pilotonline.com/2025/06/11/norfolk-school-superintendent-fired",
+    "https://pilotonline.com/2025/03/05/norfolk-school-board-approve-maury-design/",
+    "https://pilotonline.com/2025/06/11/norfolk-school-superintendent-fired/"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Ghent School Tarrallton Elementary School Willoughby Early Childhood Center",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Norfolk School Board",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Norfolk City Council",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T10:07:45.820+03:00",
+  "updated": "2025-06-26T07:16:38.000+00:00"
+}

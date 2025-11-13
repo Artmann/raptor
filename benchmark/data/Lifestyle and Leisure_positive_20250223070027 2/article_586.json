@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "9a700118a6bd488e520aa9fc14c82b39d1b05052",
+    "url": "https://www.lapresse.it/calcio/2025/01/23/europa-league-lazio-real-sociedad-3-1-biancocelesti-agli-ottavi",
+    "site_full": "www.lapresse.it",
+    "site": "lapresse.it",
+    "site_section": "https://www.zazoom.it",
+    "site_categories": ["media"],
+    "section_title": "Zazoom Social News - Ultime News",
+    "title": "Europa League, Lazio-Real Sociedad 3-1: biancocelesti agli ottavi - LaPresse",
+    "title_full": "Europa League, Lazio-Real Sociedad 3-1: biancocelesti agli ottavi - LaPresse",
+    "published": "2025-01-23T23:07:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://img.lapresse.it/2025/01/23/laz-rs.jpg",
+    "performance_score": 0,
+    "domain_rank": 67609,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9a700118a6bd488e520aa9fc14c82b39d1b05052",
+  "url": "https://www.lapresse.it/calcio/2025/01/23/europa-league-lazio-real-sociedad-3-1-biancocelesti-agli-ottavi",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@lapresse_news",
+  "published": "2025-01-23T23:07:00.000+02:00",
+  "title": "Europa League, Lazio-Real Sociedad 3-1: biancocelesti agli ottavi - LaPresse",
+  "text": "La Lazio supera la Real Sociedad e stacca il pass per gli ottavi di Europa League con un turno di anticipo . La formazione di Baroni conferma il primo posto in classifica imponendosi 3-1 sugli spagnoli all’Olimpico nell’incontro valido per la settima giornata della prima fase. Biancocelesti avanti con Gila dopo 5 minuti. Gli ospiti restano in dieci per l’espulsione di Munoz. La Lazio raddoppia con Zaccagni (32′) e due minuti dopo va a segno Castellanos. Nel finale della ripresa la Real Sociedad accorcia le distanze con Barrenetxea (83′).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": ["Sport", "Lifestyle and Leisure", "Human Interest"],
+  "topics": [
+    "Sport->soccer",
+    "Sport->sport event",
+    "Lifestyle and Leisure->club and association",
+    "Lifestyle and Leisure->game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Zaccagni",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Baroni",
+        "sentiment": "none"
+      },
+      {
+        "name": "Gila",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Real Sociedad",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Castellanos\nLa Lazio",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:25:58.055+02:00",
+  "updated": "2025-01-24T04:34:01.221+02:00"
+}

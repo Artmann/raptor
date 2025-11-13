@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "299c84d5fbd3230a804a788b66a3ae35204f1b22",
+    "url": "https://www.postandcourier.com/berkeley-independent/news/man-arrested-in-double-homicide-investigation/article_efef068c-a5b1-11ee-bec8-833e9fdce751.html",
+    "site_full": "www.postandcourier.com",
+    "site": "postandcourier.com",
+    "site_section": "https://www.postandcourier.com/berkeley-independent",
+    "site_categories": ["media"],
+    "section_title": "Local News and Sports for Moncks Corner, Berkeley | postandcourier.com",
+    "title": "Man arrested in double homicide investigation | News | postandcourier.com",
+    "title_full": "Man arrested in double homicide investigation | News | postandcourier.com",
+    "published": "2023-12-28T20:50:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/4/6e/46e32eb4-a5b2-11ee-b650-0b292055de49/658dc419885a8.image.jpg?crop=668%2C351%2C0%2C242&amp;resize=668%2C351&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 3868,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "299c84d5fbd3230a804a788b66a3ae35204f1b22",
+  "url": "https://www.postandcourier.com/berkeley-independent/news/man-arrested-in-double-homicide-investigation/article_efef068c-a5b1-11ee-bec8-833e9fdce751.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "STAFF REPORT",
+  "published": "2023-12-28T20:50:00.000+02:00",
+  "title": "Man arrested in double homicide investigation | News | postandcourier.com",
+  "text": "Berkeley County Sheriff Duane Lewis said a man has been arrested in connection with the double homicide that occurred Dec. 20, 2023. Deputies report, Isaiah Bennett, 20, of North Charleston, was arrested and charged with two counts of murder. According to a press release, deputies responded to Summer Creek Mobile Home Park Wednesday, Dec. 20, 2023, in reference to gunfire and a victim laying in the roadway. Subsequently, an additional victim was located in a residence deceased. “Detectives worked tirelessly through the Christmas holidays to bring some peace and closure to these victims’ families,” Lewis said. “We hope this arrest will help them begin the healing process of tragically loosing family members. We are thankful to the community for the assistance and tips that helped bring this case to a closure.” Bennett has been booked into the Hill-Finklea Detention Center and is pending a bond hearing, according to reports from the sheriff's office. The Berkeley County Sheriff’s Office continues to investigate this case. Anyone with information is asked to contact investigators.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "duane lewis",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "bennett",
+        "sentiment": "none"
+      },
+      {
+        "name": "isaiah bennett",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "hill finklea detention center",
+        "sentiment": "none"
+      },
+      {
+        "name": "berkeley county sheriff’s office",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "berkeley county",
+        "sentiment": "none"
+      },
+      {
+        "name": "summer creek mobile home park",
+        "sentiment": "none"
+      },
+      {
+        "name": "north charleston",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:10:00.982+02:00",
+  "updated": "2024-01-05T00:21:33.630+02:00"
+}

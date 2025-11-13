@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "58e9b7b3e9eb766d0d362b4d3ed13472f675efca",
+    "url": "https://www.farodevigo.es/gran-vigo/2025/09/18/ies-carlos-casares-estrena-cubierta-121690480.html",
+    "site_full": "www.farodevigo.es",
+    "site": "farodevigo.es",
+    "site_section": "https://www.farodevigo.es/gran-vigo",
+    "site_categories": ["media", "top_news_es", "top_news"],
+    "section_title": "Noticias de Vigo: actualidad de la ciudad y sus municipios – Información local y última hora en Faro de Vigo",
+    "site_title": "Faro de Vigo | Toda la actualidad y última hora de Vigo y Galicia",
+    "title": "El IES Carlos Casares estrena cubierta de acceso tras una inversión de la Xunta superior a los 48.000 euros",
+    "title_full": "El IES Carlos Casares estrena cubierta de acceso tras una inversión de la Xunta superior a los 48.000 euros",
+    "published": "2025-09-18T07:01:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://www.farodevigo.es/cds-statics/assets/img/logos/logo-regionales-faro-de-vigoOG_.png",
+    "performance_score": 0,
+    "domain_rank": 30073,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "58e9b7b3e9eb766d0d362b4d3ed13472f675efca",
+  "url": "https://www.farodevigo.es/gran-vigo/2025/09/18/ies-carlos-casares-estrena-cubierta-121690480.html",
+  "ord_in_thread": 0,
+  "author": "Faro de Vigo",
+  "published": "2025-09-18T07:01:00.000+03:00",
+  "title": "El IES Carlos Casares estrena cubierta de acceso tras una inversión de la Xunta superior a los 48.000 euros",
+  "text": "18 SEPT 2025 6:01 La delegada territorial de la Xunta , Ana Ortiz, y el jefe territorial de Educación, César Pérez Ares, visitaron el IES Carlos Casares tras finalizar las obras de la nueva cubierta de acceso. La Consellería destinó más de 48.000 euros a la construcción de una marquesina que protege la salida y entrada de alumnos y personal y da acceso a la cafetería.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Education"],
+  "topics": [
+    "Education->state school",
+    "Education->students",
+    "Education->school"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ana Ortiz",
+        "sentiment": "negative"
+      },
+      {
+        "name": "César Pérez Ares",
+        "sentiment": "none"
+      },
+      {
+        "name": "Carlos Casares",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Xunta",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Consellería",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "IES",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_es", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:18:21.164+03:00",
+  "updated": "2025-09-19T09:05:05.000+03:00"
+}

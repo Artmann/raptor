@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "642476016dfacd886b83f98c0dc41b75ae7b15d7",
+    "url": "https://tomsk.mk.ru/incident/2025/06/26/v-shkolakh-tomskoy-oblasti-vyyavili-narusheniya-s-produktami-pitaniya.html",
+    "site_full": "tomsk.mk.ru",
+    "site": "mk.ru",
+    "site_section": "https://tomsk.mk.ru/science",
+    "site_categories": ["media", "top_news_ru", "top_news"],
+    "section_title": "Новости науки и технологий - МК",
+    "site_title": "Новости Томска и Томской области - МК в Томске",
+    "title": "В школах Томской области выявили нарушения с продуктами питания - МК Томск",
+    "title_full": "В школах Томской области выявили нарушения с продуктами питания - МК Томск",
+    "published": "2025-06-26T09:51:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://static.mk.ru/upload/entities/2025/06/26/10/articles/facebookPicture/87/53/ed/3f/dd204840c78f3e51625e380a34415c96.jpg",
+    "performance_score": 0,
+    "domain_rank": 3982,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "642476016dfacd886b83f98c0dc41b75ae7b15d7",
+  "url": "https://tomsk.mk.ru/incident/2025/06/26/v-shkolakh-tomskoy-oblasti-vyyavili-narusheniya-s-produktami-pitaniya.html",
+  "ord_in_thread": 0,
+  "author": "ÐÐ²ÑÐ¾ÑÑ ÐÐ»Ð»Ð° ÐÐ±ÐµÐ»Ñ",
+  "published": "2025-06-26T09:51:00.000+03:00",
+  "title": "В школах Томской области выявили нарушения с продуктами питания - МК Томск",
+  "text": "Специалисты Роспотребнадзора сообщили, что с начала года они провели 78 внеплановых проверок в учебных заведениях. Нарушения обнаружили в 74 учреждениях.\nВ частности, претензии возникли к качеству овощей, творога, молока, мясных изделий и соли. Часть продукции не соответствовала нормам по содержанию жира, белка и микробиологическим показателям. В некоторых образцах нашли превышение нитратов.\nВсю информацию о нарушениях направили производителям, а также в регионы, где выпустили некачественные продукты.\nРанее прокуратура выявила грубые нарушения в томском торговом центре после инцидента с ребенком.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Health", "Education", "Social Issue"],
+  "topics": [
+    "Health->health organisation",
+    "Health->government health care",
+    "Health->diet",
+    "Education->school",
+    "Education->teachers",
+    "Education->students",
+    "Social Issue->demographics",
+    "Social Issue->social services",
+    "Social Issue->children"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ru", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T10:11:56.519+03:00",
+  "updated": "2025-06-27T08:04:36.000+00:00"
+}

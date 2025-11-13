@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "ed7c6b878321aff88a3647e84ca3c7fd2ea77c70",
+    "url": "https://www.eleconomista.com.mx/internacionales/dos-tercios-calentamiento-global-proviene-poblacion-mayores-ingresos-20250507-758051.html",
+    "site_full": "www.eleconomista.com.mx",
+    "site": "eleconomista.com.mx",
+    "site_section": "https://www.eleconomista.com.mx",
+    "site_categories": ["media", "top_news_pe", "top_news_mx", "top_news"],
+    "section_title": "El Economista | Periódico especializado en economía, finanzas y negocios",
+    "site_title": "El Economista | Periódico especializado en economía, finanzas y negocios",
+    "title": "Dos tercios del calentamiento global proviene de la población que tiene mayores ingresos",
+    "title_full": "Dos tercios del calentamiento global proviene de la población que tiene mayores ingresos",
+    "published": "2025-05-08T00:31:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://imagenes.eleconomista.com.mx/files/image_1200_600/uploads/2023/06/08/66e849066e6a3.jpeg",
+    "performance_score": 0,
+    "domain_rank": 6570,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ed7c6b878321aff88a3647e84ca3c7fd2ea77c70",
+  "url": "https://www.eleconomista.com.mx/internacionales/dos-tercios-calentamiento-global-proviene-poblacion-mayores-ingresos-20250507-758051.html",
+  "ord_in_thread": 0,
+  "author": "@eleconomista",
+  "published": "2025-05-08T00:31:00.000+03:00",
+  "title": "Dos tercios del calentamiento global proviene de la población que tiene mayores ingresos",
+  "text": "Geopolítica\nLectura 2:00 min\nDos tercios del calentamiento global proviene de la población que tiene mayores ingresos\nLas emisiones del 10% más rico en China y Estados Unidos representan juntas casi la mitad de la contaminación global por carbono.\nEl 10% de la población mundial que tiene mayores ingresos es responsable de dos tercios del calentamiento global desde 1990, según un estudio divulgado el miércoles.\nLa manera cómo los ricos consumen e invierten ha incrementado sustancialmente el riesgo de olas de calor mortales y sequías, según este estudio que cuantifica el impacto de la riqueza privada concentrada sobre eventos climáticos extremos.\n\"Vinculamos la huella de carbono de las personas más ricas directamente con los impactos climáticos en el mundo real\", dijo la autora principal Sarah Schoengart, científica del organismo ETH Zurich, a AFP.\nEn comparación con el promedio mundial, por ejemplo, el 1% más rico contribuyó 26 veces más a las olas de calor que suceden una vez por siglo, y 17 veces más a las sequías en la Amazonía, según los hallazgos publicados en Nature Climate Change.\nLas emisiones del 10% más rico en China y Estados Unidos representan juntas casi la mitad de la contaminación global por carbono. La quema de combustibles fósiles y la deforestación han provocado el recalentamiento de la superficie de la Tierra en un promedio de +1.3º C, principalmente durante los últimos 30 años.\nSchoengart y sus colegas combinaron datos económicos y simulaciones climáticas para rastrear las emisiones de distintos grupos socioeconómicos, en función de sus ingresos. Los investigadores incluyeron en sus análisis el papel de las emisiones ocultas en inversiones financieras, y no solo en el estilo de vida y el consumo personal.\nInvestigaciones anteriores han demostrado que gravar las emisiones ligadas a los activos es más equitativo que los impuestos generales por la emisiones de gases de efecto invernadero, que tienden a afectar más a quienes tienen menores ingresos.\nLa mayoría de iniciativas recientes para aumentar los impuestos a los súper-ricos y multinacionales se han estancado, especialmente desde que Donald Trump recuperó la Casa Blanca.\nEl año pasado, Brasil —como anfitrión del G20— propuso un impuesto del 2% sobre el patrimonio neto de individuos con más de 1,000 millones de dólares en activos.\nAunque los líderes del G20 acordaron \"participar cooperativamente para garantizar que los individuos con un patrimonio ultra elevado sean efectivamente gravados\", hasta la fecha no ha habido seguimiento.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Politics"],
+  "topics": [
+    "Environment->global warming",
+    "Environment->population growth",
+    "Environment->climate change",
+    "Social Issue->population and census",
+    "Social Issue->social problem",
+    "Social Issue->social condition",
+    "Politics->environmental policy",
+    "Politics->government policy",
+    "Politics->economic policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Sarah Schoengart",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "AFP",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "AFP",
+            "exchange": "ASX"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T01:52:18.511+03:00",
+  "updated": "2025-05-07T22:57:41.000+00:00"
+}

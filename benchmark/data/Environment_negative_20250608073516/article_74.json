@@ -1,0 +1,110 @@
+{
+  "thread": {
+    "uuid": "91822b18977fecc863ae212ad48896d855eceb8e",
+    "url": "https://flipboard.com/topic/martinheinrich/-/a-2mp69_l3Q2msqTRE0YtWKA%3Aa%3A3195393-%2F0",
+    "site_full": "flipboard.com",
+    "site": "flipboard.com",
+    "site_section": "https://flipboard.com/topic/martinheinrich",
+    "site_categories": ["family_and_parenting", "eldercare"],
+    "section_title": "Discover More in Martin Heinrich on Flipboard",
+    "site_title": "Flipboard: Your Social Magazine",
+    "title": "Trump Administration Is Said to Target Park Service Grants | Flipboard",
+    "title_full": "Trump Administration Is Said to Target Park Service Grants | Flipboard",
+    "published": "2025-05-08T01:22:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ic-cdn.flipboard.com/nyt.com/d832b1b74d68c506f6b896c80ec631fe1df7c12e/_medium.jpeg",
+    "performance_score": 0,
+    "domain_rank": 1243,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "91822b18977fecc863ae212ad48896d855eceb8e",
+  "url": "https://flipboard.com/topic/martinheinrich/-/a-2mp69_l3Q2msqTRE0YtWKA%3Aa%3A3195393-%2F0",
+  "ord_in_thread": 0,
+  "author": "The New York Times - By Lisa Friedman",
+  "published": "2025-05-08T01:22:00.000+03:00",
+  "title": "Trump Administration Is Said to Target Park Service Grants | Flipboard",
+  "text": "Trump Administration Is Said to Target Park Service Grants Dozens of programs, many linked to climate change and diversity, have been designated for elimination by DOGE, according to people with knowledge of the plan. The Trump administration has earmarked dozens of National Park Service grants for elimination, including several that aim to protect public …\nThe New York Times - By Lisa Friedman • 16m",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Politics", "Environment", "Economy, Business and Finance"],
+  "topics": [
+    "Politics->environmental policy",
+    "Politics->government policy",
+    "Politics->political development",
+    "Environment->sustainability",
+    "Environment->parks",
+    "Environment->climate change",
+    "Economy, Business and Finance->investment and opinion pieces",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->financial and economic news"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Lisa Friedman",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "National Park Service",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "New York Times",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "NYT",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T01:43:11.461+03:00",
+  "updated": "2025-05-07T22:48:16.000+00:00"
+}

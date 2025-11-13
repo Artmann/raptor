@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "ab06bfed09910eccabf93e3cd1d25e325c0737d7",
+    "url": "https://see.news/oil-prices-drop-brent-crude-reaches-61",
+    "site_full": "see.news",
+    "site": "see.news",
+    "site_section": "https://see.news/rss",
+    "site_categories": ["media"],
+    "section_title": " Sada Elbalad",
+    "site_title": "Login | 1COM",
+    "title": "Oil Prices Drop .. Brent Crude Reaches $61 | Sada Elbalad",
+    "title_full": "Oil Prices Drop .. Brent Crude Reaches $61 | Sada Elbalad",
+    "published": "2025-05-08T01:53:50.307+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "EG",
+    "main_image": "https://i2.wp.com/see.news/images/2022/11/oil-prices-plunge-after-federal-reserve-rate-hike-1667539464-0.jpg?resize=920%2C550&amp;ssl=1",
+    "performance_score": 0,
+    "domain_rank": 121834,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ab06bfed09910eccabf93e3cd1d25e325c0737d7",
+  "url": "https://see.news/oil-prices-drop-brent-crude-reaches-61",
+  "ord_in_thread": 0,
+  "author": "@",
+  "published": "2025-05-08T01:53:50.307+03:00",
+  "title": "Oil Prices Drop .. Brent Crude Reaches $61 | Sada Elbalad",
+  "text": "Taarek Refaat Oil prices fell on Wednesday, after rebounding from a sharp sell-off earlier in the week, as investors shifted their focus to US-China trade talks this weekend.\nBrent crude futures fell 71 cents, or about 1.14%, to $61.44 a barrel by end of trading, while US West Texas Intermediate (WTI) crude fell 66 cents, or 1.12%, to $58.43 a barrel.\nLatest Oil Prices:\nWTI Crude $58.07 -1.73%\nBrent Crude $60.96 -1.91%\nMurban Crude $61.56 -1.28%\nLouisiana Light $62.57 +3.32%\nBonny Light $78.62 -2.84%\nOpec Basket $61.81 +3.26%\nMars US $72.57 -1.48%\nGasoline $2.028 -1.78%\nNatural Gas $3.621 +4.56%\nBoth benchmarks fell to four-year lows this week after OPEC+ decided to accelerate production increases, raising concerns of oversupply at a time when US tariffs have heightened demand concerns.\nThe United States and China are scheduled to meet in Switzerland, which could be the first step toward resolving a trade war that is disrupting the global economy.\nThe US-China trade talks come after weeks of escalating tensions, which have seen tariffs on imported goods between the world's two largest economies rise sharply, exceeding 100%.\nInvestors are also awaiting the Federal Reserve's next policy update on Wednesday, where they expect the key interest rate to remain in the 4.25%-4.50% range until the Fed's meeting on July 29-30.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Environment"],
+  "topics": [
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->economy",
+    "Environment->energy resources",
+    "Environment->environmental pollution",
+    "Environment->global warming"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Sada Elbalad Taarek Refaat Oil",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "OPEC",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T01:53:50.307+03:00",
+  "updated": "2025-05-07T22:57:20.000+00:00"
+}

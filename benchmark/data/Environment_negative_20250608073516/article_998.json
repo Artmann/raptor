@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "7e331422caecaf0d6c6d66ae297b25ed79202ff9",
+    "url": "https://www.tiempo.com.mx/noticia/9_incendios_forestales_en_chihuahua_afecta_25_mil_hectareas_conafor",
+    "site_full": "www.tiempo.com.mx",
+    "site": "tiempo.com.mx",
+    "site_section": "https://tiempo.com.mx/seccion/local/1",
+    "site_categories": ["media", "top_news_mx", "top_news"],
+    "section_title": "Tiempo",
+    "site_title": "Tiempo La Noticia Digital | Noticias de Chihuahua",
+    "title": "9 incendios forestales en Chihuahua; afecta 25 mil hectáreas: CONAFOR",
+    "title_full": "9 incendios forestales en Chihuahua; afecta 25 mil hectáreas: CONAFOR",
+    "published": "2025-05-08T00:21:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://static.tiempo.com.mx/uploads/imagen/imagen/706584/principal_incendioforestal.jpg",
+    "performance_score": 0,
+    "domain_rank": 160594,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7e331422caecaf0d6c6d66ae297b25ed79202ff9",
+  "url": "https://www.tiempo.com.mx/noticia/9_incendios_forestales_en_chihuahua_afecta_25_mil_hectareas_conafor",
+  "ord_in_thread": 0,
+  "author": "Tiempo - La Noticia Digital.",
+  "published": "2025-05-08T00:21:00.000+03:00",
+  "title": "9 incendios forestales en Chihuahua; afecta 25 mil hectáreas: CONAFOR",
+  "text": "Según el corte realizado a las 17:00 horas de este miércoles, se cuenta con 294 elementos combatiendo los siniestros, mientras que dos incendios ya fueron liquidados tras consumir 36 hectáreas.\nDe los incendios activos, dos se desarrollan dentro de Áreas Naturales Protegidas. El municipio de Madera registra dos conflagraciones significativas, con más de 9,700 hectáreas afectadas combinadamente, mientras que en Bocoyna se logró controlar un incendio de gran magnitud que arrasó con 9,708 hectáreas.\nLas autoridades han logrado contener al 100% los incendios en Bocoyna y Guerrero. No obstante, en municipios como Moris y Balleza, el fuego sigue fuera de control en algunas zonas, lo que ha elevado la atención de los cuerpos de emergencia.\nLa cifra de incendios acumulados en lo que va del 2025 asciende a 379, con una superficie preliminar afectada total de 82,302.47 hectáreas.\nCONAFOR reiteró el llamado a la población a evitar el uso de fuego en zonas forestales y reportar de inmediato cualquier columna de humo al 800 737 0000 o al 911.\nDetalle de incendios:\nEstado del incendio Municipio Predio / Paraje Inicio % Control Superficie Total Personal Total Controlado Bocoyna Ej. Arroyo de la Cabeza, P.P. San Miguel, Ej. Molinares, Ej. Panalachi, P.P. Sohuebachi, P.P. Sohuarachi y anexos 19-04-25 100% 9,708 ha 80 Activo Morelos Ej. San Andrés, P.P. Las Joyas, P.P. La Joya del Solitario y P.P. El Triguito (Guayabos) 26-04-25 90% 3,767 ha 38 Activo Madera P.P. Cumbres, P.P. Caballo, Ej. Las Pomas, P.P. Dos Hermanos, Ej. Las Playas, Col. Heroína (La Cumbre) 28-04-25 50% 7,765 ha 36 Activo Moris P.P. Coscori 03-05-25 0% 385 ha 10 Activo Madera Ej. El Largo y Anexos (El Pedernal) 03-05-25 80% 2,000 ha 20 Activo Guadalupe y Calvo Ej. Llano Grande y Anexos, Ej. La Nopalera y sus anexos 05-05-25 75% 2,809 ha 48 Activo Balleza Ej. San Carlos y sus anexos, Ej. La Pinta, La Joya y anexos, P.P. Arroyo Seco, P.P. Vara de San Juan (San Rafael) 03-05-25 70% 1,875 ha 61 Activo Balleza P.P. El Cura (El Ojito) 06-05-25 10% 466 ha 10 Controlado Guerrero Ej. San Pablo de la Sierra (Mateoyena) 06-05-25 100% 36 ha 10 Comparte este artículo",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Social Issue", "Environment"],
+  "topics": [
+    "Disaster and Accident->natural disaster",
+    "Disaster and Accident->fire",
+    "Social Issue->demographics",
+    "Social Issue->social problem",
+    "Environment->natural resources",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Balleza",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bocoyna",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Comisión Nacional Forestal",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T07:02:19.808+03:00",
+  "updated": "2025-05-08T07:52:53.635+03:00"
+}

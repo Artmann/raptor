@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "93b159377a28fdd93920a75bbdbeb0a7db55196e",
+    "url": "https://daijiworld.com/news/newsDisplay?newsID=1295299",
+    "site_full": "daijiworld.com",
+    "site": "daijiworld.com",
+    "site_section": "https://www.daijiworld.com/rssfeed/rssfeed.xml",
+    "site_categories": ["media", "top_news_kw", "top_news_ae", "top_news"],
+    "section_title": "Today's News on Daijiworld.com",
+    "site_title": "Daijiworld - A News portal linking West coast of India and the World",
+    "title": "Adani Green Energy Gallery at Science Museum crosses one million visitors",
+    "title_full": "Adani Green Energy Gallery at Science Museum crosses one million visitors",
+    "published": "2025-10-16T08:14:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/Museum_16102025_1.jpg",
+    "performance_score": 0,
+    "domain_rank": 42507,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "93b159377a28fdd93920a75bbdbeb0a7db55196e",
+  "url": "https://daijiworld.com/news/newsDisplay?newsID=1295299",
+  "ord_in_thread": 0,
+  "author": "daijiworld.com",
+  "published": "2025-10-16T08:14:00.000+03:00",
+  "title": "Adani Green Energy Gallery at Science Museum crosses one million visitors",
+  "text": "Daijiworld Media Network – London\nLondon, Oct 16: The Energy Revolution: Adani Green Energy Gallery, an award-winning free gallery at the Science Museum in London, has welcomed one million visitors, including over 10,000 students, since its launch last year, Adani Green Energy announced on Thursday.\nDedicated to showcasing the global transition toward cleaner and more sustainable energy, the gallery explores the innovations driving decarbonisation and climate action. It features striking displays of historic and modern exhibits, interactive digital installations, and specially designed models that highlight how human creativity continues to shape the world’s energy systems.\n“We are honoured to witness Energy Revolution: The Adani Green Energy Gallery inspiring a million minds and igniting conversations around sustainability and innovation,” said Sagar Adani, Executive Director of Adani Green Energy. “This milestone reflects our shared commitment to shaping a greener tomorrow and the power of education in driving meaningful change.”\nThe gallery features a wide range of technologies and global projects — from hydrogen power in Orkney to terracotta air-cooling facades in India and solar farms in Morocco. Since its opening, more than 10,000 students have explored the exhibits as part of educational visits.\nSir Ian Blatchford, Chief Executive and Director of the Science Museum Group, said, “We are delighted to have welcomed a million visitors to this stunning gallery, helping ignite curiosity and sparking conversations about the need to generate and use energy more sustainably.” He also expressed gratitude to Adani Green Energy for its sponsorship that made the gallery possible.\nOpened on March 24 last year on Level 2 of the Science Museum’s West Hall, the gallery was designed by Unknown Works, an architecture and design studio, and recently received the Retrofit and Reuse Award from the Architect’s Journal for its sustainable approach to design and installation.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment", "Arts, Culture and Entertainment"],
+  "topics": [
+    "Environment->energy resources",
+    "Environment->energy saving",
+    "Arts, Culture and Entertainment->library and museum"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Sagar Adani",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Science Museum",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Adani Green Energy Gallery",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_kw", "top_news_ae", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:56:34.782+03:00",
+  "updated": "2025-10-17T15:07:10.000+03:00"
+}

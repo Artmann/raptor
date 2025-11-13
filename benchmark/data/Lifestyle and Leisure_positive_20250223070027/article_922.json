@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "f5e4a29b1dba779d50d24479053541695cd39c4c",
+    "url": "https://www.ocala-news.com/2025/01/23/beautiful-sunset-over-ocala-palms",
+    "site_full": "www.ocala-news.com",
+    "site": "ocala-news.com",
+    "site_section": "https://www.ocala-news.com/feed",
+    "site_categories": ["media"],
+    "section_title": "Ocala-News.com",
+    "title": "Beautiful sunset over Ocala Palms",
+    "title_full": "Beautiful sunset over Ocala Palms",
+    "published": "2025-01-23T23:54:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.ocala-news.com/wp-content/uploads/2025/01/Beautiful-sunset-over-Ocala-Palms.jpg",
+    "performance_score": 0,
+    "domain_rank": 14591,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f5e4a29b1dba779d50d24479053541695cd39c4c",
+  "url": "https://www.ocala-news.com/2025/01/23/beautiful-sunset-over-ocala-palms",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Reader Submission",
+  "published": "2025-01-23T23:54:00.000+02:00",
+  "title": "Beautiful sunset over Ocala Palms",
+  "text": "The sun setting over Ocala Palms created this beautiful scene. Thanks to Keith Kolar for sharing!\nShare your local photos with us at https://ocala-news.com/submit-your-photos!\nThe sun setting over Ocala Palms created this beautiful scene. Thanks to Keith Kolar for sharing!\nShare your local photos with us at https://ocala-news.com/submit-your-photos!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Lifestyle and Leisure", "Arts, Culture and Entertainment"],
+  "topics": [
+    "Lifestyle and Leisure->holiday",
+    "Lifestyle and Leisure->outdoor recreational activities",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Keith Kolar",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:42:30.654+02:00",
+  "updated": "2025-01-24T00:42:30.654+02:00"
+}

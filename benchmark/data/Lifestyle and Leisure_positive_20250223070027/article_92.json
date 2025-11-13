@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "b9d3a95eb9d5146c05d7cbbfbe0619b430867274",
+    "url": "https://www.telemundo.com/deportes/mas-deporte/el-majestuoso-yate-de-max-vertsappen-de-14-millones-de-dolares-y-32-me-rcna189037",
+    "site_full": "www.telemundo.com",
+    "site": "telemundo.com",
+    "site_section": "https://www.telemundo.com/noticias/noticias-telemundo/salud",
+    "site_categories": ["television", "non_standard_content", "entertainment"],
+    "section_title": "Telemundo | Noticias, Shows, Entretenimiento, Series y Novelas | Telemundo",
+    "title": "El majestuoso yate de Max Vertsappen, de 14 millones de dólares y 32 metros de largo",
+    "title_full": "El majestuoso yate de Max Vertsappen, de 14 millones de dólares y 32 metros de largo",
+    "published": "2025-01-24T03:55:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-01/photo-output-8f4f42.jpg",
+    "performance_score": 0,
+    "domain_rank": 8981,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b9d3a95eb9d5146c05d7cbbfbe0619b430867274",
+  "url": "https://www.telemundo.com/deportes/mas-deporte/el-majestuoso-yate-de-max-vertsappen-de-14-millones-de-dolares-y-32-me-rcna189037",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "TELEMUNDO",
+  "published": "2025-01-24T03:55:00.000+02:00",
+  "title": "El majestuoso yate de Max Vertsappen, de 14 millones de dólares y 32 metros de largo",
+  "text": "Max Verstappen, tetracampeón del mundo en F1, está gozando al máximo la vida de glamour que le ha permitido ser uno de los pilotos más ganadores de la historia. El neerlandés recién adquirió un majestuoso yate de 33 metros de largo que ha nombrado “Liberen al León”, cuyo costo ronda los 14 millones de dólares.\nMANTENTE AL DÍA CON TODO LO ÚLTIMO EN NUESTRO CANAL DE WHATSAPP\nVerstappen y su pareja, Kelly Piquet, fueron vistos en el astillero Overmarine en Italia para ver su extravagante adquisición, que pertenece a la línea de lujo Mangusta GranSport 33, de la marca italiana.\nEl yate tiene la capacidad de albergar hasta 12 invitados en sus cinco camarotes de lujo y tres cabinas para miembros de la tripulación. Además de las múltiples áreas de descanso y un espacioso solárium en la parte superior, cuenta con un Beach Club en su popa.\nVerstappen se suma a Fernando Alonso como los pilotos que tienen su propio yate. El español compró un Sunreef Power Eco de 18 metros de largo a principios del año pasado.\nTambién es conocida la lujosa colección de vehículos que tiene el piloto neerlandés que ronda los 6 millones de dólares en automóviles, incluida una colección privada de carros de James Bond. Asimismo, cuenta con un avión privado Dassault Falcon 900EX, cuyo costo ronda entre los 9 millones 500 mil dólares y los 10 millones 750 mil dólares.\nTAMBIÉN TE PUEDE INTERESAR:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Lifestyle and Leisure", "Arts, Culture and Entertainment"],
+  "topics": [
+    "Lifestyle and Leisure->trend",
+    "Lifestyle and Leisure->lifestyle",
+    "Arts, Culture and Entertainment->culture",
+    "Arts, Culture and Entertainment->arts and entertainment",
+    "Arts, Culture and Entertainment->mass media"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": ["https://t.co/melczPBRUZ", "https://www.t.co/melczPBRUZ"],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Fernando Alonso",
+        "sentiment": "none"
+      },
+      {
+        "name": "Kelly Piquet",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:04:21.828+02:00",
+  "updated": "2025-01-24T00:04:21.828+02:00"
+}

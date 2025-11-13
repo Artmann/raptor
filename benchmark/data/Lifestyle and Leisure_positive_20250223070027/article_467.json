@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "da891e4445b0ad3700c559e667376e96f39b38a0",
+    "url": "https://www.prensa.com/economia/brasil-espera-record-de-vuelos-desde-espana-que-ya-suponen-un-13-del-volumen-europeo",
+    "site_full": "www.prensa.com",
+    "site": "prensa.com",
+    "site_section": "https://prensa.com/arc/outboundfeeds/rss/?outputType=xml",
+    "site_categories": ["media"],
+    "section_title": "",
+    "title": "Brasil espera récord de vuelos desde España, que ya suponen un 13% del volumen europeo",
+    "title_full": "Brasil espera récord de vuelos desde España, que ya suponen un 13% del volumen europeo",
+    "published": "2025-01-24T00:05:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PA",
+    "main_image": "https://prensa.com/resizer/v2/JKQRZVXR3NEDPFOYGARUM35N5U.jpg?auth=fb7a24b43ac2c2a65ce740bfb2c530aef4223b5797555e17a93dd0daeac42aee&amp;width=1200",
+    "performance_score": 0,
+    "domain_rank": 30915,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "da891e4445b0ad3700c559e667376e96f39b38a0",
+  "url": "https://www.prensa.com/economia/brasil-espera-record-de-vuelos-desde-espana-que-ya-suponen-un-13-del-volumen-europeo",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "EFE EFE",
+  "published": "2025-01-24T00:05:00.000+02:00",
+  "title": "Brasil espera récord de vuelos desde España, que ya suponen un 13% del volumen europeo",
+  "text": "Casi el 13% de los vuelos europeos que llegan a Brasil procede de España, país del que espera un nuevo récord de número de vuelos y pasajeros en 2025, según aseguró hoy a EFE el presidente de la Agencia Brasileña de Promoción Internacional del Turismo, Embratur, Marcelo Freixo.\nEuropa es el continente que más turistas envía a Brasil, con cerca de 1.4 millones de europeos que aterrizaron en 2024 en los aeropuertos del país, lo que supone un aumento del 16% respecto al año anterior.\nPor su parte, cerca de 128,000 españoles llegaron a destinos brasileños el año pasado, un 12.9% del total de vuelos y un 12% más que en 2023, lo que le sitúa en tercer lugar de países con mayor tránsito hacia Brasil.\nEl presidente de Embratur calificó estas cifras como un “récord” y opinó, durante la entrevista realizada este jueves en el stand de Brasil con motivo de la cuadragésimoquinta edición de la Feria Internacional de Turismo Fitur en Madrid, que este es el resultado de los esfuerzos de su entidad por ampliar la red aérea “en un intento de impulsar el turismo hacia el país”.\nAún así, Freixo consideró que todavía hay potencial para conectar más destinos directamente con España, especialmente en el noreste, aumentando el acceso de los turistas extranjeros a “lo mejor que el país tiene para ofrecer”.\nEn total, alrededor de 4,000 vuelos conectarán Europa con Brasil en el primer trimestre de 2025, lo que supone un alza del 14.4% en comparación con 2024.\nDe acuerdo a sus datos, la oferta de asientos supera los 1.2 millones, tras reiterar que Brasil tiene un potencial “muy grande” para crecer en turismo, sector que actualmente representa el 8% del PIB.\nMás allá del sol y playa\nEso sí, a su juicio la apuesta debe ir “más allá del turismo de sol y playa”, con la promoción de la cultura, la gastronomía, la naturaleza: “Brasil tiene seis biomas diferentes; es un país acogedor, alegre, seguro y bien preparado para recibir turistas internacionales”.\nEn España, Embratur -entidad que colabora con EFE en la difusión de este contenido- inició en 2024 una colaboración con El Corte Inglés para promocionar la Amazonía como destino turístico brasileño y, dada la acogida “muy positiva”, se añadió este año la región del Pantanal, “precisamente uno de los biomas más importantes de Brasil por su capacidad de incidir en la lucha contra el desequilibrio climático”.\n“Una de las rutas más fascinantes de Brasil, con un recorrido que atraviesa los estados de Ceará, Piauí y Maranhão, la Ruta de las Emociones es el destino elegido para destacar en la feria de España”, de forma que para Freixo es un circuito ideal para los amantes de la aventura y el ecoturimo con multitud de senderos, deportes acuáticos y exploración de zonas naturales protegidas.\nSituada en el nordeste del país, la ruta es “una verdadera joya del turismo brasileño”, con los paisajes de los Lençóis Maranhenses, el Delta del Parnaíba y las playas de Jericoacoara, así como auténticas experiencias culturales con las comunidades locales.\n“En las fazendas hay visitas guiadas en vehículos todoterreno abiertos para poder observar toda la fauna y la flora. Hay muchos proyectos interesantes como por ejemplo un safari, un programa de recuperación de los jaguares del pantanal, se puede observar y comprobar la vida de estos animales ‘in situ’, sin ningún riesgo para el visitante”, detalló Marcelo Freixo.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Lifestyle and Leisure"],
+  "topics": [
+    "Economy, Business and Finance->economy",
+    "Economy, Business and Finance->transport",
+    "Economy, Business and Finance->tourism and leisure industry",
+    "Lifestyle and Leisure->travel and tourism"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Marcelo Freixo",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Agencia Brasileña de Promoción Internacional del Turismo",
+        "sentiment": "none"
+      },
+      {
+        "name": "Embratur",
+        "sentiment": "none"
+      },
+      {
+        "name": "EFE",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:21:56.957+02:00",
+  "updated": "2025-01-24T00:21:56.957+02:00"
+}

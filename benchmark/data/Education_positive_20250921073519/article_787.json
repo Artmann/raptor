@@ -1,0 +1,143 @@
+{
+  "thread": {
+    "uuid": "c2697ee01a26ee6bee618e066d9586761c9fe409",
+    "url": "https://mirror.pco.gov.ph/news_releases/president-marcos-inks-laws-establishing-and-upgrading-schools-in-leyte-rizal-and-sorsogon/",
+    "site_full": "mirror.pco.gov.ph",
+    "site": "pco.gov.ph",
+    "site_section": "https://mirror.pco.gov.ph",
+    "site_categories": [],
+    "section_title": "Presidential Communications Office &#8211; PCO",
+    "site_title": null,
+    "title": "President Marcos inks laws establishing and upgrading schools in Leyte, Rizal, and Sorsogon - Presidential Communications Office",
+    "title_full": "President Marcos inks laws establishing and upgrading schools in Leyte, Rizal, and Sorsogon - Presidential Communications Office",
+    "published": "2025-09-18T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PH",
+    "main_image": "https://mirror.pco.gov.ph/wp-content/themes/sage-8.4.1/assets/images/og-logo-2023.jpg",
+    "performance_score": 0,
+    "domain_rank": 319543,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c2697ee01a26ee6bee618e066d9586761c9fe409",
+  "url": "https://mirror.pco.gov.ph/news_releases/president-marcos-inks-laws-establishing-and-upgrading-schools-in-leyte-rizal-and-sorsogon/",
+  "ord_in_thread": 0,
+  "author": "@GovPH_PCO",
+  "published": "2025-09-18T03:00:00.000+03:00",
+  "title": "President Marcos inks laws establishing and upgrading schools in Leyte, Rizal, and Sorsogon - Presidential Communications Office",
+  "text": "President Ferdinand R. Marcos Jr. has signed into law four measures that expand access to quality education by establishing new national high schools and converting existing elementary schools into integrated schools in the provinces of Leyte, Rizal, and Sorsogon.\nPresident Marcos issued Republic Act (RA) 12256 establishing the Doos del Norte National High School in Hindang, Leyte, and RA 12258 creating the Tanay National Science High School in Rizal.\nThe Chief Executive also signed RA 12257, which converted the Alegria Elementary School in Barcelona, Sorsogon, into the Alegria Integrated School, and Republic Act No. 12259, which transformed the Patag Elementary School in Irosin, Sorsogon, into the Patag Integrated School.\nUnder the laws, all personnel, assets, liabilities, and records of the converted schools will be transferred to and absorbed by the integrated schools.\nThe President mandated the Department of Education (DepEd) to operationalize both the newly established and upgraded schools, with funding support to be sourced from the annual General Appropriations Act.\nThe DepEd is further tasked with formulating and implementing rules and regulations within 90 days.\nThe measures were signed into law on September 5, 2025, and will take effect 15 days after publication in the Official Gazette or a newspaper of general circulation. | PND",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Politics", "Human Interest"],
+  "topics": [
+    "Education->primary education",
+    "Education->school",
+    "Education->state school",
+    "Politics->education policy",
+    "Politics->government",
+    "Politics->national government"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.officialgazette.gov.ph/2025/09/05/republic-act-no-12257/",
+    "https://www.officialgazette.gov.ph/2025/09/05/republic-act-no-12258/",
+    "https://www.officialgazette.gov.ph/2025/09/05/republic-act-no-12256/",
+    "https://www.officialgazette.gov.ph/2025/09/05/republic-act-no-12259/",
+    "https://officialgazette.gov.ph/2025/09/05/republic-act-no-12257/",
+    "https://www.officialgazette.gov.ph/2025/09/05/republic-act-no-12257",
+    "https://www.officialgazette.gov.ph/2025/09/05/republic-act-no-12256",
+    "https://www.officialgazette.gov.ph/2025/09/05/republic-act-no-12259",
+    "https://www.officialgazette.gov.ph/2025/09/05/republic-act-no-12258",
+    "https://officialgazette.gov.ph/2025/09/05/republic-act-no-12258/",
+    "https://officialgazette.gov.ph/2025/09/05/republic-act-no-12259/",
+    "https://officialgazette.gov.ph/2025/09/05/republic-act-no-12256/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ferdinand R. Marcos Jr.",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Presidential Communications Office",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Tanay National Science High School",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Alegria Elementary School",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Alegria Integrated School",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Patag Elementary School",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Patag Integrated School",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:00:48.700+03:00",
+  "updated": "2025-09-18T09:07:36.000+03:00"
+}

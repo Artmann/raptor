@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "cb9a21ff45145b9680ef065db6669ef3d32738b2",
+    "url": "https://www.herald-dispatch.com/news/the-local-exchange-partners-with-hamlin-public-library/article_ff878318-7856-4016-957f-248fd1b34d8e.html",
+    "site_full": "www.herald-dispatch.com",
+    "site": "herald-dispatch.com",
+    "site_section": "https://www.herald-dispatch.com/online_features/press_releases",
+    "site_categories": ["media"],
+    "section_title": "Press Releases | herald-dispatch.com",
+    "site_title": "herald-dispatch.com",
+    "title": "Local Exchange partnering with Hamlin Public Library | News | herald-dispatch.com",
+    "title_full": "Local Exchange partnering with Hamlin Public Library | News | herald-dispatch.com",
+    "published": "2025-09-18T07:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/assets/v3/editorial/7/4f/74fdb146-9511-4141-8b9c-40d9b47cf773/68ae0e0a13143.image.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 81099,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cb9a21ff45145b9680ef065db6669ef3d32738b2",
+  "url": "https://www.herald-dispatch.com/news/the-local-exchange-partners-with-hamlin-public-library/article_ff878318-7856-4016-957f-248fd1b34d8e.html",
+  "ord_in_thread": 0,
+  "author": "AMY ADKINS Aadkins@hdmediallc.com",
+  "published": "2025-09-18T07:00:00.000+03:00",
+  "title": "Local Exchange partnering with Hamlin Public Library | News | herald-dispatch.com",
+  "text": "HAMLIN, W.Va. — The Local Exchange has partnered with the Hamlin Public Library to bring the public more resources. The library now offers a seed program patrons can take home to use in their own gardens, along with homesteading books.\nThe Local Exchange is a nonprofit organization currently serving Wayne, Lincoln and Cabell counties. It strives to create a more sustainable, resilient community of families and entrepreneurs with a “do it yourself” attitude, promoting small-scale agriculture, homesteading, artisanal makers, specialty producers and more.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest"],
+  "topics": ["Education->school", "Education->social learning"],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Local Exchange",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Hamlin Public Library",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": ["Huntington"],
+      "state": ["West Virginia"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:16:32.130+03:00",
+  "updated": "2025-09-18T08:21:23.000+03:00"
+}

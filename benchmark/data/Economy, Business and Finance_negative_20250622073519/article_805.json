@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "243da17f2f5dd5ffbde9ccff19e705a91ebfa12a",
+    "url": "https://singapore.shafaqna.com/EN/AL/1073589",
+    "site_full": "singapore.shafaqna.com",
+    "site": "shafaqna.com",
+    "site_section": "http://singapore.shafaqna.com/rss.xml",
+    "site_categories": ["top_news_iq", "top_news"],
+    "section_title": "Singapore News (News Reader) | ",
+    "site_title": null,
+    "title": "Air India to cut international flights on widebody aircraft by 15%",
+    "title_full": "Air India to cut international flights on widebody aircraft by 15%",
+    "published": "2025-06-18T19:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "SG",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 29623,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "243da17f2f5dd5ffbde9ccff19e705a91ebfa12a",
+  "url": "https://singapore.shafaqna.com/EN/AL/1073589",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-18T19:00:00.000+03:00",
+  "title": "Air India to cut international flights on widebody aircraft by 15%",
+  "text": "asiaone - 2 hours ago Air India to cut international flights on widebody aircraft by 15% Air India said on Wednesday (June 18) it will cut international operations on its widebody aircraft by 15 per cent for the next few weeks, citing ongoing safety inspections and operational disruptions following last week s deadly crash of one of its Boeing 787 Dreamliners.Authorities continue to investigate the crash of flight AI171, which killed 241 people and marked the world s deadliest aviation disaster in a decade.The airline said in a statement that inspections had been completed on 26 of its 33 Boeing 787-8 and 787-9 aircraft, and those 26 have been cleared for service.The cuts, effective until at least mid-July, were being implemented to ensure stability of operations, better efficiency and minimise inconvenience to passengers, the Tata Group-owned airline said.The remaining planes will be checked in the coming days and additional checks are also planned for its Boeing 777 fleet, Air India added.Flight AI171, bound for London s Gatwick Airport, crashed shortly after takeoff from Ahmedabad, killing all but one on board and about 30 people on the ground.\nRead on the original site",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance"],
+  "topics": [
+    "Economy, Business and Finance->financial service",
+    "Economy, Business and Finance->business governance"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://asiaone.com/asia/air-india-cut-international-flights-widebody-aircraft-15",
+    "https://www.asiaone.com/asia/air-india-cut-international-flights-widebody-aircraft-15"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Gatwick Airport",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ahmedabad",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Air India",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Tata Group",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Boeing",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_iq", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:40:47.482+03:00",
+  "updated": "2025-06-20T05:08:34.000+00:00"
+}

@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "656b96496e58a1b41147fc67890b203f0bce0918",
+    "url": "https://www.miragenews.com/epa-sniffs-out-deer-park-odour-problem-1456437",
+    "site_full": "www.miragenews.com",
+    "site": "miragenews.com",
+    "site_section": "https://miragenews.com/tag/local-council",
+    "site_categories": ["media"],
+    "section_title": "Live Local Council updates | Mirage News",
+    "site_title": "Australia&#039;s 24/7 live news &amp; media portal | Mirage News",
+    "title": "EPA Sniffs Out Deer Park Odour Problem | Mirage News",
+    "title_full": "EPA Sniffs Out Deer Park Odour Problem | Mirage News",
+    "published": "2025-05-08T03:04:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://www.epa.vic.gov.au/-/media/epa/images/social-media-tiles/web-test-200px.png",
+    "performance_score": 0,
+    "domain_rank": 10803,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "656b96496e58a1b41147fc67890b203f0bce0918",
+  "url": "https://www.miragenews.com/epa-sniffs-out-deer-park-odour-problem-1456437",
+  "ord_in_thread": 0,
+  "author": "Mirage News",
+  "published": "2025-05-08T03:04:00.000+03:00",
+  "title": "EPA Sniffs Out Deer Park Odour Problem | Mirage News",
+  "text": "A team from EPA Victoria has undertaken a compliance audit on a Deer Park chemical manufacturer and investigated breaches of its licence following a report of a strong odour from its Ballarat Rd plant.\nThe smell wasn't the only thing that left Hexion Pty Ltd; $9,880 of the company's money will go to paying a fine for failing to report the incident to the environmental regulator.\nEPA Western Metropolitan Regional Manager Carly McGregor says when members of the public reported the odour on 2 April 2025, an EPA team was on site and opening the investigation within hours.\n\"There's a clear message for any business with an EPA licence or permission,\" Ms McGregor said.\n\"That licence comes with conditions designed to protect the environment and the community. The conditions are backed by the law and must be taken seriously,\" she said.\n\"In this case, the first calls came from members of the public, an EPA team was on the premises the same day and launched an examination of all aspects of the company's compliance with its licence,\" she said.\nThe facility operates under an EPA Operating Licence and one of the conditions of the licence is that it must report any breaches immediately.\nEPA officers are now assessing whether to issue a regulatory notice requiring the company to make improvements to reduce the risk of future leaks.\nUnder the Environment Protection Act 2017 and the Infringements Act 2006, the operator has the right to have the infringement notice reviewed or be considered by a court.\nMembers of the public can report pollution by calling EPA's 24-hour hotline on 1300 372 842 or providing details online at epa.vic.gov.au/report-pollution/reporting-pollution\nhere.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Health", "Social Issue"],
+  "topics": [
+    "Environment->hazardous materials",
+    "Environment->air pollution",
+    "Environment->environmental pollution",
+    "Health->health organisation",
+    "Health->public health",
+    "Social Issue->social problem",
+    "Social Issue->social condition",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "http://www.epa.vic.gov.au/report-pollution/reporting-pollution%20%20",
+    "http://epa.vic.gov.au/report-pollution/reporting-pollution%20%20"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Carly McGregor",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "EPA",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Hexion Pty Ltd",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:50:58.677+03:00",
+  "updated": "2025-05-08T00:56:24.000+00:00"
+}

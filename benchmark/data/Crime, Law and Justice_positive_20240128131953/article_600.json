@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "8d2b564d76070c3b99a91a6816701be996c08d54",
+    "url": "https://www.news-gazette.com/opinion/letters-editor/letter-to-the-editor-ui-lead-lawyer-did-great-job/article_d8896022-6dd1-5582-bae7-07ee6e66d28e.html",
+    "site_full": "www.news-gazette.com",
+    "site": "news-gazette.com",
+    "site_section": "http://www.news-gazette.com/search/?f=rss&t=article&c=opinion&l=50&s=start_time&sd=desc",
+    "site_categories": ["media"],
+    "section_title": "www.news-gazette.com - RSS Results in opinion of type article",
+    "title": "Letter to the Editor | UI lead lawyer did great job",
+    "title_full": "Letter to the Editor | UI lead lawyer did great job",
+    "published": "2023-12-29T17:05:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/news-gazette.com/content/tncms/custom/image/5c025878-3cf1-11ec-aab6-43ff9fec55a8.jpg?resize=600%2C315",
+    "performance_score": 0,
+    "domain_rank": 14449,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8d2b564d76070c3b99a91a6816701be996c08d54",
+  "url": "https://www.news-gazette.com/opinion/letters-editor/letter-to-the-editor-ui-lead-lawyer-did-great-job/article_d8896022-6dd1-5582-bae7-07ee6e66d28e.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2023-12-29T17:05:00.000+02:00",
+  "title": "Letter to the Editor | UI lead lawyer did great job",
+  "text": "UI lead lawyer did great job\nAs the University of Illinois welcomes a change in its general-counsel role, we celebrate Tom Bearrows’ exceptional tenure as the longest-serving individual in this position. His commitment to legal excellence has significantly shaped the university’s progress.\nAs an alumnus and former board of trustees member, I’ve had the privilege of working with him. Bearrows’ impartial and informed counsel has been indispensable in navigating the university through various legal complexities.\nEqually, it has been a privilege to work with Scott Rice, who now steps into the role of general counsel. Rice’s deep understanding of the university, developed under Bearrows’ mentorship, makes him exceptionally qualified for this position. His extensive institutional knowledge is a tremendous asset.\nThis leadership transition represents not only continuity in excellence but also a recognition of talent nurtured within our world-class university. I extend my heartfelt appreciation to Bearrows’ for his invaluable service and warmly welcome Rice, confident in his ability to uphold the high standards set by his predecessor.\nDr. STUART KING\nChampaign",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Crime, Law and Justice", "Education"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "tom bearrows",
+        "sentiment": "none"
+      },
+      {
+        "name": "scott rice",
+        "sentiment": "none"
+      },
+      {
+        "name": "rice",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "university of illinois",
+        "sentiment": "positive"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T19:34:12.011+02:00",
+  "updated": "2023-12-29T19:34:12.011+02:00"
+}

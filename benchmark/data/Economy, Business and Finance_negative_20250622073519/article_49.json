@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "ad6b381c594ed7eb5bf94fcb7d5e7302058cb156",
+    "url": "https://www.newsbreak.com/news/4058634736398-scottsdale-unified-increases-cost-of-school-meals-for-first-time-in-8-years",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://newsbreak.com/scottsdale-az",
+    "site_categories": ["under_construction"],
+    "section_title": "Scottsdale, AZ Local News and More | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Scottsdale Unified increases cost of school meals for first time in 8 years - NewsBreak",
+    "title_full": "Scottsdale Unified increases cost of school meals for first time in 8 years - NewsBreak",
+    "published": "2025-06-19T04:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/2S6eb7_11vZfQqd00",
+    "performance_score": 0,
+    "domain_rank": 3213,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ad6b381c594ed7eb5bf94fcb7d5e7302058cb156",
+  "url": "https://www.newsbreak.com/news/4058634736398-scottsdale-unified-increases-cost-of-school-meals-for-first-time-in-8-years",
+  "ord_in_thread": 0,
+  "author": "Mickaela Castillo",
+  "published": "2025-06-19T04:33:00.000+03:00",
+  "title": "Scottsdale Unified increases cost of school meals for first time in 8 years - NewsBreak",
+  "text": "AZFamily\nwebsite\nScottsdale\nScottsdale Unified increases cost of school meals for first time in 8 years\nBy Mickaela Castillo,\n3 hours agoSCOTTSDALE, AZ (AZFamily) — Parents in the Scottsdale Unified School District will soon need to pay a little extra for their kids’ school meals. Last week, the district’s school board voted 4-0 to increase breakfast and lunch prices, marking the first increase in eight years. The increases range from nearly 30% to 66%.\n1",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education", "Economy, Business and Finance"],
+  "topics": [
+    "Education->parents group",
+    "Education->school",
+    "Education->students",
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->human resources",
+    "Economy, Business and Finance->business governance"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mickaela Castillo",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Unified School District",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Scottsdale\nScottsdale Unified",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:36:04.366+03:00",
+  "updated": "2025-06-19T04:41:39.000+00:00"
+}

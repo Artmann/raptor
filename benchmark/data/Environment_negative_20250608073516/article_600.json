@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "8986c3cfd2feb4337d21f42c2673465b0c0df027",
+    "url": "https://finance.sina.com.cn/roll/2025-05-08/doc-inevuzvk0527468.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "http://finance.sina.cn",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪财经_金融信息服务商",
+    "site_title": null,
+    "title": "湖北荆州发布暴雨红色预警|暴雨_新浪财经_新浪网",
+    "title_full": "湖北荆州发布暴雨红色预警|暴雨_新浪财经_新浪网",
+    "published": "2025-05-08T03:48:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 259,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8986c3cfd2feb4337d21f42c2673465b0c0df027",
+  "url": "https://finance.sina.com.cn/roll/2025-05-08/doc-inevuzvk0527468.shtml",
+  "ord_in_thread": 0,
+  "author": "财联社",
+  "published": "2025-05-08T03:48:00.000+03:00",
+  "title": "湖北荆州发布暴雨红色预警|暴雨_新浪财经_新浪网",
+  "text": "转自：财联社\n【湖北荆州发布暴雨红色预警】财联社5月8日电，湖北省荆州市气象台2025年5月8日7时2分升级发布暴雨红色预警信号：过去1小时石首团山站和六虎山站降雨量达50毫米。目前强降雨云团持续影响石首南部，预计未来3小时，石首南部乡镇仍有50毫米以上降雨，最大小时雨强可达30-50毫米，伴有雷电，阵风6-8级，城乡暴雨积涝、中小河流洪水风险高，请注意防范。\n海量资讯、精准解读，尽在新浪财经APP\nVIP课程推荐\n加载中...\nAPP专享直播\n热门推荐\n收起\n新浪财经公众号\n24小时滚动播报最新的财经资讯和视频，更多粉丝福利扫描二维码关注（sinafinance）",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment", "Disaster and Accident"],
+  "topics": [
+    "Weather->weather warning",
+    "Environment->climate change",
+    "Environment->water",
+    "Environment->environmental pollution",
+    "Disaster and Accident->natural disaster"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:04:45.708+03:00",
+  "updated": "2025-05-08T02:11:16.000+00:00"
+}

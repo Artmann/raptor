@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "62318faef8160a4adec4e3e31036e89ac6f30369",
+    "url": "https://www.elnortedecastilla.es/nacional/andalucia-cuenta-hectometros-cubicos-agua-gracias-obras-20251016104516-vi.html",
+    "site_full": "www.elnortedecastilla.es",
+    "site": "elnortedecastilla.es",
+    "site_section": "https://elnortedecastilla.es/videos",
+    "site_categories": ["media", "top_news_es", "top_news"],
+    "section_title": "Videos - videos | El Norte de Castilla",
+    "site_title": "El Norte de Castilla - Noticias de Castilla y León desde 1854",
+    "title": "Andalucía cuenta con 221 hectómetros cúbicos más de agua gracias a obras hidráulicas desde 2019",
+    "title_full": "Andalucía cuenta con 221 hectómetros cúbicos más de agua gracias a obras hidráulicas desde 2019",
+    "published": "2025-10-16T13:45:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/202510/16/media/cortadas/andalucia-cuenta-hectometros-cubicos-agua-gracias-obras-20251016104516-vi.jpg",
+    "performance_score": 0,
+    "domain_rank": 41496,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "62318faef8160a4adec4e3e31036e89ac6f30369",
+  "url": "https://www.elnortedecastilla.es/nacional/andalucia-cuenta-hectometros-cubicos-agua-gracias-obras-20251016104516-vi.html",
+  "ord_in_thread": 0,
+  "author": "Europa Press",
+  "published": "2025-10-16T13:45:00.000+03:00",
+  "title": "Andalucía cuenta con 221 hectómetros cúbicos más de agua gracias a obras hidráulicas desde 2019",
+  "text": "Andalucía cuenta con 221 hectómetros cúbicos más de agua gracias a obras hidráulicas desde 2019\nEl consejero de Agricultura, Pesca, Agua y Desarrollo Rural de la Junta de Andalucía, Ramón...\nEuropa Press\nJueves, 16 de octubre 2025, 12:45\nEl consejero de Agricultura, Pesca, Agua y Desarrollo Rural de la Junta de Andalucía, Ramón Fernández-Pacheco, ha destacado que Andalucía cuenta actualmente con 221 hectómetros cúbicos más de recursos hídricos disponibles que antes, incluidas aguas regeneradas y desaladas, gracias a las obras de infraestructuras hidráulicas ejecutadas desde 2019. Esta cantidad, según ha concretado, equivale al consumo de agua de más de 3.300.000 andaluces.Durante su intervención en los desayunos informativos de Europa Press, Fernández-Pacheco ha precisado que Andalucía dispone ya de 53 hectómetros cúbicos adicionales de aguas regeneradas al año gracias a los sistemas terciarios habilitados en distintas estaciones depuradoras.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->natural resources", "Environment->water"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ramón Fernández-Pacheco",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Agua y Desarrollo Rural",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Junta de Andalucía",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_es", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:32:19.166+03:00",
+  "updated": "2025-10-17T15:13:51.000+03:00"
+}

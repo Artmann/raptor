@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "e94efa493682ee6f5f7e809fa188d4893b7ef68b",
+    "url": "https://www.newsbreak.com/fox-43-524562/3774659582137-lancaster-restaurant-celebrates-grand-opening",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/fox-43-524562",
+    "site_categories": ["under_construction"],
+    "section_title": "FOX 43&#x27;s Home Page | NewsBreak",
+    "title": "Lancaster restaurant celebrates grand opening - NewsBreak",
+    "title_full": "Lancaster restaurant celebrates grand opening - NewsBreak",
+    "published": "2025-01-23T23:50:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/1qpQjT_0yNQtK2V00",
+    "performance_score": 0,
+    "domain_rank": 3577,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e94efa493682ee6f5f7e809fa188d4893b7ef68b",
+  "url": "https://www.newsbreak.com/fox-43-524562/3774659582137-lancaster-restaurant-celebrates-grand-opening",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "FOX 43",
+  "published": "2025-01-23T23:50:00.000+02:00",
+  "title": "Lancaster restaurant celebrates grand opening - NewsBreak",
+  "text": "1 hours ago LANCASTER COUNTY, Pa. — A small Lancaster County business had its grand opening on Jan. 23, as Chellas Arepa Kitchen cut the ribbon on its first brick-and-mortar location on North Queen Street alongside Mayor Danene Sorace and the Lancaster Chamber. The owner, Luis Quiroz, started a food truck six... Read full article\nRead in NewsBreak 1",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Human Interest",
+    "Economy, Business and Finance",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Human Interest->ceremony",
+    "Economy, Business and Finance->tourism and leisure industry",
+    "Economy, Business and Finance->consumer goods",
+    "Lifestyle and Leisure->holiday",
+    "Lifestyle and Leisure->leisure venue",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Danene Sorace",
+        "sentiment": "none"
+      },
+      {
+        "name": "Luis Quiroz",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "County",
+        "sentiment": "none"
+      },
+      {
+        "name": "Street",
+        "sentiment": "none"
+      },
+      {
+        "name": "North",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:30:10.841+02:00",
+  "updated": "2025-01-24T01:01:02.398+02:00"
+}

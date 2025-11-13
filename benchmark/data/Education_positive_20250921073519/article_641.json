@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "574346f1ae8f0746c7e941cf3ce310b308355931",
+    "url": "https://www.wdam.com/video/2025/09/18/jones-county-connects-students-with-industries/",
+    "site_full": "www.wdam.com",
+    "site": "wdam.com",
+    "site_section": "http://www.wdam.com",
+    "site_categories": ["media", "television", "entertainment"],
+    "section_title": "WDAM | WDAM-TV",
+    "site_title": "Home",
+    "title": "Jones County connects students with industries",
+    "title_full": "Jones County connects students with industries",
+    "published": "2025-09-18T06:22:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-wdam-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-18-2025%2Ft_f41d8ed136c546aca391cc9811ebbd0e_name_file_1280x720_2000_v3_1_.jpg?auth=2bc1fc427c8ec276912eabd430e1869c1f1cc792ab6a6b05dcb6a6f2a9c0647c&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 122922,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "574346f1ae8f0746c7e941cf3ce310b308355931",
+  "url": "https://www.wdam.com/video/2025/09/18/jones-county-connects-students-with-industries/",
+  "ord_in_thread": 0,
+  "author": "@wdam",
+  "published": "2025-09-18T06:22:00.000+03:00",
+  "title": "Jones County connects students with industries",
+  "text": "Skip to content\nShop the Pine Belt\nPine Belt Deals\nNextGen TV\nZeam - News Streams\nCircle Country\nInvestigateTV\nWatching Your Wallet\nPowerNation\nGray DC Bureau\nDigital Marketing\nJones County connects students with industries\nUpdated: 3 hours ago\nEmail This Link\nShare on Facebook\nShare on X (formerly Twitter)\nShare on Pinterest\nShare on LinkedIn\nTaylorsville Tornado: Six-month update\nUpdated: 2 hours ago\n10pm Headlines 9/17\nUpdated: 3 hours ago\n|\nLive recording",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Education",
+    "Economy, Business and Finance",
+    "Human Interest"
+  ],
+  "topics": [
+    "Education->social learning",
+    "Education->students",
+    "Education->vocational education",
+    "Economy, Business and Finance->human resources",
+    "Economy, Business and Finance->business strategy and marketing"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Pine Belt\nPine Belt",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": ["Hattiesburg"],
+      "state": ["Mississippi"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:46:39.473+03:00",
+  "updated": "2025-09-18T08:53:05.000+03:00"
+}

@@ -1,0 +1,164 @@
+{
+  "thread": {
+    "uuid": "db31473f130c921fab1a2d2f5156b1ad29d251f7",
+    "url": "https://www.thestar.com.my/news/world/2023/12/29/xinhua-middle-east-news-summary-at-2200-gmt-dec-28",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://thestar.com.my/news/world",
+    "site_categories": ["media"],
+    "section_title": "World - News | The Star",
+    "title": "Xinhua Middle East news summary at 2200 GMT, Dec. 28 | The Star",
+    "title_full": "Xinhua Middle East news summary at 2200 GMT, Dec. 28 | The Star",
+    "published": "2023-12-28T23:55:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+    "performance_score": 0,
+    "domain_rank": 2230,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "db31473f130c921fab1a2d2f5156b1ad29d251f7",
+  "url": "https://www.thestar.com.my/news/world/2023/12/29/xinhua-middle-east-news-summary-at-2200-gmt-dec-28",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Zhao Manjun",
+  "published": "2023-12-28T23:55:00.000+02:00",
+  "title": "Xinhua Middle East news summary at 2200 GMT, Dec. 28 | The Star",
+  "text": "GAZA -- More than 50 people were killed on Thursday in Israeli attacks on the Gaza Strip cities of Beit Lahia, Khan Younis and Al-Maghazi, the Gaza Health Ministry said.\nThe ministry's spokesman Ashraf al-Qedra said in a statement that dozens of people were injured in the attacks, and the death toll could rise. (Gaza-Israeli Attack-Palestinians)\n- - - -\nAMMAN -- The Jordan Chamber of Commerce and the Transport Ministry on Thursday agreed to form a joint committee to monitor shipping safety in the Red Sea and other developments in the key waterway.\nMembers of the committee include those from the Jordan Chamber of Commerce, Jordan Maritime Union, Logistics Union, and Clearance Companies Union, as well as the Freight Transport Union, the state-run Al Mamlaka TV reported. (Jordan-Committee-Red Sea Shipping)\n- - - -\nCAIRO -- Egypt has put forth a framework of proposed steps toward ending the bloodshed in the Gaza Strip to relevant parties, Egypt's State Information Service (SIS) said Thursday.\nDiaa Rashwan, chairman of the SIS, said in a statement that the framework, which includes \"three successive and linked stages, ending with a ceasefire,\" was drafted after Egypt listened to the views of \"all parties concerned with it.\" (Egypt-Gaza-Ceasefire Proposal)\n- - - -\nDAMASCUS -- A fresh Israeli missile attack targeted the outskirts of the Syrian capital of Damascus on Thursday night, triggering a response from the Syrian air defense system, reported the Syrian state-owned TV.\nThe Syrian army said in a statement that the \"Israeli enemy\" carried out an aerial attack from the direction of the occupied Syrian Golan Heights, targeting some points in the southern region, without elaborating on the targeted sites. (Israel-Syria-Missile Attack)\nOpen Modal ×",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Human Interest",
+    "Disaster and Accident",
+    "War, Conflict and Unrest"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "khan younis",
+        "sentiment": "none"
+      },
+      {
+        "name": "ashraf al-qedra",
+        "sentiment": "none"
+      },
+      {
+        "name": "diaa rashwan",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "star gaza",
+        "sentiment": "negative"
+      },
+      {
+        "name": "al-maghazi",
+        "sentiment": "none"
+      },
+      {
+        "name": "freight transport union",
+        "sentiment": "none"
+      },
+      {
+        "name": "jordan chamber of commerce",
+        "sentiment": "none"
+      },
+      {
+        "name": "transport ministry",
+        "sentiment": "none"
+      },
+      {
+        "name": "jordan maritime union",
+        "sentiment": "none"
+      },
+      {
+        "name": "logistics union",
+        "sentiment": "none"
+      },
+      {
+        "name": "gaza health ministry",
+        "sentiment": "none"
+      },
+      {
+        "name": "al mamlaka tv",
+        "sentiment": "none"
+      },
+      {
+        "name": "jordan-committee-red sea shipping",
+        "sentiment": "none"
+      },
+      {
+        "name": "clearance companies union",
+        "sentiment": "none"
+      },
+      {
+        "name": "state information service",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "gaza strip",
+        "sentiment": "none"
+      },
+      {
+        "name": "xinhua middle east",
+        "sentiment": "none"
+      },
+      {
+        "name": "gaza",
+        "sentiment": "none"
+      },
+      {
+        "name": "amman",
+        "sentiment": "none"
+      },
+      {
+        "name": "cairo",
+        "sentiment": "none"
+      },
+      {
+        "name": "egypt",
+        "sentiment": "none"
+      },
+      {
+        "name": "red sea",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:11:23.029+02:00",
+  "updated": "2023-12-29T01:11:23.029+02:00"
+}

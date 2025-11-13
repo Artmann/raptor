@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "5cf51ed31106e404db5762f7cb63fc628afed458",
+    "url": "https://www.adelaide.edu.au/student/news/news/list/2025/09/18/neurodiversity-volunteer-peer-mentors-2026",
+    "site_full": "www.adelaide.edu.au",
+    "site": "adelaide.edu.au",
+    "site_section": "https://www.adelaide.edu.au/student/news/news/author",
+    "site_categories": ["graduate_school", "education"],
+    "section_title": "Latest news | Student News | University of Adelaide",
+    "site_title": "The University of Adelaide",
+    "title": "Neurodiversity Volunteer Peer Mentors 2026 | Student News | University of Adelaide",
+    "title_full": "Neurodiversity Volunteer Peer Mentors 2026 | Student News | University of Adelaide",
+    "published": "2025-09-18T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 8116,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5cf51ed31106e404db5762f7cb63fc628afed458",
+  "url": "https://www.adelaide.edu.au/student/news/news/list/2025/09/18/neurodiversity-volunteer-peer-mentors-2026",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T03:00:00.000+03:00",
+  "title": "Neurodiversity Volunteer Peer Mentors 2026 | Student News | University of Adelaide",
+  "text": "Neurodiversity Volunteer Peer Mentors 2026\nDisability Support Services is currently recruiting for its Neurodiversity Mentoring Program for 2026. As a Neurodiversity Volunteer Peer Mentor, you will assist neurodivergent mentees by providing advice and information on transitioning to university life, managing study, campus culture, and utilising student support services.\nTo apply and learn more about support for neurodivergent students, visit the Disability Support website.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Social Issue", "Education"],
+  "topics": [
+    "Human Interest->graduation",
+    "Social Issue->social services",
+    "Social Issue->communities",
+    "Social Issue->disabilities",
+    "Education->students",
+    "Education->teachers",
+    "Education->vocational education"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Neurodiversity Mentoring Program",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:26:26.266+03:00",
+  "updated": "2025-09-18T08:32:00.000+03:00"
+}

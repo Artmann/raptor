@@ -1,0 +1,140 @@
+{
+  "thread": {
+    "uuid": "2d5cee9002ca5f3f4f2b58cc2c5c604dc8adaf2d",
+    "url": "https://www.newsmax.com/newsfront/ushomicides-crime-cities/2023/12/28/id/1147532/",
+    "site_full": "www.newsmax.com",
+    "site": "newsmax.com",
+    "site_section": "https://www.newsmax.com/rss/Newsfront/16",
+    "site_categories": ["media", "law_government_and_politics", "politics"],
+    "section_title": "Newsmax - Newsfront",
+    "title": "Analytics Firm: US Homicide Rate Falling at Record Pace",
+    "title_full": "Analytics Firm: US Homicide Rate Falling at Record Pace",
+    "published": "2023-12-28T22:35:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=853235e1-534e-48ce-86f0-3f9c27b73568&amp;SiteName=Newsmax",
+    "performance_score": 0,
+    "domain_rank": 2197,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2d5cee9002ca5f3f4f2b58cc2c5c604dc8adaf2d",
+  "url": "https://www.newsmax.com/newsfront/ushomicides-crime-cities/2023/12/28/id/1147532/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Luca Cacciatore",
+  "published": "2023-12-28T22:35:00.000+02:00",
+  "title": "Analytics Firm: US Homicide Rate Falling at Record Pace",
+  "text": "By Luca Cacciatore | Thursday, 28 December 2023 04:35 PM EST AH Datalytics, a data analysis firm, is predicting that the United States will have one of the most significant annual drops in homicides on record, based on preliminary figures. Information from 177 cities analyzed by the firm indicates that the U.S. could see a 12.8% decrease in murders from last year, from 21,156 murders last year to about 18,450. The drop was seen in New York City, Chicago, Los Angeles, Detroit, and other large cities. \"Murder plummeted in the United States in 2023, likely at one of the fastest rates of decline ever recorded,\" wrote DH Analytics co-founder Jeff Asher on his Substack page. \"What's more, every type of Uniform Crime Report Part I crime with the exception of auto theft is likely down a considerable amount this year relative to last year according to newly reported data through September from the FBI.\" Still, some cities saw spikes in violence compared to 2022. Murders rose 36% in Washington, D.C., 31% in Memphis, Tennessee, and 14% in Dallas. In addition, the numbers come after a massive 30% rise in homicides in 2020, at the outset of the COVID-19 pandemic and social unrest following the killing of George Floyd. That means homicides in 2023 remain slightly elevated compared to 2019. The downturn comes despite the public perception that crime is largely increasing. One Gallup poll released last month showed that 77% of U.S. think crime has increased in the U.S. since 2022. Self-reports of crime victimization also went up from the year prior, with 17% of individuals reporting that they were a victim of a crime within the past 12 months. That is up from 13% in 2020. The Gallup survey of 1,009 U.S. adults was taken from Oct. 2-23. The margin of sampling error is plus/minus four percentage points at a 95% confidence level. Luca Cacciatore, a Newsmax general assignment writer, is based in Arlington, Virginia, reporting on news and politics. © 2023 Newsmax. All rights reserved. Receive breaking news and original analysis - sent right to your inbox. Interest-Based Advertising | Do not sell or share my personal information Newsmax, Moneynews, Newsmax Health, and Independent. American. are registered trademarks of Newsmax Media, Inc. Newsmax TV, and Newsmax World are trademarks of Newsmax Media, Inc.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "luca cacciatore",
+        "sentiment": "negative"
+      },
+      {
+        "name": "jeff asher",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "datalytics",
+        "sentiment": "negative"
+      },
+      {
+        "name": "dh analytics",
+        "sentiment": "none"
+      },
+      {
+        "name": "fbi",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "us",
+        "sentiment": "none"
+      },
+      {
+        "name": "new york city",
+        "sentiment": "none"
+      },
+      {
+        "name": "detroit",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "united states",
+        "sentiment": "none"
+      },
+      {
+        "name": "chicago",
+        "sentiment": "none"
+      },
+      {
+        "name": "tennessee",
+        "sentiment": "none"
+      },
+      {
+        "name": "los angeles",
+        "sentiment": "none"
+      },
+      {
+        "name": "d.c.",
+        "sentiment": "none"
+      },
+      {
+        "name": "memphis",
+        "sentiment": "none"
+      },
+      {
+        "name": "dallas",
+        "sentiment": "none"
+      },
+      {
+        "name": "washington",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:28:28.229+02:00",
+  "updated": "2023-12-29T00:40:13.581+02:00"
+}

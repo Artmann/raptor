@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "9ee15a5e82d46444bac54bed3d6c3cd98440c6f9",
+    "url": "https://www.glasgowtimes.co.uk/news/national/24018801.police-commander-queens-funeral-kings-coronation-honoured/",
+    "site_full": "www.glasgowtimes.co.uk",
+    "site": "glasgowtimes.co.uk",
+    "site_section": "https://www.glasgowtimes.co.uk",
+    "site_categories": ["media", "business", "marketing"],
+    "section_title": "Glasgow News, Sport, Events - Glasgow Times",
+    "title": "Police commander at Queen’s funeral and King’s Coronation is honoured | Glasgow Times",
+    "title_full": "Police commander at Queen’s funeral and King’s Coronation is honoured | Glasgow Times",
+    "published": "2023-12-30T05:14:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "https://www.glasgowtimes.co.uk/resources/images/17598416/?type=og-image",
+    "performance_score": 0,
+    "domain_rank": 29899,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9ee15a5e82d46444bac54bed3d6c3cd98440c6f9",
+  "url": "https://www.glasgowtimes.co.uk/news/national/24018801.police-commander-queens-funeral-kings-coronation-honoured/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "PA News Agency",
+  "published": "2023-12-30T05:14:00.000+02:00",
+  "title": "Police commander at Queen’s funeral and King’s Coronation is honoured | Glasgow Times",
+  "text": "A Metropolitan Police officer who ran operations at the Queen’s funeral and the King’s coronation has been recognised in the New Year Honours list.\nCommander Karen Findlay has been named a Lieutenant of the Royal Victorian Order, as well as receiving the King’s Police Medal.\nShe called the awards a “lovely, unexpected surprise”.\nKing Charles during his coronation ceremony in Westminster Abbey back in May. The police operation for the event was led by Commander Karen Findlay (Victoria Jones/PA) She said: “Having transferred south of the border from Grampian Police in 1993 to the Met, I have over the last 30 years had the privilege of working with many amazing people who have given me support, advice, encouragement and friendship.\n“None more so than within public order policing. To lead the Met through the policing operations for the state funeral and Coronation will always remain the privileges of my life.”\nAs well as her work as gold commander at major events, she was recognised for her efforts in championing diversity and building relationships with young people, as well as her sporting career as a captain and coach of the Scotland women’s rugby team.\nShe is one of 10 members of the Metropolitan Police recognised in the New Year Honours list.\nKing Charles speaks to Deputy Assistant Commissioner Jane Connors (second right), Commander Karen Findlay (second left) and Commissioner Mark Rowley (left) during a visit to the Metropolitan Police Service Special Operations Room. Commissioner Sir Mark Rowley said: “These awards are hugely deserved and very special. I hope that the recipients and their families and loved ones take great pride in them.\n“The awards reflect a variety of contributions across different aspects of policing in London and beyond.\n“From preventing and investigating terrorism and knife crime to leading large-scale ceremonial and sporting events and promoting inclusion and equality across our organisation, this is a snapshot of our exceptional people.”\nExplosives Officer Mick Kettle was made an MBE while Detective Inspector Rasheed Alawiye receives the British Empire Medal for developing and championing diversity and inclusion initiatives across the force.\nDeputy Assistant Commissioner Matt Ward (right) will receive a KPM for his work (Victoria Jones/PA) Deputy Assistant Commissioner Matt Ward receives a King’s Police Medal (KPM) for his work in counter terrorism and delivering the policing plan for the Commonwealth Games in Birmingham with West Midlands Police.\nThere are also KPMs for Detective Chief Inspector Matthew Gosling for counter terrorism, Detective Chief Superintendent Hayley Sewart for transforming the national knife crime portfolio and Detective Inspector Amanda Stephenson for her work in family liaison.\nSergeant Nicholas Birch, Detective Constable Kevin Malkin and Sergeant Elizabeth St Clair are made members of the Royal Victorian Order for their royalty and specialist protection service.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Politics", "Human Interest", "Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "charles",
+        "sentiment": "none"
+      },
+      {
+        "name": "victoria jones",
+        "sentiment": "none"
+      },
+      {
+        "name": "karen findlay",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "glasgow times a metropolitan police",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-30T05:37:07.165+02:00",
+  "updated": "2023-12-30T05:37:07.165+02:00"
+}

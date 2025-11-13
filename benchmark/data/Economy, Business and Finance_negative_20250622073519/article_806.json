@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "6d94915267deaeb38fe7edd97366515a16170867",
+    "url": "https://akipress.com/news:835590",
+    "site_full": "akipress.com",
+    "site": "akipress.com",
+    "site_section": "https://akipress.com/rss/en.rss",
+    "site_categories": ["media"],
+    "section_title": "AKIpress News Agency",
+    "site_title": "AKIpress News Agency",
+    "title": "Kyrgyzstan's gold exports plummet 2.6 times in early 2025 despite higher prices",
+    "title_full": "Kyrgyzstan's gold exports plummet 2.6 times in early 2025 despite higher prices",
+    "published": "2025-06-19T06:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "KG",
+    "main_image": "https://cdn-1.aki.kg/cdn-st-0/qgX/J/en-835590.1750303468.b.jpg",
+    "performance_score": 0,
+    "domain_rank": 84976,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6d94915267deaeb38fe7edd97366515a16170867",
+  "url": "https://akipress.com/news:835590",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-19T06:00:00.000+03:00",
+  "title": "Kyrgyzstan's gold exports plummet 2.6 times in early 2025 despite higher prices",
+  "text": "||\nKyrgyzstan's gold exports plummet 2.6 times in early 2025 despite higher prices\nAKIPRESS.COM - Kyrgyzstan's gold exports fell by 2...\nAKIPRESS.COM - Kyrgyzstan's gold exports fell by 2...\nAll rights reserved\n© AKIpress News Agency - 2001-2025.\nRepublication of any material is prohibited without a written agreement with AKIpress News Agency.\nAny citation must be accompanied by a hyperlink to akipress.com.\nOur address:\n299/5 Chingiz Aitmatov Prosp., Bishkek, the Kyrgyz Republic\ne-mail: english@akipress.org, akipressenglish@gmail.com;",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance"],
+  "topics": [
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->commodity market",
+    "Economy, Business and Finance->macro economics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Republic",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bishkek",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "AKIpress News Agency",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:40:49.231+03:00",
+  "updated": "2025-06-19T04:42:28.000+00:00"
+}

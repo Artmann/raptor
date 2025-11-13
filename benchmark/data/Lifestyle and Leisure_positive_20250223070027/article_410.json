@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "fffc3925e4508a69d5bccfa7d59821547b18484f",
+    "url": "https://article.wn.com/view/2025/01/23/Showdown_in_Motown_was_onesided_Wednesday_Lake_Norman_boys_g",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/basketball",
+    "site_categories": ["media"],
+    "section_title": "World News - Basketball",
+    "title": "Showdown in 'Mo-town' was one-sided Wednesday. Lake Norman boys, girls roll Mooresville - Worldnews.com",
+    "title_full": "Showdown in 'Mo-town' was one-sided Wednesday. Lake Norman boys, girls roll Mooresville - Worldnews.com",
+    "published": "2025-01-23T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3682,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fffc3925e4508a69d5bccfa7d59821547b18484f",
+  "url": "https://article.wn.com/view/2025/01/23/Showdown_in_Motown_was_onesided_Wednesday_Lake_Norman_boys_g",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2025-01-23T02:00:00.000+02:00",
+  "title": "Showdown in 'Mo-town' was one-sided Wednesday. Lake Norman boys, girls roll Mooresville - Worldnews.com",
+  "text": "In the biggest rivalry game in Iredell County, Lake Norman’s boys and girls won the showdown in ‘Mo-town,’ blowing out arch rival Mooresville read full story",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->sport event",
+    "Sport->basketball",
+    "Lifestyle and Leisure->outdoor recreational activities",
+    "Lifestyle and Leisure->lifestyle",
+    "Lifestyle and Leisure->game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.charlotteobserver.com/sports/high-school/article298780388.html",
+    "https://charlotteobserver.com/sports/high-school/article298780388.html"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "Iredell County",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:18:55.858+02:00",
+  "updated": "2025-01-24T00:18:55.858+02:00"
+}

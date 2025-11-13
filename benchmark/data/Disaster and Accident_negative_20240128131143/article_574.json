@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "b3f085cade9752d06db9fac63465439f800369c9",
+    "url": "https://www.readingchronicle.co.uk/news/national/24016267.two-people-die-car-collides-ambulance-transporting-elderly-man/",
+    "site_full": "www.readingchronicle.co.uk",
+    "site": "readingchronicle.co.uk",
+    "site_section": "https://www.readingchronicle.co.uk",
+    "site_categories": ["media", "books_and_literature", "entertainment"],
+    "section_title": "Reading and Berkshire news, sport, events - Reading Chronicle",
+    "title": "Two people die after car collides with ambulance transporting elderly man | Reading Chronicle",
+    "title_full": "Two people die after car collides with ambulance transporting elderly man | Reading Chronicle",
+    "published": "2023-12-28T23:31:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "https://www.readingchronicle.co.uk/resources/images/17594648/?type=og-image",
+    "performance_score": 0,
+    "domain_rank": 95164,
+    "domain_rank_updated": "2023-12-26T12:06:35.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b3f085cade9752d06db9fac63465439f800369c9",
+  "url": "https://www.readingchronicle.co.uk/news/national/24016267.two-people-die-car-collides-ambulance-transporting-elderly-man/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "PA News Agency",
+  "published": "2023-12-28T23:31:00.000+02:00",
+  "title": "Two people die after car collides with ambulance transporting elderly man | Reading Chronicle",
+  "text": "Two people are dead after a collision between a car and an ambulance transporting an elderly man in Suffolk. Emergency services were called to the B1506 Bury Road, between Newmarket and Kentford, at about 7.30pm on December 19. One of those killed was a woman in her 70s, who was driving the car, a blue Volkswagen Golf. The other was a man in his 90s, a passenger in the ambulance, who died after being taken to Addenbrooke’s Hospital, Suffolk Police said. The female ambulance driver suffered serious injuries and was also taken to hospital. Police are appealing for witnesses, who can call 101, quoting SC-19122023-302. Comments: Our rules We want our comments to be a lively and valuable part of our community - a place where readers can debate and engage with the most important local issues. The ability to comment on our stories is a privilege, not a right, however, and that privilege may be withdrawn if it is abused or misused. Please report any comments that break our rules. [Read the rules here](/misc/comments) Comments are closed on this article",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Human Interest", "Health"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "suffolk police",
+        "sentiment": "none"
+      },
+      {
+        "name": "volkswagen golf",
+        "sentiment": "none"
+      },
+      {
+        "name": "addenbrooke’s hospital",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "suffolk",
+        "sentiment": "none"
+      },
+      {
+        "name": "newmarket",
+        "sentiment": "none"
+      },
+      {
+        "name": "kentford",
+        "sentiment": "none"
+      },
+      {
+        "name": "misc",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:46:07.216+02:00",
+  "updated": "2023-12-29T00:46:07.216+02:00"
+}

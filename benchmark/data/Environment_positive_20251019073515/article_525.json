@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "76efb141c2c30457ceb0d7b1a6b7f6d84d3a4725",
+    "url": "https://www.freshplaza.com/north-america/article/9775476/we-re-offering-subsidized-access-to-smart-farming-for-the-love-of-growing/",
+    "site_full": "www.freshplaza.com",
+    "site": "freshplaza.com",
+    "site_section": "https://news.google.com/search?q=we%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "FreshPlaza: Global Fresh Produce and Banana News",
+    "title": "\"We're offering subsidized access to smart farming for the love of growing\"",
+    "title_full": "\"We're offering subsidized access to smart farming for the love of growing\"",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/HD_com/2025/10/16/FutureFarms.jpg?preset=OgImage",
+    "performance_score": 0,
+    "domain_rank": 68326,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "76efb141c2c30457ceb0d7b1a6b7f6d84d3a4725",
+  "url": "https://www.freshplaza.com/north-america/article/9775476/we-re-offering-subsidized-access-to-smart-farming-for-the-love-of-growing/",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "\"We're offering subsidized access to smart farming for the love of growing\"",
+  "text": "Today's grower confronts several complexities relating to weather changes, labor shortages, and resource costs, all requiring careful decisions about irrigation, fertilization, and pest control, says Sriram Gopal, Founder of Futr.Ag, a smart farming technology provider. \"The struggle is with connecting all the farming signals and putting them to effective use. A digital backbone for farms can help with exactly that.\"\nGopal shares how the Futr.Ag team has been working over the past four years to deploy a real-time operating system (RTOS) that continuously gathers and processes farm data. He explains, \"A key feature is the digital twin or a virtual model of the physical farm that updates and records operational actions in real-time, giving farmers a clear, remote view of their crops and letting them track everything, from crop health to resource use.\"\n© Futr.Ag\nWhile some growers choose to remain hands-on, others have switched to the auto-pilot mode, permitting the system to make routine decisions, says Gopal. \"The system provides full operational control from one dashboard, and ensures the flexibility of optimally running farms regardless of who is at the controls.\"\nCurrently in early rollout, Futr.Ag's KADU platform supports a range of crops and farming environments, from open fields to greenhouses and indoor vertical farms. Sriram emphasizes the need for addressing two critical challenges: \"One relates to taking out the guesswork in daily technical decision-making. Secondly, we're focused on small and medium-sized growers who often don't have access to comprehensive tech.\" He adds, \"Since starting pilot programs in 2023, we have worked with over 50 grower partners and more than 15 crop varieties, including berries, grapes, melons, tomatoes, cucumbers, lettuce, and so on. Our plan is to have a larger roll-out by late 2026.\"\n© Futr.Ag\nGopal shares some of the improvements observed with tightened controls and real-time feedback: \"A grape grower in Maharashtra recorded a 17% increase in yield and cut energy use by 30% within two years; a Malaysian melon farm increased fruit size significantly; and a cucumber farm added an extra production cycle, which increased revenues by 25%.\"\nAs concerns around climate unpredictability, labor markets, and sustainable food production grow, Sriram predicts a higher interest and adoption in smart farming systems, especially in countries like India, Malaysia, the UAE, and Singapore. \"To make such tech accessible in these markets, Futr.Ag has launched the 1000 Grower Partner Program, which will offer subsidized access to refine farming decisions at almost half the market cost. Our aim is to democratize intelligent agricultural knowledge and technology for the love of growing,\" Sriram concludes.\nFor more information:\nSriram Gopal\nFutr.Ag & Future Farms\nTel: +91 98 84 009 110\nEmail: [[email protected]](https://www.freshplaza.com/cdn-cgi/l/email-protection#eb82858d84ab8d9e9f998a8c9f8e8883c5888486d4989e89818e889fd6b98e989b8485988ecb9f84cba384999f82af8a828792c5888486cb8a999f8288878e)www.futr.ag",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Lifestyle and Leisure", "Environment"],
+  "topics": [
+    "Lifestyle and Leisure->hobby",
+    "Environment->sustainability",
+    "Environment->energy saving"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": ["http://www.futr.ag", "http://futr.ag"],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Sriram Gopal",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "76efb141c2c30457ceb0d7b1a6b7f6d84d3a4725",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:04:06.191+03:00",
+  "updated": "2025-10-16T15:13:02.000+03:00"
+}

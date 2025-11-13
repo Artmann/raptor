@@ -1,0 +1,130 @@
+{
+  "thread": {
+    "uuid": "648999913200bc8910157937cecafebf208c574c",
+    "url": "https://www.mariettaga.gov/CivicAlerts.aspx?aid=5178",
+    "site_full": "www.mariettaga.gov",
+    "site": "mariettaga.gov",
+    "site_section": "https://www.mariettaga.gov/rssfeed.aspx?modid=1&cid=all-newsflash.xml",
+    "site_categories": [
+      "law_government_and_politics",
+      "us_government_resources"
+    ],
+    "section_title": "Marietta, GA - News Flash",
+    "site_title": "Marietta, GA | Official Website",
+    "title": "Marietta History Center to Host Special Event: Lecture by M. Alexis Scott",
+    "title_full": "Marietta History Center to Host Special Event: Lecture by M. Alexis Scott",
+    "published": "2025-09-10T21:03:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.mariettaga.gov/ImageRepository/Document?documentID=18122",
+    "performance_score": 0,
+    "domain_rank": 360932,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "648999913200bc8910157937cecafebf208c574c",
+  "url": "https://www.mariettaga.gov/CivicAlerts.aspx?aid=5178",
+  "ord_in_thread": 0,
+  "author": "Government Websites by CivicPlus",
+  "published": "2025-09-10T21:03:00.000+03:00",
+  "title": "Marietta History Center to Host Special Event: Lecture by M. Alexis Scott",
+  "text": "September 10, 2025\nCONTACT: Annie Brimrose\n770-794-5710\nabrimrose@mariettaga.gov\nMARIETTA, GA - The Marietta History Center invites the public to a special evening of reflection and education on Thursday, September 25th, 2025, as we present the temporary traveling exhibit, “Witness to the Holocaust,” accompanied by a thought-provoking lecture from guest speaker M. Alexis Scott.\nLight refreshments will be served when doors open at 5:30 PM, and the lecture will begin promptly at 6:00 PM.\nThe exhibit, “Witness to the Holocaust” is a photographic essay of one of Atlanta's leading African American citizens, William Alexander “W.A.” Scott III, who witnessed the liberation of the Buchenwald concentration camp through the lens of his camera. It draws parallels between the Jim Crow Laws of the 1880s–1960s implemented in the United States and the Nuremberg Race Laws of 1935–1945 implemented in Germany and Nazi-controlled areas of Europe. This is a traveling exhibit presented by the Georgia Commission on the Holocaust.\nIn addition to being the daughter of W.A. Scott III, our guest lecturer, M. Alexis Scott, is a prominent Atlanta-based journalist and publisher known for her role in preserving the legacy of the Atlanta Daily World, the nation's first Black-owned daily newspaper, which was founded by her grandfather, W.A. Scott II. After a 22-year career at The Atlanta Journal-Constitution and Cox Enterprises, where she reached the executive level, Scott became the publisher of the Atlanta Daily World. She also served as a commentator for FOX 5's \"The Georgia Gang\" and has been actively involved in various nonprofit and community organizations in Atlanta.\nAt this event M. Alexis Scott will offer further insight into the life and legacy of W.A. Scott III, whose rare and courageous documentation sheds light on the atrocities of the Holocaust, as well as the injustices faced by African Americans in the US.\nTo purchase tickets to the History Center or the lecture, visit https://mariettahistorycenter.shopsettings.com/Witness-to-the-Holocaust-Lecture-Alexis-Scott-p773089145\nEvent Details:Date: Thursday, September 25th, 2025Time: Refreshments at 5:30 PM | Lecture at 6:00 PMLocation: Marietta History Center, 1 Depot Street, Marietta, Ga 30060Admission: $10 General Admission / $5 Museum Members\nFor media inquiries, group visits, or more information, please contact Museum Director, Amy Reed at areed@mariettaga.gov For more information, call 770-794-5710 or visit www.MariettaHistory.org.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": [
+    "Education->social learning",
+    "Education->college and university",
+    "Education->students",
+    "Human Interest->ceremony",
+    "Social Issue->communities",
+    "Social Issue->mankind",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "M. Alexis Scott",
+        "sentiment": "none"
+      },
+      {
+        "name": "Annie Brimrose",
+        "sentiment": "none"
+      },
+      {
+        "name": "William Alexander “W.A.” Scott III",
+        "sentiment": "none"
+      },
+      {
+        "name": "W.A. Scott III",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Buchenwald",
+        "sentiment": "none"
+      },
+      {
+        "name": "Europe",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Marietta History Center",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Georgia Commission",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": ["Marietta"],
+      "state": ["Georgia"],
+      "country": ["US"],
+      "domain_type": "City",
+      "agency": "Non-Federal Agency",
+      "organization_name": "City of Marietta"
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:54:46.360+03:00",
+  "updated": "2025-09-18T09:02:04.000+03:00"
+}

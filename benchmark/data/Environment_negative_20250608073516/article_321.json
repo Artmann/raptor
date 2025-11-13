@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "3231d2415d038bde11b58781ebc898a84b9a2f0d",
+    "url": "https://article.wn.com/view/2025/05/08/Jordan_residents_flee_severe_flooding_in_middle_of_night_It_",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/home",
+    "site_categories": ["media"],
+    "section_title": "Home",
+    "site_title": "World News",
+    "title": "Jordan residents flee severe flooding in middle of night: 'It was just absolute insanity' - Worldnews.com",
+    "title_full": "Jordan residents flee severe flooding in middle of night: 'It was just absolute insanity' - Worldnews.com",
+    "published": "2025-05-08T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4256,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3231d2415d038bde11b58781ebc898a84b9a2f0d",
+  "url": "https://article.wn.com/view/2025/05/08/Jordan_residents_flee_severe_flooding_in_middle_of_night_It_",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T03:00:00.000+03:00",
+  "title": "Jordan residents flee severe flooding in middle of night: 'It was just absolute insanity' - Worldnews.com",
+  "text": "Updated: May. 07, 2025, 4:25 p.m. 11 1/11 Village of Jordan FloodGreta Stuckey",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Human Interest"],
+  "topics": [
+    "Environment->environmental pollution",
+    "Environment->water",
+    "Environment->natural resources",
+    "Social Issue->communities",
+    "Social Issue->social problem",
+    "Human Interest->human mishap"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:17:45.934+03:00",
+  "updated": "2025-05-08T00:22:40.000+00:00"
+}

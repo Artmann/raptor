@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "99259ff86de9decc4585f5abac687d4fc00b4367",
+    "url": "https://www.kolotv.com/video/2025/09/18/stem-co-lab-desert-research-institute-holds-grand-opening/",
+    "site_full": "www.kolotv.com",
+    "site": "kolotv.com",
+    "site_section": "https://news.google.com/search?q=at%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "KOLO | 8 News Now | Reno, NV",
+    "title": "STEM Co-Lab, at Desert Research Institute, holds grand opening",
+    "title_full": "STEM Co-Lab, at Desert Research Institute, holds grand opening",
+    "published": "2025-09-18T08:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-kolo-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-18-2025%2Ft_0cb8e900520f430cafdbd1b684d59c6c_name_file_1280x720_2000_v3_1_.jpg?auth=a02116034e950519e6bae0769166841c477e2c885da6f0e2b5a290d1d5ba1c41&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 68100,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "99259ff86de9decc4585f5abac687d4fc00b4367",
+  "url": "https://www.kolotv.com/video/2025/09/18/stem-co-lab-desert-research-institute-holds-grand-opening/",
+  "ord_in_thread": 0,
+  "author": "@KOLO8",
+  "published": "2025-09-18T08:33:00.000+03:00",
+  "title": "STEM Co-Lab, at Desert Research Institute, holds grand opening",
+  "text": "There were hands-on demonstrations including 3D printers, hydroponics, Photon Robots, atom theory, Circuit Maker, and microscopes.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Science and Technology", "Human Interest"],
+  "topics": [
+    "Education->educational testing and examinations",
+    "Education->college and university",
+    "Education->students",
+    "Science and Technology->scientific institution",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific exploration",
+    "Human Interest->ceremony"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Desert Research Institute",
+        "sentiment": "positive",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": ["Reno"],
+      "state": ["Nevada"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:59:42.375+03:00",
+  "updated": "2025-09-18T09:05:12.000+03:00"
+}

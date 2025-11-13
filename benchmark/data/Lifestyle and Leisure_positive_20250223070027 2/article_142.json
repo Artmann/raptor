@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "616c2d13f64bb5d4a072c10b0b6a4744e7ab0722",
+    "url": "https://www.skysports.com/olympics/news/29175/13295058/keely-hodgkinson-named-2024-sunday-times-sportswoman-of-the-year",
+    "site_full": "www.skysports.com",
+    "site": "skysports.com",
+    "site_section": "http://www.skysports.com",
+    "site_categories": ["sports"],
+    "section_title": "Sky Sports - Sports News, Transfers, Scores | Watch Live Sport",
+    "title": "Keely Hodgkinson named 2024 Sunday Times Sportswoman of the Year",
+    "title_full": "Keely Hodgkinson named 2024 Sunday Times Sportswoman of the Year",
+    "published": "2025-01-23T23:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "https://e0.365dm.com/24/11/1600x900/skysports-keely-hodgkinson_6746839.jpg?20241112184727",
+    "performance_score": 0,
+    "domain_rank": 2038,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "616c2d13f64bb5d4a072c10b0b6a4744e7ab0722",
+  "url": "https://www.skysports.com/olympics/news/29175/13295058/keely-hodgkinson-named-2024-sunday-times-sportswoman-of-the-year",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2025-01-23T23:00:00.000+02:00",
+  "title": "Keely Hodgkinson named 2024 Sunday Times Sportswoman of the Year",
+  "text": "Olympic 800m champion Keely Hodgkinson named 2024 Sunday Times Sportswoman of the Year; Dame Sarah Storey wins Citi Disability Sportswoman of the Year; Team GB diver Andrea Spendolini-Sirieix claims Young Sportswoman award after Paris 2024 bronze\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->sports honour",
+    "Sport->sport achievement",
+    "Sport->athletics",
+    "Human Interest->award and prize",
+    "Lifestyle and Leisure->exercise and fitness",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Keely Hodgkinson",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Andrea Spendolini-Sirieix",
+        "sentiment": "none"
+      },
+      {
+        "name": "Dame Sarah Storey",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:06:38.052+02:00",
+  "updated": "2025-01-24T01:50:50.556+02:00"
+}

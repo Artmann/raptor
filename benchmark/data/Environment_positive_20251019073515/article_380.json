@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "17361c0271b909d198c9b4676a0d6faef49b15e1",
+    "url": "https://web.de/magazine/regio/sachsen-anhalt/sachsen-anhalt-investiert-millionen-euro-klaeranlagen-41488062",
+    "site_full": "web.de",
+    "site": "web.de",
+    "site_section": "https://www.gmx.net/magazine/thema",
+    "site_categories": ["media", "tech", "email"],
+    "section_title": "Alle Themen im Überblick | A-Z | GMX",
+    "site_title": "WEB.DE - kostenlose E-Mail-Adresse, FreeMail & Nachrichten",
+    "title": "Sachsen-Anhalt investiert acht Millionen Euro in Kläranlagen | WEB.DE",
+    "title_full": "Sachsen-Anhalt investiert acht Millionen Euro in Kläranlagen | WEB.DE",
+    "published": "2025-10-16T14:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://i0.web.de/image/064/41488064,pd=1,f=opengraph/investitionen-klaeranlagen.jpg",
+    "performance_score": 0,
+    "domain_rank": 899,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "17361c0271b909d198c9b4676a0d6faef49b15e1",
+  "url": "https://web.de/magazine/regio/sachsen-anhalt/sachsen-anhalt-investiert-millionen-euro-klaeranlagen-41488062",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T14:33:00.000+03:00",
+  "title": "Sachsen-Anhalt investiert acht Millionen Euro in Kläranlagen | WEB.DE",
+  "text": "Das Land fördert Kläranlagen mit mehr als acht Millionen Euro aus einem europäischen Fonds – Ziel ist es, deren Energieverbrauch zu senken. Und es ist noch mehr geplant.\nMehr News aus Sachsen-Anhalt finden Sie hier\nHalle - Das Land Sachsen-Anhalt investiert über acht Millionen Euro in die Steigerung der Energieeffizienz an Kläranlagen. Wie das Landesverwaltungsamt mitteilte, fließt das Geld in neun unterschiedliche Projekte im ganzen Bundesland. Damit soll der Energieverbrauch in den Kläranlagen gesenkt werden.\n\"Mit diesen Investitionen stärken wir nicht nur die kommunale Infrastruktur, sondern leisten auch einen wichtigen Beitrag zum Klimaschutz\", sagt der Präsident des Landesverwaltungsamtes Thomas Pleye. \"Energieeffiziente Kläranlagen sind ein zentraler Baustein für eine nachhaltige Wasserwirtschaft.\"\nGeld kommt aus dem EFRE-Fonds Mit etwa 1,5 Millionen Euro werden Maßnahmen an der Gemeinschaftskläranlage Wittenberg am stärksten bezuschusst. Jeweils rund 1,4 Millionen Euro werden für die Modernisierungen an der Kläranlage Wengelsdorf und der Kläranlage Elster eingesetzt. Auch die Kläranlage Halle-Nord bekommt 147.500 Euro.\nDas Geld kommt aus dem Europäischen Fonds für regionale Entwicklung (EFRE). Dieser soll kommunale Infrastrukturprojekte mit Fokus auf Klimaschutz und Energieeffizienz fördern. Laut einer Sprecherin des Landesverwaltungsamtes sollen in diesem Jahr auch noch weitere Maßnahmen bezuschusst werden. © Deutsche Presse-Agentur\nNachrichten aus anderen Regionen Region ändern Baden-Württemberg Bayern Berlin Brandenburg Bremen Hamburg Hessen Mecklenburg-Vorpommern Niedersachsen Nordrhein-Westfalen Rheinland-Pfalz Saarland Sachsen Sachsen-Anhalt Schleswig-Holstein Thüringen",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->energy saving", "Environment->water pollution"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Thomas Pleye",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Sachsen-Anhalt",
+        "sentiment": "none"
+      },
+      {
+        "name": "Wengelsdorf",
+        "sentiment": "none"
+      },
+      {
+        "name": "Wittenberg",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:37:55.079+03:00",
+  "updated": "2025-10-16T14:46:33.000+03:00"
+}

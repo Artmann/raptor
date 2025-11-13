@@ -1,0 +1,124 @@
+{
+  "thread": {
+    "uuid": "ec8cfa351c8e2d8365f2a9108670867c560d5ef7",
+    "url": "https://www.syracuse.com/news/2025/05/syracuse-mayoral-candidates-clash-on-micron-transparency-and-lead-remediation.html",
+    "site_full": "www.syracuse.com",
+    "site": "syracuse.com",
+    "site_section": "https://syracuse.com",
+    "site_categories": ["media"],
+    "section_title": "Syracuse NY Local News, Breaking News, Sports &amp; Weather",
+    "site_title": "Syracuse NY Local News, Breaking News, Sports &amp; Weather",
+    "title": "Syracuse mayoral candidates clash on Micron transparency and lead remediation",
+    "title_full": "Syracuse mayoral candidates clash on Micron transparency and lead remediation",
+    "published": "2025-05-08T05:47:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.syracuse.com/resizer/v2/IYQGFG46M5GPZHME75WMY3EULE.jpg?auth=561f3fd02d0e0140bb2fe47324877d88fe84023887f46bab95331e3f48bef4c7&amp;width=1280&amp;quality=90",
+    "performance_score": 0,
+    "domain_rank": 2544,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 9,
+        "comments": 10,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ec8cfa351c8e2d8365f2a9108670867c560d5ef7",
+  "url": "https://www.syracuse.com/news/2025/05/syracuse-mayoral-candidates-clash-on-micron-transparency-and-lead-remediation.html",
+  "ord_in_thread": 0,
+  "author": "Jeremy Boyer | JBoyer@syracuse.com",
+  "published": "2025-05-08T05:47:00.000+03:00",
+  "title": "Syracuse mayoral candidates clash on Micron transparency and lead remediation",
+  "text": "Syracuse, N.Y. — The environmental impact of the planned Micron microchip complex north of Syracuse was the most contentious issue at a Wednesday night debate for candidates seeking the Democratic nomination in the city’s mayoral race.\nSyracuse Common Councilors Chol Majok and Pat Hogan and Deputy Mayor Sharon Owens spent about 50 minutes answering questions related to the environment at a forum hosted by WCNY in partnership with the New York League of Conservation Voters Education Fund.\nWhile there was plenty of agreement on issues ranging from the importance of protecting green spaces and promoting lower-emission transportation, a clear divide emerged when the candidates were asked about how they would manage the Micron facility’s high demand for energy, water and other natural resources.\nHogan chairs the Onondaga County Industrial Development Agency, which is reviewing Micron’s draft environmental impact report that the county has refused to release to the public since it was submitted in December. He answered the question by immediately addressing the concerns over transparency.\n“There’s been things in the paper about us not releasing it yet, but with a project this big you’ve got to make sure every T is crossed and every I is dotted,” he said. “And you want to make sure that you’re aware of every single thing.”\nOwens and Majok both said they have high hopes for the positive economic impact of Micron, but believe the draft report should have been disclosed already.\n“I think the first thing the city can do is encourage our community and our residents to review that draft environmental impact study and continue to put the pressure on to have it released immediately,” Owens said. “That environmental impact study really lays the groundwork for the impact on our community, and as mayor, we should be ensuring that those environmental impacts are sound and not impacting us. And right now, as deputy mayor, as citizens, all of us, we should be getting a look at that impact study.”\nMajok said he’s also concerned about the project’s oversight.\n“I’m worried because I’m afraid that we will not manage it well, the industrialization and wastewater and runoff,” he said. “I’m afraid that what has happened with Onondaga Lake is going to happen with mismanagement.”\nHogan responded by pointing out that there will be a 45-day public review period once the plan is released. That is expected to happen in June. “It’s going to be well-reviewed,” he said.\nEnvironmental advocates are asking for a four-month review period due to the size of the report.\nAnother point of division emerged on the city’s handling of lead contamination, via both lead service pipes and lead paint dust in many older Syracuse homes.\nOn lead in water, Hogan believes the incumbent administration of Mayor Ben Walsh didn’t recognize the problem early enough.\n“We must be aggressive on this,” he said. “We must address this problem as fast as we can.”\nOwens defended the administration’s response. She pointed to millions of dollars in state funding that’s going toward lead service line replacement work in thousands of homes, the city’s hiring of an outside company to take over water testing and the partnership with Onondaga County on lead paint detection and remediation.\n“We’re going full head at this,” she said.\nMajok said one of his priorities would be improving education of the public about lead paint and lead water risks and steps residents can take to mitigate exposure.\nThe debate also featured some moments of more light-hearted disagreement. When asked to name their favorite park, Hogan picked Burnett, Owens went for Barry and Majok selected Elmwood.\nOn the other hand, all three agreed it’s best not to use disposable plastic water bottles and each chose walking as their favorite way to get around the city. The forum will be posted to WCNY’s website for viewing on demand starting on Thursday.\nMore debates are coming ahead of the June 24 Democratic mayoral primary. Central Current has one planned on May 29 at Everson Museum, and WSYR-TV/NewsChannel 9 is holding one on June 12. Syracuse.com held the first debate last week in partnership with Syracuse University.\nCity reporter Jeremy Boyer can be reached at jboyer@syracuse.com, (315) 657-5673, Twitter or Facebook.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Politics", "Social Issue", "Environment"],
+  "topics": [
+    "Politics->environmental policy",
+    "Politics->local elections",
+    "Politics->political candidates",
+    "Social Issue->social problem",
+    "Social Issue->communities",
+    "Social Issue->social condition",
+    "Environment->environmental pollution",
+    "Environment->sustainability",
+    "Environment->hazardous materials"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://twitter.com/Boyer315",
+    "https://www.facebook.com/profile.php?id=100095049828116",
+    "https://facebook.com/profile.php?id=100095049828116",
+    "https://www.facebook.com/profile.php",
+    "https://www.twitter.com/Boyer315"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Sharon Owens",
+        "sentiment": "none"
+      },
+      {
+        "name": "Chol Majok",
+        "sentiment": "none"
+      },
+      {
+        "name": "Pat Hogan",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Micron",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "New York League of Conservation Voters Education Fund",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Onondaga County Industrial Development Agency",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:40:45.350+03:00",
+  "updated": "2025-05-08T03:46:59.000+00:00"
+}

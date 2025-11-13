@@ -1,0 +1,126 @@
+{
+  "thread": {
+    "uuid": "b2dfa66648cc99b0599de4e1f4a8970e2ea82d75",
+    "url": "https://en.vijesti.me/world-a/evropa/775135/teaching-children-to-fly-drones",
+    "site_full": "en.vijesti.me",
+    "site": "vijesti.me",
+    "site_section": "https://news.google.com/search?q=they%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [],
+    "section_title": "Google News - Search",
+    "site_title": "Vijesti online - Najnovije iz Crne Gore i svijeta",
+    "title": "They teach children to fly drones",
+    "title_full": "They teach children to fly drones",
+    "published": "2025-09-18T07:48:27.966+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ME",
+    "main_image": "https://www.vijesti.me/data/images/2025/09/17/19/5672267_2025-09-16t141445z-32460827-rc20tgahq27a-rtrmadp-3-lithuania-defence-drones_share.jpg",
+    "performance_score": 0,
+    "domain_rank": 16085,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b2dfa66648cc99b0599de4e1f4a8970e2ea82d75",
+  "url": "https://en.vijesti.me/world-a/evropa/775135/teaching-children-to-fly-drones",
+  "ord_in_thread": 0,
+  "author": "@Vijestime",
+  "published": "2025-09-18T07:48:27.966+03:00",
+  "title": "They teach children to fly drones",
+  "text": "On the border with Russia, Lithuania's Ministry of Defense has launched the first of nine schools across the country where children as young as 10, as well as adults, will learn how to operate, assemble and program drones.\n\"This is about building military defense capabilities, which Lithuania takes very seriously, considering that it lives in the neighborhood of Russia and Belarus,\" Deputy Defense Minister Tomas Godliauskas told Reuters.\nChildren and other participants will learn to fly FPV (First Person View), quadcopters and monoplane drones, said instructor Mindaugas Tamosaitis.\nAt a school in Taurage, 20 kilometers from the Russian enclave of Kaliningrad, children practiced virtual flights on computers. One boy practiced flying a mini drone up and down on the training ground, under the supervision of a teacher, occasionally knocking it to the floor.\n“The children are delighted,” said their teacher.\nLithuania, a NATO member, has asked the Alliance to strengthen its air defenses after two Russian drones crashed on its territory this summer, flying over from Belarus.\nNATO announced plans last Friday to further strengthen the defenses of Europe's eastern flank, two days after Poland shot down drones that violated its airspace - the first known action of its kind by a member of the Western alliance during Russia's war against Ukraine.\nBonus video:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education"],
+  "topics": [
+    "Education->students",
+    "Education->vocational education",
+    "Education->early childhood education"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mindaugas Tamosaitis",
+        "sentiment": "none"
+      },
+      {
+        "name": "Tomas Godliauskas",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Ministry of Defense",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Reuters",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "TRI",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "NATO",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:48:27.966+03:00",
+  "updated": "2025-09-18T07:51:01.000+03:00"
+}

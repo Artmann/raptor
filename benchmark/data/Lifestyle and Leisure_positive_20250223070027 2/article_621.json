@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "b34e501bdf165095a0f953da7678fdbc2f1a7faf",
+    "url": "https://gospelmusic.org/news/new-orleans-to-host-26th-annual-super-bowl-soulful-celebration",
+    "site_full": "gospelmusic.org",
+    "site": "gospelmusic.org",
+    "site_section": "https://gospelmusic.org/news",
+    "site_categories": [],
+    "section_title": "News",
+    "title": "26th Annual Super Bowl Soulful Celebration Coming to New Orleans",
+    "title_full": "26th Annual Super Bowl Soulful Celebration Coming to New Orleans",
+    "published": "2025-01-23T23:40:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gospelmusic.org/hubfs/Gospel%20celebration.webp",
+    "performance_score": 0,
+    "domain_rank": 122814,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b34e501bdf165095a0f953da7678fdbc2f1a7faf",
+  "url": "https://gospelmusic.org/news/new-orleans-to-host-26th-annual-super-bowl-soulful-celebration",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "GMA News",
+  "published": "2025-01-23T23:40:00.000+02:00",
+  "title": "26th Annual Super Bowl Soulful Celebration Coming to New Orleans",
+  "text": "Fans of gospel music and football alike—mark your calendars! This year’s 26th Annual Super Bowl Soulful Celebration has been slated for February 5, 2025, at the Mahalia Jackson Theater of Performing Arts in New Orleans.\nThis year’s Soulful Celebration theme is “Keep Going” and will shine a spotlight on New Orleans’ rich musical history. The musical guests are yet to be announced, but with past artists including Kirk Franklin, Yolanda Adams and other notable names from gospel to R&B and country, it’s sure to be an event to remember.\nYou can find out more about this year’s Super Bowl Soulful Celebration\nHERE.\nXX",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Arts, Culture and Entertainment",
+    "Lifestyle and Leisure",
+    "Human Interest"
+  ],
+  "topics": [
+    "Arts, Culture and Entertainment->culture",
+    "Arts, Culture and Entertainment->festival",
+    "Arts, Culture and Entertainment->music",
+    "Lifestyle and Leisure->holiday",
+    "Lifestyle and Leisure->party",
+    "Human Interest->ceremony"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://superbowlsoulful.com/",
+    "https://superbowlsoulful.com",
+    "https://www.superbowlsoulful.com/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Kirk Franklin",
+        "sentiment": "none"
+      },
+      {
+        "name": "Yolanda Adams",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:27:47.186+02:00",
+  "updated": "2025-01-24T00:27:47.186+02:00"
+}

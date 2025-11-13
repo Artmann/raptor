@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "bf1e61742cc3bdccb23969eb26da75964b8ee653",
+    "url": "https://coloradosprings.gov/news/victim-identified-december-24th-citadel-mall-shooting",
+    "site_full": "coloradosprings.gov",
+    "site": "coloradosprings.gov",
+    "site_section": "https://coloradosprings.gov/news",
+    "site_categories": [
+      "media",
+      "law_government_and_politics",
+      "us_government_resources"
+    ],
+    "section_title": "News | City of Colorado Springs",
+    "title": "Victim Identified from the December 24th Citadel Mall Shooting | City of Colorado Springs",
+    "title_full": "Victim Identified from the December 24th Citadel Mall Shooting | City of Colorado Springs",
+    "published": "2023-12-28T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 32286,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bf1e61742cc3bdccb23969eb26da75964b8ee653",
+  "url": "https://coloradosprings.gov/news/victim-identified-december-24th-citadel-mall-shooting",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Published",
+  "published": "2023-12-28T02:00:00.000+02:00",
+  "title": "Victim Identified from the December 24th Citadel Mall Shooting | City of Colorado Springs",
+  "text": "On Sunday, December 24, 2023, at approximately 4:34 PM, CSPD received a call for service for shots fired at the Citadel Mall. Officers responded and determined that a fight had broken out between two groups of people. One adult male was found deceased in the mall from a gunshot wound. The two other adult males who were injured in this shooting are in stable condition. On Tuesday, December 26, 2023, The El Paso County Coroner’s Office conducted an autopsy of the deceased male. He was identified as 18-year-old Teryus (Terr-EYE-us) Thomas of Colorado Springs. While the Coroner’s Office will determine the cause and manner of death, Mr. Thomas’s death is being investigated as a homicide. This is the 35th homicide in the City of Colorado Springs this year. At this time last year, there were 54 homicides. This is still an active investigation, and anyone with information or who is a witness to this investigation is asked to call the Colorado Springs Police Department at (719) 444-7000; or if you wish to remain anonymous, you may call the Crime Stoppers Tip Line at (719) 634-STOP (7867) or 1-800-222-8477. Original Blotter Entry At 4:34 pm on Sunday, December 24, 2023, CSPD received a call for service for shots fired at the Citadel Mall. Officers responded and determined that a fight had broken out between two groups of people. One adult male was found deceased in the mall from a gunshot wound. Two adult males were transported in serious condition to local hospitals, suffering from at least one gunshot wound each. One female was transported to a local hospital with minor injuries. CSPD has multiple people detained and is working to determine their involvement. There is no known threat to the community at this time. The mall has been cleared and closed. If you have any information, please call CSPD at 719-444-7000, or to remain anonymous, call Crime Stoppers at 719-634-7867 or 719-634-STOP.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Human Interest",
+    "Disaster and Accident",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "thomas",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "coroner’s office",
+        "sentiment": "none"
+      },
+      {
+        "name": "el paso county coroner’s office",
+        "sentiment": "none"
+      },
+      {
+        "name": "colorado springs police department",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "colorado springs",
+        "sentiment": "none"
+      },
+      {
+        "name": "citadel mall",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:20:19.280+02:00",
+  "updated": "2023-12-29T01:20:19.280+02:00"
+}

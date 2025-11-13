@@ -1,0 +1,161 @@
+{
+  "thread": {
+    "uuid": "3ad1ef14a083cc28bf32747bf2d5128424fbf00d",
+    "url": "https://grandblancview.mihomepaper.com/articles/davison-students-display-artwork-at-local-credit-union/",
+    "site_full": "grandblancview.mihomepaper.com",
+    "site": "mihomepaper.com",
+    "site_section": "https://news.google.com/search?q=at%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": null,
+    "title": "Davison students display artwork at local credit union",
+    "title_full": "Davison students display artwork at local credit union",
+    "published": "2025-09-18T07:23:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://grandblancview.mihomepaper.com/wp-content/uploads/images/2025-09-18/5p1.jpg",
+    "performance_score": 0,
+    "domain_rank": 335728,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3ad1ef14a083cc28bf32747bf2d5128424fbf00d",
+  "url": "https://grandblancview.mihomepaper.com/articles/davison-students-display-artwork-at-local-credit-union/",
+  "ord_in_thread": 0,
+  "author": "ohtadmin",
+  "published": "2025-09-18T07:23:00.000+03:00",
+  "title": "Davison students display artwork at local credit union",
+  "text": "DAVISON — The Davison branch of Credit Union ONE, 625 S. State Rd., hosted its annual gallery unveiling ceremony recently, showcasing top student artwork from Davison Community Schools.\nThe branch has presented the art gallery of Davison student artists’ work for several years now, going back to previous financial institutions that have resided in that building.\nThose institutions have included Hantz Bank and State Bank.\nAustin Bellant, branch manager for the Credit Union One in Davison, said the branch keeps the art for about one year, with the pieces displayed on a way in the credit union lobby.\nBellant praised the students for their artwork and recognized the talent of each artist.\n“You guys really did an amazing job,” Bellant said. “You really should be proud of that you did.”\nDavison students with art hanging in the Credit Union ONE gallery include Abby Cross, Brady Schriner, Lisa Taylor, Max Gartee, JaNiya Parnell, Tonia Williams, Julie Wagner, Lilly Cole, Lucca Houle, Layla Turner and Julie Lennox.\nRyan Kelsey, fine arts instructor at Davison High School, said the credit union selects its favorite pieces of art from the student works to display at the branch for the entire coming year.\n“The kids get an opportunity to have their work framed, matted and hung up in a gallery situation, which is pretty cool,” he said. “It will hang here for a year and the kids, after a year, will get to take it home and have that piece always.”\nKelsey said its also nice as teachers to have a space where the community is able to come and view the work of the students.\n“We can share work that is up for a long time,” he said. “We have a large show at school, but it’s up for a few days and then you put it away. To have something that is a whole year to display it is very nice.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Arts, Culture and Entertainment",
+    "Education",
+    "Human Interest"
+  ],
+  "topics": [
+    "Arts, Culture and Entertainment->culture",
+    "Arts, Culture and Entertainment->customs and tradition",
+    "Education->curriculum",
+    "Education->school",
+    "Education->students",
+    "Human Interest->ceremony"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Davison",
+        "sentiment": "none"
+      },
+      {
+        "name": "Austin Bellant",
+        "sentiment": "none"
+      },
+      {
+        "name": "Tonia Williams",
+        "sentiment": "none"
+      },
+      {
+        "name": "Brady Schriner",
+        "sentiment": "none"
+      },
+      {
+        "name": "Julie Wagner",
+        "sentiment": "none"
+      },
+      {
+        "name": "Julie Lennox",
+        "sentiment": "none"
+      },
+      {
+        "name": "Lisa Taylor",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ryan Kelsey",
+        "sentiment": "none"
+      },
+      {
+        "name": "Max Gartee",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Credit Union ONE",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Davison Community Schools",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Davison High School",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "State Bank",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Hantz Bank",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Grand Blanc"],
+      "state": ["Michigan"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:04:59.390+03:00",
+  "updated": "2025-09-18T08:10:25.000+03:00"
+}

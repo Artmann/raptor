@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "ef292446df3647584ce73bfed085ce2e8c955d08",
+    "url": "https://www.newsbreak.com/news/3774635811663-ashburn-volunteer-fire-rescue-department-celebrates-training-achievements",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/sterling-va",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "Sterling, VA Local News and More | NewsBreak",
+    "title": "Ashburn Volunteer Fire & Rescue Department Celebrates Training Achievements - NewsBreak",
+    "title_full": "Ashburn Volunteer Fire & Rescue Department Celebrates Training Achievements - NewsBreak",
+    "published": "2025-01-23T15:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/2QuWWj_0yNPNG0O00",
+    "performance_score": 0,
+    "domain_rank": 3577,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ef292446df3647584ce73bfed085ce2e8c955d08",
+  "url": "https://www.newsbreak.com/news/3774635811663-ashburn-volunteer-fire-rescue-department-celebrates-training-achievements",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Samantha",
+  "published": "2025-01-23T15:30:00.000+02:00",
+  "title": "Ashburn Volunteer Fire & Rescue Department Celebrates Training Achievements - NewsBreak",
+  "text": "By Samantha ,\n16 hours ago On Thursday, January 16, 2025, 16 dedicated volunteers from the Ashburn Volunteer Fire and Rescue Department (AVFRD) proudly completed various levels of fire and emergency medical services (EMS) training. Ten volunteers successfully finished the Emergency Medical Technician (EMT) course, while six completed the rigorous Firefighter I-II course. As part of... Read full article\nRead in NewsBreak",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Lifestyle and Leisure", "Health"],
+  "topics": [
+    "Human Interest->record and achievement",
+    "Lifestyle and Leisure->lifestyle",
+    "Lifestyle and Leisure->club and association",
+    "Lifestyle and Leisure->wellness",
+    "Health->emergency care"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Samantha",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Ashburn Volunteer Fire & Rescue Department",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:19:26.654+02:00",
+  "updated": "2025-01-24T07:35:33.450+02:00"
+}

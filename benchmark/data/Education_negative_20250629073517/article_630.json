@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "358bd54abba449c1f40022960d7380f4603ac8a4",
+    "url": "https://www.latribunadeciudadreal.es/noticia/z2e8654f0-4f3f-4eb8-a19064dd581275c1/202506/iu-critica-los-recortes-en-la-escuela-oficial-de-idiomas",
+    "site_full": "www.latribunadeciudadreal.es",
+    "site": "latribunadeciudadreal.es",
+    "site_section": "https://latribunadeciudadreal.es/.",
+    "site_categories": ["media"],
+    "section_title": "\r\n\tLa Tribuna de Ciudad Real. Noticias de Ciudad Real y provincia | latribunadeciudadreal.es\r\n",
+    "site_title": "La Tribuna de Ciudad Real. Noticias de Ciudad Real y provincia | latribunadeciudadreal.es",
+    "title": "IU critica los recortes en la Escuela Oficial de Idiomas",
+    "title_full": "IU critica los recortes en la Escuela Oficial de Idiomas",
+    "published": "2025-06-26T13:32:42.290+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://www.latribunadeciudadreal.es/media/IMG/2025/C724D781-835D-4789-AA99AF611409F4B2.JPG",
+    "performance_score": 0,
+    "domain_rank": 195265,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "358bd54abba449c1f40022960d7380f4603ac8a4",
+  "url": "https://www.latribunadeciudadreal.es/noticia/z2e8654f0-4f3f-4eb8-a19064dd581275c1/202506/iu-critica-los-recortes-en-la-escuela-oficial-de-idiomas",
+  "ord_in_thread": 0,
+  "author": "La Tribuna de Ciudad Real",
+  "published": "2025-06-26T13:32:42.290+03:00",
+  "title": "IU critica los recortes en la Escuela Oficial de Idiomas",
+  "text": "Tomelloso IU critica los recortes en la Escuela Oficial de Idiomas LT - jueves, 26 de junio de 2025 La formación asegura que \"los recortes planteados por la Consejería suponen precarizar la educación que se oferta en estos centros, pues la falta de personal supondrá la mezcla de niveles en una misma clase· IU critica los recortes en la Escuela Oficial de Idiomas Desde la formación de izquierdas alertan del peligro que suponen estos recortes, pues podrían suponer la desaparición de las escuelas oficiales de idiomas, favoreciendo así a las academias privadas.\"Desde IU creemos profundamente en la calidad de nuestra enseñanza publica a todos los niveles y sabemos de la importancia de los idiomas a nivel social, cultural y de desarrollo humano\", aseguran, \"por ello, la financiación de las escuelas de idiomas debe ser algo prioritario en la agenda de la Consejería de Educación\"\"Los recortes planteados por la Consejería suponen precarizar la educación que se oferta en estos centros, pues la falta de personal supondrá la mezcla de niveles en una misma clase e incluso peligra la oferta de algunos de los idiomas que a día de hoy se enseñan en la escuela\".Por otra parte, instan al gobierno de Page a \"considerar la importancia de la convalidación de las titulaciones impartidas en escuelas de idiomas, que muchas veces no pueden competir con los títulos obtenidos en academias privadas\".\"En las EOIs se enseña a la población a hablar y entender cómo funcionan los idiomas. Esto contrasta con el modus operandi de las academias privadas que preparan al alumnado simplemente para \"aprobar un examen\"aseveran desde IU.Por todo ello, desde Izquierda Unida hacen suyas \"las reivindicaciones del Claustro de la EOI Mar de Viñas\" y se suman \"a su lucha\" . \"En IU siempre estaremos con lo público, luchando por su fortalecimiento y mejora\" concluyen. Sigue el canal de La Tribuna de Ciudad Real en WhatsApp y entérate de todo lo que ocurre ARCHIVADO EN: Idiomas, Recortes, IU, Educación",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Education", "Politics", "Social Issue"],
+  "topics": [
+    "Education->curriculum",
+    "Education->state school",
+    "Education->students",
+    "Politics->education policy",
+    "Politics->government",
+    "Politics->political parties and movements",
+    "Social Issue->social services",
+    "Social Issue->social problem",
+    "Social Issue->discrimination"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "IU",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Consejería de Educación",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T13:32:42.290+03:00",
+  "updated": "2025-06-26T10:37:10.000+00:00"
+}

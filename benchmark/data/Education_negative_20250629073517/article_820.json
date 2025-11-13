@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "0ae3ce464dcd7700fa091c84bf6243e489b78074",
+    "url": "https://www.swp.de/baden-wuerttemberg/schulessen-in-bw-zu-viel-gemuese-und-salat-78146909.html",
+    "site_full": "www.swp.de",
+    "site": "swp.de",
+    "site_section": "https://www.swp.de/baden-wuerttemberg",
+    "site_categories": ["media", "top_news_de", "top_news"],
+    "section_title": "Baden-Württemberg | swp.de",
+    "site_title": "Startseite | swp.de",
+    "title": "Schulessen in BW: Zu viel Gemüse und Salat?",
+    "title_full": "Schulessen in BW: Zu viel Gemüse und Salat?",
+    "published": "2025-06-26T13:09:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://cdn.swp.de/2024/05/04/e3e154cd-3729-4709-b47f-20a2fc36f1bb.jpeg?width=1200&crop=1500%2C844%2C0%2C78&format=webp&token=01863c82988d33867721791784d3c22b23d5e5aff50073755594953f3ed8585c",
+    "performance_score": 0,
+    "domain_rank": 13335,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0ae3ce464dcd7700fa091c84bf6243e489b78074",
+  "url": "https://www.swp.de/baden-wuerttemberg/schulessen-in-bw-zu-viel-gemuese-und-salat-78146909.html",
+  "ord_in_thread": 0,
+  "author": "SWP",
+  "published": "2025-06-26T13:09:00.000+03:00",
+  "title": "Schulessen in BW: Zu viel Gemüse und Salat?",
+  "text": "Schulessen in BW: Zu viel Gemüse und Salat?\n- BW-Gericht bestätigt: Kein Zwang zu Fleisch im Schulessen, Mehrheit bleibt vegetarisch/vegan.\n- Eltern forderten täglich Fleisch/Fisch, wegen Gesundheitsbedenken; Antrag abgelehnt.\n- VGH Mannheim wies Beschwerde zurück: Anwaltszwang nicht eingehalten.\n- Tochter durfte nicht klagen, war nicht Teil des ersten Verfahrens.\n- Beschluss unanfechtbar, kein Ernährungsmangel durch vegane/veg. Kost.\nDie Zusammenfassung wurde durch künstliche Intelligenz erstellt.\nFleischgerichte werden an einer Schule im Raum Konstanz weiterhin die Ausnahme bleiben. Der Verwaltungsgerichtshof Baden-Württemberg (VGH) in Mannheim hat Beschwerden zum überwiegend vegetarischen Schulessen als unzulässig zurückgewiesen, wie der VGH am Donnerstag mitteilte. Der Beschluss sei unanfechtbar (AZ: 9 S 1044/25).\nEltern hatten sich daran gestört, dass das Schulessen, das von Montag bis Donnerstag angeboten wird, an drei Tagen aus vegetarischer oder veganer Kost besteht. Nur an einem Tag werde ein Fleisch- oder Fischangebot bereitgehalten.\nDie Eltern hatten bereits mit einem Eilantrag (2 K 1477/25) beim Verwaltungsgericht Freiburg erreichen wollen, dass ihrer Tochter an allen Tagen ein Schulessen mit Fleisch oder Fisch zur Verfügung gestellt wird. Sie trugen unter anderem gesundheitliche Bedenken vor. Das Verwaltungsgericht hatte den Antrag zurückgewiesen. Es sei fernliegend, dass ein Ernährungsmangel drohe.\nDer VGH wies die Beschwerde der Eltern nun als unzulässig zurück, da die Eltern Beschwerde ohne Rechtsanwalt erhoben haben. Dabei bestehe vor dem VGH ein sogenannter „Anwaltszwang“. Die Beschwerde der Tochter sei ebenfalls unzulässig. „Sie war nicht Beteiligte im erstinstanzlichen Verfahren und deswegen nicht befugt eine Beschwerde zu erheben“, heißt es in der Mitteilung.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->parents group",
+    "Education->curriculum",
+    "Education->school",
+    "Social Issue->children",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Baden-Württemberg",
+        "sentiment": "none"
+      },
+      {
+        "name": "Mannheim",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "VGH Mannheim",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:58:30.706+03:00",
+  "updated": "2025-06-27T12:11:53.000+00:00"
+}

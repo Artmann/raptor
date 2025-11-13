@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "d018a66e241a38787fb9113f9cbf562e47c9ddf9",
+    "url": "https://knoxradio.com/2025/10/16/minnesota-boasts-nearly-64000-clean-energy-jobs-under-question-mark/",
+    "site_full": "knoxradio.com",
+    "site": "knoxradio.com",
+    "site_section": "https://news.google.com/search?q=under%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "KNOX News Radio, Local News, Weather and Sports",
+    "title": "Minnesota Boasts Nearly 64,000 Clean Energy Jobs Under Question Mark",
+    "title_full": "Minnesota Boasts Nearly 64,000 Clean Energy Jobs Under Question Mark",
+    "published": "2025-10-16T11:43:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2404/files/2025/10/adobestock-328673896-1.jpeg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d018a66e241a38787fb9113f9cbf562e47c9ddf9",
+  "url": "https://knoxradio.com/2025/10/16/minnesota-boasts-nearly-64000-clean-energy-jobs-under-question-mark/",
+  "ord_in_thread": 0,
+  "author": "Bill Dubensky",
+  "published": "2025-10-16T11:43:00.000+03:00",
+  "title": "Minnesota Boasts Nearly 64,000 Clean Energy Jobs Under Question Mark",
+  "text": "(Adobe stock via Minnesota News Connection)\n(By . ) – Minnesota’s green jobs sector is roaring just as the weight of federal changes sinks in.\nA new report from the group Clean Energy Economy Minnesota showed 2024 was another banner year, with nearly 64,000 people working in renewable energy fields. The job growth rate for people doing things like installing solar panels was twice that of the state’s overall workforce. However, the numbers do not factor in more recent moves by the Trump administration and Congressional Republicans to unravel federal incentives.\nCathy Liebowitz, senior manager of membership engagement for the group, said given the major policy shift, they cannot guarantee some jobs will stick around, although it does not mean the wheels are falling off, either.\n“We are not predicting that record-breaking growth in the following year,” Liebowitz acknowledged. “But we’re also not predicting significant reversals.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment", "Labor"],
+  "topics": [
+    "Environment->energy saving",
+    "Environment->sustainability",
+    "Labor->employment"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://app.publicnewsservice.org/story/under-big-question-mark-mn-boasts-nearly-64000-clean-energy-jobs/910bc7be-53da-4ceb-8ef9-b18273d05983",
+    "https://www.cleanenergyeconomymn.org/clean-jobs-midwest-2025",
+    "https://app.publicnewsservice.org/staff/e3d12664-0572-4734-92ad-3d3777191c4b",
+    "https://www.app.publicnewsservice.org/staff/e3d12664-0572-4734-92ad-3d3777191c4b",
+    "https://cleanenergyeconomymn.org/clean-jobs-midwest-2025",
+    "https://www.app.publicnewsservice.org/story/under-big-question-mark-mn-boasts-nearly-64000-clean-energy-jobs/910bc7be-53da-4ceb-8ef9-b18273d05983"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Cathy Liebowitz",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Clean Energy Economy Minnesota",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Knox", "Grand Forks"],
+      "state": ["North Dakota"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:53:28.102+03:00",
+  "updated": "2025-10-16T14:04:53.000+03:00"
+}

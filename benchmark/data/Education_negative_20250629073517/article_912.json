@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "11272f99ba8f97ef3774e4a0d8d55800cc3ee028",
+    "url": "https://www.aargauerzeitung.ch/ostschweiz/wil/streitpunkt-es-waere-ein-falsches-zeichen-warum-sich-mehrere-jungpolitiker-gegen-zusaetzliche-ferienwochen-fuer-lehrlinge-aussprechen-ld.2788091",
+    "site_full": "www.aargauerzeitung.ch",
+    "site": "aargauerzeitung.ch",
+    "site_section": "https://www.aargauerzeitung.ch/ostschweiz/wil",
+    "site_categories": ["media", "top_news_ch", "top_news"],
+    "section_title": "Wil – Nachrichten aus der Region",
+    "site_title": "Aargauer Zeitung | Nachrichten für den Aargau – AZ",
+    "title": "Mehr Ferien für Lernende? Mehrere Jungpolitiker wehren sich dagegen",
+    "title_full": "Mehr Ferien für Lernende? Mehrere Jungpolitiker wehren sich dagegen",
+    "published": "2025-06-26T13:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CH",
+    "main_image": "https://chm-images-prd.forward-publishing.io/2024/12/16/a4a4afa3-8ca0-4c4c-96a9-158fbed36fc1.jpeg?auto=format&amp;s=10d4f45caa36fc2a8a1bbfe723f3aeca&amp;rect=216%2C357%2C4444%2C2500&amp;w=1200&amp;h=675",
+    "performance_score": 0,
+    "domain_rank": 19710,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "11272f99ba8f97ef3774e4a0d8d55800cc3ee028",
+  "url": "https://www.aargauerzeitung.ch/ostschweiz/wil/streitpunkt-es-waere-ein-falsches-zeichen-warum-sich-mehrere-jungpolitiker-gegen-zusaetzliche-ferienwochen-fuer-lehrlinge-aussprechen-ld.2788091",
+  "ord_in_thread": 0,
+  "author": "Simon Dudle",
+  "published": "2025-06-26T13:00:00.000+03:00",
+  "title": "Mehr Ferien für Lernende? Mehrere Jungpolitiker wehren sich dagegen",
+  "text": "STREITPUNKT\n«Es wäre ein falsches Zeichen»: Warum sich mehrere Jungpolitiker gegen zusätzliche Ferienwochen für Lehrlinge aussprechen\nLernende fordern eine Erhöhung ihrer Ferien von fünf auf acht Wochen pro Jahr. Damit soll die Attraktivität der Berufsbildung gesteigert und der Stress besser abgebaut werden. Eine Umfrage bei Jungpolitikern in der Region Wil/Toggenburg zeigt aber: Es gibt Widerstand.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Politics", "Social Issue"],
+  "topics": [
+    "Education->teachers",
+    "Education->students",
+    "Education->educational grading",
+    "Politics->political candidates",
+    "Politics->political process",
+    "Politics->education policy",
+    "Social Issue->teenagers",
+    "Social Issue->social services",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Toggenburg",
+        "sentiment": "none"
+      },
+      {
+        "name": "Wil",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ch", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T15:46:39.403+03:00",
+  "updated": "2025-06-27T13:05:33.000+00:00"
+}

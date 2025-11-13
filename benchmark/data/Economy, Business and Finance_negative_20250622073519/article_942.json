@@ -1,0 +1,74 @@
+{
+  "thread": {
+    "uuid": "9743929a6edf529221d14f00dcc96cac60baa0a2",
+    "url": "https://www.nius.de/kommentar/news/der-mittelstand-stirbt-leise/010ab2c3-7816-42f2-9a50-7b395a6dbc4b",
+    "site_full": "www.nius.de",
+    "site": "nius.de",
+    "site_section": "https://nius.de/all-news",
+    "site_categories": [],
+    "section_title": "Aktuelle Nachrichten | NIUS.de",
+    "site_title": "Aktuelle Nachrichten | NIUS.de",
+    "title": "Der Mittelstand stirbt leise | NIUS.de",
+    "title_full": "Der Mittelstand stirbt leise | NIUS.de",
+    "published": "2025-06-19T06:22:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://api.nius.de/api/assets/office-hr/797cf03f-22e5-4345-9425-2cd3601d3ab1/010ab2c3-7816-42f2-9a50-7b395a6dbc4b.jpg",
+    "performance_score": 0,
+    "domain_rank": 135237,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9743929a6edf529221d14f00dcc96cac60baa0a2",
+  "url": "https://www.nius.de/kommentar/news/der-mittelstand-stirbt-leise/010ab2c3-7816-42f2-9a50-7b395a6dbc4b",
+  "ord_in_thread": 0,
+  "author": "@Peter Kurth",
+  "published": "2025-06-19T06:22:00.000+03:00",
+  "title": "Der Mittelstand stirbt leise | NIUS.de",
+  "text": "home\nKommentar\nDer Mittelstand stirbt leise",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Politics", "Social Issue"],
+  "topics": [
+    "Economy, Business and Finance->business and market analysis",
+    "Politics->economic policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:43:03.671+03:00",
+  "updated": "2025-06-19T04:47:23.000+00:00"
+}

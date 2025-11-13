@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "b7dfa2830e8d0a2439fea4fa653c261a8af1fa03",
+    "url": "http://news.10jqka.com.cn/20250626/c669202106.shtml",
+    "site_full": "news.10jqka.com.cn",
+    "site": "10jqka.com.cn",
+    "site_section": "http://news.10jqka.com.cn/fssgsxw_list/",
+    "site_categories": ["financial_news", "finance", "stocks"],
+    "section_title": "非上市公司新闻_财经_同花顺财经",
+    "site_title": null,
+    "title": "好丽友产品因不合规未准入境",
+    "title_full": "好丽友产品因不合规未准入境",
+    "published": "2025-06-26T14:10:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 7186,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b7dfa2830e8d0a2439fea4fa653c261a8af1fa03",
+  "url": "http://news.10jqka.com.cn/20250626/c669202106.shtml",
+  "ord_in_thread": 0,
+  "author": "鲁网",
+  "published": "2025-06-26T14:10:00.000+03:00",
+  "title": "好丽友产品因不合规未准入境",
+  "text": "近日，好丽友WOW彩虹水果味泡泡糖因柠檬黄不符合食品安全国家标准规定未准入境。资料显示，该产品产地为韩国，由威海德邦贸易有限公司进口，重量11.34千克，生产企业为好丽友第4青州工厂，进境口岸为青岛。公开信息显示，好丽友成立于1956年，是韩国三大制果企业之一。1995年12月，好丽友食品有限公司在廊坊经济技术开发区注册成立，逐渐成长为渠道遍及全国、年销售额超过60亿元人民币的综合性食品企业。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Health", "Education", "Social Issue"],
+  "topics": [
+    "Health->public health",
+    "Health->health organisation",
+    "Health->government health care",
+    "Social Issue->emigration",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:26:49.158+03:00",
+  "updated": "2025-06-26T11:31:25.000+00:00"
+}

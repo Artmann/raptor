@@ -1,0 +1,124 @@
+{
+  "thread": {
+    "uuid": "7db53e28e81b0de18214fd3dd20c602f9a5984f0",
+    "url": "https://www.cnbc.com/2023/12/28/oil-prices-rise-amid-fears-over-escalating-tensions-in-middle-east.html",
+    "site_full": "www.cnbc.com",
+    "site": "cnbc.com",
+    "site_section": "https://www.cnbc.com/markets",
+    "site_categories": ["financial_news", "finance"],
+    "section_title": "Markets: Indexes, Bonds, Forex, Key Commodities, ETFs",
+    "title": "Oil prices fall 3% as Red Sea shipping disruptions ease",
+    "title_full": "Oil prices fall 3% as Red Sea shipping disruptions ease",
+    "published": "2023-12-28T05:33:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://image.cnbcfm.com/api/v1/image/107348657-1702864146519-gettyimages-1822474446-JON_2166.jpeg?v=1703732799&amp;w=1920&amp;h=1080",
+    "performance_score": 0,
+    "domain_rank": 133,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "shares": 7
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7db53e28e81b0de18214fd3dd20c602f9a5984f0",
+  "url": "https://www.cnbc.com/2023/12/28/oil-prices-rise-amid-fears-over-escalating-tensions-in-middle-east.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2023-12-28T05:33:00.000+02:00",
+  "title": "Oil prices fall 3% as Red Sea shipping disruptions ease",
+  "text": "Oil prices fell 3% on Thursday as more shipping companies said they were ready to transit the Red Sea route, easing concerns about supply disruptions as Middle Eastern tensions stay elevated. The more active Brent crude futures for March delivery were down $2.24, or 2.82%, at $77.30. Brent futures for February delivery, which expire after Thursday's settlement, fell 1.58% to settle at $78.39 a barrel. U.S. West Texas Intermediate crude futures fell by $2.34, or 3.16%, to settle at $71.77 a barrel. On Wednesday, oil prices dropped nearly 2% on Wednesday as major shipping firms began returning to the Red Sea. Denmark's Maersk will route almost all container vessels sailing between Asia and Europe through the Suez Canal from now, and divert only a handful around Africa, a Reuters breakdown of the group's schedule showed on Thursday. France's CMA CGM is also increasing the number of vessels travelling through the Suez Canal, it said earlier in the week. \"The perception is that the Red Sea route is reopening and will bring supply to market weeks faster,\" Price Futures Group analyst Phil Flynn said. Major shipping companies stopped using Red Sea routes and the Suez Canal earlier this month after Yemen's Houthi militant group began targeting vessels. At the same time, a U.S.-led coalition to quell tensions in the Red Sea has yet to yield the coordinated action that had been hoped for. A week after the launch of the maritime force, many allies do not want to be associated with it, partly reflecting the fissures created by the conflict in Gaza, which has seen the U.S. maintain firm support for Israel even as international criticism rises over its offensive. Oil prices found some support after the U.S. Energy Information Administration (EIA) reported a much larger-than-expected draw in U.S. crude oil inventories last week. U.S. crude stockpiles fell by 7.1 million barrels in the week ended Dec. 22, EIA data showed, while analysts polled by Reuters had expected a draw of 2.7 million barrels. Investors expect interest rate cuts in Europe and the U.S. in 2024, which could boost oil demand.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "phil f",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "red sea",
+        "sentiment": "negative"
+      },
+      {
+        "name": "maersk",
+        "sentiment": "none"
+      },
+      {
+        "name": "cma cgm",
+        "sentiment": "none"
+      },
+      {
+        "name": "reuters",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "asia",
+        "sentiment": "none"
+      },
+      {
+        "name": "europe",
+        "sentiment": "none"
+      },
+      {
+        "name": "africa",
+        "sentiment": "none"
+      },
+      {
+        "name": "denmark",
+        "sentiment": "none"
+      },
+      {
+        "name": "red sea",
+        "sentiment": "none"
+      },
+      {
+        "name": "suez canal",
+        "sentiment": "none"
+      },
+      {
+        "name": "france",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:05:00.534+02:00",
+  "updated": "2023-12-29T01:05:00.534+02:00"
+}

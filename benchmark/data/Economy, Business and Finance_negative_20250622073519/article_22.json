@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "be0e8f49e02b3a765958a6b25baa6f73b1e7edc8",
+    "url": "https://news.mail.ru/politics/66635373",
+    "site_full": "news.mail.ru",
+    "site": "mail.ru",
+    "site_section": "https://news.mail.ru/rss",
+    "site_categories": ["media"],
+    "section_title": "Новости Mail",
+    "site_title": "Новости Mail: картина дня в России и мире, срочные новости, последние события, аналитика и комментарии экспертов",
+    "title": "Дмитриев оценил потери ЕС от сокращения поставок газа из России в €1 трлн",
+    "title_full": "Дмитриев оценил потери ЕС от сокращения поставок газа из России в €1 трлн",
+    "published": "2025-06-19T06:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://resizer.mail.ru/p/97b51746-a221-52ba-9d0d-16539fc8307c/AQAGp1tqAAGsJKlRDzZ3RBWzVqjhBSYdxq3Yap2L4FWMjRz4-O_bFCkBW12AoqC1ivEFeiL8HCme68dKxY2Iio6_luw.png",
+    "performance_score": 0,
+    "domain_rank": 696,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "be0e8f49e02b3a765958a6b25baa6f73b1e7edc8",
+  "url": "https://news.mail.ru/politics/66635373",
+  "ord_in_thread": 0,
+  "author": "Инесса Кухаришина",
+  "published": "2025-06-19T06:32:00.000+03:00",
+  "title": "Дмитриев оценил потери ЕС от сокращения поставок газа из России в €1 трлн",
+  "text": "Сокращение импорта российского газа обернулось для экономики стран Европейского союза убытками, превысившими один триллион евро.\nОб этом сообщил глава Российского фонда прямых инвестиций Кирилл Дмитриев в рамках Петербургского международного экономического форума, отметив, что на сегодняшний день имеются конкретные расчёты по этим потерям.\nРанее во время беседы с представителями ведущих международных информационных агентств российский лидер Владимир Путин высказался по поводу отказа Германии от российских энергоносителей, выразив недоумение по поводу такого решения.\nПо его мнению, это негативно отразилось на экономике страны, которая, являясь крупнейшей в ЕС, оказалась на грани рецессии.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Social Issue", "Politics"],
+  "topics": [
+    "Economy, Business and Finance->energy and resource",
+    "Economy, Business and Finance->economy",
+    "Economy, Business and Finance->financial and economic news",
+    "Social Issue->social condition",
+    "Social Issue->social problem",
+    "Social Issue->discrimination",
+    "Politics->economic policy",
+    "Politics->political crisis",
+    "Politics->international relations"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:35:33.674+03:00",
+  "updated": "2025-06-19T04:53:11.000+00:00"
+}

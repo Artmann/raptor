@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "7863f7b7aabfa8b8323ff9c467db889401bcd29e",
+    "url": "https://www.minuto30.com/este-es-el-estado-de-los-monos-rescatados-en-el-aeropuerto-de-rionegro/1659814",
+    "site_full": "www.minuto30.com",
+    "site": "minuto30.com",
+    "site_section": "https://www.minuto30.com/rss",
+    "site_categories": ["media", "top_news_co", "top_news"],
+    "section_title": "Minuto30",
+    "site_title": "Minuto30.com: Noticias de Medellín, Antioquia y Colombia",
+    "title": "Este es el estado de los monos rescatados en el aeropuerto de Rionegro tras el intento de tráfico de fauna",
+    "title_full": "Este es el estado de los monos rescatados en el aeropuerto de Rionegro tras el intento de tráfico de fauna",
+    "published": "2025-05-08T01:07:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CO",
+    "main_image": "https://staticprd.minuto30.com/wp-content/uploads/2025/05/traficodefaunarionegro-1.jpg",
+    "performance_score": 0,
+    "domain_rank": 131284,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7863f7b7aabfa8b8323ff9c467db889401bcd29e",
+  "url": "https://www.minuto30.com/este-es-el-estado-de-los-monos-rescatados-en-el-aeropuerto-de-rionegro/1659814",
+  "ord_in_thread": 0,
+  "author": "Melissa Noreña",
+  "published": "2025-05-08T01:07:00.000+03:00",
+  "title": "Este es el estado de los monos rescatados en el aeropuerto de Rionegro tras el intento de tráfico de fauna",
+  "text": "Resumen: Tráfico de monos en Rionegro termina en tragedia: dos muertos y uno crítico. Cornare condena crueldad y alerta sobre el lucrativo negocio ilegal.\nEl intento desesperado por traficar fauna silvestre: seis primates desde el aeropuerto José María Córdova de Rionegro, ha dejado un balance sombrío, según confirmó el director de la Corporación Autónoma Regional de las cuencas de los ríos Negro y Nare (Cornare), Javier Valencia.\nDe los seis primates decomisados a dos ciudadanos dominicanos que pretendían llevarlos ilegalmente al exterior, dos han muerto y uno permanece en estado crítico debido a las inhumanas condiciones de transporte.\nLos animales, dos monos cariblancos (Cebus capucinus) y cuatro tití piel roja (Saguinus oedipus), especies protegidas por la legislación colombiana, fueron descubiertos sedados y cruelmente adheridos al cuerpo de los traficantes durante una inspección de seguridad aeroportuaria.\nSigue al canal de WhatsApp de\nOrden Público\nLa intervención de la Policía Nacional permitió frustrar el intento de tráfico y capturar a los responsables.\n«Lamentablemente, de los seis animales rescatados, dos fallecieron y uno sigue en estado grave», declaró con preocupación Javier Valencia. Afortunadamente, confirmó que tres ya están estabilizados.\nEl funcionario enfatizó el daño severo causado por el método de transporte ilegal, el cual comprometió irreversiblemente la salud de los primates.\nValencia resaltó la importancia de la respuesta judicial, con la condena intramural de los traficantes, a la que se sumará la sanción económica correspondiente por el atentado contra el patrimonio natural.\nLea también: Macabro hallazgo de extremidades humanas en Kennedy genera alarma e investiga posible feminicidio\nLas investigaciones revelan que el destino final de los primates era República Dominicana, donde su valor en el mercado negro podría multiplicarse hasta diez veces, lo que evidencia la lucrativa y despiadada naturaleza del tráfico de fauna silvestre.\n«El tráfico de fauna silvestre es el segundo comercio ilegal más lucrativo del mundo», advirtió el director de Cornare, subrayando la necesidad de controles permanentes y rigurosos en puntos estratégicos como el aeropuerto de Rionegro, donde la articulación con la Policía Nacional ha sido fundamental para la interceptación de estos criminales.\nCornare reiteró el llamado a la ciudadanía para fortalecer la vigilancia y la conciencia ambiental, especialmente en una región de alta biodiversidad como el Oriente antioqueño.\nMás noticias de Antioquia",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Environment", "Crime, Law and Justice", "Social Issue"],
+  "topics": [
+    "Environment->endangered species",
+    "Environment->conservation",
+    "Environment->animal",
+    "Crime, Law and Justice->animal abuse",
+    "Crime, Law and Justice->human smuggling and trafficking",
+    "Social Issue->social problem",
+    "Social Issue->discrimination"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://whatsapp.com/channel/0029Va4YD6gFCCoePYGbgg2L",
+    "https://www.whatsapp.com/channel/0029Va4YD6gFCCoePYGbgg2L"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Javier Valencia",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Corporación Autónoma Regional",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Policía Nacional",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:00:54.237+03:00",
+  "updated": "2025-05-08T00:05:31.000+00:00"
+}

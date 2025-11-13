@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "e253b4833809c85d9f43f9cb25bacaebad6e9bb9",
+    "url": "https://www.amontada.ce.gov.br/informa.php?id=475",
+    "site_full": "www.amontada.ce.gov.br",
+    "site": "amontada.ce.gov.br",
+    "site_section": "https://www.amontada.ce.gov.br/rss",
+    "site_categories": [],
+    "section_title": "Noticias",
+    "site_title": "Prefeitura de Amontada",
+    "title": "Mais um marco na educação de Amontada!",
+    "title_full": "Mais um marco na educação de Amontada!",
+    "published": "2025-09-12T06:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "BR",
+    "main_image": "https://www.amontada.ce.gov.br/fotos/475/Capa475.jpg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e253b4833809c85d9f43f9cb25bacaebad6e9bb9",
+  "url": "https://www.amontada.ce.gov.br/informa.php?id=475",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-12T06:00:00.000+03:00",
+  "title": "Mais um marco na educação de Amontada!",
+  "text": "Nesta sexta-feira (12), a comunidade de Várzea da Cal viveu um momento histórico com a inauguração da 46ª escola construída entre 2021 e 2025: a Escola Nossa Senhora da Conceição.\nA nova unidade conta com 4 salas de aula e todos os demais espaços que compõem uma escola de qualidade, como diretoria, almoxarifado, banheiros, cantina e muito mais.\nO evento contou com a presença de autoridades municipais, servidores municipais e moradores de Várzea da Cal e localidades vizinhas, que celebraram juntos essa grande conquista.\nCom investimento de R$ 188.642,31, oriundos do FNDE e do VAAT, a nova unidade traz estrutura moderna e adequada, garantindo mais conforto e qualidade de ensino para os estudantes. O terreno foi doado pelo senhor Edward Teixeira de Sousa, em gesto de compromisso com a comunidade.\nA inauguração reforça o compromisso da Prefeitura de Amontada em investir na educação e no futuro das crianças e jovens.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "portuguese",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest"],
+  "topics": [
+    "Education->school",
+    "Education->educational grading",
+    "Education->primary education",
+    "Human Interest->graduation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:36:19.988+03:00",
+  "updated": "2025-09-18T08:43:06.000+03:00"
+}

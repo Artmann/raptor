@@ -1,0 +1,126 @@
+{
+  "thread": {
+    "uuid": "013221e8e52ad6b10fd60286e53d46c2761bee6e",
+    "url": "https://makassar.antaranews.com/berita/606685/bridging-cultures-science-and-friendship-unhas-ku-summer-program-2025-officially-concludes-in-bulukumba",
+    "site_full": "makassar.antaranews.com",
+    "site": "antaranews.com",
+    "site_section": "https://makassar.antaranews.com/foto",
+    "site_categories": ["media", "tech", "top_news_id", "top_news"],
+    "section_title": "Galeri Foto ANTARA News Makassar",
+    "site_title": "Berita terkini dan terpercaya Indonesia - ANTARA News",
+    "title": "Bridging Cultures, Science, and Friendship: UNHAS-KU Summer Program 2025 Officially Concludes in Bulukumba",
+    "title_full": "Bridging Cultures, Science, and Friendship: UNHAS-KU Summer Program 2025 Officially Concludes in Bulukumba",
+    "published": "2025-09-18T08:48:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ID",
+    "main_image": "https://cdn.antaranews.com/cache/1200x800/2025/09/18/180925-Unhas-KU2.jpg",
+    "performance_score": 0,
+    "domain_rank": 15527,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "013221e8e52ad6b10fd60286e53d46c2761bee6e",
+  "url": "https://makassar.antaranews.com/berita/606685/bridging-cultures-science-and-friendship-unhas-ku-summer-program-2025-officially-concludes-in-bulukumba",
+  "ord_in_thread": 0,
+  "author": "@antaramakassar",
+  "published": "2025-09-18T08:48:00.000+03:00",
+  "title": "Bridging Cultures, Science, and Friendship: UNHAS-KU Summer Program 2025 Officially Concludes in Bulukumba",
+  "text": "Makassar (ANTARA) - After being held from 31 August to 12 September 2025, the Hasanuddin University - Kanazawa University (UNHAS-KU) Summer Program 2025 officially concluded with a warm closing ceremony at Same Resort, Bulukumba.\nThis year marked the first implementation of the program, involving 20 participants from 7 countries. The participants consisted of 8 students from Kanazawa University, Japan, and 12 students from UNHAS, including both local and international students. The international participants represented Afghanistan, Nigeria, Sudan, Tanzania, and Yemen, showcasing the truly global spirit of the program.\nThe closing ceremony was officially led by the Head of the International Office of UNHAS, Andi Masyitha Irwan, S.Kep., Ns., MAN., Ph.D. In her remarks, she expressed hope that this program would not only bring benefits to all participants but also serve as a pioneer for future collaboration between UNHAS and KU in the field of summer programs.\nThe agenda also featured short reflections from participant representatives: Aoi Kimoto from KU and Said Sadallah Said from Tanzania, UNHAS. Both shared their gratitude and memorable experiences during the program, emphasising the importance of cross-cultural understanding, collaboration, and friendship.\nTo close the evening, all participants joined in a karaoke session while enjoying traditional Sarabba (a traditional spiced ginger drink from South Sulawesi) and fried banana and cassava, leaving behind laughter and cherished memories.\nFollowing the conclusion, the participants will return to Makassar, while students from Kanazawa University will directly proceed to Sultan Hasanuddin International Airport for their departure.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": [
+    "Education->social learning",
+    "Education->college and university",
+    "Education->students",
+    "Human Interest->graduation",
+    "Social Issue->communities",
+    "Social Issue->social networking",
+    "Social Issue->diversity, equity and inclusion"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Andi Masyitha Irwan",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Bulukumba",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Hasanuddin University",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "ANTARA",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "International Office of UNHAS",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Kanazawa University",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_id", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:09:31.651+03:00",
+  "updated": "2025-09-19T10:06:05.000+03:00"
+}

@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "7a4e38c62598367ecfbaccd7015358ba09fb11fc",
+    "url": "https://www.wxow.com/news/packers-tailgate-tour-coming-to-onalaska-april-10/article_04b4613c-d9d4-11ef-9497-03b687020d55.html",
+    "site_full": "www.wxow.com",
+    "site": "wxow.com",
+    "site_section": "http://www.wxow.com/search/?f=rss&t=article&c=&l=50&s=start_time&sd=desc",
+    "site_categories": ["media"],
+    "section_title": "www.wxow.com - RSS Results of type article",
+    "title": "Packers Tailgate Tour coming to Onalaska April 10",
+    "title_full": "Packers Tailgate Tour coming to Onalaska April 10",
+    "published": "2025-01-23T23:50:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/wxow.com/content/tncms/assets/v3/editorial/2/22/222e858b-8356-53a8-82d1-d01cbcb43b36/6140de8d26922.image.jpg?crop=1280%2C672%2C0%2C23&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 50764,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7a4e38c62598367ecfbaccd7015358ba09fb11fc",
+  "url": "https://www.wxow.com/news/packers-tailgate-tour-coming-to-onalaska-april-10/article_04b4613c-d9d4-11ef-9497-03b687020d55.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "WXOW",
+  "published": "2025-01-23T23:50:00.000+02:00",
+  "title": "Packers Tailgate Tour coming to Onalaska April 10",
+  "text": "Menu Search Open user controls Log In Using Your Account Log In Don't have an account? Sign Up Today My Account Dashboard Profile Saved items Logout Mental Health Crisis Find Resources Here Download Now: WXOW Weather and News Apps Close By Kevin Millard Facebook Twitter WhatsApp SMS Email Print Copy article link Save Packers Tailgate Tour coming to Onalaska April 10 WXOW Jan 23, 2025 Jan 23, 2025 0 By Kevin Millard Facebook Twitter WhatsApp SMS Email Print Copy article link Save The Green Bay Packers are coming to Onalaska in April.\nLA CROSSE, Wis. (WXOW) - The Green Bay Packers are coming to Onalaska in April.\nThe team announced their annual Packers Tailgate Tour stops for this year.\nIt begins in Milwaukee on April 8, stops in Madison on April 9, Onalaska on April 10, Wausau on April 11, and Green Bay on April 12.\nThe public event is at the Stoney Creek Hotel in Onalaska from 6-8 p.m. with doors opening at 5 p.m.\nIt's hosted by the Hunger Task Force.\nThere's 325 tickets available for the fundraising event. Each ticket is $75 per person.\nThey're available at the Hunger Task Force website.\nOn the tour this year are current and former players including current players Josh Jacobs, Tucker Kraft and Lukas Van Ness and alumni players Ahman Green, Jermichael Finley and John Michels on the tour bus along with Packers President/CEO Mark Murphy.\nIt's expected that during the tour, they'll stop at schools, hospitals, and businesses. Those details weren't released by the team.\nFacebook Twitter WhatsApp SMS Email Print Copy article link Save More From News 19 Recommended for you",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->sport event",
+    "Sport->american football",
+    "Lifestyle and Leisure->outdoor recreational activities",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://tickets.aroundrivercity.com/events/packer-tailgate-tour",
+    "https://www.tickets.aroundrivercity.com/events/packer-tailgate-tour"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jermichael Finley",
+        "sentiment": "none"
+      },
+      {
+        "name": "Lukas Van Ness",
+        "sentiment": "none"
+      },
+      {
+        "name": "John Michels",
+        "sentiment": "none"
+      },
+      {
+        "name": "Josh Jacobs",
+        "sentiment": "none"
+      },
+      {
+        "name": "Mark Murphy",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "Stoney Creek Hotel",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:21:02.311+02:00",
+  "updated": "2025-01-31T06:10:48.565+02:00"
+}

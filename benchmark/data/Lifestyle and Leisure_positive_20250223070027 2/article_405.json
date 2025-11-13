@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "aab95e07e59f69628f4ad42ecdb49dd661287cca",
+    "url": "https://article.wn.com/view/2025/01/23/Victor_Wembanyama_scores_30_and_Spurs_roll_past_Pacers_in_Pa_x",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/basketball",
+    "site_categories": ["media"],
+    "section_title": "World News - Basketball",
+    "title": "Victor Wembanyama scores 30, and Spurs roll past Pacers in Paris 140-110 - Worldnews.com",
+    "title_full": "Victor Wembanyama scores 30, and Spurs roll past Pacers in Paris 140-110 - Worldnews.com",
+    "published": "2025-01-23T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3682,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "aab95e07e59f69628f4ad42ecdb49dd661287cca",
+  "url": "https://article.wn.com/view/2025/01/23/Victor_Wembanyama_scores_30_and_Spurs_roll_past_Pacers_in_Pa_x",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2025-01-23T02:00:00.000+02:00",
+  "title": "Victor Wembanyama scores 30, and Spurs roll past Pacers in Paris 140-110 - Worldnews.com",
+  "text": "Victor Wembanyama scored 30 points in his first NBA game on his native French soil, Devin Vassell added 25 and the San Antonio Spurs beat the Indiana Pacers 140-110. Wembanyama finished with 11 rebounds, six assists and five blocks for read full story",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->sport event",
+    "Sport->sport achievement",
+    "Sport->basketball",
+    "Human Interest->record and achievement",
+    "Lifestyle and Leisure->exercise and fitness",
+    "Lifestyle and Leisure->lifestyle",
+    "Lifestyle and Leisure->game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.weatherforddemocrat.com/ap/sports/victor-wembanyama-scores-30-and-spurs-roll-past-pacers-in-paris-140-110/article_6383d974-abed-5b45-a9f2-cc8ccfe51141.html",
+    "https://weatherforddemocrat.com/ap/sports/victor-wembanyama-scores-30-and-spurs-roll-past-pacers-in-paris-140-110/article_6383d974-abed-5b45-a9f2-cc8ccfe51141.html"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Victor Wembanyama",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Devin Vassell",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "San Antonio Spurs",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Indiana Pacers",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:18:39.439+02:00",
+  "updated": "2025-01-24T00:18:39.439+02:00"
+}

@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "377f9380d559ecc493112f1cc6db0ed6e2c2f752",
+    "url": "https://www.djournal.com/news/national/methane-leaks-from-energy-production-transportation-infrastructures----such-as-gas-pipelines-/image_7a74e38c-d117-58dd-9ca8-5796eef3ae79.html",
+    "site_full": "www.djournal.com",
+    "site": "djournal.com",
+    "site_section": "http://www.djournal.com/search/?f=rss&amp;t=article&amp;c=new-albany&amp;l=50&amp;s=start_time&amp;sd=desc",
+    "site_categories": ["media"],
+    "section_title": "www.djournal.com - RSS Results",
+    "site_title": "Daily Journal | Northeast Mississippi news & sports",
+    "title": "Methane leaks from energy production, transportation infrastructures -- such as gas pipelines -- and from deliberate releases during maintenance | News | djournal.com",
+    "title_full": "Methane leaks from energy production, transportation infrastructures -- such as gas pipelines -- and from deliberate releases during maintenance | News | djournal.com",
+    "published": "2025-05-08T01:07:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/7/a7/7a74e38c-d117-58dd-9ca8-5796eef3ae79/681afaeba5b1a.image.jpg?crop=341%2C341%2C85%2C0&amp;resize=200%2C200&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 19755,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "377f9380d559ecc493112f1cc6db0ed6e2c2f752",
+  "url": "https://www.djournal.com/news/national/methane-leaks-from-energy-production-transportation-infrastructures----such-as-gas-pipelines-/image_7a74e38c-d117-58dd-9ca8-5796eef3ae79.html",
+  "ord_in_thread": 0,
+  "author": "JOE RAEDLE",
+  "published": "2025-05-08T01:07:00.000+03:00",
+  "title": "Methane leaks from energy production, transportation infrastructures -- such as gas pipelines -- and from deliberate releases during maintenance | News | djournal.com",
+  "text": "Methane leaks from energy production, transportation infrastructures -- such as gas pipelines -- and from deliberate releases during maintenance\n- JOE RAEDLE\n- Updated\nTags\nAs featured on\nRecord fossil fuel production kept planet-heating methane emissions near historic highs last year, the International Energy Agency said Wednesday, warning of a surge in massive leaks from oil and gas facilities.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue"],
+  "topics": [
+    "Environment->environmental pollution",
+    "Environment->energy saving",
+    "Social Issue->social condition",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": false,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "International Energy Agency",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T01:37:00.985+03:00",
+  "updated": "2025-05-07T22:39:45.000+00:00"
+}

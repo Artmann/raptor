@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "a709ab47e525f2cc55d5b84d6fa989747d94b3d9",
+    "url": "https://www.fool.com/investing/2023/12/28/why-fannie-mae-freddie-mac-and-redfin-soared-this/",
+    "site_full": "www.fool.com",
+    "site": "fool.com",
+    "site_section": "https://fool.com/investing-news",
+    "site_categories": ["investing", "finance"],
+    "section_title": "Motley Fool News & Analysis | The Motley Fool",
+    "title": "Why Fannie Mae, Freddie Mac, and Redfin Soared This Week | The Motley Fool",
+    "title_full": "Why Fannie Mae, Freddie Mac, and Redfin Soared This Week | The Motley Fool",
+    "published": "2023-12-28T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://g.foolcdn.com/editorial/images/759639/homebuying-home-mortgage.jpg",
+    "performance_score": 0,
+    "domain_rank": 705,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a709ab47e525f2cc55d5b84d6fa989747d94b3d9",
+  "url": "https://www.fool.com/investing/2023/12/28/why-fannie-mae-freddie-mac-and-redfin-soared-this/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Steve Symington",
+  "published": "2023-12-28T02:00:00.000+02:00",
+  "title": "Why Fannie Mae, Freddie Mac, and Redfin Soared This Week | The Motley Fool",
+  "text": "Shares of Federal National Mortgage Association ( FNMA 6.80% ) , also known as Fannie Mae, are up 11.6% this week as of Thursday's close, according to data provided by S&P Global Market Intelligence . Federal Home Loan Mortgage Corp ( FMCC 5.51% ) , also known as Freddie Mac, and online real estate platform Redfin (NASDAQ: RDFN) are also each up more than 9% this week as of this writing.\nTheir catalyst in common: Lower mortgage-interest rates are bolstering home affordability, mortgage activity, and new home listings.\nMortgage applications and new listings are surging In a press release last week, Fannie Mae's Economic and Strategic Research (ESR) Group predicted a \"mild economic downturn\" in 2024, \"including stretched consumer spending relative to personal incomes and the continued effects of restrictive monetary policy still working through the economy.\"\nBut the group also forecasts a return to growth in 2025. Thanks to a sharp decline in mortgage- interest rates in recent weeks, mortgage applications have already rebounded roughly 15% from their trough in November. Fannie Mae added that it expects this trend to continue if mortgage rates keep falling.\nIndeed, according to data released earlier today by Freddie Mac, the average mortgage rate for a 30-year fixed-rate loan declined to 6.61% this week, marking its lowest level since May. This was also the ninth straight week of declines since mortgage-interest rates hit their highest level in 22 years in late October.\nMeanwhile, according to Redfin last week, those interest-rate declines have already resulted in a double-digit percent increase in homeowners contacting real estate agents for help in selling their homes. Redfin added that new listings also promptly climbed 9% year over year, good for the highest annual bump since July 2021. And in a press release this morning, Redfin said that U.S. pending home sales have declined 4% year over year in the four weeks ending Dec. 24 -- the metric's smallest drop in nearly two years.\nWhat's next for rates, home sales in 2024? As Fannie Mae indicated, the encouraging real estate and mortgage-market trends can be traced back to recent actions by the U.S. Federal Reserve. The Fed previously implemented a historically fast pace of rate hikes between March 2022 and August 2023 with the aim of cooling economic growth and curbing high inflation. But as the ripple effects of the resulting slowdown have become more clear and inflation trends toward the Fed's target 2% level, last month Fed officials held the federal funds rate steady for the third straight month. More importantly, they also indicated that at least three rate reductions are on the way in 2024.\nTo be clear, the Fed doesn't directly set mortgage rates. But its monetary policy does influence mortgage lenders as they determine how much interest to charge on the loans they write.\nIn any case, the news represents a reprieve for fatigued home shoppers. Redfin also recently revealed that only 15.5% home listings in the U.S. were \"affordable\" last year as measured by home prices and average household incomes. That marked the metric's lowest share of affordable homes on record.\nThat's not to say the current headwinds holding back the housing and mortgage markets will abate entirely in the near future. To the contrary, Fannie Mae researchers suggest that a combination of affordability challenges, low inventories, and the \"lock-in effect\" of existing homeowners with low rates on their mortgages will more likely mean there will be a \"meaningful but slow\" recovery in home sales in the coming year.\nBut however slow that recovery ends up being, it'll still be great news not only for the average homebuyer but also for businesses that are perfectly positioned to benefit from the rebound in the housing market like Redfin, Fannie Mae, and Freddie Mac.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance"],
+  "external_links": [
+    "https://marketintelligence.spglobal.com/",
+    "https://www.marketintelligence.spglobal.com/",
+    "https://marketintelligence.spglobal.com"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "freddie mac",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "motley fool shares of federal national mortgage association",
+        "sentiment": "negative"
+      },
+      {
+        "name": "fannie mae",
+        "sentiment": "negative"
+      },
+      {
+        "name": "redfin",
+        "sentiment": "negative"
+      },
+      {
+        "name": "s&p global market intelligence",
+        "sentiment": "none"
+      },
+      {
+        "name": "economic and strategic research",
+        "sentiment": "none"
+      },
+      {
+        "name": "freddie mac",
+        "sentiment": "none"
+      },
+      {
+        "name": "federal home loan mortgage corp",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T02:27:09.151+02:00",
+  "updated": "2023-12-29T02:27:09.151+02:00"
+}

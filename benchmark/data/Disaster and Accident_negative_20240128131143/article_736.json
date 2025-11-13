@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "f62ccec748d54e8f392aeb8f2c311585fcd35654",
+    "url": "https://stackoverflow.com/questions/77728596/netlify-integration-with-planetscale-acting-weird",
+    "site_full": "stackoverflow.com",
+    "site": "stackoverflow.com",
+    "site_section": "https://stackoverflow.com/questions/tagged/prisma?tab=newest&pagesize=15",
+    "site_categories": ["tech", "non_standard_content", "adult"],
+    "section_title": "Newest &#39;prisma&#39; Questions - Stack Overflow",
+    "title": "next.js - Netlify Integration with planetScale acting weird - Stack Overflow",
+    "title_full": "next.js - Netlify Integration with planetScale acting weird - Stack Overflow",
+    "published": "2023-12-28T20:46:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+    "performance_score": 0,
+    "domain_rank": 190,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f62ccec748d54e8f392aeb8f2c311585fcd35654",
+  "url": "https://stackoverflow.com/questions/77728596/netlify-integration-with-planetscale-acting-weird",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Mower",
+  "published": "2023-12-28T20:46:00.000+02:00",
+  "title": "next.js - Netlify Integration with planetScale acting weird - Stack Overflow",
+  "text": "I am creating a NextJS project using prisma and planetScale database. Everything works on localhost, but not on netlify. The database connection works, I can log in and log out. In the admin menu you can create new posts and list them. The problem is the following:\nListing is like caching and even if I delete items from the database, they are still listed on the page. If I log out and back in it will be fine, but on localhost it immediately disappears from there too. The other (and bigger) problem is that in production the create function runs to 404, even though localhost works flawlessly. I do not understand the reason for the 404, because all other routes work perfectly. For now, I am using the same database on local and in production that I created on planetScale.\nHere is the code of the create function:\n'use client' async function onSubmit(event:) { event.preventDefault(); const formData = new FormData(event.target); const form = Object.fromEntries(formData); const response = await createHowItsMade(form) if (!response) { toast.error(\"Could not save!\") return } toast.success(\"Saved successfully\") push(\"/admin/how-its-made\") }\n'use server' export async function createHowItsMade (data): Promise<boolean> { try { await prisma.howItsMade.create({ data: { title: data.title, position: parseInt(data.position), description: data.description, } }) revalidatePath(\"/admin/how-its-made\") return true } catch (error) { return false } }\nAny help would be much appreciated since I have no clue where to start.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Disaster and Accident",
+    "Social Issue"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "sav",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:09:34.039+02:00",
+  "updated": "2023-12-29T01:09:34.039+02:00"
+}

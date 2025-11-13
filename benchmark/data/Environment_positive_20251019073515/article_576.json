@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "078617034f3894b129ab97c33fae50343b9ab54c",
+    "url": "https://en.antaranews.com/news/386369/belitung-aims-to-become-carbon-free-island-boost-green-tourism",
+    "site_full": "en.antaranews.com",
+    "site": "antaranews.com",
+    "site_section": "https://en.antaranews.com",
+    "site_categories": ["media", "top_news_id", "top_news"],
+    "section_title": "Latest Indonesia News - ANTARA News",
+    "site_title": "Berita terkini dan terpercaya Indonesia - ANTARA News",
+    "title": "Belitung aims to become carbon-free island, boost green tourism - ANTARA News",
+    "title_full": "Belitung aims to become carbon-free island, boost green tourism - ANTARA News",
+    "published": "2025-10-16T13:55:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ID",
+    "main_image": "https://cdn.antaranews.com/cache/1200x800/2025/10/16/WhatsApp-Image-2025-10-16-at-08.12.59_1.jpeg",
+    "performance_score": 0,
+    "domain_rank": 15527,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "078617034f3894b129ab97c33fae50343b9ab54c",
+  "url": "https://en.antaranews.com/news/386369/belitung-aims-to-become-carbon-free-island-boost-green-tourism",
+  "ord_in_thread": 0,
+  "author": "Kasmono, Kenzu",
+  "published": "2025-10-16T13:55:00.000+03:00",
+  "title": "Belitung aims to become carbon-free island, boost green tourism - ANTARA News",
+  "text": "Belitung aims to become carbon-free island, boost green tourism October 16, 2025 17:55 GMT+700\nBelitung District Head Djoni Alamsyah Hidayat in Tanjungpandan, Belitung, Bangka Belitung Islands, Thursday, October 16, 2025. ANTARA/Apriliansyah Belitung, Bangka Belitung (ANTARA) - Belitung is set to become a carbon-free island as part of a wider push for low-emission development, clean air, and sustainable environmental practices, Belitung District Head Djoni Alamsyah Hidayat said on Thursday.\nBelitung is among the top 10 tourism destinations prioritized by President Prabowo Subianto, underscoring its strategic national importance.\n“In addition to being one of the 10 presidential tourism priority cities, Belitung is also listed among 50 national priority cities,” Hidayat told reporters.\nOver the past six months, the district government has worked with the National Urban Development Project (NUDP) and Integrated City Planning (ICP) to design a long-term development blueprint.\nThe plan envisions Belitung not just as a tourist destination but as a modern, productive, and environmentally friendly city that harmonizes economic growth, cultural heritage, and natural preservation.\nRelated news: UAE delegates join mangrove-planting activity in Belitung\n“We are also preparing to make Belitung a carbon-free island. That’s why our slogan is, ‘Live one day in Belitung, gain one extra hour of life,’” he said.\nThe slogan, Hidayat added, reflects the island’s exceptionally clean air—considered among the best in Indonesia—and a collective commitment to protect it.\nWith strong backing from the central government and support from local communities, Hidayat expressed confidence that Belitung will emerge as a national model for sustainable, green, and culturally rich tourism development.\nHe emphasized that Belitung’s designation as both a national and tourism priority city signals its growing role in Indonesia’s future development.\n“This is our motivation to accelerate inclusive, targeted development that truly benefits local communities,” he said.\nBelitung has also been included in the National Medium-Term Development Plan (RPJMN) as a strategic city expected to drive new economic growth through tourism, environmental sustainability, and creative industries, he added.\nRelated news: Bangka Belitung wants international flights to province to be reopened\nTranslator: Kasmono, Kenzu\nEditor: Rahmad Nasution\nCopyright © ANTARA 2025",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->energy saving", "Environment->sustainability"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Hidayat",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Bangka Belitung Islands",
+        "sentiment": "none"
+      },
+      {
+        "name": "Tanjungpandan",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "ANTARA News",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "National Urban Development Project",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_id", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:14:57.420+03:00",
+  "updated": "2025-10-17T16:12:14.000+03:00"
+}

@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "fd95348fb526ed67cadc2bf94af1e1241d06436c",
+    "url": "https://infolocale.actu.fr/collectivites-institutions/organisme-ville-de-plouhinec-429708/evenement-plouhinec-activite-de-loisirs-bebes-lecteurs-8604699",
+    "site_full": "infolocale.actu.fr",
+    "site": "actu.fr",
+    "site_section": "https://actu.fr/bretagne/penmarch_29158",
+    "site_categories": ["top_news_be", "top_news_fr", "top_news"],
+    "section_title": "Actu Penmarch | actu.fr",
+    "site_title": "Actu : toute l&#039;information locale et nationale en direct",
+    "title": "Bébés lecteurs",
+    "title_full": "Bébés lecteurs",
+    "published": "2025-09-18T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://photos.infolocale.fr/infoLocale/annonce/2025/0630/8604699/_1.jpg",
+    "performance_score": 0,
+    "domain_rank": 1232,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fd95348fb526ed67cadc2bf94af1e1241d06436c",
+  "url": "https://infolocale.actu.fr/collectivites-institutions/organisme-ville-de-plouhinec-429708/evenement-plouhinec-activite-de-loisirs-bebes-lecteurs-8604699",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T03:00:00.000+03:00",
+  "title": "Bébés lecteurs",
+  "text": "Jeudi 18 septembre 2025 de 10h30 à 11h00\nBébés lecteurs\nProposé par\nVille de Plouhinec\nAccompagnateurs (parents, grands-parents, assistantes maternelles), venez avec vos bouts de choux de 0 à 3 ans afin d'écouter des histoires, comptines ou chansons.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest"],
+  "topics": [
+    "Education->parents group",
+    "Education->early childhood education",
+    "Education->social learning",
+    "Human Interest->high society"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_be", "top_news_fr", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:30:31.269+03:00",
+  "updated": "2025-09-18T08:35:30.000+03:00"
+}

@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "d2e48b014f9f0c845e85a30a867bb01263850c1c",
+    "url": "https://www.europapress.es/asturias/noticia-covadonga-tome-ve-preocupante-actitud-eva-ledo-mantenimiento-conciertos-educativos-20250626111115.html",
+    "site_full": "www.europapress.es",
+    "site": "europapress.es",
+    "site_section": "https://www.europapress.es/noticias",
+    "site_categories": ["media", "top_news_es", "top_news_pe", "top_news"],
+    "section_title": "\r\n\t Últimas Noticias - EUROPA PRESS\r\n",
+    "site_title": "Europa Press -  Agencia de noticias",
+    "title": "Covadonga Tomé ve \"preocupante\" la actitud de Eva Ledo por el mantenimiento de los conciertos educativos",
+    "title_full": "Covadonga Tomé ve \"preocupante\" la actitud de Eva Ledo por el mantenimiento de los conciertos educativos",
+    "published": "2025-06-26T12:11:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://img.europapress.es/fotoweb/fotonoticia_20250626111115_1200.jpg",
+    "performance_score": 0,
+    "domain_rank": 2706,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d2e48b014f9f0c845e85a30a867bb01263850c1c",
+  "url": "https://www.europapress.es/asturias/noticia-covadonga-tome-ve-preocupante-actitud-eva-ledo-mantenimiento-conciertos-educativos-20250626111115.html",
+  "ord_in_thread": 0,
+  "author": "Europa Press",
+  "published": "2025-06-26T12:11:00.000+03:00",
+  "title": "Covadonga Tomé ve \"preocupante\" la actitud de Eva Ledo por el mantenimiento de los conciertos educativos",
+  "text": "OVIEDO 26 Jun. (EUROPA PRESS) -\nLa diputada del Grupo Mixto en la Junta General del Principado de Asturias Covadonga Tomé ha tildado este jueves de \"preocupante\" la actitud de la nueva consejera de Educación asturiana, Eva Ledo, en relación a los conciertos educativos. \"No parece corresponderse con un gobierno que se dice progresista y reformista\", ha indicado.\nTomé ha dicho que Ledo dejó claro en el último pleno parlamentario que no tiene previsto suspender los acuerdos con las tres escuelas infantiles privadas con las que existe un concierto, a pesar de la implantación de la red pública en esa etapa.\nHa dicho que esos conciertos suponen 282.450 euros anuales para las arcas autonómicas. Los centros son: San Eutiquio, La Sagrada Familia en Corvera y El Bibio en Gijón.\nLas dos primeras, además, son gestionadas por la Fundación Educatio Servanda. \"Esta institución es conocida por polémicas ligadas a la homofobia, el machismo. Sus escuelas son el think tank de la ultraderecha\", apuntó Tomé.\nLa parlamentaria considera \"muy decepcionante\" que Eva Ledo defienda el mantenimiento de estos conciertos \"porque tienen 'una tradición histórica' y porque es 'un modelo heredado de otra época'\".",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Politics", "Education"],
+  "topics": [
+    "Politics->education policy",
+    "Politics->political process",
+    "Education->private school",
+    "Education->state school",
+    "Education->educational grading"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_es", "top_news_pe", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T12:24:50.499+03:00",
+  "updated": "2025-06-27T10:08:57.000+00:00"
+}

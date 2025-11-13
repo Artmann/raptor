@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "6f35a3c9da185b4a82c743e40f859c2b661e3ac4",
+    "url": "https://www.elesquiu.com/sociedad/2025/9/18/realizaron-jornadas-de-difusion-de-la-ingenieria-en-agrimensura-568589.html",
+    "site_full": "www.elesquiu.com",
+    "site": "elesquiu.com",
+    "site_section": "https://elesquiu.com",
+    "site_categories": ["tech", "top_news_ar", "top_news"],
+    "section_title": "El Esquiu -  Diario de Catamarca - Argentina",
+    "site_title": "El Esquiu -  Diario de Catamarca - Argentina",
+    "title": "Realizaron jornadas de difusión de la Ingeniería en Agrimensura",
+    "title_full": "Realizaron jornadas de difusión de la Ingeniería en Agrimensura",
+    "published": "2025-09-18T05:12:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "https://www.elesquiu.com/u/fotografias/m/2025/9/18/f1280x720-566824_698499_5050.jpg",
+    "performance_score": 0,
+    "domain_rank": 76586,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6f35a3c9da185b4a82c743e40f859c2b661e3ac4",
+  "url": "https://www.elesquiu.com/sociedad/2025/9/18/realizaron-jornadas-de-difusion-de-la-ingenieria-en-agrimensura-568589.html",
+  "ord_in_thread": 0,
+  "author": "Redacción El Esquiu",
+  "published": "2025-09-18T05:12:00.000+03:00",
+  "title": "Realizaron jornadas de difusión de la Ingeniería en Agrimensura",
+  "text": "La Facultad de Tecnología y Ciencias Aplicadas de la UNCA, a través de su Departamento de Agrimensura, realizó una serie de jornadas en escuelas secundarias de distintos departamentos de la provincia, con el propósito de acercar la universidad al interior y dar a conocer su propuesta académica.\nLas actividades se llevaron a cabo en Andalgalá, Belén, Londres, Hualfín, Tinogasta, Fiambalá, Pomán y Saujil, donde se difundió de manera particular la carrera de Ingeniería en Agrimensura, destacando su plan de estudios, campo de aplicación y relevancia en la gestión territorial.\nAl mismo tiempo, se realizó la presentación del conjunto de carreras que integran la oferta académica de la Facultad de Tecnología y Ciencias Aplicadas, exponiendo a los estudiantes de los últimos años del nivel secundario un panorama completo sobre las oportunidades de formación superior en la UNCA.\nDurante los encuentros, también se informó a los jóvenes acerca de los beneficios y programas de becas y ayudas que la universidad pone a disposición para acompañar la permanencia y el progreso académico de sus estudiantes, incluyendo apoyos económicos, comedor y residencia.\n“La iniciativa fue posible gracias al apoyo financiero de la Federación Argentina de Agrimensores (FADA) y al compromiso de la Facultad de Tecnología y Ciencias Aplicadas, con la participación activa de docentes y estudiantes avanzados en la organización y desarrollo de las presentaciones”, expresaron en un comunicado desde el Departamento de Agrimensura.\nEvalúan que “la propuesta tuvo una gran receptividad por parte de los alumnos y fue muy bien recibida por los directivos de las escuelas, quienes en muchos casos destacaron y agradecieron la posibilidad de contar con la presencia de la universidad en sus localidades, subrayando que en otras oportunidades no habían tenido acceso a este tipo de actividades”.\nAsimismo, consideran que, de esta manera, la UNCA fortalece su presencia en el interior provincial y consolida el vínculo con la comunidad educativa, acercando a los jóvenes no solo su propuesta académica, sino también las herramientas de acompañamiento que hacen posible el acceso y la continuidad en la educación superior pública”.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Education->college and university",
+    "Education->vocational education",
+    "Education->students",
+    "Lifestyle and Leisure->lifestyle",
+    "Lifestyle and Leisure->travel and tourism"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Agrimensura",
+        "sentiment": "none"
+      },
+      {
+        "name": "Tinogasta",
+        "sentiment": "none"
+      },
+      {
+        "name": "Andalgalá",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "UNCA",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Departamento de Agrimensur",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Facultad de Tecnología y Ciencias Aplicadas",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ar", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:17:08.597+03:00",
+  "updated": "2025-09-18T09:28:43.000+03:00"
+}

@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "5f0abb54de8bfc20a5c4b90d8f8980a92782d5bf",
+    "url": "https://cadenaser.com/andalucia/2025/10/16/la-universidad-de-malaga-la-tercera-mas-sostenible-de-espana-ser-malaga/",
+    "site_full": "cadenaser.com",
+    "site": "cadenaser.com",
+    "site_section": "https://cadenaser.com/ccaa/andalucia",
+    "site_categories": [
+      "music",
+      "hobbies_and_interests",
+      "radio",
+      "entertainment"
+    ],
+    "section_title": "Cadena SER: Emisoras en ",
+    "site_title": "Cadena SER: Noticias y Radio Online",
+    "title": "La Universidad de Málaga, la tercera más sostenible de España",
+    "title_full": "La Universidad de Málaga, la tercera más sostenible de España",
+    "published": "2025-10-16T13:50:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://cadenaser.com/resizer/v2/SQGODTDSOFCI5C3JXQDXE5FSZA.jpeg?auth=d9ad40ea237a3b188a2f0bf611bdca188bf4d022ba033730f155136740e2674f&amp;quality=70&amp;width=1200&amp;height=675&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 5270,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5f0abb54de8bfc20a5c4b90d8f8980a92782d5bf",
+  "url": "https://cadenaser.com/andalucia/2025/10/16/la-universidad-de-malaga-la-tercera-mas-sostenible-de-espana-ser-malaga/",
+  "ord_in_thread": 0,
+  "author": "Cadena SER",
+  "published": "2025-10-16T13:50:00.000+03:00",
+  "title": "La Universidad de Málaga, la tercera más sostenible de España",
+  "text": "La Universidad de Málaga, la tercera más sostenible de España\nMálaga\nLa Universidad de Málaga ha alcanzado la tercera posición en el Ranking CYD 2025, elaborado por la Fundación Conocimiento y Desarrollo, que evalúa el rendimiento de las universidades españolas en función de indicadores relacionados con la sostenibilidad social y medioambiental. Este ranking, el primero en España dedicado a esta dimensiones, destaca su compromiso con la responsabilidad social y la gestión ambiental.\nSegún los resultados publicados, la UMA se posiciona en el tercer lugar, superando a otras instituciones destacadas en el ámbito nacional. Esta clasificación refleja los esfuerzos de la universidad malagueña en áreas como la inclusión social, la accesibilidad, la eficiencia energética y la reducción de su huella ecológica.\nEl rector de la Universidad de Málaga, Teodomiro López, se mostró orgulloso por el reconocimiento y destacó que la clasificación “es un reflejo del trabajo constante y responsable de toda la comunidad universitaria” y que sirve para reafirmar \"el compromiso de la Universidad con los Objetivos de Desarrollo Sostenible”. Además, subrayó que numerosas iniciativas medioambientales generan además ahorros significativos, a la vez que fortalecen la relación de la universidad con la sociedad.\nEl vicerrector de Infraestructuras y Sostenibilidad, Salvador Merino, puso el foco en la apuesta energética de la UMA: “Nos sentimos orgullosos de contribuir al cumplimiento de los Objetivos de Desarrollo Sostenible. En particular, la universidad se ha comprometido, mediante concurso público, a desarrollar un gran parque fotovoltaico en la cubierta de cada uno de sus edificios. Estos estarán interconectados gracias a un anillo eléctrico, lo que permitirá producir toda la energía que consumimos a partir de fuentes renovables”.\nMerino subrayó que el proyecto no solo convierte a la UMA en un campus sostenible, sino que también potencia la investigación en energías renovables. “Para nosotros significa mostrar al mundo un modelo europeo integrado en energías limpias y convertir nuestro campus en un laboratorio abierto para toda la comunidad universitaria”, añadió.\nEl Ranking CYD 2025 evaluó a 82 universidades españolas en 36 indicadores agrupados en cinco dimensiones: enseñanza y aprendizaje, investigación, transferencia de conocimiento, internacionalización y contribución al desarrollo regional. La UMA ha demostrado un rendimiento especialmente destacado en la dimensión de sostenibilidad, consolidándose como una de las principales universidades en este ámbito en España.\nEste reconocimiento refuerza la posición de la Universidad de Málaga como institución comprometida con la sostenibilidad y el desarrollo social, alineándose con los objetivos globales de la Agenda 2030.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Education", "Environment"],
+  "topics": [
+    "Education->college and university",
+    "Environment->sustainability"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Teodomiro López",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Universidad de Málaga",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Fundación Conocimiento y Desarrollo",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:21:04.333+03:00",
+  "updated": "2025-10-16T16:33:17.000+03:00"
+}

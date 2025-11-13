@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "ff962fd4deb548f52a76e8d7c5e04cdecdb63af1",
+    "url": "https://www.fox2detroit.com/news/couple-with-three-kids-infant-lead-detroit-police-chase-run-into-abandoned-home",
+    "site_full": "www.fox2detroit.com",
+    "site": "fox2detroit.com",
+    "site_section": "https://www.fox2detroit.com/",
+    "site_categories": ["media", "non_standard_content"],
+    "section_title": "FOX 2 Detroit",
+    "title": "Couple with three kids & infant lead Detroit police chase, run into abandoned home",
+    "title_full": "Couple with three kids & infant lead Detroit police chase, run into abandoned home",
+    "published": "2024-04-25T22:54:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2024/04/1280/720/Screenshot-2024-04-25-at-2.46.49-PM.png?ve=1&amp;tl=1",
+    "performance_score": 0,
+    "domain_rank": 7917,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ff962fd4deb548f52a76e8d7c5e04cdecdb63af1",
+  "url": "https://www.fox2detroit.com/news/couple-with-three-kids-infant-lead-detroit-police-chase-run-into-abandoned-home",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "FOX 2 Staff",
+  "published": "2024-04-25T22:54:00.000+03:00",
+  "title": "Couple with three kids & infant lead Detroit police chase, run into abandoned home",
+  "text": "DETROIT (FOX 2) - Michigan State Police have released video of a chase in Detroit from Wednesday where two adults ran from police – and were spotted running into an abandoned home with three young children.\nMSP said it was called to help Detroit Police track down the driver of a Jeep that ran from a traffic stop.\nThe helicopter picked up the Jeep driving south on Woodrow Wilson before the car turned east onto Webb and crossed over tot he other side of the Lodge.\nVideo from MSP cut to the vehicle pulling up in front of an abandoned home. The night vision from MSP&apos;s chopper showed three young children climbing out of the car and running towards the home.\nPolice did not say where the home was located.\nAlong with the three children who ran into the home, police also spotted one of the adults pulling an infant in a car seat from the vehicle. In the video from MSP, an officer can be heard calling to have the baby checked out as a precaution.\n\"These suspects showed no regard for the safety of the children in the car or those driving around them. Great work by our pilots and DPD to take these suspects into custody without anyone getting hurt,\" MSP Lt. Mike Shaw said.\nMichigan State Police said a two adults with young kids led a police chase -- and eventually ran inside of an abandoned home with the children.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Human Interest", "Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "woodrow wilson",
+        "sentiment": "none"
+      },
+      {
+        "name": "webb",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "michigan state police",
+        "sentiment": "negative"
+      },
+      {
+        "name": "dpd",
+        "sentiment": "none"
+      },
+      {
+        "name": "msp",
+        "sentiment": "none"
+      },
+      {
+        "name": "detroit police",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "detroit",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:18:53.722+03:00",
+  "updated": "2024-04-26T00:18:53.722+03:00"
+}

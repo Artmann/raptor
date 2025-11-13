@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "336c3bf2a99de40489dd6ba5c3e14a630cd9c306",
+    "url": "https://www.washingtonpost.com/business/2023/12/28/blendjet-recall-blades-fire-hazard-injuries/",
+    "site_full": "www.washingtonpost.com",
+    "site": "washingtonpost.com",
+    "site_section": "https://www.washingtonpost.com",
+    "site_categories": ["media", "law_government_and_politics", "politics"],
+    "section_title": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post",
+    "title": "BlendJet recalls almost 5 million blenders on concerns over fire, blades - The Washington Post",
+    "title_full": "BlendJet recalls almost 5 million blenders on concerns over fire, blades - The Washington Post",
+    "published": "2023-12-29T00:01:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L6JVSLQCCO6BE6FCHVCPESEOVM.JPG&amp;w=1440",
+    "performance_score": 0,
+    "domain_rank": 104,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "336c3bf2a99de40489dd6ba5c3e14a630cd9c306",
+  "url": "https://www.washingtonpost.com/business/2023/12/28/blendjet-recall-blades-fire-hazard-injuries/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Eli Tan",
+  "published": "2023-12-29T00:01:00.000+02:00",
+  "title": "BlendJet recalls almost 5 million blenders on concerns over fire, blades - The Washington Post",
+  "text": "An earlier version of this article misstated the number of injuries attributed to the BlendJet 2 devices. Fifty injuries have been reported, not hundreds. This article has been corrected. The China-manufactured blenders were sold between October 2020 and November 2023, retailing for $50 to $70, according to the commission. BlendJet is based in Benicia, Calif. In a statement to The Post, the company blamed many of the incidents on customers’ use of “low-quality” chargers and attempts to crush ice without first adding liquid. But BlendJet also said it has updated the blenders’ design with a new base that has “thicker blades and an improved electrical configuration.” Customers can contact the company for a free replacement, according to BlendJet’s website. Owners of the blenders can enter their devices’ serial numbers on the company’s site to see whether they’re part of the recall. “You should immediately stop using your BlendJet 2 until you verify if your product is recalled,” the company said. A report by Consumer Reports raised safety concerns about the blender in August, though it wasn’t recalled until Thursday. In one complaint filed to the Consumer Product Safety Commission on Aug. 18, a BlendJet customer reported that “the blade in the portable mini blender broke off and almost became part of the morning breakfast.” BlendJet 2 blenders that are currently for sale are not subject to the recall, the company said. - December 28, 2023December 28, 2023 - Honda recalls 2.6 million vehicles in U.S. over fuel pump defectDecember 22, 2023Honda recalls 2.6 million vehicles in U.S. over fuel pump defectDecember 22, 2023 - FDA finds ‘extremely high’ lead levels in cinnamon in applesauce at Ecuador plantDecember 19, 2023FDA finds ‘extremely high’ lead levels in cinnamon in applesauce at Ecuador plantDecember 19, 2023",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Health",
+    "Disaster and Accident"
+  ],
+  "external_links": [
+    "https://www.consumerreports.org/appliances/blenders/popular-blendjet-portable-blender-may-pose-risks-a6856300357/)",
+    "https://snlookup.blendjet.com/)",
+    "https://www.saferproducts.gov/PublicSearch/Detail?ReportId=4314372)",
+    "https://www.saferproducts.gov/PublicSearch/Detail",
+    "https://consumerreports.org/appliances/blenders/popular-blendjet-portable-blender-may-pose-risks-a6856300357/)",
+    "https://www.snlookup.blendjet.com/)",
+    "https://saferproducts.gov/PublicSearch/Detail?ReportId=4314372)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "blendjet",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "washington post",
+        "sentiment": "negative"
+      },
+      {
+        "name": "the washington post",
+        "sentiment": "none"
+      },
+      {
+        "name": "consumer reports",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "calif",
+        "sentiment": "none"
+      },
+      {
+        "name": "benicia",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:06:31.787+02:00",
+  "updated": "2024-01-05T00:22:12.736+02:00"
+}

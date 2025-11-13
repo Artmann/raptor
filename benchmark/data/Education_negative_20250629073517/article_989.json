@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "6e6c51b2ff38fee6eb8a7b9e055be6fe641c6062",
+    "url": "https://www.wr.de/lokales/hagen/article409275899/note-5-fuer-integration-reaktion-der-stadt-auf-das-schlechte-abschneiden.html",
+    "site_full": "www.wr.de",
+    "site": "wr.de",
+    "site_section": "https://www.wr.de",
+    "site_categories": ["uncategorized"],
+    "section_title": "mutig - offen - mittendrin - wr.de ",
+    "site_title": "mutig - offen - mittendrin - wr.de",
+    "title": "Note 5 für Integration: Reaktion der Stadt auf das schlechte Abschneiden",
+    "title_full": "Note 5 für Integration: Reaktion der Stadt auf das schlechte Abschneiden",
+    "published": "2025-06-26T16:06:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://img.sparknews.funkemedien.de/408999096/408999096_1747055052_v16_9_1600.jpeg",
+    "performance_score": 0,
+    "domain_rank": 100449,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6e6c51b2ff38fee6eb8a7b9e055be6fe641c6062",
+  "url": "https://www.wr.de/lokales/hagen/article409275899/note-5-fuer-integration-reaktion-der-stadt-auf-das-schlechte-abschneiden.html",
+  "ord_in_thread": 0,
+  "author": "Laura Handke",
+  "published": "2025-06-26T16:06:00.000+03:00",
+  "title": "Note 5 für Integration: Reaktion der Stadt auf das schlechte Abschneiden",
+  "text": "Hahgen. Wie erklärt sich die Stadt, dass die Hagenerinnen und Hagener die Integration in Hagen schlecht bewerten? Blick auf Zahlen und Hintergründe.\nTextToSpeechModule\nHahgen. Wie erklärt sich die Stadt, dass die Hagenerinnen und Hagener die Integration in Hagen schlecht bewerten? Blick auf Zahlen und Hintergründe.\nKennen Sie schon unsere PLUS-Inhalte?\n Jetzt\nWR\ntesten",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Politics", "Social Issue", "Education"],
+  "topics": [
+    "Politics->political development",
+    "Politics->local government and authority",
+    "Politics->government policy",
+    "Social Issue->diversity, equity and inclusion",
+    "Social Issue->social problem",
+    "Social Issue->demographics",
+    "Education->teachers",
+    "Education->social learning",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Hagen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T16:27:24.959+03:00",
+  "updated": "2025-06-26T13:31:55.000+00:00"
+}

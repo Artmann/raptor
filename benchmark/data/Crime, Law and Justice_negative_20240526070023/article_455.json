@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "ef06648424675ea38aa422ed3fe38690f6831ee5",
+    "url": "https://www.beaconjournal.com/story/news/crime/2024/04/25/kent-police-arrest-stanton-middle-school-student-in-kill-list-probe/73457774007",
+    "site_full": "www.beaconjournal.com",
+    "site": "beaconjournal.com",
+    "site_section": "https://beaconjournal.com",
+    "site_categories": ["media"],
+    "section_title": "Akron Beacon Journal: Local News, Politics & Sports in Akron, OH",
+    "title": "Kent police arrest Stanton Middle School student in 'kill list' probe",
+    "title_full": "Kent police arrest Stanton Middle School student in 'kill list' probe",
+    "published": "2024-04-25T23:54:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 13255,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ef06648424675ea38aa422ed3fe38690f6831ee5",
+  "url": "https://www.beaconjournal.com/story/news/crime/2024/04/25/kent-police-arrest-stanton-middle-school-student-in-kill-list-probe/73457774007",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "April Helms",
+  "published": "2024-04-25T23:54:00.000+03:00",
+  "title": "Kent police arrest Stanton Middle School student in 'kill list' probe",
+  "text": "A 14-year-old Stanton Middle School student was taken into Kent police custody Thursday after investigators determined he may have been keeping a \"kill list.\"The student has been charged with making false alarms, a first-degree misdemeanor.The Akron Beacon Journal and Record-Courier do not typically publish the names of minors unless they have been charged with a felony.Lt. Mike Lewis of the Kent Police Department said the case is under investigation and other charges could be added.\"We are grateful for anyone who comes forward with information or concerns over school safety,\" Lewis said.Kent school officials were unavailable to comment.On Wednesday at around 10 p.m., Kent police were notified that an eighth grade student was rumored to have a list of students’ names that he referred to as a “to kill list.” Kent officers, coordinating with Kent City Schools, immediately interviewed the student and his parents at their home.The student denied making such a list and having intent to harm anyone, explaining that he was joking, according to Kent police. No weapons were found, but the student was kept out of school Thursday as a precaution.Investigators eventually tracked down a list. Police obtained an arrest warrant and took the 14-year-old into custody at his home without incident around 3 p.m. Thursday.\"The suspect listed several names, but no other details,\" Lewis said. \"We are working with the schools to make sure all of the kids and their parents are contacted. Kent City Schools counselors are available and our own juvenile counselor here at Kent PD is a part of that process as well.\" Reporter April Helms can be reached at ahelms@thebeaconjournal.com",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Social Issue", "Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "kent",
+        "sentiment": "none"
+      },
+      {
+        "name": "lewis",
+        "sentiment": "none"
+      },
+      {
+        "name": "mike lewis",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "stanton middle school",
+        "sentiment": "negative"
+      },
+      {
+        "name": "kent police department",
+        "sentiment": "none"
+      },
+      {
+        "name": "kent city schools",
+        "sentiment": "none"
+      },
+      {
+        "name": "akron beacon journal",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "kent",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:19:30.286+03:00",
+  "updated": "2024-04-26T00:19:30.286+03:00"
+}

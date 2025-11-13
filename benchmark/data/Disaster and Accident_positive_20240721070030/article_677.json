@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "0f410b09c5fb8ab21784f0f925e1bbfaa51150e2",
+    "url": "https://www.deccanchronicle.com/science/isro-successfully-completes-its-reusable-launch-vehicle-technology-demonstrations-900452",
+    "site_full": "www.deccanchronicle.com",
+    "site": "deccanchronicle.com",
+    "site_section": "https://www.deccanchronicle.com/",
+    "site_categories": ["media"],
+    "section_title": "Deccan Chronicle - News Headlines | Today Headlines | Hyderabad News | English News | Top Stories | Breaking news",
+    "title": "ISRO successfully completes its Reusable Launch Vehicle technology demonstrations",
+    "title_full": "ISRO successfully completes its Reusable Launch Vehicle technology demonstrations",
+    "published": "2024-06-23T08:40:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://www.deccanchronicle.com/h-upload/2024/06/23/1099018-gquyeq6aaaesj5j.webp",
+    "performance_score": 0,
+    "domain_rank": 6425,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0f410b09c5fb8ab21784f0f925e1bbfaa51150e2",
+  "url": "https://www.deccanchronicle.com/science/isro-successfully-completes-its-reusable-launch-vehicle-technology-demonstrations-900452",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "deccanchronicle.com",
+  "published": "2024-06-23T08:40:00.000+03:00",
+  "title": "ISRO successfully completes its Reusable Launch Vehicle technology demonstrations",
+  "text": "ISRO successfully completes its Reusable Launch Vehicle technology demonstrations Science PTI 23 Jun 2024 5:10 AM GMT x The final test in the series of Landing Experiment was conducted at the Aeronautical Test Range in Chitradurga, Karnataka. (X.com) Bengaluru: Space agency ISRO on Sunday said it has achieved a third consecutive success in the Reusable Launch Vehicle Landing Experiment by demonstrating the autonomous landing capability of the launch vehicle under more challenging conditions This mission simulated the approach and landing interface and high-speed landing conditions for a vehicle returning from space, reaffirming the Indian Space Research Organisation's (ISRO) expertise in acquiring the most critical technologies required for the development of a Reusable Launch Vehicle (RLV), the space agency said.\nThe third and final test in the series of Landing Experiment (LEX-03) was conducted at 07:10 1ST at the Aeronautical Test Range (ATR) in Chitradurga, Karnataka.\nFollowing the success of the RLV LEX-01 and LEX-02 missions, ISRO in a release said, RLV LEX-03 re-demonstrated the autonomous landing capability of the RLV under more challenging release conditions (cross range of 500 m against 150 m for LEX-02) and more severe wind conditions.\nThe winged vehicle, named 'Pushpak', was released from an Indian Air Force Chinook Helicopter at an altitude of 4.5 km \"from a release point 4.5 km away from the runway. Pushpak autonomously executed cross-range correction manoeuvres, approached the runway and performed a precise horizontal landing at the runway centreline,\" it said.\nDue to this vehicle's low lift-to-drag ratio aerodynamic configuration, the landing velocity exceeded 320 kmph, compared to 260 kmph for a commercial aircraft and 280 kmph for a typical fighter aircraft, it added.\nISRO said, after touchdown, the vehicle velocity was reduced to nearly 100 kmph using its brake parachute, after which the landing gear brakes were employed for deceleration and stop on the runway.\nDuring this ground roll phase, Pushpak utilises its rudder and nose wheel steering system to autonomously maintain a stable and precise ground roll along the runway, it said.\nAccording to the space agency, this mission simulated the approach and landing interface and high-speed landing conditions for a vehicle returning from space, reaffirming ISRO's expertise in acquiring the most critical technologies required for the development of a Reusable Launch Vehicle (RLV).\nThrough this mission, the advanced guidance algorithm catering to longitudinal and lateral plane error corrections, which is essential for the future Orbital Re-entry Mission has been validated, the space agency noted.\nThe RLV-LEX uses multi-sensor fusion including sensors like Inertial sensor, Radar altimeter, Flush air data system, Pseudolite system and NavIC, it said, adding \"Notably, the RLV-LEX-03 mission reused the winged body and flight systems as such without any modification, from the LEX-02 mission, demonstrating the robustness of ISRO's capability of design to reuse flight systems for multiple missions.\"\nThe mission, led by Vikram Sarabhai Space Centre (VSSC), was a collaborative effort involving multiple ISRO centres -- Space Applications Centre (SAC), ISRO Telemetry, Tracking and Command Network (ISTRAC) and Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota.\nThe mission received significant support from the Indian Air Force, Aeronautical Development Establishment, Aerial Delivery Research and Development Establishment, Regional Centre for Military Airworthiness under Centre for Military Airworthiness and Certification, National Aerospace Laboratories, Indian Institute of Technology, Kanpur, Indian aerospace industrial partners, Indian Oil Corporation of India and Airport Authority of India.\nS Somanath, Chairman, ISRO/Secretary, Department of Space, congratulated the team for their efforts in maintaining the success streak in such complex missions.\nDr S Unnikrishnan Nair, Director of VSSC, emphasised that this consistent success boosts ISRO's confidence in the critical technologies essential for future orbital re-entry missions.\nJ Muthupandian is the Mission Director and B Karthik is the Vehicle Director for this successful mission.\n( Source : PTI )",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Disaster and Accident",
+    "Environment"
+  ],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "pti",
+        "sentiment": "negative"
+      },
+      {
+        "name": "isro",
+        "sentiment": "negative"
+      },
+      {
+        "name": "indian space research organisation",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "chitradurga",
+        "sentiment": "none"
+      },
+      {
+        "name": "karnataka",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-23T09:03:32.757+03:00",
+  "updated": "2024-06-23T09:03:32.757+03:00"
+}

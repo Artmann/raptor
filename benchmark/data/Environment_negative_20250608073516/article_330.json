@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "6a050a5c7b0049c5c9de612f34c051a4cd118215",
+    "url": "https://flipboard.com/topic/westyorkshire/-/a-qgZ41n6WTn6ZfS5KcmnRVg%3Aa%3A3897805151-%2F0",
+    "site_full": "flipboard.com",
+    "site": "flipboard.com",
+    "site_section": "https://flipboard.com/topic/westyorkshire",
+    "site_categories": ["family_and_parenting", "eldercare"],
+    "section_title": "Discover More in West Yorkshire on Flipboard",
+    "site_title": "Flipboard: Your Social Magazine",
+    "title": "'Preposterous!' Furious locals in quiet village fear 'toxic gasses' over plans for HUGE net zero lithium battery site | Flipboard",
+    "title_full": "'Preposterous!' Furious locals in quiet village fear 'toxic gasses' over plans for HUGE net zero lithium battery site | Flipboard",
+    "published": "2025-05-08T00:47:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.gbnews.com/media-library/scotton-lee-gardener.jpg?id=60155388&amp;width=1200&amp;height=600&amp;coordinates=0%2C0%2C0%2C80",
+    "performance_score": 0,
+    "domain_rank": 1243,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6a050a5c7b0049c5c9de612f34c051a4cd118215",
+  "url": "https://flipboard.com/topic/westyorkshire/-/a-qgZ41n6WTn6ZfS5KcmnRVg%3Aa%3A3897805151-%2F0",
+  "ord_in_thread": 0,
+  "author": "gbnews.com - Georgia Pearce",
+  "published": "2025-05-08T00:47:00.000+03:00",
+  "title": "'Preposterous!' Furious locals in quiet village fear 'toxic gasses' over plans for HUGE net zero lithium battery site | Flipboard",
+  "text": "'Preposterous!' Furious locals in quiet village fear 'toxic gasses' over plans for HUGE net zero lithium battery site Locals in the Yorkshire village where Guy Fawkes once lived have expressed their fears for a \"toxic\" new lithium battery site - just yards from the …\ngbnews.com - Georgia Pearce • 2h",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Politics"],
+  "topics": [
+    "Environment->hazardous materials",
+    "Environment->sustainability",
+    "Environment->environmental pollution",
+    "Social Issue->social problem",
+    "Social Issue->social condition",
+    "Politics->local elections"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Guy Fawkes",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Yorkshire",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:23:45.650+03:00",
+  "updated": "2025-05-08T00:33:34.000+00:00"
+}

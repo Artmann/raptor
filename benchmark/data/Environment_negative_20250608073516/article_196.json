@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "506f710133627fc093353bcbdc7fb516e684d092",
+    "url": "https://www.kten.com/news/texas-headlines/soggy-spring-weather-is-bad-news-for-gainesville-farmers/video_c24cd3bd-bc85-52e5-862c-33f9208032f2.html",
+    "site_full": "www.kten.com",
+    "site": "kten.com",
+    "site_section": "https://www.kten.com/news/entertainment",
+    "site_categories": ["media", "education", "business"],
+    "section_title": "Entertainment | kten.com",
+    "site_title": "kten.com | KTEN - Your source for Texoma news, sports and weather",
+    "title": "Soggy spring weather is bad news for Gainesville farmers | Texas Headlines | kten.com",
+    "title_full": "Soggy spring weather is bad news for Gainesville farmers | Texas Headlines | kten.com",
+    "published": "2025-05-08T00:14:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/kten.com/content/tncms/assets/v3/editorial/c/24/c24cd3bd-bc85-52e5-862c-33f9208032f2/681bcd8be64a8.image.jpg?crop=1280%2C672%2C0%2C23&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 46431,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "506f710133627fc093353bcbdc7fb516e684d092",
+  "url": "https://www.kten.com/news/texas-headlines/soggy-spring-weather-is-bad-news-for-gainesville-farmers/video_c24cd3bd-bc85-52e5-862c-33f9208032f2.html",
+  "ord_in_thread": 0,
+  "author": "Aidan Jo Farris",
+  "published": "2025-05-08T00:14:00.000+03:00",
+  "title": "Soggy spring weather is bad news for Gainesville farmers | Texas Headlines | kten.com",
+  "text": "Soggy spring weather is bad news for Gainesville farmers\nAidan Jo Farris - Updated\nDays of heavy rain have turned fields into lakes, and for farmers in Gainesville, it's not just the water causing headaches; it's the growing question of what they'll be able to grow next.\nAidan Jo Farris\nKTEN News Reporter/Producer\nGet email notifications on {{subject}} daily!\nYour notification has been saved.\nThere was a problem saving your notification.\n{{description}}\nEmail notifications are only sent once a day, and only if there are new matching items.\nFollowed notifications\nPlease log in to use this feature\nLog In\nDon't have an account?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Environment",
+    "Economy, Business and Finance",
+    "Human Interest"
+  ],
+  "topics": [
+    "Environment->land resources",
+    "Environment->water",
+    "Environment->sustainability",
+    "Economy, Business and Finance->agriculture",
+    "Economy, Business and Finance->economy",
+    "Economy, Business and Finance->business reporting and performance",
+    "Human Interest->human mishap"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Aidan Jo Farris",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:38:08.763+03:00",
+  "updated": "2025-05-07T23:45:05.000+00:00"
+}

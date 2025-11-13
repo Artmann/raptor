@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "16c8b97361c087c3adafa42a4f659158b7fac710",
+    "url": "https://www.fox13news.com/news/man-fighting-to-get-back-148k-taken-by-fraudsters-after-sale-of-parents-pinellas-county-condo",
+    "site_full": "www.fox13news.com",
+    "site": "fox13news.com",
+    "site_section": "https://www.fox13news.com/news",
+    "site_categories": ["media"],
+    "section_title": "News",
+    "title": "Man fighting to get back $148K taken by fraudsters after sale of parents' Pinellas County condo",
+    "title_full": "Man fighting to get back $148K taken by fraudsters after sale of parents' Pinellas County condo",
+    "published": "2024-04-25T20:11:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/04/1280/720/Foreclosure-Fraud-2.png?ve=1&amp;tl=1",
+    "performance_score": 0,
+    "domain_rank": 7798,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "16c8b97361c087c3adafa42a4f659158b7fac710",
+  "url": "https://www.fox13news.com/news/man-fighting-to-get-back-148k-taken-by-fraudsters-after-sale-of-parents-pinellas-county-condo",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Evan Axelbank",
+  "published": "2024-04-25T20:11:00.000+03:00",
+  "title": "Man fighting to get back $148K taken by fraudsters after sale of parents' Pinellas County condo",
+  "text": "The 800 sq. ft. condo on W. Bay Dr. is where the dreams of Basil Botetzayas&apos; family came true.\"That was a central place for the whole family,\" he said. \"A lot of history, birthdays over the years, vacations.\"Basil&apos;s parents bought the condo in 1989. His mom, Bessie, passed in 2005. His dad, George, died in 2021. It went into foreclosure and was sold at auction.The $156,000 surplus, the equity George and Bessie had built up, was sent to the Pinellas County court registry.\"I thought of all places, if it&apos;s sitting with the court, that&apos;s the safest place for it to be,\" he said.But documents show that fraudsters enlisted the help of an attorney in South Florida to acquire $148,000 of George and Bessie&apos;s surplus money. A closing statement shows signatures supposedly from George and Bessie. But they were signed in 2024, well after both died.Wire transfer orders show someone used a driver&apos;s license to identify themselves as Bessie and George to a notary in Minnesota, and requested the money be sent to LLCs.\"That&apos;s the sad reality,\" said his attorney, Shant Melkonian of Tampa. \"He was a victim without knowing it was a victim.\"A Pinellas judge has ordered the attorney in South Florida - whose name we are withholding - to return the money. Melkonian says it&apos;s likely that attorney was duped by a web of burner phones and fake IDs. Thus, that money is gone. READ: Double murder suspect arrested after woman, child found stabbed to death in Dover Melkonian says state legislators should shore up statute 45.032, which says the clerk \"may\" establish a reasonable requirement that the owner of record prove his identity before receiving the disbursement. He wants them to change the word \"may\" to \"must.\"\"Basil&apos;s story is really a story of every Floridian that owns property that has maybe gone through a foreclosure and has surplus funds in the registry of court,\" said Melkonian.Basil says he will never stop fighting for his parents&apos; dream of a better life. They came from Greece with nothing but suitcases.\"To take that away from their legacy and what they wanted to leave for their family,\" he said. \"This really is really hard.\"FOX 13 reached out to the attorney in South Florida who filed the paperwork for the fraudsters to get George and Bessie&apos;s money, and he said he was unable to comment because there is an ongoing criminal investigation.The Pinellas County sheriff&apos;s office also was unable to comment.The clerk in Pinellas County, who held those funds, says in releasing them it was just complying with a court order. SIGN UP: Click here to sign up for the FOX 13 daily newsletter WATCH FOX 13 NEWS",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "george",
+        "sentiment": "none"
+      },
+      {
+        "name": "bessie",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "w. bay dr.",
+        "sentiment": "none"
+      },
+      {
+        "name": "fla.",
+        "sentiment": "none"
+      },
+      {
+        "name": "belleair",
+        "sentiment": "none"
+      },
+      {
+        "name": "pinellas county",
+        "sentiment": "none"
+      },
+      {
+        "name": "south florida",
+        "sentiment": "none"
+      },
+      {
+        "name": "minnesota",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:30:34.453+03:00",
+  "updated": "2024-04-26T02:13:44.789+03:00"
+}

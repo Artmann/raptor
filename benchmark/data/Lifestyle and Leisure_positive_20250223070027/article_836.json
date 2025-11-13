@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "be25e2dee0b306f70236cc1053057dcf521d6701",
+    "url": "https://www.neowin.net/news/age-of-mythology-retold-gets-a-photo-mode-a-new-year-event-and-major-balance-changes",
+    "site_full": "www.neowin.net",
+    "site": "neowin.net",
+    "site_section": "https://www.neowin.net/news/tags/news/tags",
+    "site_categories": ["windows", "tech"],
+    "section_title": "Tags: News, Tags - Neowin",
+    "title": "Age of Mythology: Retold gets a photo mode, a new year event, and major balance changes",
+    "title_full": "Age of Mythology: Retold gets a photo mode, a new year event, and major balance changes",
+    "published": "2025-01-24T04:24:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.neowin.com/news/images/uploaded/2025/01/1737670780_aom_retold_photomode_3-2048x1280_story.jpg",
+    "performance_score": 0,
+    "domain_rank": 3688,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "be25e2dee0b306f70236cc1053057dcf521d6701",
+  "url": "https://www.neowin.net/news/age-of-mythology-retold-gets-a-photo-mode-a-new-year-event-and-major-balance-changes",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@LoneWolfSL",
+  "published": "2025-01-24T04:24:00.000+02:00",
+  "title": "Age of Mythology: Retold gets a photo mode, a new year event, and major balance changes",
+  "text": "Real-time strategy experiences aren't the type of games that usually receive photo modes, but the Age of Mythology: Retold development team has gone all in on the feature. Alongside the photo mode, the latest update carries a challenges-filled new event, as well as a massive number of bug fixes and balance changes.\nThe freshly added photo mode can be found using the new button on the pause menu or by using the Ctrl + F12 shortcut on the keyboard, letting players enter into the new feature at any point. The developer says this can be used to \"capture the perfect screenshot\", but it will only work while in a single-player game.\nAs can be seen in the screenshot above, players can change the lighting and sky dome, toggle the fog of war and black map, and even include the HUD in the screenshot. A handy button to quickly open the photo mode screenshot capture folder is also available.\nUnfortunately, only PC players have access to the photo mode for now. The studio expects to add it to the Xbox Series X|S edition of Age of Mythology: Retold in a later patch.\nSpeaking of PC-only features, though, the development team has also introduced an alternate UI for the in-game Scenario Editor. Looking to offer a more simplified experience without removing any features, this new UI can be enabled from the settings menu, with more changes incoming later.\nWhile we have almost reached February, the developer has just kicked off a 2025 new year event. This carries 25 challenges to complete from January 23 through February 26, with a new challenge being unlocked each day. This includes both campaign and skirmish/multiplayer objectives to accomplish for various cosmetic profile rewards.\nThere are a massive number of bug fixes and balance changes included in the patch too. Find the complete changelog here.\nUpdate 17.64528 for Age of Mythology: Retold is now rolling out to PC and Xbox Series X|S players. The game's first expansion, Immortal Pillars, is still in development, though it does not have a release date attached to it just yet.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Arts, Culture and Entertainment",
+    "Lifestyle and Leisure",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Arts, Culture and Entertainment->arts and entertainment",
+    "Arts, Culture and Entertainment->art exhibition",
+    "Arts, Culture and Entertainment->culture",
+    "Lifestyle and Leisure->gaming and lottery",
+    "Lifestyle and Leisure->game",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.ageofempires.com/news/age-of-mythology-retold-update-17-64528/",
+    "https://ageofempires.com/news/age-of-mythology-retold-update-17-64528/",
+    "https://www.ageofempires.com/news/age-of-mythology-retold-update-17-64528"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "HUD",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:37:05.197+02:00",
+  "updated": "2025-01-24T00:37:05.197+02:00"
+}

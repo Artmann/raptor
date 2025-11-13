@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "5f2783a9f8d0f4dc490a33139704583c78f73af9",
+    "url": "https://www.newsbreak.com/news/4291623354227-new-composting-program-proving-successful-at-muskegon-farmers-market",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://newsbreak.com/muskegon-mi",
+    "site_categories": ["under_construction"],
+    "section_title": "Muskegon, MI Local News and More | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "New composting program proving successful at Muskegon Farmers Market - NewsBreak",
+    "title_full": "New composting program proving successful at Muskegon Farmers Market - NewsBreak",
+    "published": "2025-10-14T20:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/19Suo8_15eKojXf00",
+    "performance_score": 0,
+    "domain_rank": 2819,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5f2783a9f8d0f4dc490a33139704583c78f73af9",
+  "url": "https://www.newsbreak.com/news/4291623354227-new-composting-program-proving-successful-at-muskegon-farmers-market",
+  "ord_in_thread": 0,
+  "author": "WGVU News",
+  "published": "2025-10-14T20:00:00.000+03:00",
+  "title": "New composting program proving successful at Muskegon Farmers Market - NewsBreak",
+  "text": "By WGVU News ,\n1 days ago Angela Fox: Green Michigan is a West Michigan nonprofit. It was started in 2015 by myself and two other colleagues who really wanted to make sustainability education and sustainability programming less overwhelming for people. When you think about sustainability, you tend to get a little doom and gloom and overwhelmed. And we wanted to really put a positive spin on that and make sustainable transitions more empowering, led by curiosity and just really much more positive. This is a way that we try to educate and inspire. It's a very project-based nonprofit. So we take on initiatives all across the state, but I am recently relocated here to Muskegon. Read full article\nRead in NewsBreak",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->sustainability", "Environment->waste materials"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Angela Fox",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [
+      {
+        "name": "West",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:53:53.241+03:00",
+  "updated": "2025-10-16T17:12:07.000+03:00"
+}

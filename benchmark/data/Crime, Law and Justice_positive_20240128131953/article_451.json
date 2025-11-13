@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "4cdc96f72df947ad1dc39752742f660c8c402d5d",
+    "url": "https://in.investing.com/news/jdcom-wins-140m-in-antimonopoly-case-against-alibaba-432SI-3953718",
+    "site_full": "in.investing.com",
+    "site": "investing.com",
+    "site_section": "https://in.investing.com/news",
+    "site_categories": ["investing", "financial_news", "finance"],
+    "section_title": "Financial News - Investing.com India",
+    "title": "JD.com wins $140M in antimonopoly case against Alibaba - Investing.com India",
+    "title_full": "JD.com wins $140M in antimonopoly case against Alibaba - Investing.com India",
+    "published": "2023-12-29T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://i-invdn-com.investing.com/news/https://i-invdn-com.investing.com/akapi-images/800x450/db6c29b8d5b2abbc687ed197d9933cc0_w_800_h_450.jpg",
+    "performance_score": 0,
+    "domain_rank": 1378,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4cdc96f72df947ad1dc39752742f660c8c402d5d",
+  "url": "https://in.investing.com/news/jdcom-wins-140m-in-antimonopoly-case-against-alibaba-432SI-3953718",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Investing.com",
+  "published": "2023-12-29T02:00:00.000+02:00",
+  "title": "JD.com wins $140M in antimonopoly case against Alibaba - Investing.com India",
+  "text": "JD.com (NASDAQ: JD ) was awarded 1 billion yuan (~$140M) in damages on Friday, after the company won an antimonopoly lawsuit against Alibaba (NYSE: BABA ), according to JD's WeChat statement.\nAlibaba, Zhejiang Tmall Network Co and Zhejiang Tmall Technology Co 'had abused their market dominance and adopted monopolistic practices known as \"choosing one from two\",' The High People's Court of Beijing found, 'causing JD.com severe damage.'\nThe ruling, called by JD 'a landmark moment in upholding market fairness and competition order through the rule of law,' marks at least a temporary resolution of a lengthy legal battle between the two e-commerce giants over a practice of \"choosing one out of two,\" forcing brands and merchants to sell on one platform exclusively.\nAn Alibaba spokesperson said the company was aware of the ruling and will respect the court's decision.\nThe litigation was one of several high-profile cases accusing Alibaba of monopolistic practices - back in 2021, the company was fined $2.75B by the Chinese authorities who found Alibaba had abused its dominant market position.\nShares of JD are gaining modestly following the announcement.\nAdd Chart to Comment",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Social Issue",
+    "Economy, Business and Finance",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "alibaba - investing.com india",
+        "sentiment": "negative"
+      },
+      {
+        "name": "zhejiang tmall technology co",
+        "sentiment": "none"
+      },
+      {
+        "name": "zhejiang tmall network co",
+        "sentiment": "none"
+      },
+      {
+        "name": "high people's court",
+        "sentiment": "none"
+      },
+      {
+        "name": "alibaba",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "beijing",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T15:07:39.749+02:00",
+  "updated": "2023-12-29T15:07:39.749+02:00"
+}

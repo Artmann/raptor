@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "628a9a9f3910efab777e5719926e69c7650d2b1e",
+    "url": "https://bari.corriere.it/notizie/cronaca/25_giugno_26/taranto-le-offese-della-prof-agli-alunni-non-colleghi-la-lingua-al-cervello-sei-una-pappagalla-denunciata-rischia-il-processo-09b7760f-fe33-4d97-968c-ad360de09xlk.shtml",
+    "site_full": "bari.corriere.it",
+    "site": "corriere.it",
+    "site_section": "https://bari.corriere.it",
+    "site_categories": ["top_news_ch", "top_news_it", "top_news"],
+    "section_title": "Corriere Bari: le ultime news dalla citt&agrave; | Corriere Del Mezzogiorno",
+    "site_title": "Corriere della Sera: News e Ultime notizie in tempo reale da Italia e Mondo",
+    "title": "Taranto, le offese della prof agli alunni: «Non colleghi la lingua al cervello, sei una pappagalla». Denunciata, rischia il processo | Corriere.it",
+    "title_full": "Taranto, le offese della prof agli alunni: «Non colleghi la lingua al cervello, sei una pappagalla». Denunciata, rischia il processo | Corriere.it",
+    "published": "2025-06-26T13:57:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2025/06/25/685c21bf5cae2.jpeg",
+    "performance_score": 0,
+    "domain_rank": 1294,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "shares": 3
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "628a9a9f3910efab777e5719926e69c7650d2b1e",
+  "url": "https://bari.corriere.it/notizie/cronaca/25_giugno_26/taranto-le-offese-della-prof-agli-alunni-non-colleghi-la-lingua-al-cervello-sei-una-pappagalla-denunciata-rischia-il-processo-09b7760f-fe33-4d97-968c-ad360de09xlk.shtml",
+  "ord_in_thread": 0,
+  "author": "Cesare Bechis",
+  "published": "2025-06-26T13:57:00.000+03:00",
+  "title": "Taranto, le offese della prof agli alunni: «Non colleghi la lingua al cervello, sei una pappagalla». Denunciata, rischia il processo | Corriere.it",
+  "text": "Vai a tutte le notizie di Bari Iscriviti alla newsletter del Corriere del Mezzogiorno Puglia 26 giugno 2025 ( modifica il 26 giugno 2025 | 12:58) © RIPRODUZIONE RISERVATA",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Crime, Law and Justice"],
+  "topics": [
+    "Education->students",
+    "Education->teachers",
+    "Education->school",
+    "Social Issue->social services",
+    "Social Issue->social problem",
+    "Social Issue->abusive behaviour",
+    "Crime, Law and Justice->prosecution and prosecutors",
+    "Crime, Law and Justice->court",
+    "Crime, Law and Justice->judiciary"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Corriere del Mezzogiorno Puglia",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bari Iscriviti",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_ch", "top_news_it", "top_news"],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T15:28:56.472+03:00",
+  "updated": "2025-06-27T13:05:09.000+00:00"
+}

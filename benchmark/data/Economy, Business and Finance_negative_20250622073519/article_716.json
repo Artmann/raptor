@@ -1,0 +1,110 @@
+{
+  "thread": {
+    "uuid": "a2db808744a47bfc2346c8fab72c2e049c818704",
+    "url": "https://www.wallstreet-online.de/nachricht/19488265-pressestimme-volksstimme-paragraphen-188-politikerbeleidigung",
+    "site_full": "www.wallstreet-online.de",
+    "site": "wallstreet-online.de",
+    "site_section": "https://www.wallstreet-online.de/aktien/trends",
+    "site_categories": ["investing", "tennis", "finance", "sports"],
+    "section_title": "Aktien Trends 2025 auf wallstreetONLINE",
+    "site_title": "Aktien - Börse - Aktienkurse",
+    "title": "Pressestimme: 'Volksstimme' zu Paragraphen 188 und Politikerbeleidigung - 19.06.2025",
+    "title_full": "Pressestimme: 'Volksstimme' zu Paragraphen 188 und Politikerbeleidigung - 19.06.2025",
+    "published": "2025-06-19T06:40:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://assets.wallstreet-online.de/_media/6/source1280/size_645/dpa-afx-1280.png",
+    "performance_score": 0,
+    "domain_rank": 17005,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a2db808744a47bfc2346c8fab72c2e049c818704",
+  "url": "https://www.wallstreet-online.de/nachricht/19488265-pressestimme-volksstimme-paragraphen-188-politikerbeleidigung",
+  "ord_in_thread": 0,
+  "author": "dpa-AFX",
+  "published": "2025-06-19T06:40:00.000+03:00",
+  "title": "Pressestimme: 'Volksstimme' zu Paragraphen 188 und Politikerbeleidigung - 19.06.2025",
+  "text": "Für Sie zusammengefasst Rechtsstaat und Meinungsfreiheit schwach im Prozess. Paragraf 188 unter Merkel fragwürdige Verschärfung. Historische Wurzeln bis zu Hindenburg zurückverfolgt. MAGDEBURG (dpa-AFX) - \"Volksstimme\" zu Paragraphen 188 und Politikerbeleidigung:\nLesen Sie auch US-Notenbank Fed rührt Leitzins nicht an – Zwei Zinssenkungen weiter im Plan vor 4 Minuten Ihre wichtigsten Termine Alle Blicke auf: Delta Air Lines, United Utilities, Befesa sowie Konjunkturdaten heute 04:30 Besser als Gold Bitcoin könnte bald 1.000.000 US-Dollar wert sein! gestern 20:30 Solaraktien-Crash Nach Totaleinbruch der Aktie: RBC Capital zieht bei Sunrun den Stecker gestern 20:00 \"Auch wenn die Staatsanwaltschaft einen Dreh gefunden hat, sich aus der Affäre zu ziehen, geben Rechtsstaat, und Meinungsfreiheit im \"Schwachkopf-Prozess\" eine schwache Figur ab. Zwar wurde der \"Habeck-Schwachkopf\"-Klagepunkt eingestellt, doch sind zig ähnlich gelagerte Fälle anhängig. Generell ist die Verschärfung des Paragrafen 188 Absatz 1 unter Kanzlerin Merkel ein fragwürdiges Projekt gewesen. Wie der Wissenschaftliche Dienst des Bundestages im November 2024 feststellte, geht der Paragraph auf Reichspräsident Paul von Hindenburg zurück, der ihn 1931 erließ. Die Neuregelung von 2021 mit \"gleichzeitiger Ausweitung des Tatbestandes und der Modifizierung des Antragserfordernisses\" habe wieder zur Verschärfung geführt. Zuvor sei der Paragraph \"so gut wie nie zur Anwendung\" gekommen. Der Historiker Hubertus Knabe wies darauf hin, dass unter Honecker die strafrechtliche Verfolgung von Witzen gegen DDR-Politiker spürbar nachgelassen habe. Will Berlin jetzt den DDR-Staatschef übertreffen?\"/yyzz/DP/he",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Politics", "Social Issue", "Economy, Business and Finance"],
+  "topics": [
+    "Politics->fundamental rights",
+    "Politics->censorship and freedom of speech",
+    "Politics->political process",
+    "Social Issue->social condition",
+    "Social Issue->ethics",
+    "Economy, Business and Finance->media and entertainment industry",
+    "Economy, Business and Finance->business governance"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Merkel",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "MAGDEBURG",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "United Utilities",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Delta Air Lines",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "RBC Capital",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Fed",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:40:00.124+03:00",
+  "updated": "2025-06-19T04:43:05.000+00:00"
+}

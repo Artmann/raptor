@@ -1,0 +1,114 @@
+{
+  "thread": {
+    "uuid": "f57ae2edc93fb2bee8e4e7f62a4126601feb8dae",
+    "url": "https://www.insideedition.com/teenager-arrested-in-fatal-stabbing-of-fellow-teen-at-alaska-movie-theater-cops-87113",
+    "site_full": "www.insideedition.com",
+    "site": "insideedition.com",
+    "site_section": "https://www.insideedition.com/feed/taxonomy/term/news",
+    "site_categories": ["television", "entertainment"],
+    "section_title": "News",
+    "title": "Teenager Arrested in Fatal Stabbing of Fellow Teen at Alaska Movie Theater: Cops",
+    "title_full": "Teenager Arrested in Fatal Stabbing of Fellow Teen at Alaska Movie Theater: Cops",
+    "published": "2024-04-25T22:16:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.insideedition.com/sites/default/files/images/2023-01/arrest.jpg?crop=1280:720&amp;width=1280",
+    "performance_score": 0,
+    "domain_rank": 9093,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f57ae2edc93fb2bee8e4e7f62a4126601feb8dae",
+  "url": "https://www.insideedition.com/teenager-arrested-in-fatal-stabbing-of-fellow-teen-at-alaska-movie-theater-cops-87113",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Inside Edition Staff",
+  "published": "2024-04-25T22:16:00.000+03:00",
+  "title": "Teenager Arrested in Fatal Stabbing of Fellow Teen at Alaska Movie Theater: Cops",
+  "text": "Because the suspect is a juvenile, neither their name, gender nor charges will be released to the public, officials said. The stabbing occurred during a fight between teens inside a theater at the Valley Cinema, officials said. A teen in [Alaska](https://www.insideedition.com/tag/alaska) was arrested Monday in connection with the stabbing death of another teenager that took place during a fight at a movie theater, police said. The altercation involved multiple teens and occurred inside a theater at the Valley Cinema on Old Matanuska Road in Wasilla around 6:45 p.m. on April 12, the Wasilla Police department said. During the fight, one of the teenagers involved was stabbed, cops said. That teen was taken to Mat-Su Regional Hospital before being airlifted to Providence Hospital in Anchorage, where they died of their injuries, police said. The teen accused of the stabbing remained on scene and cooperated with officers, officials said. They were arrested and charged \"in relation to the homicide\" on Monday, police said. Because everyone involved is a juvenile, neither the suspect's nor victim's names will be released, authorities said. The suspect was remanded to the Mat-Su Youth Facility, [cops](https://www.insideedition.com/tag/police) said. The detention facility houses up to 15 juveniles and is located in Palmer, [Anchorage Daily News](https://www.adn.com/alaska-news/crime-courts/2024/04/22/teen-arrested-in-fatal-stabbing-at-wasilla-theater-police-say/) reported. Wasilla, best known for being the home of former Alaska Governor [Sarah Palin](https://www.insideedition.com/tag/sarah-palin), is the fourth largest city in the state and has a population of 9,711. It is 45 minutes north of Anchorage. [The city of Wasilla reported](https://www.cityofwasilla.gov/services/departments/police/annual-crime-stats) no homicides in 2023 or 2022.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.cityofwasilla.gov/services/departments/police/annual-crime-stats",
+    "https://www.adn.com/alaska-news/crime-courts/2024/04/22/teen-arrested-in-fatal-stabbing-at-wasilla-theater-police-say/",
+    "https://adn.com/alaska-news/crime-courts/2024/04/22/teen-arrested-in-fatal-stabbing-at-wasilla-theater-police-say/",
+    "https://cityofwasilla.gov/services/departments/police/annual-crime-stats",
+    "https://www.adn.com/alaska-news/crime-courts/2024/04/22/teen-arrested-in-fatal-stabbing-at-wasilla-theater-police-say"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "alaska movie theater",
+        "sentiment": "negative"
+      },
+      {
+        "name": "wasilla police",
+        "sentiment": "none"
+      },
+      {
+        "name": "su regional hospital",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "providence hospital",
+        "sentiment": "none"
+      },
+      {
+        "name": "valley cinema",
+        "sentiment": "none"
+      },
+      {
+        "name": "old matanuska road",
+        "sentiment": "none"
+      },
+      {
+        "name": "alaska",
+        "sentiment": "none"
+      },
+      {
+        "name": "anchorage",
+        "sentiment": "none"
+      },
+      {
+        "name": "wasilla",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:24:34.725+03:00",
+  "updated": "2024-04-26T02:21:23.356+03:00"
+}

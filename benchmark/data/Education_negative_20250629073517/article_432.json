@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "2b3f36b4ff090d4f6a6f2bec29655c1ac948f5e1",
+    "url": "https://rp-online.de/panorama/deutschland/vegetarisches-schulessen-eltern-scheitern-endgueltig-mit-klage_aid-129979755",
+    "site_full": "rp-online.de",
+    "site": "rp-online.de",
+    "site_section": "https://rp-online.de",
+    "site_categories": ["media", "top_news_de", "top_news"],
+    "section_title": "Aktuelle Nachrichten | RP ONLINE",
+    "site_title": "Aktuelle Nachrichten | RP ONLINE",
+    "title": "Vegetarisches Schulessen: Eltern scheitern endgültig mit Klage",
+    "title_full": "Vegetarisches Schulessen: Eltern scheitern endgültig mit Klage",
+    "published": "2025-06-26T11:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://rp-online.de/imgs/32/2/3/5/5/3/7/4/2/1/tok_a54e53f841fe9ccf7c67af541f7cb316/w1200_h630_x1500_y1055_DPA_bfunkdpa_5FAAAC00E9B21D08-3ac128ecfc3f2fe7.jpg",
+    "performance_score": 5,
+    "domain_rank": 3472,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 68,
+        "comments": 79,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2b3f36b4ff090d4f6a6f2bec29655c1ac948f5e1",
+  "url": "https://rp-online.de/panorama/deutschland/vegetarisches-schulessen-eltern-scheitern-endgueltig-mit-klage_aid-129979755",
+  "ord_in_thread": 0,
+  "author": "Alexa Becker",
+  "published": "2025-06-26T11:35:00.000+03:00",
+  "title": "Vegetarisches Schulessen: Eltern scheitern endgültig mit Klage",
+  "text": "Schulkantinen müssen laut einer Entscheidung des baden-württembergischen Verwaltungsgerichtshofs nicht jeden Tag Fleisch oder Fisch anbieten. Das Gericht wies am Donnerstag eine entsprechende Klage von Eltern aus dem Raum Konstanz als unzulässig ab. Die Eltern hatten sich gegen ein vorausgegangenes Urteil des Verwaltungsgerichts Freiburg gewandt.\nEltern hatten sich daran gestört, dass das Schulessen, das von Montag bis Donnerstag angeboten wird, an drei Tagen aus vegetarischer oder veganer Kost besteht. Nur an einem Tag werde ein Fleisch- oder Fischangebot bereitgehalten. Die Eltern befürchten deshalb eine Mangelernährung ihrer Tochter\nDie Eltern hatten bereits mit einem Eilantrag (2 K 1477/25) beim Verwaltungsgericht Freiburg erreichen wollen, dass ihrer Tochter an allen Tagen ein Schulessen mit Fleisch oder Fisch zur Verfügung gestellt wird. Sie trugen unter anderem gesundheitliche Bedenken vor. Das Verwaltungsgericht hatte den Antrag zurückgewiesen. Es sei fernliegend, dass ein Ernährungsmangel drohe.\nDas Verwaltungsgericht Freiburg hatte in seiner Entscheidung im Mai betont, es drohe keineswegs eine Mangelernährung; schon weil die Eltern morgens und abends für die gewünschte fleischhaltige Ernährung sorgen könnten. Auch sei es möglich, vorbereitetes Essen in die Schule mitzubringen. Zudem hätten die Schulen Freiräume, die Speisepläne nach ihren Vorstellungen zu organisieren.\nDer Verwaltungsgerichtshof erklärte die Klage der Eltern nun für unzulässig. So hätten die Eltern ihre Beschwerde nicht wie vorgeschrieben über einen Anwalt eingereicht. Die Tochter wiederum sei für eine Beschwerde nicht befugt gewesen, weil sie nicht an der Klage in erster Instanz beteiligt war. Der VGH-Beschluss ist unanfechtbar.\nUm vegetarisches Schulessen gibt es immer wieder Debatten. Auch gegen die Einführung von fleischlosen Schulkantinen in Freiburg gab es Proteste. Inzwischen sind sie abgeebbt.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->school",
+    "Education->parents group",
+    "Education->primary education",
+    "Social Issue->parenting",
+    "Social Issue->social services",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Freiburg",
+        "sentiment": "none"
+      },
+      {
+        "name": "Konstanz",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T11:55:48.150+03:00",
+  "updated": "2025-06-27T09:11:34.000+00:00"
+}

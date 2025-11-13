@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "b2ec2210292c521c965012010cf8d96e1f932a3f",
+    "url": "https://local.newsbreak.com/people-510054/3996348038434-baby-seal-stabbed-on-oregon-beach-prompting-manhunt-for-suspect",
+    "site_full": "local.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://local.newsbreak.com/people-510054",
+    "site_categories": [],
+    "section_title": "People&#x27;s Home Page | NewsBreak",
+    "site_title": "404 Not Found",
+    "title": "Baby Seal Stabbed on Oregon Beach, Prompting Manhunt for Suspect - NewsBreak",
+    "title_full": "Baby Seal Stabbed on Oregon Beach, Prompting Manhunt for Suspect - NewsBreak",
+    "published": "2025-05-08T00:31:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/132G2b_10vohTIA00",
+    "performance_score": 0,
+    "domain_rank": 3115,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b2ec2210292c521c965012010cf8d96e1f932a3f",
+  "url": "https://local.newsbreak.com/people-510054/3996348038434-baby-seal-stabbed-on-oregon-beach-prompting-manhunt-for-suspect",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T00:31:00.000+03:00",
+  "title": "Baby Seal Stabbed on Oregon Beach, Prompting Manhunt for Suspect - NewsBreak",
+  "text": "Baby Seal Stabbed on Oregon Beach, Prompting Manhunt for Suspect - NewsBreak",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Environment"],
+  "topics": [
+    "Crime, Law and Justice->police",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Crime, Law and Justice->animal abuse",
+    "Environment->animal",
+    "Environment->endangered species"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Beach",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:03:40.226+03:00",
+  "updated": "2025-05-08T00:07:55.000+00:00"
+}

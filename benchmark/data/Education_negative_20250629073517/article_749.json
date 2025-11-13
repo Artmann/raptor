@@ -1,0 +1,132 @@
+{
+  "thread": {
+    "uuid": "b7759b8021e10976f1d3454917c7608304c490c3",
+    "url": "https://www.foxnews.com/video/6374886568112",
+    "site_full": "www.foxnews.com",
+    "site": "foxnews.com",
+    "site_section": "https://www.foxnews.com/opinion",
+    "site_categories": [
+      "media",
+      "top_news_nz",
+      "top_news_au",
+      "top_news_us",
+      "top_news_pt",
+      "top_news_gb",
+      "top_news_sg",
+      "top_news_ph",
+      "top_news_nl",
+      "top_news_ie",
+      "top_news_pk",
+      "top_news_se",
+      "top_news_dk",
+      "top_news_ch",
+      "top_news_za",
+      "top_news_my",
+      "top_news_il",
+      "top_news_fi",
+      "top_news_be",
+      "top_news_no",
+      "top_news_ca",
+      "top_news"
+    ],
+    "section_title": "Trending Opinion News &amp; Updates  | Fox News",
+    "site_title": "Fox News - Breaking News Updates | Latest News Headlines | Photos &amp; News Videos",
+    "title": "Study indicates using AI reduces students' brain activity, memory | Fox News Video",
+    "title_full": "Study indicates using AI reduces students' brain activity, memory | Fox News Video",
+    "published": "2025-06-26T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f47c310c-91ae-407c-93a8-a10d2944e681/9eab5ed0-7ec7-4a62-8ab9-3caf54b1bbc1/1280x720/match/1024/512/image.jpg?ve=1&amp;tl=1",
+    "performance_score": 0,
+    "domain_rank": 316,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b7759b8021e10976f1d3454917c7608304c490c3",
+  "url": "https://www.foxnews.com/video/6374886568112",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T03:00:00.000+03:00",
+  "title": "Study indicates using AI reduces students' brain activity, memory | Fox News Video",
+  "text": "Live Now\nAll times easternNOW - 7:30 AM\n7:30 AM\n8:00 AM\n8:30 AM\n9:00 AM\n9:30 AM\nFox News Channel\nFox & Friends\n8:00 AM - 9:00 AM\nAmerica's Newsroom\n9:00 AM - 10:00 AM\nFox Business Channel\nMornings With Maria\n8:00 AM - 9:00 AM\nVarney & Company\n9:00 AM - 10:00 AM\nFox Weather Channel\nFox News Radio\nFox News Channel Live",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education", "Health", "Social Issue"],
+  "topics": [
+    "Education->online and remote learning",
+    "Education->teachers",
+    "Education->students",
+    "Health->medical condition",
+    "Health->health care approach",
+    "Health->health treatment and procedure",
+    "Social Issue->social networking",
+    "Social Issue->social services",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Fox News Channel\nFox",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "b7759b8021e10976f1d3454917c7608304c490c3",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [
+      "top_news_nz",
+      "top_news_au",
+      "top_news_us",
+      "top_news_pt",
+      "top_news_gb",
+      "top_news_sg",
+      "top_news_ph",
+      "top_news_nl",
+      "top_news_ie",
+      "top_news_pk",
+      "top_news_se",
+      "top_news_dk",
+      "top_news_ch",
+      "top_news_za",
+      "top_news_my",
+      "top_news_il",
+      "top_news_fi",
+      "top_news_be",
+      "top_news_no",
+      "top_news_ca",
+      "top_news"
+    ],
+    "bias": "right"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:27:26.265+03:00",
+  "updated": "2025-06-27T12:13:19.000+00:00"
+}

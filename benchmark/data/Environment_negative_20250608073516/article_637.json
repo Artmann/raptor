@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "e4f84227962fffe074aee787e2df6cbd5fc52360",
+    "url": "https://article.wn.com/view/2025/05/08/Climate_change_is_disrupting_the_human_gut_in_a_new_path_to_",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://worldphotos.com",
+    "site_categories": ["media"],
+    "section_title": "WorldPhotos.com",
+    "site_title": "World News",
+    "title": "Climate change is disrupting the human gut in a new path to illness - Worldnews.com",
+    "title_full": "Climate change is disrupting the human gut in a new path to illness - Worldnews.com",
+    "published": "2025-05-08T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4256,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e4f84227962fffe074aee787e2df6cbd5fc52360",
+  "url": "https://article.wn.com/view/2025/05/08/Climate_change_is_disrupting_the_human_gut_in_a_new_path_to_",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T03:00:00.000+03:00",
+  "title": "Climate change is disrupting the human gut in a new path to illness - Worldnews.com",
+  "text": "Climate-induced changes in the yield and nutritional quality of various foods could tip the balance of gut microbiota towards strains associated with malnutrition read full story",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Environment"],
+  "topics": [
+    "Health->health care approach",
+    "Health->medical condition",
+    "Environment->sustainability",
+    "Environment->environmental pollution",
+    "Environment->climate change"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.thehindu.com/sci-tech/science/climate-change-is-disrupting-the-human-gut-in-a-new-path-to-illness/article69534716.ece",
+    "https://thehindu.com/sci-tech/science/climate-change-is-disrupting-the-human-gut-in-a-new-path-to-illness/article69534716.ece"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:21:10.802+03:00",
+  "updated": "2025-05-08T02:27:27.000+00:00"
+}

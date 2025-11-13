@@ -1,0 +1,155 @@
+{
+  "thread": {
+    "uuid": "4fad9c975203e9bed4d940b3f0fc359d7c937ff7",
+    "url": "https://news.knowledia.com/us/en/articles/reports-suggest-light-could-be-dimming-for-epa-s-energy-efficiency-b785a45b3c6dbcf8da95cdae86c4c9edd59030bf",
+    "site_full": "news.knowledia.com",
+    "site": "knowledia.com",
+    "site_section": "https://news.knowledia.com/us/en",
+    "site_categories": ["uncategorized"],
+    "section_title": "Knowledia News",
+    "site_title": null,
+    "title": "Reports suggest light could be dimming for EPA's energy efficiency program Energy Star - UPI.com",
+    "title_full": "Reports suggest light could be dimming for EPA's energy efficiency program Energy Star - UPI.com",
+    "published": "2025-05-08T05:52:18.448+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 81243,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4fad9c975203e9bed4d940b3f0fc359d7c937ff7",
+  "url": "https://news.knowledia.com/us/en/articles/reports-suggest-light-could-be-dimming-for-epa-s-energy-efficiency-b785a45b3c6dbcf8da95cdae86c4c9edd59030bf",
+  "ord_in_thread": 0,
+  "author": "Mike Heuer",
+  "published": "2025-05-08T05:52:18.448+03:00",
+  "title": "Reports suggest light could be dimming for EPA's energy efficiency program Energy Star - UPI.com",
+  "text": "The Environmental Protection Agency has proposed ending its decades-old Energy Star program that helps consumers save money by purchasing energy-efficient appliances, several reports say. Environmental Protection Agency Administrator Lee Zeldin (pictured at the White House in February) on Friday announced planned agency changes that could include ending its Energy Star program, which identifies energy-efficient appliances. File Photo by Samuel Corum/UPI | License Photo\nMay 7 (UPI) --\nThe proposed end to the EPA's Energy Star program would be part of the agency's efforts to cut costs and improve efficiency, CNN, CBS News and Utility Dive reported.\nEnergy Star was created in 1992 during President George H.W. Bush's administration.\nEPA Administrator Lee Zeldin on Friday announced the agency's next phase of \"organizational improvements to better integrate science into agency offices\" and \"deliver clean air, land and water to…\nMike Heuer",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Environment",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Environment->sustainability",
+    "Environment->environmental pollution",
+    "Environment->energy saving",
+    "Economy, Business and Finance->energy and resource",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->financial and economic news",
+    "Social Issue->values",
+    "Social Issue->social condition",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.upi.com/Top_News/US/2025/05/07/Reports-suggest-light-could-be-dimming-for-EPAs-energy-efficiency-program-Energy-Star/5971746659173/",
+    "https://www.upi.com/Top_News/US/2025/05/07/Reports-suggest-light-could-be-dimming-for-EPAs-energy-efficiency-program-Energy-Star/5971746659173",
+    "https://upi.com/Top_News/US/2025/05/07/Reports-suggest-light-could-be-dimming-for-EPAs-energy-efficiency-program-Energy-Star/5971746659173/"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "George H.W. Bush",
+        "sentiment": "none"
+      },
+      {
+        "name": "Samuel Corum",
+        "sentiment": "none"
+      },
+      {
+        "name": "Mike Heuer",
+        "sentiment": "none"
+      },
+      {
+        "name": "Lee Zeldin",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "White House",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "EPA",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Environmental Protection Agency",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Energy Star",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "CBS News",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "CNN",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "WBD",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:52:18.448+03:00",
+  "updated": "2025-05-08T02:56:15.000+00:00"
+}

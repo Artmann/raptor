@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "ee102803eda5102a846d6f7dc77ec7a016bf6fe3",
+    "url": "https://www.archyde.com/major-accident-on-a15-motorway-near-manage-liege-traffic-updates-and-road-closures/",
+    "site_full": "www.archyde.com",
+    "site": "archyde.com",
+    "site_section": "https://www.archyde.com/rss",
+    "site_categories": ["media"],
+    "section_title": "Archyde",
+    "title": "Major Accident on A15 Motorway near Manage, Liège: Traffic Updates and Road Closures",
+    "title_full": "Major Accident on A15 Motorway near Manage, Liège: Traffic Updates and Road Closures",
+    "published": "2023-12-29T01:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.dhnet.be/resizer/sMHxrnTWtSWk-2D4uOGi3-Cmq00=/1200x630/filters:format(jpeg):focal(1245x861.5:1255x851.5):watermark(cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/KSYODHLMNBBMDA7B5YPJPTFVNY.png,0,-0,0,100)/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/BDHAJCGIL5FIPH757Z4OOPASJE.jpg",
+    "performance_score": 0,
+    "domain_rank": 18781,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ee102803eda5102a846d6f7dc77ec7a016bf6fe3",
+  "url": "https://www.archyde.com/major-accident-on-a15-motorway-near-manage-liege-traffic-updates-and-road-closures/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "archyde",
+  "published": "2023-12-29T01:30:00.000+02:00",
+  "title": "Major Accident on A15 Motorway near Manage, Liège: Traffic Updates and Road Closures",
+  "text": "2023-12-28 08:00:00\nIt was around 3:45 a.m. during the night from Wednesday to Thursday when an accident occurred between two vehicles on the A15 (E42) motorway towards Liège and near Manage. Shortly after, a truck appeared on the roadway, was unable to avoid the two vehicles for a still unknown reason and hit them. He then found himself on his side and spread out across the entire roadway.\nLuckily, whether it was the accident or the subsequent accident, there were only three minor injuries who escaped well given the circumstances. The damage is therefore mainly material.\nOn the other hand, the highway has been completely blocked since these accidents occurred and there are numerous traffic problems. The three traffic lanes are thus closed as well as the emergency lane between kilometers 95 and 99 of the highway.\nDiversions have been put in place while the road is cleared, particularly via the N59 towards Seneffe, but the sector should be strongly avoided.\n1703806231\n#double #accident #vehicles #truck #Manage #paralyzes #E42 #motorway",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Human Interest"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "seneffe",
+        "sentiment": "none"
+      },
+      {
+        "name": "liège",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:34:34.596+02:00",
+  "updated": "2023-12-29T01:34:34.596+02:00"
+}

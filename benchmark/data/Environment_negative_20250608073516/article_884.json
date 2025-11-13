@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "591586bb25551e79b1224155b6f90fb480a04cc0",
+    "url": "https://sakhalinmedia.ru/news/2073608",
+    "site_full": "sakhalinmedia.ru",
+    "site": "sakhalinmedia.ru",
+    "site_section": "http://feeds.feedburner.com/vesti365",
+    "site_categories": ["media"],
+    "section_title": "Россия 365",
+    "site_title": "Новости Южно-Сахалинска, Сахалина (Сахалинской области) - SakhalinMedia.ru",
+    "title": "Сивуч застрял на штыре брекватера в Невельске",
+    "title_full": "Сивуч застрял на штыре брекватера в Невельске",
+    "published": "2025-05-08T00:58:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://primamediamts.servicecdn.ru/f/main/5285/5284358.png?99b8b4e4af78508e15ab59a861fe0e2e",
+    "performance_score": 0,
+    "domain_rank": 175940,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "591586bb25551e79b1224155b6f90fb480a04cc0",
+  "url": "https://sakhalinmedia.ru/news/2073608",
+  "ord_in_thread": 0,
+  "author": "SakhalinMedia.ru",
+  "published": "2025-05-08T00:58:00.000+03:00",
+  "title": "Сивуч застрял на штыре брекватера в Невельске",
+  "text": "В Невельске взрослая самка сивуча оказалась насаженной на металлический штырь брекватера. Животное висело вниз головой, периодически погружаясь в воду. Была угроза, что она может захлебнуться — с каждым часом вода поднималась, а у самки оставалось все меньше сил держать голову над поверхностью, сообщает ИА SakhalinMedia со ссылкой на telegram-канал \"Фонд Зеленый Сахалин\" (18+).\n— Тюлени, конечно, могут задерживать дыхание на длительное время, и самка, изгибаясь, старалась держать голову над водой, но шел прилив, вода постепенно поднималась и у зверя через какое-то время не осталось бы возможности для маневров, — рассказали в Фонде.\nЖивотное получило неопасные травмы: штырь проткнул шкуру рядом с хвостовым плавником, не задев мышцы и органы. Операция по спасению заняла несколько часов. По словам спасателей, сильно напуганный сивуч мог представлять опасность, так как напуганное раненое взрослое животное предсказуемо будет сопротивляться любым попыткам оказания помощи и в этот момент оно представляет опасность и для человека, и для самого себя.\nЧтобы все прошло безопасно, необходимо было обеспечить тишину, отсутствие резких движений и минимум людей рядом.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Health"],
+  "topics": [
+    "Environment->ecosystem",
+    "Environment->endangered species",
+    "Environment->animal",
+    "Social Issue->mankind",
+    "Social Issue->social condition",
+    "Health->injury",
+    "Health->emergency care",
+    "Health->public health"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:36:50.673+03:00",
+  "updated": "2025-05-08T03:41:55.000+00:00"
+}

@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "65acf45877307b1fb404773a7e81a3ffcecdfe66",
+    "url": "https://www.jacksonville.com/videos/news/crime/2024/04/25/jacksonville-sheriff-discusses-wounded-officer-malik-daricauds-ordeal/73454916007",
+    "site_full": "www.jacksonville.com",
+    "site": "jacksonville.com",
+    "site_section": "https://jacksonville.com/news",
+    "site_categories": ["media"],
+    "section_title": "News - Jacksonville, FL | Florida Times-Union",
+    "title": "Jacksonville sheriff discusses wounded Officer Malik Daricaud's ordeal",
+    "title_full": "Jacksonville sheriff discusses wounded Officer Malik Daricaud's ordeal",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4932,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "65acf45877307b1fb404773a7e81a3ffcecdfe66",
+  "url": "https://www.jacksonville.com/videos/news/crime/2024/04/25/jacksonville-sheriff-discusses-wounded-officer-malik-daricauds-ordeal/73454916007",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "Jacksonville sheriff discusses wounded Officer Malik Daricaud's ordeal",
+  "text": "Jacksonville sheriff discusses wounded Officer Malik Daricaud's ordealSheriff T.K. Waters talks about Officer Malik Daricaud being released from Brooks Rehabilitation after almost 400 days recovering from a shooting.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "malik daricaud",
+        "sentiment": "negative"
+      },
+      {
+        "name": "denis mcdonough",
+        "sentiment": "none"
+      },
+      {
+        "name": "denis-mcdonough",
+        "sentiment": "none"
+      },
+      {
+        "name": "trump",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "florida politic",
+        "sentiment": "none"
+      },
+      {
+        "name": "sun-ray cinema",
+        "sentiment": "none"
+      },
+      {
+        "name": "va",
+        "sentiment": "none"
+      },
+      {
+        "name": "jacksonville veterans",
+        "sentiment": "none"
+      },
+      {
+        "name": "tijuana flats",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "jacksonville",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:12:28.427+03:00",
+  "updated": "2024-04-26T01:36:45.656+03:00"
+}

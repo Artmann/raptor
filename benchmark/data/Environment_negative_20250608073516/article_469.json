@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "957a14091094da2cd5ac5ff5204825dfba3e2897",
+    "url": "https://local.newsbreak.com/fox-13-tampa-bay-287734267/3996488659354-homes-damaged-by-strong-winds",
+    "site_full": "local.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://local.newsbreak.com/fox-13-tampa-bay-287734267",
+    "site_categories": [],
+    "section_title": "FOX 13 Tampa Bay&#x27;s Home Page | NewsBreak",
+    "site_title": "404 Not Found",
+    "title": "Homes damaged by strong winds - NewsBreak",
+    "title_full": "Homes damaged by strong winds - NewsBreak",
+    "published": "2025-05-08T02:13:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/3dFM11_10vxcr6G00",
+    "performance_score": 0,
+    "domain_rank": 3115,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "957a14091094da2cd5ac5ff5204825dfba3e2897",
+  "url": "https://local.newsbreak.com/fox-13-tampa-bay-287734267/3996488659354-homes-damaged-by-strong-winds",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T02:13:00.000+03:00",
+  "title": "Homes damaged by strong winds - NewsBreak",
+  "text": "Open in NewsBreak\n|\nSign in\nChoose your location\nSee all locations\nSign In\nAbout NewsBreak\nPartner with us\nFollow us\n©2024 NewsBreak. All Rights Reserved.\nSebring, Florida\n· 1 hours ago\nFOX 13 Tampa Bay\nHomes damaged by strong winds\n0\n0\nShare\nComments\nLoading editor...\nPost\nCommunity Policy\nYou may also like\nFOX 35 Orlando\n153 ·\n20 days ago\nWPTV West Palm Beach\n22 ·\n03-10\nCBS News\n5 ·\n2 days ago\nABC Action News WFTS\n13 ·\n04-02\nCBS News\n30 ·\n29 days ago\nWPTV West Palm Beach\n18 ·\n2 days ago\n5 On Your Side\n39 ·\n8 days ago\nComments\n/\nClose\nCommunity Policy",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Disaster and Accident", "Social Issue"],
+  "topics": [
+    "Environment->natural resources",
+    "Environment->environmental clean-up",
+    "Environment->climate change",
+    "Disaster and Accident->natural disaster",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "ABC Action News WFTS",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Tampa Bay\nHomes",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "CBS News",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:09:02.004+03:00",
+  "updated": "2025-05-08T01:14:06.000+00:00"
+}

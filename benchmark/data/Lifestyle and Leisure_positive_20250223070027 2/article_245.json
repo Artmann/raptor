@@ -1,0 +1,72 @@
+{
+  "thread": {
+    "uuid": "7f775d3753404200c511e7568dbaac01eea77ac2",
+    "url": "https://www.nola.com/snow-duck/image_20cb8632-d9d1-11ef-b600-cb885c3fb87d.html",
+    "site_full": "www.nola.com",
+    "site": "nola.com",
+    "site_section": "https://www.nola.com/search/?f=rss&amp",
+    "site_categories": ["media"],
+    "section_title": "www.nola.com - RSS Results",
+    "title": "Snow Duck",
+    "title_full": "Snow Duck",
+    "published": "2025-01-23T23:29:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/2/0c/20cb8632-d9d1-11ef-b600-cb885c3fb87d/6792b4f4824df.image.png?crop=1077%2C565%2C0%2C118&amp;resize=1077%2C565&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 2201,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7f775d3753404200c511e7568dbaac01eea77ac2",
+  "url": "https://www.nola.com/snow-duck/image_20cb8632-d9d1-11ef-b600-cb885c3fb87d.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2025-01-23T23:29:00.000+02:00",
+  "title": "Snow Duck",
+  "text": "Snow Duck Jan 23, 2025 38 mins ago Facebook Twitter WhatsApp SMS Email Print Copy article link Save A snow duck with moss hair sits in City Park on Wednesday, January 23, 2025. (Photo by Poet Wolfe) Facebook Twitter WhatsApp SMS Email Print Copy article link Save",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Lifestyle and Leisure", "Human Interest"],
+  "topics": ["Lifestyle and Leisure->outdoor recreational activities"],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Facebook Twitter",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:10:29.218+02:00",
+  "updated": "2025-01-24T00:10:29.218+02:00"
+}

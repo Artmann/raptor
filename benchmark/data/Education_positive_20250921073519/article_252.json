@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "299a3a030a403fa816a188ecd38ee59e256bf28e",
+    "url": "https://www.donaukurier.de/lokales/landkreis-neumarkt/43-maedchen-und-buben-beginnen-ihre-reise-durch-die-schulzeit-19509065",
+    "site_full": "www.donaukurier.de",
+    "site": "donaukurier.de",
+    "site_section": "https://www.donaukurier.de/lokales/landkreis-roth",
+    "site_categories": ["media"],
+    "section_title": "Nachrichten aus dem Landkreis Roth | Lokale Nachrichten | Donaukurier.de",
+    "site_title": "Donaukurier.de",
+    "title": "43 Mädchen und Buben beginnen ihre Reise durch die Schulzeit",
+    "title_full": "43 Mädchen und Buben beginnen ihre Reise durch die Schulzeit",
+    "published": "2025-09-18T08:02:12.714+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://img.donaukurier.de/ezplatform/images/_aliases/detail_teaser_item_image_variation/6/2/6/9/404199626-1-ger-DE/f97c46594995-29-131180681.jpg",
+    "performance_score": 0,
+    "domain_rank": 43275,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "299a3a030a403fa816a188ecd38ee59e256bf28e",
+  "url": "https://www.donaukurier.de/lokales/landkreis-neumarkt/43-maedchen-und-buben-beginnen-ihre-reise-durch-die-schulzeit-19509065",
+  "ord_in_thread": 0,
+  "author": "Ines Greiner",
+  "published": "2025-09-18T08:02:12.714+03:00",
+  "title": "43 Mädchen und Buben beginnen ihre Reise durch die Schulzeit",
+  "text": "An der Hand ihrer Eltern haben sich am Dienstagmorgen auch in Breitenbrunn die Erstklässler auf den Weg in einen neuen Lebensabschnitt gemacht.\nIn der Turnhalle der Grundschule begrüßte Rektorin Susanne Spangler die 43 Mädchen und Buben. Mit Schultasche, Schultüte, Federmäppchen und Turnsäckchen sowie einer Portion Neugier und Mut, vielleicht auch mit etwas Kribbeln im Bauch, hätten sie sich auf den Weg gemacht, so Spangler.\nAuf der Reise durch die Schulzeit gebe es Spannendes zu erleben. Es werde Tage voller Sonnenschein geben, an denen alles leicht ist, aber auch Regentage, an denen man über etwas traurig sei. „Ihr seid nicht alleine unterwegs, eure Lehrer, Mitschüler und Freunde sowie die Eltern sind an eurer Seite“, so Spangler.\nAuch Pfarrer Jacek Machura sprach Segensworte, denn „mit Gott gemeinsam geht alles besser an allen Tagen mit Kraft und Mut“. Nach dem Erinnerungsfoto durften die Kinder in ihre Klassen gehen. Die reine erste Klasse besuchen 27 Kinder, Lehrerin ist Heike Simon. Eine Kombi-Klasse besuchen 16 Erstklässler zusammen mit sieben Kindern aus der zweiten Klasse. Unterrichtet werden sie von Theresa Thumann. In dieser Woche endet der Unterricht um 11.30 Uhr, ab nächste Woche gilt der normale Stundenplan.\nAuch Dieter Knon, der zweite Vorsitzende des Fördervereins der Grundschule, begrüßte die Neuzugänge. Er warb gleichzeitig für seinen Verein, der viele Dinge unterstützt.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->primary education",
+    "Education->parents group",
+    "Education->students",
+    "Social Issue->children",
+    "Social Issue->social services",
+    "Social Issue->family",
+    "Human Interest->graduation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Susanne Spangler",
+        "sentiment": "none"
+      },
+      {
+        "name": "Jacek Machura",
+        "sentiment": "none"
+      },
+      {
+        "name": "Heike Simon",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Breitenbrunn",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:02:12.714+03:00",
+  "updated": "2025-09-18T08:08:29.000+03:00"
+}

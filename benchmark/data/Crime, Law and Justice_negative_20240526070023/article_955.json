@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "305067020a8b1a8428d545e756e4a3bdfe5c224d",
+    "url": "https://www.news-gazette.com/news/urbana-police-seek-tips-on-brookstone-court-shooting/article_ed3296bc-28c9-5485-95cd-a2ffd1635026.html",
+    "site_full": "www.news-gazette.com",
+    "site": "news-gazette.com",
+    "site_section": "http://news-gazette.com/",
+    "site_categories": ["media"],
+    "section_title": "News-Gazette | Your Source for News and Advertising in East Central Illinois",
+    "title": "Urbana police seek tips on Brookstone Court shooting | News | news-gazette.com",
+    "title_full": "Urbana police seek tips on Brookstone Court shooting | News | news-gazette.com",
+    "published": "2024-04-25T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/news-gazette.com/content/tncms/custom/image/3d3bfbd4-3cf5-11ec-9461-574a9d514a20.jpg?resize=600%2C315",
+    "performance_score": 0,
+    "domain_rank": 14941,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "305067020a8b1a8428d545e756e4a3bdfe5c224d",
+  "url": "https://www.news-gazette.com/news/urbana-police-seek-tips-on-brookstone-court-shooting/article_ed3296bc-28c9-5485-95cd-a2ffd1635026.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "JANA WIERSEMA jwiersema@news-gazette.com",
+  "published": "2024-04-25T08:00:00.000+03:00",
+  "title": "Urbana police seek tips on Brookstone Court shooting | News | news-gazette.com",
+  "text": "URBANA — The Urbana Police Department is seeking information about a shooting. At around noon on Thursday, police responded to multiple reports of shots fired near the 1200 to 1300 block of Brookstone Court. Officers found at least four shell casings near the entrance to Hamilton on the Park Apartments, located at 1201 Brookstone Ct., and gunfire struck a window at the apartment complex's office, the department said. No victims have come forward, as of Thursday afternoon. \"Presently, there is no clear indication of a motive or intended target in this incident,\" UPD officials said. \"Despite the proximity to Booker T. Washington School, there is currently no evidence to suggest the involvement of the school or any students in the shooting.\" The police urge anyone with additional information about the incident or video footage to contact them at 217-384-2320. Arrangements can be made for information to be shared privately. Individuals who wish to remain anonymous can submit tips to Crime Stoppers at 217-373-8477 (TIPS), [373tips.com](http://373tips.com), or through the \"P3 Tips\" mobile app. Crime Stoppers offers cash rewards of up to $5,000 for tips leading to an arrest in any homicide case, $2,500 for tips leading to an arrest in a felony crime involving a firearm, and up to $1,000 for tips resulting in the arrest of the person(s) responsible for any other crime.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": ["http://373tips.com),", "http://www.373tips.com),"],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "brookstone court",
+        "sentiment": "negative"
+      },
+      {
+        "name": "urbana police department",
+        "sentiment": "negative"
+      },
+      {
+        "name": "booker t. washington school",
+        "sentiment": "none"
+      },
+      {
+        "name": "upd",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "urbana",
+        "sentiment": "none"
+      },
+      {
+        "name": "urbana",
+        "sentiment": "none"
+      },
+      {
+        "name": "brookstone ct.",
+        "sentiment": "none"
+      },
+      {
+        "name": "hamilton",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:47:21.343+03:00",
+  "updated": "2024-04-26T00:47:21.343+03:00"
+}

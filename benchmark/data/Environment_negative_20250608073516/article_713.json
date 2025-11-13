@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "9b0d971fbb98b0ced691ea2fffde76133b037118",
+    "url": "https://www.ultimahora.es/noticias/local/2025/05/08/2382123/cambio-climatico-efectos-mar-1.html",
+    "site_full": "www.ultimahora.es",
+    "site": "ultimahora.es",
+    "site_section": "https://www.ultimahora.es/feed.rss",
+    "site_categories": ["media", "top_news_es", "top_news"],
+    "section_title": "Ultima Hora",
+    "site_title": "Ultima Hora",
+    "title": "La temperatura del Mar Balear está en 2025 siempre por encima de su media",
+    "title_full": "La temperatura del Mar Balear está en 2025 siempre por encima de su media",
+    "published": "2025-05-08T05:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3295671.jpg",
+    "performance_score": 0,
+    "domain_rank": 25944,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9b0d971fbb98b0ced691ea2fffde76133b037118",
+  "url": "https://www.ultimahora.es/noticias/local/2025/05/08/2382123/cambio-climatico-efectos-mar-1.html",
+  "ord_in_thread": 0,
+  "author": "Joan J. Serra",
+  "published": "2025-05-08T05:00:00.000+03:00",
+  "title": "La temperatura del Mar Balear está en 2025 siempre por encima de su media",
+  "text": "CAMBIO CLIMÁTICO\nLa temperatura del Mar Balear está en 2025 siempre por encima de su media\nEl pasado 15 de abril se registró la diferencia máxima, de 2,13 grados, sobre el período de referencia\nPeces en el Mar Balear con plásticos flotando en la superficie. Foto: NÉSTOR CARDA. | NÃSTOR CARDA\n08/05/25 4:00\nLa temperatura del Mar Balear ha estado a lo largo del presente 2025 siempre por encima de la media de su período de referencia, que abarca entre 1982 y 2015, según los datos del Sistema d’Observació Costanera de les Illes Balears (SOCIB).\nTambién en Noticias\n¿Cómo se llama el árbol del mango? Este es su nombre que muy pocos conocenLos narcos construyen una nueva caseta en Son Banya y la pintan de la bandera española: «Así no la tirarán»Atrincherados en el Sorrento: un grupo de refugiados ucranianos se niega a abandonar el antiguo hostal¿Cómo se llama el árbol del anacardo? Este es su nombre que muy pocos conocenLa Guardia Civil extrema la vigilancia en este movimiento de los conductores y sanciona con multas de 200 euros y la retirada de dos puntos del carné",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Environment", "Health", "Social Issue"],
+  "topics": [
+    "Environment->global warming",
+    "Environment->climate change",
+    "Environment->water",
+    "Health->public health",
+    "Health->medical condition",
+    "Health->health care approach",
+    "Social Issue->social condition",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Mar Balear",
+        "sentiment": "none"
+      },
+      {
+        "name": "Son Banya",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Guardia Civil",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:53:57.284+03:00",
+  "updated": "2025-05-08T02:59:05.000+00:00"
+}

@@ -1,0 +1,136 @@
+{
+  "thread": {
+    "uuid": "a44105eeb0bf8f36d8c66ef6d4c75127b50cf6b7",
+    "url": "https://www.time.news/lebanon-israel-border-shelling-continues-as-officials-meet-with-foreign-counterparts/",
+    "site_full": "www.time.news",
+    "site": "time.news",
+    "site_section": "https://time.news/feed",
+    "site_categories": [],
+    "section_title": "timenews",
+    "title": "Lebanon-Israel border shelling continues as officials meet with foreign counterparts",
+    "title_full": "Lebanon-Israel border shelling continues as officials meet with foreign counterparts",
+    "published": "2023-12-29T01:32:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.cnn.com/cnnnext/dam/assets/231226110245-israeli-bombardment-gaza-12-26-2023-super-tease.jpg",
+    "performance_score": 0,
+    "domain_rank": 62144,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a44105eeb0bf8f36d8c66ef6d4c75127b50cf6b7",
+  "url": "https://www.time.news/lebanon-israel-border-shelling-continues-as-officials-meet-with-foreign-counterparts/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "time news",
+  "published": "2023-12-29T01:32:00.000+02:00",
+  "title": "Lebanon-Israel border shelling continues as officials meet with foreign counterparts",
+  "text": "Tensions Escalate along Lebanon-Israel Border\nShelling along the Lebanon-Israel border continued Thursday, as Lebanese officials spent the day in meetings with foreign counterparts from France and Britain about the growing conflict between Israel and Hezbollah, the powerful Iran-backed paramilitary group.\nHezbollah claimed it carried out simultaneous attacks around 4 p.m. local time (9 a.m. ET) — targeting multiple “barracks” across northern Israel.\nThe Israel Defense Forces told CNN that approximately 20 launches were detected on Thursday that were aimed at Kiryat Shmona, a northern Israeli municipality that has been the target of Hezbollah strikes over the last several days. The municipality claimed two anti-tank missiles were fired at the town earlier in the day. Hezbollah made six direct missile hits on Kiryat Shmona on Wednesday.\nLebanon’s Prime Minister Najib Mikati met with British Foreign Secretary David Cameron in Beirut on Thursday and also spoke with French Foreign and European Affairs Minister Catherine Colonna on a call to discuss the growing clashes in southern Lebanon and northern Israel. Mikati called for “maximum pressure to stop the Israeli attacks on southern Lebanon” during his meeting with Cameron, according to a social media post from the Lebanese government.\nCameron said in a post on X that an “escalation of the conflict in Gaza to Lebanon, the Red Sea or across the wider region, would add to the extremely high level of danger and insecurity in the world.” The fighting is among various incidents involving Iran and its proxies that have raised global concerns that Israel’s war in Gaza could widen into a greater regional conflict.\nREAD Also: US President Biden to Meet with Israeli Officials, Emphasizes Friendship and Tough Questions\nAs the threat of greater violence between Hezbollah and Israel rises, evidence of the growing tensions on the ground in Lebanon is appearing. The United Nations Interim Force in Lebanon (UNFIL) on Thursday called on Lebanese authorities to investigate after an attack on a patrol unit. The UN peacekeeping mission in southern Lebanon says the attack “by a group of young men” in the southern city of Taybeh left a peacekeeper wounded and a vehicle damaged, according to an X account run by UNIFIL.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Politics",
+    "War, Conflict and Unrest",
+    "Disaster and Accident"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "thu",
+        "sentiment": "negative"
+      },
+      {
+        "name": "david cameron",
+        "sentiment": "none"
+      },
+      {
+        "name": "catherine colonna",
+        "sentiment": "none"
+      },
+      {
+        "name": "najib mikati",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cnn",
+        "sentiment": "none"
+      },
+      {
+        "name": "israel defense forces",
+        "sentiment": "none"
+      },
+      {
+        "name": "european affairs",
+        "sentiment": "none"
+      },
+      {
+        "name": "hezbollah",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "lebanon",
+        "sentiment": "none"
+      },
+      {
+        "name": "israel",
+        "sentiment": "none"
+      },
+      {
+        "name": "iran",
+        "sentiment": "none"
+      },
+      {
+        "name": "kiryat shmona",
+        "sentiment": "none"
+      },
+      {
+        "name": "britain",
+        "sentiment": "none"
+      },
+      {
+        "name": "beirut",
+        "sentiment": "none"
+      },
+      {
+        "name": "france",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:34:10.916+02:00",
+  "updated": "2023-12-29T01:34:10.916+02:00"
+}

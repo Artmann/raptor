@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "d83065c2bd93a0b474190740607ef10251cb3d90",
+    "url": "https://independenttribune.com/news/local/education/article_ba59d314-9394-4a08-8077-b6758d9e514a.html",
+    "site_full": "independenttribune.com",
+    "site": "independenttribune.com",
+    "site_section": "https://www2.independenttribune.com",
+    "site_categories": ["media"],
+    "section_title": "Independent Tribune | Breaking News | | Read the latest news for Concord, Kannapolis, Harrisburg & Cabarrus County, North Carolina. Get breaking news, sports, weather, entertainment, and more.",
+    "site_title": "Independent Tribune | Breaking News | | Read the latest news for Concord, Kannapolis, Harrisburg & Cabarrus County, North Carolina. Get breaking news, sports, weather, entertainment, and more.",
+    "title": "Project Kitty Hawk boosts growth at ECU, ASU N.C. Central",
+    "title_full": "Project Kitty Hawk boosts growth at ECU, ASU N.C. Central",
+    "published": "2025-09-18T03:15:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/independenttribune.com/content/tncms/assets/v3/editorial/b/a5/ba59d314-9394-4a08-8077-b6758d9e514a/68cb4d3bb5046.preview.jpg?crop=1025%2C538%2C0%2C16",
+    "performance_score": 0,
+    "domain_rank": 344387,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d83065c2bd93a0b474190740607ef10251cb3d90",
+  "url": "https://independenttribune.com/news/local/education/article_ba59d314-9394-4a08-8077-b6758d9e514a.html",
+  "ord_in_thread": 0,
+  "author": "FROM STAFF REPORTS",
+  "published": "2025-09-18T03:15:00.000+03:00",
+  "title": "Project Kitty Hawk boosts growth at ECU, ASU N.C. Central",
+  "text": "RALEIGH – Project Kitty Hawk has hit key growth and enrollment milestones for partner universities as the fall 2025 term begins.\nThe nonprofit affiliate of the UNC System, which helps North Carolina’s public universities develop and launch online degree programs designed for adult learners, has served 2,360 new students since its first academic program launched in October 2023. For the fall term, 1,875 learners are enrolled in 15 Project Kitty Hawk-powered degree programs – called “Flight Path” programs – a nearly 250% increase year over year.\nRecent news coverage and public statements from partner universities underscore Project Kitty Hawk’s role in supporting enrollment growth, especially as universities seek to diversify their enrollment pipelines.\nAt East Carolina University, “683 students [are enrolled] in online Flight Path programs, an increase of 118% from enrollment in the first eight-week block of courses last fall,” WECT reported. Chancellor Philip Rogers said, “We are proud to see dramatic enrollment growth in our Flight Path programs thanks to our innovative partnership with Project Kitty Hawk.”\nAppalachian State University this month credited Project Kitty Hawk with boosting online student enrollment: “App State Online programs have experienced growth for the sixth consecutive year, enrolling 3,216 students — almost 15% of the total student body at App State and a nearly 28% increase over fall 2024. Online enrollment includes 443 students in App State’s five Project Kitty Hawk-supported Flight Path programs, which are tailored for adult learners. App State is developing a sixth Flight Path program in marketing, set to launch in spring 2026.”\nAnd North Carolina Central University, in announcing record growth, pointed to Project Kitty Hawk as one reason why: “Online programs are the fastest-growing area, with 2,018 students enrolled this fall, a 47.2% increase over last year, driven by growth in both Project Kitty Hawk-powered and NCCU Online enrollment.”\nProject Kitty Hawk CEO Andrew Kelly said: “We’re doing what we said we’d do -- helping partner universities in the UNC System develop and launch degree programs that expand access to hard-working adults across the state. We are proud of the work we do to amplify and extend the world-class education our partner universities provide, and in the process help the country’s best public university system continue to grow and thrive.”\nProject Kitty Hawk currently supports Flight Path programs across three university partners. A fourth, North Carolina Agricultural and Technical State University, will launch its first programs in January 2026.\nAbout Project Kitty Hawk\nProject Kitty Hawk is a nonprofit affiliate of the UNC System that helps North Carolina’s public universities develop and launch online degree programs specifically designed for adults.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Education",
+    "Economy, Business and Finance",
+    "Human Interest"
+  ],
+  "topics": [
+    "Education->students",
+    "Education->educational grading",
+    "Education->college and university",
+    "Economy, Business and Finance->human resources",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Human Interest->graduation"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Philip Rogers",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "East Carolina University",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Kannapolis",
+        "Concord",
+        "Harrisburg",
+        "Mount Pleasant",
+        "Midland"
+      ],
+      "state": ["North Carolina"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:36:42.772+03:00",
+  "updated": "2025-09-18T08:42:36.000+03:00"
+}

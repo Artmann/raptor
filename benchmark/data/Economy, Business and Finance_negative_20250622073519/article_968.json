@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "2c4d4a73c1b6c7bf3619d1788ca6c24b98285967",
+    "url": "https://www.perthnow.com.au/politics/us-tightens-social-media-vetting-for-foreign-students-c-19085187",
+    "site_full": "www.perthnow.com.au",
+    "site": "perthnow.com.au",
+    "site_section": "https://www.perthnow.com.au/feed",
+    "site_categories": [
+      "media",
+      "cricket",
+      "sports",
+      "top_news_au",
+      "top_news"
+    ],
+    "section_title": "PerthNow",
+    "site_title": "PerthNow | Breaking News from Perth and Western Australia",
+    "title": "US tightens social media vetting for foreign students",
+    "title_full": "US tightens social media vetting for foreign students",
+    "published": "2025-06-19T06:23:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://images.perthnow.com.au/publication/C-19085187/fa1a8d2da9362355fa8f8f1e40670b69ff62c4a6-16x9-x0y0w1280h720.jpg?imwidth=1200",
+    "performance_score": 0,
+    "domain_rank": 8564,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2c4d4a73c1b6c7bf3619d1788ca6c24b98285967",
+  "url": "https://www.perthnow.com.au/politics/us-tightens-social-media-vetting-for-foreign-students-c-19085187",
+  "ord_in_thread": 0,
+  "author": "Humeyra Pamuk Reuters",
+  "published": "2025-06-19T06:23:00.000+03:00",
+  "title": "US tightens social media vetting for foreign students",
+  "text": "People wanting to study in US universities will now have to make their social media accounts available for vetting, in a bid to identify any applicants who may be 'hostile'.\nAccording to an internal State Department cable reviewed by Reuters, US consular officers will be required to conduct a \"comprehensive and thorough vetting\" of all student and exchange visitor applicants to identify those who \"bear hostile attitudes toward our citizens, culture, government, institutions, or founding principles.\"\nThe cable, dated June 18 was sent to US missions on Wednesday.\nOn May 27, the Trump administration ordered its missions abroad to stop scheduling new appointments for student and exchange visitor visa applicants.\nUS Secretary of State Marco Rubio said updated guidance would be released once a review was completed.\nThe June 18 dated cable, which was sent by Rubio and sent to all US diplomatic missions, directed officers to look for \"applicants who demonstrate a history of political activism, especially when it is associated with violence or with the views and activities described above, you must consider the likelihood they would continue such activity in the United States.\"\nThe cable authorised the consular officers to ask the applicants to make all of their social media accounts public.\n\"Remind the applicant that limited access to....online presence could be construed as an effort to evade or hide certain activity,\" the cable said.\nThe move follows the administration's enhanced vetting measures last month for visa applicants looking to travel to Harvard University for any purpose, in what a separate State Department cable said would serve as a pilot program for wider expanded screening.\nDuring the vetting, the directive asks officers to look for any potentially derogatory information about the applicant.\n\"For example, during an online presence search, you might discover on social media that an applicant endorsed Hamas or its activities,\" the cable says, adding that may be a reason for ineligibility.\nRubio, Trump's top diplomat and national security adviser, has said he's revoked the visas of hundreds, perhaps thousands of people, including students, because they got involved in activities that 'went against' US foreign policy priorities.\nThose activities include support for Palestinians and criticism of Israel's conduct in the war in Gaza.\nA Tufts University student from Turkey was held for over six weeks in an immigration detention centre in Louisiana after co-writing an opinion piece criticising her school's response to Israel's war in Gaza. She was released from custody after a federal judge granted her bail.\nTrump's critics have said the administration's actions are an attack on free speech rights under the First Amendment of the US Constitution.\nWhile the new directive allows posts to resume scheduling for student and exchange visa applicants, it is warning the officers that there may have to be fewer appointments due to the demands of more extensive vetting.\nAt Harvard, the oldest and wealthiest US university on which the administration has launched a multifront attack by freezing its billions of dollars of grants and other funding, foreign students last year made up about 27 per cent of the total student population.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Politics", "Social Issue", "Economy, Business and Finance"],
+  "topics": [
+    "Politics->government policy",
+    "Politics->migration policy",
+    "Politics->civil rights",
+    "Social Issue->immigration",
+    "Social Issue->social services",
+    "Economy, Business and Finance->economy",
+    "Economy, Business and Finance->business governance"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Marco Rubio",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "State Department",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Reuters",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_au", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:43:44.632+03:00",
+  "updated": "2025-06-20T05:06:24.000+00:00"
+}

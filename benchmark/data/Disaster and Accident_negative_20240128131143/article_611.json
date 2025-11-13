@@ -1,0 +1,132 @@
+{
+  "thread": {
+    "uuid": "fd9c4908642cac69ab9e0fe9f977c4aea28fdc9a",
+    "url": "https://abc-7.com/news/2023/12/28/deputies-investigate-bomb-threat-at-sanibel-island-synagogue/",
+    "site_full": "abc-7.com",
+    "site": "abc-7.com",
+    "site_section": "https://abc-7.com",
+    "site_categories": ["media"],
+    "section_title": "Home - ABC7 Southwest Florida",
+    "title": "Bomb hoax at Sanibel Island synagogue - ABC7 Southwest Florida",
+    "title_full": "Bomb hoax at Sanibel Island synagogue - ABC7 Southwest Florida",
+    "published": "2023-12-28T23:29:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://abc-7.com/wp-content/uploads/2023/12/police-car_.png",
+    "performance_score": 0,
+    "domain_rank": 35599,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fd9c4908642cac69ab9e0fe9f977c4aea28fdc9a",
+  "url": "https://abc-7.com/news/2023/12/28/deputies-investigate-bomb-threat-at-sanibel-island-synagogue/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "ABC7 News",
+  "published": "2023-12-28T23:29:00.000+02:00",
+  "title": "Bomb hoax at Sanibel Island synagogue - ABC7 Southwest Florida",
+  "text": "SANIBEL ISLAND, Fla. — The Lee County Sheriff’s Office investigated a bomb threat to a Bat Yam Temple of the Islands synagogue on Sanibel Island. Sanibel Island Police and LCSO say the threat was sent via email to a member of the synagogue. Rabbi Sunny Schnitzer says the email came through their website and went to 25 congregations stating, “A bomb is on property and wish all to be dead”. The synagogue also shares a building with the Sanibel Congregational United Church of Christ at 2050 Periwinkle Way. After a thorough investigation, the threat was found to be a hoax. “The Sanibel Police Department and our partner law enforcement agencies take these threats very seriously,” said Deputy Chief Anthony Thompson. “The threat was deemed a hoax, and the scene has been cleared by the Sanibel Police Department.” Mayor Richard Johnson said, “I’m thankful for the quick response by the Sanibel Police Department and the Lee County Sheriff’s Office to secure and clear the church and synagogue grounds. It is unfortunate that this threat against Sanibel’s Jewish community took place, and I am grateful everyone is safe”. Get More from ABC7 as the latest details are released.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Human Interest",
+    "Disaster and Accident",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "yam templ",
+        "sentiment": "negative"
+      },
+      {
+        "name": "schnitzer",
+        "sentiment": "none"
+      },
+      {
+        "name": "richard johnson",
+        "sentiment": "none"
+      },
+      {
+        "name": "anthony thompson",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "lee county sheriff’s office",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "lcso",
+        "sentiment": "none"
+      },
+      {
+        "name": "sanibel congregational united church of christ",
+        "sentiment": "none"
+      },
+      {
+        "name": "sanibel police department",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "fla.",
+        "sentiment": "none"
+      },
+      {
+        "name": "sanibel island",
+        "sentiment": "none"
+      },
+      {
+        "name": "southwest florida sanibel island",
+        "sentiment": "none"
+      },
+      {
+        "name": "periwinkle way",
+        "sentiment": "none"
+      },
+      {
+        "name": "sanibel",
+        "sentiment": "none"
+      },
+      {
+        "name": "islands",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:51:16.916+02:00",
+  "updated": "2023-12-29T00:51:16.916+02:00"
+}

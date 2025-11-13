@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "e00e4550a52c125745d48e950f97f4f447bece80",
+    "url": "https://madison.com/news/state-regional/wisconsin-church-tornadoes-argyle/article_f7c1638c-3189-11ef-9522-5bbb75ce8843.html",
+    "site_full": "madison.com",
+    "site": "madison.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": ["media"],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "Wisconsin congregates after tornado destroys local church",
+    "title_full": "Wisconsin congregates after tornado destroys local church",
+    "published": "2024-06-23T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/f/7c/f7c1638c-3189-11ef-9522-5bbb75ce8843/66788755942a5.preview.jpg?crop=1784%2C937%2C0%2C112&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 3723,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 22,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e00e4550a52c125745d48e950f97f4f447bece80",
+  "url": "https://madison.com/news/state-regional/wisconsin-church-tornadoes-argyle/article_f7c1638c-3189-11ef-9522-5bbb75ce8843.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Emilie Heidemann",
+  "published": "2024-06-23T03:00:00.000+03:00",
+  "title": "Wisconsin congregates after tornado destroys local church",
+  "text": "ARGYLE — “We are going to be okay.”\nThe Rev. Dan Bohlman, pastor of Apple Grove Lutheran Church that was destroyed Saturday by a tornado , told this Sunday morning to more than 100 people gathered near what little was left of the 129-year-old church building during a worship service to grieve its loss.\nThe crowd convened just to the left of the rubble, some visitors crying with others somberly soaking in Bohlman’s words as he began the service. Attendees clapped when Bohlman said all would be well. They later sang hymns and songs like “Amazing Grace,” prayed, took communion and shared memories regarding Apple Grove.\nAlysabeth Lantz finds the wooden cross made by her great-grandfather in the debris Sunday.\nAMBER ARNOLD, STATE JOURNAL",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Disaster and Accident",
+    "Human Interest",
+    "Religion and Belief"
+  ],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "dan bohlman",
+        "sentiment": "negative"
+      },
+      {
+        "name": "apple grov",
+        "sentiment": "none"
+      },
+      {
+        "name": "bohlman",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "apple grove lutheran church",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "wisconsin",
+        "sentiment": "none"
+      },
+      {
+        "name": "apple grove",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-23T23:54:55.814+03:00",
+  "updated": "2024-07-06T05:55:54.105+03:00"
+}

@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "3277c59c616a23b64bf36f9d701f5872d2fb19cc",
+    "url": "https://the-riotact.com/airtag-led-act-policing-to-30000-worth-of-stolen-e-bikes-and-e-scooters/733795",
+    "site_full": "the-riotact.com",
+    "site": "the-riotact.com",
+    "site_section": "https://the-riotact.com/feed",
+    "site_categories": ["media"],
+    "section_title": "Riotact",
+    "title": "AirTag led ACT Policing to $30,000 worth of stolen e-bikes and e-scooters",
+    "title_full": "AirTag led ACT Policing to $30,000 worth of stolen e-bikes and e-scooters",
+    "published": "2023-12-29T05:13:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://the-riotact.com/wp-content/uploads/2023/12/bikes-and-scooters-1080x630.png",
+    "performance_score": 0,
+    "domain_rank": 72185,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3277c59c616a23b64bf36f9d701f5872d2fb19cc",
+  "url": "https://the-riotact.com/airtag-led-act-policing-to-30000-worth-of-stolen-e-bikes-and-e-scooters/733795",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Lizzie Waymouth",
+  "published": "2023-12-29T05:13:00.000+02:00",
+  "title": "AirTag led ACT Policing to $30,000 worth of stolen e-bikes and e-scooters",
+  "text": "An Apple AirTag has helped ACT Policing recover 21 stolen e-bikes and electric scooters, which were found after the search of a home in Ngunnawal yesterday (28 December).\nIn December 2022, an e-bike that had an AirTag fixed to it was stolen. Earlier this month, the AirTag transmitted its location to the owner and police sought a search warrant for a home in Ngunnawal.\nGungahlin Station general duties officers executed the search warrant yesterday and located the stolen e-bike, as well as other items believed to be stolen.\nIn total, six e-bikes, 15 electric scooters, a car trailer and number plates were recovered during the warrant.\nThe estimated value of the recovered goods is more than $30,000. Inquiries in relation to the recovered goods are continuing.\nACT Policing is reminding Canberrans to record details of items such as bikes, scooters and other portable items, as information like serial numbers and images of the items can be useful to provide to police and insurers if an item is stolen.\nBike and scooter owners should also register the details of their item at\nBikelinc . This allows the quick return of items if recovered by police. It also makes it more difficult for stolen items to be on-sold, with prospective buyers able to check if an item has been reported stolen.\nIf you believe you are the rightful owner of any of the items recovered (that have not already been reported to police) and can provide proof of ownership, please contact police on 131 444 quoting reference 7631621.\nAnyone with any information about the theft and sale of goods such as bikes and scooters should contact Crime Stoppers on 1800 333 000, or via the Crime Stoppers ACT website. Information can be provided anonymously.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [
+    "https://www.bikelinc.com.au/",
+    "https://bikelinc.com.au/",
+    "https://bikelinc.com.au"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "airtag",
+        "sentiment": "negative"
+      },
+      {
+        "name": "apple airtag",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "ngunnawal",
+        "sentiment": "none"
+      },
+      {
+        "name": "bikelinc",
+        "sentiment": "none"
+      },
+      {
+        "name": "gungahlin station",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T05:38:46.663+02:00",
+  "updated": "2023-12-29T05:38:46.663+02:00"
+}

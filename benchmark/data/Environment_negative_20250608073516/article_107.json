@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "ef259a7188d20a545f681d4e637663472ca5617c",
+    "url": "https://www.nzherald.co.nz/whanganui-chronicle/news/decision-to-shut-overused-raetihi-recycling-station-under-review-after-fiery-backlash/QPL6XWF365DPLGVXD644S7YMFE",
+    "site_full": "www.nzherald.co.nz",
+    "site": "nzherald.co.nz",
+    "site_section": "https://news.google.com/search?q=under%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [
+      "science",
+      "geology",
+      "top_news_au",
+      "top_news_nz",
+      "top_news"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": "NZ Herald: Breaking &amp; Latest New Zealand News - NZ Herald",
+    "title": "Decision to shut overused Raetihi recycling station under review after fiery backlash",
+    "title_full": "Decision to shut overused Raetihi recycling station under review after fiery backlash",
+    "published": "2025-05-08T00:51:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NZ",
+    "main_image": "https://www.nzherald.co.nz/resizer/v2/P4QMZRX2OJGLZKLQC3HD353ROA.jpg?auth=b9e06b0daf2edd2756f02374e8ec2b86459a6805ce89cd7b6df3caec7ca52121&amp;width=1200&amp;height=675&amp;quality=70&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 1215,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ef259a7188d20a545f681d4e637663472ca5617c",
+  "url": "https://www.nzherald.co.nz/whanganui-chronicle/news/decision-to-shut-overused-raetihi-recycling-station-under-review-after-fiery-backlash/QPL6XWF365DPLGVXD644S7YMFE",
+  "ord_in_thread": 0,
+  "author": "@nzherald",
+  "published": "2025-05-08T00:51:00.000+03:00",
+  "title": "Decision to shut overused Raetihi recycling station under review after fiery backlash",
+  "text": "A community board’s decision to close a heavily used recycling facility in Raetihi is back on the table after a public outcry.\nThe decision could be quashed this week following a recommendation for the Waimarino-Waiouru Community Board to revoke a resolution to disestablish the Raetihi Recycling Station.\nAt a meeting in October last year, the community board also approved replacing the station with a trailer collecting recycling for an hour once a week for two months and then, for the following four months, once a fortnight.\nThe new recommendation comes in a report from Ruapehu District Council managers to be considered by the community board at its meeting in Raetihi on Thursday night.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue"],
+  "topics": [
+    "Environment->environmental clean-up",
+    "Environment->waste materials",
+    "Environment->sustainability",
+    "Social Issue->communities",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Raetihi",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Ruapehu District Council",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:02:55.725+03:00",
+  "updated": "2025-05-07T23:07:13.000+00:00"
+}

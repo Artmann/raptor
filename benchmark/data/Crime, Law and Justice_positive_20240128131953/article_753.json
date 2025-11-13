@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "a7d34edf4ea989f371d1811b000875332c03aeff",
+    "url": "https://www.mysanantonio.com/news/local/article/aleah-wallace-18580024.php",
+    "site_full": "www.mysanantonio.com",
+    "site": "mysanantonio.com",
+    "site_section": "https://www.mysanantonio.com/default/feed/local-news-176.php",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "local_news",
+    "title": "Over $60K raised for Texas woman accused of shooting alleged intruder",
+    "title_full": "Over $60K raised for Texas woman accused of shooting alleged intruder",
+    "published": "2023-12-29T20:52:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://s.hdnux.com/photos/01/35/61/33/24581869/3/rawImage.jpg",
+    "performance_score": 0,
+    "domain_rank": 3546,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "shares": 35
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a7d34edf4ea989f371d1811b000875332c03aeff",
+  "url": "https://www.mysanantonio.com/news/local/article/aleah-wallace-18580024.php",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Steven Santana",
+  "published": "2023-12-29T20:52:00.000+02:00",
+  "title": "Over $60K raised for Texas woman accused of shooting alleged intruder",
+  "text": "A community of people have given thousands of dollars to a Fort Worth-area woman who is accused of shooting a teen she alleges was trying to break into her home. A gofundme setup for A'Leah Wallace has collected $66,886 as of Friday morning to help her after reports came out that she and her four children might be losing their home for having a gun that she was \"forced\" to use to defend her home,\naccording to the Dallas Morning News.\nOn December 14, multiple reports were made about people trying to break into an apartment at 5200 block of Southcrest Court. Police arrived but did not find any people trying to break in, so they left. Then another call came in about an attempted break-in. When officers arrived again they found a teen with a gunshot wound lying on the ground, the Dallas News reported.\nA person claiming to be Wallace, who also opened the gofundme, claimed on the page that she was the one who shot the teen. She wrote in the post that she shot a person that tried to break in to a room twice that was shared by her daughters on December 14.\nWallace also told the same thing to Dallas-Fort Worth station KDFW. Wallace was not charged in the shooting.\nAdvertisement\nArticle continues below this ad\nMore For You\nWallace also told news outlets that she bought the gun because of past break-ins She now says that the apartment complex is trying to evict her because she owns a gun. The apartment manager declined to tell the Star-Telegram what its gun policies were, if any.\nThe teen, identified in a separate gofundme set up for his family, was identified as Devin Malik Baker. He was 14-years-old. Wallace told KDFW that she was \"devastated\" to learn that Baker was 14. Baker's gofundme had only collected $1,750 out of its $8,500 goal. His family\n told the Fort Worth Star-Telegram that Baker was a good kid.\n\"He used to tell me, 'Mamma, watch. I’m going to make something of myself,'\" Latoiya Landers, Devin’s mother, told the Star-Telegram.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Crime, Law and Justice"],
+  "external_links": [
+    "https://www.dallasnews.com/news/crime/2023/12/28/tens-of-thousands-of-dollars-raised-for-woman-who-fatally-shot-teen-accused-of-break-in/?outputType=amp",
+    "https://www.fox4news.com/news/fort-worth-woman-who-fatally-shot-teen-breaking-into-her-home-i-was-protecting-my-kids",
+    "https://www.star-telegram.com/news/local/fort-worth/article283426628.html",
+    "https://dallasnews.com/news/crime/2023/12/28/tens-of-thousands-of-dollars-raised-for-woman-who-fatally-shot-teen-accused-of-break-in/?outputType=amp",
+    "https://fox4news.com/news/fort-worth-woman-who-fatally-shot-teen-breaking-into-her-home-i-was-protecting-my-kids",
+    "https://www.dallasnews.com/news/crime/2023/12/28/tens-of-thousands-of-dollars-raised-for-woman-who-fatally-shot-teen-accused-of-break-in/",
+    "https://star-telegram.com/news/local/fort-worth/article283426628.html"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "wallace",
+        "sentiment": "none"
+      },
+      {
+        "name": "a'leah wallace",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "dallas news",
+        "sentiment": "none"
+      },
+      {
+        "name": "dallas morning news",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "texas",
+        "sentiment": "none"
+      },
+      {
+        "name": "fort worth",
+        "sentiment": "none"
+      },
+      {
+        "name": "southcrest court",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T23:12:19.397+02:00",
+  "updated": "2023-12-29T23:12:19.397+02:00"
+}

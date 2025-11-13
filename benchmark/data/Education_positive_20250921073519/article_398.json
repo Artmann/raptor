@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "6cdc250d356475b4b81b530683b4720517696755",
+    "url": "https://www.guadeloupe.franceantilles.fr/actualite/societe/le-rsma-sengage-contre-lillettrisme-1050689.php",
+    "site_full": "www.guadeloupe.franceantilles.fr",
+    "site": "franceantilles.fr",
+    "site_section": "https://guadeloupe.franceantilles.fr/actualite/societe/rss.xml",
+    "site_categories": ["media"],
+    "section_title": "France-Antilles Guadeloupe - Société",
+    "site_title": "Toute l&#039;actualité de la Guadeloupe en ligne - FranceAntilles.fr",
+    "title": "Le RSMA s'engage contre l'illettrisme",
+    "title_full": "Le RSMA s'engage contre l'illettrisme",
+    "published": "2025-09-18T07:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "GP",
+    "main_image": "https://medias.franceantilles.fr/api/v1/images/view/68cb8b82c85f7ab471099304/width_1000/image.jpg",
+    "performance_score": 0,
+    "domain_rank": 143279,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": ["CFC"],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6cdc250d356475b4b81b530683b4720517696755",
+  "url": "https://www.guadeloupe.franceantilles.fr/actualite/societe/le-rsma-sengage-contre-lillettrisme-1050689.php",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T07:33:00.000+03:00",
+  "title": "Le RSMA s'engage contre l'illettrisme",
+  "text": "Le RSMA s'engage contre l'illettrisme\nDans le cadre de la semaine nationale de lutte contre l'illettrisme, le RSMA a tenu à montrer son attachement à cette cause majeure.\nPlusieurs...\nDans le cadre de la semaine nationale de lutte contre l'illettrisme, le RSMA a tenu à montrer son attachement à cette cause majeure.\nPlusieurs...\nVingt ans après, France-Antilles vous propose un supplément exceptionnel de 80 pages",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue", "Human Interest"],
+  "topics": [
+    "Education->adult and continuing education",
+    "Education->social learning",
+    "Social Issue->communities",
+    "Social Issue->social services",
+    "Human Interest->human mishap"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:15:51.188+03:00",
+  "updated": "2025-09-18T08:22:19.000+03:00"
+}

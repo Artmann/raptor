@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "df3770e997eaead5c5d07d20f6cf4922de8db4b7",
+    "url": "https://www.sacbee.com/news/california/fires/article305951431.html",
+    "site_full": "www.sacbee.com",
+    "site": "sacbee.com",
+    "site_section": "https://www.sacbee.com/news/california/fires",
+    "site_categories": ["media"],
+    "section_title": "Northern CA Wildfire News &amp; Updates |  Sacramento Bee",
+    "site_title": "Sacramento News: Local Politics, Crime &amp; More |  Sacramento Bee",
+    "title": "Wildfire breaks out in Merced County, CA | Sacramento Bee",
+    "title_full": "Wildfire breaks out in Merced County, CA | Sacramento Bee",
+    "published": "2025-05-08T01:44:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.mcclatchy-wires.com/incoming/mn2k6z/picture290003454/alternates/LANDSCAPE_1140/904274ad-cc18-4c6a-b772-fd81b276817c",
+    "performance_score": 0,
+    "domain_rank": 1931,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "df3770e997eaead5c5d07d20f6cf4922de8db4b7",
+  "url": "https://www.sacbee.com/news/california/fires/article305951431.html",
+  "ord_in_thread": 0,
+  "author": "CA WILDFIRE BOT",
+  "published": "2025-05-08T01:44:00.000+03:00",
+  "title": "Wildfire breaks out in Merced County, CA | Sacramento Bee",
+  "text": "Fires\nBreaking: Paul Fire reported in Merced County on May 7\nThe creation of this content included the use of AI based on templates created, reviewed and edited by journalists in the newsroom. Read more on our AI policy here.\nFirst discovered: 3:11 p.m. May 7\nInitial location: Merced County, Calif.\nFire type: Wildfire\nFire name: Paul\nA new wildfire was reported today at 3:11 p.m. in Merced County.\nPaul Fire has been burning on state land. There is no update on the containment of the fire and its cause has yet to be determined.\nSource: National Interagency Fire Center\nThis story was originally published May 7, 2025 at 3:44 PM.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Environment", "Social Issue"],
+  "topics": [
+    "Disaster and Accident->natural disaster",
+    "Disaster and Accident->emergency response",
+    "Disaster and Accident->fire",
+    "Environment->climate change",
+    "Environment->natural resources",
+    "Environment->environmental pollution",
+    "Social Issue->social problem",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Paul",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "National Interagency Fire Center",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "df3770e997eaead5c5d07d20f6cf4922de8db4b7",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:16:08.739+03:00",
+  "updated": "2025-05-08T01:26:00.000+00:00"
+}

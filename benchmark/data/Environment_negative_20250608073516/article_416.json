@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "748c3a8c893bf427a5f7f0b4f125444a78561e85",
+    "url": "https://www.jiemian.com/article/12749907.html",
+    "site_full": "www.jiemian.com",
+    "site": "jiemian.com",
+    "site_section": "https://a.jiemian.com/index.php?m=article&a=rss",
+    "site_categories": ["media"],
+    "section_title": "界面rss订阅",
+    "site_title": "界面新闻-只服务于独立思考的人群-Jiemian.com",
+    "title": "中央气象台发布暴雨黄色预警：安徽湖北江西等地部分地区有大暴雨",
+    "title_full": "中央气象台发布暴雨黄色预警：安徽湖北江西等地部分地区有大暴雨",
+    "published": "2025-05-08T02:23:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 10758,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "748c3a8c893bf427a5f7f0b4f125444a78561e85",
+  "url": "https://www.jiemian.com/article/12749907.html",
+  "ord_in_thread": 0,
+  "author": "界面快报",
+  "published": "2025-05-08T02:23:00.000+03:00",
+  "title": "中央气象台发布暴雨黄色预警：安徽湖北江西等地部分地区有大暴雨",
+  "text": "中央气象台5月8日06时发布暴雨黄色预警：\n预计，5月8日08时至9日08时，江淮大部、江汉东部、江南西南部和中东部、华南北部以及华北东北部等地部分地区有大到暴雨，其中，安徽西南部、湖北东部、江西东北部、浙江西部、广西北部等地部分地区有大暴雨（100～180毫米）。上述部分地区伴有短时强降水（最大小时降雨量30～60毫米，局地可超过80毫米），局地有雷暴大风冰雹等强对流天气。\n防御指南：\n1、政府及相关部门按照职责做好防暴雨工作；\n2、交通管理部门应当根据路况在强降雨路段采取交通管制措施，在积水路段实行交通引导；\n3、切断低洼地带有危险的室外电源，暂停在空旷地方的户外作业，转移危险地带人员和危房居民到安全场所避雨；\n4、检查城市、农田、鱼塘排水系统，采取必要的排涝措施。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment", "Disaster and Accident"],
+  "topics": [
+    "Weather->weather warning",
+    "Environment->climate change",
+    "Disaster and Accident->natural disaster"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:48:40.675+03:00",
+  "updated": "2025-05-08T00:57:28.000+00:00"
+}

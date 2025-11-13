@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "b146b6b59b3f2cc98f0ab92604fa25a47d1aebb2",
+    "url": "https://chainstoreage.com/hydrogen-producing-system-installed-amazon-fulfillment-center",
+    "site_full": "chainstoreage.com",
+    "site": "chainstoreage.com",
+    "site_section": "https://chainstoreage.com/rss",
+    "site_categories": ["media", "financial_news", "finance"],
+    "section_title": "",
+    "title": "Hydrogen-producing system installed at Amazon fulfillment center",
+    "title_full": "Hydrogen-producing system installed at Amazon fulfillment center",
+    "published": "2023-12-28T18:57:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets1.chainstoreage.com/styles/primary_articles_short/s3/2023-11/amazon_0.jpg?h=82f92a78&#38;itok=S83hwul1",
+    "performance_score": 0,
+    "domain_rank": 12254,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b146b6b59b3f2cc98f0ab92604fa25a47d1aebb2",
+  "url": "https://chainstoreage.com/hydrogen-producing-system-installed-amazon-fulfillment-center",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Marianne Wilson",
+  "published": "2023-12-28T18:57:00.000+02:00",
+  "title": "Hydrogen-producing system installed at Amazon fulfillment center",
+  "text": "Amazon is partnering with a hydrogen company to produce hydrogen fuel.Plug Power Inc. has completed the installation and commissioning of an electrolyzer system at an Amazon fulfillment center in Aurora, Col. The one-megawatt (MW) proton exchange membrane electrolyzer — the first installed and in use at an Amazon site — is producing low-carbon hydrogen to fuel more than 225 hydrogen fuel cell-powered forklift trucks at the site.The Plug 1MW electrolyzer, which uses electricity and water to produce hydrogen, is able to support up to 400 hydrogen fuel cell-powered forklift trucks. The hydrogen produced by the electrolyzer will be compressed on site and stored in a gaseous hydrogen storage tank for use by the forklift trucks.To date, Plug has collaborated with Amazon to deploy more than 17,000 fuel cells to replace batteries in forklifts in more than 80 fulfillment centers in North America. For most of these locations, the hydrogen to power the forklifts is produced elsewhere, liquified, and then delivered by trucks to an on-site storage and dispensing system.“Hydrogen is an important tool in our efforts to decarbonize our operations by 2040 in support of The Climate Pledge, and we’re excited about our ability to produce hydrogen at Amazon facilities through this partnership with Plug,” said Asad Jafry, the director of global hydrogen economy at Amazon. “On-site production will make the use of hydrogen even more energy efficient for certain locations and types of facilities.”For the project, Plug provided design, installation, commissioning, and maintenance services for the 1MW PEM electrolyzer and hydrogen storage—compatible with the existing refueling infrastructure and fuel cells already in use at the site.“In Amazon, we have a true partner that recognizes the essential role hydrogen plays in our collective energy future,” said Plug CEO Andy Marsh.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Environment",
+    "Economy, Business and Finance"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "amazon",
+        "sentiment": "negative"
+      },
+      {
+        "name": "fuel.plug power inc.",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "amazon",
+        "sentiment": "none"
+      },
+      {
+        "name": "aurora",
+        "sentiment": "none"
+      },
+      {
+        "name": "north america",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:30:00.904+02:00",
+  "updated": "2023-12-29T00:30:00.904+02:00"
+}

@@ -1,0 +1,114 @@
+{
+  "thread": {
+    "uuid": "98f8c52defe57dc33a56592566e7c035a9d39a09",
+    "url": "https://www.vermilionphotojournal.com/news/story-boards-coming-to-sherod-showse-parks/article_1c830e1b-ed91-4760-b6ed-e40dc9a24032.html",
+    "site_full": "www.vermilionphotojournal.com",
+    "site": "vermilionphotojournal.com",
+    "site_section": "http://www.vermilionphotojournal.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
+    "site_categories": [],
+    "section_title": "www.vermilionphotojournal.com - RSS Results in news of type article",
+    "site_title": "vermilionphotojournal.com",
+    "title": "Story boards coming to Sherod, Showse parks",
+    "title_full": "Story boards coming to Sherod, Showse parks",
+    "published": "2025-09-18T07:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "98f8c52defe57dc33a56592566e7c035a9d39a09",
+  "url": "https://www.vermilionphotojournal.com/news/story-boards-coming-to-sherod-showse-parks/article_1c830e1b-ed91-4760-b6ed-e40dc9a24032.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T07:00:00.000+03:00",
+  "title": "Story boards coming to Sherod, Showse parks",
+  "text": "Ritter Public Library is looking to partner with the Vermilion Parks and Recreation Board to bring storyboards, similar to those at the Vermilion Local Schools, to several of the city’s parks.\nAt the August meeting of the board, Cheryl Grizzell, director, Ritter Public Library, said their foundation and friends’ groups have come up with an idea and they would like to partner with the parks to install story trails at Sherod Park and Showse Park. The standard size is lower so the little ones can see them and will be 18x24 to accommodate a picture book on the inside. It will be similar to what is currently at the schools. It is a way to engage families with the parks department and the library to have a partnership in the community that is visible and engages families with healthy activities and enjoying the resources as well as increasing literacy and spending time outdoors. It also adds the asset of fun things to do at the park which will rotate on a seasonal basis or bi-monthly.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Lifestyle and Leisure", "Education", "Human Interest"],
+  "topics": [
+    "Lifestyle and Leisure->club and association",
+    "Lifestyle and Leisure->hobby",
+    "Education->primary education",
+    "Education->school",
+    "Education->students",
+    "Human Interest->graduation"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Cheryl Grizzell",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Sherod Park",
+        "sentiment": "none"
+      },
+      {
+        "name": "Showse Park",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Vermilion Parks and Recreation Board",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Ritter Public Library",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Vermilion"],
+      "state": ["Ohio"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:36:10.283+03:00",
+  "updated": "2025-09-18T07:45:48.000+03:00"
+}

@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "9251eb7fdda410cc77ed139b23d78e09c9542184",
+    "url": "https://www.journaldemontreal.com/2025/06/26/le-canada-est-3e-avant-dernier-au-monde-pour-la-formation-en-intelligence-artificielle",
+    "site_full": "www.journaldemontreal.com",
+    "site": "journaldemontreal.com",
+    "site_section": "https://www.journaldemontreal.com/argent",
+    "site_categories": ["media", "top_news_ca", "top_news"],
+    "section_title": "Argent - Bourse, économie et finance | JDM",
+    "site_title": "Actualités, nouvelles et chroniques | Le Journal de Montréal",
+    "title": "Le Canada est 3e avant-dernier au monde pour la formation en intelligence artificielle",
+    "title_full": "Le Canada est 3e avant-dernier au monde pour la formation en intelligence artificielle",
+    "published": "2025-06-26T15:20:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://m1.quebecormedia.com/emp/emp/67414739_4570737c519f22-0ef6-4fa3-bd12-bca0063789b3_ORIGINAL.jpg?impolicy=crop-resize&x=0&y=0&w=1999&h=1125&width=1200",
+    "performance_score": 0,
+    "domain_rank": 9205,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9251eb7fdda410cc77ed139b23d78e09c9542184",
+  "url": "https://www.journaldemontreal.com/2025/06/26/le-canada-est-3e-avant-dernier-au-monde-pour-la-formation-en-intelligence-artificielle",
+  "ord_in_thread": 0,
+  "author": "Julien McEvoy",
+  "published": "2025-06-26T15:20:00.000+03:00",
+  "title": "Le Canada est 3e avant-dernier au monde pour la formation en intelligence artificielle",
+  "text": "Le Canada est 3e avant-dernier au monde pour la formation en intelligence artificielle\nLe Canada se classe au 3e avant-dernier rang mondial pour la formation en intelligence artificielle, révèle une étude de KPMG et de l'Université de Melbourne.\n• À lire aussi: Devrait-on encourager nos enfants à utiliser ChatGPT pour leurs devoirs?\n• À lire aussi: «C’est de la folie»: l’ex-PDG de BlackBerry dénonce l’argent public donné aux firmes étrangères\nLe sondage, mené l’an dernier auprès de 48 000 personnes dans 47 pays, place le Canada au 45e rang, loin derrière le Nigeria (71%) ou l'Égypte (70%). Même les États-Unis font mieux avec 28% de leur population formée.\nSeulement 24% des Canadiens ont reçu une formation en IA, ce qui crée de la méfiance envers cette technologie.\n«Le faible degré de formation en IA des Canadiens les empêche de [lui] faire confiance», explique le patron canadien du géant planétaire de l’audit, Benjie Thomas.\nLes pays riches dépassés\nCette méfiance se traduit dans les chiffres: seulement 34% des Canadiens acceptent de faire confiance à l'information générée par l'IA, contre 46% mondialement, selon le sondage.\nContrairement aux pays émergents qui dominent le classement, les économies avancées traînent de la patte. La France, l’Australie, les Pays-Bas et la Belgique stagnent tous à 24%, le Japon à 21%.\nL'impact se fait sentir dans les milieux de travail, indique KPMG. Plus de la moitié des travailleurs canadiens (56%) admettent que leur dépendance excessive à l'IA entraîne des erreurs. Près de la moitié (48%) reconnaissent utiliser ces outils d'une manière qui pourrait violer les directives de leur employeur.\n« L'amélioration des connaissances en IA doit comprendre de solides initiatives éducatives adaptées», souligne un autre bonze de KPMG au Canada, l’associée directrice Stephanie Terrill.\nDe la formation, et vite!\nEn gros, un des quatre plus gros cabinets comptables au monde incite les entreprises canadiennes à s’activer et à offrir de la formation continue en IA à leurs employés.\nLes Canadiens ne rejettent pas l'IA pour autant. Ils réclament plutôt un encadrement: 75% souhaitent une réglementation, et 79% font confiance aux universités pour développer cette technologie dans l'intérêt public.\n«Les Canadiens veulent avoir l'assurance que les systèmes d'IA sont sûrs, sécuritaires et fiables», ajoute Stephanie Terrill. Elle recommande une collaboration entre gouvernements, entreprises et établissements d'enseignement.\nPendant que le Canada hésite, d'autres pays foncent et sont en train de créer un écart de compétitivité qui pourrait coûter cher à long terme.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": ["Science and Technology", "Education", "Social Issue"],
+  "topics": [
+    "Science and Technology->biomedical science",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific innovation",
+    "Education->vocational education",
+    "Social Issue->demographics",
+    "Social Issue->social networking",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_ca", "top_news"],
+    "bias": "right"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T15:48:49.277+03:00",
+  "updated": "2025-06-27T13:07:53.000+00:00"
+}

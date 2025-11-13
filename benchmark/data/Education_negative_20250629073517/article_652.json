@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "f2d40940ff674348521b5562e265a3b1433a9115",
+    "url": "https://www.vozpopuli.com/espana/cataluna/los-estragos-de-la-inmersion-las-notas-de-la-pau-en-catalan-y-castellano-las-mas-bajas-en-una-decada.html",
+    "site_full": "www.vozpopuli.com",
+    "site": "vozpopuli.com",
+    "site_section": "https://www.vozpopuli.com/hemeroteca",
+    "site_categories": ["media", "top_news_es", "top_news"],
+    "section_title": "Últimas noticias sobre  en Vozpópuli",
+    "site_title": "Vozpópuli - Noticias de última hora y actualidad",
+    "title": "Los estragos de la inmersión: las notas de la PAU en catalán y castellano, las más bajas en una década",
+    "title_full": "Los estragos de la inmersión: las notas de la PAU en catalán y castellano, las más bajas en una década",
+    "published": "2025-06-26T13:40:38.521+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://d30gl8nkrjm6kp.cloudfront.net/articulos/articulos-1821481.jpg",
+    "performance_score": 0,
+    "domain_rank": 14490,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "shares": 9
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f2d40940ff674348521b5562e265a3b1433a9115",
+  "url": "https://www.vozpopuli.com/espana/cataluna/los-estragos-de-la-inmersion-las-notas-de-la-pau-en-catalan-y-castellano-las-mas-bajas-en-una-decada.html",
+  "ord_in_thread": 0,
+  "author": "@voz_populi",
+  "published": "2025-06-26T13:40:38.521+03:00",
+  "title": "Los estragos de la inmersión: las notas de la PAU en catalán y castellano, las más bajas en una década",
+  "text": "Descenso en la nota media de la PAU en Cataluña. La 'Conselleria' de Investigación y Universidades de la Generalitat ha hecho público que la inmensa mayoría de los alumnos que se han presentado a las Pruebas de Acceso a la Universidad (PAU) de 2025 (un 94,97%) las han superado. La nota media de estas pruebas —antes conocidas como EBAU o selectividad— ha sido de un 6,4 en la fase de acceso y un 7,1 en la fase especifica. Sin embargo, estas cifras representan las más bajas en cinco años —y ello a pesar de la pandemia de 2020—.\nAsimismo, el descenso es particularmente acusado en las asignaturas lingüísticas. La nota media en lengua catalana ha sido de un 6,3; la cifra más baja desde 2016, año en el que sitúo en un 6,19. Y en lengua castellana, la nota media se ha hundido hasta el 6,4; su nivel más bajo desde 2018. Por lo que respecta al inglés, se han situado en un 6,82; la caída más importante desde 2020. Unas cifras que cuestionan el relato de la Generalitat sobre la denominada inmersión lingüística, que veta el castellano como lengua vehicular en el sistema educativo catalán y que el Ejecutivo reivindica como \"modelo de éxito\". Y que se encuentran en sintonía con los resultados de las pruebas PISA, que sitúan a Cataluña a la cola de España y Europa en materias básicas como matemáticas, lengua o ciencias. En este sentido, un reciente estudio de la universidad Camilo José Cela analizaba el impacto de la inmersión lingüística, señalando que los alumnos catalanes llevaban un curso de retraso respecto a los madrileños.\nPor lo demás, los tres alumnos que han obtenido la nota más alta en la PAU, un 9,90, han estudiado en colegios de Barcelona: el Instituto Vilanova del Vallès, el Colegio Canigó de Barcelona y el Colegio La Vall de Bellaterra. Y, mientras el primero de ellos es un centro público, los dos restantes son concertados. Una circunstancia que coincide con la ofensiva que el actual Ejecutivo catalán ha lanzado contra estos centros, anunciando el cierre de 155 grupos en el próximo curso.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue", "Politics"],
+  "topics": [
+    "Education->educational grading",
+    "Education->college and university",
+    "Education->students",
+    "Social Issue->social services",
+    "Social Issue->demographics",
+    "Social Issue->social condition",
+    "Politics->government",
+    "Politics->education policy",
+    "Politics->political development"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Cataluña",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "PAU",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Generalitat",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Universidad",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_es", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T13:40:38.521+03:00",
+  "updated": "2025-06-27T11:08:12.000+00:00"
+}

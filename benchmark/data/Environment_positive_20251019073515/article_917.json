@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "ebc61f934114fba1c1ced47dfaf5b282d2c4980b",
+    "url": "https://www.diariolibre.com/mundo/europa/2025/10/16/turismo-global-reduce-su-huella-de-carbono-supera-niveles-prepandemia/3279658",
+    "site_full": "www.diariolibre.com",
+    "site": "diariolibre.com",
+    "site_section": "https://diariolibre.com/ultima-hora",
+    "site_categories": ["media"],
+    "section_title": " Ultimas Noticias - Diario Libre ",
+    "site_title": "Diario Libre: Ultimas Noticias de República Dominicana",
+    "title": "Turismo global reduce su huella de carbono; supera niveles prepandemia - Diario Libre",
+    "title_full": "Turismo global reduce su huella de carbono; supera niveles prepandemia - Diario Libre",
+    "published": "2025-10-16T16:43:49.150+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DO",
+    "main_image": "https://resources.diariolibre.com/images/2025/10/16/turismo-global-reduce-su-huella-de-carbono-supera-niveles-prepandemia-4cd41e31-focus-0-0-608-342_wam.jpg",
+    "performance_score": 0,
+    "domain_rank": 30778,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ebc61f934114fba1c1ced47dfaf5b282d2c4980b",
+  "url": "https://www.diariolibre.com/mundo/europa/2025/10/16/turismo-global-reduce-su-huella-de-carbono-supera-niveles-prepandemia/3279658",
+  "ord_in_thread": 0,
+  "author": "Diario Libre",
+  "published": "2025-10-16T16:43:49.150+03:00",
+  "title": "Turismo global reduce su huella de carbono; supera niveles prepandemia - Diario Libre",
+  "text": "La actividad económica del sector de viajes y turismo superó en 2024 los niveles alcanzados antes de la pandemia de corononavirus, al tiempo que redujo en un 9.3 % las emisiones mundiales de gases de efecto invernadero (GEI), según indicó este jueves una investigación.\nEl informe ambiental y social del Consejo Mundial de Viajes y Turismo (WTTC, en inglés) destacó que este sector representa actualmente el 7.3 % del total global de emisiones, frente al 8.3 % en 2019, mientras que su contribución al producto interior bruto (PIB) creció un 6 %.\nEl documento resaltó que, en paralelo con la caída del impacto ambiental, los viajes y el turismo aportaron 10,900 millones de dólares al PIB en 2024, frente a los 10,300 millones registrados en la prepandemia.\n\"Este descenso refleja una reducción en la intensidad de emisiones (emisiones por unidad de producción económica), que ha caído un 15 % desde 2019, con un sector que genera cada vez más valor económico produciendo menos emisiones\", señaló el WTTC.\nExplicó que los avances en política medioambiental se deben, en su mayoría, a mejoras en eficiencia , lo que incluye un aumento del 16.6 % en la adopción de energía baja en carbono y una reducción del 5.7 % en el uso de combustibles fósiles.\n\"Nuestros datos muestran que el 40 % de nuestras emisiones proviene del transporte y un 19 % adicional de la electricidad adquirida. También sabemos que el 57.4 % de nuestras emisiones proviene de nuestra cadena de suministro\", señaló en un comunicado su consejero delegado interino, Gloria Guevara.\nA su juicio, estas cifras demuestran que el sector de viajes y turismo puede crecer mientras reduce su impacto ambiental , al tiempo que abogó por \"seguir acelerando la acción\".\n\"Debemos redoblar los esfuerzos en combustibles sostenibles , energías renovables e infraestructura baja en carbono, y para lograrlo son clave las alianzas público-privadas efectivas\", agregó.\nTe puede interesar ONU Turismo reconoce con Collado el liderazgo de Dominicana en la industria mundial",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->sustainability", "Environment->climate change"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Consejo Mundial de Viajes y Turismo",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "WTTC",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:43:49.150+03:00",
+  "updated": "2025-10-16T16:50:53.000+03:00"
+}

@@ -1,0 +1,130 @@
+{
+  "thread": {
+    "uuid": "7b0c2d748a68af51f051dda24ce638adb64b5c0a",
+    "url": "https://philanthropynewsdigest.org/news/umass-amherst-engineering-school-receives-50-million-from-alumnus",
+    "site_full": "philanthropynewsdigest.org",
+    "site": "philanthropynewsdigest.org",
+    "site_section": "http://www.philanthropynewsdigest.org/rss/feed/pndnews",
+    "site_categories": ["society"],
+    "section_title": "PND News",
+    "site_title": "Philanthropy News Digest",
+    "title": "UMass Amherst engineering school receives $50 million from alumnus",
+    "title_full": "UMass Amherst engineering school receives $50 million from alumnus",
+    "published": "2025-09-18T07:01:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://philanthropynewsdigest.org/var/ezflow_site/storage/images/site_pnd/news/umass-amherst-engineering-school-receives-50-million-from-alumnus/38254323-2-eng-US/umass-amherst-engineering-school-receives-50-million-from-alumnus.jpg",
+    "performance_score": 0,
+    "domain_rank": 73261,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7b0c2d748a68af51f051dda24ce638adb64b5c0a",
+  "url": "https://philanthropynewsdigest.org/news/umass-amherst-engineering-school-receives-50-million-from-alumnus",
+  "ord_in_thread": 0,
+  "author": "webmaster@philanthropynewsdigest.org (Daniel Matz)",
+  "published": "2025-09-18T07:01:00.000+03:00",
+  "title": "UMass Amherst engineering school receives $50 million from alumnus",
+  "text": "UMass Amherst engineering school receives $50 million from alumnus\nUniversity of Massachusetts Amherst (UMass Amherst) has announced a $50 million commitment from alumnus Daniel J. Riccio, Jr. (’86) in support of the school’s College of Engineering.\nThe largest gift in UMass Amherst history will bolster initiatives to fuel innovative research, strengthen academic excellence, and expand access and opportunity for students. The engineering school will be renamed for Riccio, who retired in 2024 as a senior vice president of hardware engineering after 26 years at Apple.\nThe majority of the gift, $40 million, will support undergraduate scholarships and graduate fellowships, bolster efforts at faculty recruitment and retention, and fund a chair in biomedical engineering as well as a deanship. The remaining $10 million will be directed to an endowed research and innovation fund that will fuel cross-disciplinary collaborations and back an engineering leadership program with UMass Amherst’s Isenberg School of Management. In addition, the gift will be amplified by institutional resources and matching funds totaling $25 million.\n“[Daniel Riccio’s] support will empower UMass Amherst to expand discovery and innovation, prepare the next generation of engineering leaders while advancing its role as a catalyst for social and economic progress,” said UMass Amherst Foundation president Arwen Duffy. “At a time when universities face unprecedented cuts to research funding and student support, his visionary philanthropy stands as a bold counterforce.”\n“As a proud alum, I’ve seen UMass Amherst, including its College of Engineering, become a world-class institution over the past 20 years,” said Daniel Riccio. “I’m excited to make this gift and partner with UMass to take the College of Engineering to the next level and build on its mission of revolutionizing engineering and making the world a better place.”\n(Photo credit: Getty Images/Ravneet Marwaha)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Economy, Business and Finance", "Social Issue"],
+  "topics": [
+    "Education->vocational education",
+    "Education->students",
+    "Education->college and university",
+    "Economy, Business and Finance->human resources",
+    "Economy, Business and Finance->business financing",
+    "Social Issue->population and census",
+    "Social Issue->demographics",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.umass.edu/",
+    "https://www.uma-foundation.org/",
+    "https://www.umass.edu/engineering/",
+    "https://www.isenberg.umass.edu/",
+    "https://www.isenberg.umass.edu",
+    "https://www.uma-foundation.org",
+    "https://www.umass.edu/engineering",
+    "https://isenberg.umass.edu/",
+    "https://umass.edu/",
+    "https://www.umass.edu",
+    "https://umass.edu/engineering/",
+    "https://uma-foundation.org/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Daniel J. Riccio",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "University of Massachusetts Amher",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "UMass Amherst",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Apple",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "AAPL",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:38:31.487+03:00",
+  "updated": "2025-09-18T07:41:58.000+03:00"
+}

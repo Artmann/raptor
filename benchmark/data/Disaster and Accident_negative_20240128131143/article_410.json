@@ -1,0 +1,122 @@
+{
+  "thread": {
+    "uuid": "0b6a01d4b81d712fdcf391edd5af7981b52fe11f",
+    "url": "https://www.newsbreak.com/los-angeles-ca/3279647469637-1-dead-2-in-critical-condition-in-boyle-heights-house-fire",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://newsbreak.com/los-angeles-ca",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "Los Angeles News, Weather, Safety, Sports | NewsBreak Los Angeles, CA",
+    "title": "1 dead, 2 in critical condition in Boyle Heights house fire",
+    "title_full": "1 dead, 2 in critical condition in Boyle Heights house fire",
+    "published": "2023-12-29T00:32:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/3Q5fNa_0qSeS2zS00?type=thumbnail_1600x1200",
+    "performance_score": 0,
+    "domain_rank": 3324,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0b6a01d4b81d712fdcf391edd5af7981b52fe11f",
+  "url": "https://www.newsbreak.com/los-angeles-ca/3279647469637-1-dead-2-in-critical-condition-in-boyle-heights-house-fire",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NewsBreak Original",
+  "published": "2023-12-29T00:32:00.000+02:00",
+  "title": "1 dead, 2 in critical condition in Boyle Heights house fire",
+  "text": "One person was killed and two were hospitalized in critical condition Thursday after they were found inside a burning one-story home in Boyle Heights. Fire crews responded at 4:24 a.m. to 742 S. St Louis St. and Boyle Avenue, east of the (5) Freeway. where they found the residence consumed with flames, said Los Angeles Fire Department spokeswoman Margaret Stewart. One of the residence's occupants was found outside on the porch and pronounced dead at the scene, Stewart said. During a search of the building, firefighters located two victims and pulled them out in critical condition. Paramedics took them to a hospital, Stewart added. Two other residents of the home were outside when firefighters arrived and were evaluated for any injuries. A total of 54 firefighters were able to contain and extinguish the fire in 25 minutes. As is the department's protocol, LAFD's Arson Investigation Section will be in charge of investigating the cause of the fire. Follow KNX News 97.1 FM\nTwitter | Facebook | Instagram | TikTok",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Human Interest", "Disaster and Accident"],
+  "external_links": [
+    "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3Q5fNa_0qSeS2zS00",
+    "https://www.facebook.com/knxnews",
+    "https://www.instagram.com/knxnews",
+    "https://img.particlenews.com/image.php?url=3Q5fNa_0qSeS2zS00",
+    "https://twitter.com/KNXnews",
+    "https://www.tiktok.com/@knxnews",
+    "https://facebook.com/knxnews",
+    "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=3Q5fNa_0qSeS2zS00",
+    "https://instagram.com/knxnews",
+    "https://tiktok.com/@knxnews",
+    "https://img.particlenews.com/image.php",
+    "https://www.img.particlenews.com/image.php?url=3Q5fNa_0qSeS2zS00",
+    "https://www.twitter.com/KNXnews"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "margaret stewart",
+        "sentiment": "none"
+      },
+      {
+        "name": "stewart",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "lafd",
+        "sentiment": "none"
+      },
+      {
+        "name": "los angeles fire department",
+        "sentiment": "none"
+      },
+      {
+        "name": "knx news 97.1 fm twitter | facebook",
+        "sentiment": "none"
+      },
+      {
+        "name": "arson investigation section",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "boyle heights",
+        "sentiment": "none"
+      },
+      {
+        "name": "boyle avenue",
+        "sentiment": "none"
+      },
+      {
+        "name": "s. st louis st.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:33:58.744+02:00",
+  "updated": "2023-12-29T00:33:58.744+02:00"
+}

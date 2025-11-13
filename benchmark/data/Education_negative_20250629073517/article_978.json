@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "4d36c6f6f1f06eb6a5d1bc3478006042a92a8868",
+    "url": "https://news.az/news/dozen-injured-as-bus-carrying-students-crashes-into-river-in-southern-england",
+    "site_full": "news.az",
+    "site": "news.az",
+    "site_section": "https://news.google.com/search?q=into%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "News.az - Latest news from Azerbaijan",
+    "title": "Dozen injured as bus carrying students crashes into river in southern England",
+    "title_full": "Dozen injured as bus carrying students crashes into river in southern England",
+    "published": "2025-06-26T16:01:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AZ",
+    "main_image": "https://news.az/photos/2025/06/3-1750943162.jpg",
+    "performance_score": 0,
+    "domain_rank": 47360,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4d36c6f6f1f06eb6a5d1bc3478006042a92a8868",
+  "url": "https://news.az/news/dozen-injured-as-bus-carrying-students-crashes-into-river-in-southern-england",
+  "ord_in_thread": 0,
+  "author": "Mehman",
+  "published": "2025-06-26T16:01:00.000+03:00",
+  "title": "Dozen injured as bus carrying students crashes into river in southern England",
+  "text": "Dozen injured as bus carrying students crashes into river in southern England\nOver a dozen people were injured after a double-decker bus veered off the road and plunged into a river in southern England on Thursday.\nThe incident occurred at around 10:07 a.m. local time (0907 GMT) in Eastleigh, a town in southern England's Hampshire county, News.Az reports, citing foreign media.\nA bus carrying college students from a further education institution ran off Bishopstoke Road, a main route in the area, and plunged into the River Itchen, local media reported.\nAccording to the South Central Ambulance Service, three patients with serious injuries were transported to a hospital, while 14 others with minor injuries received treatment at the scene.\nEmergency services responded with two medical helicopters and five ambulances. An investigation into the cause of the incident is underway.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Human Interest", "Education"],
+  "topics": [
+    "Disaster and Accident->drowning",
+    "Disaster and Accident->transportation accident and incident",
+    "Disaster and Accident->emergency response",
+    "Human Interest->human mishap",
+    "Education->educational testing and examinations",
+    "Education->school",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://english.news.cn/europe/20250626/d7b55367fb5a4fb7b6e0a760f449822f/c.html",
+    "https://www.english.news.cn/europe/20250626/d7b55367fb5a4fb7b6e0a760f449822f/c.html"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Bishopstoke Road",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "South Central Ambulance Service",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T16:21:50.072+03:00",
+  "updated": "2025-06-26T13:27:17.000+00:00"
+}

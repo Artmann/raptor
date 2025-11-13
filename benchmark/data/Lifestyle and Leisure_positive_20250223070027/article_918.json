@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "999e45cefd6247cb45409dacb9b5677dbdcee9ad",
+    "url": "https://www.ithaca.edu/intercom/2025-01-23-chef-showcase-dinner-every-wednesday-terrace-dining",
+    "site_full": "www.ithaca.edu",
+    "site": "ithaca.edu",
+    "site_section": "https://www.ithaca.edu/profiles/feeds/1798_news_tag_2673.xml",
+    "site_categories": ["education"],
+    "section_title": "Intercom | Ithaca College",
+    "title": "Chef Showcase Dinner - Every Wednesday at Terrace Dining | Ithaca College",
+    "title_full": "Chef Showcase Dinner - Every Wednesday at Terrace Dining | Ithaca College",
+    "published": "2025-01-23T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 11071,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "999e45cefd6247cb45409dacb9b5677dbdcee9ad",
+  "url": "https://www.ithaca.edu/intercom/2025-01-23-chef-showcase-dinner-every-wednesday-terrace-dining",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2025-01-23T02:00:00.000+02:00",
+  "title": "Chef Showcase Dinner - Every Wednesday at Terrace Dining | Ithaca College",
+  "text": "Starting February 5th, join us at Terrace Dining every Wednesday for a special Chef Showcase! This is a fantastic opportunity to celebrate diverse culinary talents and honor influential chefs. For Black History Month, we will feature dishes inspired by chefs Leah Chase, Marcus Samuelsson, Lazarus Lynch, and Rodney Scott. Then, for Women's History Month, we will highlight culinary pioneers Alice Waters, Julia Child, and Irma Rombauer. From April through May, we will spotlight chefs who have personally influenced the kitchen at Terrace Dining. Enjoy a unique dining experience with delicious dishes crafted with passion and creativity. See the calendar of featured chefs! Bon appétit!\nPlease note that a meal swipe or meal purchase is required to attend these dinner events. Bon appétit!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Lifestyle and Leisure",
+    "Human Interest",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Lifestyle and Leisure->lifestyle",
+    "Economy, Business and Finance->tourism and leisure industry"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Marcus Samuelsson",
+        "sentiment": "none"
+      },
+      {
+        "name": "Irma Rombauer",
+        "sentiment": "none"
+      },
+      {
+        "name": "Rodney Scott",
+        "sentiment": "none"
+      },
+      {
+        "name": "Julia Child",
+        "sentiment": "none"
+      },
+      {
+        "name": "Leah Chase",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:42:21.457+02:00",
+  "updated": "2025-01-24T00:42:21.457+02:00"
+}

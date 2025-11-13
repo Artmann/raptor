@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "b594e816a4ee0b90b662aa625074bed3736abed8",
+    "url": "https://global.chinadaily.com.cn/a/202506/26/WS685d0c3ca310a04af22c8b22.html",
+    "site_full": "global.chinadaily.com.cn",
+    "site": "chinadaily.com.cn",
+    "site_section": "https://news.google.com/search?q=his%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["travel"],
+    "section_title": "Google News - Search",
+    "site_title": "China Daily Website - Connecting China Connecting the World",
+    "title": "Student deaths point at increasing campus violence in Indonesia - Chinadaily.com.cn",
+    "title_full": "Student deaths point at increasing campus violence in Indonesia - Chinadaily.com.cn",
+    "published": "2025-06-26T12:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "http://img2.chinadaily.com.cn/images/202506/26/685d0c3ca310a04a967b15bf.jpeg",
+    "performance_score": 0,
+    "domain_rank": 657,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b594e816a4ee0b90b662aa625074bed3736abed8",
+  "url": "https://global.chinadaily.com.cn/a/202506/26/WS685d0c3ca310a04af22c8b22.html",
+  "ord_in_thread": 0,
+  "author": "global.chinadaily.com.cn",
+  "published": "2025-06-26T12:00:00.000+03:00",
+  "title": "Student deaths point at increasing campus violence in Indonesia - Chinadaily.com.cn",
+  "text": "The recent deaths of two elementary school students in Riau and South Sulawesi in Indonesia, reportedly due to bullying, highlight the alarming prevalence of violence in schools and the failure to ensure safe learning environments for children.\nKhris Topel Butarbutar, 8, died on May 26, allegedly after being beaten by older students at SDN 12 Buluh Rampai State Elementary School in Riau.\nAccording to his father, Gimson Beni Butarbutar, the second grader began complaining of fever and stomach pain on May 20, a day after he returned home early from school because his bicycle tires had been deflated by older students.\n\"He didn't initially tell me what was making him sick, but when I spoke to his friends, they said he had been beaten by four older students about a week earlier,\" Gimson said, as quoted by local newspaper Kompas.\n\"When I asked Khris about it, he confirmed it. He said he had been bullied for some time because of his religion and ethnicity,\" he added.\nGimson has reported five of Khris' fellow students, aged between 11 and 13, to the Riau police on suspicion of assault.\nThe Riau police reported they have questioned 22 witnesses in connection with the incident. An autopsy was conducted on Khris' body, revealing bruises on his stomach and left thigh consistent with blunt force trauma.\nHowever, the police stated that Khris' cause of death was a systemic infection resulting from a ruptured appendix. It remains unclear whether the ruptured appendix was caused by the alleged assault.\nLess than a week after Khris' death, 15-year-old Muhammad Raja Afnan, a student at SDN Maccini Sawah State Elementary School in Makassar, South Sulawesi, also died after allegedly being assaulted by three of his friends.\nThe sixth grader passed away on May 30, following a five-day hospital stay across three different facilities, after initially complaining of chest pain.\nHis family said he had multiple bruises on his body and burn marks resembling cigarette burns.\nInitially, Raja claimed his injuries were caused by falling while playing soccer, but he later revealed he was allegedly assaulted by two elementary students at his school, as well as a junior high school student.\nIncreasing trend\nData from the Network for Education Watch Indonesia, or JPPI, show a rising trend in reports of bullying in educational institutions over recent years.\nLast year, JPPI recorded a total of 573 bullying cases in schools nationwide, more than double the 285 cases reported the previous year.\nMeanwhile, the Indonesian Child Protection Commission reported that in 2024, approximately 21,000 children fell victim to violence, a 34 percent increase from the previous year.\nAmong these cases, 17 percent occurred within educational institutions, with 9 percent involving bullying by peers.\nAccording to a 2018 survey by the Programme for International Student Assessment, 41 percent of Indonesian students reported being victims of bullying at least several times a month.\nThis rate is nearly double the average bullying rate of 23 percent reported across OECD member countries.\nThe Jakarta Post, Indonesia",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Social Issue", "Education"],
+  "topics": [
+    "Social Issue->children",
+    "Social Issue->social problem",
+    "Social Issue->bullying",
+    "Education->primary education",
+    "Education->teachers",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Gimson Beni Butarbutar",
+        "sentiment": "none"
+      },
+      {
+        "name": "Khris Topel Butarbutar",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "South Sulawesi",
+        "sentiment": "none"
+      },
+      {
+        "name": "Riau",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Buluh Rampai State Elementary School",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Kompas",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T12:12:28.401+03:00",
+  "updated": "2025-06-26T09:16:13.000+00:00"
+}

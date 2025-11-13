@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "44b453b345943c1c2ffe0a6067fa4d3b0a87da26",
+    "url": "https://www.ft.lk/front-page/Sentiment-improves-at-CSE-amidst-low-turnover/44-756763",
+    "site_full": "www.ft.lk",
+    "site": "ft.lk",
+    "site_section": "https://www.ft.lk/front-page/44",
+    "site_categories": ["media", "world_soccer", "sports"],
+    "section_title": "Sri Lanka's only business publication | Daily FT",
+    "title": "Sentiment improves at CSE amidst low turnover | Daily FT",
+    "title_full": "Sentiment improves at CSE amidst low turnover | Daily FT",
+    "published": "2023-12-28T21:24:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "LK",
+    "main_image": "https://www.ft.lk/assets/images/img/ft_logo.png",
+    "performance_score": 0,
+    "domain_rank": 42236,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "44b453b345943c1c2ffe0a6067fa4d3b0a87da26",
+  "url": "https://www.ft.lk/front-page/Sentiment-improves-at-CSE-amidst-low-turnover/44-756763",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2023-12-28T21:24:00.000+02:00",
+  "title": "Sentiment improves at CSE amidst low turnover | Daily FT",
+  "text": "The Colombo stock market managed to close on the up yesterday, with a rebound in investor sentiment though activity levels were low.\nThe benchmark ASPI gained by 21 points or 0.2% and the active S&P SL20 by five points or 0.17%. Turnover was Rs. 471.6 million involving 26.6 million shares.\nAsia Securities said that the indices closed in green supported by price increases in banking counters in COMBN (+1.3%), COMBX (+1.1%), SEYBN (+3.6%), UBC (+1.0%), and HNBN (+0.9%). Furthermore, CFIN (+4.0%), BIL (+2.2%), CALT (+3.0%), AEL (+1.5%), and ACL (+1.5%) supported the ASPI during the session. The breadth of the market turned positive with 92 price gainers and 60 decliners.\nTurnover was led by COMBN (Rs. 61 million), LGIL (Rs. 26 million), and CDBN (Rs. 25 million).\nAsia also said foreigners recorded a net inflow of Rs. 2.4 million. Net foreign buying topped in COMBN at Rs. 21.8 million and selling topped in CINS.X at Rs. 16.5 million.\nFirst Capital said the Bourse ended in green today after more than a week of being in the red, although investor participation remained relatively low. ASPI rose fast at the start of the session but slowed down towards the latter, ending the session on a 21 point gain to 10,627.\nThe Banking and finance counters such as COMB, CFIN and HNB were the main contributors towards today’s gain. Further, the market saw an increased interest in primary dealers and insurance counters as well. Turnover was 61% below the average daily turnover of\nRs. 1.2 billion. However only one off-board transaction of Rs. 23.2 million on CDB took place, thus the total turnover was almost entirely led by the retail side.\nNDB Securities said high net worth and institutional investor participation was noted in Citizens Development Business Finance, Commercial Bank and Sampath Bank. Mixed interest was observed in LOLC General Insurance, First Capital Holdings and Ceylinco Insurance nonvoting whilst retail interest was noted in Hela Apparel Holdings, Blue Diamonds Jewellery Worldwide and Amana Bank.\nThe Banking sector was the top contributor to the market turnover (due to Commercial Bank and Sampath Bank) whilst the sector index gained 0.55%. The share price of Commercial Bank increased by Rs. 1.20 to Rs. 94.30. The share price of Sampath Bank recorded a gain of 20 cents to Rs. 70.50.\nThe Diversified Financials sector was the second highest contributor to the market turnover (due to Citizens Development Business Finance and First Capital Holdings) whilst the sector index increased by 0.54%. The share price of Citizens Development Business Finance moved up by Rs. 12.50 to Rs. 200. The share price of First Capital Holdings appreciated by 20 cents to Rs. 28.20.\nLOLC General Insurance was also included amongst the top turnover contributors. The share price of LOLC General Insurance gained 50 cents to Rs. 7.40.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "aspi",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cse",
+        "sentiment": "negative"
+      },
+      {
+        "name": "bil",
+        "sentiment": "none"
+      },
+      {
+        "name": "aspi",
+        "sentiment": "none"
+      },
+      {
+        "name": "ubc",
+        "sentiment": "none"
+      },
+      {
+        "name": "ael",
+        "sentiment": "none"
+      },
+      {
+        "name": "combn",
+        "sentiment": "none"
+      },
+      {
+        "name": "first capital",
+        "sentiment": "none"
+      },
+      {
+        "name": "asia securities",
+        "sentiment": "none"
+      },
+      {
+        "name": "s&p",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "colombo",
+        "sentiment": "none"
+      },
+      {
+        "name": "asia",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:32:30.774+02:00",
+  "updated": "2023-12-29T01:32:30.774+02:00"
+}

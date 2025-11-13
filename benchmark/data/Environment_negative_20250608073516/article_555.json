@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "80b2a81f4adc451698332626c2c408ff4cef9a4f",
+    "url": "https://news.myseldon.com/ru/news/index/329166473",
+    "site_full": "news.myseldon.com",
+    "site": "myseldon.com",
+    "site_section": "https://news.myseldon.com/sitemaps/daily/sitemap_news_ru_daily_3.xml",
+    "site_categories": ["media"],
+    "section_title": "",
+    "site_title": null,
+    "title": "В Улан-Удэ из-под земли забил фонтан воды | Общество | Селдон Новости",
+    "title_full": "В Улан-Удэ из-под земли забил фонтан воды | Общество | Селдон Новости",
+    "published": "2025-05-08T04:51:33.539+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://storage.myseldon.com/news-pict-cf/CF455E02D77076AB7769DDE0F15EE6D3",
+    "performance_score": 0,
+    "domain_rank": 21900,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "80b2a81f4adc451698332626c2c408ff4cef9a4f",
+  "url": "https://news.myseldon.com/ru/news/index/329166473",
+  "ord_in_thread": 0,
+  "author": "@MK.RU Ulan-Ude",
+  "published": "2025-05-08T04:51:33.539+03:00",
+  "title": "В Улан-Удэ из-под земли забил фонтан воды | Общество | Селдон Новости",
+  "text": "Фото: пресс-служба мэрии Улан-Удэ . В Октябрьском районе Улан-Удэ вечером 7 мая произошла серьезная авария на водопроводных сетях. Около 22:15 на улице Лебедева возле дома №5 из-под земли начал бить фонтан воды, что потребовало экстренного отключения водоснабжения.\nБез холодной воды остались девять многоквартирных домов по улицам Лебедева и Ключевской, три коммерческих объекта и центральный тепловой пункт. Аварийная бригада МУП \"Водоканал\" оперативно выехала на место и за час с небольшим устранила повреждение на стальной трубе диаметром 200 мм, установив специальный ремонтный хомут. Уже к 23:30 водоснабжение было полностью восстановлено, а на время ремонта жителям организовали подвоз питьевой воды.\nПараллельно с этим пришлось ограничить подачу горячей воды в нескольких домах и социальных учреждениях, включая детский сад \"Колокольчик\" и медицинский центр \"Нефро Диал\". Это было связано с необходимостью проведения ремонтных работ на сетях, питающих ЦТП-21/1. Однако и здесь коммунальщики справились оперативно - уже через час горячая вода снова пошла в краны жителей.\nДанные о правообладателе фото и видеоматериалов взяты с сайта «MK.RU Улан-Удэ» , подробнее в Правилах сервиса Источник: MK.RU Улан-Удэ Темы: ЖКХ",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Human Interest"],
+  "topics": [
+    "Environment->natural resources",
+    "Environment->water",
+    "Environment->environmental pollution",
+    "Social Issue->public housing",
+    "Social Issue->communities",
+    "Social Issue->social problem",
+    "Human Interest->human mishap"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://ulan.mk.ru/incident/2025/05/08/v-ulanude-izpod-zemli-zabil-fontan-vody.html",
+    "https://www.ulan.mk.ru/incident/2025/05/08/v-ulanude-izpod-zemli-zabil-fontan-vody.html"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:51:33.539+03:00",
+  "updated": "2025-05-08T02:00:51.000+00:00"
+}

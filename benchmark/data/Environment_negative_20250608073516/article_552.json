@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "fcb6e360f09c3c1a0b5972b9e689fe75885e3a6a",
+    "url": "https://www.firstalert7.com:443/2025/05/08/suspect-wanted-after-elephant-seal-pup-found-stabbed-oregon-coast",
+    "site_full": "www.firstalert7.com",
+    "site": "firstalert7.com",
+    "site_section": "https://firstalert7.com/powernation",
+    "site_categories": [],
+    "section_title": "POWERNATION",
+    "site_title": "CBS7 | Permian Basin, West Texas News | Midland, TX",
+    "title": "Suspect wanted after elephant seal pup found stabbed on Oregon coast",
+    "title_full": "Suspect wanted after elephant seal pup found stabbed on Oregon coast",
+    "published": "2025-05-08T03:37:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-kosa-prod.gtv-cdn.com/resizer/v2/7FTS4NJAHEOJLLKEGKFJEY6VGQ.jpg?auth=c7bde18cb6bad0780f9f76bae3b8dfc66cebc5996b3ac14ba7a34c5fd8fbff04&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 66224,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fcb6e360f09c3c1a0b5972b9e689fe75885e3a6a",
+  "url": "https://www.firstalert7.com:443/2025/05/08/suspect-wanted-after-elephant-seal-pup-found-stabbed-oregon-coast",
+  "ord_in_thread": 0,
+  "author": "@CBS7News",
+  "published": "2025-05-08T03:37:00.000+03:00",
+  "title": "Suspect wanted after elephant seal pup found stabbed on Oregon coast",
+  "text": "Suspect wanted after elephant seal pup found stabbed on Oregon coast\nNESKOWIN, Ore. (KPTV/Gray News) - Law enforcement is asking for the public’s help finding the person who stabbed an elephant seal pup on the Oregon coast.\nThe National Oceanic and Atmospheric Administration Fisheries Office of Law Enforcement says the incident happened in a cove on the beach in Neskowin in front of the Proposal Rock Condominiums on Sunday, March 16, between 8 p.m. and 11:30 p.m.\nThe pup sustained multiple stab wounds but thankfully it survived. The Marine Stranding Team cared for the pup before relocating it.\nNOAA says the person of interest in the stabbing has been described as a white man, about 5 feet 10 inches tall, with a standard build, black and white hair, a groomed beard, and a large gap between his front teeth.\nThe suspect was seen wearing aviator glasses with thick lenses; a thin blue and light green fleece top over a thin, lined check shirt; low-profile back cap with a flat front and logo depicting an orange four-track excavator with the word “Timber”; dark trousers; and lightweight hiking-type shoes or low boots. He also had a thin blue and yellow cord around his neck, similar to what a climber might use.\nNOAA says it’s also seeking information about the owner of a vehicle that may be associated with the suspect. The vehicle was seen in the parking lot near the cover behind the Proposal Rock Condominiums.\nThe vehicle is described as a dark blue 1990s Dodge or Chrysler van with a rear passenger window on the driver’s side covered in plastic. The inside of the vehicle appeared to be “cluttered.”\nAnyone with information about this incident should call the NOAA Enforcement Hotline at 800-853-1964. You can leave tips anonymously.\nNOAA says harassing, harming, killing, or feeding wild elephant seals is prohibited under the Marine Mammal Protection Act. Violations can be prosecuted and are punishable by up to $100,000 in fines and up to one year in jail.\nCopyright 2025 KPTV via Gray Local Media, Inc. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Environment", "Human Interest"],
+  "topics": [
+    "Crime, Law and Justice->law enforcement",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Crime, Law and Justice->animal abuse",
+    "Environment->conservation",
+    "Environment->animal",
+    "Environment->endangered species",
+    "Human Interest->human mishap"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.kptv.com/2025/05/06/suspect-wanted-after-elephant-seal-pup-found-stabbed-oregon-coast/",
+    "https://www.kptv.com/2025/05/06/suspect-wanted-after-elephant-seal-pup-found-stabbed-oregon-coast",
+    "https://kptv.com/2025/05/06/suspect-wanted-after-elephant-seal-pup-found-stabbed-oregon-coast/"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Neskowin",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "National Oceanic and Atmospheric Administration Fisheries Office of Law Enforcement",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "NOAA",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "fcb6e360f09c3c1a0b5972b9e689fe75885e3a6a",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:50:54.845+03:00",
+  "updated": "2025-05-08T01:57:17.000+00:00"
+}

@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "47c250e5dbea818f43e5b0b522ac0672a59231ba",
+    "url": "https://www.eldinamo.cl/economia/negocios-economia/2025/06/18/la-millonaria-multa-que-podria-pagar-walmart-por-alargadores-que-no-cumplian-la-norma",
+    "site_full": "www.eldinamo.cl",
+    "site": "eldinamo.cl",
+    "site_section": "https://www.eldinamo.cl/economia",
+    "site_categories": ["media", "top_news_cl", "top_news"],
+    "section_title": "Economía",
+    "site_title": "El Dínamo | Noticias de Chile y el mundo",
+    "title": "La millonaria multa que podría pagar Walmart por alargadores que no cumplían la norma",
+    "title_full": "La millonaria multa que podría pagar Walmart por alargadores que no cumplían la norma",
+    "published": "2025-06-19T06:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CL",
+    "main_image": "https://media.eldinamo.cl/2025/06/Alargadores-.png",
+    "performance_score": 0,
+    "domain_rank": 44999,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "47c250e5dbea818f43e5b0b522ac0672a59231ba",
+  "url": "https://www.eldinamo.cl/economia/negocios-economia/2025/06/18/la-millonaria-multa-que-podria-pagar-walmart-por-alargadores-que-no-cumplian-la-norma",
+  "ord_in_thread": 0,
+  "author": "El Dínamo",
+  "published": "2025-06-19T06:33:00.000+03:00",
+  "title": "La millonaria multa que podría pagar Walmart por alargadores que no cumplían la norma",
+  "text": "A una millonaria multa se expone la empresa Walmart, luego de que la Superintendencia de Electricidad y Combustibles (SEC) formulara cargos en su contra por vender alargadores eléctricos que no contaban con la certificación vigente.\nLa SEC decidió emprender la acción luego de que se comprobara que en los supermercados Lider y Acuenta se comercializaron casi 12 mil unidades de estos aparatos de la marca Hyper Tough “con un sello de certificación que no daba cuenta de su seguridad; esto, luego que fueran rechazados en las respectivas pruebas que se realizan en laboratorios“, según detalló el órgano fiscalizador.\nEn total se trata de 11.989 alargadores que fueron vendidos entre abril y junio de 2025, y que según la alerta emitida por el Servicio Nacional del Consumidor (Sernac) “no cumplen con la resistencia óhmica en el cable, de acuerdo a lo solicitado en protocolo de la SEC“.\nEn particular, se trata de los siguientes modelos:\n- MOD125\n- MOD127\n- MOD133\nCuál podría ser la millonaria multa que podría pagar Walmart por los alargadores\nUna vez conocido el caso de la venta de los alargadores sin el sello por parte de Walmart y la decisión de Superintendencia de Electricidad y Combustibles (SEC) de formular cargos en su contra, lo que resta saber es a cuánto podría ascender la multa en contra de la empresa.\nSegún consignó la misma SEC, la compañía se expone a sanciones que pueden llegar hasta las 10 mil Unidades Tributarias Anuales (UTA), que equivalen a algo más de 8 mil millones de pesos.\nEn todo caso, la misma superintendencia dejó en claro que el monto final de la multa dependerá del mérito de la investigación que aún se mantiene en curso.\nLas personas que adquirieron estos modelos y deseen un reembolso tienen que acudir a cualquier local Lider o Acuenta, y aunque lo ideal es ir con la boleta de compra, esto no es un requisito excluyente para conseguirlo.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance"],
+  "topics": [
+    "Economy, Business and Finance->corporate news and profiles",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->financial service"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.sec.cl/?view_full_site=true",
+    "https://sec.cl/?view_full_site=true",
+    "https://www.sec.cl/"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Superintendencia de Electricida",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Walmart",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Servicio Nacional del Consumidor",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "SEC",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_cl", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:41:10.568+03:00",
+  "updated": "2025-06-19T04:44:40.000+00:00"
+}

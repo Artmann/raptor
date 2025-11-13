@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "2482b6cb308adf0ad431bbdd5f23fbd47946714a",
+    "url": "https://tass.ru/proisshestviya/23884671",
+    "site_full": "tass.ru",
+    "site": "tass.ru",
+    "site_section": "https://tass.ru/rss/v2.xml",
+    "site_categories": ["media", "top_news_ru", "top_news"],
+    "section_title": "ТАСС",
+    "site_title": "Новости в России и мире - ТАСС",
+    "title": "В Бурятии площадь лесных пожаров выросла до 10,5 тыс. га",
+    "title_full": "В Бурятии площадь лесных пожаров выросла до 10,5 тыс. га",
+    "published": "2025-05-08T05:09:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://cdn-storage-media.tass.ru/thumb/ru/proisshestviya/23884671?u=2025-05-08T01:09:54.602779",
+    "performance_score": 0,
+    "domain_rank": 1653,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2482b6cb308adf0ad431bbdd5f23fbd47946714a",
+  "url": "https://tass.ru/proisshestviya/23884671",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T05:09:00.000+03:00",
+  "title": "В Бурятии площадь лесных пожаров выросла до 10,5 тыс. га",
+  "text": "УЛАН-УДЭ, 8 мая. /ТАСС/. Площадь лесных пожаров в Бурятии за сутки выросла с 6,3 тыс. до 10,5 тыс. га. Об этом сообщили в республиканском агентстве лесного хозяйства (РАЛХ).\nЧитайте также Лесные пожары в России. \"Антирекорды\" и территории распространения \"На утро 8 мая действует 21 лесной пожар в Баунтовском эвенкийском, Джидинском, Еравнинском и Кяхтинском районах - на общей площади 10 539 га\", - говорится в сообщении.\nЗа прошедшие сутки обнаружено 12 возгораний. Причина их возникновения - неосторожное обращение с огнем.\"Угрозы населенным пунктам нет\", - отметили в РАЛХ.\nНа тушении работают 388 человек - сотрудники лесной охраны, Авиалесоохраны, МЧС и добровольцы. Задействовано 92 единицы лесопожарной техники.\nВ регионе действует особый противопожарный режим, доступ в лес ограничен. В Баунтовском эвенкийском районе введен режим чрезвычайной ситуации.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "War, Conflict and Unrest"],
+  "topics": [
+    "Environment->nature",
+    "Environment->environmental pollution",
+    "Social Issue->demographics",
+    "Social Issue->population and census",
+    "War, Conflict and Unrest->civil unrest"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:31:06.106+03:00",
+  "updated": "2025-05-08T02:42:43.000+00:00"
+}

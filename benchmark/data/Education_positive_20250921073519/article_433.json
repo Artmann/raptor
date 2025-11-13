@@ -1,0 +1,129 @@
+{
+  "thread": {
+    "uuid": "57f0c6857ea7afb96289680515a1683a760b3223",
+    "url": "https://www.minotdailynews.com/sports/local-sports/2025/09/freshman-rostad-leads-minot-state-with-top-20-finish-at-msu-csp-fall-brawl/",
+    "site_full": "www.minotdailynews.com",
+    "site": "minotdailynews.com",
+    "site_section": "https://news.google.com/search?q=at%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "News, Sports, Jobs - Minot Daily News",
+    "title": "Freshman Rostad Leads Minot State with Top-20 Finish at MSU/CSP Fall Brawl",
+    "title_full": "Freshman Rostad Leads Minot State with Top-20 Finish at MSU/CSP Fall Brawl",
+    "published": "2025-09-17T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 171351,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "57f0c6857ea7afb96289680515a1683a760b3223",
+  "url": "https://www.minotdailynews.com/sports/local-sports/2025/09/freshman-rostad-leads-minot-state-with-top-20-finish-at-msu-csp-fall-brawl/",
+  "ord_in_thread": 0,
+  "author": "MDN Sports",
+  "published": "2025-09-17T03:00:00.000+03:00",
+  "title": "Freshman Rostad Leads Minot State with Top-20 Finish at MSU/CSP Fall Brawl",
+  "text": "Freshman Rostad Leads Minot State with Top-20 Finish at MSU/CSP Fall Brawl\nThe Minot State men’s and women’s golf teams closed out play today at the MSU/CSP Fall Brawl at the Troy Burne Golf Club, capping a two day tournament that featured many conference competitors.\nThe Minot State men’s team climbed the standings on Day 2, finishing in 8th place with a team total of +36.\nFreshman Kasen Rostad, a Minot North High School graduate, delivered the highlight of the tournament for the Beavers. Rostad shot +2 over the two rounds, earning 16th place and setting a new personal best collegiate tournament finish. His back-to-back rounds of 72 were collegiate-best scores for the true freshman.\nGunther Soltvedt followed with a steady performance, finishing 29th at +8. Max Karnik placed 48th with a score of +12. Zach Hendrickson was close behind in 54th at +14, while Gage Olson finished 66th with +33.\nWinona State University claimed the men’s team title, shooting an impressive 13-under par to secure the victory. Winona State’s Peyton Coahran took home the individual title, finishing at 4-under par.\nOn the women’s side, Minot State placed 14th overall with a team score of +119.\nLeading the way for the Beavers was Zoe Banack, who turned in a strong performance with a 15th place finish at +15. Banack shot a collegiate-best round of 5-over 76 on Tuesday as she turned in her second straight top 20 finish this fall.\nTori Worner followed in 61st place at +30. Abigail Goettle tailed Worner in 67th with a score of +32. Meadow Roberts placed 77th at +42, while Macie Sebelius rounded out the team in 79th with +58.\nMinnesota State University, Mankato captured the women’s team title with a final score of +31, while Victoria Woytassek, also of MSU Mankato, earned the individual championship at +2.\nThe Beavers will now look towards their next tournament, the Jewel Invitational, which will be in Lake City, Minnesota. The tournament is set to start next Monday, September 22nd at The Jewel Golf Club.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Education", "Human Interest"],
+  "topics": [
+    "Sport->golf",
+    "Education->college and university",
+    "Education->students",
+    "Education->vocational education",
+    "Human Interest->record and achievement"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Gunther Soltvedt",
+        "sentiment": "none"
+      },
+      {
+        "name": "Zach Hendrickson",
+        "sentiment": "none"
+      },
+      {
+        "name": "Peyton Coahran",
+        "sentiment": "none"
+      },
+      {
+        "name": "Kasen Rostad",
+        "sentiment": "none"
+      },
+      {
+        "name": "Max Karnik",
+        "sentiment": "none"
+      },
+      {
+        "name": "Gage Olson",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Winona State University",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Minot North High School",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Troy Burne Golf Club",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Makoti", "Minto", "Minot"],
+      "state": ["North Dakota"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:20:29.943+03:00",
+  "updated": "2025-09-18T08:29:12.000+03:00"
+}

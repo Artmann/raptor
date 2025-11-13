@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "a0f90207c746d9ddcc25a78a99a08e338b9e03f6",
+    "url": "https://www.businesstoday.in/nri/study/story/lost-my-us-dream-tech-engineers-viral-post-on-social-media-triggers-heated-debate-on-us-education-gamble-482005-2025-06-26",
+    "site_full": "www.businesstoday.in",
+    "site": "businesstoday.in",
+    "site_section": "https://news.google.com/search?q=my%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media", "financial_news", "finance"],
+    "section_title": "Google News - Search",
+    "site_title": "Business News India: Latest Business News Today, Share Market, Economy",
+    "title": "'Lost my US dream...': Tech engineer's viral post on social media triggers heated debate on US education gamble",
+    "title_full": "'Lost my US dream...': Tech engineer's viral post on social media triggers heated debate on US education gamble",
+    "published": "2025-06-26T14:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202506/685d2ff942cf8-a-us-degree--once-seen-as-a-ticket-to-prosperity--now-demands-a-more-strategic--skill-driven-approac-263307177-16x9.png",
+    "performance_score": 0,
+    "domain_rank": 3845,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a0f90207c746d9ddcc25a78a99a08e338b9e03f6",
+  "url": "https://www.businesstoday.in/nri/study/story/lost-my-us-dream-tech-engineers-viral-post-on-social-media-triggers-heated-debate-on-us-education-gamble-482005-2025-06-26",
+  "ord_in_thread": 0,
+  "author": "@business_today",
+  "published": "2025-06-26T14:33:00.000+03:00",
+  "title": "'Lost my US dream...': Tech engineer's viral post on social media triggers heated debate on US education gamble",
+  "text": "Armed with dreams and degrees, a growing number of Indian students land in the United States each year, banking on advanced education to unlock lucrative careers. But for many, the American dream stalls soon after graduation. An unforgiving job market, limited H-1B visa opportunities, and a lack of sponsorships leave them grappling with tough choices — settle for less, return home, or risk career stagnation.\nPointing to this widening gap between aspiration and reality, a Reddit user shared, “I have 3 years of work experience and was working at TCS until 2023. That year, I took a sabbatical to pursue a Master’s in the US, aiming to find a job here. I completed my degree in 1.5 years and have been job hunting for the past 6 months — but haven’t had any success due to the tough market.”\nThe user added, “Now, I’m considering returning to India and continuing with TCS. But the new bench policy — where employees on bench for more than 35 days may be let go — has made me anxious. With the current high bench count, I’m worried I might not get a project in time, and risk losing that job too. It feels like I might end up losing both — my US dream and my position at TCS. I’m really confused and would appreciate any guidance or suggestions.”\nThe post triggered a wave of reactions online.\n“You did MS from practically tier 3 colleges in the US that are there just to pull money from desperate Indian international students like you... Don’t go to the US unless you're getting into an Ivy League or other top 30 college,” wrote one user, adding that small firms may offer initial opportunities even if they don’t sponsor green cards.\nAnother user encouraged perseverance: “Do job hunting till last mile... you have little luck going to the US, this will affect generations together and f*** TCS — there (are) hell lot of companies for 3 yr experience if you are good at some tech.”\nA third emphasized upskilling: “Focus on skills. With current competition... try to be full stack as much as possible and try to learn the way to implement LLMs and related frameworks like Langchain etc. Even if you don't get a job in the US, you should get a good paid job in India.”\nDespite their different tones, the responses underscore a common reality: a US degree, once seen as a ticket to prosperity, now demands a more strategic, skill-driven approach — both abroad and back home.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Social Issue", "Education"],
+  "topics": [
+    "Social Issue->social problem",
+    "Social Issue->social services",
+    "Social Issue->immigration",
+    "Education->vocational education",
+    "Education->students",
+    "Education->college and university"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "TCS",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:59:35.568+03:00",
+  "updated": "2025-06-26T12:11:44.000+00:00"
+}

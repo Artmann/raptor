@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "1898d4a9be742f3a76d55944cb57a5d9b510c5df",
+    "url": "https://www.newsbreak.com/kyw-news-radio-560912/3774138984008-phillies-players-step-up-to-the-dinner-plate-and-serve-meals-to-those-in-need",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://newsbreak.com/philadelphia-pa-sports",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "Philadelphia, PA Sports and More | NewsBreak",
+    "title": "Phillies players step up to the dinner plate and serve meals to those in need - NewsBreak",
+    "title_full": "Phillies players step up to the dinner plate and serve meals to those in need - NewsBreak",
+    "published": "2025-01-23T17:28:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/4PgSyI_0yMuqJz800",
+    "performance_score": 0,
+    "domain_rank": 3577,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1898d4a9be742f3a76d55944cb57a5d9b510c5df",
+  "url": "https://www.newsbreak.com/kyw-news-radio-560912/3774138984008-phillies-players-step-up-to-the-dinner-plate-and-serve-meals-to-those-in-need",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Vik Raghupathi",
+  "published": "2025-01-23T17:28:00.000+02:00",
+  "title": "Phillies players step up to the dinner plate and serve meals to those in need - NewsBreak",
+  "text": "By Vik Raghupathi ,\n6 hours ago\nPHILADELPHIA (KYW Newsradio) — A few members of the Philadelphia Phillies stepped up to a different kind of plate Wednesday evening. They served hot meals to the less fortunate at a church in Kensington.\nA little less than a month out from spring training, utilityman and Millville, New Jersey native Buddy Kennedy carried trays full of food to folks at St. Francis Inn on Kensington Avenue.\n“Whatever I can do to help in any way, I’m always down for it,” Kennedy said. “It just shows how blessed I am, and if I can bless somebody else, it’s a true honor for me.”\nKennedy was joined by fellow Phillies Cristopher Sanchez, Weston Wilson and Kody Clemens. They waited on dozens of guests during a restaurant-style meal, which included chicken stew over stuffing, a PB&J, an apple and some cake.\n“To do some community events together, get talking, see how the offseason was but also feed the homeless, it’s a special bond for all of us,” he added.\nSt. Francis Inn feeds about 150 to 200 people a day. It has seven full-time staff members who are joined each day by two dozen or so volunteers.\n“It takes an extraordinary amount of planning and effort, but it takes a huge amount of dedication from our staff and our volunteers, and we couldn’t do anything without them,” said Marissa Ryan, a full-time team member.\nPrepping, cooking, serving and cleaning is a full-day ordeal but completely worth it, she said.\n“Especially during a Code Blue, but all times of the year. Being fed is such a crucial aspect of being alive,” said Ryan. “Having a place where you can go, sit for a half an hour, talk to your friends and get warm — it’s a really beneficial place to be.”\n48",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Social Issue", "Lifestyle and Leisure"],
+  "topics": [
+    "Human Interest->human mishap",
+    "Social Issue->social services",
+    "Social Issue->charity",
+    "Social Issue->communities",
+    "Lifestyle and Leisure->wellness"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://stfrancisinn.org/",
+    "https://img.particlenews.com/image.php?url=4PgSyI_0yMuqJz800",
+    "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=4PgSyI_0yMuqJz800",
+    "https://player.amperwavepodcasting.com?&feed-link=https%3A%2F%2Frss.amperwave.net%2Fv2%2Fepisode%2F7161194_2025-01-23-123734&withPlaylist=false&theme=dark&playerDisplay-download=false&playerDisplay-logoType=Audacy",
+    "https://www.player.amperwavepodcasting.com?&feed-link=https%3A%2F%2Frss.amperwave.net%2Fv2%2Fepisode%2F7161194_2025-01-23-123734&withPlaylist=false&theme=dark&playerDisplay-download=false&playerDisplay-logoType=Audacy",
+    "https://www.img.particlenews.com/image.php?url=4PgSyI_0yMuqJz800",
+    "https://player.amperwavepodcasting.com",
+    "https://img.particlenews.com/image.php",
+    "https://stfrancisinn.org",
+    "https://www.stfrancisinn.org/",
+    "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=4PgSyI_0yMuqJz800"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Vik Raghupathi",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Buddy Kennedy",
+        "sentiment": "none"
+      },
+      {
+        "name": "Weston Wilson",
+        "sentiment": "none"
+      },
+      {
+        "name": "Kody Clemens",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Phillies",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "KYW Newsradio",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [
+      {
+        "name": "St. Francis Inn",
+        "sentiment": "none"
+      },
+      {
+        "name": "Avenue",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:22:58.733+02:00",
+  "updated": "2025-01-24T00:22:58.733+02:00"
+}

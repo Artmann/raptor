@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "f2307a0eb8d07374f1aa5558e3758419d42616d4",
+    "url": "https://www.rochford.gov.uk/weekly-separate-food-waste-collections-begin-across-the-rochford-district",
+    "site_full": "www.rochford.gov.uk",
+    "site": "rochford.gov.uk",
+    "site_section": "https://rochford.gov.uk/rss.xml",
+    "site_categories": [
+      "education",
+      "law_government_and_politics",
+      "business",
+      "us_government_resources"
+    ],
+    "section_title": "Rochford Council",
+    "site_title": "Rochford Council",
+    "title": "Weekly separate food waste collections begin across the Rochford District",
+    "title_full": "Weekly separate food waste collections begin across the Rochford District",
+    "published": "2025-10-16T12:37:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "https://www.rochford.gov.uk/sites/default/files/2025-10/Caddy%20liners.jpeg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f2307a0eb8d07374f1aa5558e3758419d42616d4",
+  "url": "https://www.rochford.gov.uk/weekly-separate-food-waste-collections-begin-across-the-rochford-district",
+  "ord_in_thread": 0,
+  "author": "ManalikahC",
+  "published": "2025-10-16T12:37:00.000+03:00",
+  "title": "Weekly separate food waste collections begin across the Rochford District",
+  "text": "A new weekly food waste collection service is now underway across the Rochford District, helping residents recycle more effectively and reduce their environmental impact. From this week (Monday 13 October), food waste is being collected separately from garden waste, with weekly collections using a dedicated food waste caddy.\nThis new service is designed to make food waste recycling easier, cleaner and more environmentally responsible. By separating food waste from garden and general waste, the district can support the production of renewable energy and compost.\nEach eligible household should now have received a food waste caddy and an information leaflet explaining how to use it. Residents are encouraged to place items such as fruit and vegetable peelings, cooked and raw meat, dairy products, bread, tea bags, and coffee grounds into their caddy. Packaging, liquids, and pet waste must not be included - contaminated bins will not be collected.\nResidents can either use compostable bags or place food waste directly inside the food waste caddy. Caddies should be placed out for weekly collection alongside other household waste bins, ensuring they are at the boundary by 7am on your usual collection day.\nFood waste accounts for up to 20% of household rubbish in Rochford. Under the previous system, much of this ended up in general waste bins, where it was either incinerated or sent for mixed processing. The new approach sends food waste to specialist facilities where it is converted into electricity and fertiliser, helping to power homes and promote sustainability.\nCouncillor Danielle Belton, Leader of Rochford District Council, said: “This is a big step forward for Rochford. Separating food waste means we can recycle more, reduce emissions, and turn everyday scraps into something useful. It’s a cleaner, greener way to manage waste, and I’m proud we’re making it happen. We understand that change like this can be challenging, especially when it means adjusting daily routines. But it’s important we all do our part to protect the environment for future generations. If residents have any questions or need help, support is available. I encourage everyone to visit the Council’s website for FAQs or contact our customer service team directly, we’re here to help.”\nResidents can find full details and FAQs at www.rochford.gov.uk/FoodWaste\nResidents - excluding those living in flats - who have not received a food waste caddy or need assistance are encouraged to contact the Council on 01702 546366.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->waste materials", "Environment->sustainability"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://links-2.govdelivery.com/CL0/http:%2F%2Fwww.rochford.gov.uk%2FFoodWaste/1/01010199ec608dbe-dec9e604-a9f4-4a58-abc8-699d15ac5f27-000000/TQsyk8UW0js5rl4DTHvcz2q2eJkAHYMpm1_9g-qnvuM=427",
+    "https://www.links-2.govdelivery.com/CL0/http:%2F%2Fwww.rochford.gov.uk%2FFoodWaste/1/01010199ec608dbe-dec9e604-a9f4-4a58-abc8-699d15ac5f27-000000/TQsyk8UW0js5rl4DTHvcz2q2eJkAHYMpm1_9g-qnvuM=427"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Rochford District",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "f2307a0eb8d07374f1aa5558e3758419d42616d4",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:47:34.906+03:00",
+  "updated": "2025-10-16T14:56:59.000+03:00"
+}

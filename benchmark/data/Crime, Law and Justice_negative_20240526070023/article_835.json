@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "f476a4b25dc897425b54fa7aad9d66678fed6b52",
+    "url": "https://www.wboc.com/news/local-internet-provider-bloosurf-accuses-t-mobile-of-rural-broadband-interference/article_4226dcc2-0331-11ef-9b11-839f5f25d9cb.html",
+    "site_full": "www.wboc.com",
+    "site": "wboc.com",
+    "site_section": "https://www.wboc.com/",
+    "site_categories": ["vehicles"],
+    "section_title": "WBOC TV | Delmarva's News Leader",
+    "title": "Local Internet Provider Bloosurf Accuses T-Mobile of Rural Broadband Interference | Latest News | wboc.com",
+    "title_full": "Local Internet Provider Bloosurf Accuses T-Mobile of Rural Broadband Interference | Latest News | wboc.com",
+    "published": "2024-04-25T12:25:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/wboc.com/content/tncms/assets/v3/editorial/1/7d/17d0464c-c841-11ed-aead-cf131beb536e/641a3f5fbe1c1.image.jpg?crop=1280%2C672%2C0%2C23&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 16688,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f476a4b25dc897425b54fa7aad9d66678fed6b52",
+  "url": "https://www.wboc.com/news/local-internet-provider-bloosurf-accuses-t-mobile-of-rural-broadband-interference/article_4226dcc2-0331-11ef-9b11-839f5f25d9cb.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Sean Curtis",
+  "published": "2024-04-25T12:25:00.000+03:00",
+  "title": "Local Internet Provider Bloosurf Accuses T-Mobile of Rural Broadband Interference | Latest News | wboc.com",
+  "text": "DELMARVA - Local broadband provider Bloosurf has filed a lawsuit against telecom giant T-Mobile, Inc. seeking $116 million in damages over alleged interference with their business operations on Delmarva.\nBloosurf claims T-Mobile has been purposely distributing its spectrum broadband at frequencies that Bloosurf says they have the sole right to operate in. The suit also alleges T-Mobile deceived both Bloosurf and the FCC, which conducted tests in 2021 to determine the source of interference to Bloosurf’s spectrum broadband, according to the internet provider. The source of that interference, according to Bloosurf, was not discovered until months after those tests.\nThe lawsuit, filed in U.S. District Court for Maryland on April 10th, also claims T-Mobile sought to purchase leases with several Maryland Universities which hold Educational Broadband Spectrum (EBS) leased to Bloosurf. Bloosurf says their EBS lease was not set to expire until 2031, but T-Mobile’s attempt to buy out the lease sought to terminate the relationship with Bloosurf and claim the critical spectrum rights for itself.\nBloosurf says T-Mobile’s actions have imperiled their entire business operation and has cost them half of their customers, estimating a net loss of over $116 million.\nBloosurf's networks provide internet to underserved rural communities on Delmarva including Somerset, Worcester, and Wicomico Counties in Maryland, Accomack County in Virginia, and Sussex County in Delaware.\nA spokesperson for T-Mobile tells WBOC they don't have anything to add at this time regarding the lawsuit.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "bloosurf",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "t-mobile",
+        "sentiment": "none"
+      },
+      {
+        "name": "maryland universities",
+        "sentiment": "none"
+      },
+      {
+        "name": "fcc",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "bloosurf",
+        "sentiment": "none"
+      },
+      {
+        "name": "maryland",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:37:46.499+03:00",
+  "updated": "2024-05-03T07:04:19.217+03:00"
+}

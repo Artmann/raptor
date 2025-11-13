@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "e34019af800a795e10b6db84451cc2e3ca2ca051",
+    "url": "https://www.volksstimme.de/panorama/chemie-und-industriepark-zeitz-soll-wachsen-4132433",
+    "site_full": "www.volksstimme.de",
+    "site": "volksstimme.de",
+    "site_section": "http://volksstimme.de",
+    "site_categories": ["social", "top_news_de", "top_news"],
+    "section_title": "Volksstimme",
+    "site_title": "Volksstimme",
+    "title": "Burgenlandkreis: Chemie- und Industriepark Zeitz soll wachsen",
+    "title_full": "Burgenlandkreis: Chemie- und Industriepark Zeitz soll wachsen",
+    "published": "2025-10-16T15:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://bmg-images.forward-publishing.io/2025/10/16/cba18323-4408-4e41-8a81-b82f4f0a6fbc.jpeg?rect=0%2C107%2C2048%2C1152&amp;w=1024",
+    "performance_score": 0,
+    "domain_rank": 36219,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e34019af800a795e10b6db84451cc2e3ca2ca051",
+  "url": "https://www.volksstimme.de/panorama/chemie-und-industriepark-zeitz-soll-wachsen-4132433",
+  "ord_in_thread": 0,
+  "author": "dpa",
+  "published": "2025-10-16T15:00:00.000+03:00",
+  "title": "Burgenlandkreis: Chemie- und Industriepark Zeitz soll wachsen",
+  "text": "Burgenlandkreis Chemie- und Industriepark Zeitz soll wachsen\nMehr als 50 Firmen aus dem In- und Ausland sind bereits im Areal des Parks ansässig. Wie neue Investitionen den Standort weiterentwickeln und Arbeitsplätze sichern sollen.\nElsteraue - Unter anderem für die Erschließung neuer Flächen und Arbeiten an den Gleisen fördert das Land den Chemie- und Industriepark in Zeitz mit knapp 30 Millionen Euro. Der Park zeige, wie „durch kluge Investitionen in Infrastruktur, durch nachhaltige Technologien und durch die Schaffung eines attraktiven Standorts für innovative Unternehmen“ Wandel gelingen kann, erklärte Wirtschaftsminister Sven Schulze.\nDie Bewältigung des Strukturwandels in den Kohleregionen gehörte zu den wichtigsten Zukunftsaufgaben des Landes, sagte der CDU-Politiker. „Dabei geht es darum, tragfähige wirtschaftliche Strukturen aufzubauen und den Menschen in der Region eine verlässliche Perspektive zu bieten.“\n50 Unternehmen aus dem In- und Ausland ansässig\nMit dem Geld soll unter anderem die Gleisinfrastruktur gesichert und ertüchtigt werden, hieß es. Außerdem sollen neue Fläche erschlossen und neue Stellen geschaffen werden.\nDerzeit arbeiten den Angaben nach knapp 50 Menschen bei der Infra-Zeitz Servicegesellschaft, um den Park zu bewirtschaften. Das Areal des Parks im Burgenlandkreis ist demnach rund 232 Hektar groß. Angesiedelt haben sich dort mehr als 50 Unternehmen aus dem In- und Ausland. Insgesamt beschäftigen sie rund 1.000 Menschen, wie es hieß.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Environment"],
+  "topics": [
+    "Economy, Business and Finance->manufacturing and engineering",
+    "Economy, Business and Finance->chemicals",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:10:20.056+03:00",
+  "updated": "2025-10-17T16:22:58.000+03:00"
+}

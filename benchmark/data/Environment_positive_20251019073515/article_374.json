@@ -1,0 +1,132 @@
+{
+  "thread": {
+    "uuid": "620e7a558ac2cdef8527066280c12bf2a03e9b8d",
+    "url": "https://www.mid-day.com/news/india-news/article/maharashtra-13-foot-python-rescued-from-farm-in-maval-s-kalhat-23598981",
+    "site_full": "www.mid-day.com",
+    "site": "mid-day.com",
+    "site_section": "https://www.mid-day.com/lifestyle/health-and-fitness",
+    "site_categories": ["media", "top_news_in", "top_news_pk", "top_news"],
+    "section_title": "Health and Fitness News: Stay Updated on Wellness, Workouts, Healthy Living, Health Issues, Health Tips, Beauty Tips, Good Health",
+    "site_title": "Latest Mumbai News | India news | Entertainment News | Latest News in Mumbai, Headlines, Live Updates and Coverage | Mid-Day",
+    "title": "Maharashtra: Alert farmer helps rescue 13-foot Indian python in Maval",
+    "title_full": "Maharashtra: Alert farmer helps rescue 13-foot Indian python in Maval",
+    "published": "2025-10-16T00:58:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://images.mid-day.com/images/images/2025/oct/13footpython-main-1760608705452_d.png",
+    "performance_score": 0,
+    "domain_rank": 19413,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "620e7a558ac2cdef8527066280c12bf2a03e9b8d",
+  "url": "https://www.mid-day.com/news/india-news/article/maharashtra-13-foot-python-rescued-from-farm-in-maval-s-kalhat-23598981",
+  "ord_in_thread": 0,
+  "author": "Archana Dahiwal",
+  "published": "2025-10-16T00:58:00.000+03:00",
+  "title": "Maharashtra: Alert farmer helps rescue 13-foot Indian python in Maval",
+  "text": "A 13-foot-long Indian python was safely rescued from a farm in Kalhat village in Maval, by a local farmer and members of the Maval Wildlife Rescue team. The snake was first spotted by farmer Bandu Pawar, who noticed it lying motionless in his field. When the reptile did not move away, Pawar immediately contacted wildlife rescuers Jigar Solanki and Vicky Daundkar from the Wildlife Rescuer Maval organisation. The team promptly informed the Forest Department and rushed to the site. I was working on the farm when I noticed something unusual. When I realised it was a large python, I immediately called the Maval wildlife rescue team, Pawar said. Villagers kept watch over the python for nearly two hours to ensure it remained undisturbed until the rescue team arrived. The operation was carried out efficiently by rescuers Jigar Solanki, Akash Owhal, Vicky Daundkar, Sahil Landge, and Ketika Kasetwar, who safely captured the massive reptile without causing it any harm. The team thanked local residents for their cooperation and used the opportunity to spread awareness about snake conservation and safety practices. Under the supervision of Forest Range Officer Somnath Takwale and Wildlife Rescuer Maval founder Nilesh Garade, the python underwent a preliminary health check and was later released back into its natural habitat in the presence of forest guard Kaluram Kadu. A 13-foot-long Indian python was safely rescued from a farm in Kalhat, Maval, thanks to the vigilance of a local farmer and swift action by the Maval Wildlife Rescue team.Farmer Bandu Pawar spotted the snake in his field and alerted the rescuers, who coordinated with the Forest… pic.twitter.com/Yp6zF8feCa Mid Day (@mid_day) October 16, 2025",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment", "Human Interest"],
+  "topics": [
+    "Environment->animal",
+    "Environment->conservation",
+    "Human Interest->human mishap"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ketika Kasetwar",
+        "sentiment": "none"
+      },
+      {
+        "name": "Vicky Daundkar",
+        "sentiment": "none"
+      },
+      {
+        "name": "Jigar Solanki",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bandu Pawar",
+        "sentiment": "none"
+      },
+      {
+        "name": "Akash Owhal",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Kalhat",
+        "sentiment": "none"
+      },
+      {
+        "name": "Maval",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Maval Wildlife Rescue",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Forest Department",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_in", "top_news_pk", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:36:22.990+03:00",
+  "updated": "2025-10-17T15:14:53.000+03:00"
+}

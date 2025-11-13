@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "a2fa41d99666cf3c0ddf101e9e4ccac3c81ad9e3",
+    "url": "https://www.notizie.it/marchini-sanpellegrino-per-noi-la-sostenibilit-impegno-quotidiano-nel-prenderci-cura-dellacqua/",
+    "site_full": "www.notizie.it",
+    "site": "notizie.it",
+    "site_section": "https://www.notizie.it",
+    "site_categories": ["tech"],
+    "section_title": "Notizie in tempo reale dall&#039;Italia e dall&#039;estero",
+    "site_title": "Notizie in tempo reale dall&#039;Italia e dall&#039;estero",
+    "title": "Marchini (Sanpellegrino): \"Per noi la sostenibilità è impegno quotidiano nel prenderci cura dell'acqua\"",
+    "title_full": "Marchini (Sanpellegrino): \"Per noi la sostenibilità è impegno quotidiano nel prenderci cura dell'acqua\"",
+    "published": "2025-10-16T15:45:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://www.notizie.it/wp-content/uploads/2019/03/default_featured_image-3-1200x900.png",
+    "performance_score": 0,
+    "domain_rank": 137820,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a2fa41d99666cf3c0ddf101e9e4ccac3c81ad9e3",
+  "url": "https://www.notizie.it/marchini-sanpellegrino-per-noi-la-sostenibilit-impegno-quotidiano-nel-prenderci-cura-dellacqua/",
+  "ord_in_thread": 0,
+  "author": "Adnkronos",
+  "published": "2025-10-16T15:45:00.000+03:00",
+  "title": "Marchini (Sanpellegrino): \"Per noi la sostenibilità è impegno quotidiano nel prenderci cura dell'acqua\"",
+  "text": "Roma, 16 ott. (Adnkronos/Labitalia) – \"La sostenibilità indica la nostra rotta, l'acqua è natura portata ai consumatori. Si pensa al vino come frutto del territorio in cui nasce, ma l'acqua minerale è la stessa identica cosa. E' saldamente ancorata al proprio territorio, da cui non prescinde, ha delle caratteristiche uniche che sono il frutto del territorio da cui sgorga e delle caratteristiche che devono essere costanti nel tempo. Quindi per noi fare sostenibilità vuol dire lavorare per essere un'azienda a prova di futuro. Non è qualcosa da cui possiamo prescindere ed è un impegno quotidiano, non è un obiettivo da raggiungere. E' un impegno quotidiano che mettiamo nel nostro modo di fare impresa, nel prenderci cura dell'acqua, nel prenderci cura delle nostre persone e dei territori in cui operiamo. Lo facciamo, lo facciamo attraverso diverse tipologie di iniziative, diverse leve che andiamo ad attivare\". Lo ha detto Fabiana Marchini, head sustainability & corporate affairs Gruppo Sanpellegrino, intervenendo intervenendo all'evento Adnkronos Q&A ‘Sostenibilità al bivio’ tenutosi oggi al Palazzo dell’Informazione a Roma.\nE Marchini ha spiegato nel concreto le attività portate avanti. \"Intanto lavoriamo -ha sottolineato- sull'ottimizzazione dei processi industriali e sull'ottimizzazione della gestione della risorsa idrica, è importantissimo. Tutti i nostri stabilimenti sono certificati secondo lo standard internazionale dell'Alliance for water stewardship che attesta la gestione virtuosa e condivisa dalla risorsa idrica. E per noi questo è fondamentale perché l'acqua comunque è vita, è una risorsa fondamentale, infatti perseguiamo il costante efficientamento e il risparmio idrico. Lo facciamo -ha continuato- cercando di mitigare il nostro impatto ambientale, sia in termini di carbon footprint, sia in termini di supporto a un modello di economia circolare. Utilizziamo materiali riciclati nei nostri imballaggi, cerchiamo di evolvere il nostro modello di business adottando una logistica sempre più sostenibile. Quindi sono diverse le leve che attiviamo per poter mitigare il nostro impatto\", ha sottolineato.\n\"E poi, non meno importante, è la gestione di quello che noi chiamiamo la nostra casa, che è poi la casa comune, il territorio da cui sgorgano le nostre acque. Quindi è fondamentale per noi prenderci cura dei territori in cui viviamo\", ha concluso.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->water", "Environment->sustainability"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Fabiana Marchini",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Roma",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Sanpellegrino",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Adnkronos",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:54:01.826+03:00",
+  "updated": "2025-10-16T16:08:22.000+03:00"
+}

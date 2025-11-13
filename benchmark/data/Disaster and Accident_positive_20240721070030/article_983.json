@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "b4214a7fef9bb5d2315a3797530e95afb9dccfcb",
+    "url": "https://www.newsmax.com/newsfront/hiker-lost-water/2024/06/24/id/1169890",
+    "site_full": "www.newsmax.com",
+    "site": "newsmax.com",
+    "site_section": "https://www.newsmax.com/rss/Newsfront/16",
+    "site_categories": [
+      "media",
+      "law_government_and_politics",
+      "politics",
+      "top_news"
+    ],
+    "section_title": "Newsmax - Newsfront",
+    "title": "Lost Hiker Survives 10 Days by Drinking From Boots",
+    "title_full": "Lost Hiker Survives 10 Days by Drinking From Boots",
+    "published": "2024-06-24T16:42:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=7fc71821-add3-402c-8521-96fb4e375ffd&amp;SiteName=Newsmax",
+    "performance_score": 0,
+    "domain_rank": 2299,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b4214a7fef9bb5d2315a3797530e95afb9dccfcb",
+  "url": "https://www.newsmax.com/newsfront/hiker-lost-water/2024/06/24/id/1169890",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Brian Freeman",
+  "published": "2024-06-24T16:42:00.000+03:00",
+  "title": "Lost Hiker Survives 10 Days by Drinking From Boots",
+  "text": "Lukas McClish was rescued Thursday evening with no major injuries after wandering Big Basin Redwoods State Park for 10 days, telling KSBW News that he had left home on the morning of June 11 and \"didn’t bring anything, because I thought I was doing a three-hour hike to go to work.\" McClish said that after he realized he was lost \"I kind of just hiked each day. I’d go up a canyon, down a canyon to the next waterfall and sit down by the waterfall and drink water out of my boot,\" adding that he also foraged wild berries. He said that what he wanted the most was a burrito and a taco bowl, telling KSBW, \"That’s what I thought about every day after the first five days, when I started to kind of realize that I might be in over my head.\" Experts say that getting lost without food or supplies can quickly become a question of survival, and that trying to find help should be the first priority, as well as proper preparation before setting out on even a short hike. \"Use any available resources to signal for rescue significantly increasing your chances of making it through,\" Trail Hiking Australia founder Darren Edwards told The Washington Post in an email. He added that \"beyond help seeking and making your location known, the priorities become shelter, water and food [not always in that order].\" The National Park Service stressed that preparation before a hike should include leaving details about your trip with friends or family, where you will be hiking, your contact information, when you plan to arrive and return, and who is coming with you. In addition, it is best to bring a personal locater beacon that can send a distress signal, along with a fully charged cellphone.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "lukas mcclish",
+        "sentiment": "negative"
+      },
+      {
+        "name": "mcclish",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "ksbw news",
+        "sentiment": "none"
+      },
+      {
+        "name": "ksbw",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-06-24T17:45:41.059+03:00",
+  "updated": "2024-06-24T17:45:41.059+03:00"
+}

@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "da38e9e4fe54b9c2a2b33923baf3b4498e6b7f3f",
+    "url": "https://readwrite.com/chinese-e-commerce-giant-jd-com-wins-antimonopoly-lawsuit-against-alibaba/",
+    "site_full": "readwrite.com",
+    "site": "readwrite.com",
+    "site_section": "https://readwrite.com",
+    "site_categories": ["tech"],
+    "section_title": "ReadWrite - IoT and Technology News",
+    "title": "Chinese e-commerce giant JD.com wins landmark antimonopoly lawsuit against Alibaba - ReadWrite",
+    "title_full": "Chinese e-commerce giant JD.com wins landmark antimonopoly lawsuit against Alibaba - ReadWrite",
+    "published": "2023-12-29T14:09:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://readwrite.com/wp-content/uploads/2019/10/CCPA-Do-the-Penalties-Fit-the-Crime.jpg",
+    "performance_score": 0,
+    "domain_rank": 2569,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "da38e9e4fe54b9c2a2b33923baf3b4498e6b7f3f",
+  "url": "https://readwrite.com/chinese-e-commerce-giant-jd-com-wins-antimonopoly-lawsuit-against-alibaba/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Maxwell William",
+  "published": "2023-12-29T14:09:00.000+02:00",
+  "title": "Chinese e-commerce giant JD.com wins landmark antimonopoly lawsuit against Alibaba - ReadWrite",
+  "text": "Chinese online retailer JD.com has won its lawsuit against its rival Alibaba, according to [Reuters](https://www.reuters.com/technology/jdcom-wins-antimonopoly-lawsuit-against-alibaba-2023-12-29/), resulting in a substantial fine of 1 billion yuan ($140.68 million) imposed on Alibaba for monopolistic practices. The High People’s Court of Beijing delivered the ruling, finding Alibaba Group Holding Limited and its subsidiaries, Zhejiang Tmall Network Co and Zhejiang Tmall Technology Co, guilty of abusing their market dominance. The court’s decision marks a critical moment in China’s ongoing efforts to regulate monopolistic behavior in the e-commerce sector. The practice in question, known as “choosing one from two,” involved pressuring brands and merchants to work exclusively with one platform, significantly impacting market competition and fairness. JD.com, in a statement released on its official WeChat account, hailed the ruling as a landmark moment in upholding market fairness and competition order through the rule of law. The company expressed that the decision is not just a win for JD.com’s resistance against monopolistic practices but also a significant step in China’s anti-monopoly legal process. An Alibaba spokesperson acknowledged the ruling and expressed respect for the court’s decision. This isn’t the first time Alibaba has faced legal challenges for its market practices. In 2021, Chinese regulators fined Alibaba a record $2.75 billion following an anti-trust probe that concluded the company had abused its market dominance. The outcome of JD.com’s lawsuit against Alibaba outcome highlights the ongoing tension between China’s e-commerce giants and underscores the Chinese government’s commitment to [regulating monopolistic practices](https://readwrite.com/shein-accused-of-anti-competitive-practices-in-global-expansion/) in the digital economy. The ruling is expected to have far-reaching implications for how e-commerce platforms operate and compete in China, potentially leading to a more [balanced](https://readwrite.com/alibaba-abandons-cloud-division-spinoff-plan/) and competitive market landscape.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Crime, Law and Justice", "Economy, Business and Finance"],
+  "external_links": [
+    "https://www.reuters.com/technology/jdcom-wins-antimonopoly-lawsuit-against-alibaba-2023-12-29/),",
+    "https://reuters.com/technology/jdcom-wins-antimonopoly-lawsuit-against-alibaba-2023-12-29/),"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "alibaba",
+        "sentiment": "negative"
+      },
+      {
+        "name": "reuters",
+        "sentiment": "negative"
+      },
+      {
+        "name": "zhejiang tmall technology co",
+        "sentiment": "none"
+      },
+      {
+        "name": "zhejiang tmall network co",
+        "sentiment": "none"
+      },
+      {
+        "name": "high people’s court",
+        "sentiment": "none"
+      },
+      {
+        "name": "alibaba group holding limited",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "beijing",
+        "sentiment": "none"
+      },
+      {
+        "name": "china",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T15:12:53.175+02:00",
+  "updated": "2023-12-29T15:12:53.175+02:00"
+}

@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "451879f45746d16e305b534d38eda1b7dfb8c1c4",
+    "url": "https://www.cp24.com/news/police-search-for-suspect-captured-on-video-setting-tow-truck-on-fire-in-markham-1.6862004",
+    "site_full": "www.cp24.com",
+    "site": "cp24.com",
+    "site_section": "https://www.cp24.com/rss/top-stories-1.1129631",
+    "site_categories": [
+      "under_construction",
+      "non_standard_content",
+      "top_news"
+    ],
+    "section_title": "",
+    "title": "Suspect sought after tow truck set on fire in Markham | CP24.com",
+    "title_full": "Suspect sought after tow truck set on fire in Markham | CP24.com",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://www.cp24.com/polopoly_fs/1.6862005.1714072188!/httpImage/image.jpeg_gen/derivatives/landscape_620/image.jpeg",
+    "performance_score": 0,
+    "domain_rank": 9000,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 21,
+        "comments": 4,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "451879f45746d16e305b534d38eda1b7dfb8c1c4",
+  "url": "https://www.cp24.com/news/police-search-for-suspect-captured-on-video-setting-tow-truck-on-fire-in-markham-1.6862004",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@cp24",
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "Suspect sought after tow truck set on fire in Markham | CP24.com",
+  "text": "York Regional Police have released a video of a suspect setting a tow truck on fire in Markham early Thursday morning as they appeal for information about the incident.\nOfficers and fire crews were called to a residence on Williamson Road shortly after 12:30 a.m. for a fire. When they arrived, crews found a truck fully engulfed in flames.\nFirefighters subsequently knocked down the fire. Police said no injuries were reported as the truck was unoccupied, and the home was not damaged.\nIn surveillance footage uploaded on Thursday , a four-door sedan arrives in front of a home and one person gets out of the passenger side.\nThey approach a tow truck and appear to pour an accelerant on the vehicle. The person is then seen lighting something in his hand before tossing it to the truck and setting it ablaze.\nThe person runs back to the car and drives away.\nNo suspect description has been released. Police ask anyone with information about the incident to contact investigators at 1-866-876-5423 ext. 7541 or Crime Stoppers anonymously at 1-800-222-TIPS or online at www.1800222tips.com.\nRelated Stories Police release video of suspects lighting tow truck on fire in Richmond Hill parking lot Police investigating after multiple tow trucks caught fire across Scarborough Police investigating another suspicious tow truck fire, at least the fourth one this week Photos A still from a video shows a suspect setting a tow truck on fire in Markham on Thursday, April 25, 2024. (York Regional Police)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.yrp.ca/en/Modules/News/index.aspx",
+    "https://yrp.ca/en/Modules/News/index.aspx"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "cp24.com york regional police",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [
+      {
+        "name": "markham",
+        "sentiment": "none"
+      },
+      {
+        "name": "williamson road",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:03:21.941+03:00",
+  "updated": "2024-04-26T01:14:38.898+03:00"
+}

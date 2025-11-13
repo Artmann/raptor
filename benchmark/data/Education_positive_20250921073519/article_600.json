@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "8a05cd09b8aeec6337082495faae9e5f40e8867f",
+    "url": "https://www.courierpapers.com/morton_courier/article_099ceb06-078e-42ce-8f62-489536eaefe1.html",
+    "site_full": "www.courierpapers.com",
+    "site": "courierpapers.com",
+    "site_section": "https://courierpapers.com/weather?weather_zip=61571",
+    "site_categories": ["media"],
+    "section_title": "Weather | courierpapers.com",
+    "site_title": "courierpapers.com",
+    "title": "SNHU announces Summer 2025 Dean's List | Morton Courier | courierpapers.com",
+    "title_full": "SNHU announces Summer 2025 Dean's List | Morton Courier | courierpapers.com",
+    "published": "2025-09-17T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/courierpapers.com/content/tncms/custom/image/df615abc-44fa-11e9-bb20-0be613d6b4e2.jpg?resize=600%2C315",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8a05cd09b8aeec6337082495faae9e5f40e8867f",
+  "url": "https://www.courierpapers.com/morton_courier/article_099ceb06-078e-42ce-8f62-489536eaefe1.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-17T03:00:00.000+03:00",
+  "title": "SNHU announces Summer 2025 Dean's List | Morton Courier | courierpapers.com",
+  "text": "Southern New Hampshire University (SNHU) congratulates the following students on being named to the Summer 2025 Dean's List. The summer terms run from May to August.\nFull-time undergraduate students who have earned a minimum grade-point average of 3.500 to 3.699 for the reporting term are named to the Dean's List. Full-time status is achieved by earning 12 credits over each 16-week term or paired 8-week terms grouped in fall, winter/spring, and summer.\nArea students include:\nStephanie Rawson of Tremont\nSouthern New Hampshire University (SNHU) is a private, nonprofit, accredited institution with a 92-year history of educating traditional-aged students and working adults. Now serving more than 200,000 learners worldwide, SNHU offers approximately 200 undergraduate, graduate, and certificate programs, available online and on its 300-acre campus in Manchester, NH. Recognized as one of the \"Most Innovative\" regional universities by U.S. News & World Report and one of the fastest-growing universities in the country, SNHU is committed to expanding access to high quality, affordable pathways that meet the needs of each learner.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education"],
+  "topics": [
+    "Education->students",
+    "Education->educational grading",
+    "Education->college and university"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Stephanie Rawson",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Tremont\nSouthern New Hampshire University",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "8a05cd09b8aeec6337082495faae9e5f40e8867f",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Washington", "Morton"],
+      "state": ["Illinois"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:41:14.687+03:00",
+  "updated": "2025-09-18T08:45:47.000+03:00"
+}

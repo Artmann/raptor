@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "09415209848a4fda266b2bb67ab7cbd7c1ad28fc",
+    "url": "https://leadership.ng/gov-aliyu-distributes-n100m-to-victims-of-sokoto-market-fire-inferno",
+    "site_full": "leadership.ng",
+    "site": "leadership.ng",
+    "site_section": "https://nigeria.shafaqna.com/",
+    "site_categories": ["media"],
+    "section_title": "\r\n\t\tNigeria News (News Reader)\t",
+    "title": "Gov. Aliyu distributes N100m to victims of Sokoto market fire Inferno",
+    "title_full": "Gov. Aliyu distributes N100m to victims of Sokoto market fire Inferno",
+    "published": "2024-06-23T04:31:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NG",
+    "main_image": "https://leadership.ng/wp-content/uploads/2024/01/Ahmed-Aliyu-jpg.webp",
+    "performance_score": 0,
+    "domain_rank": 22128,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "09415209848a4fda266b2bb67ab7cbd7c1ad28fc",
+  "url": "https://leadership.ng/gov-aliyu-distributes-n100m-to-victims-of-sokoto-market-fire-inferno",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Leadership News",
+  "published": "2024-06-23T04:31:00.000+03:00",
+  "title": "Gov. Aliyu distributes N100m to victims of Sokoto market fire Inferno",
+  "text": "Sokoto, June 22, 2024 (NAN) Gov. Ahmed Aliyu of Sokoto State has commenced the distribution of N100 million donated by the state government to the victims of",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Politics", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "aliyu",
+        "sentiment": "negative"
+      },
+      {
+        "name": "ahmed aliyu",
+        "sentiment": "negative"
+      },
+      {
+        "name": "malam abubakar bawa",
+        "sentiment": "none"
+      },
+      {
+        "name": "sahabi gada",
+        "sentiment": "none"
+      },
+      {
+        "name": "bawa",
+        "sentiment": "none"
+      },
+      {
+        "name": "gada",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "sokoto state",
+        "sentiment": "negative"
+      },
+      {
+        "name": "committee",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "sokoto",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-23T05:00:13.622+03:00",
+  "updated": "2024-06-23T11:14:47.130+03:00"
+}

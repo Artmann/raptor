@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "adcfeaa4db1d35a04a7d7318dcf2942be62a2fbe",
+    "url": "https://gov.ifeng.com/c/8kTaWjLBizi",
+    "site_full": "gov.ifeng.com",
+    "site": "ifeng.com",
+    "site_section": "https://gov.ifeng.com/",
+    "site_categories": [
+      "japan",
+      "travel",
+      "top_news_hk",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "政务_凤凰网",
+    "site_title": null,
+    "title": "西南财大一学生发表有关地震不当言论 校方：已对其进行严肃处理_凤凰网",
+    "title_full": "西南财大一学生发表有关地震不当言论 校方：已对其进行严肃处理_凤凰网",
+    "published": "2025-06-23T14:31:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 686,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "adcfeaa4db1d35a04a7d7318dcf2942be62a2fbe",
+  "url": "https://gov.ifeng.com/c/8kTaWjLBizi",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-23T14:31:00.000+03:00",
+  "title": "西南财大一学生发表有关地震不当言论 校方：已对其进行严肃处理_凤凰网",
+  "text": "原标题：西南财大一学生发表有关地震不当言论，校方：已对其进行严肃处理，目前留校察看\n极目新闻记者 郭奕\n6月25日，有网友发文称，西南财经大学一名学生白某某在朋友圈发布不当言论，此事引发关注。\n截图信息显示，白某某在言论中提到多个有关地震的不当言论。有网友表示，其话语过于恶毒。\n25日下午，西南财经大学学工处工作人员告诉极目新闻记者，他们已经关注到上述信息，并已根据校规校纪，对涉事学生进行严肃处理，“目前对其留校察看。”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->teachers",
+    "Education->students",
+    "Education->college and university",
+    "Social Issue->discrimination",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_hk", "top_news_tw", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T11:30:41.145+03:00",
+  "updated": "2025-06-27T09:07:40.000+00:00"
+}

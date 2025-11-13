@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "a4ca3f31721844720735e462aa5324534b065c09",
+    "url": "https://elperiodicodelaenergia.com/ribera-lamenta-que-algunos-usen-el-apagon-iberico-para-socavar-la-transicion-energetica",
+    "site_full": "elperiodicodelaenergia.com",
+    "site": "elperiodicodelaenergia.com",
+    "site_section": "http://elperiodicodelaenergia.com/feed",
+    "site_categories": ["business", "green_solutions"],
+    "section_title": "El Periódico de la Energía",
+    "site_title": "El Periódico de la Energía",
+    "title": "Ribera lamenta que algunos usen el apagón ibérico para socavar la transición energética",
+    "title_full": "Ribera lamenta que algunos usen el apagón ibérico para socavar la transición energética",
+    "published": "2025-05-08T01:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://cdn.elperiodicodelaenergia.com/2024/11/6744a4fdc1400fd0db7aa93f.jpg",
+    "performance_score": 0,
+    "domain_rank": 60368,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a4ca3f31721844720735e462aa5324534b065c09",
+  "url": "https://elperiodicodelaenergia.com/ribera-lamenta-que-algunos-usen-el-apagon-iberico-para-socavar-la-transicion-energetica",
+  "ord_in_thread": 0,
+  "author": "Redacción",
+  "published": "2025-05-08T01:33:00.000+03:00",
+  "title": "Ribera lamenta que algunos usen el apagón ibérico para socavar la transición energética",
+  "text": "La vicepresidenta ejecutiva de la Comisión Europea para una Transición Limpia, Justa y Competitiva, Teresa Ribera, ha lamentado que algunos intenten usar el \"terrible\" apagón ibérico para tratar de \"socavar\" la acción climática y la transición energética.\n\"Lamentablemente, algunos intentan utilizar este terrible acontecimiento como excusa para socavar la acción climática y la transición energética\", manifestó Ribera en un mensaje en redes sociales en el que la también comisaria de Competitividad incidió en la necesidad de \"averiguar qué salió mal el pasado 28 de abril para llevar a la Península Ibérica a un apagón tan terrible\".\nPero la acción climática y la transición energética, dijo, son \"necesarias no solo por razones morales o ambientales\", ya que \"la competitividad, la seguridad y la calidad de vida también dependen de nuestra capacidad para impulsar la acción\", mantuvo.\n\"Afortunadamente, contamos con la ciencia y la tecnología, el compromiso, las herramientas, las condiciones y el modelo de negocio, así como con un gran equipo, incluido un gran comisario de energía, Dan Jorgensen\" para impulsar esa acción, continuó.\nPleno europeo sobre el apagón\nY en línea con lo mantenido por Jorgesen en un debate en el pleno del Parlamento Europeo sobre el apagón ibérico, Ribera también incidió en la necesidad que existe en la Unión Europea de \"invertir en redes y almacenamiento, mejorar y asegurar interconexiones adecuadas, desarrollar y ampliar las capacidades de gestión, seguir transformando nuestros sistemas energéticos y confiar en la ciencia\".\nEl comisario europeo de Energía y Vivienda dijo hoy que \"Europa necesita redes del siglo XXI\" con más interconexiones, inversiones, almacenamiento y flexibilidad.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Politics", "Environment", "Social Issue"],
+  "topics": [
+    "Politics->government policy",
+    "Politics->environmental policy",
+    "Politics->political development",
+    "Environment->energy saving",
+    "Environment->sustainability",
+    "Social Issue->diversity, equity and inclusion"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Teresa Ribera",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Península Ibérica",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Comisión Europea",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:51:19.060+03:00",
+  "updated": "2025-05-08T00:55:59.000+00:00"
+}

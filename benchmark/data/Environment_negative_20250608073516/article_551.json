@@ -1,0 +1,114 @@
+{
+  "thread": {
+    "uuid": "04ab5bfc14350f5aa2df8f1645c2e2d82c4c8a49",
+    "url": "https://www.jornada.com.mx/noticia/2025/05/07/economia/el-10-de-los-ricos-causa-23-del-calentamiento-global-revela-estudio",
+    "site_full": "www.jornada.com.mx",
+    "site": "jornada.com.mx",
+    "site_section": "https://www.jornada.com.mx/noticia/2023/10/26/cartones/acapulco-3548",
+    "site_categories": [
+      "media",
+      "education",
+      "sports",
+      "top_news_mx",
+      "top_news"
+    ],
+    "section_title": "La Jornada - ACAPULCO",
+    "site_title": "La Jornada",
+    "title": "La Jornada - El 10% de los ricos causa dos tercios del calentamiento global, revela estudio",
+    "title_full": "La Jornada - El 10% de los ricos causa dos tercios del calentamiento global, revela estudio",
+    "published": "2025-05-08T03:14:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/el-10-de-los-ricos-causa-23-del-calentamiento-global-revela-estudio/el-10-de-los-ricos-causa-23-del-calentamiento-global-revela-estudio_239365a7-259a-43a9-ba32-6610f65f9b8e_mediarawimage=true",
+    "performance_score": 0,
+    "domain_rank": 10374,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "04ab5bfc14350f5aa2df8f1645c2e2d82c4c8a49",
+  "url": "https://www.jornada.com.mx/noticia/2025/05/07/economia/el-10-de-los-ricos-causa-23-del-calentamiento-global-revela-estudio",
+  "ord_in_thread": 0,
+  "author": "La Jornada",
+  "published": "2025-05-08T03:14:00.000+03:00",
+  "title": "La Jornada - El 10% de los ricos causa dos tercios del calentamiento global, revela estudio",
+  "text": "París . El diez por ciento de la población mundial que tiene mayores ingresos es responsable de dos tercios del calentamiento global desde 1990, revela un estudio divulgado este miércoles.\nLa manera cómo los ricos consumen e invierten ha incrementado sustancialmente el riesgo de olas de calor mortales y sequías, según este estudio que cuantifica el impacto de la riqueza privada concentrada sobre eventos climáticos extremos.\n“Vinculamos la huella de carbono de las personas más ricas directamente con los impactos climáticos en el mundo real”, dijo a la AFP la autora principal Sarah Schoengart, científica del organismo ETH Zurich.\nLas emisiones de 10% más rico en China y EU representan casi la mitad de la contaminación global por carbono\nEn comparación con el promedio mundial, por ejemplo, el uno por ciento más rico contribuyó 26 veces más a las olas de calor que suceden una vez por siglo, y 17 veces más a las sequías en la Amazonia, según los hallazgos publicados en Nature Climate Change .\nLas emisiones de 10 por ciento más rico en China y Estados Unidos representan juntas casi la mitad de la contaminación global por carbono.\nLa quema de combustibles fósiles y la deforestación han provocado el recalentamiento de la superficie de la Tierra en un promedio de +1.3º C (grados centígrados), principalmente durante los últimos 30 años.\nSchoengart y sus colegas combinaron datos económicos y simulaciones climáticas para rastrear las emisiones de distintos grupos socioeconómicos, en función de sus ingresos.\nLos investigadores incluyeron en sus análisis el papel de las emisiones ocultas en inversiones financieras, y no solo en el estilo de vida y el consumo personal.\nInvestigaciones anteriores han demostrado que gravar las emisiones ligadas a los activos es más equitativo que los impuestos generales por la emisiones de gases de efecto invernadero, que tienden a afectar más a quienes tienen menores ingresos.\nEstancadas las iniciativas para aumentar impuestos a los súper-ricos\nLa mayoría de iniciativas recientes para aumentar los impuestos a los súper-ricos y multinacionales se han estancado, especialmente desde que Donald Trump recuperó la Casa Blanca.\nEl año pasado, Brasil -como anfitrión del G20- propuso un impuesto de 2 por ciento sobre el patrimonio neto de individuos con más de mil millones de dólares en activos.\nAunque los líderes del G20 acordaron “participar cooperativamente para garantizar que los individuos con un patrimonio ultra elevado sean efectivamente gravados”, hasta la fecha no ha habido seguimiento.\n× ❮ ❯",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Environment",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Environment->global warming",
+    "Environment->sustainability",
+    "Environment->population growth",
+    "Economy, Business and Finance->economy",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->financial and economic news",
+    "Social Issue->social problem",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Sarah Schoengart",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "AFP",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "AFP",
+            "exchange": "ASX"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:50:28.429+03:00",
+  "updated": "2025-05-08T01:54:31.000+00:00"
+}

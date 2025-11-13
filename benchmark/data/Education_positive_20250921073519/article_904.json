@@ -1,0 +1,132 @@
+{
+  "thread": {
+    "uuid": "f25c1bc105afd35047bf46bc870090fd48c51301",
+    "url": "https://medina-gazette.com/news/443664/medina-schools-to-name-performing-arts-center-main-stage-after-gary-ciulla/",
+    "site_full": "medina-gazette.com",
+    "site": "medina-gazette.com",
+    "site_section": "https://news.google.com/search?q=after%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "Medina County news | Medina Gazette",
+    "title": "Medina Schools to name Performing Arts Center main stage after Gary Ciulla",
+    "title_full": "Medina Schools to name Performing Arts Center main stage after Gary Ciulla",
+    "published": "2025-09-18T09:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "http://d34okl4jnxrvy2.cloudfront.net/MTS_Beta_Elyria/0/0/0/0/460/618/460618_1",
+    "performance_score": 0,
+    "domain_rank": 679841,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f25c1bc105afd35047bf46bc870090fd48c51301",
+  "url": "https://medina-gazette.com/news/443664/medina-schools-to-name-performing-arts-center-main-stage-after-gary-ciulla/",
+  "ord_in_thread": 0,
+  "author": "Sara Crawford The Gazette",
+  "published": "2025-09-18T09:00:00.000+03:00",
+  "title": "Medina Schools to name Performing Arts Center main stage after Gary Ciulla",
+  "text": "MEDINA — Medina High School's Performing Arts Stage will soon be renamed in honor of former band director, Gary Ciulla. Ciulla, who died in August 2018, served as the director of bands for Medina Schools for approximately 35 years before his retirement in 2015. During the Medina Board of Education meeting on Tuesday, Medina Assistant Superintendent Kris Quallich talked more about Ciulla and the renaming decision. Ciulla's time with Medina Schools was filled with student achievements and accomplishments, as students competed in competitions and performed outside of school. He was the 2015 recipient of the Medina City Schools Distinguished Service Award, Quallich said, which is the highest award a staff member can receive within the district. Quallich recently chaired a naming committee, which comprised Medina Schools administrators, staff and students, as well as Medina Board of Education member Amy Smoyer. Following the committee's discussions, Quallich recommended naming the main stage at the Performing Arts Center the \"Gary Ciulla Main Stage.\" \"He was an inspiration and positive influence for the 1000s of students he taught during his time,\" Quallich said. \"Many of his former students are now professional musicians and music educators across the state and country.\" While the board members and Medina Superintendent Aaron Sable did not know Ciulla personally, they spoke of what others have said about him, sharing how beloved he was by the Medina community. Smoyer said that Medina Schools' current Director of Bands, Jason Locher, was not only a student of Ciulla but also did his student teaching under Ciulla. With the board's approval on Tuesday, Quallich said she will work out a date and time for a naming ceremony for the main stage. \"Our program is today, in no small part, because of him,\" Medina Board of Education president Andrew West said. Contact reporter Sara Crawford at (330) 721-4063 or scrawford@medina-gazette.com.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Arts, Culture and Entertainment",
+    "Education",
+    "Human Interest"
+  ],
+  "topics": [
+    "Arts, Culture and Entertainment->theatre",
+    "Arts, Culture and Entertainment->arts and entertainment",
+    "Arts, Culture and Entertainment->culture",
+    "Education->school",
+    "Education->students",
+    "Education->teachers",
+    "Human Interest->name ceremony"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Gary Ciulla",
+        "sentiment": "none"
+      },
+      {
+        "name": "Kris Quallich",
+        "sentiment": "none"
+      },
+      {
+        "name": "Amy Smoyer",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Medina High School",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Medina Schools",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Medina Board of Education",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Brunswick",
+        "Wadsworth",
+        "Seville",
+        "Medina",
+        "Spencer",
+        "Valley City",
+        "Sharon Center",
+        "Lodi"
+      ],
+      "state": ["Tennessee", "North Dakota", "Ohio", "New York", "Texas"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:15:20.583+03:00",
+  "updated": "2025-09-18T09:27:43.000+03:00"
+}

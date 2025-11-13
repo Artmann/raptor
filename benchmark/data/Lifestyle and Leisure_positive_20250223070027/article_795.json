@@ -1,0 +1,119 @@
+{
+  "thread": {
+    "uuid": "77aa3e2ca13e93a6fa5fe10e2d6396b7b287f372",
+    "url": "https://www.infobae.com/america/agencias/2025/01/23/2-0-el-eintracht-no-echa-de-menos-de-marmoush-y-pone-rumbo-a-los-octavos",
+    "site_full": "www.infobae.com",
+    "site": "infobae.com",
+    "site_section": "https://www.infobae.com/america/agencias",
+    "site_categories": [
+      "media",
+      "top_news_co",
+      "top_news_cl",
+      "top_news_il",
+      "top_news_es",
+      "top_news_pt",
+      "top_news_us",
+      "top_news_pe",
+      "top_news_mx",
+      "top_news_ar",
+      "top_news_ve",
+      "top_news"
+    ],
+    "section_title": "Últimas Noticias de Argentina y del Mundo - Infobae",
+    "title": "2-0. El Eintracht no echa de menos de Marmoush y pone rumbo a los octavos - Infobae",
+    "title_full": "2-0. El Eintracht no echa de menos de Marmoush y pone rumbo a los octavos - Infobae",
+    "published": "2025-01-24T03:16:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=2958",
+    "performance_score": 0,
+    "domain_rank": 1935,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "77aa3e2ca13e93a6fa5fe10e2d6396b7b287f372",
+  "url": "https://www.infobae.com/america/agencias/2025/01/23/2-0-el-eintracht-no-echa-de-menos-de-marmoush-y-pone-rumbo-a-los-octavos",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@infobae",
+  "published": "2025-01-24T03:16:00.000+02:00",
+  "title": "2-0. El Eintracht no echa de menos de Marmoush y pone rumbo a los octavos - Infobae",
+  "text": "Redacción deportes, 23 ene (EFE).- El Eintracht de Fráncfort no acusó la ausencia del delantero egipcio Omar Marmoush, que este jueves fue traspasado al Manchester City, y puso pie y medio en los octavos de final de la Liga Europa, tras imponerse este jueves por 2-0 al Ferencvaros húngaro.\nPoco importó al conjunto germano, que percibirá 70 millones de euros por la venta de Marmoush, la pérdida de su mázimo goleador, ya que a falta del atacante egipcio el Eintracht parece tener asegurada la faceta anotadora con el francés Hugo Ekitike.\nY eso que el atacante galo vio como el guardameta del Ferencvaros Denes Dibusz, que minutos más tarde tuvo que abandonar el terreno de juego lesionado, le privaba del gol a los diecinueve minutos con una sensacional parada.\nPero ni así dejó de intentarlo Ekitike que a los cuatro minutos de la segunda mitad en la que el francés, tras un magnifico control, se topó con el portero Adam Varga, el sustituto del lesiona do Dibusz.\nNada pudo hacer, sin embargo, el cancerbero del Ferencvaros, en el que se estrenó en el banquillo el técnico irlandés Robbie Keane, por evitar que unos segundos después el turco Can Uzun abriese finalmente el marcador (1-0) para el Eintracht con un espectacular zapatazo desde fuera del área,\nUn gol que acabó con la resistencia del conjunto magiar que en el minuto cincuenta y nueve se despidió de cualquier opción de poder dar la sorpresa, tras ver como Ekitikñe establecía el que a la postre sería el definitivo 2-0, en una acción en la que el francés fue el más vivo en el área.\nVictoria que pone al Eintracht de Fráncfort, campeón del torneo en el año 2022, con pie y medio, sino con los dos, en los octavos de final a falta de una última jornada en la que los de Jan Fiesser visitarán el campo del Roma.EFE",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": [
+    "Sport",
+    "Economy, Business and Finance",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Sport->soccer",
+    "Economy, Business and Finance->media and entertainment industry",
+    "Lifestyle and Leisure->gaming and lottery",
+    "Lifestyle and Leisure->game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Omar Marmoush",
+        "sentiment": "none"
+      },
+      {
+        "name": "Hugo Ekitike",
+        "sentiment": "none"
+      },
+      {
+        "name": "Robbie Keane",
+        "sentiment": "none"
+      },
+      {
+        "name": "Adam Varga",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "EFE",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Eintracht de Fráncfort",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Ferencvaros Denes Dibusz",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:35:00.546+02:00",
+  "updated": "2025-01-24T00:35:00.546+02:00"
+}

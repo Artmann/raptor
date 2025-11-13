@@ -1,0 +1,137 @@
+{
+  "thread": {
+    "uuid": "e4ae72572e0a0d23a4d113e70af099a7ab7a5e48",
+    "url": "https://www.wfmynews2.com/article/news/local/carolina-brotherhood-sgt-nix-capt-metcalf/83-f58aa9eb-9050-4f73-8f99-f8c3dec74112",
+    "site_full": "www.wfmynews2.com",
+    "site": "wfmynews2.com",
+    "site_section": "https://www.wfmynews2.com/news",
+    "site_categories": ["media"],
+    "section_title": "News Headlines | wfmynews2.com",
+    "title": "Nonprofit meets with families of fallen first responders | wfmynews2.com",
+    "title_full": "Nonprofit meets with families of fallen first responders | wfmynews2.com",
+    "published": "2024-06-21T00:03:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.wfmynews2.com/assets/WFMY/images/e97c2119-8f78-484f-b3b2-a256ac54fb21/20240621T005211/e97c2119-8f78-484f-b3b2-a256ac54fb21_1140x641.jpg",
+    "performance_score": 0,
+    "domain_rank": 17879,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e4ae72572e0a0d23a4d113e70af099a7ab7a5e48",
+  "url": "https://www.wfmynews2.com/article/news/local/carolina-brotherhood-sgt-nix-capt-metcalf/83-f58aa9eb-9050-4f73-8f99-f8c3dec74112",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Tom Santaniello",
+  "published": "2024-06-21T00:03:00.000+03:00",
+  "title": "Nonprofit meets with families of fallen first responders | wfmynews2.com",
+  "text": "The Carolina Brotherhood met with the families of Greensboro Police Sergeant Dale Nix and Lexington Fire Captain Ronnie Metcalf.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Disaster and Accident", "Social Issue"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://channelstore.roku.com/details/5b06c2edba5083dc3b084a2a7584494b/greensboro-news-from-wfmy)",
+    "https://apps.apple.com/us/app/greensboro-news-from-wfmy/id469397482)",
+    "https://play.google.com/store/apps/details?id=com.gannett.local.library.news.wfmy&hl=en_US&gl=US)",
+    "https://www.play.google.com/store/apps/details?id=com.gannett.local.library.news.wfmy&hl=en_US&gl=US)",
+    "https://www.channelstore.roku.com/details/5b06c2edba5083dc3b084a2a7584494b/greensboro-news-from-wfmy)",
+    "https://www.apps.apple.com/us/app/greensboro-news-from-wfmy/id469397482)",
+    "https://play.google.com/store/apps/details"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "sheetz",
+        "sentiment": "none"
+      },
+      {
+        "name": "dale nix",
+        "sentiment": "none"
+      },
+      {
+        "name": "nix",
+        "sentiment": "none"
+      },
+      {
+        "name": "ronnie metcalf",
+        "sentiment": "none"
+      },
+      {
+        "name": "metcalf",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "greensboro police",
+        "sentiment": "none"
+      },
+      {
+        "name": "wfmy news",
+        "sentiment": "none"
+      },
+      {
+        "name": "carolina brotherhood",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "north carolina",
+        "sentiment": "none"
+      },
+      {
+        "name": "usa",
+        "sentiment": "none"
+      },
+      {
+        "name": "sheetz",
+        "sentiment": "none"
+      },
+      {
+        "name": "carolinas",
+        "sentiment": "none"
+      },
+      {
+        "name": "lexington",
+        "sentiment": "none"
+      },
+      {
+        "name": "colfax",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-21T04:05:44.012+03:00",
+  "updated": "2024-06-21T07:44:47.387+03:00"
+}

@@ -1,0 +1,118 @@
+{
+  "thread": {
+    "uuid": "efa3fbb230f712e4ae574288a6d91d08001eff05",
+    "url": "https://www.vice.com/en/article/alligator-attacks-and-kills-woman-canoeing-with-her-husband",
+    "site_full": "www.vice.com",
+    "site": "vice.com",
+    "site_section": "https://news.google.com/search?q=with%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "VICE - VICE is the definitive guide to enlightening information.",
+    "title": "Alligator Attacks and Kills Woman Canoeing With Her Husband",
+    "title_full": "Alligator Attacks and Kills Woman Canoeing With Her Husband",
+    "published": "2025-05-08T00:47:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.vice.com/wp-content/uploads/sites/2/2025/05/GettyImages-588977006-1.jpg?w=1200",
+    "performance_score": 0,
+    "domain_rank": 345,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": ["NLA"],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "efa3fbb230f712e4ae574288a6d91d08001eff05",
+  "url": "https://www.vice.com/en/article/alligator-attacks-and-kills-woman-canoeing-with-her-husband",
+  "ord_in_thread": 0,
+  "author": "Paige Gawley",
+  "published": "2025-05-08T00:47:00.000+03:00",
+  "title": "Alligator Attacks and Kills Woman Canoeing With Her Husband",
+  "text": "A woman is dead after an alligator attack. Cynthia Diekema, 61, was canoeing with her husband in Florida, when an alligator tipped over their vessel and attacked, officials with the Florida Fish and Wildlife Conservation Commission said during a press conference.\nThe incident occurred on May 6 on the mouth of Tiger Creek on Lake Kissimmee, FWC Maj. Evan Laskowski said. The couple was on a 14-foot canoe in two feet of water when their vessel passed over a large alligator.\nVideos by VICE\nIn response, the animal thrashed and tipped the canoe over, sending both the husband and wife into the water.\nDiekema ended up on top of the alligator in the water and was bitten by the animal. Her husband attempted to intervene, but was unsuccessful. Later, Diekema was spotted by a helicopter, and her body was recovered from the water.\nAfterwards, trappers recovered an 11-foot, four inch alligator that matched the description of the animal involved in the incident. A second, smaller gator was later recovered as well.\nInvestigation Launched After Deadly Alligator Attack\nRoger Young, the executive director of the Florida Fish and Wildlife Conservation Commission, called the situation “tragic.”\n“This is a devastating loss, and our hearts go out to everyone affected,” he added.\nA full investigation has been launched in response, Young said. He and the FWC, Young noted, “are working hard to understand exactly what happened.”\n“While alligator attacks resulting in fatalities are extremely rare, this tragedy serves as a somber reminder of the powerful wildlife that share our natural spaces,” Young noted.\nBradley Johnson, FWC’s public information officer, encouraged Floridians to contact FWC’s nuisance alligator hotline if they have concerns about a gator.\nTo remain safe around alligators, Johnson said people should maintain distance, ensure pets are on a leash, swim only in designated areas, and refrain from feeding alligators.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Human Interest", "Environment"],
+  "topics": [
+    "Crime, Law and Justice->animal abuse",
+    "Human Interest->human mishap",
+    "Environment->animal",
+    "Environment->nature",
+    "Environment->endangered species"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "http://www.youtube.com/watch?v=cSOvy1a2MuM",
+    "http://www.youtube.com/watch",
+    "http://youtube.com/watch?v=cSOvy1a2MuM"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Cynthia Diekema",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Evan Laskowski",
+        "sentiment": "none"
+      },
+      {
+        "name": "Roger Young",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Lake",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Florida Fish and Wildlife Conservation Commission",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "FWC",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "efa3fbb230f712e4ae574288a6d91d08001eff05",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "bias": "left",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:00:13.591+03:00",
+  "updated": "2025-05-07T23:04:41.000+00:00"
+}

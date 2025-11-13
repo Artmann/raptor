@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "929c2eeeb30955f8c55df7610ea693441d3d83b2",
+    "url": "https://www.mediapart.fr/journal/fil-dactualites/080525/les-oiseaux-ne-viennent-plus-le-nord-du-nigeria-face-la-perte-de-biodiversite",
+    "site_full": "www.mediapart.fr",
+    "site": "mediapart.fr",
+    "site_section": "https://www.mediapart.fr/journal/fil-dactualites",
+    "site_categories": [
+      "media",
+      "law_government_and_politics",
+      "politics",
+      "top_news_be",
+      "top_news_fr",
+      "top_news"
+    ],
+    "section_title": "Fil d’actualités avec l’AFP | Mediapart",
+    "site_title": "Mediapart - Actualité, enquêtes et dossiers d’investigation en toute indépendance !",
+    "title": "« Les oiseaux ne viennent plus »: le nord du Nigeria face à la perte de biodiversité",
+    "title_full": "« Les oiseaux ne viennent plus »: le nord du Nigeria face à la perte de biodiversité",
+    "published": "2025-05-08T06:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://www.mediapart.fr/assets/front/images/social/og_image/journal.png",
+    "performance_score": 10,
+    "domain_rank": 4415,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 360098,
+        "comments": 167152,
+        "shares": 100576
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "929c2eeeb30955f8c55df7610ea693441d3d83b2",
+  "url": "https://www.mediapart.fr/journal/fil-dactualites/080525/les-oiseaux-ne-viennent-plus-le-nord-du-nigeria-face-la-perte-de-biodiversite",
+  "ord_in_thread": 0,
+  "author": "Agence France-Presse",
+  "published": "2025-05-08T06:00:00.000+03:00",
+  "title": "« Les oiseaux ne viennent plus »: le nord du Nigeria face à la perte de biodiversité",
+  "text": "Les histoires de la vie au bord de la rivière Matan Fada, dans le nord-ouest du Nigeria, ressemblent à des légendes. Les crocodiles ne sortent pas de l’eau le vendredi. Il y a cinquante ans, il suffisait de se baisser pour attraper les poissons, si nombreux qu’il en tombait même des arbres.\nPourquoi y a-t-il des dépêches de l’Agence France-Presse sur Mediapart ?\nFil d'actualités\nDépêche\n« Les oiseaux ne viennent plus »: le nord du Nigeria face à la perte de biodiversité\nLe lien vers la page a été copié",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Politics"],
+  "topics": [
+    "Environment->endangered species",
+    "Environment->nature",
+    "Social Issue->demographics",
+    "Social Issue->social problem",
+    "Social Issue->social condition",
+    "Politics->environmental policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:44:33.924+03:00",
+  "updated": "2025-05-08T03:49:15.000+00:00"
+}

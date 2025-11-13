@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "fed58d621f9be9e3f77e0bfc7ed2b40c76038b81",
+    "url": "https://www.calcionapoli24.it/notizie/garnacho-protagonista-palo-e-97-giocati-in-manchester-united-rangers-2-1-video-n633504.html",
+    "site_full": "www.calcionapoli24.it",
+    "site": "calcionapoli24.it",
+    "site_section": "https://www.calcionapoli24.it/le_interviste",
+    "site_categories": ["world_soccer", "sports"],
+    "section_title": "CalcioNapoli24 | CN24 - Notizie sul Calcio Napoli",
+    "title": "Garnacho protagonista, palo e 97' giocati in Manchester United-Rangers 2-1 | VIDEO",
+    "title_full": "Garnacho protagonista, palo e 97' giocati in Manchester United-Rangers 2-1 | VIDEO",
+    "published": "2025-01-23T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://resource.calcionapoli24.it/www/thumbs/643x350/1737669639_534.jpg",
+    "performance_score": 0,
+    "domain_rank": 86991,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fed58d621f9be9e3f77e0bfc7ed2b40c76038b81",
+  "url": "https://www.calcionapoli24.it/notizie/garnacho-protagonista-palo-e-97-giocati-in-manchester-united-rangers-2-1-video-n633504.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@CalcioNapoli24",
+  "published": "2025-01-23T02:00:00.000+02:00",
+  "title": "Garnacho protagonista, palo e 97' giocati in Manchester United-Rangers 2-1 | VIDEO",
+  "text": "Ultime notizie SSC Napoli, Alejandro Garnacho ha giocato 90' questa sera in UEFA Europa League, nella sfida Manchester United-Rangers 2-1. L'ala argentina, che è in trattativa coi partenopei e col Chelsea, è stata protagonista della squadra di Amorim, con un palo e diverse occasioni da gol. Sicuramente sorprende che l'esterno, in trattativa con due club per una cifra fra 60/70 milioni, sia stato schierato e sia rimasto in campo per tutto il match. Intanto, ecco l'occasione col palo di Garnacho:\nUnlucky from Garnacho with his weak foot— INEOS ERA (@MUNScout)\n[#MUNRAN] [pic.twitter.com/FhtOCyzq5h] [January 23, 2025]\nQueste invece le statistiche della sua partita di stasera:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->regular competition",
+    "Sport->soccer",
+    "Sport->sport event",
+    "Lifestyle and Leisure->game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Alejandro Garnacho",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Amorim",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "SSC Napoli",
+        "sentiment": "negative"
+      },
+      {
+        "name": "UEFA Europa",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Manchester United",
+        "sentiment": "none"
+      },
+      {
+        "name": "Chelsea",
+        "sentiment": "none"
+      },
+      {
+        "name": "Rangers",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:13:45.068+02:00",
+  "updated": "2025-01-24T00:13:45.068+02:00"
+}

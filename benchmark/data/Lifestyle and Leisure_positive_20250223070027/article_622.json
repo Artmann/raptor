@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "a7c73916a30bc4791e8486db59552af190cda80d",
+    "url": "https://www.newsbreak.com/e-news-510067/3774645490209-robert-pattinson-reacts-to-twilight-haters-nearly-20-years-later",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/e-news-510067",
+    "site_categories": ["under_construction"],
+    "section_title": "E! News&#x27;s Home Page | NewsBreak",
+    "title": "Robert Pattinson Reacts to Twilight Haters Nearly 20 Years Later - NewsBreak",
+    "title_full": "Robert Pattinson Reacts to Twilight Haters Nearly 20 Years Later - NewsBreak",
+    "published": "2025-01-23T23:27:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/0FT0Eu_0yNPzyY600",
+    "performance_score": 0,
+    "domain_rank": 3577,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a7c73916a30bc4791e8486db59552af190cda80d",
+  "url": "https://www.newsbreak.com/e-news-510067/3774645490209-robert-pattinson-reacts-to-twilight-haters-nearly-20-years-later",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "E! News",
+  "published": "2025-01-23T23:27:00.000+02:00",
+  "title": "Robert Pattinson Reacts to Twilight Haters Nearly 20 Years Later - NewsBreak",
+  "text": "57 minutes ago Robert Pattinson is prepared to dazzle fans with his defense of Twilight. And simply put, he has no time for the haters. The actor, who played vampire Edward Cullen in the blockbuster film saga... Read full article\nRead in NewsBreak",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Lifestyle and Leisure", "Human Interest", "Social Issue"],
+  "topics": [
+    "Lifestyle and Leisure->lifestyle",
+    "Human Interest->celebrity",
+    "Social Issue->social condition",
+    "Social Issue->communities",
+    "Social Issue->values"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Robert Pattinson",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Edward Cullen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:27:52.857+02:00",
+  "updated": "2025-01-24T00:27:52.857+02:00"
+}

@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "1a58d4ca814472de917625c563de408596886275",
+    "url": "https://www.calt.iastate.edu/node/10032",
+    "site_full": "www.calt.iastate.edu",
+    "site": "iastate.edu",
+    "site_section": "https://www.calt.iastate.edu/rss.xml",
+    "site_categories": [],
+    "section_title": "Center for Agricultural Law and Taxation",
+    "title": "| Center for Agricultural Law and Taxation",
+    "title_full": "| Center for Agricultural Law and Taxation",
+    "published": "2023-12-28T22:29:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 1078,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1a58d4ca814472de917625c563de408596886275",
+  "url": "https://www.calt.iastate.edu/node/10032",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "ktidgren",
+  "published": "2023-12-28T22:29:00.000+02:00",
+  "title": "| Center for Agricultural Law and Taxation",
+  "text": "Debtors operate a farming and cattle operation in Kansas that filed Chapter 12 bankruptcy in February 2021. Farmers State Bank (hereafter, “bank”) is a creditor that holds over 90% of the claims against debtors. Debtor and Bank signed a settlement agreement which the bankruptcy court approved in September 2021. The agreement required the debtors to make annual payments in June. The default language within the agreement allowed the 2022 and 2023 payments to be reduced by 20%, but also stated “[t]his provision shall be the limit of Debtors’ ability to modify the Chapter 12 Plan as to [bank].”\nIn December 2021, the court confirmed the Debtors’ §1222 plan. In the plan, the debtors “reserve the right to modify” the plan before the completion of payments to unsecured creditors as long as the requirements of 11 U.S.C. §1229 were met. The plan also states that bank’s claim is subject to the settlement agreement, and attached the agreement.\nIn June 2023, the debtors motioned the court for a modification of the plan when they were unable to make the 2023 payment to the bank. The debtors wanted a past payment to be recharacterized, which would allow for a portion of that payment to be applied to a future payment. The bank opposed the modification, arguing that the settlement agreement controlled, and that modification was not permitted.\nIn the opinion, the court succinctly stated the main issue before it. “[C]an a Chapter 12 debtor modify an agreed settlement, partially performed, because § 1229 permits modification of confirmed Chapter 12 plans and the settlement was incorporated into the plan?” The court found that the debtors cannot modify the agreement under this fact scenario. The anti-modification term in the settlement agreement controls since it was incorporated into the plan and was specific compared to the general modification provision found in the §1222 plan.\nIn Re Huninghake, No.21-40090-12 (Bankr. Kan. Dec. 15, 2023).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Disaster and Accident",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "bank",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s.c.",
+        "sentiment": "none"
+      },
+      {
+        "name": "farmers state bank",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "kansas",
+        "sentiment": "none"
+      },
+      {
+        "name": "februar",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:22:02.765+02:00",
+  "updated": "2023-12-29T01:22:02.765+02:00"
+}

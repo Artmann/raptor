@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "1cffd2abd7c8dcf31d838c896247be27032cfbd5",
+    "url": "https://www.urdesignmag.com/samsung-galaxy-s25-series",
+    "site_full": "www.urdesignmag.com",
+    "site": "urdesignmag.com",
+    "site_section": "https://www.urdesignmag.com",
+    "site_categories": [
+      "interior_decorating",
+      "real_estate",
+      "home_and_garden",
+      "architects"
+    ],
+    "section_title": "urdesignmag | architecture and design magazine",
+    "title": "Samsung Unveils Galaxy S25 Series: A Leap into the Age of AI-Powered Smartphones",
+    "title_full": "Samsung Unveils Galaxy S25 Series: A Leap into the Age of AI-Powered Smartphones",
+    "published": "2025-01-23T12:22:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "PH",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 92468,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1cffd2abd7c8dcf31d838c896247be27032cfbd5",
+  "url": "https://www.urdesignmag.com/samsung-galaxy-s25-series",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2025-01-23T12:22:00.000+02:00",
+  "title": "Samsung Unveils Galaxy S25 Series: A Leap into the Age of AI-Powered Smartphones",
+  "text": "Samsung has officially launched its highly anticipated Galaxy S25 series, comprising the Galaxy S25, S25+, and S25 Ultra. This year’s lineup isn’t just about incremental upgrades; it represents a significant push into the realm of on-device AI, promising a more intuitive, personalized, and powerful user experience.\nThe defining feature of the Galaxy S25 series is its integration of advanced AI capabilities . Samsung has partnered with Google to bring a more AI-centric Android experience, with features like enhanced “Circle to Search” that now recognizes phone numbers, emails, and URLs directly on screen for quick actions. The introduction of multimodal AI agents allows the phones to understand and interpret various forms of input, including text, speech, images, and videos, leading to more natural interactions.\nOne of the key innovations is the integration of Gemini , accessible by holding the side button. Gemini facilitates seamless interaction across Samsung and Google apps, as well as third-party services like Spotify, enabling users to perform complex tasks with simple commands. For example, users can find their favorite sports team’s schedule and add it to their Samsung Calendar with a single voice command.\nUnder the hood, the Galaxy S25 series is powered by a customized Snapdragon 8 Elite Mobile Platform for Galaxy.This bespoke chipset delivers a substantial performance boost compared to previous generations, with improvements in CPU, GPU, and NPU performance. This enhanced processing power is crucial for handling the demanding AI tasks on-device, including features like Generative Edit, which were previously reliant on cloud processing. The improved thermal management, featuring a larger vapor chamber and enhanced thermal interface material, ensures smooth performance even under heavy load.\nThe Galaxy S25 series continues Samsung’s tradition of pushing mobile photography forward. The Galaxy S25 Ultra boasts a new 50MP ultrawide camera, offering improved clarity and detail. All models now support 10-bit HDR recording by default, capturing a wider range of colors. Low-light video recording has also been significantly improved thanks to enhanced noise reduction algorithms.\nSamsung has also introduced new editing tools previously found only in dedicated software. “Audio Eraser” allows users to remove unwanted noise from videos by isolating specific sound categories. “Virtual Aperture,” integrated into Expert RAW, provides DSLR-like depth-of-field control.\nThe Galaxy S25 Ultra features a refined design with a titanium frame and Corning Gorilla Armor 2, offering enhanced durability and scratch resistance. Samsung has also emphasized sustainability, with the Galaxy S25+ and S25 incorporating recycled materials in their construction. The company is also using recycled cobalt in the batteries of all S25 models.\nSamsung has placed a strong emphasis on user privacy and security. The Personal Data Engine processes data on-device to personalize AI features while keeping user information secure. Knox Vault provides an additional layer of security, and the introduction of post-quantum cryptography protects against future threats.\nThe Galaxy S25 series launches with One UI 7, built on Android, and promises seven generations of OS upgrades and seven years of security updates. Samsung is also offering 6 months of Gemini Advanced and 2TB of cloud storage at no extra cost.\nThe Galaxy S25 Ultra will be available in Titanium Silverblue, Titanium Black, Titanium Whitesilver, and Titanium Gray.The Galaxy S25 and S25+ will come in Navy, Silver Shadow, Icyblue, and Mint.\nGalaxy S25: 12GB/128GB: Circa $1000 – $1050 12GB/256GB: Circa $1070 – $1120 12GB/512GB: Circa $1200 – $1250 Galaxy S25+: 12GB/256GB: Circa $1280 – $1330 12GB/512GB: Circa $1410 – $1460 Galaxy S25 Ultra: 12GB/256GB: Circa $1620 – $1670 12GB/512GB: Circa $1750 – $1800 12GB/1TB: Circa $2000 – $2050",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->biomedical science",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->products and services",
+    "Economy, Business and Finance->consumer goods",
+    "Lifestyle and Leisure->gaming and lottery",
+    "Lifestyle and Leisure->trend"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://gemini.google.com/",
+    "https://gemini.google.com",
+    "https://www.gemini.google.com/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Samsung",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Google",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:24:02.588+02:00",
+  "updated": "2025-01-24T00:24:02.588+02:00"
+}

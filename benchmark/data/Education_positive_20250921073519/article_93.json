@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "814da0dde7cd45b206f835f73e1cbc75b610e353",
+    "url": "https://finance.sina.cn/stock/jdts/2025-09-18/detail-infqwutp4051782.d.html?vt=4&cid=76993&node_id=76993",
+    "site_full": "finance.sina.cn",
+    "site": "sina.cn",
+    "site_section": "https://finance.sina.cn/stock/jdts",
+    "site_categories": [
+      "financial_news",
+      "finance",
+      "top_news_hk",
+      "top_news_my",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "焦点透视_手机新浪网",
+    "site_title": "手机新浪网",
+    "title": "科学家研发医学基础模型，提供清晰可追溯诊断依据_手机新浪网",
+    "title_full": "科学家研发医学基础模型，提供清晰可追溯诊断依据_手机新浪网",
+    "published": "2025-09-18T07:43:30.223+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4801,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "814da0dde7cd45b206f835f73e1cbc75b610e353",
+  "url": "https://finance.sina.cn/stock/jdts/2025-09-18/detail-infqwutp4051782.d.html?vt=4&cid=76993&node_id=76993",
+  "ord_in_thread": 0,
+  "author": "sina_mobile",
+  "published": "2025-09-18T07:43:30.223+03:00",
+  "title": "科学家研发医学基础模型，提供清晰可追溯诊断依据_手机新浪网",
+  "text": "科学家研发医学基础模型，提供清晰可追溯诊断依据\n（来源：DeepTech深科技;)）\n近日，新加坡国立大学博士后研究员蔺奇卡和合作者研发了 DeepMedix-R1，这是一个专为胸部 X 光图像解读设计的医学基础模型。DeepMedix-R1 的创新之处在于其能够生成结构化的推理过程，并将推理步骤与图像中的具体区域精确关联，为医生提供清晰、可追溯的诊断依据。\nDeepMedix-R1 通过整合高质量合成推理数据和在线强化学习，不仅在报告生成和视觉问答任务中取得了卓越的性能，还显著提升了模型对图像局部区域的理解和推理能力。这种结合为医学影像分析领域提供了新的方法论，证明了通过精心设计的训练流程，可以使模型具备更强的可解释性和临床适用性。研究团队发现在医学基础模型的训练中引入在线强化学习，能够有效地同时提升模型的推理质量和生成性能。这一发现为未来医学 AI 模型的优化提供了新的思路，即通过与环境（在这里是医学影像和诊断任务）的持续交互，模型能够不断自我完善，更好地适应临床实际需求。\nDeepMedix-R1 可作为医生的智能助手，帮助快速、准确地解读胸部 X 光图像，提供初步诊断建议和详细的推理过程，从而辅助医生做出更明智的诊断决策，尤其在医疗资源相对匮乏的地区，能够有效提升诊断效率和准确性。除此之外，在远程医疗服务中，DeepMedix-R1 可以对上传的胸部 X 光图像进行实时分析和解读，为患者提供及时的诊断反馈，有助于早期发现疾病，特别是在大规模疾病筛查项目中，能够提高筛查效率和覆盖率，降低医疗成本。\n医学 AI 领域，尤其是医学影像分析方向，尽管大模型取得了显著进展，但在临床实践中的应用仍面临诸多挑战。研究团队发现，现有的医学基础模型在生成诊断结果时，往往缺乏透明的推理过程和对图像局部区域的精确关联，这使得医生难以验证模型的决策依据，进而限制了其在高风险的医疗环境中的可靠性和可信度。具体来说，现有模型存在以下两个主要问题：\n1）缺乏透明推理：当前的医学模型多以“黑盒”方式运行，仅提供诊断答案，未能揭示其背后的临床推理逻辑。这种不可解释性导致医生无法判断模型的判断是否基于正确的医学知识，从而阻碍了其在临床决策中的有效应用。\n2）局部定位能力有限：虽然现有模型在整体图像解读上表现尚可，但在精确定位医学图像中的具体病变区域方面能力不足。然而，放射学和病理学诊断本质上依赖于对特定解剖特征或病理细节的精细评估，这一局限性严重制约了模型的临床实用性。\n因此，研究团队开展了这项研究，旨在开发一个具备透明推理能力和局部定位功能的医学基础模型，以解决上述问题，推动医学 AI 向更可靠、更易于临床部署的方向发展。\n基于对医学 AI 领域现状的深入调研分析，以及蔺奇卡与 Swapnil Mishra 和 Mengling Feng 教授的深入交流讨论，研究团队首先确定了开发具备推理能力的胸部 X 光解读模型的研究课题。之后项目主要经过了三个阶段：数据收集、模型设计与初步训练、全面评估与验证。研究团队先收集和整理了公开数据集如 MIMIC-CXR、OpenI 等，并进行了严格的清洗工作，确保数据的准确性和多样性；之后设计了 DeepMedix 模型的基础架构和训练方式，采用先进的视觉-语言模型作为骨干，并进行三阶段的训练；最后对 DeepMedix-R1 进行了全方位的评估，包括在多个公开数据集上的性能测试、与现有模型的对比分析、专家评估等，从定量指标到定性分析，多角度验证了模型的有效性和优越性，确保其在实际应用中能够可靠地发挥作用。“北京邮电大学的朱一凡老师组织了医疗专家对推理过程的人工评价，在此再次表示感谢。”蔺奇卡表示。\n研究中，最令蔺奇卡印象深刻的主要有两件事。其一是在强化学习训练的初期阶段，模型表现非常不稳定，甚至一度出现性能倒退。研究团队投入了大量时间排查问题根源，最终通过反复调整奖励函数的设计以及其他超参数，成功克服了这一困难。其二是，尽管 DeepMedix-R1 在多项指标上取得了显著优势，但专家人工评估发现，其推理过程中仍会出现不相关或错误的描述，这也是当前基础模型普遍面临的挑战。研究团队已将这一问题列入后续重点改进计划，希望在未来版本中逐步提升推理的准确性和可靠性。\n目前，研究团队已有明确的后续计划，主要是方法和应用两方面的工作。第一，扩展多模态能力：将模型扩展到 CT、MRI 等多模态影像数据，支持更广泛的医学影像分析，并设计多样化的强化学习奖励，进一步减少模型幻觉，提升推理步骤的准确性和完整性，目标是达到接近人类专家的水平。第二，从应用角度来说，计划与更多的医院合作，开展临床试点研究，验证模型在真实场景中的效果和可用性。\n据介绍，从本科到博士阶段，蔺奇卡先后就读于北京理工大学、西安交通大学和南洋理工大学。在此期间，蔺奇卡对 AI 领域的前沿技术产生了浓厚的兴趣，并逐步确立了在该方向深入研究的决心。博士毕业之后，在新加坡国立大学作为博士后研究员开展工作，专注于大模型推理与医疗人工智能的研究。期间发表多篇顶会论文，并参与国家重点研发计划和新加坡卫生部课题在内的多项重大科研项目。“目前我正在考虑创业，在和医院的专业医生接触，打算先了解真实医疗场景的需求。”他最后表示。\n参考资料：\nhttps://arxiv.org/pdf/2509.03906\n排版：刘雅坤",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Health", "Science and Technology", "Education"],
+  "topics": [
+    "Health->medical test",
+    "Health->health treatment and procedure",
+    "Science and Technology->biomedical science",
+    "Science and Technology->medical research",
+    "Education->college and university",
+    "Education->vocational education",
+    "Education->educational grading"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_my",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:43:30.223+03:00",
+  "updated": "2025-09-18T07:48:03.000+03:00"
+}

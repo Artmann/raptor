@@ -1,0 +1,124 @@
+{
+  "thread": {
+    "uuid": "8285c89834e3827881f81dac4892e04507e3248d",
+    "url": "https://www.thecourier.com.au/story/8472060/israeli-tanks-missiles-strike-gaza-in-new-offensive/?src=rss",
+    "site_full": "www.thecourier.com.au",
+    "site": "thecourier.com.au",
+    "site_section": "https://www.thecourier.com.au/news/world/rss.xml",
+    "site_categories": ["media"],
+    "section_title": "The Courier - World",
+    "title": "Israeli tanks, missiles strike Gaza in new offensive",
+    "title_full": "Israeli tanks, missiles strike Gaza in new offensive",
+    "published": "2023-12-29T00:54:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://www.thecourier.com.au/images/transform/v1/crop/frm/silverstone-feed-data/2113dfa9-ec61-465f-87a0-bb4c1ef853d7.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+    "performance_score": 0,
+    "domain_rank": 33817,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8285c89834e3827881f81dac4892e04507e3248d",
+  "url": "https://www.thecourier.com.au/story/8472060/israeli-tanks-missiles-strike-gaza-in-new-offensive/?src=rss",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Nidal al-Mughrabi and Bassam Masoud",
+  "published": "2023-12-29T00:54:00.000+02:00",
+  "title": "Israeli tanks, missiles strike Gaza in new offensive",
+  "text": "Israeli forces have attacked areas of the central and southern Gaza Strip where residents have been expecting a renewed ground offensive in areas crammed with tens of thousands of Palestinians already displaced by the Israeli-Hamas war.\nWith nightfall on Thursday, an Israeli airstrike on a house in the southern city of Khan Younis killed eight Palestinians, health officials said.\nThree Palestinians were killed and six injured in an Israeli missile strike on a house in Maghazi camp in central Gaza, the Palestine Red Crescent said.\nThe Islamist group Hamas released video it said showed its fighters targeting Israeli tanks and soldiers east of Bureij. Reuters was not able to verify the location or the date the video was filmed.\nYamen Hamad has been living in a school in Deir al-Balah, also in central Gaza, since fleeing from the north. He said people newly displaced from Bureij and Nusseirat were setting up tents wherever there was open ground.\nIn one of Israel's latest airstrikes, 20 Palestinians were killed and 55 wounded in Rafah, a major town near the southern border with Egypt, Gaza health ministry spokesman Ashraf Al-Qidra said. Their bombed building was housing displaced civilians, according to local medics and residents.\nReuters video showed rescuers scrabbling frantically through rubble to uncover and pull out victims including a baby and several children and rushing them through milling crowds of dazed and weeping people to the nearby Kuwaiti Hospital.\nPalestinian health authorities said earlier that 210 people were confirmed killed in Israeli strikes in the past 24 hours, raising the toll of Palestinians killed in the war so far to 21,320 - nearly one per cent of Gaza's population. Thousands more dead were feared to be buried or lost in the ruins.\nOver the course of the war, the Israeli military has expressed regret for civilian deaths but it accuses Hamas of operating in densely populated areas and using civilians as human shields, a charge the group denies.\nHamas and its fighters are dug deep into the Gaza Strip's dense cities and towns and their leaders are still at large.\nIsrael has reported 169 of its soldiers killed in its Gaza campaign after Hamas fighters rampaged through Israeli towns in a cross-border raid on October 7, killing 1200 people and taking about 240 hostages.\nSome 110 hostages were freed during a November 24-December 1 humanitarian pause and more than 20 others have been declared dead.\nUS President Joe Biden on Thursday said Hamas killed an American hostage, Judith Weinstein, 70, on October 7. Last week he said her husband Gadi Haggai, 73, was killed on the same day.\nThe Israeli military released findings of an investigation into the killings in error by its troops of three Israeli hostages in Gaza on December 15. Soldiers mistook their cries for help as a ruse by Hamas militants to draw them into an ambush, the military said, concluding that the soldiers acted rightly to the best of their understanding.\nEgypt on Thursday confirmed it had put forward a framework proposal to end the conflict between Israel and Hamas in the Gaza Strip that includes three stages ending with a ceasefire and said it was awaiting responses on the plan.\nThe proposal is an attempt \"to bring viewpoints between all concerned parties closer, in an effort to stop Palestinian bloodshed and the aggression against the Gaza Strip and restore peace and stability to the region,\" Diaa Rashwan, head of Egypt's State Information Service, said in a statement.\nIsraeli Prime Minister Benjamin Netanyahu has said Israel will keep some form of security control of all Gaza indefinitely, though he insists that this would not amount to reoccupying the enclave.\nwith DPA\n ",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "War, Conflict and Unrest",
+    "Disaster and Accident",
+    "Human Interest"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "gaz",
+        "sentiment": "none"
+      },
+      {
+        "name": "yamen hamad",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "hamas",
+        "sentiment": "none"
+      },
+      {
+        "name": "palestine red crescent",
+        "sentiment": "none"
+      },
+      {
+        "name": "reuters",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "gaza",
+        "sentiment": "none"
+      },
+      {
+        "name": "gaza strip",
+        "sentiment": "none"
+      },
+      {
+        "name": "khan younis",
+        "sentiment": "none"
+      },
+      {
+        "name": "egypt",
+        "sentiment": "none"
+      },
+      {
+        "name": "deir al-balah",
+        "sentiment": "none"
+      },
+      {
+        "name": "israel",
+        "sentiment": "none"
+      },
+      {
+        "name": "rafah",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:42:15.453+02:00",
+  "updated": "2023-12-29T01:42:15.453+02:00"
+}

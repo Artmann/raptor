@@ -1,0 +1,119 @@
+{
+  "thread": {
+    "uuid": "5dc8e2df8abcfe55fc7ec4568272de9fea96f27b",
+    "url": "https://www.chiangraitimes.com/chiangrai-news/phu-chi-fa-closed",
+    "site_full": "www.chiangraitimes.com",
+    "site": "chiangraitimes.com",
+    "site_section": "https://www.chiangraitimes.com",
+    "site_categories": ["media"],
+    "section_title": "CTN News - Chiang Rai Times",
+    "site_title": "CTN News - Chiang Rai Times",
+    "title": "Chiang Rai's View Point Phu Chi Fa Closed Due to Border Clashes in Laos",
+    "title_full": "Chiang Rai's View Point Phu Chi Fa Closed Due to Border Clashes in Laos",
+    "published": "2025-05-08T00:59:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PK",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 28707,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5dc8e2df8abcfe55fc7ec4568272de9fea96f27b",
+  "url": "https://www.chiangraitimes.com/chiangrai-news/phu-chi-fa-closed",
+  "ord_in_thread": 0,
+  "author": "Geoff Thomas",
+  "published": "2025-05-08T00:59:00.000+03:00",
+  "title": "Chiang Rai's View Point Phu Chi Fa Closed Due to Border Clashes in Laos",
+  "text": "CHIANG RAI – Phu Chi Fa National Park in Chiang Rai has temporarily closed its popular viewpoint after a clash near the Laos border. The fighting broke out between unidentified armed groups and Lao soldiers in Pak Tha, Bokeo, just across from Wiang Kaen district in Chiang Rai. Stray bullets crossed into Thai territory during the incident.\nOn 6 May 2025, officials from Wiang Kaen district, soldiers from the Pha Muang Task Force, and rangers stepped up security at Doi Pha Tang in Por subdistrict. The border skirmish began on 3 May and led to gunfire that damaged homes in Ban Rai Pha Mon village. One house was hit by a bullet through the roof, while another took two hits.\nThe Park Chief, Thanitpong Rattanapol, has announced the temporary closure of the Phu Chi Fa viewpoint starting from 5 May and continuing until the situation is safe.\nBefore this, Suphot Lankawiranan, the district chief of Wiang Kaen, sent an urgent notice to all subdistrict heads and village leaders along the Thai-Lao border. The letter urged them to keep residents informed and alert after gunshots and stray bullets struck local homes.\nPeople were advised to stay updated with news from officials.\nThe district has also asked everyone to avoid unnecessary activities near the border for their safety. Locals have been encouraged to report any suspicious activity or unfamiliar people in the area, either to officials or directly to the Wiang Kaen security hotline at 063-904-1427, or contact local military units at any time.\nThe recent clash took place about two kilometres from the Thai border. Reports said there was no fighting or gunfire in the border area yesterday, but Lao forces have yet to fully secure the site.\nThree people detained by Lao troops stated they belonged to an ethnic minority group that has long been involved in conflict within Laos. The reason for the attack on the Lao military post is still unclear.\nInitial reports suggest the incident may be linked to drug trafficking groups using the border route, after Lao authorities increased anti-drug operations. Another possible cause is unrest among an ethnic group that has faced discrimination in Laos, leading to organised resistance.\nPhu Chi Fa (also spelt Phu Chee Fah), meaning “mountain that points to the sky,” is a renowned mountain and national forest park in Thoeng District, Chiang Rai Province, Northern Thailand.\nLocated on the border with Laos, it is part of the Doi Pha Mon mountain range and sits at an elevation of approximately 1,628 meters above sea level. The area is famous for its breathtaking sunrise views over a “sea of mist,” offering panoramic vistas of misty valleys, the Mekong River, and the Thai-Lao border.\nPhu Chi Fa Key Highlights Scenic Beauty : Phu Chi Fa is celebrated for its 360-degree views, especially at sunrise when the mist blankets the valleys, creating a surreal, cloud-like landscape. The cliff’s unique shape and elevated position make it a prime spot for photography. Hiking : The hike to the main viewpoint is short and relatively easy, covering about 760 meters from the parking lot and taking 10–30 minutes. The trail can be steep and slippery, so proper footwear is recommended.\nBiodiversity : The forest park is home to diverse flora and fauna, including wild boars, barking deer, various reptiles, amphibians, and plant species like white orchid trees and Thai cherry blossoms (blooming December–February).\nCultural Experience : The area is near Hmong and Yao hill tribe villages, where visitors can explore local culture, traditions, and purchase handmade crafts.\nThe ideal time to visit is from November to February, during the cool, dry season when the sea of mist is most prominent, and temperatures can drop to 6–10°C at night. Mornings are chilly, so bring warm clothing. The rainy season (May–October) can obscure views with clouds and fog, and the burning season (February–April) is best avoided due to air quality issues.\nRelated News: Laos Military Base Attacked on Chiang Rai Border, Thai Military on High Alert",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["War, Conflict and Unrest", "Politics", "Environment"],
+  "topics": [
+    "War, Conflict and Unrest->armed conflict",
+    "Politics->safety of citizens",
+    "Politics->international relations",
+    "Politics->border disputes",
+    "Environment->environmental pollution",
+    "Environment->conservation",
+    "Environment->parks"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://en.wikipedia.org/wiki/Phu_Chi_Fa",
+    "https://www.en.wikipedia.org/wiki/Phu_Chi_Fa"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Chiang Rai",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Phu Chi Fa National Park",
+        "sentiment": "none"
+      },
+      {
+        "name": "Laos",
+        "sentiment": "none"
+      },
+      {
+        "name": "Wiang Kaen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Citigroup",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "C",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:09:53.365+03:00",
+  "updated": "2025-05-08T01:15:27.000+00:00"
+}

@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "8b6cac87e3b04502e4940b05643b7dcbacb3be0d",
+    "url": "https://mynewsla.com/crime/2023/12/28/one-dead-two-in-critical-condition-in-boyle-heights-fire-5/",
+    "site_full": "mynewsla.com",
+    "site": "mynewsla.com",
+    "site_section": "http://mynewsla.com/feed/",
+    "site_categories": ["media"],
+    "section_title": "MyNewsLA.com",
+    "title": "One Dead, Two in Critical Condition from Boyle Heights Fire",
+    "title_full": "One Dead, Two in Critical Condition from Boyle Heights Fire",
+    "published": "2023-12-29T01:35:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://mynewsla.com/wp-content/uploads/2023/12/ostv-12-28-23-Fatal-Fire-_thumb1-768x432-1.jpeg",
+    "performance_score": 0,
+    "domain_rank": 32246,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8b6cac87e3b04502e4940b05643b7dcbacb3be0d",
+  "url": "https://mynewsla.com/crime/2023/12/28/one-dead-two-in-critical-condition-in-boyle-heights-fire-5/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Contributing Editor",
+  "published": "2023-12-29T01:35:00.000+02:00",
+  "title": "One Dead, Two in Critical Condition from Boyle Heights Fire",
+  "text": "One person was killed and two were hospitalized in critical condition after being found inside a burning one-story home in Boyle Heights early Thursday morning.\nFire crews responded at 4:24 a.m. Thursday to 742 S. St. Louis St., at Boyle Avenue and east of the Golden State (5) Freeway, where they found the residence consumed with flames, said Los Angeles Fire Department spokeswoman Margaret Stewart.\nOne of the residence’s occupants was found outside on the porch and pronounced dead at the scene, Stewart said.\nDuring a search of the building, firefighters located two victims and pulled them out in critical condition. Paramedics took them to a hospital, Stewart said.\nTwo other residents of the home were outside when firefighters arrived and were evaluated for any injuries.\nA total of 54 firefighters were able to contain and extinguish the fire in 25 minutes, Stewart said.\nAs is department protocol, LAFD’s Arson Investigation Section will be in charge of investigating the cause of the fire.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Disaster and Accident",
+    "Human Interest"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "margaret stewart",
+        "sentiment": "none"
+      },
+      {
+        "name": "stewart",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "lafd",
+        "sentiment": "none"
+      },
+      {
+        "name": "los angeles fire department",
+        "sentiment": "none"
+      },
+      {
+        "name": "arson investigation section",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "golden state",
+        "sentiment": "none"
+      },
+      {
+        "name": "boyle heights",
+        "sentiment": "none"
+      },
+      {
+        "name": "boyle avenue",
+        "sentiment": "none"
+      },
+      {
+        "name": "s. st. louis st.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:38:59.792+02:00",
+  "updated": "2023-12-29T01:38:59.792+02:00"
+}

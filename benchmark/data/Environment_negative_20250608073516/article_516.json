@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "55359aa9d1b8f07e81ee6fb0090d69b6a87e261f",
+    "url": "https://www.newsbreak.com/fox-5-san-diego-1589916/3996570649482-state-fire-marshal-urges-san-diegans-to-harden-homes",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/fox-5-san-diego-1589916",
+    "site_categories": ["under_construction"],
+    "section_title": "FOX 5 San Diego&#x27;s Home Page | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "State fire marshal urges San Diegans to 'harden homes' - NewsBreak",
+    "title_full": "State fire marshal urges San Diegans to 'harden homes' - NewsBreak",
+    "published": "2025-05-08T02:55:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/0kZKuI_10w1pkjs00",
+    "performance_score": 0,
+    "domain_rank": 3115,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "55359aa9d1b8f07e81ee6fb0090d69b6a87e261f",
+  "url": "https://www.newsbreak.com/fox-5-san-diego-1589916/3996570649482-state-fire-marshal-urges-san-diegans-to-harden-homes",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T02:55:00.000+03:00",
+  "title": "State fire marshal urges San Diegans to 'harden homes' - NewsBreak",
+  "text": "(FOX 5/KUSI) — With summer approaching and temperatures rising, state officials are warning Californians about the increased risk of wildfires — and urging them to take steps now to protect their homes. State Fire Marshal Daniel Berlant visited the San Diego area this week to demonstrate home hardening measures to help prevent wildfire destruction. A live fire demonstration showed the stark contrast between a home built to resist wildfires and one without those safeguards. “It’s all part of the California Wildfire Prepared Home Program,” Berlant said. “We’re making sure that those who can’t afford to do this work, who can’t physically do this work, are able to get this done.” One of the key components of the program is creating “Zone Zero” — the first five feet around a home. Fire officials recommend replacing mulch and vegetation with gravel, using non-combustible gutters and downspouts, installing flame- and ember-resistant vents, ensuring the roof has a Class A fire rating, and clearing six inches of space at the base of exterior walls. Defensible space remains important, with fire agencies advising at least 30 feet of clearance around homes, but Berlant emphasized that these new measures offer additional protection. “One of the things we have learned is that if one neighbor does everything right but the next door neighbor does not, they’re both still at risk,” he said. The increased severity of recent wildfires has also had major financial consequences. Entire neighborhoods in Los Angeles County were leveled by recent fires, and the destruction has put the insurance industry under pressure. Many homeowners have either lost their insurance coverage or are paying significantly higher premiums. “We are seeing insurance companies constrict their writing because of these increasing wildfires,” said State Insurance Commissioner Ricardo Lara. Lara stressed the importance of proactive mitigation efforts. “If a home does this mitigation, they’re insurable. They keep their insurance — and by the way, their insurance actually goes down, almost by 22 percent in some cases.” Fire victim Diana Griffin knows the risks all too well. Her home in the San Diego County community of Crest was destroyed during the 2003 Cedar Fire. “We didn’t think the fire was going to make it over to our house,” Griffin said. “Even though you think you’re safe, you never know.” Griffin urged homeowners — especially those living near canyons, hills or open space — to take fire danger seriously. “Embers with the winds can go into your air ducts and onto your plants close to your house and start fires that way,” she said. For homeowners facing insurance issues, Lara encouraged contacting the California Department of Insurance for assistance. “We’re here to help,” he said. For the latest news, weather, sports, and streaming video, head to FOX 5 San Diego & KUSI News.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Politics"],
+  "topics": [
+    "Environment->energy resources",
+    "Environment->natural resources",
+    "Environment->climate change",
+    "Social Issue->social condition",
+    "Social Issue->social problem",
+    "Politics->government policy",
+    "Politics->safety of citizens",
+    "Politics->environmental policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://img.particlenews.com/image.php?url=0kZKuI_10w1pkjs00",
+    "https://fox5sandiego.com",
+    "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0kZKuI_10w1pkjs00",
+    "https://www.img.particlenews.com/image.php?url=0kZKuI_10w1pkjs00",
+    "https://img.particlenews.com/image.php",
+    "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0kZKuI_10w1pkjs00",
+    "https://www.fox5sandiego.com"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Daniel Berlant",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:32:23.997+03:00",
+  "updated": "2025-05-08T01:37:39.000+00:00"
+}

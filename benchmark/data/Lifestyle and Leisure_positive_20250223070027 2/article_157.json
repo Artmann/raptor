@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "6cf9198348fe04d7bc6143707cdaa02b945f1e92",
+    "url": "https://www.si.com/nfl/eagles-fans-buy-up-gobs-of-snow-commemorating-team-divisional-round-win-rams",
+    "site_full": "www.si.com",
+    "site": "si.com",
+    "site_section": "https://www.si.com",
+    "site_categories": ["sports"],
+    "section_title": "Sports Illustrated",
+    "title": "Eagles Fans Buy Up Gobs of Snow Commemorating Team's Divisional-Round Win Over Rams",
+    "title_full": "Eagles Fans Buy Up Gobs of Snow Commemorating Team's Divisional-Round Win Over Rams",
+    "published": "2025-01-24T03:25:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5489,h_3087,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01jjafeht6qe4xr0dv9m.jpg",
+    "performance_score": 0,
+    "domain_rank": 1155,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6cf9198348fe04d7bc6143707cdaa02b945f1e92",
+  "url": "https://www.si.com/nfl/eagles-fans-buy-up-gobs-of-snow-commemorating-team-divisional-round-win-rams",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Patrick Andres",
+  "published": "2025-01-24T03:25:00.000+02:00",
+  "title": "Eagles Fans Buy Up Gobs of Snow Commemorating Team's Divisional-Round Win Over Rams",
+  "text": "Eagles Fans Buy Up Gobs of Snow Commemorating Team's Divisional-Round Win Over Rams\nSometimes it's not enough to bask in the memory of a key win for your favorite sports team. Sometimes you have to own a piece of history.\nAnd sometimes, that piece of history happens to be snow.\nOn Wednesday, the Philadelphia Eagles announced that they would sell snow from their 28–22 win over the Los Angeles Rams Sunday in an NFC divisional-round game. On Thursday, that snow sold out.\n\"100 fans were able to get their hands on snow from Lincoln Financial Field's playing surface. It was collected after the win, carefully preserved and authenticated to allow fans to have a piece of Eagles history,\" Brooke Destra of NBC Sports Philadelphia wrote Thursday afternoon.\nEach pint cost $50, and fans are encourage to keep the snow frozen.\nThere appears to be a slight chance of snow again Sunday for Philadelphia's NFC championship showdown with the Washington Commanders, so the possibility exists that the snow may not be so one-of-a-kind a week from now.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->sport achievement",
+    "Sport->american football",
+    "Sport->sports honour",
+    "Human Interest->anniversary",
+    "Lifestyle and Leisure->club and association",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/nfl-divisional-round-eagles-rams-commemorative-snow-sale/643979/",
+    "https://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/nfl-divisional-round-eagles-rams-commemorative-snow-sale/643979",
+    "https://nbcsportsphiladelphia.com/nfl/philadelphia-eagles/nfl-divisional-round-eagles-rams-commemorative-snow-sale/643979/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Brooke Destra",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Philadelphia Eagles",
+        "sentiment": "none"
+      },
+      {
+        "name": "NBC Sports",
+        "sentiment": "none"
+      },
+      {
+        "name": "NFC",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Financial Field",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:07:12.182+02:00",
+  "updated": "2025-01-24T00:07:12.182+02:00"
+}

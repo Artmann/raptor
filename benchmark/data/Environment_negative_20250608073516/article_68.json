@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "bbc9a7014cb9f4875b9487b8d3c9487ddb0d2ba1",
+    "url": "https://flipboard.com/topic/webstercountyiowa/almost-72-000-fish-killed-due-to-fertilizer-leak-into-fort-dodge-pond/a-CcQOzpdtSxaUTWIDeNHPzQ%3Aa%3A3473547084-feaf1834ca%2Fflipboard.com",
+    "site_full": "flipboard.com",
+    "site": "flipboard.com",
+    "site_section": "https://flipboard.com/topic/webstercountyiowa",
+    "site_categories": ["family_and_parenting", "eldercare"],
+    "section_title": "Discover More in Webster County (Iowa) on Flipboard",
+    "site_title": "Flipboard: Your Social Magazine",
+    "title": "Almost 72,000 fish killed due to fertilizer leak into Fort Dodge pond | Flipboard",
+    "title_full": "Almost 72,000 fish killed due to fertilizer leak into Fort Dodge pond | Flipboard",
+    "published": "2025-05-08T01:37:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://hips.hearstapps.com/vidthumb/175b2d31-6ad8-4ff0-bc89-59a8b43b3de0/3946b206-9c10-4aab-8c96-6990f3ddfc86.jpg?crop=1xw:1.0xh;center,top",
+    "performance_score": 0,
+    "domain_rank": 1243,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bbc9a7014cb9f4875b9487b8d3c9487ddb0d2ba1",
+  "url": "https://flipboard.com/topic/webstercountyiowa/almost-72-000-fish-killed-due-to-fertilizer-leak-into-fort-dodge-pond/a-CcQOzpdtSxaUTWIDeNHPzQ%3Aa%3A3473547084-feaf1834ca%2Fflipboard.com",
+  "ord_in_thread": 0,
+  "author": "KCCI",
+  "published": "2025-05-08T01:37:00.000+03:00",
+  "title": "Almost 72,000 fish killed due to fertilizer leak into Fort Dodge pond | Flipboard",
+  "text": "ICCAC Conference Tournament Begins Thursday At Carroll’s Merchants Park\nMerchants Park is set to host the Iowa Community College Athletic Conference (ICCAC) tournament tomorrow (Thursday). This tournament stems from a …",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue", "Health"],
+  "topics": [
+    "Environment->ecosystem",
+    "Environment->environmental pollution",
+    "Environment->water pollution",
+    "Social Issue->social problem",
+    "Social Issue->communities",
+    "Social Issue->social condition",
+    "Health->public health",
+    "Health->poisoning"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Iowa Community College Athletic Conference",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T01:40:30.687+03:00",
+  "updated": "2025-05-07T22:45:35.000+00:00"
+}

@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "219b96034bee235c9476ce07ea204a33b8a9c08e",
+    "url": "https://www.epochtimes.com.tw/n475585/伊朗銀行遭駭民眾存款歸零-KPMG-衝擊比導彈還大.html",
+    "site_full": "www.epochtimes.com.tw",
+    "site": "epochtimes.com.tw",
+    "site_section": "https://epochtimes.com.tw/????/265/??",
+    "site_categories": ["media"],
+    "section_title": "台灣大紀元：獨立敢言的新聞媒體",
+    "site_title": "台灣大紀元：獨立敢言的新聞媒體",
+    "title": "伊朗銀行遭駭民眾存款歸零 KPMG：衝擊比導彈還大",
+    "title_full": "伊朗銀行遭駭民眾存款歸零 KPMG：衝擊比導彈還大",
+    "published": "2025-06-19T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://img.epochtimes.com.tw/upload/images/2025/06/19/774655_medium.jpg",
+    "performance_score": 0,
+    "domain_rank": 198925,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "219b96034bee235c9476ce07ea204a33b8a9c08e",
+  "url": "https://www.epochtimes.com.tw/n475585/伊朗銀行遭駭民眾存款歸零-KPMG-衝擊比導彈還大.html",
+  "ord_in_thread": 0,
+  "author": "侯駿霖",
+  "published": "2025-06-19T03:00:00.000+03:00",
+  "title": "伊朗銀行遭駭民眾存款歸零 KPMG：衝擊比導彈還大",
+  "text": "近期伊朗國營賽帕銀行（Sepah Bank）驚傳遭駭客集團發動毀滅性攻擊，使銀行大量數位服務與系統癱瘓，線上金融服務及ATM全面中斷，駭客組織聲稱已摧毀所有資料，包含客戶金融卡失效、存款全數歸零。對此，KPMG安侯企業管理公司近日指出，跨國網攻的衝擊甚至超過單一導彈，台灣金融體系也必須慎防類似情況發生。\nKPMG安侯企業管理公司董事總經理謝昀澤表示，這次事件為駭客組織對重要金融系統的網路精準攻擊，不但影響民眾核心金融活動，更間接癱瘓民生相關基礎建設，甚至連綁定銀行的加油卡也無法使用，衝擊比單一導彈攻擊更嚴重。\n伊朗政府對外宣稱是技術故障，但恐無法掩蓋金融業務中斷問題。謝昀澤分析，根據目前情況推斷，駭客集團攻擊手法涉及預先滲透、系統開機磁區及資料銷毀，有高技術門檻，是國家級網路作戰的破壞型攻擊。他說，這是銀行平時資安演練中，最不樂見、也最難處理的極端情境。\nKPMG數位科技安全實驗室執行副總林大馗認為，台灣金融機構應該立即強化資安的防禦層級，特別針對業務營運持續管理（BCM）、災難復原機制（DR）、網路異常行為即時偵測，以及供應鏈資安風險管理做風險控管。\n林大馗說，網路安全防護技術只是整體金融穩定的一部分，金融業如何避免類似「民眾存款歸零」、「銀行現金停發」等情況，需要仰賴更健全的備份機制恢復運作，並使用「加密分持」等進階策略，避免資料遭到同步毀損。\n他建議，金融機構與內政部警政署等單位合作刻不容緩，以強化橫向威脅情資共享與數位韌性。同時，隨著跨國網攻逐步AI化、攻擊門檻逐漸降低，台灣在不穩定局勢下，金融機構不能掉以輕心，即便不是軍事目標，也可能遭到破壞性攻擊或勒索。\n針對一般民眾，謝昀澤認為，應該持續提升金融資安意識，例如留意銀行即時通知、不點擊不明簡訊連結、保留一定現金在手、準備多元備用的之復工具，以及定期保留對帳單。他說，高資產族群也應進行資產分區配置、降低系統系風險。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Crime, Law and Justice->corporate crime",
+    "Crime, Law and Justice->cyber crime",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->financial service",
+    "Social Issue->social problem",
+    "Social Issue->discrimination",
+    "Social Issue->welfare"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:40:22.249+03:00",
+  "updated": "2025-06-19T04:45:13.000+00:00"
+}

@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "b781f63adf9062010e1a0df665ef0105464573c0",
+    "url": "https://virtualjerusalem.com/united-airlines-seen-resuming-israel-flights-in-february",
+    "site_full": "virtualjerusalem.com",
+    "site": "virtualjerusalem.com",
+    "site_section": "https://www.virtualjerusalem.com",
+    "site_categories": ["media", "judaism", "religion"],
+    "section_title": "Virtual Jerusalem | Israel News &amp; Views",
+    "title": "United Airlines seen resuming Israel flights in February",
+    "title_full": "United Airlines seen resuming Israel flights in February",
+    "published": "2025-01-23T21:50:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 190220,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b781f63adf9062010e1a0df665ef0105464573c0",
+  "url": "https://virtualjerusalem.com/united-airlines-seen-resuming-israel-flights-in-february",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "VJ Editor",
+  "published": "2025-01-23T21:50:00.000+02:00",
+  "title": "United Airlines seen resuming Israel flights in February",
+  "text": "Post Content| Read More Front – Globes",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Lifestyle and Leisure",
+    "Social Issue"
+  ],
+  "topics": [
+    "Economy, Business and Finance->transport",
+    "Lifestyle and Leisure->travel and tourism",
+    "Social Issue->communities",
+    "Social Issue->social problem",
+    "Social Issue->emigration"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://en.globes.co.il/en/article-1001500325#utm_source=RSS",
+    "https://www.en.globes.co.il/en/article-1001500325#utm_source=RSS"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "United Airlines",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:04:12.666+02:00",
+  "updated": "2025-01-24T00:04:12.666+02:00"
+}

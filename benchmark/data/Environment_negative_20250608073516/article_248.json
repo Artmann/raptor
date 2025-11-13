@@ -1,0 +1,131 @@
+{
+  "thread": {
+    "uuid": "067670915c48d5272ce97aa611d1dce252d714ef",
+    "url": "https://www.eluniversal.com.mx/metropoli/que-calor-activan-alerta-amarilla-por-altas-temperaturas-para-este-jueves-en-11-alcaldias-de-cdmx-termometro-llegaria-a-32-grados",
+    "site_full": "www.eluniversal.com.mx",
+    "site": "eluniversal.com.mx",
+    "site_section": "https://www.eluniversal.com.mx",
+    "site_categories": [
+      "media",
+      "top_news_co",
+      "top_news_pe",
+      "top_news_mx",
+      "top_news"
+    ],
+    "section_title": "El Universal | El periódico de México líder en noticias y clasificados",
+    "site_title": "El Universal | El periódico de México líder en noticias y clasificados",
+    "title": "¡Qué calor! Activan Alerta Amarilla por altas temperaturas para este jueves en 11 alcaldías de CDMX; termómetro llegaría a 32 grados",
+    "title_full": "¡Qué calor! Activan Alerta Amarilla por altas temperaturas para este jueves en 11 alcaldías de CDMX; termómetro llegaría a 32 grados",
+    "published": "2025-05-08T01:52:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://www.eluniversal.com.mx/resizer/v2/3NFSPNFBLFEITNJ5J6ERBOC5EU.jpg?auth=dbd8bfeb3bed3b1e562ed23663b65286e55bea8794234695c578029de94ffba9",
+    "performance_score": 0,
+    "domain_rank": 3508,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "067670915c48d5272ce97aa611d1dce252d714ef",
+  "url": "https://www.eluniversal.com.mx/metropoli/que-calor-activan-alerta-amarilla-por-altas-temperaturas-para-este-jueves-en-11-alcaldias-de-cdmx-termometro-llegaria-a-32-grados",
+  "ord_in_thread": 0,
+  "author": "Jorge Alejandro Medellín Hernández",
+  "published": "2025-05-08T01:52:00.000+03:00",
+  "title": "¡Qué calor! Activan Alerta Amarilla por altas temperaturas para este jueves en 11 alcaldías de CDMX; termómetro llegaría a 32 grados",
+  "text": "La Secretaría de Gestión Integral de Riesgos y Protección Civil (SGIRPC) activó la Alerta Amarilla por temperaturas altas para la tarde de mañana, en las demarcaciones de Azcapotzalco, Benito Juárez, Coyoacán, Cuauhtémoc, Gustavo A. Madero, Iztacalco, Iztapalapa, Miguel Hidalgo, Tláhuac, Venustiano Carranza y Xochimilco.\nSe pronostican temperaturas máximas de 30 a 32 grados Celsius entre las 12:00 y las 16:00 horas del jueves 08 de mayo de 2025.\nEl Director General de Alertas Tempranas de la SGIRPC, Guillermo Ayala explicó que a partir de la tarde del jueves, habrá un descenso en la temperatura en la capital, mismo que vendrá acompañado de lluvias a partir de la noche del jueves.\n“Por lo pronto tendremos calor hasta el jueves y esperamos las primeras lluvias durante la noche, así como un descenso en la temperatura”, informó en entrevista.\nLeer también: Autoridades analizan crear una sola Área Natural Protegida en la ZMVM; buscan resguardar zona donde se concentran recursos hídricos\nPor el pronóstico de altas temperaturas para mañana, se recomienda a la población usar bloqueador solar, vestir ropa de colores claros; utilizar gafas de sol y sombrero o gorra.\nTambién se sugiere evitar comer en la vía pública, ya que los alimentos se descomponen rápidamente y evitar exponerse al sol por tiempo prolongado.\nÚnete a nuestro canal ¡EL UNIVERSAL ya está en Whatsapp!, desde tu dispositivo móvil entérate de las noticias más relevantes del día, artículos de opinión, entretenimiento, tendencias y más.\ncr",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment", "Social Issue"],
+  "topics": [
+    "Weather->weather warning",
+    "Environment->climate change",
+    "Environment->environmental pollution",
+    "Environment->global warming",
+    "Social Issue->social condition",
+    "Social Issue->demographics",
+    "Social Issue->population and census"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://whatsapp.com/channel/0029Va4lfJc1CYoM1R8IT71e/",
+    "https://www.whatsapp.com/channel/0029Va4lfJc1CYoM1R8IT71e/",
+    "https://whatsapp.com/channel/0029Va4lfJc1CYoM1R8IT71e"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Venustiano Carranza",
+        "sentiment": "none"
+      },
+      {
+        "name": "Gustavo A. Madero",
+        "sentiment": "none"
+      },
+      {
+        "name": "Guillermo Ayala",
+        "sentiment": "none"
+      },
+      {
+        "name": "Miguel Hidalgo",
+        "sentiment": "none"
+      },
+      {
+        "name": "Benito Juárez",
+        "sentiment": "none"
+      },
+      {
+        "name": "Cuauhtémoc",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Azcapotzalco",
+        "sentiment": "none"
+      },
+      {
+        "name": "Xochimilco",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:54:53.178+03:00",
+  "updated": "2025-05-08T00:03:54.000+00:00"
+}

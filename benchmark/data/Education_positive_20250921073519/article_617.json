@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "14e4f5feada6eb4bb40d6a748d8ec535dd42b1db",
+    "url": "https://www.newsbreak.com/kens-5-eyewitness-news-524530/4241019670240-career-expo-brings-thousands-of-south-texas-students-to-robstown",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/kens-5-eyewitness-news-524530",
+    "site_categories": ["under_construction"],
+    "section_title": "KENS 5 Eyewitness News&#x27;s Home Page | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Career expo brings thousands of South Texas students to Robstown - NewsBreak",
+    "title_full": "Career expo brings thousands of South Texas students to Robstown - NewsBreak",
+    "published": "2025-09-18T06:48:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/0Aeqjk_14qLU27V00",
+    "performance_score": 0,
+    "domain_rank": 2819,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "14e4f5feada6eb4bb40d6a748d8ec535dd42b1db",
+  "url": "https://www.newsbreak.com/kens-5-eyewitness-news-524530/4241019670240-career-expo-brings-thousands-of-south-texas-students-to-robstown",
+  "ord_in_thread": 0,
+  "author": "KENS 5 Eyewitness News",
+  "published": "2025-09-18T06:48:00.000+03:00",
+  "title": "Career expo brings thousands of South Texas students to Robstown - NewsBreak",
+  "text": "1 hours ago CORPUS CHRISTI, Texas — Thousands of students from across South Texas gathered at the Richard M. Borchard Regional Fairgrounds on Wednesday for the You! Choose Career Expo, an event aimed at connecting young people with opportunities in the region. More than 47 schools bused in students to learn about... Read full article\nRead in NewsBreak 1",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest"],
+  "topics": [
+    "Education->students",
+    "Education->vocational education",
+    "Human Interest->graduation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "South",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:43:07.027+03:00",
+  "updated": "2025-09-18T08:48:21.000+03:00"
+}

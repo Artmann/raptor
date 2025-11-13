@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "c94b4b19c442ad2a3629d6110e245e9422822cef",
+    "url": "https://www-bbc-com.pages.dev/news/articles/cp86vp56zmno",
+    "site_full": "www-bbc-com.pages.dev",
+    "site": "pages.dev",
+    "site_section": "https://www-bbc-com.pages.dev/news/scotland",
+    "site_categories": [],
+    "section_title": "Scotland | Latest News &amp; Updates | BBC News",
+    "site_title": null,
+    "title": "Former uni principal defends keeping £150,000 payout",
+    "title_full": "Former uni principal defends keeping £150,000 payout",
+    "published": "2025-06-26T12:36:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ichef.bbci.co.uk/news/1024/branded_news/874b/live/6498fe70-5268-11f0-8485-7bd50fa63665.jpg",
+    "performance_score": 0,
+    "domain_rank": 933,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c94b4b19c442ad2a3629d6110e245e9422822cef",
+  "url": "https://www-bbc-com.pages.dev/news/articles/cp86vp56zmno",
+  "ord_in_thread": 0,
+  "author": "BBC News",
+  "published": "2025-06-26T12:36:00.000+03:00",
+  "title": "Former uni principal defends keeping £150,000 payout",
+  "text": "Former uni principal defends keeping £150,000 payout\nThe former principal of Dundee University has offered a \"heartfelt apology\" to its students and staff, but defended not paying back a £150,000 exit payment.\nProf Iain Gillespie resigned from the university in December, shortly after revealing the institution's eight-figure deficit and a warning of hundreds of job losses.\nHe told Holyrood's education committee he was \"not a coward\" for walking away but had failed in his role to \"take responsibility\" as accounting officer and principal.\nGillespie was heavily criticised over his role in the university's financial crisis in a recent independent report led by Prof Pamela Gillies.\nThe report said Prof Gillespie had an \"overbearing leadership style\" and a dislike of potentially awkward questioning and confrontations.\nThe professor said the Gillies Report had been a \"forensic piece of work\" but he \"did not recognise\" the description of his management style.\nThe report said the main causes for the university's £35m deficit included poor financial judgement from university management.\nProf Gillespie told MSPs he accepted the fact that his view of the university's finances were \"incorrect\" but insisted he did not have \"the full picture.\"\nAsked by committee chairman Douglas Ross if he was a \"coward\" for \"walking away into the sunset\" after \"creating this mess\", Prof Gillespie replied: \"That's for other people to comment on, I don't think I'm a coward.\"\nHe said he resigned as \"the buck stops here\" but defended not handing back the six months salary he received after leaving in December.\n\"That was a contractual obligation from my employer to me,\" he said.\n\"It was not in my thought process to repay a financial obligation.\"\nPushed by Ross on the matter of repaying the money, Prof Gillespie said: \"I definitely understand how painful this is and that people are angry.\nProf Gillespie also told MSPs:\n- He accepted the university was slow in making redundancies in 2023/24 and \"spent more cash than we could afford to spend\"\n- He had no complaints against him during his time at Dundee University\n- One member of staff at his former employer, the Natural Environment Research Council (Nerc), had made a complaint about his \"overbearing behaviour\".\nConcerns from former vice principal international Wendy Alexanderover the falling number of overseas students were \"never ignored\".\n- Claims by Alexander that she was sidelined were a \"misrepresentation\" and that her performance \"wasn't what we needed it to be.\"\n- The first time he was aware the university had breached its covenant with its bank in 2023 was when he read it in the Gillies Report last week and he acknowledged he had not paid sufficient attention to its covenant commitments.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Education"],
+  "topics": [
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->corporate news and profiles",
+    "Education->students",
+    "Education->college and university"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.sfc.ac.uk/wp-content/uploads/2025/06/Gillies-Report.pdf",
+    "https://www.bbc.co.uk/news/articles/c23v80lzv2zo",
+    "https://www.bbc.co.uk/news/articles/clyn4pxjwrvo",
+    "https://www.bbc.co.uk/news/articles/c14lv4y667eo",
+    "https://bbc.co.uk/news/articles/clyn4pxjwrvo",
+    "https://bbc.co.uk/news/articles/c14lv4y667eo",
+    "https://bbc.co.uk/news/articles/c23v80lzv2zo",
+    "https://sfc.ac.uk/wp-content/uploads/2025/06/Gillies-Report.pdf"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Iain Gillespie",
+        "sentiment": "none"
+      },
+      {
+        "name": "Pamela Gillies",
+        "sentiment": "none"
+      },
+      {
+        "name": "Holyrood",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Dundee University",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "c94b4b19c442ad2a3629d6110e245e9422822cef",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:07:28.407+03:00",
+  "updated": "2025-06-26T11:11:37.000+00:00"
+}

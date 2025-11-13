@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "cc09fcc65b6f1b6a6d5d335dd66ad88f77b53a81",
+    "url": "https://www.techtarget.com/searchsecurity/news/366582153/Risk-Repeat-Change-Healthcares-bad-ransomware-bet",
+    "site_full": "www.techtarget.com",
+    "site": "techtarget.com",
+    "site_section": "https://www.techtarget.com/iotagenda/rss/ContentSyndication.xml",
+    "site_categories": ["javascript", "tech"],
+    "section_title": "Total Economic Impact for The Intel vPro Platform",
+    "title": "Risk & Repeat: Change Healthcare's bad ransomware bet | TechTarget",
+    "title_full": "Risk & Repeat: Change Healthcare's bad ransomware bet | TechTarget",
+    "published": "2024-04-25T22:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.ttgtmedia.com/rms/onlineimages/ransom_g846011096.jpg",
+    "performance_score": 0,
+    "domain_rank": 469,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cc09fcc65b6f1b6a6d5d335dd66ad88f77b53a81",
+  "url": "https://www.techtarget.com/searchsecurity/news/366582153/Risk-Repeat-Change-Healthcares-bad-ransomware-bet",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Alexander Culafi",
+  "published": "2024-04-25T22:32:00.000+03:00",
+  "title": "Risk & Repeat: Change Healthcare's bad ransomware bet | TechTarget",
+  "text": "Change Healthcare confirmed it paid hefty ransom to the threat actors behind the recent cyber attack, but even this was not enough to protect patient data.\nOn Feb. 21, Change Healthcare disclosed that it fell victim to a ransomware attack, which caused massive disruptions to company's healthcare payment management platform. The Alphv/BlackCat gang, a prolific ransomware-as-a-service operation, quickly claimed responsibility for an attack.\nAlphv/BlackCat eventually made a presumed exit scam in early March, making off with a $22 million ransomware payment that researchers connected to Change Healthcare. However, UnitedHealth Group, which owns Change Healthcare, did not confirm it paid a ransom until the company issued statements to news outlets this week. Wired first reported the $22 million figure last month .\nBut despite Change Healthcare's payment to the Alphv/BlackCat gang, a second ransomware gang known as RansomHub claimed it obtained Change Healthcare data this month. RansomHub, which began leaking the data , claimed to have extremely sensitive information from Change Healthcare customers including patient medical records and personally identifiable information.\nOn this episode of the Risk & Repeat podcast, TechTarget Editorial editors Rob Wright and Alex Culafi discuss the ransomware attack against Change Healthcare and the value, or lack thereof, that often comes with paying the ransom.\nSubscribe to Risk & Repeat on Apple Podcasts .\nAlexander Culafi is a senior information security news writer and podcast host for TechTarget Editorial. Rob Wright is a longtime reporter and senior news director for TechTarget Editorial's security team. He drives breaking infosec news and trends coverage. Have a tip? Email him .\nRelated Resources Mastering AI: A Guide for IT Managers on Leveraging Azure OpenAI and AI Services –Cloud Nation ML-Driven Deep Packet Dynamics can Solve Encryption Visibility Challenges –LiveAction Digital Security Has Never Been More Mission- Critical –8x8 Dig Deeper on Data security and privacy Change Healthcare breached via Citrix portal with no MFA",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.wired.com/story/alphv-change-healthcare-ransomware-payment/",
+    "https://podcasts.apple.com/us/podcast/risk-repeat/id1182421616",
+    "https://www.bitpipe.com/detail/RES/1649944581_738.html",
+    "https://www.bitpipe.com/detail/RES/1706085875_304.html",
+    "https://www.podbean.com/player-v2/?i=e7vb3-15f6f0f-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=1&font-color=auto&logo_link=episode_page&btn-skin=7",
+    "https://healthitsecurity.com/news/change-healthcare-disconnects-system-amid-cyberattack",
+    "https://www.wired.com/story/change-healthcare-ransomhub-data-sale/",
+    "https://www.wired.com/story/change-healthcare-ransomhub-data-sale",
+    "https://www.healthitsecurity.com/news/change-healthcare-disconnects-system-amid-cyberattack",
+    "https://bitpipe.com/detail/RES/1706085875_304.html",
+    "https://wired.com/story/alphv-change-healthcare-ransomware-payment/",
+    "https://www.podbean.com/player-v2/",
+    "https://wired.com/story/change-healthcare-ransomhub-data-sale/",
+    "https://www.podcasts.apple.com/us/podcast/risk-repeat/id1182421616",
+    "https://podbean.com/player-v2/?i=e7vb3-15f6f0f-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=1&font-color=auto&logo_link=episode_page&btn-skin=7",
+    "https://bitpipe.com/detail/RES/1649944581_738.html",
+    "https://www.wired.com/story/alphv-change-healthcare-ransomware-payment"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "change healthcare",
+        "sentiment": "negative"
+      },
+      {
+        "name": "techtarget change healthcare",
+        "sentiment": "negative"
+      },
+      {
+        "name": "unitedhealth group",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:01:28.718+03:00",
+  "updated": "2024-05-03T00:09:08.802+03:00"
+}

@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "53fc2df74b2dc8a384c591a8b7a803637ba50601",
+    "url": "https://www.nzherald.co.nz/nz/unattractive-cars-a-turn-off-for-thieves-say-police/IKMMS76G5FE6XDOYI5S4ZEQTMU/",
+    "site_full": "www.nzherald.co.nz",
+    "site": "nzherald.co.nz",
+    "site_section": "http://emm.newsbrief.eu/rss/rss?type=rtn&language=en&duplicates=false",
+    "site_categories": ["science", "geology"],
+    "section_title": "Latest news clusters for en",
+    "title": "‘Unattractive’ cars a turn-off for thieves, say police - NZ Herald",
+    "title_full": "‘Unattractive’ cars a turn-off for thieves, say police - NZ Herald",
+    "published": "2023-12-28T16:41:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NZ",
+    "main_image": "https://www.nzherald.co.nz/resizer/Dooy8ss5H-tp7hIEgPFE5OUi6PE=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/TFBKW567ENG63MBV7ENTOCLCHY.jpg",
+    "performance_score": 0,
+    "domain_rank": 1249,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "53fc2df74b2dc8a384c591a8b7a803637ba50601",
+  "url": "https://www.nzherald.co.nz/nz/unattractive-cars-a-turn-off-for-thieves-say-police/IKMMS76G5FE6XDOYI5S4ZEQTMU/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@nzherald",
+  "published": "2023-12-28T16:41:00.000+02:00",
+  "title": "‘Unattractive’ cars a turn-off for thieves, say police - NZ Herald",
+  "text": "By RNZ\nUnattractive cars are at an advantage for once - police say that by being ugly, they are better protected from theft.\nThere has been a spike of cars being broken into and stolen in northern Auckland, and police are urging vehicle owners to take caution.\nSenior Sergeant Roger Small said police are following a bump in reports of vehicle crime in Kumeū and Huapai.\nAdvertisement Advertise with NZME. As well as vehicles being stolen, he said, there have been reported attempts to steal them, and valuables have been stolen from inside parked cars.\nSmall said police are asking drivers to take precautions to make their vehicle less of a target.\n“We want your vehicle to be as unattractive as possible,” Small said.\n“Think about removing property from your car when you park up for the day: debit cards, the jacket on the back seat and even the two gold coins in the centre console.”\nAdvertisement Advertise with NZME. Drivers should avoid leaving money or wallets in parked cars, and park inside a closed garage if possible, Small said.\n“By taking a few additional steps it could help in stopping your vehicle becoming an easy target and avoiding unnecessary frustrations at this time of the year.”\n- RNZ",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Social Issue", "Human Interest", "Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "roger small",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "nz herald",
+        "sentiment": "negative"
+      },
+      {
+        "name": "rnz unattractive",
+        "sentiment": "negative"
+      },
+      {
+        "name": "nzme",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "auckland",
+        "sentiment": "none"
+      },
+      {
+        "name": "kumeū",
+        "sentiment": "none"
+      },
+      {
+        "name": "huapai",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T06:10:00.739+02:00",
+  "updated": "2023-12-29T06:10:00.739+02:00"
+}

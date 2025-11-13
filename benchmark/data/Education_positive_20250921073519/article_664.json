@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "7b413299cd9e8350d5d1f6366fc5b30d2af3af0b",
+    "url": "https://nigeria.shafaqna.com/EN/AL/7490001",
+    "site_full": "nigeria.shafaqna.com",
+    "site": "shafaqna.com",
+    "site_section": "http://nigeria.shafaqna.com/rss.xml",
+    "site_categories": ["media", "top_news_iq", "top_news"],
+    "section_title": "Nigeria News (News Reader) | ",
+    "site_title": "Nigeria News (News Reader)",
+    "title": "Lagos Aviation Academy Wins 2025 School Of The Year Award",
+    "title_full": "Lagos Aviation Academy Wins 2025 School Of The Year Award",
+    "published": "2025-09-18T08:39:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "NG",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 42559,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7b413299cd9e8350d5d1f6366fc5b30d2af3af0b",
+  "url": "https://nigeria.shafaqna.com/EN/AL/7490001",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T08:39:00.000+03:00",
+  "title": "Lagos Aviation Academy Wins 2025 School Of The Year Award",
+  "text": "Lagos Aviation Academy (LAA) has been honoured with the Aviation School of the Year award at the prestigious Travellers Award 2024/2025, organised by African Travel Quarterly (ATQ News) in conjunction with the 21st Akwaaba African Travel Market. The recognition celebrates the Academy’s dedication to excellence in aviation training, its role in nurturing the next generation [ ]\nleadership- 9 minutes ago\nLagos Aviation Academy Wins 2025 School Of The Year Award\nLatest News\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": [
+    "Education->vocational education",
+    "Education->students",
+    "Education->college and university",
+    "Human Interest->award and prize",
+    "Social Issue->communities",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Lagos Aviation Academy",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_iq", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:48:52.814+03:00",
+  "updated": "2025-09-19T09:09:40.000+03:00"
+}

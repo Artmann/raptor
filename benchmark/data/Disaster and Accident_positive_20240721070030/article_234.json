@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "b7ca6b8a10b8ff7555584b19b7db04bf155cf61c",
+    "url": "https://headlines.peta.org/ukraine-updates/june-21-abandoned-animals-rescued",
+    "site_full": "headlines.peta.org",
+    "site": "peta.org",
+    "site_section": "https://peta.org/feed",
+    "site_categories": ["media"],
+    "section_title": "PETA",
+    "title": "Bombs Were Closing In From All Sides—but Rescuers Were Determined to Save Lives",
+    "title_full": "Bombs Were Closing In From All Sides—but Rescuers Were Determined to Save Lives",
+    "published": "2024-06-21T17:43:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://headlines.peta.org/wp-content/uploads/2023/11/rescuing-animals-from-flood-ark.jpg",
+    "performance_score": 0,
+    "domain_rank": 2151,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b7ca6b8a10b8ff7555584b19b7db04bf155cf61c",
+  "url": "https://headlines.peta.org/ukraine-updates/june-21-abandoned-animals-rescued",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Stephanie Goettge",
+  "published": "2024-06-21T17:43:00.000+03:00",
+  "title": "Bombs Were Closing In From All Sides—but Rescuers Were Determined to Save Lives",
+  "text": "A group of five abandoned animals found themselves in grave danger in Vovchansk, Ukraine, as enemy fire closed in around them. They were poised for a quick escape with a PETA-supported rescue team, but when the fighting intensified, they all quickly retreated to the basement of a destroyed house nearby. The team and the dogs and cats huddled together in the dark, narrowly escaping a missile strike. Watch as one among them, a dog named Justin—a visibly shaken older fellow—waits, embodying the plight of animals caught in the crossfire of human conflicts.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "justin",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "peta",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "ukraine",
+        "sentiment": "none"
+      },
+      {
+        "name": "vovchansk",
+        "sentiment": "none"
+      },
+      {
+        "name": "germany",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-21T19:26:45.112+03:00",
+  "updated": "2024-06-21T21:10:31.534+03:00"
+}

@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "a2fb1bab3a7a585eda778c0d5676bacf2ae081f0",
+    "url": "https://it.tradingview.com/news/reuters.com,2025:newsml_L5N3OJ22Q:0",
+    "site_full": "it.tradingview.com",
+    "site": "tradingview.com",
+    "site_section": "https://it.tradingview.com/news",
+    "site_categories": ["stocks", "finance"],
+    "section_title": "Notizie ed articoli finanziari — Analisi mercato — TradingView",
+    "title": "Witherspoon e Ferrell si sfidano nella commedia matrimoniale ",
+    "title_full": "Witherspoon e Ferrell si sfidano nella commedia matrimoniale ",
+    "published": "2025-01-23T18:58:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+    "performance_score": 0,
+    "domain_rank": 1249,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a2fb1bab3a7a585eda778c0d5676bacf2ae081f0",
+  "url": "https://it.tradingview.com/news/reuters.com,2025:newsml_L5N3OJ22Q:0",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2025-01-23T18:58:00.000+02:00",
+  "title": "Witherspoon e Ferrell si sfidano nella commedia matrimoniale ",
+  "text": "Witherspoon e Ferrell si sfidano nella commedia matrimoniale \"You're Cordially Invited\n- Witherspoon e Ferrell si riuniscono per il primo film congiunto\n- Il film esplora le dinamiche familiari e le paure personali\n- Diretto da Nicholas Stoller, in streaming su Amazon Prime Video il 30 gennaio\nLa star hollywoodiana Reese Witherspoon afferma che la collaborazione con l'attore Will Ferrell per la commedia romantica \"You're Cordially Invited\" è stata a lungo attesa.\nGli attori, che nel 2001 hanno lavorato insieme in un episodio del \"Saturday Night Live\", fanno la loro prima apparizione congiunta nel film, che hanno anche prodotto.\nogni giorno che ero sul set, pensavo: \"Will, questo è nella mia lista di cose da fare\"\", ha detto Witherspoon alla prima del film al teatro Palladium di Londra giovedì.\n\"You're Cordially Invited\" vede due coppie di sposi che arrivano in un hotel di una piccola isola e scoprono che le loro nozze sono state accidentalmente prenotate per lo stesso giorno.\nIl vedovo Jim (Ferrell), la cui figlia sta per sposarsi, e Margot (Witherspoon), una dirigente di reality di Los Angeles incaricata di organizzare il matrimonio della sorella, accettano di condividere la location, ma si pentono rapidamente della loro decisione. Caos e comicità si susseguono quando i due si scontrano e cercano di superarsi a vicenda.\nFerrell, 57 anni, padre di tre figli, e Witherspoon, 48 anni, anch'essa con tre figli, hanno detto che le dinamiche familiari del film li hanno colpiti.\n\"La figlia di Will sta per sposarsi e lui è preoccupato di non avere nulla per sé perché lei è la sua ancora di salvezza. E io sono preoccupata che mia sorella lasci la mia vita\", ha detto Witherspoon. \"Sotto tutti i litigi e le battaglie c'è questa profonda paura e credo che alla fine sia questo il modo in cui ci leghiamo\"\nIl film è scritto e diretto dal regista di \"Forgetting Sarah Marshall\" e \"Bros\" Nicholas Stoller.\n\"Sono padre di tre figlie, quindi sicuramente ho riversato molte delle mie esperienze nel suo personaggio (Ferrell). E poi la sorella di Reese sta per sposarsi e ha un rapporto complesso con la famiglia, e tutti noi abbiamo indiscrezioni stampa complessi con la nostra famiglia. Quindi, era un po' autobiografico\", ha detto Stoller.\n\"You're Cordially Invited\" sarà disponibile in streaming su Prime Video di Amazon AMZN il 30 gennaio.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": ["Arts, Culture and Entertainment", "Lifestyle and Leisure"],
+  "topics": [
+    "Arts, Culture and Entertainment->arts and entertainment",
+    "Arts, Culture and Entertainment->theatre",
+    "Arts, Culture and Entertainment->cinema",
+    "Lifestyle and Leisure->party",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ferrell",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Witherspoon",
+        "sentiment": "negative"
+      },
+      {
+        "name": " Reese Witherspoo",
+        "sentiment": "none"
+      },
+      {
+        "name": " Nicholas Stolle",
+        "sentiment": "none"
+      },
+      {
+        "name": " Will Ferrel",
+        "sentiment": "none"
+      },
+      {
+        "name": "(Witherspoo",
+        "sentiment": "none"
+      },
+      {
+        "name": "(Ferrel",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": " Amazon Prime Vide",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": " Londr",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:23:15.383+02:00",
+  "updated": "2025-01-24T00:23:15.383+02:00"
+}

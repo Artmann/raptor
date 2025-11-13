@@ -1,0 +1,134 @@
+{
+  "thread": {
+    "uuid": "746d2f3eaf68f3a7429a3d587f6f1c56a753c467",
+    "url": "https://northeast.newschannelnebraska.com/story/50713966/justice-department-is-investigating-mckinsey-consulting-firms-role-in-opioid-epidemic",
+    "site_full": "northeast.newschannelnebraska.com",
+    "site": "newschannelnebraska.com",
+    "site_section": "https://northeast.newschannelnebraska.com/national-news",
+    "site_categories": [],
+    "section_title": "NORTHEAST - NEWS CHANNEL NEBRASKA",
+    "title": "Justice Department is investigating McKinsey consulting firm's role in opioid epidemic - NORTHEAST - NEWS CHANNEL NEBRASKA",
+    "title_full": "Justice Department is investigating McKinsey consulting firm's role in opioid epidemic - NORTHEAST - NEWS CHANNEL NEBRASKA",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 11935,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "746d2f3eaf68f3a7429a3d587f6f1c56a753c467",
+  "url": "https://northeast.newschannelnebraska.com/story/50713966/justice-department-is-investigating-mckinsey-consulting-firms-role-in-opioid-epidemic",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Thursday; April",
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "Justice Department is investigating McKinsey consulting firm's role in opioid epidemic - NORTHEAST - NEWS CHANNEL NEBRASKA",
+  "text": "Justice Department is investigating McKinsey consulting firm's role in opioid epidemic By Hannah Rabinowitz and Evan Perez, CNN (CNN) — The Justice Department is investigating McKinsey & Company, one of the world’s largest consulting firms, over its role in advising drug companies on how to boost sales of opioids, according to sources familiar with the matter. Prosecutors from Virginia and Massachusetts are leading the criminal investigation, the sources said, and are coordinating with the Justice Department’s civil division in Washington, DC. The probe is focused on advice that McKinsey gave to pharmaceutical companies about selling the highly addictive prescription drugs, sources said. CNN has reached out to McKinsey for comment. Critics have said that McKinsey’s work to help opioid manufacturers like Purdue Pharma, Johnson & Johnson and Endo, supercharge their distribution across the country. McKinsey has already paid [hundreds of millions](https://www.cnn.com/2021/02/04/business/mckinsey-opioid-settlement/index.html) of dollars in settlements nationally for its alleged role in the crisis. [The Wall Street Journal](https://www.wsj.com/articles/mckinsey-faces-criminal-probe-over-opioid-related-consulting-a3f816d4) was first to report the criminal inquiry. Abuse of prescription opioid painkillers has become an epidemic in the United States that has been blamed for tens of thousands of deaths, according to the Centers for Disease Control and Prevention. McKinsey has said it has stopped working with clients on “opioid-specific business,” and is “continuing to support key stakeholders working to combat the crisis.” The Justice Department declined to comment on the investigation. The-CNN-Wire ™ & © 2024 Cable News Network, Inc., a Warner Bros. Discovery Company. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Health"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.wsj.com/articles/mckinsey-faces-criminal-probe-over-opioid-related-consulting-a3f816d4)",
+    "https://www.cnn.com/2021/02/04/business/mckinsey-opioid-settlement/index.html)",
+    "https://wsj.com/articles/mckinsey-faces-criminal-probe-over-opioid-related-consulting-a3f816d4)",
+    "https://cnn.com/2021/02/04/business/mckinsey-opioid-settlement/index.html)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "hannah rab",
+        "sentiment": "negative"
+      },
+      {
+        "name": "endo",
+        "sentiment": "none"
+      },
+      {
+        "name": "mckinsey",
+        "sentiment": "none"
+      },
+      {
+        "name": "evan perez",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "mckinsey",
+        "sentiment": "negative"
+      },
+      {
+        "name": "justice department",
+        "sentiment": "negative"
+      },
+      {
+        "name": "nebraska justice department",
+        "sentiment": "negative"
+      },
+      {
+        "name": "purdue pharma, johnson & johnson",
+        "sentiment": "none"
+      },
+      {
+        "name": "cnn",
+        "sentiment": "none"
+      },
+      {
+        "name": "mckinsey & company",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "massachusetts",
+        "sentiment": "none"
+      },
+      {
+        "name": "virginia",
+        "sentiment": "none"
+      },
+      {
+        "name": "washington",
+        "sentiment": "none"
+      },
+      {
+        "name": "dc",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:39:30.331+03:00",
+  "updated": "2024-04-26T00:39:30.331+03:00"
+}

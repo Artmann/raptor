@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "9beb4aec3dae6f48353d596757beca146749bfe7",
+    "url": "https://www.insidernj.com/car-thefts-problem",
+    "site_full": "www.insidernj.com",
+    "site": "insidernj.com",
+    "site_section": "https://www.insidernj.com/rss",
+    "site_categories": ["media"],
+    "section_title": "Insider NJ",
+    "title": "Car Thefts - a Problem - Insider NJ",
+    "title_full": "Car Thefts - a Problem - Insider NJ",
+    "published": "2024-04-26T00:29:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.insidernj.com/wp-content/uploads/2024/04/moikes.png",
+    "performance_score": 0,
+    "domain_rank": 34923,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9beb4aec3dae6f48353d596757beca146749bfe7",
+  "url": "https://www.insidernj.com/car-thefts-problem",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Fred Snowflack",
+  "published": "2024-04-26T00:29:00.000+03:00",
+  "title": "Car Thefts - a Problem - Insider NJ",
+  "text": "NORTH CALDWELL -Josh Raymond, the mayor of this suburban Essex County town, says he’s often asked about car thefts.\nOr more precisely, what can the town do to stop them?\nOn Thursday morning, the mayor delivered an answer. He said help is coming in the form of Automated License Plate Readers, or ALPR, thanks to a nearly $1 million federal grant to 17 Essex towns.\nThese devices will be mounted on signs and light poles and, as the name suggests, read license plates of passing vehicles. So, if a car is reported stolen, the plate readers can pinpoint exactly where it is as it travels on the road, which is a great help to law enforcement.\nThe technology is described as sophisticated enough to pick up not only plate numbers, but the make, type and color of the vehicle. The cost of these devices ranges from $16,000 to $20,000 apiece.\nThere already has been state money for such devices and some towns rave about the system.\nTake George Ricci, the police chief in Bloomfield.\nHe said the town has installed so many ALPR devices that, “We’ve built a geo-fence around Bloomfield.”\nRicci was one of 17 police reps from Essex County who gathered outside borough hall as Rep. Mikie Sherrill presented a ceremonial check to support the effort. Like many House members this week, Sherrill is traveling her district to award funds for what are called community funding projects. Years ago, they were called “earmarks,” but that term fell out of favor and a new one emerged.\nThere is no denying the problem. More than 16,000 vehicles in New Jersey were reported stolen last year, a slight rise over 2022.\nCompared to the nation as a whole, automobile thefts in New Jersey at 174 per 100,000 people ranked 39th in the nation.\nStats, of course, are cold comfort to those who find their vehicle “disappear.”\nWhen the surge in car thefts was first realized a few years ago, police said part of the problem was complacency – especially in the suburbs. They said too many people were not locking their vehicle or leaving their keys in the car.\nKarl W. Strodthoff, the police chief in North Caldwell, says people have gotten the message. Those mistakes have stopped.\nBut that has led to a greater problem – thieves breaking into a house in hopes of finding car keys on the kitchen table.\nNo matter how vehicles are stolen, there’s general agreement that many of the perpetrators are minors, some as young as 14 or 15.\nThat is no coincidence. Even when caught, penalties for juveniles, who police say are working for others, generally end up in family court, where penalties are quite minor.\nFixing this is a problem for the state Legislature. But as of now, that has not happened.\n(Visited 1,090 times, 3 visits today)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Social Issue", "Crime, Law and Justice", "Human Interest"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "caldwell",
+        "sentiment": "negative"
+      },
+      {
+        "name": "josh raymond",
+        "sentiment": "negative"
+      },
+      {
+        "name": "ricci",
+        "sentiment": "none"
+      },
+      {
+        "name": "george ricci",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "essex",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "essex county",
+        "sentiment": "none"
+      },
+      {
+        "name": "bloomfield",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:32:49.455+03:00",
+  "updated": "2024-05-03T21:43:09.478+03:00"
+}

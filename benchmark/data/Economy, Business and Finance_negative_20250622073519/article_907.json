@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "09cfbc75e70d1156a485acf4f594f51c89557421",
+    "url": "https://www.businesslive.co.za/fm/money-and-investing/2025-06-19-the-finance-ghost-temu-and-shein-raise-risk-for-local-retailers",
+    "site_full": "www.businesslive.co.za",
+    "site": "businesslive.co.za",
+    "site_section": "https://www.businesslive.co.za",
+    "site_categories": ["social", "top_news_za", "top_news"],
+    "section_title": "BusinessLIVE - Latest news and analysis from SA's business sector",
+    "site_title": "BusinessLIVE - Latest news and analysis from SA's business sector",
+    "title": "THE FINANCE GHOST: Temu and Shein raise risk for local retailers",
+    "title_full": "THE FINANCE GHOST: Temu and Shein raise risk for local retailers",
+    "published": "2025-06-19T06:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ZA",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 11640,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 15
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "09cfbc75e70d1156a485acf4f594f51c89557421",
+  "url": "https://www.businesslive.co.za/fm/money-and-investing/2025-06-19-the-finance-ghost-temu-and-shein-raise-risk-for-local-retailers",
+  "ord_in_thread": 0,
+  "author": "THE FINANCE GHOST",
+  "published": "2025-06-19T06:00:00.000+03:00",
+  "title": "THE FINANCE GHOST: Temu and Shein raise risk for local retailers",
+  "text": "Money & Investing THE GHOST TRAIN THE FINANCE GHOST: Temu and Shein raise risk for local retailers South Africa is likely to be targeted for greater consumption by China’s budget-friendly online marketplaces B L Premium 19 June 2025 - 05:00 by THE FINANCE GHOST",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Social Issue",
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Economy, Business and Finance->consumer goods",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->financial and economic news",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.pinterest.com/pin/create/button/",
+    "https://pinterest.com/pin/create/button/",
+    "https://www.pinterest.com/pin/create/button"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Shein",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Temu",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Africa",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_za", "top_news"],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:42:07.950+03:00",
+  "updated": "2025-06-20T05:04:58.000+00:00"
+}

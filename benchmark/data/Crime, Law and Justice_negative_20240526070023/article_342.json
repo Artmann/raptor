@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "7d380bef1aae892d9f72cf79864294449977af4c",
+    "url": "https://newsinfo.inquirer.net/1933895/nbi-to-investigate-marcos-deepfake-audio-recording",
+    "site_full": "newsinfo.inquirer.net",
+    "site": "inquirer.net",
+    "site_section": "https://newsinfo.inquirer.net",
+    "site_categories": ["media", "top_news"],
+    "section_title": "Philippines Top Stories: Politics, Environment, Education, Trending | Inquirer.net",
+    "title": "NBI to investigate Marcos deepfake audio recording",
+    "title_full": "NBI to investigate Marcos deepfake audio recording",
+    "published": "2024-04-26T00:10:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PH",
+    "main_image": "https://newsinfo.inquirer.net/files/2024/02/DOJ-Chief-Crispin-Remulla-26sept2023.jpg",
+    "performance_score": 0,
+    "domain_rank": 2374,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7d380bef1aae892d9f72cf79864294449977af4c",
+  "url": "https://newsinfo.inquirer.net/1933895/nbi-to-investigate-marcos-deepfake-audio-recording",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Philippine Daily Inquirer",
+  "published": "2024-04-26T00:10:00.000+03:00",
+  "title": "NBI to investigate Marcos deepfake audio recording",
+  "text": "FILE PHOTO: Justice Secretary Jesus Crispin Remulla. Photo from DOJ’s Facebook page / Boying Remulla\nJustice Secretary Jesus Crispin Remulla on Thursday directed the National Bureau of Investigation to look into the circulating deepfake audio recording of President Ferdinand Marcos Jr. supposedly ordering the military to attack China.\nIn a statement, Remulla told the NBI to file the necessary legal action, if warranted, against those behind the manipulated digital content.\nADVERTISEMENT The Department of Justice said the directive to the NBI stemmed from the report of the Presidential Communications Office and Department of Information and Communications Technology about an audio recording of Marcos that was maliciously manipulated and edited using artificial intelligence.\nThe video, uploaded on a popular streaming site and shared on various social media platforms, contained a caption that read: “Atakehin ang China! Inutos na atakehin, PBBM may go-signal na (Attack China! Order to attack has PBBM’s go-signal).” — JANE BAUTISTA\nYour subscription could not be saved. Please try again.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "jesus crispin remulla",
+        "sentiment": "negative"
+      },
+      {
+        "name": "marcos",
+        "sentiment": "negative"
+      },
+      {
+        "name": "boying remulla",
+        "sentiment": "negative"
+      },
+      {
+        "name": "jane bautista",
+        "sentiment": "none"
+      },
+      {
+        "name": "ferdinand marcos jr.",
+        "sentiment": "none"
+      },
+      {
+        "name": "remulla",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "nbi",
+        "sentiment": "negative"
+      },
+      {
+        "name": "justice",
+        "sentiment": "negative"
+      },
+      {
+        "name": "doj",
+        "sentiment": "negative"
+      },
+      {
+        "name": "national bureau of investigation",
+        "sentiment": "none"
+      },
+      {
+        "name": "department of justice",
+        "sentiment": "none"
+      },
+      {
+        "name": "presidential communications office and department of information and communications technology",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "china",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:13:55.792+03:00",
+  "updated": "2024-04-26T00:13:55.792+03:00"
+}

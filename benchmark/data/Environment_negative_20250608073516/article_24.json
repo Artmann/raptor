@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "ae3f681d20d04058731f345779635af6841c127a",
+    "url": "https://mynewsla.com/riverside/2025/05/07/temperatures-to-hit-triple-digits-across-inland-region-this-weekend",
+    "site_full": "mynewsla.com",
+    "site": "mynewsla.com",
+    "site_section": "https://news.google.com/search?q=this%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "Home - MyNewsLA.com",
+    "title": "Heat Wave Heads to Inland Empire This Weekend",
+    "title_full": "Heat Wave Heads to Inland Empire This Weekend",
+    "published": "2025-05-08T00:42:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://mynewsla.com/wp-content/uploads/2022/04/jeremy-bezanger-7kXgOQGhtWE-unsplash-1-scaled.jpg",
+    "performance_score": 0,
+    "domain_rank": 27615,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ae3f681d20d04058731f345779635af6841c127a",
+  "url": "https://mynewsla.com/riverside/2025/05/07/temperatures-to-hit-triple-digits-across-inland-region-this-weekend",
+  "ord_in_thread": 0,
+  "author": "Contributing Editor",
+  "published": "2025-05-08T00:42:00.000+03:00",
+  "title": "Heat Wave Heads to Inland Empire This Weekend",
+  "text": "The mercury is forecast to climb into triple digits in parts of the Inland Empire this weekend, potentially setting records, according to the National Weather Service\nThe agency said a ridge of high pressure currently spinning off the Northern California coast will make its way south by Friday night, impacting all of Southern California for the weekend, fueling temps expected to be 15 to 20 degrees above average for this time of year.\n“On Saturday, there could be several record warm minimum temperature records for the date that are tied or broken, with at least a few record warm maximum temperature records tied or broken as well,” the NWS said in a statement. “Heat impacts for Saturday are most likely for the lower deserts and valleys.”\nNo heat advisories had been issued by the weather service as of Wednesday.\nHighs in the Riverside metropolitan area Saturday may touch 100 degrees, with lows in the mid-60s, followed by a high on Sunday of 90 and an overnight low of 60.\nIn the Coachella Valley, the daytime mercury Saturday is forecast to reach 105, dipping to the upper 70s at night, with a similar temperature band Sunday.\nThe Temecula Valley’s highs Saturday will peak in the mid-90s, with lows in the low 60s, and on Sunday, a high of 85 will yield to a low of 55 after dark, according to the NWS.\nMeteorologists said the high pressure will give way to several low pressure troughs starting Monday, leading to a gradual cooling trend, a return of deep marine layers over the western half of the inland region and the possibility of light rain next week.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Weather", "Environment", "Health"],
+  "topics": [
+    "Weather->weather forecast",
+    "Weather->weather warning",
+    "Environment->global warming",
+    "Environment->climate change",
+    "Environment->energy resources",
+    "Health->medical condition",
+    "Health->public health",
+    "Health->government health care"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Northern",
+        "sentiment": "none"
+      },
+      {
+        "name": "Southern",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "National Weather Service",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "NWS",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T01:04:56.700+03:00",
+  "updated": "2025-05-07T22:14:05.000+00:00"
+}

@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "fffb6ffc9f23866af8f138b03660162037a314c7",
+    "url": "https://www.lajornadadeoriente.com.mx/puebla/se-reactiva-incendio-en-otzolotepec-luego-de-que-se-creyo-que-habia-sido-sofocado",
+    "site_full": "www.lajornadadeoriente.com.mx",
+    "site": "lajornadadeoriente.com.mx",
+    "site_section": "https://lajornadadeoriente.com.mx",
+    "site_categories": ["media"],
+    "section_title": "La Jornada de Oriente - Puebla",
+    "site_title": "A la hora de la verdad, La Jornada de Oriente - Puebla",
+    "title": "Se reactiva incendio en Otzolotepec, luego de que se creyó que había sido sofocado",
+    "title_full": "Se reactiva incendio en Otzolotepec, luego de que se creyó que había sido sofocado",
+    "published": "2025-05-08T02:31:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://www.lajornadadeoriente.com.mx/wp-content/uploads/2025/05/camino-Xalitzintla-1365-x-768-px-18.jpg",
+    "performance_score": 0,
+    "domain_rank": 173002,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fffb6ffc9f23866af8f138b03660162037a314c7",
+  "url": "https://www.lajornadadeoriente.com.mx/puebla/se-reactiva-incendio-en-otzolotepec-luego-de-que-se-creyo-que-habia-sido-sofocado",
+  "ord_in_thread": 0,
+  "author": "Elizabeth Rodríguez Lezama",
+  "published": "2025-05-08T02:31:00.000+03:00",
+  "title": "Se reactiva incendio en Otzolotepec, luego de que se creyó que había sido sofocado",
+  "text": "Tehuacán. Luego de tres días activo finalmente se logró sofocar el incendio en San Juan Atzingo , junta auxiliar de San Gabriel Chilac , que consumió más de 30 hectáreas de esa zona, mientras tanto el de Santa Catarina Otzolotepec , perteneciente a este municipio s e reactivó esta tarde, luego de que se había declarado sofocado ayer , en este segundo la afectación en su primera etapa fue de 35 hectáreas devastadas.\nA menos de 24 horas de haber informado que el incendio en el cerro el Mixteco de Otzolotepec se había logrado sofocar , los habitantes alertaron sobre la reactivación de las llamas, al parecer por los fuertes vientos que corren en esa zona ubicada en la Sierra Negra , por lo que pidieron nuevamente ayuda tanto a las dependencias como a los habitantes de la región para hacer frente al siniestro.\nDurante dos días la gente de esa comunidad recibió el apoyo del Ejército Mexicano, la Comisión Nacional Forestal, la Secretaría del Medio Ambiente y Recursos Naturales (Semarnat), Protección Civil y Bomberos de Vicente Guerrero, sus similares de Tehuacán y pobladores de Rancho Cabras, Rancho Nuevo, San Bernardino Lagunas, Cutlashtepec, Tecuaque y Ahuatlampa que se sumaron a las brigadas.\nLuego de haber conseguido el objetivo se determinó por parte de los pobladores realizar rondines de vigilancia en la zona afectada para mantenerla monitoreada y de ese modo poder alertar de inmediato en caso de cualquier riesgo, fue de ese modo como la tarde de este miércoles se percataron de que nuevamente había fuego en esa parte del cerro, por lo que de inmediato pidieron ayuda.\nCon el fin de impedir que el siniestro se extienda, vecinos de la comunidad comenzaron a organizarse para emprender el ascenso a la zona, mientras se espera que en breve puedan arribar las brigadas de dependencias estatales, federales y del municipio para auxiliarles y de ese modo evitar que el daño sea mayor a las 35 hectáreas que ya se afectaron en días pasados.\nSegún lo que se informó, todo indica que la caída de rayos generó el fuego tanto en el incendio de Santa Catarina , como en el caso de San Juan Atzingo , de modo que se descarta que hayan sido provocados por personas. Sin embargo, las autoridades hicieron un llamado para que las personas que visiten esas zonas eviten dejar basura o cualquier tipo de objeto o producto que pueda contribuir a generar un siniestro de ese tipo.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Environment"],
+  "topics": [
+    "Disaster and Accident->fire",
+    "Environment->environmental pollution",
+    "Environment->conservation",
+    "Environment->sustainability"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://x.com/SEMARNAT_mx",
+    "https://maps.app.goo.gl/g4EUeiqooVt7GjfG8",
+    "https://www.x.com/SEMARNAT_mx",
+    "https://www.maps.app.goo.gl/g4EUeiqooVt7GjfG8"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Atzingo",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Comisión Nacional Forestal",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Ejército Mexicano",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:24:53.927+03:00",
+  "updated": "2025-05-08T00:30:23.000+00:00"
+}

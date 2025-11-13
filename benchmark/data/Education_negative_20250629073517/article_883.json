@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "16e5de891c4399fbac95c8cdea6b9e34547788e7",
+    "url": "https://bnn.de/nachrichten/baden-wuerttemberg/archaeologiestudent-bei-ausgrabung-verschuettet-anklage",
+    "site_full": "bnn.de",
+    "site": "bnn.de",
+    "site_section": "https://bnn.de/feed",
+    "site_categories": ["travel"],
+    "section_title": "Home &#8211; Badische Neueste Nachrichten",
+    "site_title": "Badische Neueste Nachrichten - Ihre regionale Tageszeitung für Karlsruhe und Umgebung",
+    "title": "Archäologiestudent bei Ausgrabung verschüttet - Anklage",
+    "title_full": "Archäologiestudent bei Ausgrabung verschüttet - Anklage",
+    "published": "2025-06-26T14:34:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://bnn.de/img/15344459/8J9h9ajvpahiiW1wZPKQlA/urn-newsml-dpacom-20090101-250626-935-674873?size=1400&format=jpeg&variant=LANDSCAPE_16x9",
+    "performance_score": 0,
+    "domain_rank": 30878,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "16e5de891c4399fbac95c8cdea6b9e34547788e7",
+  "url": "https://bnn.de/nachrichten/baden-wuerttemberg/archaeologiestudent-bei-ausgrabung-verschuettet-anklage",
+  "ord_in_thread": 0,
+  "author": "dpa",
+  "published": "2025-06-26T14:34:00.000+03:00",
+  "title": "Archäologiestudent bei Ausgrabung verschüttet - Anklage",
+  "text": "Nachdem ein 21 Jahre alter Archäologiestudent bei Ausgrabungsarbeiten in Leimen (Rhein-Neckar-Kreis) im November 2023 verschüttet worden und gestorben ist, hat die Staatsanwaltschaft Heidelberg Anklage erhoben. Sechs Menschen, darunter ein Architekt und ein Bauleiter, werde fahrlässige Tötung vorgeworfen, teilte die Anklagebehörde mit. „Die Angeschuldigten stehen im Verdacht, dass sie die tödliche Verschüttung des Geschädigten hätten vorhersehen und vermeiden können.“\nDer 21-Jährige hatte demnach am Boden eines historischen Steingewölbekellers gearbeitet, als Steine von der Decke fielen und den jungen Mann unter sich begruben. Direkt nach dem Unglück war der Verschüttete mit einem Bagger geborgen worden. Wiederbelebungsversuche von Rettungskräften blieben ohne Erfolg. Er starb den Angaben zufolge später im Krankenhaus.\nMauerreste an der Decke wurden nicht entfernt\nWie die Staatsanwaltschaft mitteilte, waren im Rahmen von Bauarbeiten zum Neubau einer Tiefgarage Gruben ausgehoben worden. In diesen seien anschließend archäologische Grabungsarbeiten durchgeführt worden. Mindestens zwei Wochen vor dem Unglück sei dabei ein rund drei Meter tiefer historischer Steingewölbekeller ausgehoben worden. Dabei seien allerdings „überhängende Reste eines Gewölbemauerwerks an der Nord- und Südseite des Kellers erhalten“ geblieben.\n„Dadurch bestand jederzeit die Gefahr, dass die noch vorhandenen Gewölbereste einstürzen und Personen verschütten könnten“, schrieb die Anklagebehörde. „Der Keller hätte daher ohne die erforderlichen Absicherungsmaßnahmen zu keinem Zeitpunkt durch Personen betreten werden dürfen.“ Am Nachmittag des 27. November arbeitete trotzdem unter anderem der junge Mann in dem Bereich, als sich ein Gewölberest rund vier Meter über ihm löste und ihn unter sich begrub.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Human Interest", "Education"],
+  "topics": [
+    "Human Interest->human mishap",
+    "Education->college and university",
+    "Education->students",
+    "Education->vocational education"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Rhein-Neckar-Kreis",
+        "sentiment": "none"
+      },
+      {
+        "name": "Leimen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Staatsanwaltschaft Heidelberg",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T15:28:58.333+03:00",
+  "updated": "2025-06-26T12:33:03.000+00:00"
+}

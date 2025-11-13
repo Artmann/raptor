@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "a7cc9a33dcc4a7213bd8e2a163cfa37094296f0a",
+    "url": "https://www.newsbreak.com/boston-25-news-wfxt-523003/3996480131871-boaters-beware-that-water-is-colder-than-you-think-nh-officials-say",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/boston-25-news-wfxt-523003",
+    "site_categories": ["under_construction"],
+    "section_title": "Boston 25 News WFXT&#x27;s Home Page | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Boaters beware: That water is colder than you think, NH officials say - NewsBreak",
+    "title_full": "Boaters beware: That water is colder than you think, NH officials say - NewsBreak",
+    "published": "2025-05-08T02:11:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/1eWFvL_10vx4kaO00",
+    "performance_score": 0,
+    "domain_rank": 3115,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a7cc9a33dcc4a7213bd8e2a163cfa37094296f0a",
+  "url": "https://www.newsbreak.com/boston-25-news-wfxt-523003/3996480131871-boaters-beware-that-water-is-colder-than-you-think-nh-officials-say",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T02:11:00.000+03:00",
+  "title": "Boaters beware: That water is colder than you think, NH officials say - NewsBreak",
+  "text": "Boaters beware. That water is colder than you think. That’s the message from New Hampshire State Police Marine Patrol as boating season begins in the Granite State. While the air may feel warm, water temperatures in lakes, rivers, and coastal areas remain dangerously cold during the spring and early summer months, officials said. Even on a sunny day, immersion in cold water can lead to shock, hypothermia, and drowning in just minutes, officials said. The risk is especially high in New Hampshire, where water temperatures often remain below 60°F well into June. Many may underestimate the dangers of cold-water immersion. Falling into cold water can impair muscle function, limit the ability to swim, and quickly become life-threatening, even for strong swimmers. To stay safe on the water this season, Marine Patrol urges boaters to take these precautions: “Marine Patrol will be actively patrolling New Hampshire’s waterways to ensure compliance with boating laws and to educate residents and visitors about safe practices,” state police said. Boaters are encouraged to take a boating safety course and review the state’s boating regulations available at this website . This is a developing story. Check back for updates as more information becomes available. Download the FREE Boston 25 News app for breaking news alerts. Follow Boston 25 News on Facebook and Twitter . | Watch Boston 25 News NOW",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Social Issue", "Health", "Environment"],
+  "topics": [
+    "Social Issue->adults",
+    "Social Issue->social condition",
+    "Health->public health",
+    "Health->injury",
+    "Health->emergency care",
+    "Environment->water",
+    "Environment->nature"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.nhsp.dos.nh.gov/our-services/field-operations-bureau/marine-patrol/boating-education",
+    "https://www.boston25news.com/news/local/have-new-device-get-our-free-boston-25-news-weather-apps/PDC6X7UKOFDBVPV5YJHG3CX36I/",
+    "https://twitter.com/boston25",
+    "https://www.boston25news.com/video/live-stream/",
+    "https://www.facebook.com/Boston25News/",
+    "https://www.boston25news.com/video/live-stream",
+    "https://facebook.com/Boston25News/",
+    "https://www.boston25news.com/news/local/have-new-device-get-our-free-boston-25-news-weather-apps/PDC6X7UKOFDBVPV5YJHG3CX36I",
+    "https://nhsp.dos.nh.gov/our-services/field-operations-bureau/marine-patrol/boating-education",
+    "https://www.twitter.com/boston25",
+    "https://boston25news.com/video/live-stream/",
+    "https://www.facebook.com/Boston25News",
+    "https://boston25news.com/news/local/have-new-device-get-our-free-boston-25-news-weather-apps/PDC6X7UKOFDBVPV5YJHG3CX36I/"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Marine Patrol",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:55:33.095+03:00",
+  "updated": "2025-05-08T02:00:33.000+00:00"
+}

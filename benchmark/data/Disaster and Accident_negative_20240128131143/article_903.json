@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "75be7b194d4b42028124174725aea042c09a178f",
+    "url": "https://www.wlky.com/article/7th-street-road-shively-closed-large-gas-main-break/46246065",
+    "site_full": "www.wlky.com",
+    "site": "wlky.com",
+    "site_section": "https://wlky.com/local-news",
+    "site_categories": ["media"],
+    "section_title": "Local Louisville Breaking News and Live Alerts - WLKY News Louisville",
+    "title": "Police: 7th Street Road in Shively closed due to large gas main break",
+    "title_full": "Police: 7th Street Road in Shively closed due to large gas main break",
+    "published": "2023-12-29T01:08:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/police-generic-1583437519.jpg?crop=1.00xw:1.00xh;0,0&amp;resize=1200:*",
+    "performance_score": 0,
+    "domain_rank": 16268,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "75be7b194d4b42028124174725aea042c09a178f",
+  "url": "https://www.wlky.com/article/7th-street-road-shively-closed-large-gas-main-break/46246065",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Matthew Keck",
+  "published": "2023-12-29T01:08:00.000+02:00",
+  "title": "Police: 7th Street Road in Shively closed due to large gas main break",
+  "text": "7th Street Road in Shively back open after large gas main break Advertisement 7th Street Road in Shively back open after large gas main break UPDATE: Police say the roadway has been reopened as of 6:22 p.m. Partial lane closures are expected while repairs are made.A large gas main break is causing a portion of S 7th Street Road to be closed Thursday evening.Shively police said that 7th Street Road between Arcade Avenue and Wathen Lane is closed. The roadway is closed going both north and south.Police are asking people to avoid the area. They said they don't expect to have to evacuate anyone.LG&E is on the scene handling the break.Officials have not said what caused the break or how long the road will be closed.This story may be updated. SHIVELY, Ky. — UPDATE: Police say the roadway has been reopened as of 6:22 p.m. Partial lane closures are expected while repairs are made. UPDATE: Police say the roadway has been reopened as of 6:22 p.m. Partial lane closures are expected while repairs are made. Advertisement A large gas main break is causing a portion of S 7th Street Road to be closed Thursday evening. Shively police said that 7th Street Road between Arcade Avenue and Wathen Lane is closed. The roadway is closed going both north and south. Police are asking people to avoid the area. They said they don't expect to have to evacuate anyone. LG&E is on the scene handling the break. Officials have not said what caused the break or how long the road will be closed. This story may be updated.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident",
+    "Human Interest",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "shively",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "lg&e",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "ky.",
+        "sentiment": "none"
+      },
+      {
+        "name": "arcade avenue",
+        "sentiment": "none"
+      },
+      {
+        "name": "shively",
+        "sentiment": "none"
+      },
+      {
+        "name": "wathen lane",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:26:39.871+02:00",
+  "updated": "2023-12-29T01:35:08.105+02:00"
+}

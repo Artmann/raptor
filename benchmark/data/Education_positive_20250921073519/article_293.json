@@ -1,0 +1,140 @@
+{
+  "thread": {
+    "uuid": "2ff1fe79793ceb167b7eec04c490090e2c2f53c2",
+    "url": "https://www.wlox.com/video/2025/09/17/diberville-highs-robot-dog-visits-north-woolmarket-middle-robotics-class/",
+    "site_full": "www.wlox.com",
+    "site": "wlox.com",
+    "site_section": "https://www.wlox.com/video-gallery/news",
+    "site_categories": ["television", "entertainment"],
+    "section_title": "News",
+    "site_title": "WLOX | Biloxi, Gulfport, Pascagoula, MS",
+    "title": "D'Iberville High's robot dog visits North Woolmarket Middle robotics class",
+    "title_full": "D'Iberville High's robot dog visits North Woolmarket Middle robotics class",
+    "published": "2025-09-18T01:53:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-wlox-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-17-2025%2Ft_a26efdc1f92a463d9cc9583762d11ee7_name_file_1280x720_2000_v3_1_.jpg?auth=cc0c174097b2bd573a5b6d160d987ccf238d3f33cb2bcc4104d6e32477c2677f&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 60184,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2ff1fe79793ceb167b7eec04c490090e2c2f53c2",
+  "url": "https://www.wlox.com/video/2025/09/17/diberville-highs-robot-dog-visits-north-woolmarket-middle-robotics-class/",
+  "ord_in_thread": 0,
+  "author": "@WLOX",
+  "published": "2025-09-18T01:53:00.000+03:00",
+  "title": "D'Iberville High's robot dog visits North Woolmarket Middle robotics class",
+  "text": "Updated: 6 hours ago\n|Chief Meteorologist Eric Jeansonne has a look at your upcoming forecast, expecting nice mornings and hot afternoons to continue. Plus, a look at the tropics.\nUpdated: 6 hours ago\n|Wednesday marks the beginning of Constitution Week, and Coast residents made sure to ring in the celebration. Local Daughters of the American Revolution chapters gathered at Centennial Plaza in Gulfport, honoring the U.S. Constitution.\nUpdated: 6 hours ago\n|Students at Biloxi High School are joining a nationwide effort to raise awareness for suicide prevention. Wednesday morning, students wore green and posed for a photo in support of National Suicide Prevention Month.\nUpdated: 6 hours ago\n|The Stone County Fair opened its doors Wednesday, and the weather is beautiful — just ask Meteorologist Aaron Colby, who joins us live from the fairgrounds.\nUpdated: 6 hours ago\n|A chance to honor those who served in our nation's military... Bill Snyder shows why the Saluting Branches Day of Service means so much to so many.\nUpdated: 7 hours ago\n|By Eric Jeansonne\nEric's First Alert Forecast Sept 17, 2025",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Science and Technology", "Social Issue"],
+  "topics": [
+    "Education->teachers",
+    "Education->students",
+    "Science and Technology->scientific exploration",
+    "Science and Technology->social sciences",
+    "Science and Technology->technology and engineering",
+    "Social Issue->children",
+    "Social Issue->communities",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Eric Jeansonne\nEric",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Aaron Colby",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bill Snyder",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "National Suicide Prevention Month",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Biloxi High School",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Vancleave",
+        "Hurley",
+        "Long Beach",
+        "Gulfport",
+        "Moss Point",
+        "Gautier",
+        "Waveland",
+        "Pascagoula",
+        "Pass Christian",
+        "Redwater",
+        "Ocean Springs",
+        "Biloxi",
+        "Bay St. Louis",
+        "D'Iberville",
+        "Leakesville",
+        "St. Martin",
+        "Kiln",
+        "West",
+        "Latimer"
+      ],
+      "state": ["Mississippi"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:05:19.942+03:00",
+  "updated": "2025-09-18T08:12:09.000+03:00"
+}

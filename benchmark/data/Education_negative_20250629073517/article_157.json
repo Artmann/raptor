@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "40523a2cf535556007eeaa236835f50f29492fad",
+    "url": "https://www.moz.de/lokales/eberswalde/schule-in-eberswalde-kampf-um-ihren-lehrer-schueler-vom-osz-ziehen-vor-kreistag-78143041.html",
+    "site_full": "www.moz.de",
+    "site": "moz.de",
+    "site_section": "https://moz.de/lokales/seelow",
+    "site_categories": ["media", "top_news_de", "top_news"],
+    "section_title": "Seelow | moz.de",
+    "site_title": "Startseite | moz.de",
+    "title": "Schule in Eberswalde: Kampf um ihren Lehrer - Schüler vom OSZ ziehen vor Kreistag",
+    "title_full": "Schule in Eberswalde: Kampf um ihren Lehrer - Schüler vom OSZ ziehen vor Kreistag",
+    "published": "2025-06-26T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://cdn.moz.de/2025/06/24/ab510aa2-d9e5-4671-bee0-62a038bda219.jpeg?width=1200&crop=2016%2C1134%2C0%2C189&format=webp&token=a8c6634df6343f19edd00fa95c2cf1bd1d7346acfdaafd475dd566453f9ed6a7",
+    "performance_score": 0,
+    "domain_rank": 25944,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "40523a2cf535556007eeaa236835f50f29492fad",
+  "url": "https://www.moz.de/lokales/eberswalde/schule-in-eberswalde-kampf-um-ihren-lehrer-schueler-vom-osz-ziehen-vor-kreistag-78143041.html",
+  "ord_in_thread": 0,
+  "author": "Pamela Kaethner",
+  "published": "2025-06-26T08:00:00.000+03:00",
+  "title": "Schule in Eberswalde: Kampf um ihren Lehrer - Schüler vom OSZ ziehen vor Kreistag",
+  "text": "Schule in Eberswalde: Kampf um ihren Lehrer – Schüler vom OSZ ziehen vor Kreistag\nDie Schüler des beruflichen Gymnasiums am OSZ in Eberswalde kämpfen für ihren Abteilungsleiter und für Mitbestimmung. Im Kreistag finden sie Gehör, doch gibt es auch eine Lösung?\nEberswalde\nEin Artikel von",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->vocational education",
+    "Education->students",
+    "Education->teachers",
+    "Social Issue->social condition",
+    "Social Issue->communities",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Eberswalde",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "OSZ",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T09:12:55.281+03:00",
+  "updated": "2025-06-27T07:05:57.000+00:00"
+}

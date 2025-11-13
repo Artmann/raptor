@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "d270b141ea343e06a5f020e06bfd7d038962cf5a",
+    "url": "https://e.vnexpress.net/news/news/education/the-2026-rankings-reveal-nearly-2-200-universities-marking-record-global-growth-4939839.html",
+    "site_full": "e.vnexpress.net",
+    "site": "vnexpress.net",
+    "site_section": "https://e.vnexpress.net/news/news/education",
+    "site_categories": [
+      "media",
+      "top_news_fi",
+      "top_news_vn",
+      "top_news_au",
+      "top_news_sg",
+      "top_news_ph",
+      "top_news_ca",
+      "top_news_my",
+      "top_news_us",
+      "top_news"
+    ],
+    "section_title": "Education in Vietnam: latest news, issues, policies... - VnExpress International",
+    "site_title": "VnExpress International - Latest Vietnam news, business, sports, life, travel reviews and analyses from VnExpress, Vietnam’s leading news website",
+    "title": "THE 2026 rankings reveal nearly 2,200 universities, marking record global growth",
+    "title_full": "THE 2026 rankings reveal nearly 2,200 universities, marking record global growth",
+    "published": "2025-09-18T07:01:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "VN",
+    "main_image": "https://vcdn1-english.vnecdn.net/2025/09/16/yale-1758014651-1758014697-2552-1758014768.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=b-OUIfc6mD5ttnKF8MHrVg",
+    "performance_score": 0,
+    "domain_rank": 1169,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "shares": 3
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d270b141ea343e06a5f020e06bfd7d038962cf5a",
+  "url": "https://e.vnexpress.net/news/news/education/the-2026-rankings-reveal-nearly-2-200-universities-marking-record-global-growth-4939839.html",
+  "ord_in_thread": 0,
+  "author": "17 227",
+  "published": "2025-09-18T07:01:00.000+03:00",
+  "title": "THE 2026 rankings reveal nearly 2,200 universities, marking record global growth",
+  "text": "THE announced last weekend that this will be the second time that more than 2,000 institutions are ranked.\nThese universities are from 115 countries and territories. The U.S. leads with the most universities ranked, with 171 institutions. India ranks second with 128 universities.\nThe other top five countries with over 100 ranked universities are Japan, the U.K., and Turkey. This year, Libya, Senegal, and Yemen are new entries, each with one university ranked.\nTHE views this as a sign of growing research capabilities and internationalization in higher education.\n\"It is wonderful to see that the exciting increase in research capacity and internationalization in higher education means that more universities across the world – particularly the developing world – are now eligible to enter THE's 'gold standard' world rankings, and that more are choosing to put themselves forward for rigorous, independent performance benchmarking to support their development,\" Phil Baty, THE's chief global affairs officer, was quoted by the publication as saying.\nThe number of universities ranked in the THE World University Rankings through the years. Graphics by THE |\nTHE is one of the largest ranking organizations globally, alongside Quacquarelli Symonds (QS), the Center for World University Rankings (CWUR), and the Shanghai Academic Ranking of World Universities (ARWU).\nThe rankings are based on data collected by THE itself, along with surveys and information provided by the universities. To qualify, universities must offer undergraduate courses, conduct research in multiple fields, and have published at least 1,000 research papers between 2020 and 2024.\nIn the THE rankings, universities are assessed based on 18 criteria divided into five categories: Teaching (learning environment) accounting for 30%; Research (environment, volume, and reputation) 35%; Citations (impact of research) 33%; International Outlook (faculty and students), and Industry Income (innovation).\nYale University. Photo from the university's Facebook |\nTHE is expected to release the 2026 World University Rankings on Oct. 9.\nLast year, the University of Oxford in the U.K. ranked first, marking its 9th consecutive year at the top. It was followed by the Massachusetts Institute of Technology (MIT) in the U.S.\nThe rest of the top 10 universities were from the U.K. and the U.S., including Harvard, Princeton, Cambridge, Stanford, Caltech, California Berkeley, Imperial College London, and Yale.\nVietnam had nine universities in the rankings, with the University of Economics Ho Chi Minh City leading the way, ranked between 501-600, and the rest between 601 and 1501+.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Economy, Business and Finance", "Social Issue"],
+  "topics": [
+    "Education->students",
+    "Education->college and university",
+    "Education->educational grading",
+    "Economy, Business and Finance->business reporting and performance",
+    "Economy, Business and Finance->human resources",
+    "Social Issue->population and census",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Phil Baty",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Libya",
+        "sentiment": "none"
+      },
+      {
+        "name": "U.K.",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_fi",
+      "top_news_vn",
+      "top_news_au",
+      "top_news_sg",
+      "top_news_ph",
+      "top_news_ca",
+      "top_news_my",
+      "top_news_us",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:46:48.416+03:00",
+  "updated": "2025-09-19T09:08:51.000+03:00"
+}

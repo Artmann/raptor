@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "1f92d6570f181925437e9c422ffab5b0d2370572",
+    "url": "https://www.europapress.es/andalucia/malaga-00356/noticia-microclimas-diputacion-malaga-fundacion-unicaja-concede-diez-subvenciones-entidades-medioambientales-20251016135532.html",
+    "site_full": "www.europapress.es",
+    "site": "europapress.es",
+    "site_section": "https://europapress.es/sociedad",
+    "site_categories": ["media", "top_news_es", "top_news_pe", "top_news"],
+    "section_title": "\r\n\tNoticias sociales de hoy | EUROPA PRESS\r\n",
+    "site_title": "Europa Press -  Agencia de noticias",
+    "title": "'Microclimas' de Diputación de Málaga y Fundación Unicaja concede diez subvenciones a entidades medioambientales",
+    "title_full": "'Microclimas' de Diputación de Málaga y Fundación Unicaja concede diez subvenciones a entidades medioambientales",
+    "published": "2025-10-16T14:55:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://img.europapress.es/fotoweb/fotonoticia_20251016135532_1200.jpg",
+    "performance_score": 0,
+    "domain_rank": 4744,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1f92d6570f181925437e9c422ffab5b0d2370572",
+  "url": "https://www.europapress.es/andalucia/malaga-00356/noticia-microclimas-diputacion-malaga-fundacion-unicaja-concede-diez-subvenciones-entidades-medioambientales-20251016135532.html",
+  "ord_in_thread": 0,
+  "author": "Europa Press Andalucía",
+  "published": "2025-10-16T14:55:00.000+03:00",
+  "title": "'Microclimas' de Diputación de Málaga y Fundación Unicaja concede diez subvenciones a entidades medioambientales",
+  "text": "MÁLAGA 16 Oct. (EUROPA PRESS) -\nLa Diputación de Málaga y la Fundación Unicaja han hecho públicas las diez entidades que serán subvencionadas dentro del programa 'Microclimas' para desarrollar proyectos con soluciones innovadoras a los retos y desafíos que conlleva el cambio climático. La cuantía de las ayudas, de un máximo de 12.000 euros por proyecto, roza los 114.000 euros.\nEl vicepresidente de Infraestructura y Territorio Sostenible de la Diputación de Málaga, Cristóbal Ortega, que ha dado a conocer los proyectos subvencionados junto a Manuel Dorado, responsable de Deportes, Tiempo Libre, Medio Ambiente y Voluntariado de la Fundación Unicaja, ha explicado que \"hemos contado con medio centenar de candidaturas muy interesantes y de entidades que cuentan con una gran solvencia y experiencia en el ámbito medioambiental y de sostenibilidad\".\nPor su parte, Manuel Dorado, ha destacado que esta convocatoria \"refuerza el compromiso de Fundación Unicaja con la sostenibilidad y la protección del entorno a través de proyectos que tienen un impacto real en nuestra provincia y que nos ayudan a luchar contra los estragos del cambio climático en línea con los Objetivos de Desarrollo Sostenible y la Estrategia Andaluza de Medio Ambiente 2030\".\nLos ámbitos que abordan los proyectos seleccionados incluyen la eco-innovación, sensibilización y concienciación ciudadana; la consultoría estudios e investigaciones; proyectos sobre agua, residuos, sumideros naturales de CO2 y energía.\nEntre las empresas y autónomos, los proyectos subvencionados pertenecen a Antonio Miguel Moret Gómez, con un proyecto sobre 'Control biológico de plagas en zonas urbanas y agroforestales mediante refugios de murciélagos: innovación tecnológica y sostenibilidad'; HUB Terra Investigación y Tecnología, con su 'Estrategia de acción para la gestión de flora invasora y capacitación local en el ámbito de Colmenar'; Agrow Analytics, con 'Implementación de tecnología AGROW para la optimización del uso de agua en cultivos y la compensación de la huella hídrica en la Axarquía'; 3D Geospace, con su proyecto de 'Sensores de última generación para el mapeo de vegetación urbana y su impacto sobre el microclima'; y finalmente, Carmen Borrego Aguayo, con 'Gestión de los residuos orgánicos como lucha contra el cambio climático: compostaje comunitario y doméstico'.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": null,
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_es", "top_news_pe", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:03:57.724+03:00",
+  "updated": "2025-10-17T15:06:09.000+03:00"
+}

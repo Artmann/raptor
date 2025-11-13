@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "7082cb2bfaa8dc67e272e9e4dd710bf977f23653",
+    "url": "https://www.wect.com/2025/10/16/town-leland-receives-443k-grant-additions-sturgeon-creek-park/",
+    "site_full": "www.wect.com",
+    "site": "wect.com",
+    "site_section": "https://news.google.com/search?q=to%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "WECT TV6: News and Weather for Wilmington, NC",
+    "title": "Town of Leland receives $443K grant for additions to Sturgeon Creek Park",
+    "title_full": "Town of Leland receives $443K grant for additions to Sturgeon Creek Park",
+    "published": "2025-10-16T15:51:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://gray-wect-prod.gtv-cdn.com/resizer/v2/JAN5KTKZCBHEDARPONGD6IJKCY.bmp?auth=b254c582ff600f73ea57997e70257fca48cfa749801f6af4ff151da842336876&amp;width=1200&amp;height=600&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 50483,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7082cb2bfaa8dc67e272e9e4dd710bf977f23653",
+  "url": "https://www.wect.com/2025/10/16/town-leland-receives-443k-grant-additions-sturgeon-creek-park/",
+  "ord_in_thread": 0,
+  "author": "@wectnews",
+  "published": "2025-10-16T15:51:00.000+03:00",
+  "title": "Town of Leland receives $443K grant for additions to Sturgeon Creek Park",
+  "text": "Town of Leland receives $443K grant for additions to Sturgeon Creek Park\nLELAND, N.C. (WECT) - The Town of Leland has received a $443,108 grant to build a public boat dock and boardwalk at the future Sturgeon Creek Park.\nAccording to the town, the grant was awarded by the North Carolina Parks and Recreation Trust Fund (PARTF). PARTF grant is a matching program that requires the town to contribute half of the total project cost.\nThe dock and boardwalk are part of the Sturgeon Creek Park Master Plan and aim to expand recreational opportunities while also protecting the local marsh ecosystem, states the town.\n“An Americans with Disabilities Act-compliant boardwalk will guide visitors to the boat dock, reduce foot traffic in fragile areas, safeguard wildlife habitats, and ensure people of all abilities can enjoy the waterways and scenic views,” stated the town in a press release.\nOnce finished, Sturgeon Creek Park will be 78 acres and provide more access to outdoor activities.\nCopyright 2025 WECT. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->parks", "Environment->nature"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.townofleland.com/sites/default/files/uploads/PRCR/adopted-sturgeon-creek-park-master-plan_lowres.pdf",
+    "https://townofleland.com/sites/default/files/uploads/PRCR/adopted-sturgeon-creek-park-master-plan_lowres.pdf"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Oak Island",
+        "Wrightsboro",
+        "Watha",
+        "Northchase",
+        "Hightsville",
+        "Wilmington",
+        "Sunset Beach",
+        "Willington",
+        "Ogden",
+        "Winton",
+        "Porters Neck",
+        "Topsail Beach",
+        "Carolina Beach",
+        "Holden Beach",
+        "Bolivia",
+        "Leland",
+        "Surf City",
+        "Hampstead",
+        "Brunswick",
+        "Calabash",
+        "Wrightsville Beach",
+        "Kure Beach",
+        "Light Oak",
+        "North Topsail Beach",
+        "Ocean Isle Beach",
+        "Powellsville",
+        "Southport",
+        "Farmington",
+        "Shallotte"
+      ],
+      "state": ["North Carolina", "South Carolina"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:10:06.586+03:00",
+  "updated": "2025-10-16T16:25:50.000+03:00"
+}

@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "11d535582effa04cd8545f714fc2749501cd748a",
+    "url": "https://www.lyonmag.com/article/144965/canicule-lors-des-examens-scolaires-a-lyon-la-fcpe-du-rhone-alerte-sur-les-conditions-defavorables-pour-les-eleves",
+    "site_full": "www.lyonmag.com",
+    "site": "lyonmag.com",
+    "site_section": "https://www.lyonmag.com",
+    "site_categories": ["travel", "france", "top_news_fr", "top_news"],
+    "section_title": "Lyon Mag : l'actu de la Métropole de Lyon",
+    "site_title": "Lyon Mag : l'actu de la Métropole de Lyon",
+    "title": "Canicule lors des examens scolaires à Lyon : la FCPE du Rhône alerte sur les conditions défavorables pour les élèves",
+    "title_full": "Canicule lors des examens scolaires à Lyon : la FCPE du Rhône alerte sur les conditions défavorables pour les élèves",
+    "published": "2025-06-26T11:37:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://www.lyonmag.com/media/images/685d071687425-24294240527-bbff95337a-o.jpg",
+    "performance_score": 0,
+    "domain_rank": 58994,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "11d535582effa04cd8545f714fc2749501cd748a",
+  "url": "https://www.lyonmag.com/article/144965/canicule-lors-des-examens-scolaires-a-lyon-la-fcpe-du-rhone-alerte-sur-les-conditions-defavorables-pour-les-eleves",
+  "ord_in_thread": 0,
+  "author": "Lyon Mag",
+  "published": "2025-06-26T11:37:00.000+03:00",
+  "title": "Canicule lors des examens scolaires à Lyon : la FCPE du Rhône alerte sur les conditions défavorables pour les élèves",
+  "text": "Brevet des collèges, grand oral du baccalauréat, épreuves du baccalauréat technologique, de nombreuses épreuves vont avoir lieu à partir du 26 juin. Mais des inquiétudes se font ressentir alors que les températures dépassent les 35°C sur une grande partie du département.\nLa FCPE du Rhône a donc souhaité alerter sur les conditions de passation des épreuves pour les élèves. L’association demande que les épreuves soient organisées en matinée lorsqu’il fait moins chaud et après avoir ventilé les salles.\nMais, la FCPE du Rhône se tourne aussi vers le futur. Le bâti scolaire sur le territoire ne semble pas adapté au réchauffement climatique. \"Pour que cette situation ne se reproduise plus et face aux hausses continues des températures annoncées dans les prochaines années et décennies, la FCPE du Rhône revendique un plan pluriannuel pour soutenir la rénovation du bâti scolaire engagée par les collectivités locales avec un soutien massif de l’Etat, sans quoi il ne sera plus possible de faire cours été comme hiver dans un avenir très proche\", déclare l’association à travers un communiqué.\nDes axes que souhaitent faire entendre la FCPE lors de la campagne des élections municipales et métropolitaines de 2026.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": ["Education", "Health", "Social Issue"],
+  "topics": [
+    "Education->school",
+    "Education->educational testing and examinations",
+    "Education->students",
+    "Health->health facility",
+    "Health->public health",
+    "Health->government health care",
+    "Social Issue->social condition",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_fr", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T11:50:31.866+03:00",
+  "updated": "2025-06-27T09:04:56.000+00:00"
+}

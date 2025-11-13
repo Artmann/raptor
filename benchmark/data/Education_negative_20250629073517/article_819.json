@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "303dff05e172e456b2353861741549441e305c54",
+    "url": "https://om-saratov.ru/incidents/26-june-2025-i158978-v-saratove-proizoshel-pojar-v",
+    "site_full": "om-saratov.ru",
+    "site": "om-saratov.ru",
+    "site_section": "https://om-saratov.ru/incidents",
+    "site_categories": ["media"],
+    "section_title": "Проишествия Саратова: крупные ДТП, коммунальные аварии другие проиcшествия",
+    "site_title": "Новости Саратова и области &mdash; Информационное агентство 'Общественное мнение'",
+    "title": "В Саратове произошел пожар в школе",
+    "title_full": "В Саратове произошел пожар в школе",
+    "published": "2025-06-26T14:58:29.150+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://om-saratov.ru/files/pages/158978/1750937429general_pages_26_june_2025_i158978_v_saratove_proizoshel_pojar_v.jpg",
+    "performance_score": 0,
+    "domain_rank": 137585,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "303dff05e172e456b2353861741549441e305c54",
+  "url": "https://om-saratov.ru/incidents/26-june-2025-i158978-v-saratove-proizoshel-pojar-v",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T14:58:29.150+03:00",
+  "title": "В Саратове произошел пожар в школе",
+  "text": "Автор:\nОльга Симонова26/06/2025 15:50\nВ Заводском районе Саратова сегодня утром, 26 июня, произошло возгорание в школе №59. Об этом сообщает областное ГУ МЧС.\nСигнал о возгорании на улице Маркина, 17/39 поступил автоматом по вызову №2 (выезд 4-5 расчетов). С места вызову №2 был отбой.\nОказалось, что загорелась электропроводка на 2 кв. м. Пострадавших нет - в школе никого не было.\nПодпишись на наш Telegram-канал. В нем мы публикуем главное из жизни Саратова и области с комментариями\nТеги:\nпожар,\nшкола №59",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Human Interest", "Education"],
+  "topics": [
+    "Crime, Law and Justice->arson",
+    "Human Interest->human mishap",
+    "Education->school"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://teleg.run/joinchat/AAAAAFTMnNhFX-S75GTgww",
+    "https://www.teleg.run/joinchat/AAAAAFTMnNhFX-S75GTgww"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:58:29.150+03:00",
+  "updated": "2025-06-26T12:04:36.000+00:00"
+}

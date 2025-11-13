@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "3552a607f6af5ca4f0c0668d66c0ea73c9ae2b52",
+    "url": "https://www.telemundopr.com/noticias/puerto-rico/iberia-tendra-vuelos-diarios-entre-madrid-y-puerto-rico-todo-el-ano/2684277",
+    "site_full": "www.telemundopr.com",
+    "site": "telemundopr.com",
+    "site_section": "https://www.telemundopr.com",
+    "site_categories": ["tech"],
+    "section_title": "Telemundo Puerto Rico—Noticias Locales y Reportes del Tiempo",
+    "title": "Iberia tendrá vuelos diarios entre Madrid y Puerto Rico todo el año",
+    "title_full": "Iberia tendrá vuelos diarios entre Madrid y Puerto Rico todo el año",
+    "published": "2025-01-23T22:44:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 107811,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3552a607f6af5ca4f0c0668d66c0ea73c9ae2b52",
+  "url": "https://www.telemundopr.com/noticias/puerto-rico/iberia-tendra-vuelos-diarios-entre-madrid-y-puerto-rico-todo-el-ano/2684277",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@Telemundopr",
+  "published": "2025-01-23T22:44:00.000+02:00",
+  "title": "Iberia tendrá vuelos diarios entre Madrid y Puerto Rico todo el año",
+  "text": "Puerto Rico e Iberia renovaron este jueves su acuerdo promocional durante la Feria Internacional de Turismo (FITUR) 2025, asegurando la operación diaria de la ruta Madrid-San Juan durante todo el año. Este compromiso generará un impacto económico estimado en 29 millones de dólares, según informó la gobernadora Jenniffer Aidyn González Colón.\n“Este acuerdo fortalece los lazos históricos con España y permite que Puerto Rico sea más accesible al mercado europeo, beneficiando a nuestra economía y posicionándonos como un destino de clase mundial. Puerto Rico tiene mucho que ofrecer, desde gastronomía hasta historia, y este tipo de alianzas son cruciales para atraer capital a la isla”, expresó González Colón en declaraciones escritas.\nLa directora ejecutiva de la Compañía de Turismo de Puerto Rico, Willianette Robles, destacó que la capacidad de la ruta incrementará a 210 mil asientos anuales. “Esto permite que más visitantes internacionales planifiquen vacaciones o negocios en la Isla. Este acuerdo ha resultado en un aumento del 40 por ciento en visitantes europeos en comparación con años previos, alcanzando cifras récord”, indicó Robles.\nEl presidente y CEO de Iberia, Marco Sansavini, resaltó los beneficios mutuos del acuerdo. “Renovar esta alianza refuerza la relación con Puerto Rico y acerca los atractivos turísticos de la Isla a nuestros clientes europeos. Llevamos 75 años conectando Puerto Rico con Europa, y estamos comprometidos a continuar este legado”, afirmó Sansavini.\nEl vuelo diario, operado por un Airbus A330-200 con capacidad para 288 pasajeros, conecta San Juan con Europa y nuevos destinos como Tokio, Doha, y El Cairo. El acuerdo incluye estrategias de promoción turística en plataformas digitales, actividades en el aeropuerto Barajas de Madrid, y talleres sobre Puerto Rico en España y Francia, con el objetivo de incrementar el turismo y los negocios en la isla.\nEn la firma estuvieron presentes líderes gubernamentales y empresariales, incluyendo Carmelo Ríos Santiago, vicepresidente del Senado, y representantes de Iberia, como Víctor Moneo, director de Alianzas y Acuerdos Estratégicos. Durante FITUR 2025, Puerto Rico busca establecer nuevos acuerdos de mercadeo y comerciales que contribuyan al desarrollo económico del país.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Lifestyle and Leisure",
+    "Human Interest"
+  ],
+  "topics": [
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->tourism and leisure industry",
+    "Lifestyle and Leisure->travel and tourism"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jenniffer Aidyn González Colón",
+        "sentiment": "none"
+      },
+      {
+        "name": "Willianette Robles",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Compañía de Turismo de Puerto Rico",
+        "sentiment": "none"
+      },
+      {
+        "name": "FITUR",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Isla",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:31:26.510+02:00",
+  "updated": "2025-01-24T00:31:26.510+02:00"
+}

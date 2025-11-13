@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "fefd2320ec902e3d118b53fea98dae7ea2cd1494",
+    "url": "https://signalscv.com/2024/06/wind-reduction-helps-firefighters-in-gorman",
+    "site_full": "signalscv.com",
+    "site": "signalscv.com",
+    "site_section": "https://signalscv.com/feed/",
+    "site_categories": ["media"],
+    "section_title": "Santa Clarita Valley Signal",
+    "title": "Wind reduction helps firefighters in Gorman",
+    "title_full": "Wind reduction helps firefighters in Gorman",
+    "published": "2024-06-21T03:26:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://signalscv.s3.us-west-1.amazonaws.com/wp-content/uploads/2024/06/17095716/Postfire10-1-scaled.jpg",
+    "performance_score": 0,
+    "domain_rank": 16343,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fefd2320ec902e3d118b53fea98dae7ea2cd1494",
+  "url": "https://signalscv.com/2024/06/wind-reduction-helps-firefighters-in-gorman",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Perry Smith",
+  "published": "2024-06-21T03:26:00.000+03:00",
+  "title": "Wind reduction helps firefighters in Gorman",
+  "text": "A reduction in wind helped firefighters keep the Post Fire within its 15,690-acre “footprint” as of Thursday, although hot spots remain in the south, according to Landon Haack, operations section chief for CalFire.\nThe southern portion of the fire, near Pyramid Lake, remains the most active area and where firefighters’ efforts were focused Thursday, Haack said in a video posted on social media. The containment percentage reached 47% as of the morning.\nThe evacuation areas shifted based on the announcements made by the L.A. County Fire Department on social media.\nThe evacuation order for Paradise Ranch in Castaic was lifted, but an order was converted to a warning for areas south of Pyramid Lake, west of Interstate 5, east of the Los Angeles County line, and just north of Templin Highway.\nAn evacuation order remains in place for areas south of Gorman Post Road, west of Interstate 5, east of the Los Angeles County line, and north of Pyramid Lake, according to the county Fire Department.\nThanks to a day of mopping up Wednesday, the situation on the northern perimeter of the fire is “looking really, really good,” Haack said, pointing to the top of a giant map stretched out behind him.\n“There’s a line all the way around the fire up there,” he added, referring to acres of blackened brush that can be seen from the freeway.\n“The crews are continuing to get on our biggest points of concern, which are down here on the southern end and partially into the wilderness area,” Haack said. A small piece of the fire crossed the lake, which was part of the concern on Wednesday.\nSteep terrain continues to present a challenge, Haack said, although Thursday’s incident report indicated there were fewer helicopters in use than the previous day, and the number of personnel remained roughly the same.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Health", "Human Interest", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "gorman",
+        "sentiment": "negative"
+      },
+      {
+        "name": "haack",
+        "sentiment": "none"
+      },
+      {
+        "name": "landon haack",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "fire department",
+        "sentiment": "none"
+      },
+      {
+        "name": "calfire",
+        "sentiment": "none"
+      },
+      {
+        "name": "l.a. county fire department",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "gorman post road",
+        "sentiment": "none"
+      },
+      {
+        "name": "los angeles county",
+        "sentiment": "none"
+      },
+      {
+        "name": "pyramid lake",
+        "sentiment": "none"
+      },
+      {
+        "name": "templin highway",
+        "sentiment": "none"
+      },
+      {
+        "name": "castaic",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-21T08:43:33.888+03:00",
+  "updated": "2024-06-21T08:43:33.888+03:00"
+}

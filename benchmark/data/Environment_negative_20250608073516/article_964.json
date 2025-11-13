@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "1daf92401fc2fd74d79e314c77a5c0cc243da499",
+    "url": "https://www.chinadaily.com.cn/a/202505/08/WS681c1f7ea310a04af22be1aa.html",
+    "site_full": "www.chinadaily.com.cn",
+    "site": "chinadaily.com.cn",
+    "site_section": "https://news.google.com/search?q=on%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media", "travel", "japan"],
+    "section_title": "Google News - Search",
+    "site_title": "China Daily Website - Connecting China Connecting the World",
+    "title": "Extreme heat takes toll on South and Southeast Asia - World - Chinadaily.com.cn",
+    "title_full": "Extreme heat takes toll on South and Southeast Asia - World - Chinadaily.com.cn",
+    "published": "2025-05-08T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "http://img2.chinadaily.com.cn/images/202505/08/681c1f7ea310a04a9677f9b2.jpeg",
+    "performance_score": 0,
+    "domain_rank": 661,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1daf92401fc2fd74d79e314c77a5c0cc243da499",
+  "url": "https://www.chinadaily.com.cn/a/202505/08/WS681c1f7ea310a04af22be1aa.html",
+  "ord_in_thread": 0,
+  "author": "董欣怡",
+  "published": "2025-05-08T03:00:00.000+03:00",
+  "title": "Extreme heat takes toll on South and Southeast Asia - World - Chinadaily.com.cn",
+  "text": "Extreme heat takes toll on South and Southeast Asia\nIncreasing number of heatstroke deaths are reported in South and Southeast Asia, according to Asia News Network members.\nPakistan-based newspaper The Dawn, said on April 29 that Pakistan is in the midst of an intense heat wave, with temperatures soaring 4 C to 7 C above normal across much of the country, with some regions already experiencing highs of 49 C.\nThe memory of the 2015 Karachi heat wave, which claimed over 1,200 lives, looms large and must not be ignored. Meanwhile, power outages in various areas highlight the fragility of the energy grid at a time when uninterrupted supply is a matter of life and death, The Dawn said.\nThe Nation, a newspaper in Thailand, said on April 29 that there have already been 32 reported cases of heat-related illnesses this year, equivalent to 0.07 per 100,000 population.\nThailand's Public Health Minister Somsak Thepsuthin disclosed forecasts for Thailand's heat from the end of April to early May. Some regions are expected to experience dangerous conditions of 52 C or higher.\nData from the past six years (2019-24) recorded a cumulative total of 212 fatalities in Thailand, averaging 27 deaths per year.\nMost of the victims were men (197 cases) aged between 41 and 60, often with underlying health conditions, outdoor activity exposure, or alcohol consumption as contributing factors, The Nation reported.\nThe Philippine Daily Inquirer also said on April 30 that two traffic enforcers died this year from causes related to extreme heat conditions.\nUldarico Garbanzos, head of the Iloilo City Traffic and Transportation Management Office, said the extreme weather had exacerbated their underlying medical conditions.\nGarbanzos said they have requested personnel to notify them of any comorbidities or if they are consuming maintenance medicine. These personnel will be transferred to afternoon schedules to avoid prolonged heat exposure.\nThe heatstroke situation aligns with predictions from the World Health Organization and the Intergovernmental Panel on Climate Change, which state that by 2050, over 50 percent of the global population could experience dangerously high temperatures for at least 20 days a year. The risk of heat-related deaths in tropical countries could triple, especially among vulnerable groups.\nPublic health infrastructure is also under immense pressure. Hospitals are seeing an increase in heat-related illnesses, particularly among vulnerable groups such as outdoor laborers, the elderly and children, The Dawn said.\nAgriculture under stress\nThe effects of the heat wave are rippling through every sector. Agriculture is under severe stress as excess heat kills crops and worsens water scarcity. Reports of early wheat crop failures are already emerging in Pakistan, threatening both food security and rural livelihoods.\nAt the same time, water resources are being strained to the limit. Faster-than-normal snowmelt in Himalayan mountains, spurred by high temperatures, raises the specter of flash floods while jeopardizing water availability during the critical summer months.\nThe Dawn calls on relief measures without delay. Cooling centers should be established in urban and rural hot spots. Water resources must be managed and prioritized for essential needs and work hours for outdoor labor should be adjusted to minimize exposure.\nPublic health services need to be fully equipped to manage heatstroke and related conditions, and power must be prioritized for hospitals and essential water infrastructure.\nBeyond these short-term interventions, there is a pressing need for a long-term strategy to adapt to the warming climate.\nThis includes investing in water storage and management, promoting climate-resilient crops and efficient irrigation techniques, and expanding urban greenery to reduce heat absorption. Early warning systems must be enhanced, and local disaster response mechanisms strengthened to ensure timely action, The Dawn said.\nThis story is a compilation of recent reports on heatstroke deaths by ANN members, including The Dawn, Pakistan, The Nation, Thailand, and The Philippine Daily Inquirer.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Health", "Social Issue"],
+  "topics": [
+    "Environment->population growth",
+    "Environment->global warming",
+    "Environment->climate change",
+    "Health->medical condition",
+    "Health->communicable disease",
+    "Health->public health",
+    "Social Issue->demographics",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Somsak Thepsuthin",
+        "sentiment": "none"
+      },
+      {
+        "name": "Dawn",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Southeast",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Asia News Network",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:54:19.623+03:00",
+  "updated": "2025-05-08T04:03:22.000+00:00"
+}

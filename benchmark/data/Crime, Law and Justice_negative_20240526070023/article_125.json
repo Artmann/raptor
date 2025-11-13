@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "7b52052541dedd7080bd666b8a18905151b4d7d4",
+    "url": "https://flipboard.com/article/head-of-san-jose-school-s-parent-association-arrested-in-400k-embezzlement/f-84d70802ec%2Fnbcbayarea.com",
+    "site_full": "flipboard.com",
+    "site": "flipboard.com",
+    "site_section": "https://flipboard.com/topic/santaclaracounty?format=amp",
+    "site_categories": ["family_and_parenting", "eldercare"],
+    "section_title": "Discover More in Santa Clara County on Flipboard",
+    "title": "Head of San Jose school's parent association arrested in $400K embezzlement | Flipboard",
+    "title_full": "Head of San Jose school's parent association arrested in $400K embezzlement | Flipboard",
+    "published": "2024-04-25T18:51:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ic-cdn.flipboard.com/nbcbayarea.com/e1fce17135b0b6e31343b0876de45e049c107040/_medium.jpeg",
+    "performance_score": 0,
+    "domain_rank": 1221,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7b52052541dedd7080bd666b8a18905151b4d7d4",
+  "url": "https://flipboard.com/article/head-of-san-jose-school-s-parent-association-arrested-in-400k-embezzlement/f-84d70802ec%2Fnbcbayarea.com",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NBC Bay Area - Bay City News",
+  "published": "2024-04-25T18:51:00.000+03:00",
+  "title": "Head of San Jose school's parent association arrested in $400K embezzlement | Flipboard",
+  "text": "Head of San Jose school's parent association arrested in $400K embezzlement A former president of a San Jose elementary school enrichment program allegedly enriched herself by embezzling over $400,000 from the organization, …\nNBC Bay Area - Bay City News • 18h",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "mike pinder",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "flipboard head of san jose school",
+        "sentiment": "negative"
+      },
+      {
+        "name": "san jose school",
+        "sentiment": "negative"
+      },
+      {
+        "name": "usc",
+        "sentiment": "none"
+      },
+      {
+        "name": "nbc bay area",
+        "sentiment": "none"
+      },
+      {
+        "name": "university of southern california",
+        "sentiment": "none"
+      },
+      {
+        "name": "moody blues",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "san francisco bay area news",
+        "sentiment": "none"
+      },
+      {
+        "name": "northern california",
+        "sentiment": "none"
+      },
+      {
+        "name": "san jose",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:04:44.365+03:00",
+  "updated": "2024-04-26T08:03:10.529+03:00"
+}

@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "f097cf5bd878f6be163e586b55a7f5105f3e9af6",
+    "url": "https://dailypost.ng/2024/04/25/assistant-controller-of-correctional-facility-minna-abducted-by-gunmen-in-niger",
+    "site_full": "dailypost.ng",
+    "site": "dailypost.ng",
+    "site_section": "http://dailypost.ng/feed/",
+    "site_categories": ["media"],
+    "section_title": "Daily Post Nigeria",
+    "title": "Assistant Controller of Correctional facility Minna abducted by gunmen in Niger",
+    "title_full": "Assistant Controller of Correctional facility Minna abducted by gunmen in Niger",
+    "published": "2024-04-26T00:08:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NG",
+    "main_image": "https://dailypost.ng/wp-content/uploads/2021/04/Hyacinth-Nwiye.jpeg",
+    "performance_score": 0,
+    "domain_rank": 14377,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f097cf5bd878f6be163e586b55a7f5105f3e9af6",
+  "url": "https://dailypost.ng/2024/04/25/assistant-controller-of-correctional-facility-minna-abducted-by-gunmen-in-niger",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Priscilla Dennis",
+  "published": "2024-04-26T00:08:00.000+03:00",
+  "title": "Assistant Controller of Correctional facility Minna abducted by gunmen in Niger",
+  "text": "Gunmen have allegedly abducted the Assistant Controller of Corrections of the Niger State Correctional Centre Minna, ACC Abdulrahamam Ibrahim Gelele. In a",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Human Interest"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "minna",
+        "sentiment": "negative"
+      },
+      {
+        "name": "rabiu mohammed shuaibu",
+        "sentiment": "none"
+      },
+      {
+        "name": "shuiabu",
+        "sentiment": "none"
+      },
+      {
+        "name": "mohammed hamisu isa",
+        "sentiment": "none"
+      },
+      {
+        "name": "ibrahim gelele",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "niger news assistant controller of correctional",
+        "sentiment": "negative"
+      },
+      {
+        "name": "csc",
+        "sentiment": "none"
+      },
+      {
+        "name": "correctional service",
+        "sentiment": "none"
+      },
+      {
+        "name": "command",
+        "sentiment": "none"
+      },
+      {
+        "name": "controller of corrections",
+        "sentiment": "none"
+      },
+      {
+        "name": "niger state",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "niger state correctional centre minna",
+        "sentiment": "none"
+      },
+      {
+        "name": "ilorin",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:23:26.730+03:00",
+  "updated": "2024-04-26T06:22:11.276+03:00"
+}

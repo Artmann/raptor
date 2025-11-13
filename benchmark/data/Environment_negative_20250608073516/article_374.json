@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "a0c86f6a890f761c6050a5251a45caf1cde450ec",
+    "url": "https://glavny.tv/last-news/science/mp-lednik-sudnogo-dnya-mozhet-ugrozhat-pribrezhnym-zonam-planety",
+    "site_full": "glavny.tv",
+    "site": "glavny.tv",
+    "site_section": "https://glavny.tv",
+    "site_categories": [],
+    "section_title": "Главный Региональный",
+    "site_title": "Главный Региональный",
+    "title": "МП: ледник Судного дня может угрожать прибрежным зонам планеты",
+    "title_full": "МП: ледник Судного дня может угрожать прибрежным зонам планеты",
+    "published": "2025-05-08T01:45:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://glavny.tv/wp-content/uploads/2024/05/horizonless-blue-scaled.jpg",
+    "performance_score": 0,
+    "domain_rank": 194025,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a0c86f6a890f761c6050a5251a45caf1cde450ec",
+  "url": "https://glavny.tv/last-news/science/mp-lednik-sudnogo-dnya-mozhet-ugrozhat-pribrezhnym-zonam-planety",
+  "ord_in_thread": 0,
+  "author": "Артем Кондратенко",
+  "published": "2025-05-08T01:45:00.000+03:00",
+  "title": "МП: ледник Судного дня может угрожать прибрежным зонам планеты",
+  "text": "Ученые рассказали об усиленном таянии ледника Туэйтса, известного как «ледник Судного дня». Если это продолжится, то таяние может привести к экологическим проблемам.\nСпециалисты рассказали, что ускоренное таяние ледника связано с влиянием приливных течений. Они значительно воздействуют на структуру льда, в связи с чем он начинает таять намного быстрее. Также ученые уточнили, что это плохо может сказаться на экологии Земли. Ледник Туэйтса считается одной из самых уязвимых частей планеты.\nЕсли он полностью исчезнет, то это может привести к существенному повышению уровня Мирового океана. В дальнейшем прибрежные зоны попросту затопит, уточнили эксперта. Тем не менее ученые считают риск коллапса ледника преувеличенным и на самом деле ледник сможет выстоять еще несколько десятилетий.\nРанее международная группа ученых рассказала о тревожащих последствиях тающих ледников в Антарктике.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Environment", "Science and Technology"],
+  "topics": [
+    "Environment->global warming",
+    "Environment->climate change",
+    "Environment->water",
+    "Science and Technology->natural science",
+    "Science and Technology->meteorology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:37:57.079+03:00",
+  "updated": "2025-05-08T00:42:14.000+00:00"
+}

@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "686c4bba9d900affe7f0a4380a74f9fa61c29c18",
+    "url": "https://tula.mk.ru/incident/2025/06/26/prokuratura-nashla-narusheniya-pozharnoy-bezopasnosti-v-shkolakh-v-tule.html",
+    "site_full": "tula.mk.ru",
+    "site": "mk.ru",
+    "site_section": "http://www.mk.ru/rss/news/index.xml",
+    "site_categories": ["media", "top_news_ru", "top_news"],
+    "section_title": "Новостная лента - Московский Комсомолец",
+    "site_title": "Новости Тулы и Тульской области - МК в Туле",
+    "title": "Прокуратура нашла нарушения пожарной безопасности в школах в Туле",
+    "title_full": "Прокуратура нашла нарушения пожарной безопасности в школах в Туле",
+    "published": "2025-06-26T10:37:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://static.mk.ru/upload/entities/2025/06/26/10/articles/facebookPicture/0f/00/bb/9c/7721f98093b5c7138f5b12d2a9f6c5dd.jpg",
+    "performance_score": 0,
+    "domain_rank": 3982,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "686c4bba9d900affe7f0a4380a74f9fa61c29c18",
+  "url": "https://tula.mk.ru/incident/2025/06/26/prokuratura-nashla-narusheniya-pozharnoy-bezopasnosti-v-shkolakh-v-tule.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T10:37:00.000+03:00",
+  "title": "Прокуратура нашла нарушения пожарной безопасности в школах в Туле",
+  "text": "В ходе проверки, проведенной прокуратурой Привокзального района совместно с сотрудниками МЧС, в ряде образовательных учреждений Тулы были выявлены серьёзные нарушения противопожарных норм. Об этом сообщает пресс-служба ведомства.\nНадзорные мероприятия затронули: МБОУ \"ЦО №44\" (дошкольное подразделение \"Улыбка\"), а также МБОУ \"ЦО №9\" (дошкольное подразделение), а кроме того, МБОУ \"ЦО №58\" \"Поколение будущего\". Выявлены были следующие нарушения: неисправные механизмы самозакрывания дверей эвакуационных выходов, а также нарушения в дверных блоках, ведущих на лестничные клетки, размещение горючих материалов под лестничными пролётами, а кроме того, отсутствие обязательного категорирования пожарной опасности складских помещений.\nПринятые меры: прокуратурой внесены представления руководителям учреждений с требованием устранить нарушения, все выявленные недостатки полностью устранены в установленные сроки. Должностные лица, ответственные за пожарную безопасность, привлечены к административной ответственности по ч.1 ст.20.4 КоАП РФ.\nПрокурорский надзор обеспечил восстановление прав воспитанников образовательных учреждений на безопасные условия пребывания. Принятые меры позволили минимизировать риски возникновения чрезвычайных ситуаций.\nРанее \"МК в Туле\" писал о том, что ТЦ «Наследие» под Тулой наказали из-за паспорта антитеррористической безопасности.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Health", "Education"],
+  "topics": [
+    "Crime, Law and Justice->arson",
+    "Crime, Law and Justice->law enforcement",
+    "Health->government health care",
+    "Health->health facility",
+    "Education->school",
+    "Education->educational grading"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ru", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T10:44:58.929+03:00",
+  "updated": "2025-06-27T08:08:50.000+00:00"
+}

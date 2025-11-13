@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "e5f4453411f2f1298ae6967198a7e9512367e644",
+    "url": "https://www.thueringer-allgemeine.de/lokales/gotha/article410236446/ueberraschend-gewinnt-e-auto-im-kreis-gotha-gegen-verbrenner.html",
+    "site_full": "www.thueringer-allgemeine.de",
+    "site": "thueringer-allgemeine.de",
+    "site_section": "https://thueringer-allgemeine.de/schlagzeilen",
+    "site_categories": ["media", "top_news_de", "top_news"],
+    "section_title": "Thüringer Allgemeine | Thüringer Allgemeine",
+    "site_title": "Thüringer Allgemeine - Aktuelle Nachrichten",
+    "title": "Überraschend gewinnt E-Auto im Kreis Gotha gegen Verbrenner",
+    "title_full": "Überraschend gewinnt E-Auto im Kreis Gotha gegen Verbrenner",
+    "published": "2025-10-16T16:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://img.sparknews.funkemedien.de/410236913/410236913_1760615942_v16_9_1600.jpeg",
+    "performance_score": 0,
+    "domain_rank": 17934,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e5f4453411f2f1298ae6967198a7e9512367e644",
+  "url": "https://www.thueringer-allgemeine.de/lokales/gotha/article410236446/ueberraschend-gewinnt-e-auto-im-kreis-gotha-gegen-verbrenner.html",
+  "ord_in_thread": 0,
+  "author": "Ralf Ehrlich",
+  "published": "2025-10-16T16:00:00.000+03:00",
+  "title": "Überraschend gewinnt E-Auto im Kreis Gotha gegen Verbrenner",
+  "text": "TextToSpeechModule\nMobilität\nÜberraschend gewinnt E-Auto im Kreis Gotha gegen Verbrenner\nFriemar.\nEine Verwaltung im Kreis Gotha tauscht den einzigen Dienstwagen, auch um zu sparen. Das Auto überzeugt die Mitarbeiter und setzt sich über alle Vorurteile hinweg.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Environment"],
+  "topics": ["Environment->energy saving"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:14:44.734+03:00",
+  "updated": "2025-10-17T17:11:50.000+03:00"
+}

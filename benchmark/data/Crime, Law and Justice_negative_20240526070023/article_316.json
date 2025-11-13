@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "d7f323717e2b3289aa5a462d0ad8c441657c739d",
+    "url": "https://www.rte.ie/news/ireland/2024/0425/1445750-newtownmountkennedy-wicklow",
+    "site_full": "www.rte.ie",
+    "site": "rte.ie",
+    "site_section": "http://www.rte.ie/rss/news.xml",
+    "site_categories": ["media", "top_news"],
+    "section_title": "News Headlines",
+    "title": "Three arrests at protest at site in Co Wicklow",
+    "title_full": "Three arrests at protest at site in Co Wicklow",
+    "published": "2024-04-26T00:09:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IE",
+    "main_image": "https://img.rasset.ie/0020238e-1600.jpg",
+    "performance_score": 0,
+    "domain_rank": 2002,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d7f323717e2b3289aa5a462d0ad8c441657c739d",
+  "url": "https://www.rte.ie/news/ireland/2024/0425/1445750-newtownmountkennedy-wicklow",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Samantha Libreri",
+  "published": "2024-04-26T00:09:00.000+03:00",
+  "title": "Three arrests at protest at site in Co Wicklow",
+  "text": "Six people have been arrested and three garda cars were damaged at a protest at a site earmarked to accommodate international protection applicants in Newtownmountkennedy, Co Wicklow.\nMembers of the Garda Public Order Unit were also deployed to the site.\nGardaí have said that members of the force were on duty at the site this evening, when they came under attack by people gathered there.\nIn a statement, gardaí say that the incident developed \"as a result of workers, contracted to carry out lawful employment on the site, entering the site.\n\"A number of trespassers were also identified on and removed from the site,\" the statement said.\nThe statement said that uniform gardaí were \"subject of both verbal and physical abuse throughout the day, which escalated into rocks and other missiles being thrown this evening\".\nFires were lit at the scene, the statement said, and gardaí also recovered an axe.\n\"As the situation has intensified, members of An Garda Síochána used force to defend themselves as part of an escalated response to the situation,\" the statement said.\nGardaí have said that the Public Order Unit was deployed to the site and that pepper spray was used. Around 50 gardaí remain at the site this evening.\nThree garda cars were damaged during the incident, the statement said, \"including broken windows and slashed tyres\".\nGardaí have said that it was not aware of anyone being injured in the incident.\nIn the statement, An Garda Síochána said that it \"respects the right for citizens to exercise their constitutional rights; this right does not extend to breaches of Criminal Law, the interference with the rights of other citizens to carry out their daily activities, or to attack members of An Garda Síochána.\n\"Any Garda activity in relation to evolving events involves a graduated policing response taking into account relevant legislation and public safety, with enforcement as a last resort.\"\nVideos online appear to show material being burned at the entrance to the site known as Trudder House or River Lodge.\nEarlier, videos also appeared to show some scuffles between gardaí and protesters.\nThere have been ongoing protests in the area since construction work began last month on the former HSE site, which the Department of Integration said it was considering locating 20 eight-person tents for international protection applicants.\nEarlier this month, a small fire was lit on the site which gardaí confirmed they were investigating.\nLocals say they object to the site being used to accommodate asylum seekers, saying the site is unsuitable and that the resources of the village are already overstreched.\nAdditional reporting: Paul Reynolds",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Human Interest", "Crime, Law and Justice", "Social Issue"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "gardaí",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "department of integration",
+        "sentiment": "none"
+      },
+      {
+        "name": "garda public order unit",
+        "sentiment": "none"
+      },
+      {
+        "name": "trudder house",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "co wicklow three",
+        "sentiment": "none"
+      },
+      {
+        "name": "newtownmountkennedy",
+        "sentiment": "none"
+      },
+      {
+        "name": "co wicklow",
+        "sentiment": "none"
+      },
+      {
+        "name": "river lodge",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:12:33.378+03:00",
+  "updated": "2024-04-26T03:01:38.013+03:00"
+}

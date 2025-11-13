@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "9158937959685a397e964b6a4b5826b057d97105",
+    "url": "https://www.geo.tv/latest/603561-thunderstorms-expected-across-pakistan-as-westerly-system-moves-in-pmd",
+    "site_full": "www.geo.tv",
+    "site": "geo.tv",
+    "site_section": "https://www.geo.tv/latest",
+    "site_categories": ["media", "television", "entertainment"],
+    "section_title": "Geo.tv: Latest News Breaking Pakistan, World, Live Videos",
+    "site_title": "Geo.tv: Latest News Breaking Pakistan, World, Live Videos",
+    "title": "Thunderstorms expected across Pakistan as westerly system moves in: PMD",
+    "title_full": "Thunderstorms expected across Pakistan as westerly system moves in: PMD",
+    "published": "2025-05-08T02:18:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PK",
+    "main_image": "https://www.geo.tv/assets/uploads/updates/2025-05-08/l_603561_030312_updates.jpg",
+    "performance_score": 0,
+    "domain_rank": 8569,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9158937959685a397e964b6a4b5826b057d97105",
+  "url": "https://www.geo.tv/latest/603561-thunderstorms-expected-across-pakistan-as-westerly-system-moves-in-pmd",
+  "ord_in_thread": 0,
+  "author": "@APP",
+  "published": "2025-05-08T02:18:00.000+03:00",
+  "title": "Thunderstorms expected across Pakistan as westerly system moves in: PMD",
+  "text": "May 08, 2025\nThe Pakistan Meteorological Department (PMD) has forecast widespread rain, wind, and thunderstorms with isolated hailstorms across various parts of the country from May 8-12, due to the influence of a westerly wave and incoming moist currents, APP reported.\nAccording to a PMD advisory issued on Wednesday, the weather system is expected to affect upper and central regions initially and later extend to southern parts.\nThe department has warned of possible hailstorms and heavy rainfall in isolated areas, urging authorities concerned to remain alert.\nIn Kashmir, areas including Neelum Valley, Muzaffarabad, Rawalakot, Poonch, and others are likely to receive rain and thunderstorms with isolated heavy falls and hailstorms from May 8 to May 12.\nGilgit-Baltistan districts such as Diamir, Astore, Skardu, Gilgit, Hunza, Ghanche, and Shigar are expected to see similar conditions from May 08 to 12.\nPunjab and Islamabad will witness thunderstorms and isolated hailstorms, particularly in Islamabad, Rawalpindi, Murree, Attock, and Lahore, from the night of May 7 to May 11. Southern districts including Multan, Dera Ghazi Khan, Bahawalpur, and others will be affected from May 08 to 10.\nIn Khyber Pakhtunkhwa, areas including Swat, Mansehra, Abbottabad, Peshawar, and others may experience heavy rains and hailstorms from May 7 (night) to May 12, with other southern areas including D.I. Khan and Waziristan affected from May 8 to 10.\nBalochistan regions such as Quetta, Zhob, Barkhan, and Lasbella are expected to receive rainfall from May 08 to May 10.\nMeanwhile, in Sindh, districts including Sukkur, Larkana, Mirpurkhas, and Tharparkar will likely experience rain and thunderstorms from May 8 (evening) to May 10.\nThe PMD has cautioned that windstorms and hail may damage infrastructure such as power lines, trees, and solar panels. Farmers have been advised to manage wheat harvesting by the forecast.\nThe authorities across all affected regions have been urged to stay alert and implement preventive measures to avoid any untoward situations.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Weather", "Social Issue", "Environment"],
+  "topics": [
+    "Weather->weather phenomena",
+    "Weather->weather forecast",
+    "Social Issue->social condition",
+    "Environment->natural resources",
+    "Environment->climate change"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Rawalakot",
+        "sentiment": "none"
+      },
+      {
+        "name": "Kashmir",
+        "sentiment": "none"
+      },
+      {
+        "name": "Poonch",
+        "sentiment": "none"
+      },
+      {
+        "name": "Skardu",
+        "sentiment": "none"
+      },
+      {
+        "name": "Punjab",
+        "sentiment": "none"
+      },
+      {
+        "name": "Neelum",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Pakistan Meteorological Department",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "9158937959685a397e964b6a4b5826b057d97105",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T03:08:52.499+03:00",
+  "updated": "2025-05-08T00:16:36.000+00:00"
+}

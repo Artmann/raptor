@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "b6a330d786039b984a7ae08e6cc6299c4639b402",
+    "url": "https://portal.sina.com.hk/finance/sina/2025/06/19/1217550/%e6%b8%af%e8%82%a1%e4%b8%89%e5%a4%a7%e6%8c%87%e6%95%b8%e4%bd%8e%e9%96%8b%e4%bd%8e%e8%b5%b0%ef%bc%8c%e6%81%92%e7%94%9f%e7%a7%91%e6%8a%80%e6%8c%87%e6%95%b8%e8%b7%8c%e5%b9%85%e9%80%b2%e4%b8%80%e6%ad%a5",
+    "site_full": "portal.sina.com.hk",
+    "site": "sina.com.hk",
+    "site_section": "https://portal.sina.com.hk/hangzhou2022",
+    "site_categories": ["top_news_hk", "top_news_tw", "top_news"],
+    "section_title": "hangzhou2022 &#x2d; 新浪香港",
+    "site_title": null,
+    "title": "港股三大指數低開低走，恒生科技指數跌幅進一步擴大至2% - 新浪香港",
+    "title_full": "港股三大指數低開低走，恒生科技指數跌幅進一步擴大至2% - 新浪香港",
+    "published": "2025-06-19T06:27:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "HK",
+    "main_image": "http://n.sinaimg.cn/finance/transform/521/w338h183/20250619/2577-485f1d97573ef3a9722b7453b2ff2e16.png",
+    "performance_score": 0,
+    "domain_rank": 53845,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b6a330d786039b984a7ae08e6cc6299c4639b402",
+  "url": "https://portal.sina.com.hk/finance/sina/2025/06/19/1217550/%e6%b8%af%e8%82%a1%e4%b8%89%e5%a4%a7%e6%8c%87%e6%95%b8%e4%bd%8e%e9%96%8b%e4%bd%8e%e8%b5%b0%ef%bc%8c%e6%81%92%e7%94%9f%e7%a7%91%e6%8a%80%e6%8c%87%e6%95%b8%e8%b7%8c%e5%b9%85%e9%80%b2%e4%b8%80%e6%ad%a5",
+  "ord_in_thread": 0,
+  "author": "新浪網",
+  "published": "2025-06-19T06:27:00.000+03:00",
+  "title": "港股三大指數低開低走，恒生科技指數跌幅進一步擴大至2% - 新浪香港",
+  "text": "6月19日消息，港股低開低走，恒生科技指數跌超2%。科指成分股中，同程旅行跌超9%，阿里健康跌超4%，京東集團、快手跌超3%。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Social Issue", "Politics"],
+  "topics": [
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->market and exchange",
+    "Social Issue->demographics",
+    "Politics->economic policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "http://service.weibo.com/share/share.php?url=%URL%&title=%TITLE%&pic=%PICS%&appkey=&ralateUid=&language=zh_cn&searchPic=true",
+    "http://service.weibo.com/share/share.php",
+    "http://www.service.weibo.com/share/share.php?url=%URL%&title=%TITLE%&pic=%PICS%&appkey=&ralateUid=&language=zh_cn&searchPic=true"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_hk", "top_news_tw", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:36:40.392+03:00",
+  "updated": "2025-06-20T05:11:10.000+00:00"
+}

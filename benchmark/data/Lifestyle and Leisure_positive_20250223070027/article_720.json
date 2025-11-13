@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "0cf514e68ec60b6eb3824a3a463b619c0c80f730",
+    "url": "https://www.newsbytesapp.com/news/sports/manchester-united-see-off-rangers-in-europa-league/story",
+    "site_full": "www.newsbytesapp.com",
+    "site": "newsbytesapp.com",
+    "site_section": "https://newsbytesapp.com/rss",
+    "site_categories": ["media"],
+    "section_title": "NewsBytes",
+    "title": "Bruno Fernandes scores injury-time goal as Manchester United down Rangers: Key stats",
+    "title_full": "Bruno Fernandes scores injury-time goal as Manchester United down Rangers: Key stats",
+    "published": "2025-01-24T05:54:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://i.cdn.newsbytesapp.com/images/l62820250124035401.jpeg",
+    "performance_score": 0,
+    "domain_rank": 18822,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0cf514e68ec60b6eb3824a3a463b619c0c80f730",
+  "url": "https://www.newsbytesapp.com/news/sports/manchester-united-see-off-rangers-in-europa-league/story",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Rajdeep Saha",
+  "published": "2025-01-24T05:54:00.000+02:00",
+  "title": "Bruno Fernandes scores injury-time goal as Manchester United down Rangers: Key stats",
+  "text": "Next Article\nBruno Fernandes's late goal secures Manchester United's victory over Rangers\nRajdeep Saha\nWhat's the story\nManchester United clinched a thrilling 2-1 win over Scottish side Rangers at Old Trafford, courtesy a stoppage-time goal by Bruno Fernandes.\nThe match witnessed an intense back-and-forth, with Rangers's Cyriel Dessers leveling the score in the 88th minute.\nHowever, it was Fernandes who had the last laugh, delivering a superb volley to seal the win for his team.\nWith this win, United have rose to 4th in the UEFA Europa League after 7 matchweeks.\nGame changer\nDessers's late equalizer intensifies match\nThe game's intensity reached its zenith when Dessers brilliantly outfoxed Harry Maguire to score a stunning goal in the 88th minute.\nThis was after Jack Butland's own goal had given Manchester United the lead in the first place from Christian Eriksen's teasing corner.\nHowever, despite the setback, Fernandes's stoppage-time volley sealed a glorious ending for Manchester United, proving his importance to the team's success.\nLeague standings\nManchester United climb league rankings post-victory\nAfter defeating Rangers, Manchester United has moved to the fourth spot in the league phase.\nDespite struggling in the Premier League, Ruben Amorim's side is yet to taste defeat after seven European games.\nUnited started the campaign with three draws under Erik ten Hag. Under Amorim, they have won all four games. United own 15 points after 7 matches.\nUnited are well on course to finish in top 8 and gain direct entry to the round of 16.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->soccer",
+    "Sport->sport event",
+    "Lifestyle and Leisure->exercise and fitness",
+    "Lifestyle and Leisure->lifestyle",
+    "Lifestyle and Leisure->game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Bruno Fernandes",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Harry Maguire",
+        "sentiment": "none"
+      },
+      {
+        "name": "Jack Butland",
+        "sentiment": "none"
+      },
+      {
+        "name": "Eriksen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Manchester United",
+        "sentiment": "negative"
+      },
+      {
+        "name": "UEFA Europa League",
+        "sentiment": "none"
+      },
+      {
+        "name": "Rangers",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:32:45.846+02:00",
+  "updated": "2025-01-24T00:32:45.846+02:00"
+}

@@ -1,0 +1,124 @@
+{
+  "thread": {
+    "uuid": "d84605e84ea9899d5c88b887a6636638dc233bfe",
+    "url": "https://www.news5cleveland.com/news/local-news/amber-alert-canceled-after-lakewood-baby-brought-to-police-department",
+    "site_full": "www.news5cleveland.com",
+    "site": "news5cleveland.com",
+    "site_section": "https://www.news5cleveland.com",
+    "site_categories": ["media"],
+    "section_title": "News 5 Cleveland WEWS",
+    "title": "Amber Alert canceled after Lakewood baby brought to police department",
+    "title_full": "Amber Alert canceled after Lakewood baby brought to police department",
+    "published": "2023-12-29T23:58:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ewscripps.brightspotcdn.com/dims4/default/04380e2/2147483647/strip/true/crop/1000x525+0+19/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F78%2F1f%2Fa19b6fd94b2ea930c936d4c17acc%2Fap21037107893391.jpg",
+    "performance_score": 0,
+    "domain_rank": 7637,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 53,
+        "comments": 1,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d84605e84ea9899d5c88b887a6636638dc233bfe",
+  "url": "https://www.news5cleveland.com/news/local-news/amber-alert-canceled-after-lakewood-baby-brought-to-police-department",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Drew Scofield,Tessa DiTirro",
+  "published": "2023-12-29T23:58:00.000+02:00",
+  "title": "Amber Alert canceled after Lakewood baby brought to police department",
+  "text": "A 1-year-old Lakewood child allegedly taken by her mother on Christmas Eve, triggering an Amber Alert, has been found safe. According to Lakewood Police, the child is at the station and appears healthy. According to police, the mother, Arial Walters, 29, is charged with attempted aggravated murder, and a warrant had been issued for her arrest after the child was taken. She's accused of stabbing her husband in their Cove Park home. The Amber Alert went out after she left her home with the child. Police said the mother brought the child to the department with her attorney. News 5’s Bryn Caswell spoke to Ariel Walters's mother, Sherry Curry, on Dec. 26 about wanting to see her grandchild returned safely. Curry didn't want to go on camera but called her daughter while we were there. Caswell showed that interaction to police, and they say they had a similar interaction with Walters. When talking with Walters, she told News 5 she didn't understand why police were worried and said her child was safe. News 5 will have more on this at 11 p.m. RELATED: [We spoke to the mom who triggered an Amber Alert when she took her 1-year-old](https://cms.scrippsdigital.com/cms/content/edit.jsp?id= 18c-a811-d1b3-afff-a93f43a40000)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Crime, Law and Justice",
+    "Disaster and Accident",
+    "Human Interest"
+  ],
+  "external_links": [
+    "https://cms.scrippsdigital.com/cms/content/edit.jsp?id=0000018c-a811-d1b3-afff-a93f43a40000)",
+    "https://cms.scrippsdigital.com/cms/content/edit.jsp",
+    "https://www.cms.scrippsdigital.com/cms/content/edit.jsp?id=0000018c-a811-d1b3-afff-a93f43a40000)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "curry",
+        "sentiment": "none"
+      },
+      {
+        "name": "caswell",
+        "sentiment": "none"
+      },
+      {
+        "name": "bryn caswell",
+        "sentiment": "none"
+      },
+      {
+        "name": "arial walters",
+        "sentiment": "none"
+      },
+      {
+        "name": "walters",
+        "sentiment": "none"
+      },
+      {
+        "name": "ariel walters",
+        "sentiment": "none"
+      },
+      {
+        "name": "sherry curry",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "amber alert",
+        "sentiment": "negative"
+      },
+      {
+        "name": "news",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "lakewood",
+        "sentiment": "none"
+      },
+      {
+        "name": "cove park",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-30T02:28:47.367+02:00",
+  "updated": "2023-12-30T02:28:47.367+02:00"
+}

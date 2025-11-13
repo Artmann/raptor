@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "c6f9f15483f0e12c239d35b730946d99aabc67db",
+    "url": "https://www.wbrz.com/news/water-levels-beginning-to-return-to-normal-in-livingston-parish-after-alberto-causes-flooding",
+    "site_full": "www.wbrz.com",
+    "site": "wbrz.com",
+    "site_section": "https://wbrz.com/home",
+    "site_categories": ["media", "business", "entertainment"],
+    "section_title": "WBRZ-TV Channel 2 Baton Rouge, LA",
+    "title": "Water levels beginning to return to normal in Livingston Parish after Alberto causes flooding",
+    "title_full": "Water levels beginning to return to normal in Livingston Parish after Alberto causes flooding",
+    "published": "2024-06-21T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://dcer237tfveol.cloudfront.net/v2/hwst9AuJSiXsYgTUExVMRgsH_IrQ2SlPNPVA-8y8PfnxXcRo30M6fiHcZ3pkcWqNRKLR9aMN0aBWXQTXA_j2DtlhDiZmun0tkDsTvtCpb_dw",
+    "performance_score": 0,
+    "domain_rank": 19934,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c6f9f15483f0e12c239d35b730946d99aabc67db",
+  "url": "https://www.wbrz.com/news/water-levels-beginning-to-return-to-normal-in-livingston-parish-after-alberto-causes-flooding",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@WBRZ",
+  "published": "2024-06-21T03:00:00.000+03:00",
+  "title": "Water levels beginning to return to normal in Livingston Parish after Alberto causes flooding",
+  "text": "Latest Weather Blog Water levels beginning to return to normal in Livingston Parish after Alberto causes flooding LIVINGSTON PARISH - High water still covers most of the road at Warsaw Marina, but the improvement from Wednesday is visible. \"I actually was working that morning and came in and was like what the hell?\" said Austin Ford, a bartender at Kat's Warsaw Bar and Grill. Their doors have been closed to the general public since Wednesday. That same day, the parish closed waterways to recreational traffic until further notice. \"Of course our loyal patrons, the water's not going to keep them away. So, shrimp boots, kayaks, john boats, they're all here,\" Ford said. The flooding from Tropical Storm Alberto, which made landfall in Mexico Thursday, isn't the worst Ford has seen in his years working at the bar. However, it came to him as a surprise that a storm so far away could impact waterways in Louisiana. \"You know a lot of us don't really watch the news especially not somewhere that has no relation to us so it comes as a shock to a lot of us,\" Ford said. Trending News The water levels are decreasing steadily, and should return to normal in the coming days. Livingston Parish and Ascension Parish are set to re-open their waterways Saturday at 8 a.m., according to Livingston Parish. More News Desktop NewsClick to open Continuous News in a sidebar that updates in real-time. News Video - State representative calls for revamped AMBER alert system after delay - No injuries reported after car runs into front of animal hospital - Livingston Parish announces waterways will be closed starting tomorrow following Tropical Storm... - Landry signs law making Louisiana first in nation to require Ten Commandments... - Our City, Our Problem: Domestic Violence",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Environment", "Weather"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "alberto",
+        "sentiment": "negative"
+      },
+      {
+        "name": "austin ford",
+        "sentiment": "none"
+      },
+      {
+        "name": "livingston",
+        "sentiment": "none"
+      },
+      {
+        "name": "kat",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "ford",
+        "sentiment": "none"
+      },
+      {
+        "name": "warsaw bar",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "livingston parish",
+        "sentiment": "none"
+      },
+      {
+        "name": "warsaw marina",
+        "sentiment": "none"
+      },
+      {
+        "name": "louisiana",
+        "sentiment": "none"
+      },
+      {
+        "name": "mexico",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-22T02:59:14.145+03:00",
+  "updated": "2024-06-22T02:59:14.145+03:00"
+}

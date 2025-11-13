@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "989ad03cc4313506207deb83260dbae4c0873ec2",
+    "url": "https://article.wn.com/view/2025/06/26/Possible_toxic_plant_found_at_Hokkaido_University",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/technology",
+    "site_categories": ["media"],
+    "section_title": "World News - Science and Technology",
+    "site_title": "World News",
+    "title": "Possible toxic plant found at Hokkaido University - Worldnews.com",
+    "title_full": "Possible toxic plant found at Hokkaido University - Worldnews.com",
+    "published": "2025-06-26T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3835,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "989ad03cc4313506207deb83260dbae4c0873ec2",
+  "url": "https://article.wn.com/view/2025/06/26/Possible_toxic_plant_found_at_Hokkaido_University",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-26T03:00:00.000+03:00",
+  "title": "Possible toxic plant found at Hokkaido University - Worldnews.com",
+  "text": "SAPPORO–A highly toxic plant suspected to be giant hogweed, which can cause severe damage to the skin, has been discovered growing on the Hokkaido University campus here, university officials announced on June 25. If confirmed, it would mark the first reported sighting of the plant in Japan, according to the Environment",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Environment", "Education"],
+  "topics": [
+    "Health->poisoning",
+    "Health->health organisation",
+    "Health->medical condition",
+    "Environment->endangered species",
+    "Environment->hazardous materials",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "SAPPORO",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Hokkaido University",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:30:06.048+03:00",
+  "updated": "2025-06-26T11:36:21.000+00:00"
+}

@@ -1,0 +1,133 @@
+{
+  "thread": {
+    "uuid": "f828a3fb72acb8e828b243b0836eebf1d51fa2c0",
+    "url": "https://www.newsbreak.com/wjbf-1589988/4240832893703-augusta-university-observes-constitution-day-sept-17-with-public-reading",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://newsbreak.com/augusta-ga",
+    "site_categories": ["under_construction"],
+    "section_title": "Augusta, GA Local News and More | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Augusta University observes Constitution Day Sept. 17 with public reading - NewsBreak",
+    "title_full": "Augusta University observes Constitution Day Sept. 17 with public reading - NewsBreak",
+    "published": "2025-09-18T04:58:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/4N2RMv_14q9d4HZ00",
+    "performance_score": 0,
+    "domain_rank": 2819,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f828a3fb72acb8e828b243b0836eebf1d51fa2c0",
+  "url": "https://www.newsbreak.com/wjbf-1589988/4240832893703-augusta-university-observes-constitution-day-sept-17-with-public-reading",
+  "ord_in_thread": 0,
+  "author": "Rakiyah Lenon",
+  "published": "2025-09-18T04:58:00.000+03:00",
+  "title": "Augusta University observes Constitution Day Sept. 17 with public reading - NewsBreak",
+  "text": "By Rakiyah Lenon No media credit provided. ,\n3 hours ago\nAUGUSTA, Ga. (WJBF) – Augusta University recognized Constitution Day on Wednesday with its annual celebration on campus.\nAU’s Libraries, Department of Communication and Department of Social Sciences partnered to host the event commemorating the signing of the United States Constitution 238 years ago, on Sept. 17.\nTyler Bush, member of AU’s ROTC. (photo courtesy of David Bulla) Volunteers gathered to read the U.S. Constitution, and informational tables provided information about voter registration.\nThe event, which was open to the public, was held in the Dr. Roscoe Williams Ballroom in the Jaguar Student Activities Center on the Summerville Campus.\nAll educational institutions that receive federal funding are required to have an educational program about the U.S. Constitution annually.\nCopyright 2025 Nexstar Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. For the latest news, weather, sports, and streaming video, head to WJBF.\n1",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest"],
+  "topics": [
+    "Education->students",
+    "Education->social learning",
+    "Education->college and university",
+    "Human Interest->anniversary"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=4N2RMv_14q9d4HZ00",
+    "https://img.particlenews.com/image.php?url=1GudY8_14q9d4HZ00",
+    "https://img.particlenews.com/image.php?url=4N2RMv_14q9d4HZ00",
+    "https://www.wjbf.com",
+    "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1GudY8_14q9d4HZ00",
+    "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1GudY8_14q9d4HZ00",
+    "https://www.img.particlenews.com/image.php?url=1GudY8_14q9d4HZ00",
+    "https://www.img.particlenews.com/image.php?url=4N2RMv_14q9d4HZ00",
+    "https://img.particlenews.com/image.php",
+    "https://wjbf.com",
+    "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=4N2RMv_14q9d4HZ00"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Rakiyah Lenon",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "David Bulla",
+        "sentiment": "none"
+      },
+      {
+        "name": "Tyler Bush",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Augusta University",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Nexstar Media, Inc",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "NXST",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:18:31.938+03:00",
+  "updated": "2025-09-18T08:32:10.000+03:00"
+}

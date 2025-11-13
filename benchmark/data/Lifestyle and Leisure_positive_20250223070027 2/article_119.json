@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "3ee1956e650cc94bcf2c8a5d4b7c99ef81d9ae43",
+    "url": "https://www.newsbreak.com/news/3774471957154-live-pet-connection-meet-storm",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/fargo-nd",
+    "site_categories": ["under_construction"],
+    "section_title": "Fargo, ND Local News and More | NewsBreak",
+    "title": "LIVE: Pet Connection: Meet Storm - NewsBreak",
+    "title_full": "LIVE: Pet Connection: Meet Storm - NewsBreak",
+    "published": "2025-01-23T21:12:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/0xgewL_0yNEyyRA00",
+    "performance_score": 0,
+    "domain_rank": 3577,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3ee1956e650cc94bcf2c8a5d4b7c99ef81d9ae43",
+  "url": "https://www.newsbreak.com/news/3774471957154-live-pet-connection-meet-storm",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Emily Welker",
+  "published": "2025-01-23T21:12:00.000+02:00",
+  "title": "LIVE: Pet Connection: Meet Storm - NewsBreak",
+  "text": "By Emily Welker ,\n2 hours ago FARGO — We’re on a real roll with the snow-loving, fluffy, northern breeds here on Pet Connection, and Storm the husky couldn’t be a more perfect example of a breed that loves our winter weather. He was found as a stray wandering the streets of Casselton before... Read full article\nRead in NewsBreak",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Lifestyle and Leisure"],
+  "topics": [
+    "Lifestyle and Leisure->hobby",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Emily Welker",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:05:32.566+02:00",
+  "updated": "2025-01-24T00:05:32.566+02:00"
+}

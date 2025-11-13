@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "e548b7743f575b603bae36cc8c8a99469ad56252",
+    "url": "https://avtorambler.com/news/54632190-elektromobil-podklyuchennyy-k-zaryadke-sgorel-dotla-vo-vladivostoke-video",
+    "site_full": "avtorambler.com",
+    "site": "avtorambler.com",
+    "site_section": "https://avtorambler.com/rss/news/latest/?limit=100",
+    "site_categories": [],
+    "section_title": "Последние новости — Рамблер/авто",
+    "site_title": null,
+    "title": "",
+    "title_full": "",
+    "published": "2025-05-08T06:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://img-renderer.rambler.ru/api/generate/media/?clusterId=54632190&amp;format=png",
+    "performance_score": 0,
+    "domain_rank": 177379,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e548b7743f575b603bae36cc8c8a99469ad56252",
+  "url": "https://avtorambler.com/news/54632190-elektromobil-podklyuchennyy-k-zaryadke-sgorel-dotla-vo-vladivostoke-video",
+  "ord_in_thread": 0,
+  "author": "Prim.News",
+  "published": "2025-05-08T06:32:00.000+03:00",
+  "title": "",
+  "text": "Электромобиль, подключённый к зарядке, сгорел дотла во Владивостоке (видео)\nВ результате возгорания огонь с полыхающего электромобиля перекинулся на другой рядом стоящий автомобиль. Машины выгорели полностью. Об этом сообщается в местных телеграм-каналах.\nКак сообщают очевидцы, Nissan Leaf вспыхнул на улице Фастовской. В процессе пожара огонь перекинулся на рядом стоящую машину. Прибывшие огнеборцы ликвидировали возгорание, но транспортные средства выгорели практически дотла.\nВ постах, размещённых ниже, опубликованы кадры, записанные очевидцами во время пожара и в процессе его тушения. О пострадавших информации нет.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident",
+    "Crime, Law and Justice",
+    "Environment"
+  ],
+  "topics": [
+    "Disaster and Accident->fire",
+    "Crime, Law and Justice->arson",
+    "Environment->hazardous materials",
+    "Environment->energy resources",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:46:51.682+03:00",
+  "updated": "2025-05-08T03:57:16.000+00:00"
+}

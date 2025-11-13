@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "ce11536f449698a85cbccabcd1a49ec50b9f7cd3",
+    "url": "https://www.aroged.com/2025/01/23/split-fiction-is-a-game-for-a-more-mature-audience-than-it-takes-two",
+    "site_full": "www.aroged.com",
+    "site": "aroged.com",
+    "site_section": "https://www.aroged.com/feed",
+    "site_categories": ["tech"],
+    "section_title": "Aroged",
+    "title": "Split Fiction is a game for a more mature audience than It Takes Two",
+    "title_full": "Split Fiction is a game for a more mature audience than It Takes Two",
+    "published": "2025-01-23T19:07:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 146732,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ce11536f449698a85cbccabcd1a49ec50b9f7cd3",
+  "url": "https://www.aroged.com/2025/01/23/split-fiction-is-a-game-for-a-more-mature-audience-than-it-takes-two",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Aroged",
+  "published": "2025-01-23T19:07:00.000+02:00",
+  "title": "Split Fiction is a game for a more mature audience than It Takes Two",
+  "text": "In December, the long-awaited announcement of a new game from Hazelight Studios took place. They presented the Split Fiction project, which should be released on March 6, 2025. This is again a cooperative game that involves active interaction between players, like the studio’s previous project, It Takes Two. But the rating of the new game is more adult.\nIMDA, which ranks games in Singapore, has given Split Fiction a 16+ rating. It Takes Two was rated General (suitable for all ages). The 16+ rating means that Split Fiction may contain blood, strong language and mild violence.\nThe main characters of the game Split Fiction will be two young writers – Mio and Zoe. One of them was creating fantasy, the other worked in the science fiction genre. As a result, they find themselves in the worlds of their own “mixed” stories, where they must undergo various challenges, fight enemies and solve puzzles.\nSplit Fiction is being developed on Unreal Engine 5; the game’s Steam page does not list a Russian localization.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Arts, Culture and Entertainment",
+    "Lifestyle and Leisure",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Arts, Culture and Entertainment->online media outlet",
+    "Arts, Culture and Entertainment->news media",
+    "Arts, Culture and Entertainment->culture",
+    "Lifestyle and Leisure->gaming and lottery",
+    "Lifestyle and Leisure->game",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->social sciences",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Zoe",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Hazelight Studios",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:44:44.331+02:00",
+  "updated": "2025-01-24T00:44:44.331+02:00"
+}

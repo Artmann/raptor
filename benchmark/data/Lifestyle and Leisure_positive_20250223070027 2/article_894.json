@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "a3dd30ca02ebd5acbbac78436909e9a9e66ddc4b",
+    "url": "https://www.newsbreak.com/news/3774327584289-loretto-boys-weather-storm-at-summertown",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/columbia-tn",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "Columbia, TN Local News and More | NewsBreak",
+    "title": "Loretto Boys Weather Storm at Summertown - NewsBreak",
+    "title_full": "Loretto Boys Weather Storm at Summertown - NewsBreak",
+    "published": "2025-01-23T18:54:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/21P2Yl_0yN5oaJO00",
+    "performance_score": 0,
+    "domain_rank": 3577,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a3dd30ca02ebd5acbbac78436909e9a9e66ddc4b",
+  "url": "https://www.newsbreak.com/news/3774327584289-loretto-boys-weather-storm-at-summertown",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "AJ Good",
+  "published": "2025-01-23T18:54:00.000+02:00",
+  "title": "Loretto Boys Weather Storm at Summertown - NewsBreak",
+  "text": "By AJ Good ,\n5 hours ago The Loretto boys basketball team has been making waves all season long. They are the lone undefeated team left in the state of Tennessee and have put up a lot of big numbers along the way. That was tested Tuesday night as they battled their biggest rival in Summertown. After... Read full article\nRead in NewsBreak",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->basketball",
+    "Sport->regular competition",
+    "Sport->sport achievement",
+    "Human Interest->record and achievement",
+    "Lifestyle and Leisure->exercise and fitness",
+    "Lifestyle and Leisure->game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "Summertown",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:39:31.613+02:00",
+  "updated": "2025-01-24T00:39:31.613+02:00"
+}

@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "f0f6b843e518a0eb26f347a55cbaf84c5956425d",
+    "url": "https://www.whio.com/news/local/traffic-multiple-vehicle-crash-i-75-harrison-twp-shuts-down-southbound-lanes/KNFY2IBIRRHJ7KE6W2OUHB2WU4/",
+    "site_full": "www.whio.com",
+    "site": "whio.com",
+    "site_section": "https://www.newsbreak.com/whio-dayton-523008",
+    "site_categories": ["under_construction", "non_standard_content"],
+    "section_title": "WHIO Dayton | NewsBreak",
+    "title": "TRAFFIC: Multiple-vehicle crash on I-75 in Harrison Twp. shuts down southbound lanes – WHIO TV 7 and WHIO Radio",
+    "title_full": "TRAFFIC: Multiple-vehicle crash on I-75 in Harrison Twp. shuts down southbound lanes – WHIO TV 7 and WHIO Radio",
+    "published": "2023-12-29T00:59:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/cev5mbnhNsidn6b46IrlfH25dyM=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/EBYNB3IM4FAJ5HMTYBUMBK3P4Y.jpg",
+    "performance_score": 0,
+    "domain_rank": 14169,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f0f6b843e518a0eb26f347a55cbaf84c5956425d",
+  "url": "https://www.whio.com/news/local/traffic-multiple-vehicle-crash-i-75-harrison-twp-shuts-down-southbound-lanes/KNFY2IBIRRHJ7KE6W2OUHB2WU4/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "WHIO Staff",
+  "published": "2023-12-29T00:59:00.000+02:00",
+  "title": "TRAFFIC: Multiple-vehicle crash on I-75 in Harrison Twp. shuts down southbound lanes – WHIO TV 7 and WHIO Radio",
+  "text": "HARRISON TWP. — UPDATE @ 7:37 p.m.: Two of the three lanes on southbound I-75 in Harrison Twp. have reopened following the three-vehicle crash Thursday afternoon that sent two people to an area hospital, the Ohio State Highway Patrol said. At 7:30 p.m. the left and middle lanes have reopened while the right lane will remain closed until ODOT can make repairs to the guardrail. According to the preliminary investigation, the crash south of Benchwood and Wyse roads and near Needmore Road involved a semitrailer and two passenger vehicles. The driver of one of the passenger vehicles was taken to Miami Valley Hospital’s main campus. The driver of the other passenger car was taken to Grandview. Their injuries are believed to be non-life-threatening, according to the state patrol. The driver of the semitrailer was not injured. INITIAL REPORT: A multiple-vehicle crash Thursday afternoon on I-75 South in the area of Benchwood Road, Harrison Twp., shut down all southbound lanes for several minutes. The left lane has been reopened, a motorist reported about 5:55 p.m. >> [State attorney general’s office asking for help identifying man found dead on railroad tracks](https://www.whio.com/news/state-and-regional/man-found-dead-ohio-train-tracks-ohio-ag-asking-help-identifying-him/6JW6ZWEXEBBRHDSPPT6H7SE5TM/) There are injuries in the crash that involved at least three vehicles, but the severity of the injuries is not known, according to the Ohio State Highway Patrol Dayton Post. Initial reports from Montgomery County Regional Dispatch suggested that at least one person reportedly was trapped in the wreckage and another of the vehicles was on its top. The person reportedly trapped has been freed from the wreckage, according to the state patrol dispatcher. The accident, on I-75 South in the area of Benchwood and Wyse roads, was reported at 4:52 p.m. Southbound traffic is being re-routed onto Benchwood Road and back onto the interstate as of 5:45 p.m. We will update this developing report as we learn. ©2023 Cox Media Group",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "wyse",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "whio",
+        "sentiment": "negative"
+      },
+      {
+        "name": "whio radio harrison",
+        "sentiment": "negative"
+      },
+      {
+        "name": "montgomery county regional dispatch",
+        "sentiment": "none"
+      },
+      {
+        "name": "cox media group",
+        "sentiment": "none"
+      },
+      {
+        "name": "ohio state highway patrol dayton post",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "harrison twp",
+        "sentiment": "none"
+      },
+      {
+        "name": "benchwood r",
+        "sentiment": "none"
+      },
+      {
+        "name": "benchwood",
+        "sentiment": "none"
+      },
+      {
+        "name": "benchwood road",
+        "sentiment": "none"
+      },
+      {
+        "name": "harrison twp.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:16:34.943+02:00",
+  "updated": "2023-12-29T04:00:03.504+02:00"
+}

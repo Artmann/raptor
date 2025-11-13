@@ -1,0 +1,118 @@
+{
+  "thread": {
+    "uuid": "b5f14db789d160f08c354071e5aac0bd74341b69",
+    "url": "https://www.laopiniondezamora.es/comarcas/2025/10/16/inyeccion-2-3-millones-restaurar-122679807.html",
+    "site_full": "www.laopiniondezamora.es",
+    "site": "laopiniondezamora.es",
+    "site_section": "https://www.laopiniondezamora.es/buzzeando",
+    "site_categories": ["media", "top_news_es", "top_news"],
+    "section_title": "BuZZeando, lo + viral con La Opinión de Zamora",
+    "site_title": "La Opinión de Zamora | Noticias 24 horas de Zamora",
+    "title": "La Junta invertirá 2,3 millones de euros en la recuperación de terrenos afectados por los incendios forestales en Zamora",
+    "title_full": "La Junta invertirá 2,3 millones de euros en la recuperación de terrenos afectados por los incendios forestales en Zamora",
+    "published": "2025-10-16T13:55:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://estaticos-cdn.prensaiberica.es/clip/676e9521-bce1-480b-a96e-0deaeaf933e8_16-9-discover-aspect-ratio_default_0.jpg",
+    "performance_score": 1,
+    "domain_rank": 58423,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 18,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b5f14db789d160f08c354071e5aac0bd74341b69",
+  "url": "https://www.laopiniondezamora.es/comarcas/2025/10/16/inyeccion-2-3-millones-restaurar-122679807.html",
+  "ord_in_thread": 0,
+  "author": "M. J. Cachazo",
+  "published": "2025-10-16T13:55:00.000+03:00",
+  "title": "La Junta invertirá 2,3 millones de euros en la recuperación de terrenos afectados por los incendios forestales en Zamora",
+  "text": "Inyección de 2,3 millones para restaurar terrenos afectados por los incendios de Puercas y Porto\nLa Junta contratará con carácter de emergencia actuaciones hidrológico forestales ante el riesgo de proliferación de plagas de escolítidos perforadores\nLa Junta ha autorizado una inversión de 2, 3 millones de euros para contratar actuaciones hidrológico-forestales en los terrenos afectados por los incendios de Porto de Sanabria, que se extendió a La Baña en León, y el originado en Puercas y se propagó a otros pueblos de Aliste el pasado verano.\nEl Consejo de Gobierno ha dado luz verde este jueves una inversión total de 3.150.000 euros, de los que 2 millones se destinarán a la ejecución de trabajos hidrológico-forestales en los terrenos afectados por el incendio de Porto de Sanabria y 300.000 euros para recuperar los calcinados por el fuego que comenzó en Puercas. El resto de la inversión será destinado a ejecutar actuaciones en Garaño (León), valoradas en 850.000 euros.\nLos incendios registrados el pasado verano provocaron la pérdida intrínseca del valor ecológico y económico del sistema forestal por lo que, como consecuencia de las llamas, carecen de la función protectora de la vegetación, lo que supone la aceleración de procesos de erosión y la afección de balances hidrológicos.\nRiesgos\nDel mismo modo, existe el riesgo de proliferación de plagas forestales de escolítidos perforadores, por lo que la Junta ha tenido que recurrir a la contratación de emergencia de los trabajos previstos para minimizar posibles daños.\nLos objetivos de las actuaciones hidrológico-forestales previstas son disminuir el aporte de cenizas y arrastres para contribuir el restablecimiento de la vegetación existente en la zona de forma previa al incendio, evitar la proliferación de plagas y de procesos erosivos, recuperar la integridad del ecosistema, conservar y mejorar el suelo, reducir el riesgo de avenidas e inundaciones, prevenir la proliferación de plagas en las masas forestales no afectadas por el fuego.\nLas actuaciones que se ejecutarán en los terrenos dañados por los incendios se centrarán en la trituración de árboles en pie creando un acolchado de astilla repartida sobre el terreno, el extendido de paja de forma aérea o manual, la construcción de fajinas, albarradas y diques para la disminución de la velocidad de circulación del agua y retener los sedimentos y la apertura de pistas de acceso a los rodales de actuación.\nLa intervención también contempla la construcción de charcas para suministrar agua a la fauna y disponer de puntos de agua para la extinción de incendios y la instalación de pastizales para favorecer y acelerar la cubierta vegetal, la aplicación de tratamientos contra plagas, la reparación de pistas, pasos de agua o depósitos y sus captaciones, el clareo, corta, desramado y tronzado de restos de madera, la recogida de semilla y otras actuaciones de control de la erosión y recuperación de la vegetación mediante desbroce, preparación del terreno y posterior semillado o plantación.\nSuscríbete para seguir leyendo",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Environment", "Economy, Business and Finance"],
+  "topics": [
+    "Environment->land resources",
+    "Environment->conservation",
+    "Economy, Business and Finance->energy and resource",
+    "Economy, Business and Finance->business financing"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Porto de Sanabria",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Garaño",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Consejo de Gobierno",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Junta",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_es", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:02:43.064+03:00",
+  "updated": "2025-10-17T14:16:56.000+03:00"
+}

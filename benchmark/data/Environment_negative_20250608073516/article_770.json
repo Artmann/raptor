@@ -1,0 +1,122 @@
+{
+  "thread": {
+    "uuid": "a2c0e4a729045125a06c5dd07f695307bf0c9207",
+    "url": "https://www.giornaledibrescia.it/cronaca/vobarno-castagno-500-anni-bisogno-cure-i3hfu9gc",
+    "site_full": "www.giornaledibrescia.it",
+    "site": "giornaledibrescia.it",
+    "site_section": "https://www.giornaledibrescia.it",
+    "site_categories": ["media", "top_news_it", "top_news"],
+    "section_title": "Giornale di Brescia: notizie e video di Brescia e provincia",
+    "site_title": "Giornale di Brescia: notizie e video di Brescia e provincia",
+    "title": "A Vobarno c'è un castagno di 500 anni che ha bisogno di cure",
+    "title_full": "A Vobarno c'è un castagno di 500 anni che ha bisogno di cure",
+    "published": "2025-05-08T05:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://api.gdb.atexcloud.io/image-service/view/acePublic/alias/contentid/1j1763p2d72v57qe6tf/0/il-castagno-tra-i-rovi.webp?f=16%3A9&amp;w=826",
+    "performance_score": 0,
+    "domain_rank": 59333,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a2c0e4a729045125a06c5dd07f695307bf0c9207",
+  "url": "https://www.giornaledibrescia.it/cronaca/vobarno-castagno-500-anni-bisogno-cure-i3hfu9gc",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T05:00:00.000+03:00",
+  "title": "A Vobarno c'è un castagno di 500 anni che ha bisogno di cure",
+  "text": "A Vobarno c’è un castagno di 500 anni che ha bisogno di cure\nUbaldo Vallini\nLa «Vrangina del Cùel», 8 metri di tronco e 18 di altezza, necessita di essere liberata dai rovi e di una potatura\nIl castagno tra i rovi\nÈ vecchio, vecchissimo. E come tale, a dispetto della sua robustezza, necessita di cure adeguate. È uno dei castagni più grandi dell’Italia settentrionale e per tutti è la «Vrangina del Cùel». Si crede abbia cinquecento anni, come hanno stimato alcuni studiosi. La storia Il nome «Vrangina» sembra sia riferito alla sua provenienza: la montagna perticarola di Levrange; «Cùel», invece, è la sua secolare dimora, ovvero l’omonima località che si trova sui monti di Vobarno, di fronte alla frazione Car\nRegistrati gratuitamente\nQuesto è un articolo GDB+. Accedi o registrati per continuare a leggerlo. È facile e veloce.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->endangered species",
+    "Environment->nature",
+    "Environment->conservation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ubaldo Vallini",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Vobarno",
+        "sentiment": "none"
+      },
+      {
+        "name": "Italia settentrionale",
+        "sentiment": "none"
+      },
+      {
+        "name": "Levrange",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Citigroup",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "C",
+            "exchange": "NYSE"
+          }
+        ]
+      },
+      {
+        "name": "E",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "E",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:06:18.805+03:00",
+  "updated": "2025-05-08T03:10:18.000+00:00"
+}

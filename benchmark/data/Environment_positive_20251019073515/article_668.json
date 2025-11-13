@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "a1d134b9e23bc2fb7a0f663015ebbe8a0c3e9ca6",
+    "url": "https://www.dakotanewsnetwork.com/2025/10/16/bepc-cuts-ribbon-on-new-power-facility-near-williston/",
+    "site_full": "www.dakotanewsnetwork.com",
+    "site": "dakotanewsnetwork.com",
+    "site_section": "https://www.dakotanewsnetwork.com",
+    "site_categories": [],
+    "section_title": "Dakota News Network",
+    "site_title": "Dakota News Network",
+    "title": "BEPC Cuts Ribbon On New Power Facility near Williston",
+    "title_full": "BEPC Cuts Ribbon On New Power Facility near Williston",
+    "published": "2025-10-16T15:06:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a1d134b9e23bc2fb7a0f663015ebbe8a0c3e9ca6",
+  "url": "https://www.dakotanewsnetwork.com/2025/10/16/bepc-cuts-ribbon-on-new-power-facility-near-williston/",
+  "ord_in_thread": 0,
+  "author": "Paul Bougie",
+  "published": "2025-10-16T15:06:00.000+03:00",
+  "title": "BEPC Cuts Ribbon On New Power Facility near Williston",
+  "text": "(Williston, ND) — Basin Electric Power Cooperative has cut the ribbon on the state’s largest single-site power project developed in the last four decades. Officials say phase four of the Pioneer Generation Station added 580 megawatts of new natural gas generation northwest of Williston. That’s enough power to serve nearly two to three cities the size of Bismarck-Mandan. Basin Electric also says that the additional reliable and affordable energy will help meet growing demand across the cooperative’s nine-state service area, stretching from the southwest of the U.S. to Canada. The company is already planning another project known as the Bison Generation Station, which includes a nearly 15-hundred-megawatt facility slated to come online around 2030.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Environment"],
+  "topics": [
+    "Economy, Business and Finance->energy and resource",
+    "Environment->energy resources"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Fullerton", "Embden", "Nunda", "Dakota", "Agar", "Provo"],
+      "state": ["South Dakota", "North Dakota", "Minnesota"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:41:31.101+03:00",
+  "updated": "2025-10-16T15:51:39.000+03:00"
+}

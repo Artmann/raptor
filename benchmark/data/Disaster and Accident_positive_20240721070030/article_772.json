@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "909dcbf69b4a823fdd24390375febd74b78c0e0e",
+    "url": "https://www.india.com/news/india/army-builds-150-ft-bridge-to-reconnect-border-villages-in-north-sikkim-after-heavy-rains-7034948",
+    "site_full": "www.india.com",
+    "site": "india.com",
+    "site_section": "https://www.india.com/states",
+    "site_categories": ["media", "cricket", "sports", "top_news"],
+    "section_title": "States and Union Territories of India: Know About States In India, News, Travel Destination, Famous Cities, Collages at India.com",
+    "title": "Army Builds 150-ft Bridge to Reconnect Border Villages in North Sikkim After Heavy Rains",
+    "title_full": "Army Builds 150-ft Bridge to Reconnect Border Villages in North Sikkim After Heavy Rains",
+    "published": "2024-06-23T19:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://static.india.com/wp-content/uploads/2024/06/assam-floods-2.jpg",
+    "performance_score": 0,
+    "domain_rank": 2686,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "909dcbf69b4a823fdd24390375febd74b78c0e0e",
+  "url": "https://www.india.com/news/india/army-builds-150-ft-bridge-to-reconnect-border-villages-in-north-sikkim-after-heavy-rains-7034948",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "PTI",
+  "published": "2024-06-23T19:30:00.000+03:00",
+  "title": "Army Builds 150-ft Bridge to Reconnect Border Villages in North Sikkim After Heavy Rains",
+  "text": "/ .verified-article img {display:inline-block;margin-right:5px;} @media screen and (max-width:766px){.common-all-content .verified-article img {width:25px!important;}} span.verified-article {background: #3aa84f1f;border-radius: 15px; padding-right: 10px;color: #3aa84f;display: inline-block;margin-bottom: 10px;} / virified logo / Arunachal Pradesh Cloudburst: पूर्वोत्तर के राज्यों में बारिश ने तबाही मचाई हुई है. असम में बाढ़ के कारण 10 जिलों में एक लाख से ज्यादा लोग प्रभावित हैं. वहीं, अरुणाचल प्रदेश के ईटानगर में रविवार सुबह बादल फटने से कई स्थानों पर भूस्खलन हुआ और बाढ़ जैसे हालात बन गए हैं. New Delhi: Engineers of the Indian Army have built a 150-ft-long suspension bridge over waters in north Sikkim to reconnect villages which got impacted due to heavy rains, a senior official said on Sunday.\nThe bridge was constructed by the engineers of the Trishakti Corps. The move has come as a respite to locals of these areas which got cut off, a senior official said.\nWorking under challenging conditions, the army engineers reaffirmed their technical proficiency by launching the foot suspension bridge in less than 48 hours over waters flowing at a speed of over 20 knots, the Army official said.\nThe bridge will now pave the way to re-establish connectivity with those areas and facilitate movement of people and provision of relief material to locals, officials said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Disaster and Accident", "Social Issue"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "army",
+        "sentiment": "negative"
+      },
+      {
+        "name": "trishakti corps",
+        "sentiment": "none"
+      },
+      {
+        "name": "indian army",
+        "sentiment": "none"
+      },
+      {
+        "name": "arunachal pradesh cloudburst",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "north sikkim",
+        "sentiment": "none"
+      },
+      {
+        "name": "new delhi",
+        "sentiment": "none"
+      },
+      {
+        "name": "sikkim",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-23T22:17:09.710+03:00",
+  "updated": "2024-06-23T22:17:09.710+03:00"
+}

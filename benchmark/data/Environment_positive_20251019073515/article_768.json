@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "bc638ecef3ab9420496ecc6a60306cf6bc09200d",
+    "url": "https://nrvnews.com/110-million-in-flood-preparedness-funding/",
+    "site_full": "nrvnews.com",
+    "site": "nrvnews.com",
+    "site_section": "https://world.einnews.com/ajax/headlines",
+    "site_categories": ["media"],
+    "section_title": "",
+    "site_title": "New River Valley News - NRVNews",
+    "title": "$110 million in flood preparedness funding - NRVNews",
+    "title_full": "$110 million in flood preparedness funding - NRVNews",
+    "published": "2025-10-16T15:26:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://nrvnews.com/wp-content/uploads/2025/06/DCR-logo.jpg",
+    "performance_score": 0,
+    "domain_rank": 923072,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bc638ecef3ab9420496ecc6a60306cf6bc09200d",
+  "url": "https://nrvnews.com/110-million-in-flood-preparedness-funding/",
+  "ord_in_thread": 0,
+  "author": "@nrvnews",
+  "published": "2025-10-16T15:26:00.000+03:00",
+  "title": "$110 million in flood preparedness funding - NRVNews",
+  "text": "$110 million in flood preparedness funding\nThe Virginia Department of Conservation and Recreation today announced the opening of the sixth round of the Community Flood Preparedness Fund.\nCommunities across the commonwealth are invited to apply for $50 million in grants and $35 million in loans to support flood mitigation projects that enhance community resilience and reduce the impact of flooding. A further $25 million in grants are available for Coastal Storm Risk Management and Flood Risk Management projects that have received construction authorization from the U.S. Army Corps of Engineers.\nApplications are due by 11:59 p.m. on Dec. 1, 2025.\nThe fund was established to provide funding for hazard mitigation and flood prevention projects to address the growing threat from recurrent flooding, sea level rise and extreme weather. The fund continues to prioritize projects that are in concert with local, state and federal floodplain management standards, local resilience plans and the Virginia Coastal Resilience Master Plan.\nInformation about the fund, eligibility rules, application procedures and instructions can be found in the fund’s grant manual posted on the Community Flood Preparedness Fund (CFPF) website: www.dcr.virginia.gov/cfpf.\nAll CFPF Round 6 applications must be submitted through DCR’s WebGrants Portal. A training video demonstrating how to use the portal is available on the CFPF website.\nSince 2021, the Community Flood Preparedness Fund has awarded over $220 million to Virginia communities for innovative flood resilience and mitigation projects. Through these investments, communities are better prepared to address the challenges of increasing flood risks.\nThe Virginia Department of Conservation and Recreation, in cooperation with the Virginia Resources Authority, administers the fund and grant program. DCR oversees the state’s floodplain management, flood resilience planning and dam safety programs and assists communities with requirements related to the National Flood Insurance Program.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment", "Economy, Business and Finance"],
+  "topics": [
+    "Environment->water",
+    "Environment->conservation",
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->business financing"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "http://www.dcr.virginia.gov/cfpf",
+    "http://dcr.virginia.gov/cfpf"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "bc638ecef3ab9420496ecc6a60306cf6bc09200d",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Dublin",
+        "New River",
+        "Pulaski",
+        "Blacksburg",
+        "Radford",
+        "Fairlawn",
+        "Belspring",
+        "Christiansburg",
+        "Riner"
+      ],
+      "state": ["Virginia"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:05:56.941+03:00",
+  "updated": "2025-10-16T16:28:58.000+03:00"
+}

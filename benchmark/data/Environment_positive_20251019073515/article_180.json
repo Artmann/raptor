@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "32c22e787bd9d8d3b8df9f70e3ad52eb99a8eed8",
+    "url": "http://www.iaea.org/zh/newscenter/multimedia/videos/shi-pin-an-quan-ge-si-da-li-jia-bu-duan-zeng-chang-de-chu-kou",
+    "site_full": "www.iaea.org",
+    "site": "iaea.org",
+    "site_section": "https://iaea.org/zh",
+    "site_categories": ["media"],
+    "section_title": "国际原子能机构 | 原子用于和平与发展",
+    "site_title": "International Atomic Energy Agency | Atoms for Peace and Development",
+    "title": "食品安全：哥斯达黎加不断增长的出口",
+    "title_full": "食品安全：哥斯达黎加不断增长的出口",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "http://www.iaea.org/sites/default/files/2025-10/240724_food_safety_costa_rica_chinese.jpg",
+    "performance_score": 0,
+    "domain_rank": 6828,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "32c22e787bd9d8d3b8df9f70e3ad52eb99a8eed8",
+  "url": "http://www.iaea.org/zh/newscenter/multimedia/videos/shi-pin-an-quan-ge-si-da-li-jia-bu-duan-zeng-chang-de-chu-kou",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T03:00:00.000+03:00",
+  "title": "食品安全：哥斯达黎加不断增长的出口",
+  "text": "Share\n确保食品安全对于保护公众健康和促进食品贸易至关重要。过去十年来，原子能机构一直支持哥斯达黎加利用核技术分析和检测食品污染物。有效的检测使哥斯达黎加在国际食品贸易市场上保持了竞争力和信誉，为该国农民带来了更大的繁荣和生计的改善。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Environment", "Health"],
+  "topics": ["Environment->sustainability", "Health->public health"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Vienna"],
+      "state": ["Louisiana"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:54:53.796+03:00",
+  "updated": "2025-10-16T14:10:12.000+03:00"
+}

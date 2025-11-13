@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "67fac243529b3beaf7f40dd6e72505aa86db06b8",
+    "url": "https://www.halifax.ca/home/news/holiday-safety-tips-2",
+    "site_full": "www.halifax.ca",
+    "site": "halifax.ca",
+    "site_section": "https://www.halifax.ca/news/",
+    "site_categories": ["media"],
+    "section_title": "News | Halifax",
+    "title": "Holiday safety tips | Halifax",
+    "title_full": "Holiday safety tips | Halifax",
+    "published": "2023-12-29T18:14:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 40821,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "67fac243529b3beaf7f40dd6e72505aa86db06b8",
+  "url": "https://www.halifax.ca/home/news/holiday-safety-tips-2",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2023-12-29T18:14:00.000+02:00",
+  "title": "Holiday safety tips | Halifax",
+  "text": "Posted: EN As we continue to celebrate the holiday season, Halifax Regional Police is sharing some tips to help you protect your home and property. - If you’re heading out, remember to lock all doors and windows. Consider leaving lights and a television on, or put them on a timer, to make it look like someone is home. - Leaving outside lights or motion sensors on makes it easier to see when you return and could deter would be criminals. - Consider leaving a spare key with a trusted neighbor, family member or friend rather than hiding it outside your home. - Lock your vehicle, even when parked in your driveway. Avoid leaving valuables in your vehicle, especially in plain view. - Don’t leave your garage control openly displayed in your vehicle. If your garage is connected to your home, keep the door leading from your garage to the house locked. - When putting your recyclables to the curb, cut up large boxes from new purchases and ensure you’re not advertising to criminals what new electronics/valuables might be in your home. - Report suspicious activity, such as a person trying the door handles of parked vehicles, to police by calling 902-490-5020 if it is in progress or 902-490-5016 after the fact. As we count down to 2024, we remind you to celebrate the New Year responsibly: - Never drive impaired or ride with an impaired driver. - Plan ahead if you’re going to be drinking or consuming cannabis or other drugs. Call a cab, arrange a designated driver, take public transit, or stay the night. - Call 911 if you see a driver who you suspect is impaired.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "halifax regional police",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "halifax",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T22:42:30.495+02:00",
+  "updated": "2023-12-29T22:42:30.495+02:00"
+}

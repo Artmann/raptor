@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "f6d696e7fb8f85a6981316f1c001512f9e314388",
+    "url": "https://www.targatocn.it/2025/10/16/leggi-notizia/argomenti/ultimora-2/articolo/galletti-novo-nordisk-italia-sostenibilita-e-centrale-noi-impegnati-per-zero-emissioni-al-204.html",
+    "site_full": "www.targatocn.it",
+    "site": "targatocn.it",
+    "site_section": "https://www.targatocn.it/rss.xml",
+    "site_categories": ["media", "top_news_it", "top_news"],
+    "section_title": "TargatoCn.it",
+    "site_title": "Targatocn.it&nbsp;-&nbsp;Notizie provincia di Cuneo - News e video in tempo reale di cronaca, politica, attualità, eventi",
+    "title": "Galletti (Novo Nordisk Italia): \"Sostenibilità è centrale, noi impegnati per zero emissioni al 2045\"",
+    "title_full": "Galletti (Novo Nordisk Italia): \"Sostenibilità è centrale, noi impegnati per zero emissioni al 2045\"",
+    "published": "2025-10-16T15:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://www.targatocn.it/fileadmin/archivio/adnkronos/imported/www.adnkronos.com_resources_029e-1ef8fda95893-fa1058f27015-1000_format_medium_galletti_comm.jpeg.jpeg",
+    "performance_score": 0,
+    "domain_rank": 65066,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f6d696e7fb8f85a6981316f1c001512f9e314388",
+  "url": "https://www.targatocn.it/2025/10/16/leggi-notizia/argomenti/ultimora-2/articolo/galletti-novo-nordisk-italia-sostenibilita-e-centrale-noi-impegnati-per-zero-emissioni-al-204.html",
+  "ord_in_thread": 0,
+  "author": "webinfo@adnkronos.com (Web Info)",
+  "published": "2025-10-16T15:32:00.000+03:00",
+  "title": "Galletti (Novo Nordisk Italia): \"Sostenibilità è centrale, noi impegnati per zero emissioni al 2045\"",
+  "text": "(Adnkronos) - \"Nel 2020 abbiamo lanciato la 'Circular for Zero', che ci ha posto come obiettivo nel 2045 di avere emissioni zero, che chiaramente per una società farmaceutica, che comunque ha impianti di produzione, è un obiettivo molto sfidante. Noi già oggi abbiamo tutte le nostre fabbriche che si affidano esclusivamente a fonti di energia rinnovabili e contiamo ad arrivare nel 2045 all'obiettivo. Da questo poi nascono tante altre progettualità, la cui cosa più importante è far sì che siano tangibili e calate sul territorio\". Così Alfredo Galletti, corporate vice president e gm Novo Nordisk Italia, intervenendo all'evento Adnkronos Q&A ‘Sostenibilità al bivio’ tenutosi oggi al Palazzo dell’Informazione a Roma. che ha ricordato come il cammino dell'azienda in ambito di sostenibilità sia iniziato 50 anni fa, nel 1975.\n\"Una delle progettualità a cui tengo maggiormente -ha continuato- è il nostro 'Cities for Better Health', che è una partnership fatta con varie città a livello di tutto il mondo, che inizia da dieci anni fa. E noi in Italia abbiamo partnership con vari comuni e copriamo 23 milioni di italiani, con progettualità piccole e ben specifiche, fatte in accordo con le istituzioni locali e secondo i bisogni di ciascuna città o di ciascuna realtà. Perché poi chiaramente questo obiettivo, la nostra ambizione non la possiamo raggiungere da soli e chiaramente tutti gli attori devono prendervi parte\", ha sottolineato.\nE Galletti ha sottolineato che \"abbiamo molta attenzione per la biodiversità, con ad esempio un'oasi ecologica con 60 mila api, in Toscana, che abbiamo creato per continuare a garantire il nostro impegno per la biodiversità\". \"E c'è anche innovazione dal punto di vista ambientale e di sostenibilità nei nostri prodotti. Qualche mese fa abbiamo lanciato la prima insulina settimanale al mondo. Chiaramente le nostre penne sono usa e getta, mentre prima un'iniezione giornaliera richiedeva chiaramente uno spreco di plastica che deve essere smaltita. Noi non solo ne abbiamo una settimanale, ma abbiamo anche messo in piedi un sistema di riciclo che si chiama ReMed, in sette città italiane con più di 230 farmacie dove il paziente può riportare queste penne una volta utilizzate e noi le ricicliamo e da questo facciamo svariati materiali\", ha concluso.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": ["Environment", "Health"],
+  "topics": [
+    "Environment->energy saving",
+    "Environment->sustainability",
+    "Health->health organisation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Alfredo Galletti",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palazzo dell’Informazione",
+        "sentiment": "none"
+      },
+      {
+        "name": "Italia",
+        "sentiment": "none"
+      },
+      {
+        "name": "Roma",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Adnkronos",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Novo Nordisk Italia",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_it", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:57:55.985+03:00",
+  "updated": "2025-10-17T16:05:29.000+03:00"
+}

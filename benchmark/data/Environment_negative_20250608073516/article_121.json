@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "1959c5ae00a1454da395595bb05ac5f890f54c26",
+    "url": "https://www.bangkokpost.com/thailand/general/3020085/cambodia-laos-restrict-livestock-imports",
+    "site_full": "www.bangkokpost.com",
+    "site": "bangkokpost.com",
+    "site_section": "https://www.bangkokpost.com/most-recent",
+    "site_categories": ["media", "top_news_th", "top_news_sg", "top_news"],
+    "section_title": "Bangkok Post - Most recent",
+    "site_title": "Bangkok Post - The world’s window on Thailand | Breaking news, Thailand news, Latest news, World news",
+    "title": "Cambodia, Laos restrict livestock imports",
+    "title_full": "Cambodia, Laos restrict livestock imports",
+    "published": "2025-05-08T00:55:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TH",
+    "main_image": "https://static.bangkokpost.com/media/content/20250508/c1_3020085_250508050449_700.jpg",
+    "performance_score": 0,
+    "domain_rank": 2175,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 15
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1959c5ae00a1454da395595bb05ac5f890f54c26",
+  "url": "https://www.bangkokpost.com/thailand/general/3020085/cambodia-laos-restrict-livestock-imports",
+  "ord_in_thread": 0,
+  "author": "Bangkok Post Public Company Limited",
+  "published": "2025-05-08T00:55:00.000+03:00",
+  "title": "Cambodia, Laos restrict livestock imports",
+  "text": "Cambodia and Laos have temporarily banned the import of livestock and related animal products from Thailand to prevent anthrax outbreaks.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Environment", "Social Issue"],
+  "topics": [
+    "Health->communicable disease",
+    "Health->government health care",
+    "Environment->animal",
+    "Environment->endangered species",
+    "Social Issue->social problem",
+    "Social Issue->social services",
+    "Social Issue->public housing"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Laos",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Ministry of Agriculture",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Xinhua News Agency",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:11:28.476+03:00",
+  "updated": "2025-05-08T04:37:57.559+03:00"
+}

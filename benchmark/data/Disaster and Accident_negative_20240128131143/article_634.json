@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "64a7a515c08d16cd990b69ab570950292897defc",
+    "url": "https://tdn.com/sr-503-road-damage-from-landslide/image_aa0f996c-a5cd-11ee-b52a-a770769042f0.html",
+    "site_full": "tdn.com",
+    "site": "tdn.com",
+    "site_section": "http://tdn.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k[]=%23topstory",
+    "site_categories": ["sports"],
+    "section_title": "tdn.com - RSS Results",
+    "title": "SR 503 road damage from landslide",
+    "title_full": "SR 503 road damage from landslide",
+    "published": "2023-12-29T00:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/tdn.com/content/tncms/assets/v3/editorial/a/a0/aa0f996c-a5cd-11ee-b52a-a770769042f0/658df277a014b.image.jpg?crop=800%2C420%2C0%2C90&amp;resize=800%2C420&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 23245,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "64a7a515c08d16cd990b69ab570950292897defc",
+  "url": "https://tdn.com/sr-503-road-damage-from-landslide/image_aa0f996c-a5cd-11ee-b52a-a770769042f0.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "WSDOT, Contributed",
+  "published": "2023-12-29T00:30:00.000+02:00",
+  "title": "SR 503 road damage from landslide",
+  "text": "SR 503 road damage from landslide\n- WSDOT, Contributed\n-\n-\n0\nMost Popular\n-\n[Trader Joe’s north of Vancouver city limits? Seems like it](/news/local/business/trader-joe-s-north-of-vancouver-city-limits-seems-like-it/article_dd922d3e-a44e-11ee-acc6-0bbd17843c39.html)\n-\n[Longview Centennial: Most hated man in city's century likely former metals plant owner](/news/local/history/longview-centennial-most-hated-man-in-citys-century-likely-former-metals-plant-owner/article_1562d596-895c-11ee-905d-27b83dadb130.html)\n-\n[Is Amtrak Cascades a new commuter option from Vancouver into Portland?](/news/local/is-amtrak-cascades-a-new-commuter-option-from-vancouver-into-portland/article_43e3bf0c-a1bc-11ee-9448-cfdd67a4c1c3.html)\n-\n[Cowlitz County health officers resign after county board of health votes down their contract renewals](/news/local/health/cowlitz-county-health-officers-resign-after-county-board-of-health-votes-down-their-contract-renewals/article_0e6d4090-a500-11ee-a068-1788f430c691.html)\n-\n[Two Kalama residents dead after one-vehicle crash Sunday](/news/local/two-kalama-residents-dead-after-one-vehicle-crash-sunday/article_7376b016-9dc6-11ee-94f3-57802736d1c7.html)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "joe",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "amtrak cascades",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "wsdot",
+        "sentiment": "none"
+      },
+      {
+        "name": "vancouver",
+        "sentiment": "none"
+      },
+      {
+        "name": "portland",
+        "sentiment": "none"
+      },
+      {
+        "name": "cowlitz county",
+        "sentiment": "none"
+      },
+      {
+        "name": "kalama",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:55:18.030+02:00",
+  "updated": "2023-12-29T00:55:18.030+02:00"
+}

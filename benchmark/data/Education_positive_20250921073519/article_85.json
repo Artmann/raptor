@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "85e3c7cf977993a0d4e1cd03b307199fb567a065",
+    "url": "https://goya.gob.ar/?q=content/olimpiada-argentina-filosofia",
+    "site_full": "goya.gob.ar",
+    "site": "goya.gob.ar",
+    "site_section": "https://goya.gob.ar/?q=novedades",
+    "site_categories": [],
+    "section_title": "Todas las noticias | Goya",
+    "site_title": "Inicio | Goya",
+    "title": "Olimpiada Argentina de Filosofía | Goya",
+    "title_full": "Olimpiada Argentina de Filosofía | Goya",
+    "published": "2025-09-17T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "https://res.cloudinary.com/dfui25d7j/image/upload/v1539441035/LOGO_RADIO-03_h7v6ew.jpg",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "85e3c7cf977993a0d4e1cd03b307199fb567a065",
+  "url": "https://goya.gob.ar/?q=content/olimpiada-argentina-filosofia",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-17T03:00:00.000+03:00",
+  "title": "Olimpiada Argentina de Filosofía | Goya",
+  "text": "Contenido principal\nOlimpiada Argentina de Filosofía\n17/09/2025\nEstudiantes del Instituto General San Martín obtienen el pasaje a la final nacional de esta prueba académica.\nEmiliano Fernández y Gonzalo Federico Calvi, jóvenes del citado instituto, representarán a la provincia de Corrientes en la instancia Nacional de la Olimpiada Argentina de Filosofía.\nOtro galardón recibido al mérito de la dedicación y preparación para ser parte de la olimpiada de referencia.\nLa comunidad educativa del instituto “Gral. San Martín” felicita a los estudiantes por esta oportunidad de representar a Corrientes a nivel nacional, agradeciendo el apoyo recibido para participar de la mencionada prueba académica.\nDirección de Prensa - Municipalidad de Goya",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->students",
+    "Education->college and university",
+    "Education->educational grading",
+    "Social Issue->children",
+    "Social Issue->social services",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Gonzalo Federico Calvi",
+        "sentiment": "none"
+      },
+      {
+        "name": "Emiliano Fernández",
+        "sentiment": "none"
+      },
+      {
+        "name": "Martín",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:42:26.424+03:00",
+  "updated": "2025-09-18T07:47:16.000+03:00"
+}

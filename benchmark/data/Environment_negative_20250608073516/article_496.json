@@ -1,0 +1,123 @@
+{
+  "thread": {
+    "uuid": "1b0ab0c24234f98fabf03bc4e0023a060d589fe1",
+    "url": "https://macaonews.org/news/around-the-world/aviation-flying-climate-change-emissions",
+    "site_full": "macaonews.org",
+    "site": "macaonews.org",
+    "site_section": "https://www.macaonews.org",
+    "site_categories": ["under_construction"],
+    "section_title": "Macao News",
+    "site_title": "Macao News",
+    "title": "The aviation industry is failing its climate goals 'dramatically,' experts say",
+    "title_full": "The aviation industry is failing its climate goals 'dramatically,' experts say",
+    "published": "2025-05-08T01:48:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TN",
+    "main_image": "https://macaonews.org/wp-content/uploads/2025/05/Aviation-Indsutry-Climate-Change.jpg",
+    "performance_score": 0,
+    "domain_rank": 147114,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1b0ab0c24234f98fabf03bc4e0023a060d589fe1",
+  "url": "https://macaonews.org/news/around-the-world/aviation-flying-climate-change-emissions",
+  "ord_in_thread": 0,
+  "author": "Staff Reporter",
+  "published": "2025-05-08T01:48:00.000+03:00",
+  "title": "The aviation industry is failing its climate goals 'dramatically,' experts say",
+  "text": "Current and former aviation professionals have rallied together to call for a fundamental transition of the industry.\nAccording to a report in the Guardian , the newly formed Call Aviation to Action believes the industry is overly optimistic about emissions-cutting technology and stuck in a business model that requires ever-increasing flight numbers.\nCarbon dioxide emissions from aviation are not part of any national country plan. Instead, they are governed by the International Civil Aviation Organization (ICAO), a UN body that is “failing dramatically” at tackling greenhouse gas emissions in the industry according to Karel Bockstael, a co-founder of the group, and a vice-president of sustainability at KLM Royal Dutch Airlines until 2022.\nCriticised by experts as “ unambitious and problematic ”, the ICAO’s Corsia scheme took eight years to create and amounts to nothing more than voluntary carbon offsets, doing nothing to actually curb emissions at the source. “If we do not act, by 2050 aviation emissions will be about a quarter of all human-caused emissions,” Bockstael warned. “We hope our initiative will help a really big group of aviation professionals to speak up, because we think they’re the silent majority.”\nLaunched on Tuesday, Call Aviation to Action has amassed nearly 200 members eager to chart a new, sustainable course for the future. The group has four goals for this year, the first centering on setting absolute emission reduction targets in line with carbon budgets as “delayed action makes the problem harder to tackle.”\n[ See more: Macao pledges support for sustainable development MIECF ]\nThe second is a new approach to lobbying, actively advocating for and implementing regulation to keep the industry on track, ensure a level playing field, and drive innovation. Striving for perfect policies, they say, should not delay the implementation of already good ones.\nThirdly, the group wants a realistic approach to the availability of new technologies, in terms of time, scale, cost and business planning. Lastly, it calls on the industry to acknowledge that managing global demand fairly is part of the solution.\nConstraints on demand such as flight or carbon taxes, Bockstael noted, should offer equitable access to flying in developing countries and address heavy frequent flyers in rich countries – just one percent of the world’s population is responsible for half of aviation emissions . Instead of the industry adding more and more routes, the group also advocates for intelligent demand management, focused on maintaining the societally most valuable connections so that air travel remains available to the largest group of people and those who rely on it the most.\nFor those who have already joined the group, this simple but revolutionary outlook is energising after so many years of delay.\n“I can’t wait to see the aviation industry leadership finally getting real about the climate crisis and mobilising the imagination and courage from which flying was born in the first place,” said Jan Ernst de Groot, former managing director and executive board member of KLM.\n “The climate can has been kicked down the road for too long,” he told the Guardian .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Environment", "Social Issue"],
+  "topics": [
+    "Environment->sustainability",
+    "Environment->climate change",
+    "Environment->energy resources",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://carbonmarketwatch.org/2024/11/25/eus-emissions-trading-system-v-uns-corsia-which-is-better-for-the-climate/",
+    "https://www.icao.int/environmental-protection/CORSIA/pages/default.aspx",
+    "https://www.theguardian.com/business/2020/nov/17/people-cause-global-aviation-emissions-study-covid-19",
+    "https://www.callaviationtoaction.org/",
+    "https://www.theguardian.com/environment/2025/may/06/aviation-industry-failing-dramatically-on-climate-insiders-say",
+    "https://theguardian.com/environment/2025/may/06/aviation-industry-failing-dramatically-on-climate-insiders-say",
+    "https://www.callaviationtoaction.org",
+    "https://theguardian.com/business/2020/nov/17/people-cause-global-aviation-emissions-study-covid-19",
+    "https://www.carbonmarketwatch.org/2024/11/25/eus-emissions-trading-system-v-uns-corsia-which-is-better-for-the-climate/",
+    "https://icao.int/environmental-protection/CORSIA/pages/default.aspx",
+    "https://callaviationtoaction.org/",
+    "https://carbonmarketwatch.org/2024/11/25/eus-emissions-trading-system-v-uns-corsia-which-is-better-for-the-climate"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Karel Bockstael",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "International Civil Aviation Organization",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "KLM Royal Dutch Airlines",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "ICAO",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "UN",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:21:53.211+03:00",
+  "updated": "2025-05-08T01:25:39.000+00:00"
+}

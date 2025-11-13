@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "c64926eba6ba03bca216204ddce90bd3097a3ade",
+    "url": "https://www.rsi.ch/sport/hockey/Il-Lugano-piega-il-Ginevra-e-manda-un-primo-segnale--2529169.html",
+    "site_full": "www.rsi.ch",
+    "site": "rsi.ch",
+    "site_section": "http://www.rsi.ch/?widgetName=rssfeed&widgetContentId=456&getXmlFeed=true&f=rss",
+    "site_categories": ["media"],
+    "section_title": "RSI - News",
+    "title": "Il Lugano piega il Ginevra e manda un primo segnale",
+    "title_full": "Il Lugano piega il Ginevra e manda un primo segnale",
+    "published": "2025-01-23T23:02:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CH",
+    "main_image": "https://cleaver.cue.rsi.ch/image-version?name=meta&width=1000&height=562&url=https://cleaver.cue.rsi.ch/public/sport/hockey/2529694-rumv1l-Lugano/alternates/r16x9/2529694-rumv1l-Lugano",
+    "performance_score": 0,
+    "domain_rank": 19221,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c64926eba6ba03bca216204ddce90bd3097a3ade",
+  "url": "https://www.rsi.ch/sport/hockey/Il-Lugano-piega-il-Ginevra-e-manda-un-primo-segnale--2529169.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Notizie, Sport, eventi live",
+  "published": "2025-01-23T23:02:00.000+02:00",
+  "title": "Il Lugano piega il Ginevra e manda un primo segnale",
+  "text": "Il Lugano ha iniziato nel miglior modo possibile il tour de force di quattro partite in sei giorni. Obbligati a fare punti per risalire la china e alimentare le speranze del ridimensionato obiettivo dei play-in, i bianconeri non hanno fallito l’appuntamento della Cornèr Arena con il Ginevra, sceso in Ticino - va sottolineato - con soli tre stranieri e diverse assenze. Il 5-2 finale è comunque fedele testimone di una partita che i padroni di casa hanno approcciato con l’atteggiamento di chi ci crede per davvero e che ha evidenziato, più che la solidità difensiva, un ritrovato powerplay. Un altro esercizio fondamentale su cui costruire il finale di stagione.\nGettato per la prima volta nella mischia Sekac, il cui rientro dalla squalifica ha portato al cambio tra Schlegel-Huska tra i pali, Krupp ha potuto assistere ad un inizio di partita sicuramente positivo dei suoi, subito dinamici e presenti sul fronte offensivo anche se mai davvero pericolosi. Gli ospiti si sono invece fatti vedere per la prima volta con Loosli, scappato a tu per tu con Schlegel ma fermato al momento del tiro, prima di trovare il gol del vantaggio all’11’27” con Praplan, che ha approfittato del lavoro di Richard dopo un ingaggio malamente gestito da Zohorna in box play. Il vantaggio ha scosso i ginevrini, vicini addirittura al raddoppio con Karrer (traversa), che sarebbe però stato esagerato considerate le grandi opportunità mancate da Marco Müller e Fazzini sul finale di primo periodo.\nMal ripagato, l’HCL ha insistito in avvio di secondo, andando vicino al pareggio con Patry e Thürkauf. Vissuta un ventina di secondi surreale a metà confronto, con gli arbitri che si sono accorti colpevolmente in ritardo dei sei uomini sul ghiaccio del Servette, i bianconeri non hanno sfruttato il conseguente (primo) powerplay, venendo finalmente premiati tre volte tra il 34’06” e il 39’12” con Alatalo (powerplay), Patry (ripartenza) e Thürkauf (powerplay). I due ferri colpiti da Hartikainen e Praplan hanno forse avuto il pregio di mettere in guardia i bianconeri in un terzo tempo che li ha visti replicare al 2-3 di Berni (5 contro 4 al 45’51”) con l’immediato 4-2 di Jesper Peltonen (47’04”). Un gol, questo, che ha dunque sottolineato i progressi anche sul piano caratteriale, anticipando quello che ha definito il punteggio di Zohorna al 56’40”.\nNL, l’intervista a Lorenzo Canonica (23.01.2025)\nRSI Sport 23.01.2025, 22:17\nNL, l’intervista a Marco Müller (23.01.2025)\nRSI Sport 23.01.2025, 22:28\nLegato a Sport e Musica del 23.01.2025",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->regular competition",
+    "Sport->ice hockey",
+    "Sport->sport event",
+    "Lifestyle and Leisure->game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Schlegel",
+        "sentiment": "none"
+      },
+      {
+        "name": "Loosli",
+        "sentiment": "none"
+      },
+      {
+        "name": "Krupp",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "Lugano",
+        "sentiment": "none"
+      },
+      {
+        "name": "mischia Sekac",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ginevra",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ticino",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:14:33.142+02:00",
+  "updated": "2025-01-24T00:14:33.142+02:00"
+}

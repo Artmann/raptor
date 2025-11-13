@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "00e25828cf377e817ca9b9d00de928ca9465d21d",
+    "url": "https://www.chagrinvalleytoday.com/communities/article_81364d48-c180-44db-bd1d-2246c8599bab.html",
+    "site_full": "www.chagrinvalleytoday.com",
+    "site": "chagrinvalleytoday.com",
+    "site_section": "http://www.chagrinvalleytoday.com/search/?f=rss&t=article&c=communities&l=50&s=start_time&sd=desc",
+    "site_categories": ["media", "tech"],
+    "section_title": "www.chagrinvalleytoday.com - RSS Results in communities of type article",
+    "site_title": "chagrinvalleytoday.com | Chagrin Valley Times, Solon Times, Geauga Times Courier",
+    "title": "Kenston students cheer on playground opening",
+    "title_full": "Kenston students cheer on playground opening",
+    "published": "2025-09-18T07:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/chagrinvalleytoday.com/content/tncms/assets/v3/editorial/8/14/81413aeb-dc32-46e0-836b-6d7589aa1892/68cb2d51b6447.image.jpg?crop=281%2C281%2C47%2C0&amp;resize=200%2C200&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "00e25828cf377e817ca9b9d00de928ca9465d21d",
+  "url": "https://www.chagrinvalleytoday.com/communities/article_81364d48-c180-44db-bd1d-2246c8599bab.html",
+  "ord_in_thread": 0,
+  "author": "MICHELE COLLINS",
+  "published": "2025-09-18T07:00:00.000+03:00",
+  "title": "Kenston students cheer on playground opening",
+  "text": "The 740 students at Kenston’s Timmons Elementary School started their Tuesday with a celebration and ribbon-cutting, as their principal, superintendent and school mascot opened their new school playground at the elementary school for kindergarten through third-graders.\nAs the children chanted in unison, “Cut it!” Cut it!” eight third graders helped the administrators to cut the ribbon and open the new playground, which was constructed in just the last month.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": [
+    "Education->students",
+    "Education->primary education",
+    "Education->school",
+    "Human Interest->ceremony",
+    "Social Issue->social services",
+    "Social Issue->children",
+    "Social Issue->communities"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Timmons Elementary School",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Chagrin Falls", "Hunting Valley", "Solon", "South Solon"],
+      "state": ["Ohio"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:54:27.676+03:00",
+  "updated": "2025-09-18T09:01:20.000+03:00"
+}

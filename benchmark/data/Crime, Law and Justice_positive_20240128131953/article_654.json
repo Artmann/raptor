@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "b74e40a42a21e135ebda02e110ee9b891900b59a",
+    "url": "https://www.wcnc.com/article/news/local/matthews-k9-vested-interest-in-k9s-donation-body-armor/275-824ab7ac-6563-4bc8-99ec-402bb0ed75bd",
+    "site_full": "www.wcnc.com",
+    "site": "wcnc.com",
+    "site_section": "http://rssfeeds.wcnc.com/_/20/109747464/wcnc/home",
+    "site_categories": ["media"],
+    "section_title": "WCNC - News",
+    "title": "Matthews K9 gets donation of body armor from nonprofit | wcnc.com",
+    "title_full": "Matthews K9 gets donation of body armor from nonprofit | wcnc.com",
+    "published": "2023-12-29T20:44:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.wcnc.com/assets/WCNC/images/c8407d92-5905-458b-b926-2f9859ae6c49/c8407d92-5905-458b-b926-2f9859ae6c49_1140x641.jpg",
+    "performance_score": 0,
+    "domain_rank": 9693,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b74e40a42a21e135ebda02e110ee9b891900b59a",
+  "url": "https://www.wcnc.com/article/news/local/matthews-k9-vested-interest-in-k9s-donation-body-armor/275-824ab7ac-6563-4bc8-99ec-402bb0ed75bd",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Emma Korynta",
+  "published": "2023-12-29T20:44:00.000+02:00",
+  "title": "Matthews K9 gets donation of body armor from nonprofit | wcnc.com",
+  "text": "MATTHEWS, N.C. — K9 Rhett with the Matthews Police Department is getting a brand new bullet and stab protective vest. It's all thanks to the nonprofit Vested Interest in K9s, Inc. , which provided a charitable donation to the department.\nThe nonprofit was established in 2019 and aims to provide dogs of law enforcement and related agencies with bullet and stab protective vests and other assistance. The body armor is made in the United States, is custom fitted to each K9, and is certified by the National Institute of Justice.\nThe nonprofit said a $985 donation sponsors one vest , and each vest has a value of $1,800. Each vest weighs roughly 5 pounds, and includes a five-year warranty.\n\"The Matthews Police Department would like to express our deepest gratitude to Vested Interest in K9's for their generosity in awarding Rhett such a vital tool to help keep him safe while he's working hard to protect the citizens of Matthews,\" Matthews Police Department officials said in a news release.\nCredit: Matthews Police Department K9 Rhett's armor is expected to arrive within eight to 10 weeks.\n.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Crime, Law and Justice", "Social Issue"],
+  "external_links": [
+    "https://www.youtube.com/embed/videoseries",
+    "https://digitalsupport335727.typeform.com/to/I9VKYl5J?typeform-welcome=0&disable-auto-focus=true",
+    "https://www.nij.ojp.gov/topics/equipment-and-technology/body-armor/performance-standards-and-compliance-testing",
+    "https://www.matthewsnc.gov/police",
+    "https://www.vik9s.org/become-a-sponsor/",
+    "https://vik9s.org/become-a-sponsor/",
+    "https://nij.ojp.gov/topics/equipment-and-technology/body-armor/performance-standards-and-compliance-testing",
+    "http://vik9s.org",
+    "https://www.vik9s.org/become-a-sponsor",
+    "https://www.digitalsupport335727.typeform.com/to/I9VKYl5J?typeform-welcome=0&disable-auto-focus=true",
+    "https://matthewsnc.gov/police",
+    "https://digitalsupport335727.typeform.com/to/I9VKYl5J",
+    "http://www.vik9s.org",
+    "https://www.youtube.com/embed/videoseries?list=PL8oZAT4zituBfrdL2s0kkpnYyDTEx198t",
+    "https://youtube.com/embed/videoseries?list=PL8oZAT4zituBfrdL2s0kkpnYyDTEx198t"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "matthews",
+        "sentiment": "negative"
+      },
+      {
+        "name": "rhett",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "matthews police department",
+        "sentiment": "negative"
+      },
+      {
+        "name": "vested interest in k9s, inc.",
+        "sentiment": "none"
+      },
+      {
+        "name": "national institute of justice",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "matthews",
+        "sentiment": "none"
+      },
+      {
+        "name": "n.c.",
+        "sentiment": "none"
+      },
+      {
+        "name": "united states",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T20:53:25.776+02:00",
+  "updated": "2023-12-29T21:58:11.264+02:00"
+}

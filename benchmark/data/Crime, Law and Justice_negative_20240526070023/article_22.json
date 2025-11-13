@@ -1,0 +1,70 @@
+{
+  "thread": {
+    "uuid": "d128483c47b7942ca0c0889f2cb2cade4b714bc1",
+    "url": "https://lwn.net/Articles/971198",
+    "site_full": "lwn.net",
+    "site": "lwn.net",
+    "site_section": "https://lwn.net/headlines/Comments",
+    "site_categories": ["unix", "tech"],
+    "section_title": "LWN.net comments",
+    "title": "GitHub comments used to distribute malware (BleepingComputer)",
+    "title_full": "GitHub comments used to distribute malware (BleepingComputer)",
+    "published": "2024-04-25T22:52:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3734,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d128483c47b7942ca0c0889f2cb2cade4b714bc1",
+  "url": "https://lwn.net/Articles/971198",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "srdjant",
+  "published": "2024-04-25T22:52:00.000+03:00",
+  "title": "GitHub comments used to distribute malware (BleepingComputer)",
+  "text": "GitHub comments used to distribute malware (BleepingComputer)\nGitHub comments used to distribute malware (BleepingComputer)Posted Apr 25, 2024 19:52 UTC (Thu) by srdjant (guest, #171146)\nIn reply to:\n[GitHub comments used to distribute malware (BleepingComputer)](/Articles/971051/)by rrolls\nParent article:\n[GitHub comments used to distribute malware (BleepingComputer)](/Articles/971008/)\nWhat is interesting, is that this is the same git repo that was mentioned in another LWN article's comments (\nI would say it's probably just a random co-incidence, but I am not surprised that devs and maintainers are now looking carefully at their own, and other important projects for signs of attack (e.g. the ZSH Plugin Manager video from 8 days ago).\nhttps://lwn.net/Articles/967866/) regarding the actions of a specific user that was (probably innocently) suspected of being involved with the XZ attack, because of their actions (being pushy about updating a version to the vulnerable xz version) in an issue for that repo.\nI would say it's probably just a random co-incidence, but I am not surprised that devs and maintainers are now looking carefully at their own, and other important projects for signs of attack (e.g. the ZSH Plugin Manager video from 8 days ago).\n(\nLog into post comments)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:01:28.975+03:00",
+  "updated": "2024-04-26T00:01:28.975+03:00"
+}

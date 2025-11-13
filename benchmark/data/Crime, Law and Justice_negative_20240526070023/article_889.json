@@ -1,0 +1,129 @@
+{
+  "thread": {
+    "uuid": "1705cb6d45ce88539419292c198299ea0ddf8185",
+    "url": "https://www.foxnews.com/politics/ny-v-trump-tabloid-publisher-testifies-he-bought-stories-on-tiger-woods-ex-obama-chief-staff",
+    "site_full": "www.foxnews.com",
+    "site": "foxnews.com",
+    "site_section": "https://georgemagazine.com/category/fox-news-feed/feed/",
+    "site_categories": ["media", "top_news"],
+    "section_title": "Fox news feed | George Magazine",
+    "title": "NY v. Trump: Tabloid publisher testifies he bought stories on Tiger Woods, ex-Obama chief of staff | Fox News",
+    "title_full": "NY v. Trump: Tabloid publisher testifies he bought stories on Tiger Woods, ex-Obama chief of staff | Fox News",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/Tiger-Woods-Blue.jpg",
+    "performance_score": 0,
+    "domain_rank": 295,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1705cb6d45ce88539419292c198299ea0ddf8185",
+  "url": "https://www.foxnews.com/politics/ny-v-trump-tabloid-publisher-testifies-he-bought-stories-on-tiger-woods-ex-obama-chief-staff",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Brooke Singman",
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "NY v. Trump: Tabloid publisher testifies he bought stories on Tiger Woods, ex-Obama chief of staff | Fox News",
+  "text": "A former tabloid publisher and key witness for the prosecution testified that he purchased stories about professional golfer Tiger Woods, former Obama chief of staff Rahm Emanuel, among others during questioning by defense attorneys for former President Trump. Prosecutors from Manhattan District Attorney Alvin Bragg’s office brought David Pecker, their first witness, to the stand for the third day Thursday. Pecker is the former CEO of American Media Inc., the parent company of publications such as the National Enquirer, who has known Trump stretching back to the 1980s. Prosecutors allege that Pecker worked closely with the Trump campaign to bury negative information about Trump ahead of the 2016 election. Trump is accused of falsifying records related to the alleged \\\"catch and kill\\\" scheme. Pecker testified that he purchased negative stories about Trump before the 2016 election and did not publish them — known as a \\\"catch and kill\\\" scheme. The stories included allegations from adult film actress Stormy Daniels and Playboy model Karen McDougal about affairs with Trump. NY PROSECUTORS REVEAL 'ANOTHER CRIME' TRUMP ALLEGEDLY TRIED TO CONCEAL WITH FALSIFIED BUSINESS RECORDS With regard to negative stories coming out about Trump before the election, Pecker testified that Trump was concerned about what his family would say about it, specifically about how it would impact his wife Melania Trump and daughter Ivanka Trump. Pecker also testified that Trump was concerned about what the impact would be on his campaign in 2016. But under cross-examination by Trump defense attorney Emil Bove, Pecker testified he purchased stories about other high-profile individuals besides Trump. Pecker testified he purchased a story about professional golfer Tiger Woods, and a story about Rahm Emanuel in 2009 after he left the Obama White House. Pecker said he purchased the story about an alleged affair Emanuel had so that it would not be published. Emanuel also later served as ambassador to Japan. TRUMP TRIAL: FORMER PRESIDENT 'INNOCENT,' DEFENSE SAYS AS DA ALLEGES 'CRIMINAL CONSPIRACY' Pecker also testified that he worked with Trump attorney Michael Cohen in his capacity as the former president’s personal attorney — not as part of the 2016 campaign. Pecker testified that American Media Inc., the owner of the National Enquirer, testified that before purchasing stories, the company would vet them for truthfulness. He also testified that there were instances AMI would purchase a story to use as leverage. When asked if this was standard, Pecker testified: \\\"Yes.\\\" Pecker also said Thursday that Trump \\\"was my mentor.\\\" \\\"He helped me throughout my career,\\\" Pecker said, saying Trump was often the first person to call him when he needed help. \\\"Even though we haven’t spoken, I still considered him a friend,\\\" Pecker said. Bragg charged Trump with 34 counts of falsifying business records in the first degree. Bragg alleges that Trump ex-attorney Michael Cohen orchestrated hush money payments to Stormy Daniels and Karen McDougal to prevent them from sharing their stories about alleged affairs with Trump. Bragg is trying to prove that Trump was aware of those payments, and allegedly falsified records of payments to Cohen as \\\"legal expenses\\\" rather than repayments for the hush money. NY VS TRUMP: THE EVIDENCE PROSECUTORS CAN PRESENT IF FORMER PRESIDENT TESTIFIES Trump has pleaded not guilty to all counts and told Fox News Digital in an exclusive interview on Thursday that he was simply paying Cohen legal fees because Cohen was his lawyer. Bragg also alleged American Media Inc., which Pecker was the CEO of, allegedly employed the \\\"catch and kill\\\" strategy to bury stories — specifically Karen McDougal's. Bragg and prosecutors sought to convince the jury that Pecker's work to do this was made with the blessing of Trump's 2016 campaign. CLICK HERE TO GET THE FOX NEWS APP Pecker, though, testified that he worked with Cohen in his capacity as Trump's personal attorney. Pecker's cross-examination is expected to continue Friday morning.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Politics", "Human Interest"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "trump",
+        "sentiment": "negative"
+      },
+      {
+        "name": "tiger woods",
+        "sentiment": "negative"
+      },
+      {
+        "name": "alvin bragg",
+        "sentiment": "none"
+      },
+      {
+        "name": "stormy daniels",
+        "sentiment": "none"
+      },
+      {
+        "name": "obama",
+        "sentiment": "none"
+      },
+      {
+        "name": "david pecker",
+        "sentiment": "none"
+      },
+      {
+        "name": "pecker",
+        "sentiment": "none"
+      },
+      {
+        "name": "karen mcdougal",
+        "sentiment": "none"
+      },
+      {
+        "name": "rahm emanuel",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "fox news",
+        "sentiment": "negative"
+      },
+      {
+        "name": "national enquirer",
+        "sentiment": "none"
+      },
+      {
+        "name": "playboy",
+        "sentiment": "none"
+      },
+      {
+        "name": "american media inc.",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "manhattan",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:42:42.841+03:00",
+  "updated": "2024-04-26T02:36:27.364+03:00"
+}

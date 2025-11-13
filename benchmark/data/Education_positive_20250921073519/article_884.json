@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "2767854c37c4f86bbc9ea8865f828591c2be7bed",
+    "url": "https://malaysia.shafaqna.com/EN/AL/4111803",
+    "site_full": "malaysia.shafaqna.com",
+    "site": "shafaqna.com",
+    "site_section": "http://malaysia.shafaqna.com/rss.xml",
+    "site_categories": ["tech", "top_news_iq", "top_news"],
+    "section_title": "Malaysia News (News reader) | ",
+    "site_title": "Malaysia News (News reader)",
+    "title": "Cyberjaya College Kuching diploma equips students to become medical assistants, provides real clinical experience",
+    "title_full": "Cyberjaya College Kuching diploma equips students to become medical assistants, provides real clinical experience",
+    "published": "2025-09-18T09:08:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 42559,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2767854c37c4f86bbc9ea8865f828591c2be7bed",
+  "url": "https://malaysia.shafaqna.com/EN/AL/4111803",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T09:08:00.000+03:00",
+  "title": "Cyberjaya College Kuching diploma equips students to become medical assistants, provides real clinical experience",
+  "text": "KUALA LUMPUR (Sept 18): Medical assistants play a crucial role in Malaysia s healthcare system, supporting doctors and nurses in clinical examinations, medical procedures, record-keeping, and community outreach. In Sarawak, the demand for trained medical assistants is especially pressing in rural areas where access to healthcare remains limited. Deputy Premier as well as Minister of Public [...]\nThe post Cyberjaya College Kuching diploma equips students to become medical assistants, provides real clinical experience appeared first on Borneo Post Online.\ntheborneopost- 5 minutes ago\nCyberjaya College Kuching diploma equips students to become medical assistants, provides real clinical experience\nLatest News\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n| | | | | | | | | | | |",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Health", "Education"],
+  "topics": [
+    "Health->medical staff",
+    "Health->medical profession",
+    "Health->health care approach",
+    "Education->students",
+    "Education->college and university",
+    "Education->vocational education"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Sarawak",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Cyberjaya College Kuching",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_iq", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:13:57.784+03:00",
+  "updated": "2025-09-19T10:05:05.000+03:00"
+}

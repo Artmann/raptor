@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "f0bcdc140c8464de15564494fba312f007ebd8db",
+    "url": "https://news.radioshanson.ru/%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0-%d0%b2%d1%8b%d1%81%d1%88%d0%b5%d0%b3%d0%be-%d0%be%d0%b1%d1%80%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f-%d0%b2/",
+    "site_full": "news.radioshanson.ru",
+    "site": "radioshanson.ru",
+    "site_section": "https://news.radioshanson.ru",
+    "site_categories": [],
+    "section_title": "Новости Радио Шансон &#8212; все самые актуальные новости шансона и мира",
+    "site_title": "Новости Радио Шансон &#8212; все самые актуальные новости шансона и мира",
+    "title": "Новая система высшего образования в России привлекла более 15 тысяч первокурсников - Новости Радио Шансон",
+    "title_full": "Новая система высшего образования в России привлекла более 15 тысяч первокурсников - Новости Радио Шансон",
+    "published": "2025-09-18T08:39:30.581+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 191580,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f0bcdc140c8464de15564494fba312f007ebd8db",
+  "url": "https://news.radioshanson.ru/%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0-%d0%b2%d1%8b%d1%81%d1%88%d0%b5%d0%b3%d0%be-%d0%be%d0%b1%d1%80%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f-%d0%b2/",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-18T08:39:30.581+03:00",
+  "title": "Новая система высшего образования в России привлекла более 15 тысяч первокурсников - Новости Радио Шансон",
+  "text": "Об этом пишет газета «Коммерсантъ». Обновлённая национальная система проходит тестирование в шести вузах, а со следующего года она должна стать обязательной для всех университетов. В этом году вузы, участвующие в пилотном проекте, получили в рамках нового стандарта свыше 11 тысяч бюджетных мест. Это на 145 процентов больше, чем в первый год эксперимента. Количество модернизированных программ возросло на 57 процентов, увеличившись до 177. Кроме бюджетников, значительно возрос интерес к новым направлениям и у студентов, обучающихся на платной основе. В прошлом году таких было около 700 человек, а в этом году – более 4 тысяч.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": [
+    "Education->college and university",
+    "Education->educational testing and examinations",
+    "Education->students",
+    "Social Issue->demographics",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:39:30.581+03:00",
+  "updated": "2025-09-18T08:46:29.000+03:00"
+}

@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "8ba605dee727f965bc65170e449464a8f9474460",
+    "url": "https://www.wthr.com/article/news/crime/court-docs-2-teens-led-police-on-chase-in-stolen-car-after-committing-a-robbery-on-indianapolis-indy-south-side-stop-11-road-perry-meridian-students/531-2b649716-ffc3-49b9-9301-e012c79b8b79",
+    "site_full": "www.wthr.com",
+    "site": "wthr.com",
+    "site_section": "https://wthr.com/near-me",
+    "site_categories": ["media"],
+    "section_title": "Near Me | wthr.com",
+    "title": "2 teens arrested after robbery, car chase on Indy's south side | wthr.com",
+    "title_full": "2 teens arrested after robbery, car chase on Indy's south side | wthr.com",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.tegna-media.com/assets/WTHR/images/c654a7d7-38ad-4d7d-a885-bd4eba1de418/20240425T210755/c654a7d7-38ad-4d7d-a885-bd4eba1de418_1140x641.jpg",
+    "performance_score": 0,
+    "domain_rank": 8756,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8ba605dee727f965bc65170e449464a8f9474460",
+  "url": "https://www.wthr.com/article/news/crime/court-docs-2-teens-led-police-on-chase-in-stolen-car-after-committing-a-robbery-on-indianapolis-indy-south-side-stop-11-road-perry-meridian-students/531-2b649716-ffc3-49b9-9301-e012c79b8b79",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "WTHR.com staff",
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "2 teens arrested after robbery, car chase on Indy's south side | wthr.com",
+  "text": "INDIANAPOLIS — Two teens reported to be students at Perry Meridian High School have been arrested and one is facing felony charges after allegedly leading police on a chase with a stolen car after committing a robbery. According to recently released court documents, around 2:48 p.m. on Tuesday, April 23 a Southport Police Department officer was assisting an IMPD officer follow a reported stolen vehicle around Shelby Street and Edgewood Avenue on Indy's south side. The IMPD officer attempted to pull the vehicle over when the driver allegedly disregarded the officer, sped up to 70 mph and continued southbound into oncoming traffic. The Southport PD officer then activated his emergency lights and began a pursuit of the stolen car, identified as a blue Hyundai Sonata. The driver of the Sonata made a sharp turn onto westbound Southport Road and drove through a construction zone at a high rate of speed. Court documents say the Sonata continued on Southport Road and blew through red lights at the Meridian Street intersection and the E. Stop 11 Road intersection while weaving in and out of traffic. The vehicle then turned onto Meridian School Road before making a sharp right hand turn onto Singleton Street and then striking a rock in a yard of a home in the 500 block of E. Stop 11 Road. The Sonata became stuck after hitting the rock and the Southport PD officer reportedly saw two juvenile males get out of the car and flee. One of the juveniles jumped a fence while the other ran south on Singleton Street. The two were later detained by Perry Township Police and IMPD. One of the juveniles was found hiding in a shed. In court documents, after being spotted in the shed by police, the juvenile allegedly ran out of the shed and threw a firearm over a fence. After their detainment, an IMPD officer searched one of the juveniles and found $1,279 in cash in his right front pocket. The gun that was thrown over the fence was also recovered by police. In the police report from the incident, the gun is identified as a Glock 9mm. Inside the stolen Hyundai, police found an additional $110 in cash and a phone that was not the property of the car's original owner. One of the juveniles reportedly told police the cash and the phone were his. Following the teens' arrest, police later discovered that the two matched descriptions of suspects from a robbery that had taken place shortly before the initial police chase. Police confiscated a black iPhone, black mask, a belt, a blue jacket and the $1,389 in cash from the teens. Police later discovered that one of the teens involved had been listed as a missing person and also was wanted on a felony warrant. One of the teens is facing a felony charges of auto theft, resisting law enforcement with a vehicle and theft as well as misdemeanor resisting law enforcement for fleeing on foot. The other teen faces a misdemeanor charge of resisting law enforcement.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.indy.gov/agency/indianapolis-metropolitan-police-department)",
+    "https://www.perryschools.org/ph/)",
+    "https://www.in.gov/cities/southport/police/)",
+    "https://in.gov/cities/southport/police/)",
+    "https://perryschools.org/ph/)",
+    "https://indy.gov/agency/indianapolis-metropolitan-police-department)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "perry meridian high school",
+        "sentiment": "negative"
+      },
+      {
+        "name": "hyundai sonata",
+        "sentiment": "none"
+      },
+      {
+        "name": "southport police department",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "indianapolis",
+        "sentiment": "none"
+      },
+      {
+        "name": "southport",
+        "sentiment": "none"
+      },
+      {
+        "name": "southport road",
+        "sentiment": "none"
+      },
+      {
+        "name": "edgewood avenue",
+        "sentiment": "none"
+      },
+      {
+        "name": "shelby street",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:16:38.778+03:00",
+  "updated": "2024-04-26T00:47:32.250+03:00"
+}

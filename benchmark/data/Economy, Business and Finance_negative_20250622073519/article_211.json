@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "7c4290be71bb7272c5abc46aeb7a17ef917c1f8a",
+    "url": "http://stock.10jqka.com.cn/20250619/c669014800.shtml",
+    "site_full": "stock.10jqka.com.cn",
+    "site": "10jqka.com.cn",
+    "site_section": "http://www.10jqka.com.cn",
+    "site_categories": ["stocks", "finance", "financial_news"],
+    "section_title": "同花顺财经__让投资变得更简单",
+    "site_title": null,
+    "title": "光伏股全线走低 产业链价格持续下行 机构称落后产能出清尚待时日",
+    "title_full": "光伏股全线走低 产业链价格持续下行 机构称落后产能出清尚待时日",
+    "published": "2025-06-19T06:34:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 7186,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7c4290be71bb7272c5abc46aeb7a17ef917c1f8a",
+  "url": "http://stock.10jqka.com.cn/20250619/c669014800.shtml",
+  "ord_in_thread": 0,
+  "author": "智通财经",
+  "published": "2025-06-19T06:34:00.000+03:00",
+  "title": "光伏股全线走低 产业链价格持续下行 机构称落后产能出清尚待时日",
+  "text": "光伏股全线走低，截至发稿，信义能源(03868)跌3.77%，报1.02港元； 福莱特 （ 601865 ）玻璃(06865)跌2.91%，报8.01港元；信义光能(00968)跌2.86%，报2.38港元；新特能源(01799)跌2.53%，报4.62港元。\n　　消息面上，据索比资询，SNEC展会带动分布式询单回暖，但实际成交价未上涨。玻璃等辅材价格下跌，为降价提供空间。当前市场正处于“后抢装潮”的供需再平衡阶段，短期内组件价格将延续阴跌与分化趋势。山西证券指出，光伏展后多晶硅签单数量较少，成交价格再度下滑。本周价格下降，一方面因为下游硅片产品价格下跌对上游降价预期增强；另一方面，硅料企业本月逐渐开始产能置换，短期产量有所增加。预计短期硅料价格仍有下行压力，Q3产量下降后价格有望逐步企稳。\n　　东兴证券指出，新政驱动了“531”光伏抢装，边际上带动Q1产业链上下游各环节的利润修复。但由于抢装是下半年的需求前置，新政实施后，电价的不确定性叠加整体上网均价的下降预期，或使得下半年分布式项目投资意愿大幅下降，且当前来看，整体产业链仍处于产能过剩的大格局之下，在需求没有大幅增长的背景下，落后产能出清尚待时日，产业链利润修复的力度和持续性仍有待观察。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Environment",
+    "Social Issue"
+  ],
+  "topics": [
+    "Economy, Business and Finance->energy and resource",
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Environment->energy resources",
+    "Environment->sustainability",
+    "Social Issue->demographics",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:37:51.226+03:00",
+  "updated": "2025-06-19T04:46:56.000+00:00"
+}

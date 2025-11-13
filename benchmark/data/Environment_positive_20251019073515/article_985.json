@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "97061f3c95118b31bace10148f8b6b4ec9ac81e0",
+    "url": "https://www.chinanews.com/sh/shipin/cns-d/2025/10-16/news1032727.shtml",
+    "site_full": "www.chinanews.com",
+    "site": "chinanews.com",
+    "site_section": "https://www.chinanews.com/shipin",
+    "site_categories": ["media"],
+    "section_title": "视频频道-中国新闻网",
+    "site_title": "中国新闻网_梳理天下新闻",
+    "title": "云南野生动物园成功救助放归苍鹭与黑鸢-中新网视频",
+    "title_full": "云南野生动物园成功救助放归苍鹭与黑鸢-中新网视频",
+    "published": "2025-10-16T15:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 5711,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "97061f3c95118b31bace10148f8b6b4ec9ac81e0",
+  "url": "https://www.chinanews.com/sh/shipin/cns-d/2025/10-16/news1032727.shtml",
+  "ord_in_thread": 0,
+  "author": "chinanews",
+  "published": "2025-10-16T15:35:00.000+03:00",
+  "title": "云南野生动物园成功救助放归苍鹭与黑鸢-中新网视频",
+  "text": "10月15日，经云南野生动物园救助的一只受伤的苍鹭和一只虚弱的黑鸢顺利重返自然。\n　　工作人员介绍，经过悉心救护与照顾后，两只鸟类经历多次飞行能力测试与健康评估，翼展幅度、肌肉力量均达到野外生存标准。\n　　两只鸟类都于一个月前收容救助。其中苍鹭由森林公安护送而来，经检查发现其左侧翅膀存在轻微受伤，送达时因饥饿缺水，生命体征微弱。而黑鸢则是由机场工作人员送过来救助的，据描述，在机场附近发现时它已经非常虚弱，不能自理，据推测，这只中型猛禽可能因饥饿导致体力透支，无法完成高空盘旋觅食的本能动作。(制作 杜潇潇 视频来源 云南野生动物园）\n责任编辑：【叶攀】",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->animal", "Environment->conservation"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:57:20.711+03:00",
+  "updated": "2025-10-16T17:07:10.000+03:00"
+}

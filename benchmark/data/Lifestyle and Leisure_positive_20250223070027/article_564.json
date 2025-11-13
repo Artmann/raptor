@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "35dc6944ed4543d5565907e6e3b4fcaef72aea99",
+    "url": "https://www.newsbreak.com/news/3774528697325-commodores-get-a-leg-up-on-leslie-county",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/harlan-ky",
+    "site_categories": ["under_construction"],
+    "section_title": "Harlan, KY Local News and More | NewsBreak",
+    "title": "Commodores get a leg up on Leslie County - NewsBreak",
+    "title_full": "Commodores get a leg up on Leslie County - NewsBreak",
+    "published": "2025-01-23T22:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/1kvOLw_0yNIZtGo00",
+    "performance_score": 0,
+    "domain_rank": 3577,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "35dc6944ed4543d5565907e6e3b4fcaef72aea99",
+  "url": "https://www.newsbreak.com/news/3774528697325-commodores-get-a-leg-up-on-leslie-county",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Steve LeMaster Sports Writer",
+  "published": "2025-01-23T22:00:00.000+02:00",
+  "title": "Commodores get a leg up on Leslie County - NewsBreak",
+  "text": "By Steve LeMaster Sports Writer ,\n2 hours ago HAZARD — Beau Bakun scored 19 points and claimed seven rebounds as Perry Central defeated Leslie County 62-47 in a 54th District boys’ basketball game on Friday, Jan. 17. Bakun led all players in scoring and rebounding. Following the win, Perry Central improved to 9-6 overall and 1-1... Read full article\nRead in NewsBreak",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->regular competition",
+    "Sport->basketball",
+    "Sport->sport event",
+    "Human Interest->record and achievement",
+    "Lifestyle and Leisure->exercise and fitness",
+    "Lifestyle and Leisure->game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "Leslie County",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:25:07.537+02:00",
+  "updated": "2025-01-24T00:25:07.537+02:00"
+}

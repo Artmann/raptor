@@ -1,0 +1,118 @@
+{
+  "thread": {
+    "uuid": "0f397c032b7936c72485f245ac4afc4db2942f16",
+    "url": "https://www.laarena.com.ar/la-pampa/tambien-marcharon-en-pico-20259181110",
+    "site_full": "www.laarena.com.ar",
+    "site": "laarena.com.ar",
+    "site_section": "https://laarena.com.ar/la-pampa",
+    "site_categories": ["shopping", "top_news_ar", "top_news"],
+    "section_title": "La Pampa | La Arena - Noticias de La Pampa y el pa&#xED;s",
+    "site_title": "La Arena | Noticias de La Pampa y el pa&#xED;s",
+    "title": "También marcharon en Pico",
+    "title_full": "También marcharon en Pico",
+    "published": "2025-09-18T07:12:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "https://media.cdn.laarena.com.ar/102021/1633634144804.jpg?cw=264&amp;ch=150&amp;extw=jpg",
+    "performance_score": 0,
+    "domain_rank": 77583,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0f397c032b7936c72485f245ac4afc4db2942f16",
+  "url": "https://www.laarena.com.ar/la-pampa/tambien-marcharon-en-pico-20259181110",
+  "ord_in_thread": 0,
+  "author": "Redaccion",
+  "published": "2025-09-18T07:12:00.000+03:00",
+  "title": "También marcharon en Pico",
+  "text": "También marcharon en Pico\nUna multitud que marchó ayer a la tarde por las calles de General Pico en defensa de la educación pública, celebró el rechazo del veto presidencial al financiamiento del sistema universitario argentino.\nLos manifestantes, entre ellos, docentes, representantes de agrupaciones estudiantiles, autoridades universitarias y dirigentes políticos, se concentraron ayer en la Facultad de Ciencias Veterinarias de la Universidad Nacional de La Pampa (Unlpam). Luego marcharon hacia el Centro Universitario de esta ciudad y desde allí, hacia el comedor de la Unlpam, en calles 9 y 2. Luego, siguieron hasta la Plaza San Martín.\nEl decano de la Facultad de Veterinarias y candidato a legislador nacional por el frente Defendamos La Pampa, Abelardo Ferrán, se mostró contento con el rechazo al veto en la Cámara de diputados.\n“Estamos más que contentos por lo que pasó en Diputados. Escucharon al pueblo, salvo los dos pampeanos que votaron en contra (Ardohain y Maquieyra), los diputados y diputadas del país acompañaron con su voto a un activo importante que es la universidad pública, que es la que permite el acceso a todos aquellos que quieran estudiar, porque el acceso es libre, irrestricto, gratuito y de calidad”, dijo.\nLucha.\nAdemás, dijo que el Presupuesto Nacional 2026 que planteó el presidente Milei, supone más pérdida del poder adquisitivo para los docentes universitarios.\n“Está relacionado con la pérdida del poder adquisitivo de nuestros trabajadores, tanto docentes como no docentes. Se trata de consolidar la política que vienen consolidando de licuación de los ingresos de nuestros trabajadores y la base de una organización como la Universidad, es el factor humano. Si se destruye el factor humano, se destruye a la Universidad”, señaló.\nEn el mismo sentido refirió que el desfinanciamiento al sistema universitario derivó en la pérdida de importantes docentes que por conveniencia económica, se dejaron la docencia.\n“Tenemos problema con los docentes porque con la pérdida del adquisitivo han bajado su dedicación y algunos se han ido porque no les conviene. Eso es un impacto grande porque ahí está la calidad. Nuestros docentes son personas altamente formadas y eso lleva mucho tiempo de formación y experiencia en temas específico. Se perdió parte de eso”, sostuvo.\nFerrán, que ayer junto a demás autoridades universitarias participó de la multitudinaria marcha en General Pico, aseguró que “los derechos hay que defenderlos permanentemente”.\nArtículos relacionados",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Politics", "Social Issue", "Education"],
+  "topics": [
+    "Politics->political campaigns",
+    "Politics->education policy",
+    "Politics->citizens' initiative and recall",
+    "Social Issue->social services",
+    "Social Issue->communities",
+    "Social Issue->social condition",
+    "Education->students",
+    "Education->state school",
+    "Education->educational grading"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Abelardo Ferrán",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Plaza",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Universidad Nacional de La Pampa",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Facultad de Veterinarias",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ar", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:05:09.242+03:00",
+  "updated": "2025-09-19T10:09:22.000+03:00"
+}

@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "03abbd9b0e1b7ada3f3ae30c0578cc95136f717e",
+    "url": "https://www.nbcpalmsprings.com/2025/09/16/csusb-palm-desert-awarded-100k-grant-to-expand-nursing-program-in-underserved-areas",
+    "site_full": "www.nbcpalmsprings.com",
+    "site": "nbcpalmsprings.com",
+    "site_section": "https://www.csusb.edu/inside",
+    "site_categories": [],
+    "section_title": "CSUSB News | CSUSB",
+    "site_title": "NBC Palm Springs - Connecting the Valley",
+    "title": "CSUSB Palm Desert Awarded $100K Grant to Expand Nursing Program in Underserved Areas",
+    "title_full": "CSUSB Palm Desert Awarded $100K Grant to Expand Nursing Program in Underserved Areas",
+    "published": "2025-09-17T04:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://fueltools-prod01-public.fuelmedia.io/850b1730-09d2-44a7-bb6a-504c205fd228/20250917/c03381d5-1d79-4cfc-a95f-0a45a9000a88/thumbnail.png",
+    "performance_score": 0,
+    "domain_rank": 171297,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "03abbd9b0e1b7ada3f3ae30c0578cc95136f717e",
+  "url": "https://www.nbcpalmsprings.com/2025/09/16/csusb-palm-desert-awarded-100k-grant-to-expand-nursing-program-in-underserved-areas",
+  "ord_in_thread": 0,
+  "author": "NBC Palm Springs",
+  "published": "2025-09-17T04:30:00.000+03:00",
+  "title": "CSUSB Palm Desert Awarded $100K Grant to Expand Nursing Program in Underserved Areas",
+  "text": "Local & Community\nCSUSB Palm Desert Awarded $100K Grant to Expand Nursing Program in Underserved Areas\nBy: NBC Palm Springs\nSeptember 16, 2025\nCSUSB Palm DesertHouston Family FoundationNursing Street Medical Programnursing studentsCoachella Valleyfree healthcareunderserved communitiesmedical clinics\nLink Copied To Clipboard!\nLoading...",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Health", "Economy, Business and Finance", "Education"],
+  "topics": [
+    "Health->health organisation",
+    "Health->health care approach",
+    "Economy, Business and Finance->human resources",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->healthcare industry",
+    "Education->college and university",
+    "Education->students",
+    "Education->vocational education"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "NBC",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "NBC",
+            "exchange": "FRA"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Palm Springs"],
+      "state": ["California"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:29:15.432+03:00",
+  "updated": "2025-09-18T08:34:50.000+03:00"
+}

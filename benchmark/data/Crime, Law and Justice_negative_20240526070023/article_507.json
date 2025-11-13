@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "702c057c9b24d857b82ace34301de7700dd615d1",
+    "url": "https://www.fox5atlanta.com/video/1446759",
+    "site_full": "www.fox5atlanta.com",
+    "site": "fox5atlanta.com",
+    "site_section": "https://www.fox5atlanta.com",
+    "site_categories": ["media", "non_standard_content"],
+    "section_title": "FOX 5 Atlanta",
+    "title": "Harvey Weinstein’s rape conviction overturned",
+    "title_full": "Harvey Weinstein’s rape conviction overturned",
+    "published": "2024-04-25T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images.foxtv.com/m107833-mcdn.mp.lura.live/iupl/13C/533/1280/720/13C53387437475576E679A7CD182D7C5.jpg?Expires=2082758400&amp;KeyName=mcpkey1&amp;Signature=pSSpu6q23kV0YKEYca25MB-jVYg&amp;ve=1&amp;tl=1",
+    "performance_score": 0,
+    "domain_rank": 6490,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "702c057c9b24d857b82ace34301de7700dd615d1",
+  "url": "https://www.fox5atlanta.com/video/1446759",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "no author",
+  "published": "2024-04-25T03:00:00.000+03:00",
+  "title": "Harvey Weinstein’s rape conviction overturned",
+  "text": "Live News Weather Good Day Sports Contests Email More Watch Live Expand / Collapse search ☰ Search site News Local I-Team Call for Action National Health Politics Entertainment FOX 5 Atlanta App FOX News Sunday Weather Closings Netcams Savannah Cams FOX 5 Storm Team App Traffic FOX Weather Good Day Atlanta Follow Paul Burgers with Buck Pet of the Day FOX Medical Team Sports Atlanta Braves Atlanta Falcons Atlanta Hawks Atlanta United High 5 Sports World Cup Shows Good Day Atlanta Portia The Georgia Gang The Road to November Deidra Dukes Reports The_Next_Atlanta Like It or Not Watch Live What's On FOX TV Schedule About Us How To Stream Seen on TV Contests FOX 5 News Team Contact Us Sign up for Email Alerts Jobs Internships FCC Public File FCC Applications Captioning Election Election Results Georgia Politics Money Personal Finance Economy Business Stock Market Small Business Regional News Tampa News - FOX 13 News Orlando News - FOX 35 Orlando Gainesville News - FOX 51 Gainesville Harvey Weinstein’s rape conviction overturned A New York appeals court has overturned Harvey Weinstein’s 2020 rape conviction. Posted April 25, 2024 4:54pm EDT Share Copy Link Email Facebook Twitter LinkedIn Reddit Show more Top Videos Show More",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "harvey weinstein",
+        "sentiment": "negative"
+      },
+      {
+        "name": "gainesville harvey weinstein",
+        "sentiment": "none"
+      },
+      {
+        "name": "deidra dukes",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "news local i-team call for action national health politics entertainment fox",
+        "sentiment": "none"
+      },
+      {
+        "name": "savannah cams fox",
+        "sentiment": "none"
+      },
+      {
+        "name": "news team contact us sign up for email alerts jobs internships fcc public file fcc",
+        "sentiment": "none"
+      },
+      {
+        "name": "fox medical team sports atlanta braves atlanta falcons atlanta hawks atlanta united high",
+        "sentiment": "none"
+      },
+      {
+        "name": "orlando gainesville news - fox",
+        "sentiment": "none"
+      },
+      {
+        "name": "news orlando news",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "new york",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:22:38.234+03:00",
+  "updated": "2024-04-26T00:22:38.234+03:00"
+}

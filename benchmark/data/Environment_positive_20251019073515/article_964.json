@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "f6124bfba2b9ad704d130002506088339cc2058c",
+    "url": "https://www.newsbreak.com/wftv-channel-9-orlando-523005/4295402652986-watch-good-samaritans-help-save-entangled-sea-turtle-off-florida-coast",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/wftv-channel-9-orlando-523005",
+    "site_categories": ["under_construction"],
+    "section_title": "WFTV Channel 9 Orlando&#x27;s Home Page | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "WATCH: Good Samaritans help save entangled sea turtle off Florida coast - NewsBreak",
+    "title_full": "WATCH: Good Samaritans help save entangled sea turtle off Florida coast - NewsBreak",
+    "published": "2025-10-16T16:37:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 2819,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f6124bfba2b9ad704d130002506088339cc2058c",
+  "url": "https://www.newsbreak.com/wftv-channel-9-orlando-523005/4295402652986-watch-good-samaritans-help-save-entangled-sea-turtle-off-florida-coast",
+  "ord_in_thread": 0,
+  "author": "James Tutten",
+  "published": "2025-10-16T16:37:00.000+03:00",
+  "title": "WATCH: Good Samaritans help save entangled sea turtle off Florida coast - NewsBreak",
+  "text": "By James Tutten ,\n13 minutes ago A loggerhead sea turtle was rescued in Florida over the weekend after becoming tangled in a crab line.\nThe incident occurred when a good Samaritan in Miami-Dade noticed the turtle in distress and alerted authorities.\nThe marine patrol unit responded promptly and successfully freed the turtle, allowing it to swim away on its own.\nThanks to the efforts of a vigilant bystander, the loggerhead turtle was able to return safely to its natural habitat.\nClick here to download our free news, weather and smart TV apps. And click here to stream Channel 9 Eyewitness News live.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment", "Human Interest"],
+  "topics": [
+    "Environment->animal",
+    "Environment->conservation",
+    "Human Interest->human mishap"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.wftv.com/mobile-apps",
+    "https://www.wftv.com/video/",
+    "https://wftvapps.com/",
+    "https://wftvapps.com",
+    "https://www.wftv.com/video",
+    "https://wftv.com/mobile-apps",
+    "https://wftv.com/video/",
+    "https://www.wftvapps.com/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "James Tutten",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami-Dade",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:52:34.358+03:00",
+  "updated": "2025-10-16T17:08:03.000+03:00"
+}

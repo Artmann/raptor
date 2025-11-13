@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "033bc0253d8752204550ebc1d2765465a6281a04",
+    "url": "https://vanguardia.com.mx/coahuila/piedras-negras/crecen-alertas-por-arana-violinista-en-coahuila-fumigacion-es-clave-para-enfrentarla-NI15842609",
+    "site_full": "vanguardia.com.mx",
+    "site": "vanguardia.com.mx",
+    "site_section": "http://www.vanguardia.com.mx/noticias/",
+    "site_categories": [
+      "travel",
+      "mexico_and_central_america",
+      "top_news_mx",
+      "top_news"
+    ],
+    "section_title": "Noticias | Vanguardia MX",
+    "site_title": "Vanguardia MX | Las noticias de México, Coahuila y Saltillo",
+    "title": "Crecen alertas por araña violinista en Coahuila, fumigación es clave para enfrentarla",
+    "title_full": "Crecen alertas por araña violinista en Coahuila, fumigación es clave para enfrentarla",
+    "published": "2025-05-08T00:12:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://vanguardia.com.mx/binrepository/584x420/2c0/580d420/none/11604/KREN/arana-violinista_1-11858540_20250507211210.jpg",
+    "performance_score": 0,
+    "domain_rank": 18898,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "033bc0253d8752204550ebc1d2765465a6281a04",
+  "url": "https://vanguardia.com.mx/coahuila/piedras-negras/crecen-alertas-por-arana-violinista-en-coahuila-fumigacion-es-clave-para-enfrentarla-NI15842609",
+  "ord_in_thread": 0,
+  "author": "josué rodríguez",
+  "published": "2025-05-08T00:12:00.000+03:00",
+  "title": "Crecen alertas por araña violinista en Coahuila, fumigación es clave para enfrentarla",
+  "text": "Crecen alertas por araña violinista en Coahuila, fumigación es clave para enfrentarla\nCOMPARTIR\nPIEDRAS NEGRAS, COAH.- Autoridades sanitarias y especialistas han alertado sobre la creciente presencia de la araña violinista (Loxosceles reclusa) en la región norte de Coahuila, debido al aumento de reportes sobre mordeduras en áreas urbanas.\nAunque esta especie evita el contacto con humanos, su veneno es altamente peligroso y puede causar lesiones graves, como necrosis en la piel y tejidos.\nTE PUEDE INTERESAR: Sectorización busca reducir tiempos de respuesta ante emergencias en Nava\nEl arácnido se caracteriza por su pequeño tamaño —entre 0.8 y 3 centímetros—, su color café o gris y una marca en forma de violín en su parte frontal. Suele esconderse en lugares oscuros y poco accesibles, como closets, grietas, cajas almacenadas o sótanos, y es más activa durante la noche.\nSu mordedura puede provocar síntomas que van desde inflamación, fiebre y vómitos, hasta daños severos en la piel. En casos extremos, la necrosis tisular requiere atención médica urgente.\nAnte una mordedura, expertos recomiendan lavar la zona afectada, aplicar frío, elevar la extremidad y buscar atención médica inmediata. No se debe intentar extraer el veneno.\nLas recomendaciones preventivas incluyen revisar ropa y muebles antes de usarlos, sellar hendiduras, evitar acumulaciones de cartón o madera, y fumigar periódicamente.\nLa Secretaría de Salud ha reiterado la importancia de estas medidas, especialmente en temporada de calor, cuando aumenta la actividad de este tipo de arácnidos.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Health", "Environment", "Social Issue"],
+  "topics": [
+    "Health->health treatment and procedure",
+    "Health->public health",
+    "Health->poisoning",
+    "Environment->hazardous materials",
+    "Environment->environmental clean-up",
+    "Environment->invasive species",
+    "Social Issue->discrimination",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.studocu.com/es-mx/document/universidad-autonoma-de-coahuila/analisis-intrumental-1/analisis-de-las-regiones-de-coahuila/14297258",
+    "https://studocu.com/es-mx/document/universidad-autonoma-de-coahuila/analisis-intrumental-1/analisis-de-las-regiones-de-coahuila/14297258"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Coahuila",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T01:34:54.888+03:00",
+  "updated": "2025-05-07T22:40:10.000+00:00"
+}

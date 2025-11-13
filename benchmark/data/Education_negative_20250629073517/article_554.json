@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "41eeeb87c5024e2b913b7ff17ccfcb41cba8157c",
+    "url": "https://www.thestandard.com.hk/hong-kong-news/article/305580/Kwai-Tsing-School-in-hot-seat-over-retest-for-repeated-exam-questions",
+    "site_full": "www.thestandard.com.hk",
+    "site": "thestandard.com.hk",
+    "site_section": "https://www.thestandard.com.hk/section-news-list/section/central-station",
+    "site_categories": ["media", "top_news_hk", "top_news"],
+    "section_title": "Hong Kong News | News | The Standard",
+    "site_title": "Breaking News, HK & World News, Editorial | The Standard 英文虎報",
+    "title": "Kwai Tsing School in hot seat over retest for repeated exam questions",
+    "title_full": "Kwai Tsing School in hot seat over retest for repeated exam questions",
+    "published": "2025-06-26T11:40:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "HK",
+    "main_image": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/b1206d6d1766eaefdcde01f0a4d31d60/2025-06/i_src_100474411.jpg",
+    "performance_score": 0,
+    "domain_rank": 12585,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "shares": 15
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "41eeeb87c5024e2b913b7ff17ccfcb41cba8157c",
+  "url": "https://www.thestandard.com.hk/hong-kong-news/article/305580/Kwai-Tsing-School-in-hot-seat-over-retest-for-repeated-exam-questions",
+  "ord_in_thread": 0,
+  "author": "The Standard 英文虎報",
+  "published": "2025-06-26T11:40:00.000+03:00",
+  "title": "Kwai Tsing School in hot seat over retest for repeated exam questions",
+  "text": "Kwai Tsing School in hot seat over retest for repeated exam questions\nHONG KONG NEWS\n1 hour ago\n(File Photo)\nDownload The Standard app to stay informed with news, updates, and significant events:\nTop News\nRead More\nYou talk, we listen\nHONG KONG NEWS\n9 hours ago\nT1 signal to remain in force on Wed: Observatory\nHONG KONG NEWS\n25-06-2025 12:40 HKT\nCopyright © 2025 The Standard - A division of Sing Tao News Corporation Limited. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education"],
+  "topics": [
+    "Education->educational testing and examinations",
+    "Education->school",
+    "Education->educational grading"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_hk", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T12:58:46.075+03:00",
+  "updated": "2025-06-27T10:12:08.000+00:00"
+}

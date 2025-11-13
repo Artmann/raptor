@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "b94e7882e01b8ecdbd5e252a3f593a4626c682a9",
+    "url": "https://www.thueringer-allgemeine.de/lokales/weimar-und-weimarer-land/article409355410/eilmeldung-weimars-stadtrat-stimmt-mit-grosser-mehrheit-fuer-kita-schliessungen.html",
+    "site_full": "www.thueringer-allgemeine.de",
+    "site": "thueringer-allgemeine.de",
+    "site_section": "https://thueringer-allgemeine.de/schlagzeilen",
+    "site_categories": ["media", "top_news_de", "top_news"],
+    "section_title": "Thüringer Allgemeine | Thüringer Allgemeine",
+    "site_title": "Thüringer Allgemeine - Aktuelle Nachrichten",
+    "title": "Weimarer Stadtrat stimmt mit großer Mehrheit für Kita-Schließungen",
+    "title_full": "Weimarer Stadtrat stimmt mit großer Mehrheit für Kita-Schließungen",
+    "published": "2025-06-26T13:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://img.sparknews.funkemedien.de/409248958/409248958_1750879514_v16_9_1600.jpeg",
+    "performance_score": 0,
+    "domain_rank": 24149,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b94e7882e01b8ecdbd5e252a3f593a4626c682a9",
+  "url": "https://www.thueringer-allgemeine.de/lokales/weimar-und-weimarer-land/article409355410/eilmeldung-weimars-stadtrat-stimmt-mit-grosser-mehrheit-fuer-kita-schliessungen.html",
+  "ord_in_thread": 0,
+  "author": "Susanne Seide",
+  "published": "2025-06-26T13:00:00.000+03:00",
+  "title": "Weimarer Stadtrat stimmt mit großer Mehrheit für Kita-Schließungen",
+  "text": "Weimar. Nach langer Debatte in Weimar: Veränderungen in der Kindergarten-Landschaft finden in unveränderter Form Zustimmung.\nTextToSpeechModule\nWeimar. Nach langer Debatte in Weimar: Veränderungen in der Kindergarten-Landschaft finden in unveränderter Form Zustimmung.\nKennen Sie schon unsere PLUS-Inhalte?\n Jetzt\nTA\ntesten",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Politics", "Education", "Social Issue"],
+  "topics": [
+    "Politics->local government and authority",
+    "Politics->education policy",
+    "Education->early childhood education",
+    "Education->state school",
+    "Education->school",
+    "Social Issue->demographics",
+    "Social Issue->children",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T13:14:46.365+03:00",
+  "updated": "2025-06-27T11:11:02.000+00:00"
+}

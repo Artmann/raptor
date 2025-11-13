@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "c0bc1fd095565537c966907bf63494f4a891291d",
+    "url": "https://jordantimes.com/news/local/jordanian-field-hospital-%E2%80%98nablus3%E2%80%99-serves-over-800-patients-during-eid",
+    "site_full": "jordantimes.com",
+    "site": "jordantimes.com",
+    "site_section": "https://jordantimes.com/news/world",
+    "site_categories": ["media"],
+    "section_title": "World | Jordan Times",
+    "title": "Jordanian field hospital ‘Nablus/3’ serves over 800 patients during Eid | Jordan Times",
+    "title_full": "Jordanian field hospital ‘Nablus/3’ serves over 800 patients during Eid | Jordan Times",
+    "published": "2024-06-23T16:04:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "JO",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 15773,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c0bc1fd095565537c966907bf63494f4a891291d",
+  "url": "https://jordantimes.com/news/local/jordanian-field-hospital-%E2%80%98nablus3%E2%80%99-serves-over-800-patients-during-eid",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "JT",
+  "published": "2024-06-23T16:04:00.000+03:00",
+  "title": "Jordanian field hospital ‘Nablus/3’ serves over 800 patients during Eid | Jordan Times",
+  "text": "AMMAN — The Jordanian field hospital in Nablus, dubbed “Nablus/3”, on Sunday continued providing comprehensive medical and treatment services to people in Nablus.\nThis effort reflects the humanitarian commitment and ongoing support from Jordan to the Palestinian people and enhances their resilience amidst ongoing Israeli violations, the Jordan News Agency, Petra, reported.\nThe hospital, which includes nine medical specialities, received 800 emergency cases during the Eid Al Adha holiday. These cases included chronic diseases, internal emergencies and minor surgical operations, with the hospital's medical teams working around the clock to provide the best medical services for emergency cases.\nResidents expressed their gratitude for Jordan's \"honourable\" stance and continuous efforts to provide free medical services, which have positively impacted their spirits.\nThe Jordan Armed Forces-Arab Army (JAF) established the Jordanian field hospital in Nablus in late November 2023 and has conducted over 900 surgeries and received more than 83,000 patients ever since.\nThe Kingdom has also established two health centres in Ramallah and Jenin, serving tens of thousands of patients in the West Bank.\nBesides the field hospital in Nablus, Jordan runs two military field hospitals in Gaza, one in the strip’s north, which was established in 2009 following the Hamas-Israel war in 2008.\nThe second was established in Khan Younis in the south in November 2023 at the peak of the Israeli aggression on the coastal enclave that erupted on October 7.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Disaster and Accident", "Health"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "jordan times amman",
+        "sentiment": "negative"
+      },
+      {
+        "name": "jordan news agency",
+        "sentiment": "none"
+      },
+      {
+        "name": "jordan armed forces-arab army",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "nablus",
+        "sentiment": "none"
+      },
+      {
+        "name": "kingdom",
+        "sentiment": "none"
+      },
+      {
+        "name": "petra",
+        "sentiment": "none"
+      },
+      {
+        "name": "jordan",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-24T01:23:23.611+03:00",
+  "updated": "2024-06-24T01:23:23.611+03:00"
+}

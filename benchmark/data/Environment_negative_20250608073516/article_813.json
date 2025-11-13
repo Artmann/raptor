@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "573e3de294438e2c51fd6c1174812ca064f88fdc",
+    "url": "https://news.solarbe.com/202505/08/388896.html",
+    "site_full": "news.solarbe.com",
+    "site": "solarbe.com",
+    "site_section": "https://m.10jqka.com.cn/news/",
+    "site_categories": ["business", "green_solutions"],
+    "section_title": "财经新闻频道-搜罗最新鲜的国内外财经新闻资讯,股市证券新闻_手机同花顺财经",
+    "site_title": "光伏-索比光伏网-光伏太阳能产业专业媒体",
+    "title": "华为、阳光电源\"躺枪\"！ESMC提议封杀中国逆变器-索比光伏网",
+    "title_full": "华为、阳光电源\"躺枪\"！ESMC提议封杀中国逆变器-索比光伏网",
+    "published": "2025-05-08T06:18:51.528+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 79951,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "573e3de294438e2c51fd6c1174812ca064f88fdc",
+  "url": "https://news.solarbe.com/202505/08/388896.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T06:18:51.528+03:00",
+  "title": "华为、阳光电源\"躺枪\"！ESMC提议封杀中国逆变器-索比光伏网",
+  "text": "当地时间5月5日，欧洲太阳能制造委员会(ESMC)宣布，将限制来自“高风险非欧洲制造商”(主要针对中国企业)的太阳能逆变器远程控制功能。\nESMC秘书长克里斯托夫·波德维尔斯指出，目前欧洲超过200GW的光伏装机容量已与中国制造的逆变器连接，这一规模相当于200多座核电站。这意味着欧洲实际上在很大程度上放弃了对大部分电力基础设施的远程控制。\n欧洲太阳能制造委员会强调，逆变器联网实现电网功能与软件更新时，存在远程操控引发网络安全风险的巨大隐患。现代逆变器需连接互联网以执行基本电网功能或参与电力市场，但这也为软件更新提供了途径，使得任何制造商都有可能远程更改设备性能，进而带来严重网络安全威胁，如恶意干扰、大规模停机等。最近由欧洲光伏产业协会(SolarPowerEurope)委托挪威风险管理咨询公司DNV撰写的一份报告也佐证了这一观点，称恶意或协同操纵逆变器确实有可能造成连锁停电。\n欧洲太阳能制造委员会还列举了其他一系列担忧。数据显示，2023年安装的所有逆变器中有70%来自中国供应商，主要是华为和阳光电源。仅这两家公司就已控制了欧洲168GW光伏容量的远程访问。到2030年，这一数字预计将超过400GW，相当于150至200座核电站的发电量。此外，该委员会还无端提及华为在多国被禁入5G领域，且在比利时面临行贿腐败调查。\n基于上述担忧，ESMC呼吁立即开发欧盟“逆变器安全工具箱”，效仿成功的5G安全工具箱模式。具体措施包括对逆变器制造商进行全面的风险评估;要求高风险供应商不得允许维持与欧洲电力系统的在线连接;考虑彻底禁止此类供应商接入电网;在所有欧盟成员国复制立陶宛的主动立法——禁止来自中国的逆变器，以确保安全措施适用于各种规模的光伏系统。\n波德维尔斯强调：“欧洲必须立即采取行动，防止未来发生堪比对俄罗斯天然气依赖的能源危机。我们支持欧盟委员会即将对太阳能价值链网络安全风险进行的评估，并准备贡献我们的专业知识。”\n责任编辑：周末",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Politics", "Environment"],
+  "topics": [
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->financial service",
+    "Politics->international relations",
+    "Politics->political development",
+    "Politics->economic policy",
+    "Environment->sustainability",
+    "Environment->energy resources",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:18:51.528+03:00",
+  "updated": "2025-05-08T03:24:29.000+00:00"
+}

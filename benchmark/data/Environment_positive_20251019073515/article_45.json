@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "362f38619ab71441220026e0f09b727eef0e3e2e",
+    "url": "https://cj.sina.cn/article/norm_detail?url=https://finance.sina.com.cn/7x24/2025-10-16/doc-infuauti2445117.shtml&from=redirect",
+    "site_full": "cj.sina.cn",
+    "site": "sina.cn",
+    "site_section": "https://t.cj.sina.cn",
+    "site_categories": [
+      "top_news_hk",
+      "top_news_my",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪财经_金融信息服务商",
+    "site_title": "财经头条_新浪财经_金融信息服务商",
+    "title": "广西首发越南同奈港至新疆氧化铝铁海联运专列",
+    "title_full": "广西首发越南同奈港至新疆氧化铝铁海联运专列",
+    "published": "2025-10-16T13:17:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "https://n.sinaimg.cn/finance/c30320b4/20210712/wx_poster_finance1.png",
+    "performance_score": 0,
+    "domain_rank": 4801,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "362f38619ab71441220026e0f09b727eef0e3e2e",
+  "url": "https://cj.sina.cn/article/norm_detail?url=https://finance.sina.com.cn/7x24/2025-10-16/doc-infuauti2445117.shtml&from=redirect",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-16T13:17:00.000+03:00",
+  "title": "广西首发越南同奈港至新疆氧化铝铁海联运专列",
+  "text": "10月15日下午，满载3000吨越南 氧化铝 的铁海联运专列从广西防城港站开出，沿着西部陆海新通道北上驶向 新疆 石河子。这是广西开出的首趟自越南同奈港至新疆的氧化铝铁海联运专列，开辟了东南亚经 北部湾港 至新疆能源产业基地间的 物流 快车道，为推动国内国际双循环、降低企业物流成本提供有力的 运输 保障。（央视新闻） 打开App看更多精彩内容",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Economy, Business and Finance", "Environment"],
+  "topics": [
+    "Economy, Business and Finance->transport",
+    "Economy, Business and Finance->business and market analysis",
+    "Environment->natural resources",
+    "Environment->energy resources"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_my",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:24:46.463+03:00",
+  "updated": "2025-10-17T14:17:34.000+03:00"
+}

@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "acd3fecb16f39ced27e10ad6d131fe6d8ceeea54",
+    "url": "https://tribune.com.pk/story/2551610/opp-lambasts-budget-as-debate-continues",
+    "site_full": "tribune.com.pk",
+    "site": "tribune.com.pk",
+    "site_section": "https://tribune.com.pk/latest",
+    "site_categories": ["media", "top_news_pk", "top_news"],
+    "section_title": "Latest - Latest News Updates, Photos & Videos | The Express Tribune ",
+    "site_title": "International News, Latest News, Breaking News  | The Express Tribune",
+    "title": "Opp lambasts budget as debate continues",
+    "title_full": "Opp lambasts budget as debate continues",
+    "published": "2025-06-19T06:31:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PK",
+    "main_image": "https://i.tribune.com.pk/media/images/1130754-sindhassembly-1466962627/1130754-sindhassembly-1466962627.jpg",
+    "performance_score": 0,
+    "domain_rank": 3556,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "acd3fecb16f39ced27e10ad6d131fe6d8ceeea54",
+  "url": "https://tribune.com.pk/story/2551610/opp-lambasts-budget-as-debate-continues",
+  "ord_in_thread": 0,
+  "author": "Our Correspondent",
+  "published": "2025-06-19T06:31:00.000+03:00",
+  "title": "Opp lambasts budget as debate continues",
+  "text": "The Sindh Assembly on Wednesday witnessed heated discussions as lawmakers from both sides of the aisle debated the provincial budget for the fiscal year 2025-26.\nOfficiated by Deputy Speaker Naveed Anthony, the session saw 29 MPAs voicing their opinions, bringing the total number of participants over three days to 84, with more expected to speak on Thursday.\nProvincial Minister Syed Zulfikar Shah opened the debate, outlining the achievements of the Culture and Tourism Department, including development projects on Gorakh Hill, training programs for emerging artistes, and the digitalisation of the Sindhi language. He also referred to the plans to establish a dedicated colony for writers and poets.\nPPP MPA Mehmood Alam Jamoot heaped praise on Chief Minister Murad Ali Shah for presenting a \"pro-people\" budget and called for the introduction of a boat ambulance service to aid fishermen. Meanwhile, PPP's Qasim Siraj Soomro defended the budget, stating it reflected the government's commitment to development, citing progress on 56 small dams in Thar, new schools, and reverse osmosis (RO) plants.\nThe opposition, however, launched a scathing critique, accusing the government of ignoring Karachi and failing to deliver basic services. MQM's Farhan Ansari lamented the lack of electricity, water, and road infrastructure in his Gulshan-e-Iqbal constituency.\nCOMMENTS\nComments are moderated and generally will be posted if they are on-topic and not abusive.\nFor more information, please see our Comments FAQ",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Politics", "Economy, Business and Finance", "Social Issue"],
+  "topics": [
+    "Politics->government budget",
+    "Politics->local government and authority",
+    "Politics->political debates",
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->business reporting and performance",
+    "Economy, Business and Finance->economy",
+    "Social Issue->social condition",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mehmood Alam Jamoot",
+        "sentiment": "none"
+      },
+      {
+        "name": "Qasim Siraj Soomro",
+        "sentiment": "none"
+      },
+      {
+        "name": "Syed Zulfikar Shah",
+        "sentiment": "none"
+      },
+      {
+        "name": "Naveed Anthony",
+        "sentiment": "none"
+      },
+      {
+        "name": "Murad Ali Shah",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "PPP",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_pk", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:40:10.494+03:00",
+  "updated": "2025-06-19T04:43:15.000+00:00"
+}

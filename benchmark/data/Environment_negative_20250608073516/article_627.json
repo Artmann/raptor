@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "5987c70ec684d378d0600f44d8f4cbb2e0d59444",
+    "url": "https://news.myseldon.com/en/news/index/329166612",
+    "site_full": "news.myseldon.com",
+    "site": "myseldon.com",
+    "site_section": "https://news.myseldon.com/sitemaps/daily/sitemap_news_en_daily_5.xml",
+    "site_categories": ["media"],
+    "section_title": "",
+    "site_title": null,
+    "title": "Площадь лесных пожаров Бурятии превысила 10 тысяч гектаров | Regional News | Seldon News",
+    "title_full": "Площадь лесных пожаров Бурятии превысила 10 тысяч гектаров | Regional News | Seldon News",
+    "published": "2025-05-08T05:16:52.601+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://storage.myseldon.com/news-pict-eb/EB6C08DD0FA46B7A517FDAAEA6F79A7B",
+    "performance_score": 0,
+    "domain_rank": 21900,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5987c70ec684d378d0600f44d8f4cbb2e0d59444",
+  "url": "https://news.myseldon.com/en/news/index/329166612",
+  "ord_in_thread": 0,
+  "author": "@Smotrim",
+  "published": "2025-05-08T05:16:52.601+03:00",
+  "title": "Площадь лесных пожаров Бурятии превысила 10 тысяч гектаров | Regional News | Seldon News",
+  "text": "За прошедшие сутки в Бурятии обнаружено 12 возгораний лесного фонда восьми районах республики, общая площадь пожаров достигла 10,5 тысячи гектаров. По оперативным данным Агентства лесного хозяйства Бурятии, на утро 8 мая в республике действует 21 лесной пожар, в том числе в Баунтовском, Джидинском, Еравнинском и Кяхтинском районах. \"Угрозы населённым пунктам нет, пожары низкой интенсивности\", – уточнили в Агентстве. К тушению огня привлечены 388 человек и 92 единицы техники, которым удалось ликвидировать восемь очагов пожаров. По словам специалистов, причиной возникновения лесных пожаров... Copyright information of photo and video materials was taken from the website «Smotrim» , more details in our Terms of Service",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Environment", "Social Issue"],
+  "topics": [
+    "Disaster and Accident->natural disaster",
+    "Disaster and Accident->fire",
+    "Environment->environmental pollution",
+    "Environment->nature",
+    "Social Issue->social condition",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "http://smotrim.ru/article/4491321",
+    "http://www.smotrim.ru/article/4491321"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:16:52.601+03:00",
+  "updated": "2025-05-08T02:22:56.000+00:00"
+}

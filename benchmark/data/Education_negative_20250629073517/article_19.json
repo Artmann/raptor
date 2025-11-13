@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "85f054d68afb4373154cad827904b5367b872eb5",
+    "url": "https://www.somdnews.com/recorder/news/local/calvert-school-board-votes-to-delay-final-budget-approval/article_4badeef7-28aa-4d59-a4e1-5b24d0209eee.html",
+    "site_full": "www.somdnews.com",
+    "site": "somdnews.com",
+    "site_section": "http://www.somdnews.com",
+    "site_categories": ["media", "education", "business"],
+    "section_title": "somdnews.com | Southern Maryland News Online",
+    "site_title": "somdnews.com | Southern Maryland News Online",
+    "title": "Calvert school board votes to delay final budget approval | Local News | somdnews.com",
+    "title_full": "Calvert school board votes to delay final budget approval | Local News | somdnews.com",
+    "published": "2025-06-18T22:15:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/somdnews.com/content/tncms/assets/v3/editorial/3/14/314dbe4f-a476-5ba8-8f99-7b1dbde0d997/62166b5b0caa0.image.jpg?crop=1215%2C638%2C0%2C533&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 67855,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "85f054d68afb4373154cad827904b5367b872eb5",
+  "url": "https://www.somdnews.com/recorder/news/local/calvert-school-board-votes-to-delay-final-budget-approval/article_4badeef7-28aa-4d59-a4e1-5b24d0209eee.html",
+  "ord_in_thread": 0,
+  "author": "MARTY MADDEN mmadden@somdnews.com",
+  "published": "2025-06-18T22:15:00.000+03:00",
+  "title": "Calvert school board votes to delay final budget approval | Local News | somdnews.com",
+  "text": "With two looming uncertainties posed by state education officials, Calvert County’s school board voted last week not to approve its final budget for the next fiscal year.\nThe 0-5 vote was taken during the panel’s June 12 meeting.\nThe initial proposed fiscal 2026 operating budget totals $289.2 million.\n“As of 9:15 this morning, the Maryland State Department of Education had not released the FY26 state aid amounts to public school districts,” Scott Johnson, the school system’s chief financial officer told the school board. “Consequently, the state aid projections and the Calvert County revenue budget amounts included in the FY26 budget may require subsequent revision.”\nAnother uncertainty is the state’s final maintenance of effort figure.\nThe number has significance in that the Calvert County commissioners have already approved their fiscal 2026 budget with the intention of allocating funds to the school system at the maintenance of effort amount, which is the minimum amount required by law based on a school system’s number of students.\nCalvert County Public Schools’ dwindling enrollment numbers have been cited as the reason for the leaning budget allocation. It is the school board’s intention to use part of its fund balance to reach the final, approved budget number.\nJohnson recommended to the board that they OK the initial fiscal 2026 budget “for the unrestricted fund, the restricted fund the food service fund and the school construction fund.”\nThe fiscal 2026 budget begins in less than two weeks on July 1.\n“We’re kind of short on time,” board member Paul Harrison said, adding that in the spreadsheet provided to members a few hours before the meeting he was not seeing line items for several requests made by the board, such as resource officers in every school.\n“It’s really unclear where we are making the cuts or changes,” board member Melissa Goshorn said.\nAnother board member, Joseph Marchio, also indicated he had not had an opportunity to analyze the numbers.\nAlthough a motion was made and seconded prior to discussion to approve Johnson’s recommendation, when board president Jana Post called the question, the panel voted unanimously to not sign off on the budget.\n“We have 30 days,” Post said, to send an approved budget to the county commissioners.\nThe school board must approve its budget within 30 days of when the commissioners approve their overall budget, which was on June 10.\nEarlier in the meeting, Superintendent Andraé Townsel announced there would be no school board meeting in July due to planned software maintenance.\nPost then tentatively set June 30 as the day the school board would meet to finalize its next budget. That meeting has been scheduled for 5 to 8 p.m. at the system’s central office in Prince Frederick.\nDuring his end of meeting remarks, Marchio apologized to the citizens for voting against the budget, reiterating he didn’t have adequate time to review the numbers.\nNew student member sworn inAllison Jones, who will be a senior at Northern High this year, was sworn in at the start of the June 12 meeting as the student member of the board.\nAt Northern, Jones is involved in student government and the Naval Junior Reserve Officer Training Corps.\nAfter being sworn in by Clerk of the Circuit Court Kathy Smith (D), Jones said being the student member of the board has been her goal since sixth grade.\nFeatured Local Savings\nLet the news come to you\nGet any of our free email newsletters.\nExplore newsletters",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Education", "Politics"],
+  "topics": [
+    "Economy, Business and Finance->business reporting and performance",
+    "Education->educational grading",
+    "Education->state school",
+    "Education->school",
+    "Politics->local government and authority",
+    "Politics->education policy",
+    "Politics->government budget"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Scott Johnson",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Calvert County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Maryland State Department of Education",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "85f054d68afb4373154cad827904b5367b872eb5",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T07:46:04.414+03:00",
+  "updated": "2025-06-26T04:51:57.000+00:00"
+}

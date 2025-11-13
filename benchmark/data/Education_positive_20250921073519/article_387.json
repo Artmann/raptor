@@ -1,0 +1,126 @@
+{
+  "thread": {
+    "uuid": "6d51408a3dd1b05f2116f074e2b6dddfb34b3439",
+    "url": "https://library.yale.edu/news/yale-film-archive-receives-grant-preserve-experimental-films-jacqueline-leger",
+    "site_full": "library.yale.edu",
+    "site": "yale.edu",
+    "site_section": "https://library.yale.edu/news",
+    "site_categories": [],
+    "section_title": "Library News\n | Yale Library",
+    "site_title": "Homepage\n | Yale Library",
+    "title": "Yale Film Archive receives grant to preserve experimental films by Jacqueline Leger | Yale Library",
+    "title_full": "Yale Film Archive receives grant to preserve experimental films by Jacqueline Leger | Yale Library",
+    "published": "2025-09-17T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 1144,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6d51408a3dd1b05f2116f074e2b6dddfb34b3439",
+  "url": "https://library.yale.edu/news/yale-film-archive-receives-grant-preserve-experimental-films-jacqueline-leger",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-17T03:00:00.000+03:00",
+  "title": "Yale Film Archive receives grant to preserve experimental films by Jacqueline Leger | Yale Library",
+  "text": "Yale Film Archive receives grant to preserve experimental films by Jacqueline Leger\nThe Yale Film Archive has been awarded a grant from the National Film Preservation Foundation (NFPF) to help preserve two early films by Jacqueline Leger: “Sunday Morning” and “Jocko’s New Haven.”\n“Sunday Morning” (1971) is a road trip film, an experimental visual collage capturing now long-gone sights along Massachusetts Route 1. “Jocko’s New Haven” (1976), features performances by legendary musicians David Amram and John Hammond, documenting a unique time in New Haven’s cultural history.\nIn 2023, Leger donated the original picture and sound elements to the Film Archive; the archive holds the only existing copies of the two films.\n“I am delighted to be part of the Yale Film Archive,” Leger wrote in a recent email. The films, she recalled, “began my journey into black and white, 16 mm experimental film that focused on urban elements of place, cultural heritage of road maps, isolated neighborhoods, clubs, small vernacular businesses, and music of the time.”\nLeger was one of the first students in Yale’s short-lived MFA in Film program in the 1970s. She was influenced and inspired by Stan Lawder, a History of Art professor and experimental filmmaker, who helped the University acquire its first film collection in 1968, a trove of more than 200 classic films that grew over decades into the Film Archive.\nBrian Meacham, the Film Archive’s managing archivist, emphasized the significance of the preservation project. “These works showcase the early talent of Jacqueline Leger and document specific cultural moments in the 1970s,” he said. “They also capture a fleeting moment in the history of the study and production of film at Yale.”\nWhen the preservation work is completed, the Film Archive will hold a free public screening event with Leger.\n“We are committed to preserving Jacqueline Leger’s important contributions to the world of film,” Meacham said. “This grant enables us to maintain and share these cultural treasures with the public and scholars alike, furthering our mission to support teaching, learning, and research.”\nThe Film Archive, located in Sterling Memorial Library, has received at least 15 NFPF preservation grants over the past two decades. Many of the grants have helped to preserve “orphan films”—culturally or historically significant works without strong commercial support.\nVisit the Film Archive website.\nRead NFPF’s 2025 announcement and see the full list of grant winners.\n—Patricia M. Carey",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Arts, Culture and Entertainment", "Education"],
+  "topics": [
+    "Arts, Culture and Entertainment->cinema",
+    "Arts, Culture and Entertainment->art exhibition",
+    "Education->educational grading",
+    "Education->college and university",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.filmpreservation.org/preserved-films/2025-federal-grant-winners",
+    "https://www.filmpreservation.org/blog/2025/8/5/81-films-to-be-preserved-by-2025-nfpf-preservation-grants",
+    "https://filmpreservation.org/preserved-films/2025-federal-grant-winners",
+    "https://filmpreservation.org/blog/2025/8/5/81-films-to-be-preserved-by-2025-nfpf-preservation-grants"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jacqueline Leger",
+        "sentiment": "negative"
+      },
+      {
+        "name": "John Hammond",
+        "sentiment": "none"
+      },
+      {
+        "name": "David Amram",
+        "sentiment": "none"
+      },
+      {
+        "name": "Jocko",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Yale Library",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Yale Film Archive",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "National Film Preservation Foundation",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": ["Yale"],
+      "state": ["Illinois", "Michigan"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:13:31.613+03:00",
+  "updated": "2025-09-18T08:26:27.000+03:00"
+}

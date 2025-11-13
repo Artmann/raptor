@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "5890f10a4d91590171433d9923a5809f1eeebc98",
+    "url": "https://www.simcoe.com/news/a-rather-unique-call-barrie-police-hoping-to-id-cyclist-following-dangerous-driving-arrest/article_bf5531c6-a286-5077-8d1c-932e58c05bc7.html",
+    "site_full": "www.simcoe.com",
+    "site": "simcoe.com",
+    "site_section": "https://simcoe.com",
+    "site_categories": ["media"],
+    "section_title": "Latest News - Breaking News Stories | Simcoe.com",
+    "title": "Dangerous driving arrest, Barrie police hope to ID cyclist",
+    "title_full": "Dangerous driving arrest, Barrie police hope to ID cyclist",
+    "published": "2024-04-25T22:46:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://bloximages.chicago2.vip.townnews.com/simcoe.com/content/tncms/assets/v3/editorial/f/f9/ff917577-1a09-54ee-9cc8-a135053eb126/662ab05c0a5aa.image.jpg?crop=1351%2C709%2C0%2C411&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 45389,
+    "domain_rank_updated": "2024-04-23T13:07:55.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5890f10a4d91590171433d9923a5809f1eeebc98",
+  "url": "https://www.simcoe.com/news/a-rather-unique-call-barrie-police-hoping-to-id-cyclist-following-dangerous-driving-arrest/article_bf5531c6-a286-5077-8d1c-932e58c05bc7.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Brett Glover",
+  "published": "2024-04-25T22:46:00.000+03:00",
+  "title": "Dangerous driving arrest, Barrie police hope to ID cyclist",
+  "text": "Barrie police are asking for help in locating a cyclist following what the service is calling “a rather unique call for service.”\nPolice received a call at just before 4:30 p.m. Wednesday (April 24) that claimed a vehicle was being driven dangerously chasing a cyclist in a townhouse complex along Mapleview Drive, west of Madelaine Drive.\nInvestigators showed up and combed the area, saying they were able to find some witnesses and residential video surveillance footage that helped them zero in on a licence plate.\nARTICLE CONTINUES BELOW That led officers to a nearby home, where a 42-year-old woman was arrested. Police say she now faces a charges of dangerous driving and will make a court appearance on May 29.\nHowever, police are trying to identify the cyclist who was allegedly being chased. He was said to be riding a mountain bike, wearing blue jeans, black baseball hat, dark sweater and running shoes. He also had a backpack that police say appeared to be blue and grey in colour.\nPolice don’t believe the cyclist was injured, but investigators want to speak with him nonetheless. If you’re the cyclist or have information on who he may be, contact Const. Rigelhof at 12137@barriepolice.ca .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Social Issue", "Human Interest", "Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.barriepolice.ca/",
+    "https://pubads.g.doubleclick.net/gampad/ads?iu=/58580620/${domain}/video/oovvuu${sectionTag}&description_url=${descriptionUrl}&vid=${vid}&cmsid=${cmsId}&tfcd=0&npa=0&sz=640x480&ad_rule=0&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=`;",
+    "https://www.barriepolice.ca",
+    "https://pubads.g.doubleclick.net/gampad/ads",
+    "https://www.pubads.g.doubleclick.net/gampad/ads?iu=/58580620/${domain}/video/oovvuu${sectionTag}&description_url=${descriptionUrl}&vid=${vid}&cmsid=${cmsId}&tfcd=0&npa=0&sz=640x480&ad_rule=0&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=`;",
+    "https://barriepolice.ca/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "barrie",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "madelaine drive",
+        "sentiment": "none"
+      },
+      {
+        "name": "mapleview drive",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:14:19.651+03:00",
+  "updated": "2024-04-26T00:14:19.651+03:00"
+}

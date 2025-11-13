@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "3c1b2dce25247cf73fa0b4899247eaa820977df7",
+    "url": "https://www.sunjournal.com/2025/01/23/james-banks-iii-returning-to-maine-celtics",
+    "site_full": "www.sunjournal.com",
+    "site": "sunjournal.com",
+    "site_section": "https://www.sunjournal.com",
+    "site_categories": ["media"],
+    "section_title": "Lewiston Sun Journal | Central and Western Maine News",
+    "title": "James Banks III returning to Maine Celtics",
+    "title_full": "James Banks III returning to Maine Celtics",
+    "published": "2025-01-24T00:15:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 13655,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3c1b2dce25247cf73fa0b4899247eaa820977df7",
+  "url": "https://www.sunjournal.com/2025/01/23/james-banks-iii-returning-to-maine-celtics",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Scott Martin",
+  "published": "2025-01-24T00:15:00.000+02:00",
+  "title": "James Banks III returning to Maine Celtics",
+  "text": "James Banks III smiles during a practice with the Maine Celtics last season. Banks, who has been playing in Greece, is returning to the Maine Celtics. Derek Davis/Staff Photographer\nJames Banks III, who helped the Maine Celtics reach the NBA G League finals last season, is returning to the team.\nThe team announced Thursday that Banks, who played 44 games for Maine last season, will fill the open roster spot vacated by Dmytro Skapintsev, whose rights were traded to Rip City last week.\nBanks has been playing in Greece.\nLast season, he averaged 5.3 points, 4.7 rebounds, 1.5 assists and 1.5 blocked shots per game. He has played 128 G League games in his career with Maine, Texas and Birmingham.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->basketball",
+    "Human Interest->celebrity",
+    "Lifestyle and Leisure->club and association",
+    "Lifestyle and Leisure->game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "James Banks III",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Dmytro Skapintsev",
+        "sentiment": "none"
+      },
+      {
+        "name": "Derek Davis",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Maine Celtics",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Rip City",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "3c1b2dce25247cf73fa0b4899247eaa820977df7",
+    "first_syndicated": true
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:44:41.273+02:00",
+  "updated": "2025-01-24T00:44:41.273+02:00"
+}

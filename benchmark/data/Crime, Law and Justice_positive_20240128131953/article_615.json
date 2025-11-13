@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "2ad754de369745372e98a5a22e35ab7aa7e8e5de",
+    "url": "https://www.jordantimes.com/news/business/apple-wins-watch-ban-pause-us-patent-feud",
+    "site_full": "www.jordantimes.com",
+    "site": "jordantimes.com",
+    "site_section": "https://www.jordantimes.com/",
+    "site_categories": ["media"],
+    "section_title": "Jordan Times",
+    "title": "Apple wins watch ban pause in US patent feud",
+    "title_full": "Apple wins watch ban pause in US patent feud | Jordan Times",
+    "published": "2023-12-28T22:45:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 15751,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2ad754de369745372e98a5a22e35ab7aa7e8e5de",
+  "url": "https://www.jordantimes.com/news/business/apple-wins-watch-ban-pause-us-patent-feud",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "AFP",
+  "published": "2023-12-28T22:45:00.000+02:00",
+  "title": "Apple wins watch ban pause in US patent feud",
+  "text": "WASHINGTON — A federal court handed Apple a victory on Wednesday by suspending a ban on the US sale of its latest watch models in a feud over patents with health company Masimo.\n\"We are thrilled to return the full Apple Watch lineup to customers in time for the new year,\" an Apple spokesperson said in an email to AFP.\n\"Apple Watch Series 9 and Apple Watch Ultra 2, including the blood oxygen feature, will become available for purchase again in the United States at Apple Stores starting today and from apple.com tomorrow by 12pm [2000 GMT],\" the email added.\nThe ban on certain Apple smartwatch models came into effect Tuesday, after US President Joe Biden's administration opted not to veto a ruling on the patent infringements.\nBut the federal court said the ban order would not take effect pending its consideration of whether to allow a pause on the ban throughout the full appeal process.\nAfter a complaint by Masimo, the United States International Trade Commission (ITC) decided in October to ban Apple Watch models over a patented technology for detecting blood-oxygen levels.\nMasimo contends it invented the technology and that Apple poached key employees to win access to the know-how.\nApple last week paused its US sales of Apple Watch Series 9 and Apple Watch Ultra 2 in compliance with the order.\nBut the iPhone-maker contends that the ITC finding was in error and should be reversed, and appealed the decision in the federal appeals court.\nMasimo declined to comment on the development. Apple did not immediately reply to a query from AFP.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "joe biden",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "apple",
+        "sentiment": "negative"
+      },
+      {
+        "name": "apple stores",
+        "sentiment": "none"
+      },
+      {
+        "name": "itc",
+        "sentiment": "none"
+      },
+      {
+        "name": "afp",
+        "sentiment": "none"
+      },
+      {
+        "name": "united states international trade commission",
+        "sentiment": "none"
+      },
+      {
+        "name": "masimo",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "washington",
+        "sentiment": "none"
+      },
+      {
+        "name": "us",
+        "sentiment": "none"
+      },
+      {
+        "name": "united states",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T19:58:00.828+02:00",
+  "updated": "2023-12-29T19:58:00.828+02:00"
+}

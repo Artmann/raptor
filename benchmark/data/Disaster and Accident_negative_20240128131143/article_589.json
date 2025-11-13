@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "ba082d5ab44721598d0dc6c245ba6de1f577209d",
+    "url": "https://www.kvue.com/article/weather/forecast/drought-update-dec-28/269-7abf4bcc-7ab8-4637-87a4-8bccb1866e67",
+    "site_full": "www.kvue.com",
+    "site": "kvue.com",
+    "site_section": "http://rssfeeds.kvue.com/_/20/109570478/kvue/home",
+    "site_categories": ["media"],
+    "section_title": "KVUE - News",
+    "title": "Drought Update: Modest improvements in the Hill Country, portions of Williamson County",
+    "title_full": "Drought Update: Modest improvements in the Hill Country, portions of Williamson County",
+    "published": "2023-12-29T00:36:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.kvue.com/assets/KVUE/images/b7531325-fde7-42e7-ae02-49f3598390f8/b7531325-fde7-42e7-ae02-49f3598390f8_1140x641.jpg",
+    "performance_score": 0,
+    "domain_rank": 7343,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ba082d5ab44721598d0dc6c245ba6de1f577209d",
+  "url": "https://www.kvue.com/article/weather/forecast/drought-update-dec-28/269-7abf4bcc-7ab8-4637-87a4-8bccb1866e67",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jordan Darensbourg",
+  "published": "2023-12-29T00:36:00.000+02:00",
+  "title": "Drought Update: Modest improvements in the Hill Country, portions of Williamson County",
+  "text": "AUSTIN, Texas — As expected,\n[the rainfall that fell](/article/weather/forecast/austin-weather-central-texas-forecast/269-43840919) just prior to Christmas has had a somewhat positive effect on our drought situation locally, as well as across the Lone Star State.\nWhile we did not see much change in the Austin metro area, areas of the Hill Country and Williamson County did see some improvements.\nMost notably, portions of Mason County, including the City of Mason, are now under \"abnormally dry\" conditions, which is down from the \"moderate\" drought category. In Williamson County, the northwest corner of the county is now in the \"severe\" drought category, which is down from the \"extreme\" category.\nWhen looking at a statewide view of the drought, conditions have markedly improved, with all drought levels showing improving conditions. Most notably, north and east Texas, where most of the rain from the recent system fell, saw the biggest improvements statewide. The largest categorical improvement was in the \"abnormally dry\" category, where a five-percent decrease was observed. Additionally, areas not in a drought category increased by five percent as well. The \"moderate\" drought category also saw a large improvement, dropping by around 3.5% statewide.\nWith rain expected for the first week of 2024, we don't expect much change on the drought monitor for next Thursday's release, which will be the first of the new year. However, we'll be watching the monitor for January 11th, which will include next week's rainfall amounts.\nStick with KVUE for the latest as we track the potential for the drought to improve this winter with the El Nino pattern.\nIn the meantime, here's your seven-day forecast.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Disaster and Accident", "Crime, Law and Justice"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "hill country",
+        "sentiment": "negative"
+      },
+      {
+        "name": "city of mason",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "williamson county austin",
+        "sentiment": "none"
+      },
+      {
+        "name": "texas",
+        "sentiment": "none"
+      },
+      {
+        "name": "williamson county",
+        "sentiment": "none"
+      },
+      {
+        "name": "hill country",
+        "sentiment": "none"
+      },
+      {
+        "name": "austin",
+        "sentiment": "none"
+      },
+      {
+        "name": "mason county",
+        "sentiment": "none"
+      },
+      {
+        "name": "lone star state",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:47:27.357+02:00",
+  "updated": "2023-12-29T00:47:27.357+02:00"
+}

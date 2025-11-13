@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "c1fc5b54906d83f5c55a5bc44949dc0847ae5b5f",
+    "url": "https://www.thecabin.net/news/greenbrier-middle-school-library-transforms-into-carnival/article_1733f986-0adf-5624-8f8e-4e9d010a9132.html",
+    "site_full": "www.thecabin.net",
+    "site": "thecabin.net",
+    "site_section": "https://news.google.com/search?q=into%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": ["media"],
+    "section_title": "Google News - Search",
+    "site_title": "thecabin.net",
+    "title": "Greenbrier Middle School Library transforms into carnival | News | thecabin.net",
+    "title_full": "Greenbrier Middle School Library transforms into carnival | News | thecabin.net",
+    "published": "2025-09-18T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/thecabin.net/content/tncms/assets/v3/editorial/1/03/10334ed9-3e6d-53e7-b8c2-2202e3e39d9d/68cadd6801b11.image.jpg?crop=1661%2C872%2C0%2C249&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 550770,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c1fc5b54906d83f5c55a5bc44949dc0847ae5b5f",
+  "url": "https://www.thecabin.net/news/greenbrier-middle-school-library-transforms-into-carnival/article_1733f986-0adf-5624-8f8e-4e9d010a9132.html",
+  "ord_in_thread": 0,
+  "author": "LOG CABIN DEMOCRAT",
+  "published": "2025-09-18T08:00:00.000+03:00",
+  "title": "Greenbrier Middle School Library transforms into carnival | News | thecabin.net",
+  "text": "The Greenbrier Middle School Library transformed into a carnival on Tuesday for a unit on energy transfer.\nSixth grade science students at the middle school were able to participate in multiple carnival games and activities to determine what type of energy occurred at different points in the games.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Lifestyle and Leisure"],
+  "topics": [
+    "Education->students",
+    "Education->school",
+    "Education->teachers",
+    "Lifestyle and Leisure->exercise and fitness",
+    "Lifestyle and Leisure->leisure",
+    "Lifestyle and Leisure->hobby"
+  ],
+  "ai_allow": false,
+  "has_canonical": true,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Greenbrier Middle School Library",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Conway",
+        "Mount Vernon",
+        "Log Cabin",
+        "Urbana",
+        "Guy",
+        "Greenbrier",
+        "Vilonia"
+      ],
+      "state": ["North Dakota", "Iowa", "Florida", "Arkansas", "Texas"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:07:14.867+03:00",
+  "updated": "2025-09-18T08:15:49.000+03:00"
+}

@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "f135b13e73ba3641b9d4111a8853dae8407fd97f",
+    "url": "https://www.chagrinvalleytoday.com/communities/article_b9f009f4-081a-4b9e-abc2-694367dc9359.html",
+    "site_full": "www.chagrinvalleytoday.com",
+    "site": "chagrinvalleytoday.com",
+    "site_section": "http://www.chagrinvalleytoday.com/search/?f=rss&t=article&c=communities&l=50&s=start_time&sd=desc",
+    "site_categories": ["media", "tech"],
+    "section_title": "www.chagrinvalleytoday.com - RSS Results in communities of type article",
+    "site_title": "chagrinvalleytoday.com | Chagrin Valley Times, Solon Times, Geauga Times Courier",
+    "title": "Commissioners endorse reduced-credit bachelor's degree program",
+    "title_full": "Commissioners endorse reduced-credit bachelor's degree program",
+    "published": "2025-09-18T07:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/chagrinvalleytoday.com/content/tncms/custom/image/b3917a6c-31db-11e8-86ad-4b60b4244eb5.jpg?crop=204%2C204%2C171%2C0&amp;resize=200%2C200&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f135b13e73ba3641b9d4111a8853dae8407fd97f",
+  "url": "https://www.chagrinvalleytoday.com/communities/article_b9f009f4-081a-4b9e-abc2-694367dc9359.html",
+  "ord_in_thread": 0,
+  "author": "ANASTASIA NICHOLAS",
+  "published": "2025-09-18T07:00:00.000+03:00",
+  "title": "Commissioners endorse reduced-credit bachelor's degree program",
+  "text": "Geauga County commissioners Jim Dvorak and Ralph Spidalieri recently endorsed a proposed new program at Kent State University’s College of Applied and Technical Studies, which would allow students to earn a bachelor’s degree in three years.\nAs the university works through internal approvals for the program, “one of the things that is helpful … is to have support of the communities which we serve at our regional campuses,” said Associate Dean Susan Emens, asking the commissioners to sign a letter at their meeting last week.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Politics", "Economy, Business and Finance"],
+  "topics": [
+    "Education->college and university",
+    "Education->students",
+    "Education->curriculum",
+    "Politics->local government and authority",
+    "Politics->education policy",
+    "Economy, Business and Finance->human resources",
+    "Economy, Business and Finance->business governance"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ralph Spidalieri",
+        "sentiment": "none"
+      },
+      {
+        "name": "Jim Dvorak",
+        "sentiment": "none"
+      },
+      {
+        "name": "Susan Emens",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Geauga County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Chagrin Falls", "Hunting Valley", "Solon", "South Solon"],
+      "state": ["Ohio"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:54:49.462+03:00",
+  "updated": "2025-09-18T09:00:35.000+03:00"
+}

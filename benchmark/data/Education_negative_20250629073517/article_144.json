@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "07ef2070ebf9a50026e91c5b1de15fed35186d19",
+    "url": "https://www.lyonmag.com/article/144957/la-region-auvergne-rhone-alpes-condamnee-pour-ne-pas-avoir-respecte-la-mise-en-place-d-un-menu-vegetarien-par-semaine-dans-les-lycees",
+    "site_full": "www.lyonmag.com",
+    "site": "lyonmag.com",
+    "site_section": "https://www.lyonmag.com/category/12/ol-en-direct",
+    "site_categories": ["travel", "france", "top_news_fr", "top_news"],
+    "section_title": "OL en direct à Lyon sur LyonMag",
+    "site_title": "Lyon Mag : l'actu de la Métropole de Lyon",
+    "title": "La Région Auvergne-Rhône-Alpes condamnée pour ne pas avoir respecté la mise en place d'un menu végétarien par semaine dans les lycées",
+    "title_full": "La Région Auvergne-Rhône-Alpes condamnée pour ne pas avoir respecté la mise en place d'un menu végétarien par semaine dans les lycées",
+    "published": "2025-06-26T09:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://www.lyonmag.com/media/images/685cdc4600ede-36924144650-1f28785471-o.jpg",
+    "performance_score": 1,
+    "domain_rank": 58994,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 12,
+        "comments": 28,
+        "shares": 24
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "07ef2070ebf9a50026e91c5b1de15fed35186d19",
+  "url": "https://www.lyonmag.com/article/144957/la-region-auvergne-rhone-alpes-condamnee-pour-ne-pas-avoir-respecte-la-mise-en-place-d-un-menu-vegetarien-par-semaine-dans-les-lycees",
+  "ord_in_thread": 0,
+  "author": "Lyon Mag",
+  "published": "2025-06-26T09:00:00.000+03:00",
+  "title": "La Région Auvergne-Rhône-Alpes condamnée pour ne pas avoir respecté la mise en place d'un menu végétarien par semaine dans les lycées",
+  "text": "Le tribunal administratif de Lyon a condamné la collectivité pour avoir refusé de prendre les mesures propres à garantir le respect de l’obligation de proposer un repas végétarien hebdomadaire dans les lycées dont elle a la charge. Une mesure mise en place en novembre 2019 à travers la loi Egalim.\nLa condamnation survient après la plainte de l’Association Justice Animaux Savoie (AJAS) déposée en 2023. L’association avait constaté que certains lycées de la région Auvergne Rhône-Alpes ne respectaient pas la loi imposant un menu végétarien obligatoire par semaine.\nMalgré des demandes de l’association, la Région n'avait pas fourni les documents prouvant qu’il mettait tout en œuvre pour faire appliquer la loi dans les établissements. Florence Dubessy, vice-présidente déléguée à l’Education avait même déclaré dans certains médias que \"la Région n’entend pas se soumettre aux injonctions délirantes d’associations extrémistes minoritaires\".\nLe tribunal administratif de Lyon donne donc un mois à la Région pour agir. Elle doit également verser 1500 euros à l’AJAS.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": ["Politics", "Social Issue", "Education"],
+  "topics": [
+    "Politics->government",
+    "Politics->civil rights",
+    "Politics->education policy",
+    "Social Issue->diversity, equity and inclusion",
+    "Education->school",
+    "Education->educational grading",
+    "Education->upper secondary education"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_fr", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T09:04:26.407+03:00",
+  "updated": "2025-06-27T07:07:45.000+00:00"
+}

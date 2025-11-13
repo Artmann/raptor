@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "566bf36786c254965428da1c980899e434e2b319",
+    "url": "https://en.antaranews.com/news/361997/apmes-gen-zs-confident-supported-but-the-most-stressed-and-likely-to-leave",
+    "site_full": "en.antaranews.com",
+    "site": "antaranews.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": ["media", "top_news_id", "top_news"],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "site_title": "Berita terkini dan terpercaya Indonesia - ANTARA News",
+    "title": "APME's Gen Zs: Confident, Supported, But the Most Stressed and Likely to Leave - ANTARA News",
+    "title_full": "APME's Gen Zs: Confident, Supported, But the Most Stressed and Likely to Leave - ANTARA News",
+    "published": "2025-06-26T07:29:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ID",
+    "main_image": "https://cdn.antaranews.com/cache/1200x800/2025/06/26/Global_Talent_Barometer_Report_PR_Newswire_APME_1.jpg",
+    "performance_score": 0,
+    "domain_rank": 6116,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "566bf36786c254965428da1c980899e434e2b319",
+  "url": "https://en.antaranews.com/news/361997/apmes-gen-zs-confident-supported-but-the-most-stressed-and-likely-to-leave",
+  "ord_in_thread": 0,
+  "author": "PR Wire",
+  "published": "2025-06-26T07:29:00.000+03:00",
+  "title": "APME's Gen Zs: Confident, Supported, But the Most Stressed and Likely to Leave - ANTARA News",
+  "text": "APME's Gen Zs: Confident, Supported, But the Most Stressed and Likely to Leave June 26, 2025 11:29 GMT+700\nGlobal Talent Barometer 2025 June — APME Key Findings Singapore (ANTARA/PRNewswire)- ManpowerGroup today released its Global Talent Barometer 2025, Volume 1, offering unparalleled insights into workforce sentiment across 19 countries.\nThe overall Global Talent Barometer score in Asia Pacific and Middle East (APME) of 66% was derived from three key indices: Well-Being (65%), Job Satisfaction (59%), and Confidence (73%). The report, which gathered data from 3,536 workers across six APME countries and territories between March 14 and April 11, 2025, reveals a complex landscape of employee well-being, job satisfaction, and confidence in the rapidly evolving world of work.\n\"Our latest Global Talent Barometer offers a timely look at how workers across the region are feeling. While confidence in the future remains strong, job satisfaction is not keeping pace,\" says François Lançon, Regional President, Asia Pacific & Middle East, ManpowerGroup. \"Notably, almost a third of workers say they lack opportunities for advancement within their current organizations. This is sending a clear signal: people are looking for more than just a paycheck. They want flexibility, balance, growth, and a sense of purpose. They want to feel supported and empowered to shape their own futures.\"\nIn APME, almost 4 in 5 employees (78%) find their work meaningful and purposeful, and 69% feel well or fully supported with regards to work-life balance. However, the workforce reports experiencing high daily stress (50%) and low job satisfaction (42%), with the younger generations—Gen Zs and Millennials—feeling the most stressed and dissatisfied.\nGen Z reports the highest levels of daily stress (56%) despite 73% of them saying they feel supported with regards to work-life balance. They are also the most likely to change jobs within the next six months (56%).\nView the full press release and results of the Global Talent Barometer 2025, Volume 1—APME Report and Key Findings, here:\nhttps://www.manpowergroup.com.sg/global-talent-barometer-apme\nAbout ManpowerGroup\nManpowerGroup® (NYSE: MAN), the leading global workforce solutions company, helps organizations transform in a fast-changing world of work by sourcing, assessing, developing, and managing the talent that enables them to win. Our expert family of brands – Manpower, Experis, and Talent Solutions – creates substantially more value for candidates and clients across more than 70 countries and territories and has done so for more than 75 years.\nSource: ManpowerGroup\nReporter: PR Wire\nEditor: PR Wire\nCopyright © ANTARA 2025",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Social Issue", "Health", "Education"],
+  "topics": [
+    "Social Issue->teenagers",
+    "Social Issue->social condition",
+    "Social Issue->demographics",
+    "Health->health organisation",
+    "Health->public health",
+    "Health->mental health and disorder",
+    "Education->college and university",
+    "Education->social learning",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.manpowergroup.com.sg/global-talent-barometer-apme",
+    "https://manpowergroup.com.sg/global-talent-barometer-apme"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "François Lançon",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Middle East",
+        "sentiment": "none"
+      },
+      {
+        "name": "Pacific",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "ANTARA News",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "APME",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_id", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T07:44:12.715+03:00",
+  "updated": "2025-06-27T05:10:50.000+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "3e349e4af254fd670c35bd15a87215389c79f3ac",
+    "url": "https://www.coralville.org/Calendar.aspx?EID=16452",
+    "site_full": "www.coralville.org",
+    "site": "coralville.org",
+    "site_section": "https://coralville.org/RSSFeed.aspx?ModID=58&CID=All-calendar.xml",
+    "site_categories": [],
+    "section_title": "City of Coralville - Calendar",
+    "site_title": "Coralville, IA - Official Website | Official Website",
+    "title": "Wee Read for babies and toddlers",
+    "title_full": "Wee Read for babies and toddlers",
+    "published": "2025-08-25T23:06:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.coralville.org/Images/SocialMedia/IconModuleCalendar.png",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3e349e4af254fd670c35bd15a87215389c79f3ac",
+  "url": "https://www.coralville.org/Calendar.aspx?EID=16452",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-08-25T23:06:00.000+03:00",
+  "title": "Wee Read for babies and toddlers",
+  "text": "Coralville Public Library\nHow do you grow a reader? Begin with Wee Read – your special time to enjoy sharing songs, rhymes, and books with your babies and toddlers.\nLocated in the Storytime Room, this program lasts approximately 25 minutes.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Education->early childhood education",
+    "Education->students",
+    "Education->parents group",
+    "Lifestyle and Leisure->hobby",
+    "Lifestyle and Leisure->mental wellbeing"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Coalville", "Center Junction"],
+      "state": ["Iowa"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:44:50.125+03:00",
+  "updated": "2025-09-18T08:48:43.000+03:00"
+}

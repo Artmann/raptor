@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "a248e11803c0da09918107266acf2ebf4d197295",
+    "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1116572",
+    "site_full": "www.bundestag.de",
+    "site": "bundestag.de",
+    "site_section": "https://www.bundestag.de/static/appdata/includes/rss/hib.rss",
+    "site_categories": ["politics", "law_government_and_politics"],
+    "section_title": "hib - heute im Bundestag",
+    "site_title": "Deutscher Bundestag - Startseite",
+    "title": "Klimaforscher: Weitere Erderwärmung ist noch zu verhindern",
+    "title_full": "Klimaforscher: Weitere Erderwärmung ist noch zu verhindern",
+    "published": "2025-10-16T11:40:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.bundestag.de/resource/blob/710792/1412e3a264dedb70095c5662743aee3e/adler.png",
+    "performance_score": 0,
+    "domain_rank": 9033,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a248e11803c0da09918107266acf2ebf4d197295",
+  "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1116572",
+  "ord_in_thread": 0,
+  "author": "HAU",
+  "published": "2025-10-16T11:40:00.000+03:00",
+  "title": "Klimaforscher: Weitere Erderwärmung ist noch zu verhindern",
+  "text": "Klimaforscher: Weitere Erderwärmung ist noch zu verhindern\nBerlin: (hib/HAU) Die Deutsche Meteorologische Gesellschaft und die Deutsche Physikalische Gesellschaft fordern dazu auf, unverzüglich ein sehr viel wirksameres Programm zur Eindämmung von menschengemachten Klimaänderungen voranzutreiben und die hierfür notwendigen Maßnahmen nicht weiter in die Zukunft zu verschieben. Vor dem Parlamentarischen Beirat für nachhaltige Entwicklung und Zukunftsfragen sagte Professor Gunther Seckmeyer vom Institut für Meteorologie und Klimatologie an der Leibnitz Universität Hannover, mit Blick auf die vorliegenden Daten könne es sein, „dass wir bereits 2032 die Zwei-Grad-Erderwärmung überschreiten“. Nicht auszuschließen sei auch, dass 2050 die drei Grad überschritten werden.\nDass die Entwicklung so schnell gehe, habe auch die Forschung überrascht, sagte Seckmeyer, der Mitglied der beiden Gesellschaften ist. Zugleich machte er deutlich, dass dies jedoch nicht als eine Vorhersage zu verstehen sei. „Wir haben es in der Hand, das zu verhindern“, sagte er. Mut mache ihm während der „dramatischen Entwicklung des Klimas“ die aktuelle „globale Energierevolution“. Es werde immer mehr Solar- und Windenergie weltweit aufgestellt. „Nicht in erster Linie, um das Klima zu schützen, sondern weil es billiger ist“, sagte er.\nDie Konzentration in der Atmosphäre nehme zu, sagte Frank Kaspar, Leiter der Abteilung Hydrometeorologie beim Deutschen Wetterdienst (DWD), und ebenfalls Mitglied der beiden Gesellschaften. Das basiere darauf, „dass in jedem Jahr neues CO2 insbesondere durch die Verbrennung fossiler Brennstoffe in die Atmosphäre eingetragen wird“. Dabei sei im vergangenen Jahr ein Rekordwert erreicht worden, der weit über dem liege, was es zuvor gegeben habe. Das sei der Grund, weshalb in der Forschung die Sorge zunimmt, dass das Problem nicht angemessen behandelt wird. „Wir müssen uns auf jeden Fall auf weitere Extremwerte bei vielen meteorologischen Parametern einstellen“, sagte er.\nSeckmeyer und Kaspar stellten den Zehn-Punkte-Katalog aus einem im Sommer 2025 durch die Deutsche Meteorologische Gesellschaft und die Deutsche Physikalische Gesellschaft beschlossenen Aufruf vor. Erster Punkt dabei ist die Aufforderung, sich der realen Gefährdungslage „durch die fortschreitende menschengemachte globale Erwärmung“ und der Dringlichkeit des Handelns bewusst zu werden. Auf der Basis des bisher Erreichten müssten zudem Entscheidungen für eine weitere und drastische Reduktion der Emissionen von Treibhausgasen getroffen werden. Insbesondere gelte das für die Energieerzeugung, die Mobilität, die industrielle Produktion, das Bauen und die Landwirtschaft. Da Klimaschutz nur international gedacht erfolgreich sein könne, müsse die Bundesregierung in internationalen Verhandlungen konsequent für eine Begrenzung der Treibhausgasemissionen unter Einhaltung der Vorgaben des Pariser Klimaabkommens eintreten.\nAuch ein Rückzug aus tiefer liegenden Küstenregionen an Nord- und Ostsee müsse diskutiert werden, sagte Seckmeyer. „Es könnte notwendig werden, wenn die drei Grad erreicht werden.“ Dann könne man eventuell die Küste nicht mehr verteidigen, „auch nicht mit Deichbau“. Letzter Punkt des Kataloges war die Forderung an die Politik, sicherzustellen, „das wissenschaftsbasierte Meinungsäußerungen weiterhin möglich sind“. In vielen Teilen der Welt, so Seckmeyer, kämen derzeit die Wissenschaftler unter Druck.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->global warming"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Gunther Seckmeyer",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Berlin",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Deutsche Physikalische Gesellschaft",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Leibnitz Universität Hannover",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:56:16.831+03:00",
+  "updated": "2025-10-16T16:06:40.000+03:00"
+}

@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "20be1676d54634acbcda70d39d50e6a7c277a6bc",
+    "url": "https://www.pulse.ng/articles/news/fg-reintroduces-history-basic-education-curriculum-2025091806192988366",
+    "site_full": "www.pulse.ng",
+    "site": "pulse.ng",
+    "site_section": "https://pulse.ng/news",
+    "site_categories": ["media", "celebrity_fan_gossip", "entertainment"],
+    "section_title": "Latest News Updates &amp; Newspaper Headlines | Pulse Nigeria",
+    "site_title": "Breaking News &amp; Top Stories | Pulse Nigeria",
+    "title": "FG restores history to basic education after 15 years | Pulse Nigeria",
+    "title_full": "FG restores history to basic education after 15 years | Pulse Nigeria",
+    "published": "2025-09-18T09:19:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NG",
+    "main_image": "https://image.api.sportal365.com/process/smp-images-production/pulse.ng/30062025/59d82bf0-2add-4135-a0fa-f519fe542f38.jpg",
+    "performance_score": 0,
+    "domain_rank": 41733,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "20be1676d54634acbcda70d39d50e6a7c277a6bc",
+  "url": "https://www.pulse.ng/articles/news/fg-reintroduces-history-basic-education-curriculum-2025091806192988366",
+  "ord_in_thread": 0,
+  "author": "Segun Adeyemi",
+  "published": "2025-09-18T09:19:00.000+03:00",
+  "title": "FG restores history to basic education after 15 years | Pulse Nigeria",
+  "text": "The Federal Government has reintroduced History as a compulsory subject in Nigeria’s basic education curriculum, nearly 15 years after it was scrapped.\nThe Federal Ministry of Education confirmed the development in a statement on Wednesday, September 17, noting that the reform aims to strengthen national identity, unity, patriotism, and responsible citizenship.\n“For the first time in decades, Nigerian pupils will study History continuously from Primary 1 to JSS3, while SSS1–3 students will take the new Civic and Heritage Studies, integrating History with Civic Education,” the ministry said.\nUnder the new plan, pupils in Primary 1–6 will be taught about Nigeria’s origins, heroes, rulers, culture, politics, economy, religions, colonial rule, and post-independence governance.\nJunior Secondary School (JSS) students will focus on civilisations, empires, trade, European contacts, amalgamation, independence, democracy and civic values.\n‘A Priceless Gift’\nAccording to the ministry, the reform is “a priceless gift to the nation, reconnecting children with their roots while inspiring pride, unity and commitment to national development.”\nThe government has released the revised curriculum, with plans to retrain teachers, provide learning resources, and strengthen monitoring to ensure effective delivery.\nHistory was removed from the curriculum in 2009 following the introduction of the New Basic Education Curriculum.\nAt the time, authorities argued that the subject had little career value, students shunned it, and there was a shortage of qualified teachers.\nMoves to restore it began in 2017, with pilot training for teachers launched in 2022. The latest decision now makes History a permanent feature of Nigeria’s education system.\nEducation stakeholders have welcomed the reform, seeing it as a step towards rekindling patriotism among young Nigerians.\nUpdate me",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Politics", "Social Issue"],
+  "topics": [
+    "Education->students",
+    "Education->curriculum",
+    "Education->primary education",
+    "Politics->education policy",
+    "Social Issue->social services",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Federal Ministry of Education",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Junior Secondary School",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Heritage Studies",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "20be1676d54634acbcda70d39d50e6a7c277a6bc",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:22:50.615+03:00",
+  "updated": "2025-09-18T09:31:57.000+03:00"
+}

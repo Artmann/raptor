@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "9d0935f77ff2cc4604930a7bd34b437576f9b984",
+    "url": "https://flipboard.com/video/wsj/0b77033e00",
+    "site_full": "flipboard.com",
+    "site": "flipboard.com",
+    "site_section": "https://flipboard.com/@pdimmick.rss",
+    "site_categories": ["family_and_parenting", "eldercare"],
+    "section_title": "P Dimmick",
+    "title": "Chinese Smartphone Maker Xiaomi Unveils Its First Electric Car",
+    "title_full": "Chinese Smartphone Maker Xiaomi Unveils Its First Electric Car",
+    "published": "2023-12-28T22:32:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images.wsj.net/im-906143?width=960&amp;height=540",
+    "performance_score": 0,
+    "domain_rank": 1199,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9d0935f77ff2cc4604930a7bd34b437576f9b984",
+  "url": "https://flipboard.com/video/wsj/0b77033e00",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "WSJ",
+  "published": "2023-12-28T22:32:00.000+02:00",
+  "title": "Chinese Smartphone Maker Xiaomi Unveils Its First Electric Car",
+  "text": "Chinese Smartphone Maker Xiaomi Unveils Its First Electric Car\nChina's fifth-largest smartphone maker unveiled its first electric vehicle—the SU7 sedan—which Xiaomi says is capable of delivering acceleration speeds faster than Tesla cars and Porsche EVs. Photo: Florence Lo/Reuters\nMore stories from\nThe Wall Street Journal.\nJoin the flipboard community\nDiscover, collect, and share stories for all your interests\nSign up\nMore stories from\nBusiness IRS ‘Pay Up’ Letters Start Arriving in Millions of Mailboxes Next Week\nYou’ve got mail. Starting next week, the Internal Revenue Service will resume sending a “special reminder letter” to millions of Americans about their …\nAmazon faces backlash from users over upcoming change to Prime service\nThe online retail giant is facing outrage from customers after it solidified plans to make a controversial change in 2024. After Amazon announced to …\nTesla's most popular model is finally up for a redesign. Here's what could change.\nTesla may be ringing in 2024 with a new and improved Model Y. Citing sources familiar with the matter, Bloomberg reports that Tesla is preparing its Shanghai factory to start producing a refreshed Model Y in mid-2024. This refresh will come with much more significant changes inside and out than a …",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Science and Technology", "Economy, Business and Finance"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "xiaomi",
+        "sentiment": "none"
+      },
+      {
+        "name": "tesla",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "florence lo/reuters",
+        "sentiment": "none"
+      },
+      {
+        "name": "business irs",
+        "sentiment": "none"
+      },
+      {
+        "name": "bloomberg",
+        "sentiment": "none"
+      },
+      {
+        "name": "porsche",
+        "sentiment": "none"
+      },
+      {
+        "name": "wall street journal",
+        "sentiment": "none"
+      },
+      {
+        "name": "amazon",
+        "sentiment": "none"
+      },
+      {
+        "name": "internal revenue service",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "china",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:55:19.321+02:00",
+  "updated": "2023-12-29T00:55:19.321+02:00"
+}

@@ -1,0 +1,122 @@
+{
+  "thread": {
+    "uuid": "183fcb40f783360d3bb9f3475c984ca9da8ef043",
+    "url": "https://www.mohesr.gov.iq/en/post/dr-alaboudi-inaugurates-college-of-artificial-intelligence-engineering-at-university-of-technology-2025-09-10-12",
+    "site_full": "www.mohesr.gov.iq",
+    "site": "mohesr.gov.iq",
+    "site_section": "https://www.mohesr.gov.iq/en",
+    "site_categories": [],
+    "section_title": "Placeholder",
+    "site_title": null,
+    "title": "Dr. Al-Aboudi Inaugurates College of Artificial Intelligence Engineering at University of Technology",
+    "title_full": "Dr. Al-Aboudi Inaugurates College of Artificial Intelligence Engineering at University of Technology",
+    "published": "2025-09-10T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "IQ",
+    "main_image": "https://www.mohesr.gov.iq/en/175749527468c13fea8cde7.png",
+    "performance_score": 0,
+    "domain_rank": 286254,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "183fcb40f783360d3bb9f3475c984ca9da8ef043",
+  "url": "https://www.mohesr.gov.iq/en/post/dr-alaboudi-inaugurates-college-of-artificial-intelligence-engineering-at-university-of-technology-2025-09-10-12",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-10T03:00:00.000+03:00",
+  "title": "Dr. Al-Aboudi Inaugurates College of Artificial Intelligence Engineering at University of Technology",
+  "text": "During a press conference, His Excellency, Minister of Higher Education and Scientific Research, Dr. Naeem Abd Yaser Al-Aboudi inaugurated the College of Artificial Intelligence Engineering at the University of Technology in the presence of the Ministry's Deputies and a number of faculty members.\nDr. Al-Aboudi emphasized that the establishment of the college represents a strategic milestone in the field of digital transformation and the knowledge economy adopted by the Ministry of Higher Education and Scientific Research.\nHis Excellency said that it includes specialized departments: Intelligent Control Engineering, Intelligent Robotics Engineering, Intelligent Computing Systems and Cybersecurity Engineering and Cognitive Systems Engineering.\nDr. Al-Aboudi added that the Ministry has so far established ten colleges specializing in artificial intelligence at public and private universities, in response to the labor market's need for scientific cadres capable of designing advanced technical solutions that contribute to the development of various sectors.\nHis Excellency continued by saying that the college's academic programs were developed according to modern international standards, inaugurating of the College of Artificial Intelligence Engineering today is a message of confidence in the future of Higher Education in Iraq and a solid step toward creating generations that possess the tools of the era and the keys to sustainable development.\nContact us for any inquiries about the services provided by the Ministry of Higher Education and Scientific Research",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Science and Technology"],
+  "topics": [
+    "Education->college and university",
+    "Science and Technology->scientific institution",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Naeem Abd Yaser Al-Aboudi",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Inaugurates College of Artificial Intelligence Engineering",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "University of Technology",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Ministry of Higher Education and Scientific Research",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Intelligent Robotics Engineering",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:37:10.543+03:00",
+  "updated": "2025-09-18T07:43:13.000+03:00"
+}

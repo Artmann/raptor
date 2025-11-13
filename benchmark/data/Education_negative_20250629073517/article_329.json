@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "82893d03d03465c01bf1a159003294f16fb2d9ea",
+    "url": "https://www.stern.de/gesellschaft/lehrerin-erzaehlt-aus-schulalltag--warum-sie-gerne-referendarin-ist-35150440.html",
+    "site_full": "www.stern.de",
+    "site": "stern.de",
+    "site_section": "http://www.stern.de/feed/standard/all/#utm_campaign=alle&amp;utm_medium=rss-feed&amp;utm_source=standard",
+    "site_categories": [
+      "photography",
+      "hobbies_and_interests",
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "section_title": "STERN.DE RSS-Feed - Der Tag im Überblick",
+    "site_title": "Nachrichten, Hintergründe &amp; Reportagen | STERN.de",
+    "title": "Schule: Traumjob Lehrer? Eine Referendarin packt aus - auch über Geld",
+    "title_full": "Schule: Traumjob Lehrer? Eine Referendarin packt aus - auch über Geld",
+    "published": "2025-06-26T10:34:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://image.stern.de/35152630/t/sw/v7/w1440/r1.7778/-/lehrer.jpg",
+    "performance_score": 0,
+    "domain_rank": 2110,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "82893d03d03465c01bf1a159003294f16fb2d9ea",
+  "url": "https://www.stern.de/gesellschaft/lehrerin-erzaehlt-aus-schulalltag--warum-sie-gerne-referendarin-ist-35150440.html",
+  "ord_in_thread": 0,
+  "author": "STERN.de",
+  "published": "2025-06-26T10:34:00.000+03:00",
+  "title": "Schule: Traumjob Lehrer? Eine Referendarin packt aus - auch über Geld",
+  "text": "Maria, ihr echter Name ist ein anderer, ist Lehrerin in Bayern. Sie erlebt Beleidigungen, muss Schülern das Handy wegnehmen und verdient nicht gerade gut. Warum liebt sie ihren Job?\nAufgezeichnet von Tobias Schmitz\nIch komme aus einer Familie von Lehrkräften. Mit dem Beruf bin ich groß geworden. Schon vor meinem Abitur hatte ich mich in der Jugendarbeit engagiert. Und dort habe ich gemerkt: Der Umgang mit Kindern und Jugendlichen ist genau mein Ding.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->upper secondary education",
+    "Education->teachers",
+    "Education->school",
+    "Social Issue->discrimination",
+    "Social Issue->social problem",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_de", "top_news_ch", "top_news_at", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T10:51:25.279+03:00",
+  "updated": "2025-06-27T08:05:40.000+00:00"
+}

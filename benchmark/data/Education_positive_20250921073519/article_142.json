@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "c7a1635af387c4669e27cb8d7806e4169ef5051b",
+    "url": "https://events.udel.edu/event/trabant-houseplant-sale-with-ud-botanic-gardens",
+    "site_full": "events.udel.edu",
+    "site": "udel.edu",
+    "site_section": "https://events.udel.edu/calendar",
+    "site_categories": [
+      "graduate_school",
+      "7_12_education",
+      "education",
+      "college_administration"
+    ],
+    "section_title": "  Events  on September 18, 2025 - September 17, 2026 - University of Delaware",
+    "site_title": "University of Delaware",
+    "title": "Trabant Houseplant Sale with UD Botanic Gardens - University of Delaware",
+    "title_full": "Trabant Houseplant Sale with UD Botanic Gardens - University of Delaware",
+    "published": "2025-09-18T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://localist-images.azureedge.net/photos/49860088399827/huge/24ed18db4b0212568a144f45a98952506e233833.jpg",
+    "performance_score": 0,
+    "domain_rank": 4390,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c7a1635af387c4669e27cb8d7806e4169ef5051b",
+  "url": "https://events.udel.edu/event/trabant-houseplant-sale-with-ud-botanic-gardens",
+  "ord_in_thread": 0,
+  "author": "@localist",
+  "published": "2025-09-18T03:00:00.000+03:00",
+  "title": "Trabant Houseplant Sale with UD Botanic Gardens - University of Delaware",
+  "text": "About this Event\nTrabant University Center, University of Delaware, Newark, DE 19711, USA\nJoin us at the Trabant sale for a wide selection of houseplants, ranging from vibrant foliage to exotic succulents and everything in between. Whether you're looking to brighten up your dorm room, office, or home windowsill, we have the perfect plants for you. Our knowledgeable UD Botanic Gardens staff and dedicated volunteers will be on hand to assist you with any questions, offer care tips, and help you choose the best plants for your environment. This is a fantastic opportunity to bring nature indoors as the weather cools down and to learn more about houseplant care.\nUser Activity\nNo recent activity",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Lifestyle and Leisure",
+    "Arts, Culture and Entertainment",
+    "Education"
+  ],
+  "topics": [
+    "Lifestyle and Leisure->leisure",
+    "Lifestyle and Leisure->house and home",
+    "Lifestyle and Leisure->hobby",
+    "Arts, Culture and Entertainment->festival",
+    "Arts, Culture and Entertainment->cultural development",
+    "Arts, Culture and Entertainment->customs and tradition",
+    "Education->students",
+    "Education->social learning",
+    "Education->college and university"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "UD Botanic Gardens - University of Delaware",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T07:49:52.704+03:00",
+  "updated": "2025-09-18T07:58:54.000+03:00"
+}

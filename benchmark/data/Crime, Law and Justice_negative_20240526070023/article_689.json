@@ -1,0 +1,130 @@
+{
+  "thread": {
+    "uuid": "893888f593cb504f5ea4b93d6647e973e417d972",
+    "url": "https://www.rt.com/news/596599-us-banks-capitol-collusion",
+    "site_full": "www.rt.com",
+    "site": "rt.com",
+    "site_section": "https://www.rt.com//rss",
+    "site_categories": [
+      "media",
+      "hobbies_and_interests",
+      "investors_and_patents",
+      "top_news"
+    ],
+    "section_title": "RT - Daily news",
+    "title": "US Congress probing 13 banks for January 6 ‘collusion’ — RT World News",
+    "title_full": "US Congress probing 13 banks for January 6 ‘collusion’ — RT World News",
+    "published": "2024-04-25T22:27:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://mf.b37mrtl.ru/files/2024.04/article/662aca4c85f54031cf6e5e86.jpg",
+    "performance_score": 0,
+    "domain_rank": 583,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "893888f593cb504f5ea4b93d6647e973e417d972",
+  "url": "https://www.rt.com/news/596599-us-banks-capitol-collusion",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Russia Today",
+  "published": "2024-04-25T22:27:00.000+03:00",
+  "title": "US Congress probing 13 banks for January 6 ‘collusion’ — RT World News",
+  "text": "Republicans in the House of Representatives have sent letters to 13 financial institutions they suspect of colluding with the FBI and the Treasury Department to spy on Americans without a warrant in relation to the 2021 Capitol riot.\nSupporters of then-President Donald Trump had stormed the legislature just as Republican lawmakers were starting to register objections to certifying the 2020 election in favor of Joe Biden. Democrats labeled the unrest as an “insurrection” and sought to arrest over 1,000 people involved in any way.\nSome of these people were apparently targeted by financial institutions working with the FBI and Treasury’s Financial Crimes Enforcement Network (FinCEN), according to the House Select Subcommittee on the Weaponization of the Federal Government, led by the Judiciary Committee chair Jim Jordan (R-Ohio).\n“The Committee and Select Subcommittee remain concerned about how and to what extent federal law enforcement and financial institutions continue to spy on Americans by weaponizing backdoor information sharing and casting sprawling classes of transactions, purchase behavior, and protected political or religious expression as potentially ‘suspicious’ or indicative of ‘extremism’,” said a letter from Jordan, which the Daily Mail obtained exclusively on Thursday.\nREAD MORE: Apple and Google more dangerous than governments – Telegram founder Jordan has pointed to evidence that the FBI and FinCEN instructed banks to look for purchases of Bibles or search terms such as “Trump” or “MAGA,” the acronym for the 45th president’s campaign slogan, “Make America Great Again.”\nCongress was already investigating Bank of America, Chase, US Bank, Wells Fargo, Citi Bank and Truist. Thursday’s letter was sent to Charles Schwab, HSBC, Mitsubishi UFJ Financial Group, PayPal, Santander, Standard Chartered and Western Union. That makes 13 banks or financial institutions potentially involved in the dragnet.\nBank of America alone sent data on 211 individuals to the FBI and FinCen by January 17, 2021. However, its Suspicious Activity Report (SAR) was sent after the federal agencies asked banks to look for “extremist” purchases. Four of the 211 were tagged for a follow-up and visited by FBI agents. None of them ended up being charged with anything.\nREAD MORE: Trump pledges to release Capitol rioters “This kind of warrantless financial surveillance raises serious concerns about the federal government’s respect for Americans’ privacy and fundamental civil liberties,” Jordan wrote in a separate letter to Treasury Secretary Janet Yellen, also obtained by the Daily Mail.\nSince 2021, the FBI has targeted “radical-traditionalist Catholics” as well as parents who spoke up at school board meetings – on issues such as mask mandates or critical race theory – as potential domestic terrorists. Both programs were officially denounced after being revealed by whistleblowers.\nYou can share this story on social media: Follow RT on",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Politics", "Crime, Law and Justice"],
+  "webz_reporter": false,
+  "external_links": ["https://t.me/rtnews", "https://www.t.me/rtnews"],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "donald trump",
+        "sentiment": "none"
+      },
+      {
+        "name": "joe biden",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "congress",
+        "sentiment": "negative"
+      },
+      {
+        "name": "house of representatives",
+        "sentiment": "negative"
+      },
+      {
+        "name": "treasury department",
+        "sentiment": "none"
+      },
+      {
+        "name": "select subcommittee",
+        "sentiment": "none"
+      },
+      {
+        "name": "republican",
+        "sentiment": "none"
+      },
+      {
+        "name": "judiciary committee chair jim jordan (r",
+        "sentiment": "none"
+      },
+      {
+        "name": "fbi",
+        "sentiment": "none"
+      },
+      {
+        "name": "committee",
+        "sentiment": "none"
+      },
+      {
+        "name": "treasury’s financial crimes enforcement network",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "us",
+        "sentiment": "none"
+      },
+      {
+        "name": "ohio",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:30:51.582+03:00",
+  "updated": "2024-04-27T12:18:57.326+03:00"
+}

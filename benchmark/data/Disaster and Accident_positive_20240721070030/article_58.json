@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "a691719c302e055930c6f62cc0eb8e636cc2cc81",
+    "url": "https://www.hindustantimes.com/cities/mumbai-news/prompt-action-by-cops-fire-brigade-saves-trekkers-stranded-near-adai-waterfall-101718909674394.html",
+    "site_full": "www.hindustantimes.com",
+    "site": "hindustantimes.com",
+    "site_section": "https://hindustantimes.com/cities",
+    "site_categories": ["media", "top_news"],
+    "section_title": "City News: City Latest News, Metro City News Today and Headlines | Hindustan Times",
+    "title": "Prompt action by cops, fire brigade saves trekkers stranded near Adai waterfall | Mumbai news - Hindustan Times",
+    "title_full": "Prompt action by cops, fire brigade saves trekkers stranded near Adai waterfall | Mumbai news - Hindustan Times",
+    "published": "2024-06-20T21:24:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://www.hindustantimes.com/ht-img/img/2024/06/20/1600x900/The-group-of-students-included-eight-girls-and-one_1718909630280.jpg",
+    "performance_score": 0,
+    "domain_rank": 950,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a691719c302e055930c6f62cc0eb8e636cc2cc81",
+  "url": "https://www.hindustantimes.com/cities/mumbai-news/prompt-action-by-cops-fire-brigade-saves-trekkers-stranded-near-adai-waterfall-101718909674394.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@httweets",
+  "published": "2024-06-20T21:24:00.000+03:00",
+  "title": "Prompt action by cops, fire brigade saves trekkers stranded near Adai waterfall | Mumbai news - Hindustan Times",
+  "text": "Navi Mumbai: Nine college students who trekked to Adai waterfall situated along the Panvel Matheran Road on Thursday had a narrow escape after they got stranded on the hilltop amidst heavy showers. The students found it difficult to descend as the trail became slippery and were rescued in time by personnel from Panvel police and the City and Industrial Development Corporation’s (CIDCO) fire department, thanks to a distress call. The group of students included eight girls and one boy, all aged between 18 years and 20 years. Six of them were residents of Panvel while three others were from Bhayander. All nine of them assembled at Adai village on Thursday morning and began the trek to the waterfall – a popular tourist destination, especially during monsoons – at around 8am. “The students managed to climb the hill easily. But when they tried to descend around 9.30am, they found it very difficult due to heavy showers,” said senior inspector Chandrakant Landge from Khandeshwar police station. Terrified, the students placed a distress call to 112, the emergency helpline number, following which the police sought help from CIDCO’s fire department. Soon, six firemen were dispatched to the spot for a rescue operation. “We received the call from the police at around 9.42am and immediately assigned a rescue team. The team climbed the hill, ascertained that the students were all safe and sound, and brought them down one by one,” said Vijay Rane, chief fire officer, CIDCO. “The entire area had become slippery due to the rains and the students were finding it difficult to descend. We guided them about the proper way of descending, asked them to remove their footwear and assisted them in climbing down the hill,” said a fire officer who was part of the rescue team. The operation was concluded at 11 .46am. Police officials reiterated that trekking and playing around waterfalls were strictly restricted during the monsoon. “There are several notice boards asking the public to not endanger their lives by trekking to these spots during the monsoon, which need to be taken seriously. It was sheer good fortune that none of the children were hurt and all were safely rescued,” said Landge.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Disaster and Accident"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "navi mumbai",
+        "sentiment": "none"
+      },
+      {
+        "name": "bhayander",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "hindustan times",
+        "sentiment": "negative"
+      },
+      {
+        "name": "cidco",
+        "sentiment": "none"
+      },
+      {
+        "name": "industrial development corporation",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "adai",
+        "sentiment": "none"
+      },
+      {
+        "name": "mumbai",
+        "sentiment": "none"
+      },
+      {
+        "name": "panvel matheran road",
+        "sentiment": "none"
+      },
+      {
+        "name": "panvel",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-21T04:22:07.607+03:00",
+  "updated": "2024-06-21T05:15:39.042+03:00"
+}

@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "5df66874e0aa0138430b7946c5d9f6e6c121303b",
+    "url": "https://www.newsbreak.com/news/4240554711477-hidden-in-plain-sight-anti-drug-education-in-meridian",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://newsbreak.com/boise-id-crime-safety",
+    "site_categories": ["under_construction"],
+    "section_title": "Boise, ID Local News and More | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "'Hidden in Plain Sight': anti-drug education in Meridian - NewsBreak",
+    "title_full": "'Hidden in Plain Sight': anti-drug education in Meridian - NewsBreak",
+    "published": "2025-09-18T01:24:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/1s4ql3_14psyYXg00",
+    "performance_score": 0,
+    "domain_rank": 2819,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5df66874e0aa0138430b7946c5d9f6e6c121303b",
+  "url": "https://www.newsbreak.com/news/4240554711477-hidden-in-plain-sight-anti-drug-education-in-meridian",
+  "ord_in_thread": 0,
+  "author": "Joel Hroma",
+  "published": "2025-09-18T01:24:00.000+03:00",
+  "title": "'Hidden in Plain Sight': anti-drug education in Meridian - NewsBreak",
+  "text": "By Joel Hroma ,\n6 hours ago MERIDIAN, ID — The Meridian Anti Drug Coalition (MADC) is showcasing their new \"Hidden in Plain Sight\" trailer. It's a mock up of a bedroom to help show parents and guardians some of the ways drugs can be hidden or disguised. This is the first year the trailer is... Read full article\nRead in NewsBreak 1",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Health", "Social Issue", "Education"],
+  "topics": [
+    "Health->drug rehabilitation",
+    "Health->health organisation",
+    "Health->health care approach",
+    "Social Issue->communities",
+    "Social Issue->social services",
+    "Social Issue->addiction",
+    "Education->educational grading",
+    "Education->teachers",
+    "Education->students"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Joel Hroma",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Meridian Anti Drug Coalition",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["fake_news"],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:18:30.508+03:00",
+  "updated": "2025-09-18T08:25:33.000+03:00"
+}

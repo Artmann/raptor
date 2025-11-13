@@ -1,0 +1,128 @@
+{
+  "thread": {
+    "uuid": "e4b508f2b95e88292982d6a82757015b313a262b",
+    "url": "https://www.dnronline.com/news/harrisonburg/crash-in-rockingham-monday-results-in-fatality/article_aebefdc5-e9b2-528a-bca7-2eb72107a07f.html",
+    "site_full": "www.dnronline.com",
+    "site": "dnronline.com",
+    "site_section": "https://www.dnronline.com/#main",
+    "site_categories": ["media"],
+    "section_title": "dnronline.com",
+    "title": "Crash In Rockingham Monday Results In Fatality | Harrisonburg | dnronline.com",
+    "title_full": "Crash In Rockingham Monday Results In Fatality | Harrisonburg | dnronline.com",
+    "published": "2023-12-28T23:08:00.000+02:00",
+    "replies_count": 1,
+    "participants_count": 2,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/dnronline.com/content/tncms/assets/v3/editorial/1/ca/1ca53462-5f22-535f-918f-58be49250976/6437094ee1af3.image.jpg?crop=1764%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 81065,
+    "domain_rank_updated": "2023-12-26T12:06:35.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e4b508f2b95e88292982d6a82757015b313a262b",
+  "url": "https://www.dnronline.com/news/harrisonburg/crash-in-rockingham-monday-results-in-fatality/article_aebefdc5-e9b2-528a-bca7-2eb72107a07f.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "LISA LANDRAM Daily News-Record",
+  "published": "2023-12-28T23:08:00.000+02:00",
+  "title": "Crash In Rockingham Monday Results In Fatality | Harrisonburg | dnronline.com",
+  "text": "On Monday at 12:12 p.m. in Rockingham County a fatal crash occurred.\nThe incident occurred on Route 11, N. Valley Pike, north of Route 720, Smithland Road and the Virginia State Police are investigating the two-vehicle fatal crash, according to a news release by the Virginia State Police.\n“A 2015 Subaru Legacy was traveling north on Route 11 when it crossed the centerline and collided head-on with a southbound 2004 GMC Envoy,” stated the news release.\nThe impact of the collision resulted in both vehicles running off the road.\nAccording to the VSP, the driver of the Subaru was not wearing their seatbelt and was therefore ejected from the vehicle during the crash. The driver of the Subaru is Garcia F. Hernandez, 22, of Rockingham.\nHernandez was transported to Sentara RMH Medical Center with life-threatening injuries, where he later succumbed to his injuries, according to VSP.\nThe driver of the GMC, Jorge A. Castaneda-Rosales, 24, of Timberville, was wearing his seatbelt and transferred to Sentara RMH Medical Center with minor injuries.\nThere was an adult female passenger in the GMC, who also wearing a seatbelt and transferred to Sentara RMH Medical Center for treatment for minor injuries.\nThe crash remains under investigation, according to VSP.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "jorge a. castaneda-rosales",
+        "sentiment": "none"
+      },
+      {
+        "name": "n. valley pike",
+        "sentiment": "none"
+      },
+      {
+        "name": "hernandez",
+        "sentiment": "none"
+      },
+      {
+        "name": "garcia f. hernandez",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "vsp",
+        "sentiment": "none"
+      },
+      {
+        "name": "subaru",
+        "sentiment": "none"
+      },
+      {
+        "name": "gmc",
+        "sentiment": "none"
+      },
+      {
+        "name": "sentara rmh medical center",
+        "sentiment": "none"
+      },
+      {
+        "name": "virginia state police",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "harrisonburg",
+        "sentiment": "none"
+      },
+      {
+        "name": "rockingham",
+        "sentiment": "none"
+      },
+      {
+        "name": "rockingham county",
+        "sentiment": "none"
+      },
+      {
+        "name": "smithland road",
+        "sentiment": "none"
+      },
+      {
+        "name": "timberville",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:11:21.804+02:00",
+  "updated": "2023-12-29T00:11:21.804+02:00"
+}

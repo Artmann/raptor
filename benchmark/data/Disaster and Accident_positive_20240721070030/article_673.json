@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "a707acd24988b470d463801ce8002857d2ab6e5e",
+    "url": "https://kvia.com/news/new-mexico/2024/06/22/ruidoso-residents-finds-hotel-availability-in-el-paso",
+    "site_full": "kvia.com",
+    "site": "kvia.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": ["media"],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "Operation H.O.P.E helps Ruidoso residents find a hotel in El Paso - KVIA",
+    "title_full": "Operation H.O.P.E helps Ruidoso residents find a hotel in El Paso - KVIA",
+    "published": "2024-06-23T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://kvia.b-cdn.net/2022/10/1024x576_NMMN.png",
+    "performance_score": 0,
+    "domain_rank": 18164,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a707acd24988b470d463801ce8002857d2ab6e5e",
+  "url": "https://kvia.com/news/new-mexico/2024/06/22/ruidoso-residents-finds-hotel-availability-in-el-paso",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-06-23T03:00:00.000+03:00",
+  "title": "Operation H.O.P.E helps Ruidoso residents find a hotel in El Paso - KVIA",
+  "text": "Operation H.O.P.E helps Ruidoso residents find a hotel in El Paso EL PASO, Texas (KVIA)-- Officials report more than 8,000 Ruidoso residents were told to evacuated following the wildfires that started last Monday. One resident went from city to city with no luck of finding a hotel that could accommodate her and her family. Eventually with the assistance of operation H.O.P.E they were able to get a hotel here in El Paso. Ruby says the day they evacuated started off normal, no clouds in the sky, by noon they began to see smoke and by 2pm the sky was black. Ruby is thankful for the assistance from operation H.O.P.E but her family is counting down the days until they can return home. \"We heard that we'll be able to be back home on Monday, but they told us to be prepared. There's going to be limited resources and basically just come with food for up to a week, water and be prepared for no electricity, no gas, no water.\" Rudy says although they are able to return Monday, they are waiting until Tuesday to avoid the traffic. If you are interested in helping families affected but the wildfires, [Community foundation of Lincoln County](https://www.cfolc.org/) provides direct assistance for families in need.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Disaster and Accident", "Social Issue"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.cfolc.org/",
+    "https://www.cfolc.org",
+    "https://cfolc.org/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "ruidoso",
+        "sentiment": "negative"
+      },
+      {
+        "name": "ruby",
+        "sentiment": "none"
+      },
+      {
+        "name": "rudy",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "el paso",
+        "sentiment": "none"
+      },
+      {
+        "name": "texas",
+        "sentiment": "none"
+      },
+      {
+        "name": "el paso el paso",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-23T08:35:21.938+03:00",
+  "updated": "2024-06-23T23:01:48.689+03:00"
+}

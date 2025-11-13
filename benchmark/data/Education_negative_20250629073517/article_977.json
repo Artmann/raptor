@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "c1f95dccab689a2ad9154958ba8fc186685cd079",
+    "url": "https://en.ara.cat/society/education-eliminates-the-stable-group-of-substitutes-one-year-after-its-creation_1_5423991.html",
+    "site_full": "en.ara.cat",
+    "site": "ara.cat",
+    "site_section": "https://en.ara.cat",
+    "site_categories": ["top_news_es", "top_news"],
+    "section_title": "Diari ARA | News from the leading Catalan newspaper",
+    "site_title": "Diari ARA | Notícies i actualitat al diari líder en català",
+    "title": "Education eliminates the stable group of substitutes one year after its creation",
+    "title_full": "Education eliminates the stable group of substitutes one year after its creation",
+    "published": "2025-06-26T16:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://static1.ara.cat/clip/ed30b692-25b1-4cdf-aa53-9b288799e98e_facebook-aspect-ratio_default_0.jpg",
+    "performance_score": 0,
+    "domain_rank": 14069,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c1f95dccab689a2ad9154958ba8fc186685cd079",
+  "url": "https://en.ara.cat/society/education-eliminates-the-stable-group-of-substitutes-one-year-after-its-creation_1_5423991.html",
+  "ord_in_thread": 0,
+  "author": "Diana Silva",
+  "published": "2025-06-26T16:00:00.000+03:00",
+  "title": "Education eliminates the stable group of substitutes one year after its creation",
+  "text": "Education eliminates the stable group of substitutes one year after its creation\nThe measure allowed 2,000 teachers to have a full-year contract, providing substitutions throughout the country.\nBarcelonaA significant change in the management of teacher grants in Catalonia. As ARA has learned and the Department of Education has confirmed, the Catalan government announced this Thursday its intention to introduce the new teaching grants for the next academic year. the stable group of substitutions does not work, only one year after its creationThe measure was announced exactly a year ago, still under the previous government led by Pere Aragonès, and sought to address the problems the Catalan education system is having in covering teacher substitutions in schools and high schools.\nBut now, Salvador Illa's government has explained that it intends to suspend this government agreement and, therefore, that this formula will not be applied next year. For the moment, sources from the Department of Education have only confirmed the change and justified it by saying \"the reason is the optimization of public resources.\"\nThus, next year, the double substitution network that this year had materialized in two different teacher pools will a priori cease to exist: the traditional one that existed until now and this new \"stable group of substitutions.\" The substitute network consisted of 2,145 teachers (778 in secondary and vocational training and 1,362 in preschool and primary education), who held appointments—and therefore permanent contracts—from September 1 to August 31 and were dedicated to covering any replacements that arose. At the time, the previous government stated that this measure would facilitate the provision of short-term replacements.\n[We are working to expand this information]",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education", "Politics", "Social Issue"],
+  "topics": [
+    "Education->educational grading",
+    "Education->teachers",
+    "Politics->education policy",
+    "Social Issue->social services",
+    "Social Issue->children"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Pere Aragonès",
+        "sentiment": "none"
+      },
+      {
+        "name": "Salvador Illa",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Catalonia",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Department of Education",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_es", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T16:21:30.605+03:00",
+  "updated": "2025-06-26T13:33:34.000+00:00"
+}

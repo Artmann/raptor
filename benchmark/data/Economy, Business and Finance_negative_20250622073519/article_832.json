@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "213b872af7fd3e22ee5ada77100bfc037dd625ca",
+    "url": "https://finance.sina.com.cn/stock/bxjj/2025-06-19/doc-infaqrft3928451.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "http://finance.sina.com.cn/money/",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "个人理财_个人理财规划_理财产品排行_新浪财经_新浪网",
+    "site_title": null,
+    "title": "恒科指跌2%|恒生科技_新浪财经_新浪网",
+    "title_full": "恒科指跌2%|恒生科技_新浪财经_新浪网",
+    "published": "2025-06-19T06:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "213b872af7fd3e22ee5ada77100bfc037dd625ca",
+  "url": "https://finance.sina.com.cn/stock/bxjj/2025-06-19/doc-infaqrft3928451.shtml",
+  "ord_in_thread": 0,
+  "author": "格隆汇APP",
+  "published": "2025-06-19T06:32:00.000+03:00",
+  "title": "恒科指跌2%|恒生科技_新浪财经_新浪网",
+  "text": "格隆汇6月19日｜港股低开低走，恒生科技指数跌2.01%，恒指跌1.8%，同程旅行跌超9%领跌恒生科技指数成分股。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Economy, Business and Finance", "Social Issue", "Politics"],
+  "topics": [
+    "Economy, Business and Finance->financial service",
+    "Social Issue->social condition",
+    "Social Issue->demographics",
+    "Social Issue->population and census",
+    "Politics->economic policy",
+    "Politics->government budget",
+    "Politics->political development"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_hk", "top_news_sg", "top_news_tw", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-19T07:41:06.375+03:00",
+  "updated": "2025-06-19T04:45:14.000+00:00"
+}

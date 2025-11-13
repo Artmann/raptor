@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "c75db5f57ba76aa7054c5d09181b84e11b3154ef",
+    "url": "https://www.elmundo.es/deportes/baloncesto/euroliga/2025/01/23/6792ab0ce9cf4a416b8b45b2.html",
+    "site_full": "www.elmundo.es",
+    "site": "elmundo.es",
+    "site_section": "https://www.elmundo.es/ultimas-noticias.html",
+    "site_categories": [
+      "media",
+      "top_news_ar",
+      "top_news_ve",
+      "top_news_pe",
+      "top_news_sa",
+      "top_news_co",
+      "top_news_es",
+      "top_news_be",
+      "top_news_mx",
+      "top_news_cl",
+      "top_news_pt",
+      "top_news"
+    ],
+    "section_title": "Últimas noticias de hoy - Noticias de última hora | EL MUNDO",
+    "title": "Una genialidad de Hezonja decide el alocado pulso con el Baskonia",
+    "title_full": "Una genialidad de Hezonja decide el alocado pulso con el Baskonia",
+    "published": "2025-01-23T22:11:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://phantom-elmundo.unidadeditorial.es/fd5628061210284caf6bd41dbdd00a17/resize/1200/f/webp/assets/multimedia/imagenes/2025/01/23/17376698649711.jpg",
+    "performance_score": 0,
+    "domain_rank": 1132,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c75db5f57ba76aa7054c5d09181b84e11b3154ef",
+  "url": "https://www.elmundo.es/deportes/baloncesto/euroliga/2025/01/23/6792ab0ce9cf4a416b8b45b2.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "El Mundo",
+  "published": "2025-01-23T22:11:00.000+02:00",
+  "title": "Una genialidad de Hezonja decide el alocado pulso con el Baskonia",
+  "text": "El croata, con un triple sobre la bocina, decanta el triunfo del Real Madrid ante un rival liderado por Rogkavopoulos (90-89). Leer",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Sport", "Human Interest", "Lifestyle and Leisure"],
+  "topics": [
+    "Sport->basketball",
+    "Human Interest->celebrity",
+    "Lifestyle and Leisure->game",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Kamar Baldwin",
+        "sentiment": "none"
+      },
+      {
+        "name": "Edy Tavares",
+        "sentiment": "none"
+      },
+      {
+        "name": "Pablo Laso",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Panathinaikos",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:22:42.564+02:00",
+  "updated": "2025-01-24T07:48:12.512+02:00"
+}

@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "0663752e8c04d525a91e8084b1b1106862df5a53",
+    "url": "https://www.kens5.com/article/news/local/flu-covid-19-infections-on-the-rise-what-you-need-to-know/273-ec2101ef-00d0-488c-ba62-105dff074bc9",
+    "site_full": "www.kens5.com",
+    "site": "kens5.com",
+    "site_section": "https://www.KENS5.com/feeds/syndication/rss/news/local",
+    "site_categories": ["media"],
+    "section_title": "KENS RSS Feed: local",
+    "title": "Flu and COVID-19 infections on the rise, what you need to know",
+    "title_full": "Flu and COVID-19 infections on the rise, what you need to know | kens5.com",
+    "published": "2023-12-28T23:43:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.kens5.com/assets/KENS/images/d01ed4e9-6ad8-4e72-acf3-063b7a192721/d01ed4e9-6ad8-4e72-acf3-063b7a192721_1140x641.jpg",
+    "performance_score": 0,
+    "domain_rank": 12630,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0663752e8c04d525a91e8084b1b1106862df5a53",
+  "url": "https://www.kens5.com/article/news/local/flu-covid-19-infections-on-the-rise-what-you-need-to-know/273-ec2101ef-00d0-488c-ba62-105dff074bc9",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Mike Jimenez",
+  "published": "2023-12-28T23:43:00.000+02:00",
+  "title": "Flu and COVID-19 infections on the rise, what you need to know",
+  "text": "SAN ANTONIO — The [Centers for Disease Control and Prevention](https://www.cdc.gov/index.htm) says infection rates of flu and COVID-19 are on the rise. Here in San Antonio, University Health says they are also seeing an increase. According to statistics shared to KENS 5 by University Health both flu and covid-19 infection rates, have been on the rise since the end of November. The New Year holiday could impact those numbers and lead to an even bigger increase in cases, especially with large gatherings. \"We've seen a significant increase, particularly influenza both flu A, and flu B.\" Dr. Bryan Alsip, Chief Medical Officer at University Health said. University Health is also seeing an increase in outpatient samples for COVID-19. According to the CDC, the new COVID-19 variants JN-1, is making up 44% of new COVID-19 cases. One silver lining when it comes to respiratory illnesses is RSV cases are down nationally and locally. Alsip said that could be a reflection of the RSV vaccine. \"We still have one for influenza. It's not too late to get your flu shot,\" Alsip added. Dr. Alsip also reminds people to get a COVID-19 vaccine. He said having good hygiene will help when it comes to viruses transmitted person to person. Alsip urges people to consider wearing a mask, especially if you're going to be in large groups where you can't control the environment. \"Maybe if your immunocompromised, or have you know serious underlying medical conditions, even think more carefully about whether you want to put yourself at risk in those settings,\" Alsip said. TRENDING: > MORE ON KENS",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Health", "Science and Technology"],
+  "external_links": [
+    "https://www.cdc.gov/index.htm)",
+    "https://cdc.gov/index.htm)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "bryan alsip",
+        "sentiment": "none"
+      },
+      {
+        "name": "alsip",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "centers for disease control and prevention",
+        "sentiment": "negative"
+      },
+      {
+        "name": "cdc",
+        "sentiment": "none"
+      },
+      {
+        "name": "university health",
+        "sentiment": "none"
+      },
+      {
+        "name": "kens",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "san antonio",
+        "sentiment": "none"
+      },
+      {
+        "name": "alsip",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:17:29.122+02:00",
+  "updated": "2023-12-29T01:17:29.122+02:00"
+}

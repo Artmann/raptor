@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "6bff48fe1796ba2aff077061a52b31274c5bfafe",
+    "url": "https://www.ouraynews.com/2025/10/15/good-for-you-20251016-1049-402273/",
+    "site_full": "www.ouraynews.com",
+    "site": "ouraynews.com",
+    "site_section": "https://ouraynews.com",
+    "site_categories": ["media"],
+    "section_title": "Archive",
+    "site_title": "Archive",
+    "title": "Single",
+    "title_full": "Single",
+    "published": "2025-10-16T04:01:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.ouraynews.com/ouraycountyplaindealer/news/tecnavia-social-meta-image?post_slug=good-for-you-20251016-1049-402273",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6bff48fe1796ba2aff077061a52b31274c5bfafe",
+  "url": "https://www.ouraynews.com/2025/10/15/good-for-you-20251016-1049-402273/",
+  "ord_in_thread": 0,
+  "author": "Mike Wiggins mike com",
+  "published": "2025-10-16T04:01:00.000+03:00",
+  "title": "Single",
+  "text": "News\nOctober 15, 2025\nGood for you!\nThe Town of Ridgway and Mayor John Clark were both recognized at the Mountain Towns 2030 Climate Solutions Summit last week in Breckenridge, with awards for leadership and innovation. The organization represents a group of mountain, rural and ski town communities working to reduce climate change.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->sustainability", "Environment->climate change"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Ouray", "Ridgway"],
+      "state": ["Colorado"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T16:27:32.419+03:00",
+  "updated": "2025-10-16T16:43:26.000+03:00"
+}

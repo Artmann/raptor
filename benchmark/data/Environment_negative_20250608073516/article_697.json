@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "e9fc582c54e909faf2f6591f66eb0ea73d464c90",
+    "url": "https://www.ettoday.net/news/20250508/2956676.htm",
+    "site_full": "www.ettoday.net",
+    "site": "ettoday.net",
+    "site_section": "https://www.ettoday.net/news/20250112/2891031.htm",
+    "site_categories": ["media", "top_news_hk", "top_news_tw", "top_news"],
+    "section_title": "明晨更冷「全台急凍剩6度」　周二高山可望追雪 | ETtoday生活新聞 | ETtoday新聞雲",
+    "site_title": "ETtoday新聞雲 | Today is my day",
+    "title": "三峽山區豪雨土石崩落道路　北111縣道2.5K至3K中斷",
+    "title_full": "三峽山區豪雨土石崩落道路　北111縣道2.5K至3K中斷",
+    "published": "2025-05-08T04:44:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://cdn2.ettoday.net/images/8206/e8206585.jpg",
+    "performance_score": 0,
+    "domain_rank": 8647,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e9fc582c54e909faf2f6591f66eb0ea73d464c90",
+  "url": "https://www.ettoday.net/news/20250508/2956676.htm",
+  "ord_in_thread": 0,
+  "author": "ETtoday新聞雲",
+  "published": "2025-05-08T04:44:00.000+03:00",
+  "title": "三峽山區豪雨土石崩落道路　北111縣道2.5K至3K中斷",
+  "text": "記者陸運陞／新北報導\n新北市三峽區受到大雨影響，鄰近山區的道路北111縣道2.5K至3K處，今天（8日）清晨發生土石鬆動崩塌，雙向道路交通受阻無法通行；派出所警員休假返所時發現，立即通報警局勤務中心，轉報區公所及養工處派員搶修，並進一步釐清是否有人車受困崩塌土石之中。\n▲今天清晨新北三峽山區道路，受大雨影響發生土石崩塌現象，目前雙向交通中斷。（圖／記者陸運陞翻攝）\n據了解，今天清晨三峽警分局插腳派出所警員，休假結束返回派出所值勤時，行經北111線道添福58之3號旁發現有大量土石坍方，落石及土方傾斜而下，土石堆滿整個車道，護欄也遭砸毀，雙向交通完全中斷。由於該道路為添福里居民通往插角及三峽主要道路，警員隨即請分局勤指中心協助處理。\n▲警方於現場交通管制，並提醒民眾提前改道。（圖／記者陸運陞翻攝）\n目前已通報區公所及養工處中和工務段派員搶修，但為確保用路人安全，警方派遣同仁於將現場封閉管制，並提醒往插角上山的民眾改道，而另一頭也派員引道下山民眾改走114縣道。同時呼籲預計經過該路段的民眾，提前準備更換路線改道。\n▲區公所及養工處已派員前往搶修。（圖／記者陸運陞翻攝）",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Environment", "Social Issue"],
+  "topics": [
+    "Disaster and Accident->emergency response",
+    "Disaster and Accident->natural disaster",
+    "Environment->environmental pollution",
+    "Environment->natural resources",
+    "Environment->water",
+    "Social Issue->social condition",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:48:53.567+03:00",
+  "updated": "2025-05-08T02:56:03.000+00:00"
+}

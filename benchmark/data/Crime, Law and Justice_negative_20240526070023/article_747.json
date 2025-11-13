@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "9db861eefa1438c491481be0f747778eb3340116",
+    "url": "https://www.justice.gov/opa/pr/minnesota-businessman-sentenced-tax-evasion",
+    "site_full": "www.justice.gov",
+    "site": "justice.gov",
+    "site_section": "https://www.justice.gov/news",
+    "site_categories": ["media"],
+    "section_title": "All News | United States Department of Justice",
+    "title": "Office of Public Affairs | Minnesota Businessman Sentenced for Tax Evasion | United States Department of Justice",
+    "title_full": "Office of Public Affairs | Minnesota Businessman Sentenced for Tax Evasion | United States Department of Justice",
+    "published": "2024-04-25T23:40:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg",
+    "performance_score": 0,
+    "domain_rank": 566,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9db861eefa1438c491481be0f747778eb3340116",
+  "url": "https://www.justice.gov/opa/pr/minnesota-businessman-sentenced-tax-evasion",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "justice.gov",
+  "published": "2024-04-25T23:40:00.000+03:00",
+  "title": "Office of Public Affairs | Minnesota Businessman Sentenced for Tax Evasion | United States Department of Justice",
+  "text": "Press Release Minnesota Businessman Sentenced for Tax Evasion Thursday, April 25, For Immediate Release Office of Public Affairs A Minnesota businessman was sentenced today to 21 months in prison for evading the payment of federal individual income taxes he owed for the years 2007 through 2019.\nAccording to court documents and statements made in court, Robert Wayne Schlosser owned and operated Custom Christmas Lighting, a business that installs Christmas lighting, special event lighting and decoration displays for its customers. In 2018, Schlosser filed for bankruptcy and listed the IRS as a creditor. At that time, Schlosser had unpaid debts due to the IRS going back to 2007.\nAs part of his bankruptcy, Schlosser was required to sign and file, under penalty of perjury, a bankruptcy petition and schedules providing information regarding his assets, income and other financial affairs. But the schedules he filed contained materially false statements and omissions regarding his assets and income. Schlosser also testified during bankruptcy proceedings and made materially false statements, specifically about his ownership of two speedboats. Schlosser evaded payment of his federal income taxes by filing false bankruptcy schedules and making false statements during bankruptcy proceedings that concealed assets from the IRS.\nSchlosser’s conduct resulted in a total tax loss to the IRS of $429,848.\nIn addition to the prison sentence, U.S. District Judge Katherine M. Menendez for the District of Minnesota ordered Schlosser to serve three years of supervised release and pay a fine of $25,000 and $279,897.09 in restitution to the United States.\nActing Deputy Assistant Attorney General Stuart M. Goldberg of the Justice Department’s Tax Division and U.S. Attorney Andrew M. Luger for the District of Minnesota made the announcement.\nIRS Criminal Investigation investigated the case. United States Trustee Trial Attorney Colin Kreuziger assisted with the investigation.\nTrial Attorney Thomas Flynn of the Justice Department’s Tax Division prosecuted the case.\nUpdated April 26, 2024",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Crime, Law and Justice", "Economy, Business and Finance"],
+  "webz_reporter": false,
+  "external_links": [
+    "http://twitter.com/intent/tweet?url=https://www.justice.gov/opa/pr/minnesota-businessman-sentenced-tax-evasion&text=Minnesota",
+    "http://www.linkedin.com/shareArticle?mini=true&url=https://www.justice.gov/opa/pr/minnesota-businessman-sentenced-tax-evasion&title=Minnesota",
+    "http://www.facebook.com/sharer/sharer.php?u=https://www.justice.gov/opa/pr/minnesota-businessman-sentenced-tax-evasion",
+    "http://www.facebook.com/sharer/sharer.php",
+    "http://www.linkedin.com/shareArticle",
+    "http://twitter.com/intent/tweet",
+    "http://twitter.com/intent/tweet?url=https://justice.gov/opa/pr/minnesota-businessman-sentenced-tax-evasion&text=Minnesota",
+    "http://linkedin.com/shareArticle?mini=true&url=https://justice.gov/opa/pr/minnesota-businessman-sentenced-tax-evasion&title=Minnesota",
+    "http://facebook.com/sharer/sharer.php?u=https://justice.gov/opa/pr/minnesota-businessman-sentenced-tax-evasion"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "robert wayne schlosser",
+        "sentiment": "none"
+      },
+      {
+        "name": "schlosser",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "irs",
+        "sentiment": "none"
+      },
+      {
+        "name": "linkedin email for immediate release office of public affairs",
+        "sentiment": "none"
+      },
+      {
+        "name": "custom christmas lighting",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "minnesota",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:33:18.091+03:00",
+  "updated": "2024-05-10T18:48:23.216+03:00"
+}

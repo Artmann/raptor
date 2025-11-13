@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "e18462eb397b1e2a2684c9cb732f5816b7b99deb",
+    "url": "https://www.sasktoday.ca/national-news/another-death-reported-since-2021-recall-of-home-bed-assist-handles-health-canada-8036528",
+    "site_full": "www.sasktoday.ca",
+    "site": "sasktoday.ca",
+    "site_section": "https://www.sasktoday.ca/national-news",
+    "site_categories": [],
+    "section_title": "Canada Breaking News  - SaskToday.ca",
+    "title": "Another death reported since 2021 recall of home bed assist handles: Health Canada - SaskToday.ca",
+    "title_full": "Another death reported since 2021 recall of home bed assist handles: Health Canada - SaskToday.ca",
+    "published": "2023-12-29T00:11:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2023/12/2023122817124-8823f2231702f56e3d6b30abc9b28fa003cd635cffc547782880fe4f5f696b2b.jpg;w=650;h=434;mode=crop",
+    "performance_score": 0,
+    "domain_rank": 82000,
+    "domain_rank_updated": "2023-12-26T12:06:35.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e18462eb397b1e2a2684c9cb732f5816b7b99deb",
+  "url": "https://www.sasktoday.ca/national-news/another-death-reported-since-2021-recall-of-home-bed-assist-handles-health-canada-8036528",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Canadian Press",
+  "published": "2023-12-29T00:11:00.000+02:00",
+  "title": "Another death reported since 2021 recall of home bed assist handles: Health Canada - SaskToday.ca",
+  "text": "OTTAWA — Health Canada is reminding Canadians about a recall of home bed assist handles after learning of an additional death. Four models of bed handles distributed by Drive Medical were first recalled two years ago after two reported deaths — one in Canada and one in the U.S. Health Canada says as of Dec. 19, the company has received a report of a second death in this country. The metal handles are affixed alongside the mattress to help people get in and out of their regular bed at home. The products are not designed for hospital beds. Health Canada says more than 68,000 of the affected handles were sold between 2016 and 2021 in Canada. It says consumers should stop using them and contact Drive Medical Canada to get a refund. The recalled home bed assist model numbers are 15064, 15062, RTL15073 and RTL15063-ADJ. No information has been provided about what caused any of the deaths, but the recall notice says that retention straps were not properly secured in the initial cases in Canada and the U.S. Drive Medical has also learned of an additional three deaths in the U.S. that happened before Dec. 6, 2021, when the recall was first issued. More than 496,000 of the bed assist products were distributed in the U.S. between 2007 and 2021. The products were sold on Amazon. This report by The Canadian Press was first published Dec. 28, 2023. Canadian Press health coverage receives support through a partnership with the Canadian Medical Association. CP is solely responsible for this content. The Canadian Press",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Human Interest", "Health", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "health canada - sasktoday.ca ottawa — health canada",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "health canada",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s. drive medical",
+        "sentiment": "none"
+      },
+      {
+        "name": "drive medical canada",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s. health canada",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "canada",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:25:09.904+02:00",
+  "updated": "2023-12-29T00:25:09.904+02:00"
+}

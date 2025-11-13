@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "c40c9e9ed0e283e86d655b17053dc61c90f38f34",
+    "url": "https://www.encancha.cl/enlahora/nacional/2025/05/07/aguas-andinas-confirma-que-habra-cortes-de-agua-en-tres-comunas-de-la-rm-para-este-jueves-8-de-mayo",
+    "site_full": "www.encancha.cl",
+    "site": "encancha.cl",
+    "site_section": "https://www.encancha.cl/futbol-chileno/palestino",
+    "site_categories": ["world_soccer", "sports"],
+    "section_title": "Palestino - En Cancha",
+    "site_title": "En Cancha - Encuentra todas las noticias deportivas a nivel nacional e internacional aquí! | En Cancha",
+    "title": "Aguas Andinas confirma que habrá cortes de agua en tres comunas de la RM para este jueves 8 de mayo",
+    "title_full": "Aguas Andinas confirma que habrá cortes de agua en tres comunas de la RM para este jueves 8 de mayo",
+    "published": "2025-05-08T01:37:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CL",
+    "main_image": "https://www.encancha.cl/resizer/v2/HCQQATJX2FGLHKNPFZ2X45SR24.png?focal=595%2C355&amp;auth=406c31628029daf50fb05444ef9aed8cb62104a0ec9d23a8e193fa89a2e9929d&amp;width=1200&amp;height=630",
+    "performance_score": 0,
+    "domain_rank": 172963,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c40c9e9ed0e283e86d655b17053dc61c90f38f34",
+  "url": "https://www.encancha.cl/enlahora/nacional/2025/05/07/aguas-andinas-confirma-que-habra-cortes-de-agua-en-tres-comunas-de-la-rm-para-este-jueves-8-de-mayo",
+  "ord_in_thread": 0,
+  "author": "Magdalena Diethelm",
+  "published": "2025-05-08T01:37:00.000+03:00",
+  "title": "Aguas Andinas confirma que habrá cortes de agua en tres comunas de la RM para este jueves 8 de mayo",
+  "text": "Para la jornada de este jueves 8 de mayo, desde Aguas Andinas confirmaron que se realizarán cortes de agua en sectores acotados de tres comunas de la Región Metropolitana, los cuales se extenderán por hasta siete horas dependiendo del lugar.\nEl organismo informó con anticipación a todos los vecinos de los sectores que se verán afectados para que pudieran prepararse y el tiempo que estén sin servicio no les afecte negativamente. Además, cuentan con el respaldo necesario par sobrellevarlo.\nAguas Andinas confirma cortes para tres comunas de la RM\nDe acuerdo a lo indicado en su plataforma, los cortes se harán en las comunas de Quinta Normal, San Bernardo y Talagante.\nEl detalle respecto a las calles en específico de la comuna que se verán afectadas por la interrupción lo puedes revisar a continuación:\nQuinta Normal\n- Desde: 8 de mayo a las 15:00 horas\n- Hasta: 8 de mayo a las 22:00 horas\nSan Bernardo\n- Desde: 8 de mayo a las 15:30 horas\n- Hasta: 8 de mayo a las 21:30 horas\nTalagante\n- Desde: 8 de mayo a las 15:30 horas\n- Hasta: 8 de mayo a las 21:30 horas",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->water",
+    "Environment->environmental clean-up",
+    "Environment->water pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Región Metropolitana",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:49:51.050+03:00",
+  "updated": "2025-05-07T23:52:36.000+00:00"
+}

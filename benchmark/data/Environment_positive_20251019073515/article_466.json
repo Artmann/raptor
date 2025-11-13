@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "2c8b43c96c1bdd7ef56da2d242e7ffc6fa6e12af",
+    "url": "https://www.ansa.it/china/notizie/cina/2025/10/16/2030-_3a30297a-f71d-4bc5-baff-1c8c7bcabf95.html",
+    "site_full": "www.ansa.it",
+    "site": "ansa.it",
+    "site_section": "https://www.ansa.it/china",
+    "site_categories": [
+      "media",
+      "top_news_ch",
+      "top_news_dk",
+      "top_news_it",
+      "top_news"
+    ],
+    "section_title": "ANSA China 中国: approfondimenti e speciali",
+    "site_title": "Agenzia ANSA: ultime notizie di cronaca, politica e sport - ANSA",
+    "title": "习近平，我们将继续与粮农组织合作，共同实现《2030 年议程 - 中国 - Ansa.it",
+    "title_full": "习近平，我们将继续与粮农组织合作，共同实现《2030 年议程 - 中国 - Ansa.it",
+    "published": "2025-10-16T14:31:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://www.ansa.it/webimages/img_1129x635/2025/10/16/0d136b910780eab38fb04c7fe1afbf35.jpg",
+    "performance_score": 0,
+    "domain_rank": 3769,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2c8b43c96c1bdd7ef56da2d242e7ffc6fa6e12af",
+  "url": "https://www.ansa.it/china/notizie/cina/2025/10/16/2030-_3a30297a-f71d-4bc5-baff-1c8c7bcabf95.html",
+  "ord_in_thread": 0,
+  "author": "ansa.it",
+  "published": "2025-10-16T14:31:00.000+03:00",
+  "title": "习近平，我们将继续与粮农组织合作，共同实现《2030 年议程 - 中国 - Ansa.it",
+  "text": "\"中国将继续与粮农组织并肩作战，继续推动发展倡议，促进实现2030年议程发展目标\"。这是中国国家主席习近平在世界粮食日致粮农组织的贺信中指出的，由农业农村部部长韩俊宣读。 他补充说：\"粮农组织向我们展示了确保粮食安全和促进农村地区作为政策不可或缺的一部分是多么重要。\"他承诺北京将致力于加强全球粮食和农业治理以及全球粮食安全。 习主席说，2024 年，中国粮食产量首次突破 7 亿吨，目前粮食自给率超过 95%，小麦和稻谷自给率达到 100%。\"他强调：\"中国仅用占世界 9% 的耕地和占世界 6% 的淡水资源，养活了 14 亿多人口，把饭碗牢牢端在自己手中。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Politics", "Environment"],
+  "topics": [
+    "Politics->government policy",
+    "Politics->international relations",
+    "Environment->sustainability",
+    "Environment->energy resources"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_ch", "top_news_dk", "top_news_it", "top_news"],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:53:08.569+03:00",
+  "updated": "2025-10-16T15:03:11.000+03:00"
+}

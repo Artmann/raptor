@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "8b804ea47e2ef3cde67d1a1a57460c0ee3a02edc",
+    "url": "https://www.europapress.es/euskadi/noticia-asteklima-2025-celebra-200-actividades-17-26-octubre-impulsar-accion-climatica-energetica-euskadi-20251016142100.html",
+    "site_full": "www.europapress.es",
+    "site": "europapress.es",
+    "site_section": "https://europapress.es/euskadi",
+    "site_categories": ["media", "top_news_es", "top_news_pe", "top_news"],
+    "section_title": "\r\n\tNoticias del País Vasco hoy - EUROPA PRESS\r\n",
+    "site_title": "Europa Press -  Agencia de noticias",
+    "title": "Asteklima 2025 celebra 200 actividades del 17 al 26 de octubre para impulsar la acción climática y energética en Euskadi",
+    "title_full": "Asteklima 2025 celebra 200 actividades del 17 al 26 de octubre para impulsar la acción climática y energética en Euskadi",
+    "published": "2025-10-16T15:21:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://img.europapress.es/fotoweb/fotonoticia_20251016142100_1200.jpg",
+    "performance_score": 0,
+    "domain_rank": 4744,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8b804ea47e2ef3cde67d1a1a57460c0ee3a02edc",
+  "url": "https://www.europapress.es/euskadi/noticia-asteklima-2025-celebra-200-actividades-17-26-octubre-impulsar-accion-climatica-energetica-euskadi-20251016142100.html",
+  "ord_in_thread": 0,
+  "author": "Europa Press País Vasco",
+  "published": "2025-10-16T15:21:00.000+03:00",
+  "title": "Asteklima 2025 celebra 200 actividades del 17 al 26 de octubre para impulsar la acción climática y energética en Euskadi",
+  "text": "Con el lema \"Toda acción, por pequeña que sea, cuenta\", concienciará sobre la necesidad de acelerar la transición energética desde lo local\nBILBAO, 16 Oct. (EUROPA PRESS) -\nLa Semana del Clima y la Energía de Euskadi ofrecerá del 17 al 26 de octubre una programación abierta a la participación en todo el territorio, dirigida a movilizar a la ciudadanía frente al reto de la transición energética y climática. La cita ha organizado cerca de 200 actividades gratuitas y abiertas al público en los tres territorios históricos.\nEl objetivo de la iniciativa es acercar la acción climática a la ciudadanía y acelerar la transición energética desde lo local y está promovida por el Departamento de Industria, Transición Energética y Sostenibilidad del Gobierno Vasco, a través de sus sociedades públicas Ihobe y EVE.\nDurante diez días, ayuntamientos, centros educativos, universidades, asociaciones, empresas y ciudadanía se darán cita en una programación que incluye talleres sobre consumo de energía, charlas, conferencias, teatro, cine, concursos, escape-room, exposiciones, rutas guiadas, visitas, cuentacuentos y actividades al aire libre.\nBajo el lema \"Toda acción, por pequeña que sea, cuenta\", Asteklima 2025 invita a la ciudadanía vasca a \"asumir un papel activo frente al cambio climático\" ya que las actividades están diseñadas para \"fomentar la corresponsabilidad en ámbitos como la energía en el hogar, la movilidad sostenible, el consumo responsable, la economía circular, la biodiversidad y la salud ambiental\".",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->energy saving",
+    "Environment->sustainability",
+    "Environment->climate change"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Departamento de Industria",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Transición Energética",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Energía de Euskadi",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "EUROPA PRESS",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_es", "top_news_pe", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T15:30:44.174+03:00",
+  "updated": "2025-10-16T15:41:44.000+03:00"
+}

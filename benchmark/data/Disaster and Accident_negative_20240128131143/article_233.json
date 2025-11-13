@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "3ba739ed0065b9960006c8494e383684eb755a5b",
+    "url": "https://www.irishexaminer.com/world/arid-41298508.html",
+    "site_full": "www.irishexaminer.com",
+    "site": "irishexaminer.com",
+    "site_section": "http://feeds.examiner.ie/ieworld",
+    "site_categories": ["tech"],
+    "section_title": "IrishExaminer.com",
+    "title": "Three men die after 4×4 recovered from river in UK",
+    "title_full": "Three men die after 4×4 recovered from river in UK",
+    "published": "2023-12-28T21:28:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IE",
+    "main_image": "https://www.irishexaminer.com/cms_media/module_img/4590/2295242_5_seoimageog_2.18755944.jpg.jpg",
+    "performance_score": 0,
+    "domain_rank": 3327,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3ba739ed0065b9960006c8494e383684eb755a5b",
+  "url": "https://www.irishexaminer.com/world/arid-41298508.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Irishexaminer.com (digitaldesk@irishexaminer.com)",
+  "published": "2023-12-28T21:28:00.000+02:00",
+  "title": "Three men die after 4×4 recovered from river in UK",
+  "text": "Three men have died after a 4×4 vehicle was recovered from a river on the North York Moors in England, police said.\nEmergency services including police, ambulance and air support attended a location on the River Esk near Glaisdale shortly before midday on Thursday.\nA 4×4 was recovered from the river by the fire service just after 3pm and three men found inside have died, North Yorkshire Police said.\nAnother man who attempted to help those in the vehicle was pulled to safety from the river and has been receiving medical treatment.\nA police spokesperson advised people to travel with care after the “tragic incident”.\nIt comes after Storm Gerrit caused flooding and travel chaos across the country throughout Wednesday and Thursday.\nThe spokesperson said: “Localised conditions across our area are making driving hazardous.\n“Roads are particularly badly affected around the River Esk, to the north of the county, as we have seen with the tragic incident near Glaisdale.\n“There was another incident at nearby Houlsyke at 12.49pm when a car got stuck in flood water and another at Kirby Wiske in Hambleton at 2.35pm.\n“Thankfully, the occupants of both vehicles were brought to safety.\n“The key advice is to consider whether your journey is necessary.\n“Please avoid driving through any kind of standing or moving flood water if you possibly can.”\nWitnesses to the incident are urged to call North Yorkshire Police on 101, option 4, quoting reference NYP-28122023-0146.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Human Interest",
+    "Disaster and Accident",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "north yorkshire police",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "north york moors",
+        "sentiment": "none"
+      },
+      {
+        "name": "uk",
+        "sentiment": "none"
+      },
+      {
+        "name": "englan",
+        "sentiment": "none"
+      },
+      {
+        "name": "kirby wiske",
+        "sentiment": "none"
+      },
+      {
+        "name": "houlsyke",
+        "sentiment": "none"
+      },
+      {
+        "name": "glaisdale",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:20:54.486+02:00",
+  "updated": "2023-12-29T00:20:54.486+02:00"
+}

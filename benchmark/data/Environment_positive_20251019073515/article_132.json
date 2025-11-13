@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "434a7e234716937c45b31dc00747064829255e8b",
+    "url": "http://sh.cma.gov.cn/sh/news/tzdt/202510/t20251013_7387644.html",
+    "site_full": "sh.cma.gov.cn",
+    "site": "cma.gov.cn",
+    "site_section": "http://sh.cma.gov.cn",
+    "site_categories": [],
+    "section_title": "首页-上海市气象局",
+    "site_title": "中国气象网-中国气象局政府门户网站",
+    "title": "宝山局：多元气象监测预报手段为F1H2O摩托艇锦标赛保驾护航-基层动态-上海市气象局",
+    "title_full": "宝山局：多元气象监测预报手段为F1H2O摩托艇锦标赛保驾护航-基层动态-上海市气象局",
+    "published": "2025-10-13T13:10:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 38782,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "434a7e234716937c45b31dc00747064829255e8b",
+  "url": "http://sh.cma.gov.cn/sh/news/tzdt/202510/t20251013_7387644.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-13T13:10:00.000+03:00",
+  "title": "宝山局：多元气象监测预报手段为F1H2O摩托艇锦标赛保驾护航-基层动态-上海市气象局",
+  "text": "10月4日，2025年世界F1H2O摩托艇锦标赛中国上海宝山大奖赛圆满落幕，来自14个国家和地区的10支顶级赛队、20余位顶尖选手齐聚宝山滨江参赛。宝山区气象局依托多元气象监测预报技术，为赛事顺利举办提供精准可靠的气象保障服务。\n据悉，F1H2O摩托艇锦标赛对风速、风向、波浪、波向等气象水文要素极为敏感。宝山局提前部署，应用我国自主研发的半潜式气象探测无人艇，借助北斗卫星通信系统，通过设置规定路线巡航以及定点漂浮等方式，实现对赛场水面多区域气象水文要素的同步监测与实时回传，为赛事预报服务提供关键数据支撑，获宝山区领导高度肯定。\n赛前，宝山局气象服务团队在深入分析宝山长滩水域历史气象资料的基础上，采用递进式气象服务模式，持续滚动提供未来十天的天气预报，并在赛前24小时进一步发布赛事当天逐小时精细化天气预报。同时，气象服务团队首次引入区域风场模拟技术，对赛事水域风力、风向进行高精度模拟，精准识别地形对局地风场的具体影响。基于模拟结果，团队及时优化预报策略，显著提升赛事期间天气预报时空分辨率。\n此外，宝山局气象服务团队还在长滩、宝钢码头及赛事观赛区等重点区域布设移动气象观测车和多套便携式自动站，构建起全方位、立体化的赛场气象监测网络。为确保赛事安全举办，宝山局派出气象工作人员现场全程参与赛事运行，为今后大型活动气象服务积累宝贵经验。\n未来，宝山局将持续推动气象科技创新成果转化，进一步提升城市安全运行与重大活动气象保障服务水平，为上海气象高质量发展注入新动能。（邵郁晨）\n|\n上海市气象局官方网站 |\n主办:上海市气象局办公室 地址:上海市徐汇区蒲西路166号 版权所有：上海市气象局 电话:021-54896000 邮政编码：200030 ICP备案号：\n网站标识码：bm54090001\n|\n|",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Sport", "Environment", "Weather"],
+  "topics": [
+    "Sport->motorboat racing",
+    "Sport->sport event",
+    "Environment->nature",
+    "Weather->weather forecast"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T13:43:24.565+03:00",
+  "updated": "2025-10-16T13:58:09.000+03:00"
+}

@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "4593d5015f53d843b1e40767d2fb82a21ec324c7",
+    "url": "https://www.newsbreak.com/the-oregonian-512966/3774606171181-oregon-ranks-high-in-yet-another-valentine-s-day-category-according-to-study",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/the-oregonian-512966",
+    "site_categories": ["under_construction"],
+    "section_title": "The Oregonian&#x27;s Home Page | NewsBreak",
+    "title": "Oregon ranks high in yet another Valentine's Day category, according to study - NewsBreak",
+    "title_full": "Oregon ranks high in yet another Valentine's Day category, according to study - NewsBreak",
+    "published": "2025-01-23T23:10:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/0Xyfsb_0yNNUj0Y00",
+    "performance_score": 0,
+    "domain_rank": 3577,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4593d5015f53d843b1e40767d2fb82a21ec324c7",
+  "url": "https://www.newsbreak.com/the-oregonian-512966/3774606171181-oregon-ranks-high-in-yet-another-valentine-s-day-category-according-to-study",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Kristi Turnquist",
+  "published": "2025-01-23T23:10:00.000+02:00",
+  "title": "Oregon ranks high in yet another Valentine's Day category, according to study - NewsBreak",
+  "text": "By Kristi Turnquist ,\n1 hours ago There's a new ranking for Oregon, following others that claimed that Oregon is the least romantic state for the holiday, Portland is a top five city for the lovey-dovey day, and more. Read full article\nRead in NewsBreak",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Lifestyle and Leisure", "Social Issue", "Human Interest"],
+  "topics": [
+    "Lifestyle and Leisure->trend",
+    "Lifestyle and Leisure->holiday",
+    "Lifestyle and Leisure->lifestyle",
+    "Social Issue->dating and relationships",
+    "Human Interest->anniversary"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Kristi Turnquist",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:19:43.447+02:00",
+  "updated": "2025-01-24T00:19:43.447+02:00"
+}

@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "835fbbfae01100feded5165cde7727ef72bbd22a",
+    "url": "https://en.apa.az/cis-countries/putins-foreign-intelligence-chief-vows-to-prevent-foreign-meddling-in-presidential-election-421507",
+    "site_full": "en.apa.az",
+    "site": "apa.az",
+    "site_section": "https://en.apa.az",
+    "site_categories": ["media"],
+    "section_title": "APA.AZ- Latest news from Azerbaijan and the world",
+    "title": "Putin's foreign intelligence chief vows to prevent foreign meddling in presidential election",
+    "title_full": "Putin's foreign intelligence chief vows to prevent foreign meddling in presidential election",
+    "published": "2023-12-29T18:28:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AZ",
+    "main_image": "https://en.apa.az/storage/news/2023/december/29/resize/658ec63f5190e658ec63f5190f1703855679658ec63f5190c658ec63f5190d.jpg",
+    "performance_score": 0,
+    "domain_rank": 26828,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "835fbbfae01100feded5165cde7727ef72bbd22a",
+  "url": "https://en.apa.az/cis-countries/putins-foreign-intelligence-chief-vows-to-prevent-foreign-meddling-in-presidential-election-421507",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "APA",
+  "published": "2023-12-29T18:28:00.000+02:00",
+  "title": "Putin's foreign intelligence chief vows to prevent foreign meddling in presidential election",
+  "text": "President Vladimir Putin's foreign intelligence chief Sergey Naryshkin said in a video released on Friday that Russia's spies should make every effort to prevent any foreign meddling in the March presidential election, [APA](https://apa.az) reports citing Reuters. Putin announced this month, in comments made to soldiers, that he would run in the election. \"An important political event will take place in the New Year - the election of the President of the Russian Federation,\" Sergei Naryshkin, head of Russia's Foreign Intelligence Service (SVR), said in the video clip. \"We must make every effort to prevent possible attempts at external interference.\" Opposition politicians say the election represents \"just a fig leaf of democracy to cover up what they see as a corrupt dictatorship in Putin's Russia.\" Supporters of Putin dismiss that analysis, pointing to some independent polling that shows he enjoys approval ratings of above 80%. They say that Putin has restored order and some of the clout Russia lost during the chaos that accompanied the collapse of the Soviet Union in 1991.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Politics",
+    "War, Conflict and Unrest",
+    "Crime, Law and Justice"
+  ],
+  "external_links": ["https://apa.az)", "https://www.apa.az)"],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "sergey naryshkin",
+        "sentiment": "negative"
+      },
+      {
+        "name": "putin",
+        "sentiment": "negative"
+      },
+      {
+        "name": "vladimir putin",
+        "sentiment": "negative"
+      },
+      {
+        "name": "sergei naryshkin",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "apa",
+        "sentiment": "none"
+      },
+      {
+        "name": "foreign intelligence service",
+        "sentiment": "none"
+      },
+      {
+        "name": "reuters",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "russian federation",
+        "sentiment": "none"
+      },
+      {
+        "name": "soviet union",
+        "sentiment": "none"
+      },
+      {
+        "name": "russia",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T18:28:07.728+02:00",
+  "updated": "2023-12-29T18:28:07.728+02:00"
+}

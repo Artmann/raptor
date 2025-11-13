@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "8e552fab3e9294db8a3d52794a0fbf5edc0bb8e1",
+    "url": "https://calendar.fiu.edu/event/pit-event-branch-out-internships-and-experiential-learning",
+    "site_full": "calendar.fiu.edu",
+    "site": "fiu.edu",
+    "site_section": "https://calendar.fiu.edu",
+    "site_categories": ["travel"],
+    "section_title": "\n    \n      Events Calendar\n    \n    \n      | FIU Calendar\n    ",
+    "site_title": null,
+    "title": "PIT Event: Branch Out: Internships and Experiential Learning | FIU Calendar",
+    "title_full": "PIT Event: Branch Out: Internships and Experiential Learning | FIU Calendar",
+    "published": "2025-09-18T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.fiu.edu/_assets/images/cover.jpg",
+    "performance_score": 0,
+    "domain_rank": 8513,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8e552fab3e9294db8a3d52794a0fbf5edc0bb8e1",
+  "url": "https://calendar.fiu.edu/event/pit-event-branch-out-internships-and-experiential-learning",
+  "ord_in_thread": 0,
+  "author": "@localist",
+  "published": "2025-09-18T03:00:00.000+03:00",
+  "title": "PIT Event: Branch Out: Internships and Experiential Learning | FIU Calendar",
+  "text": "PIT Event: Branch Out: Internships and Experiential Learning\nAbout this Event\n11200 SW 8th ST, Graham University Center, Miami, Florida 33199\nhttps://fiu.joinhandshake.com/events/1749349/share_preview\nView map\n✨ Internship Week @ GC Pit!\nBranch Out: Internships and Experiential Learning\n✅ Meet Top Employers – Connect with Disney, Florida Department of Transportation, Florida Fish & Wildlife, City Year, COOP, and more!\n✅ Discover Experiential Learning – Explore Study Abroad, the Center for Leadership & Service, and other programs that help you grow beyond the classroom.\n✅ Score Giveaways & Resources – Pick up free swag, grab internship info, and learn how our office can support your career journey.\nDon’t miss this chance to explore internships + beyond all in one place!\nRSVP Via Handshake\nUser Activity\nNo recent activity",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Education", "Lifestyle and Leisure", "Human Interest"],
+  "topics": [
+    "Education->students",
+    "Education->vocational education",
+    "Education->college and university",
+    "Lifestyle and Leisure->club and association",
+    "Lifestyle and Leisure->hobby"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://fiu.joinhandshake.com/events/1749349/share_preview",
+    "https://www.fiu.joinhandshake.com/events/1749349/share_preview"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Florida Department of Transportation",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Center for Leadership & Service",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["South Miami Heights"],
+      "state": ["Florida"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:20:55.258+03:00",
+  "updated": "2025-09-18T08:27:36.000+03:00"
+}

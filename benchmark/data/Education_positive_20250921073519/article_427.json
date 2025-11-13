@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "4c67be39d038b37f5aedb82354a71fcf4ca704df",
+    "url": "https://www.varela.gob.ar/prensa/nota.aspx?not_id=151447",
+    "site_full": "www.varela.gob.ar",
+    "site": "varela.gob.ar",
+    "site_section": "https://varela.gob.ar/prensa",
+    "site_categories": [],
+    "section_title": "Florencio Varela",
+    "site_title": "Florencio Varela - Sitio oficial de la Municipalidad de Florencio Varela",
+    "title": "Florencio Varela",
+    "title_full": "Florencio Varela",
+    "published": "2025-09-16T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "https://varela.gob.ar/varelamunicipio.png",
+    "performance_score": 0,
+    "domain_rank": 717305,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4c67be39d038b37f5aedb82354a71fcf4ca704df",
+  "url": "https://www.varela.gob.ar/prensa/nota.aspx?not_id=151447",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-16T03:00:00.000+03:00",
+  "title": "Florencio Varela",
+  "text": "La responsable de la cartera educativa local, Andrea Digiobani, resaltó “el rol de estas estrategias en la transmisión de aprendizajes, a partir de la semilla sembrada por aquellos y aquellas que dejaron su huella en encuentros anteriores”.\nLa funcionaria remarcó “la necesidad de habitar los espacios públicos, avanzar a través del respeto, los valores adquiridos, en la trayectoria de cada joven”. Destacó a la institución anfitriona “con cuarenta años dedicados al nivel superior”.\nLa directora de I.S.F.D. Nº54, Silvia Bartel, detalló el lema en esta edición: “20 años de construcción y debate pedagógico”. “La propuesta fue una posibilidad para las diferentes carreras de dar a conocer la tarea de profesores, profesoras junto al alumnado”, explicó.\nCarlos Ferrera, miembro del comité organizativo de las primeras jornadas, narró: “Comenzamos en 2005 con el objetivo de combinar el festejo, la reflexión y la enseñanza”. “Desde entonces, el evento integró no solo la agenda académica, sino también nuestra identidad colectiva”, expresó.\nSelene, estudiante de Educación Primaria, celebró “la oportunidad de discutir, compartir nuestras experiencias con compañeros y compañeras e impulsar el pensamiento crítico como docentes del futuro”.\nMatías y Jeremías, del profesorado de Geografía, subrayaron “una herramienta muy útil para ingresantes para interiorizarse más sobre el camino profesional mediante charlas o talleres”.\nPlanificaron la continuidad de las actividades el miércoles 17 y el jueves 18 de septiembre.\nEstuvo presente el jefe distrital de Educación, Alfredo Schveizer; y el jefe de Región IV DIEGEP, Leonardo Gómez.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": ["Education", "Human Interest", "Social Issue"],
+  "topics": [
+    "Education->teachers",
+    "Education->students",
+    "Education->educational grading",
+    "Social Issue->communities",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Andrea Digiobani",
+        "sentiment": "none"
+      },
+      {
+        "name": "Carlos Ferrera",
+        "sentiment": "none"
+      },
+      {
+        "name": "Silvia Bartel",
+        "sentiment": "none"
+      },
+      {
+        "name": "Selene",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Educación Primaria",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:19:08.531+03:00",
+  "updated": "2025-09-18T08:33:02.000+03:00"
+}

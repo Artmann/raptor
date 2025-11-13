@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "43d993178f90fa8d35b9019648aa9919b19fb35f",
+    "url": "https://www.sundaypost.com/news/world-news/boy-four-who-disappeared-from-camp-found-safe-after-22-hours-in-wilderness",
+    "site_full": "www.sundaypost.com",
+    "site": "sundaypost.com",
+    "site_section": "https://www.sundaypost.com/category/news/world-news/",
+    "site_categories": ["tech"],
+    "section_title": null,
+    "title": "Boy, four, who disappeared from camp found safe after 22 hours in wilderness",
+    "title_full": "Boy, four, who disappeared from camp found safe after 22 hours in wilderness",
+    "published": "2024-06-23T22:45:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 25800,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "43d993178f90fa8d35b9019648aa9919b19fb35f",
+  "url": "https://www.sundaypost.com/news/world-news/boy-four-who-disappeared-from-camp-found-safe-after-22-hours-in-wilderness",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Press Association",
+  "published": "2024-06-23T22:45:00.000+03:00",
+  "title": "Boy, four, who disappeared from camp found safe after 22 hours in wilderness",
+  "text": "A four-year-old California boy who wandered away from a campground in the Sierra National Forest was found safe after spending 22 hours alone in the wilderness, authorities said.\nA search-and-rescue team of about 50 officers and volunteers set out around 11am on Thursday after the child was reported missing from the camping site surrounded by dense forest north of Fresno.\nThe boy, from Torrance near Los Angeles, was last seen wearing shorts and a T-shirt, the Fresno County Sheriff’s Office said.\nAround 8am on Friday, the boy was discovered in good condition “nestled under a tree” near a lake about a quarter mile (0.4 km) from the Rancheria Campground where his family was.\n“He was hungry and exhausted, but otherwise in good health. We got him a sandwich and then carried him out to be reunited with Mom and Dad,” the sheriff’s office said on Saturday.\nOfficials say the boy simply wandered away and lost his sense of direction.\nThe sheriff’s office thanked members of the public who volunteered to join the search, “kept their eyes peeled, spread the word on social media and sent prayers up”.\n“All of this undoubtedly helped to bring (him) home safely,” the department said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Disaster and Accident", "Social Issue"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "mom",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "fresno county sheriff’s office",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "california",
+        "sentiment": "none"
+      },
+      {
+        "name": "sierra national forest",
+        "sentiment": "none"
+      },
+      {
+        "name": "rancheria campground",
+        "sentiment": "none"
+      },
+      {
+        "name": "fresno",
+        "sentiment": "none"
+      },
+      {
+        "name": "torrance",
+        "sentiment": "none"
+      },
+      {
+        "name": "los angeles",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-24T00:15:14.453+03:00",
+  "updated": "2024-06-24T00:15:14.453+03:00"
+}

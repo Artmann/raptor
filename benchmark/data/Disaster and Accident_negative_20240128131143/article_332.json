@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "dc2511f450497cf315bb6a5a6e26eea6252153bc",
+    "url": "https://www.wsiltv.com/news/consumer/walmart-recalls-magnetic-balls-after-cpsc-warns-of-choking-and-injury-hazards/article_da45b386-b01b-55d4-be4c-27dc553cca26.html",
+    "site_full": "www.wsiltv.com",
+    "site": "wsiltv.com",
+    "site_section": "http://www.wsiltv.com/news",
+    "site_categories": [
+      "politics",
+      "media",
+      "financial_news",
+      "finance",
+      "law_government_and_politics"
+    ],
+    "section_title": "News | wsiltv.com",
+    "title": "Walmart recalls magnetic balls after CPSC warns of choking and injury hazards | Consumer Watch | wsiltv.com",
+    "title_full": "Walmart recalls magnetic balls after CPSC warns of choking and injury hazards | Consumer Watch | wsiltv.com",
+    "published": "2023-12-28T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 46209,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "dc2511f450497cf315bb6a5a6e26eea6252153bc",
+  "url": "https://www.wsiltv.com/news/consumer/walmart-recalls-magnetic-balls-after-cpsc-warns-of-choking-and-injury-hazards/article_da45b386-b01b-55d4-be4c-27dc553cca26.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Ramishah Maruf, CNN",
+  "published": "2023-12-28T02:00:00.000+02:00",
+  "title": "Walmart recalls magnetic balls after CPSC warns of choking and injury hazards | Consumer Watch | wsiltv.com",
+  "text": "New York (CNN) — Regulators have issued a recall for high-powered magnetic balls after the US Consumer Product Safety Commission issued several warnings for the toy kits, citing the risk of injury or even death.\nWalmart recalled the “Relax 5mm Science Kit, Large Hematite Magnets Magnetic Stones Building Blocks,” sold exclusively on the site through Joybuy.\nEarlier in December, CPSC said these magnets, often marketed for children, are small enough to fit into the CPSC’s small parts cylinder (which simulates the width of a child’s throat), and are also magnetically stronger than permitted. If swallowed, the high-powered magnets can attract to each other or to other metals inside the digestive system, leading to “perforations, twisting and/or blockage of the intestines, infection, blood poisoning and death.”\nThe agency broadly estimated 2,500 emergency room visits over magnet ingestions from 2017-2021 and seven deaths, two of which were outside of the United States.\nThe recall affects about 4,240 units. The CPSC said customers should take away the balls from children immediately and contact Joybuy for a pre-paid label to return the recalled products for a full refund. The toy kit was sold from February 2022 through April 2023 for between $14 and $15 and is made of small magnetic balls in purple, black, green, blue, orange and red.\nThe-CNN-Wire\n™ & © 2023 Cable News Network, Inc., a Warner Bros. Discovery Company. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Health", "Disaster and Accident"],
+  "external_links": [
+    "https://www.cpsc.gov/Business--Manufacturing/Business-Education/Business-Guidance/Small-Parts-for-Toys-and-Childrens-Products",
+    "https://www.cnn.com/2023/12/07/business/magnetic-ball-recall-warning/index.html",
+    "https://www.cpsc.gov/Recalls/2024/High-Powered-Magnetic-Balls-Recalled-Due-to-Ingestion-Hazard-Sold-Exclusively-on-Walmart-com-through-Joybuy",
+    "https://cpsc.gov/Business--Manufacturing/Business-Education/Business-Guidance/Small-Parts-for-Toys-and-Childrens-Products",
+    "https://cpsc.gov/Recalls/2024/High-Powered-Magnetic-Balls-Recalled-Due-to-Ingestion-Hazard-Sold-Exclusively-on-Walmart-com-through-Joybuy",
+    "https://cnn.com/2023/12/07/business/magnetic-ball-recall-warning/index.html"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "joybuy",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cpsc",
+        "sentiment": "negative"
+      },
+      {
+        "name": "walmart",
+        "sentiment": "negative"
+      },
+      {
+        "name": "product safety commission",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "new york",
+        "sentiment": "none"
+      },
+      {
+        "name": "us",
+        "sentiment": "none"
+      },
+      {
+        "name": "united states",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:28:29.737+02:00",
+  "updated": "2023-12-29T00:28:29.737+02:00"
+}

@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "351db1e863f885ec37fe89687b54890340fbb599",
+    "url": "https://www.nzherald.co.nz/hawkes-bay-today/news/rebuilding-awatoto-cyclone-hit-napier-business-community-looks-towards-resilient-future/XVLKOV7IV5CGDIUX445LDNQTU4/",
+    "site_full": "www.nzherald.co.nz",
+    "site": "nzherald.co.nz",
+    "site_section": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/news/?outputType=xml&_website=hawkes-bay-today",
+    "site_categories": ["science", "geology"],
+    "section_title": "",
+    "title": "Rebuilding Awatoto: Cyclone-hit Napier business community looks towards resilient future - NZ Herald",
+    "title_full": "Rebuilding Awatoto: Cyclone-hit Napier business community looks towards resilient future - NZ Herald",
+    "published": "2023-12-28T12:08:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NZ",
+    "main_image": "https://www.nzherald.co.nz/resizer/P7liNZEAfYC-pJDn0eFpe_35rJs=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/TKMKJZNIVREBVPS5PFFCZQWM7M.JPG",
+    "performance_score": 0,
+    "domain_rank": 1249,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "351db1e863f885ec37fe89687b54890340fbb599",
+  "url": "https://www.nzherald.co.nz/hawkes-bay-today/news/rebuilding-awatoto-cyclone-hit-napier-business-community-looks-towards-resilient-future/XVLKOV7IV5CGDIUX445LDNQTU4/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Mitchell Hageman",
+  "published": "2023-12-28T12:08:00.000+02:00",
+  "title": "Rebuilding Awatoto: Cyclone-hit Napier business community looks towards resilient future - NZ Herald",
+  "text": "The small Hawke’s Bay settlement of Awatoto near Napier was crippled by Cyclone Gabrielle . A titan of industrialism for the city, its future initially looked bleak for businesses that bore the full brunt of the floods. Despite the odds, many are now returning, and they’re making sure they’re prepared for what’s to come.\nA bomb site would’ve been the best way to describe the carnage at Napier’s main industrial area in the weeks after February 14, 2023.\nEmergency response trucks rolled through heavy checkpoints at Waitangi, Awatoto and McLeod Rds, the threat of toxic waste from the water treatment plant and heavy-industry buildings looming.\nTen months on, the checkpoints are down and boiler suits are no longer needed, but the threat of flooding and other natural hazards remains for many of those businesses choosing to return.\nAdvertisement Advertise with NZME. So, how are they doing? And what is some of the work being done by this tight-knit business community as it looks to the future?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "napier",
+        "sentiment": "negative"
+      },
+      {
+        "name": "cyclone gabrielle",
+        "sentiment": "negative"
+      },
+      {
+        "name": "hawke",
+        "sentiment": "negative"
+      },
+      {
+        "name": "mcleod rds",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "nz herald",
+        "sentiment": "negative"
+      },
+      {
+        "name": "nzme",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "awatoto",
+        "sentiment": "none"
+      },
+      {
+        "name": "waitangi",
+        "sentiment": "none"
+      },
+      {
+        "name": "napier",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:14:07.423+02:00",
+  "updated": "2023-12-29T01:14:07.423+02:00"
+}

@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "063a3faa6156f5fc2a04f1820b78b56f26f15aab",
+    "url": "https://ottumwaradio.com/2025/09/fairfield-school-district-seeks-39-5-million-bond-for-new-middle-school/",
+    "site_full": "ottumwaradio.com",
+    "site": "ottumwaradio.com",
+    "site_section": "https://ottumwaradio.com",
+    "site_categories": ["media"],
+    "section_title": "Ottumwa Radio Group - Ottumwa Radio",
+    "site_title": "Your Source for Local News! - Ottumwa Radio Group",
+    "title": "Fairfield School District Seeks $39.5 Million Bond for New Middle School",
+    "title_full": "Fairfield School District Seeks $39.5 Million Bond for New Middle School",
+    "published": "2025-09-18T02:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ottumwaradio.com/wp-content/uploads/2025/09/unnamed-9.avif",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "063a3faa6156f5fc2a04f1820b78b56f26f15aab",
+  "url": "https://ottumwaradio.com/2025/09/fairfield-school-district-seeks-39-5-million-bond-for-new-middle-school/",
+  "ord_in_thread": 0,
+  "author": "AJ Roe",
+  "published": "2025-09-18T02:00:00.000+03:00",
+  "title": "Fairfield School District Seeks $39.5 Million Bond for New Middle School",
+  "text": "Fairfield Community School District voters will decide the fate of a proposed new middle school when they head to the polls on November 4th. The $39.5 million general obligation bond would replace the aging Fairfield Middle School with a modern facility designed for grades 5-8.\nFunding Strategy\nThe district plans to combine general obligation bonds with revenue from Iowa’s statewide penny sales tax program, known as Secure an Advanced Vision for Education (SAVE), to finance the project.\n“We believe continuing to invest limited resources into the current middle school is not a practical long-term solution,” said Superintendent Zach Wigle. “The decision to place this referendum on the November ballot comes after careful study and engagement with our community, and it presents an opportunity to provide our students with a safe and modern learning environment where they can thrive.”\nCurrent Building Challenges\nThe existing middle school faces numerous structural and safety issues that have accumulated over decades. The building suffers from chronic water infiltration due to being constructed too low on its site. Additionally, the building envelope lacks proper secondary drainage and flashing, allowing water to penetrate the walls.\nMany of the school’s windows are nearly 60 years old, featuring single-pane glass that allows both water and air infiltration. The original sections of the building fail to meet Americans with Disabilities Act requirements, and classrooms are approximately 150 square feet smaller than current educational standards recommend.\nProposed New Facility\nThe preliminary design calls for a 2-story, 108,000-square-foot building that would separate younger and older students into distinct wings. The 5th and 6th grade students would occupy 1 classroom wing, while 7th and 8th graders would have their own dedicated area.\nSpecialized spaces would include dedicated areas for band, choir, art, special education, and career and technical education programs. Athletic facilities would feature 2 gymnasiums with 400-seat capacity and a multipurpose room capable of accommodating 2 wrestling mats.\nTax Impact\nProperty owners would see a maximum tax increase of $2.70 per $1,000 of taxable property value if the bond passes. For a home valued at $200,000, this translates to approximately $234 annually in additional property taxes.\nAgricultural landowners would face varying impacts based on county assessment values. The annual per-acre cost would be $2.68 in Henry County, $2.93 in Jefferson County, $1.94 in Van Buren County, $2.48 in Wapello County, and $3.72 in Washington County.\nCommunity Engagement\nDistrict officials have scheduled multiple opportunities for public input before the November election. The first community outreach event will take place at the Fairfield Farmers Market on September 20th at 8 AM, followed by an informational meeting at Fairfield Middle School on September 22nd at 7 PM.\nAdditional information about the bond referendum, including frequently asked questions, is available at www.fairfieldcsdbond.org .\nThe November 4th vote will determine whether the district can move forward with replacing a building that has served the community for decades but now requires significant investment to address fundamental structural and accessibility issues.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Politics", "Education", "Social Issue"],
+  "topics": [
+    "Politics->education policy",
+    "Politics->local elections",
+    "Politics->government policy",
+    "Education->upper secondary education",
+    "Education->state school",
+    "Education->school",
+    "Social Issue->social services",
+    "Social Issue->communities"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "http://www.fairfieldcsdbond.org/",
+    "http://www.fairfieldcsdbond.org",
+    "http://fairfieldcsdbond.org/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Zach Wigle",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Fairfield Community School District",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Fairfield Middle School",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": ["Ottumwa", "Eddyville"],
+      "state": ["Iowa"],
+      "country": ["US"],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T09:00:26.862+03:00",
+  "updated": "2025-09-18T09:12:08.000+03:00"
+}

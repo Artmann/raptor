@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "dce23ada18964ebcf9e244d52aedb36221a0d8db",
+    "url": "https://levelup.gitconnected.com/mastering-spring-boot-cache-eviction-a-comprehensive-guide-for-optimal-performance-ab45891c02e1",
+    "site_full": "levelup.gitconnected.com",
+    "site": "gitconnected.com",
+    "site_section": "https://levelup.gitconnected.com",
+    "site_categories": ["javascript", "tech"],
+    "section_title": "Level Up Coding",
+    "title": "Mastering Spring Boot Cache Eviction: A Comprehensive Guide for Optimal Performance | by Urfanito | Dec, 2023 | Level Up Coding",
+    "title_full": "Mastering Spring Boot Cache Eviction: A Comprehensive Guide for Optimal Performance | by Urfanito | Dec, 2023 | Level Up Coding",
+    "published": "2023-12-29T00:13:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://miro.medium.com/v2/resize:fit:330/1*wThzBIMvwtY8P5IYnO133g.jpeg",
+    "performance_score": 0,
+    "domain_rank": 19196,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "dce23ada18964ebcf9e244d52aedb36221a0d8db",
+  "url": "https://levelup.gitconnected.com/mastering-spring-boot-cache-eviction-a-comprehensive-guide-for-optimal-performance-ab45891c02e1",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Urfanito",
+  "published": "2023-12-29T00:13:00.000+02:00",
+  "title": "Mastering Spring Boot Cache Eviction: A Comprehensive Guide for Optimal Performance | by Urfanito | Dec, 2023 | Level Up Coding",
+  "text": "Mastering Spring Boot Cache Eviction: A Comprehensive Guide for Optimal Performance Caching is a cornerstone of high-performance Spring Boot applications, and a nuanced understanding of cache eviction policies is essential for maintaining efficiency and responsiveness. In this detailed exploration, we’ll delve into the significance of cache eviction, unravel the default eviction policies in Spring Boot, and explore advanced customization options to ensure your caching strategy aligns seamlessly with your application’s unique requirements. The Crucial Role of Cache Eviction Caching accelerates application performance by storing frequently accessed data in memory, reducing the need for repeated and potentially resource-intensive database or network calls. However, as the cached dataset grows, the effective management of cached entries becomes imperative to prevent memory saturation and to ensure that the cached data remains relevant. Default Cache Eviction Policies in Spring Boot Spring Boot, leveraging the powerful Spring Framework, incorporates default eviction policies that govern the removal of entries from the cache. Two primary eviction policies stand out in this context: Least Recently Used (LRU) Eviction Policy The LRU eviction policy is designed to remove the least recently used entries from the cache when it approaches its maximum size. This ensures that the most frequently accessed data stays in the cache, optimizing for the principle of temporal locality. Consider the following example utilizing the @Cacheable annotation with an LRU eviction policy: import org.springframework.cache.annotation.CacheConfig; import org.springframework.cache.annotation.Cacheable; import org.springframework.stereotype.Service; @Service @CacheConfig(cacheNames = \"userCache\") public class UserDataService { @Cacheable(key = \"#userId\") public User getUserData(String userId) { // Simulating fetching user data from the database System.out.println(\"Fetching user data from the database for user id: \" + userId); return new User(userId, \"John Doe\"); } }",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Education",
+    "Economy, Business and Finance"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:25:14.602+02:00",
+  "updated": "2023-12-29T00:25:14.602+02:00"
+}

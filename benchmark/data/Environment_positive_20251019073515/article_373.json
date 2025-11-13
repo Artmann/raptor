@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "36f606728ef5e98d32aaa7e60df242fd56c16d0d",
+    "url": "https://www.vedomosti.ru/society/news/2025/10/16/1147398-putin-rossiiskii-energobalans",
+    "site_full": "www.vedomosti.ru",
+    "site": "vedomosti.ru",
+    "site_section": "https://nfsp.ru/category/%d0%bd%d0%be%d0%b2%d1%8b%d0%b5-%d0%b4%d0%b5%d0%bb%d0%be%d0%b2%d1%8b%d0%b5-%d0%bb%d1%8e%d0%b4%d0%b8",
+    "site_categories": ["media", "top_news_ru", "top_news"],
+    "section_title": "Главная - Национальный Фонд Социальных Программ РФ",
+    "site_title": "«Ведомости» — ведущее деловое издание России",
+    "title": "Путин: российский энергобаланс - один из самых зеленых в мире - Ведомости",
+    "title_full": "Путин: российский энергобаланс - один из самых зеленых в мире - Ведомости",
+    "published": "2025-10-16T14:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://sharing.vedomosti.ru/1760614371/vedomosti.ru/society/news/2025/10/16/1147398-putin-rossiiskii-energobalans.jpg",
+    "performance_score": 3,
+    "domain_rank": 5073,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 34,
+        "comments": 9,
+        "shares": 30
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "36f606728ef5e98d32aaa7e60df242fd56c16d0d",
+  "url": "https://www.vedomosti.ru/society/news/2025/10/16/1147398-putin-rossiiskii-energobalans",
+  "ord_in_thread": 0,
+  "author": "Ведомости",
+  "published": "2025-10-16T14:32:00.000+03:00",
+  "title": "Путин: российский энергобаланс - один из самых зеленых в мире - Ведомости",
+  "text": "Российский энергобаланс является одним из самых зеленых в мире, заявил президент РФ Владимир Путин на пленарном заседании международного форума « Российская энергетическая неделя ».\n«Подавляющая доля электроэнергии в России, а именно 87%, вырабатывается с минимальным или нулевым углеродным следом. Имею в виду газовую, атомную генерацию, возобновляемые источники энергии и гидроэнергетику», – сказал он.\nПутин подчеркнул, что российские компании реализуют проекты зеленой долговечной генерации и в России, и за рубежом. По его словам, при участии российских ученых, инженеров, управленцев уже реализовано более 400 проектов в сфере гидроэнергетики в 55 странах мира.\nВ ходе выступления российский лидер отметил , что в мире происходит слом энергетической архитектуры из-за действий Запада.\n« Российская энергетическая неделя » проходит с 15 по 17 октября в центральном выставочном зале «Манеж» в Москве. В 2025 г. тема форума – «Создавая энергетику будущего вместе». В число участников вошли государственные деятели, лидеры энергетических компаний, представители экспертного и научного сообществ. Официальная программа включает в себя более 60 деловых мероприятий.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "positive",
+  "categories": ["Environment"],
+  "topics": ["Environment->sustainability", "Environment->energy resources"],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_ru", "top_news"],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:36:20.768+03:00",
+  "updated": "2025-10-17T15:11:40.000+03:00"
+}

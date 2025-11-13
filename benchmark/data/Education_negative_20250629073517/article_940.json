@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "7fab00f0bd170738d9524da9af9ecaa329a7825e",
+    "url": "https://www.europapress.es/andalucia/noticia-ustea-rechaza-acuerdo-educativo-junta-ser-insuficiente-excluyente-garantias-estabilidad-20250626143030.html",
+    "site_full": "www.europapress.es",
+    "site": "europapress.es",
+    "site_section": "https://www.europapress.es/esandalucia/cordoba",
+    "site_categories": ["media", "top_news_es", "top_news_pe", "top_news"],
+    "section_title": "\r\n\tEs Andalucía - Portada - Es Andalucía - Córdoba | noticias e información de actualidad\r\n",
+    "site_title": "Europa Press -  Agencia de noticias",
+    "title": "Ustea rechaza el acuerdo educativo de la Junta por ser \"insuficiente, excluyente y sin garantías de estabilidad\"",
+    "title_full": "Ustea rechaza el acuerdo educativo de la Junta por ser \"insuficiente, excluyente y sin garantías de estabilidad\"",
+    "published": "2025-06-26T15:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://img.europapress.es/fotoweb/fotonoticia_20250626143030_1200.jpg",
+    "performance_score": 0,
+    "domain_rank": 2706,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7fab00f0bd170738d9524da9af9ecaa329a7825e",
+  "url": "https://www.europapress.es/andalucia/noticia-ustea-rechaza-acuerdo-educativo-junta-ser-insuficiente-excluyente-garantias-estabilidad-20250626143030.html",
+  "ord_in_thread": 0,
+  "author": "Europa Press",
+  "published": "2025-06-26T15:30:00.000+03:00",
+  "title": "Ustea rechaza el acuerdo educativo de la Junta por ser \"insuficiente, excluyente y sin garantías de estabilidad\"",
+  "text": "SEVILLA 26 Jun. (EUROPA PRESS) -\nEl sindicato Ustea ha comunicado este jueves que no ha firmado el 'Acuerdo sobre mejora del sistema educativo y las condiciones laborales del personal funcionario docente no universitario de Andalucía', promovido por la Consejería de Desarrollo Educativo y Formación Profesional, al considerarlo \"insuficiente, excluyente y sin garantías de estabilidad\".\nSegún ha explicado Ustea, la negativa responde tanto a razones de fondo como de forma, tal y como detallan en una nota de prensa. \"El acuerdo no da respuesta a las necesidades reales de la escuela pública andaluza ni a las reivindicaciones históricas del profesorado\", ha afirmado el sindicato.\nPara la organización, el texto es insuficiente porque según ellos, no contempla una bajada de ratios con impacto inmediato, no garantiza un aumento estructural y consolidado de las plantillas, no aborda de forma real la reducción del horario lectivo, ni mejora la atención a la diversidad, y deja fuera etapas educativas como la Formación Profesional, las enseñanzas artísticas o de régimen especial.\nAdemás, Ustea ha advertido de que muchas de las medidas incluidas dependen de financiación externa, principalmente de fondos europeos, \"sin garantías de estabilidad ni continuidad\", lo que, a juicio del sindicato, pone en riesgo la consolidación de los recursos humanos y materiales.\nEn cuanto al proceso negociador, Ustea ha criticado que ha sido \"poco transparente y desequilibrado\", señalando que se han producido negociaciones bilaterales al margen de las mesas oficiales y que el sindicato ha sido excluido por ser \"el más exigente\". Añaden que el acuerdo se hizo público antes incluso de su firma oficial, lo que, según Ustea, evidencia \"una falta total de rigor y voluntad de diálogo real\".",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Education", "Politics"],
+  "topics": [
+    "Education->teachers",
+    "Education->school",
+    "Education->educational grading",
+    "Politics->education policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": ["top_news_es", "top_news_pe", "top_news"],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-26T16:04:15.228+03:00",
+  "updated": "2025-06-27T13:07:50.000+00:00"
+}

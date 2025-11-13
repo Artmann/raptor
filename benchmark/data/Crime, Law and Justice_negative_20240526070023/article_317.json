@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "8ac5392b6e0969fa9a972d442036394b8da37408",
+    "url": "https://wchstv.com/news/local/court-records-ripley-teachers-aide-accused-of-dragging-student-across-floor-using-force",
+    "site_full": "wchstv.com",
+    "site": "wchstv.com",
+    "site_section": "https://wchstv.com",
+    "site_categories": ["media"],
+    "section_title": "chevron-right",
+    "title": "chevron-right",
+    "title_full": "chevron-right",
+    "published": "2024-04-25T19:29:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://wchstv.com/resources/media/20c6a04f-4b8d-4942-9df6-2cc6135bed48-large16x9_PoliceLights.jpg",
+    "performance_score": 0,
+    "domain_rank": 29524,
+    "domain_rank_updated": "2024-04-23T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8ac5392b6e0969fa9a972d442036394b8da37408",
+  "url": "https://wchstv.com/news/local/court-records-ripley-teachers-aide-accused-of-dragging-student-across-floor-using-force",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "STAFF REPORTS",
+  "published": "2024-04-25T19:29:00.000+03:00",
+  "title": "chevron-right",
+  "text": "JACKSON COUNTY, W.Va. (WCHS) — A Jackson County, West Virginia, teacher’s aide was charged after she was accused of dragging a young student across a floor and using excessive force, court records said. Nicole Lea Lupardus, 43, is charged with battery after an incident Monday, April 15, at Ripley Elementary Learning Center, according to a criminal complaint filed in Jackson County Magistrate Court. Lupardus is accused of dragging a 5-year-old student across the floor and physically picking them up and putting them in a seat. She is also accused of physically pushing the child against a table. The alleged incidents were recorded on surveillance video, the complaint said. Officers said they learned of the alleged incident after multiple faculty members contacted the county’s Shield Program coordinator. [The program was launched in 2022](https://wchstv.com/news/crisis-in-the-classroom/jackson-county-making-safety-a-priority-in-schools-through-new-program#) as an attempt to increase safety in schools. Witnesses told investigators they believed the incident could have injured the child. The child’s parents did not report any injuries, the complaint said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Human Interest", "Crime, Law and Justice", "Education"],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "jackson",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "nicole lea lupardus",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "jackson county magistrate court",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "west virginia",
+        "sentiment": "none"
+      },
+      {
+        "name": "jackson county",
+        "sentiment": "none"
+      },
+      {
+        "name": "w.va",
+        "sentiment": "none"
+      },
+      {
+        "name": "ripley elementary learning center",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-26T00:12:34.815+03:00",
+  "updated": "2024-04-26T00:12:34.815+03:00"
+}

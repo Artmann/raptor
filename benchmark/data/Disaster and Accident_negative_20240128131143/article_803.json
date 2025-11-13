@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "32eec915b51a072f22043ab71a9ad47f5fcb75bf",
+    "url": "https://sudantribune.com/article280766/",
+    "site_full": "sudantribune.com",
+    "site": "sudantribune.com",
+    "site_section": "https://sudantribune.com/feed",
+    "site_categories": ["media"],
+    "section_title": "Sudan Tribune",
+    "title": "WFP Condemns RSF Looting of Food Supplies in Sudan’s Al-Jazirah",
+    "title_full": "WFP Condemns RSF Looting of Food Supplies in Sudan’s Al-Jazirah",
+    "published": "2023-12-29T00:04:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "https://sudantribune.com/wp-content/uploads/2023/12/A-Sudanese-woman-stand-besides-humanitarian-aid-WFP-photo.jpg",
+    "performance_score": 0,
+    "domain_rank": 27533,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "32eec915b51a072f22043ab71a9ad47f5fcb75bf",
+  "url": "https://sudantribune.com/article280766/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "SudanTribune",
+  "published": "2023-12-29T00:04:00.000+02:00",
+  "title": "WFP Condemns RSF Looting of Food Supplies in Sudan’s Al-Jazirah",
+  "text": "Al Jazirah\nWFP Condemns RSF Looting of Food Supplies in Sudan’s Al-Jazirah\nDecember 18, 2023 (PORT SUDAN) – The United Nations World Food Programme (WFP) Thursday strongly condemned the looting of food supplies from its premises in Sudan’s Gezira State last weekend.\nElements of Sudan’s paramilitary (RSF) broke into the WFP warehouse and office following their takeover of Wad Medani, the capital of Al-Jazirah State. The warehouse contained enough stocks to feed nearly 1.5 million severely food-insecure people for one month.\n“Sudanese people who are already desperate and fleeing the fighting have now been robbed of the critical assistance they need,” said Michael Dunford, WFP Regional Director for Eastern Africa. “This is intolerable and must stop.”\nThe looted food supplies included pulses, sorghum, vegetable oil, and nutrition supplements. These essential items were intended to prevent and support malnutrition treatment for more than 20,000 children and pregnant and breastfeeding women through WFP-supported health centres.\nThe looting of the WFP warehouse has forced the agency to temporarily pause distributions in Al-Jazirah state. It is now reconfiguring its humanitarian response and has started some distributions in states further to the East, where people fleeing Al-Jazirah are now seeking refuge.\nWFP operations are a lifeline to nearly one million desperate people in Al-Jazirah state. The looting of the warehouse undermines these operations at a time when nearly 18 million people in Sudan are facing acute hunger.\nWFP has supported more than 5.6 million people in seventeen of eighteen states across Sudan with food and nutrition assistance since the conflict erupted in mid-April 2023. The agency warned earlier this month of a looming hunger catastrophe if people cannot receive aid.\n(ST)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Politics", "Human Interest", "Disaster and Accident"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "wad medani",
+        "sentiment": "none"
+      },
+      {
+        "name": "michael dunford",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "rsf looting of food supplies",
+        "sentiment": "negative"
+      },
+      {
+        "name": "al-jazirah",
+        "sentiment": "negative"
+      },
+      {
+        "name": "al-jazirah al jazirah wfp",
+        "sentiment": "negative"
+      },
+      {
+        "name": "wfp condemns rsf looting of food supplies",
+        "sentiment": "negative"
+      },
+      {
+        "name": "wfp",
+        "sentiment": "none"
+      },
+      {
+        "name": "united nations world food programme",
+        "sentiment": "none"
+      },
+      {
+        "name": "al-jazirah state",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "sudan",
+        "sentiment": "none"
+      },
+      {
+        "name": "eastern africa",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:16:12.858+02:00",
+  "updated": "2023-12-29T01:16:12.858+02:00"
+}

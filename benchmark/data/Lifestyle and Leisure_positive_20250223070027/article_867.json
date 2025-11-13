@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "bea24723b3daea6b95e54a8f8eb1c807d0c54c35",
+    "url": "https://patch.com/new-jersey/oceancity/celebrate-valentines-day-broadway-love-songs-ocean-city",
+    "site_full": "patch.com",
+    "site": "patch.com",
+    "site_section": "https://patch.com/new-jersey/oceancity/classifieds",
+    "site_categories": ["media", "top_news_us", "top_news"],
+    "section_title": "Ocean City, NJ Classifieds",
+    "title": "Celebrate Valentine&apos;s Day With Broadway Love Songs In Ocean City",
+    "title_full": "Celebrate Valentine&apos;s Day With Broadway Love Songs In Ocean City",
+    "published": "2025-01-23T22:58:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://patch.com/img/cdn20/users/25866962/20250123/035809/styles/patch_image/public/hsfoto-valentines-day-heart-beach-shutterstock-160996940___23155800623.jpg",
+    "performance_score": 0,
+    "domain_rank": 1007,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bea24723b3daea6b95e54a8f8eb1c807d0c54c35",
+  "url": "https://patch.com/new-jersey/oceancity/celebrate-valentines-day-broadway-love-songs-ocean-city",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Veronica Flesher",
+  "published": "2025-01-23T22:58:00.000+02:00",
+  "title": "Celebrate Valentine&apos;s Day With Broadway Love Songs In Ocean City",
+  "text": "Arts & Entertainment\nCelebrate Valentine's Day With Broadway Love Songs In Ocean City\nEnjoy some of Broadway's most romantic songs, performed by the Ocean City Theatre Company.\nOCEAN CITY, NJ — Love is in the air, so celebrate Valentine's Day with some of Broadway's most romantic songs performed by the Ocean City Theatre Company.\nThe Broadway Love Songs Cabaret is set for 3 p.m. on Feb. 15 at Ocean City Music Pier. Select performers from the Greater Ocean City Theatre Company's Professional Broadway Series and student programming return to the stage in this casual and intimate cabaret of favorites from the Great White Way.\nTickets are $15.00 for kids under 12 and seniors with tickets at $18.00 for everyone else. All proceeds benefit the Greater Ocean City Theatre Company. Advanced reservations are strongly suggested. To reserve your tickets, visit oceancitytheatrecompany.com.\nFind out what's happening in Ocean Cityfor free with the latest updates from Patch.\nGet more local news delivered straight to your inbox.\nSign up for free Patch newsletters and alerts.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Arts, Culture and Entertainment", "Lifestyle and Leisure"],
+  "topics": [
+    "Arts, Culture and Entertainment->music",
+    "Arts, Culture and Entertainment->arts and entertainment",
+    "Lifestyle and Leisure->holiday",
+    "Lifestyle and Leisure->leisure",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "http://oceancitytheatrecompany.com/",
+    "http://www.oceancitytheatrecompany.com/",
+    "http://oceancitytheatrecompany.com"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Ocean City Theatre Company",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Broadway",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:38:14.953+02:00",
+  "updated": "2025-01-24T00:38:14.953+02:00"
+}

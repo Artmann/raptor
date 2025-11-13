@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "bfae2095c83bac11bfd04bd34d708b07ea395a9d",
+    "url": "https://japannews.yomiuri.co.jp/society/general-news/20250626-266018",
+    "site_full": "japannews.yomiuri.co.jp",
+    "site": "yomiuri.co.jp",
+    "site_section": "https://japannews.yomiuri.co.jp/japannews.yomiuri.co.jp/society/",
+    "site_categories": ["top_news_jp", "top_news"],
+    "section_title": "Society &#045; The Japan News",
+    "site_title": "The Japan News &#045; News from Japan, Breaking News, Politics, Economy, Culture",
+    "title": "Phd Students May Soon Have to Be Japanese to Get Living Expense Grants, as Education Ministry Mulls Rule Change - The Japan News",
+    "title_full": "Phd Students May Soon Have to Be Japanese to Get Living Expense Grants, as Education Ministry Mulls Rule Change - The Japan News",
+    "published": "2025-06-26T14:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "JP",
+    "main_image": "https://japannews.yomiuri.co.jp/wp-content/uploads/2023/04/edu-min0424.jpg",
+    "performance_score": 1,
+    "domain_rank": 1978,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 10,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bfae2095c83bac11bfd04bd34d708b07ea395a9d",
+  "url": "https://japannews.yomiuri.co.jp/society/general-news/20250626-266018",
+  "ord_in_thread": 0,
+  "author": "The Yomiuri Shimbun",
+  "published": "2025-06-26T14:00:00.000+03:00",
+  "title": "Phd Students May Soon Have to Be Japanese to Get Living Expense Grants, as Education Ministry Mulls Rule Change - The Japan News",
+  "text": "The education ministry is considering limiting living expense grants for outstanding PhD students to Japanese nationals. At present, about 30% of recipients are Chinese international students. The grant program was originally aimed at Japanese students, and the Education, Culture, Sports, Science and Technology Ministry is looking at realigning the program with its original purpose. The ministry presented a plan to revise the program to a meeting of experts on Thursday, and hopes to act on it as early as fiscal 2026. The program, officially called Support for Pioneering Research Initiated by the Next Generation (SPRING), was launched by the ministry in fiscal 2021 and provides up to ¥2.9 million a year per student to cover living costs and research funding for their doctoral studies, with no nationality restrictions. Last fiscal year, 4,125 of the 10,564 recipients were international students, and Chinese nationals made up the largest group at 2,904 students. That led to questions at the Diet. Under the proposed revision, international students will not be eligible for the living expense grants, which can total as much as ¥2.4 million. However, they will still be eligible for research grants, and the ministry will even introduce a new system to adjust funding based on the subject of their research and their performance. Students working full time will also become eligible for grants. The revision comes as the ministry tries to finalize a strategy for developing human resources, which includes support for PhD students, by the end of this summer.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Education", "Social Issue"],
+  "topics": [
+    "Education->college and university",
+    "Education->educational grading",
+    "Education->students",
+    "Social Issue->social services",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Science and Technology Ministry",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_jp", "top_news"],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T14:18:10.562+03:00",
+  "updated": "2025-06-27T12:11:37.000+00:00"
+}

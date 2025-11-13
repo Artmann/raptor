@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "ffc99f8974215969c6b21f85653b739bb8bb5b09",
+    "url": "https://article.wn.com/view/2025/05/08/LPA_to_dump_rains_in_parts_of_PH_flash_floods_landslides_lik",
+    "site_full": "article.wn.com",
+    "site": "wn.com",
+    "site_section": "https://wn.com/ocean-acidification",
+    "site_categories": ["media"],
+    "section_title": "World News - Ocean acidification",
+    "site_title": "World News",
+    "title": "LPA to dump rains in parts of PH, flash floods, landslides likely - Worldnews.com",
+    "title_full": "LPA to dump rains in parts of PH, flash floods, landslides likely - Worldnews.com",
+    "published": "2025-05-08T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4256,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ffc99f8974215969c6b21f85653b739bb8bb5b09",
+  "url": "https://article.wn.com/view/2025/05/08/LPA_to_dump_rains_in_parts_of_PH_flash_floods_landslides_lik",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T03:00:00.000+03:00",
+  "title": "LPA to dump rains in parts of PH, flash floods, landslides likely - Worldnews.com",
+  "text": "MANILA, Philippines — It could be rainy in parts of the country this Thursday as a low pressure area (LPA) was spotted off Palawan although it has a slim chance of intensifying into a tropical depression, the state-run weather agency said. In its 5 a.m. advisory, the Philippine Atmospheric Geophysical and Astronomical",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": ["Disaster and Accident", "Weather", "Environment"],
+  "topics": [
+    "Disaster and Accident->emergency response",
+    "Disaster and Accident->natural disaster",
+    "Disaster and Accident->disaster",
+    "Weather->weather warning",
+    "Weather->weather forecast",
+    "Environment->natural resources",
+    "Environment->climate change",
+    "Environment->water"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Palawan",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "LPA",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T05:42:37.569+03:00",
+  "updated": "2025-05-08T02:48:59.000+00:00"
+}

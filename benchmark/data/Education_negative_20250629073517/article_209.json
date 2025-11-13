@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "7fe483b9b6c6e33cbaf0050144f909a0e75da5de",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5087509",
+    "site_full": "news.ltn.com.tw",
+    "site": "ltn.com.tw",
+    "site_section": "https://www.ltn.com.tw/",
+    "site_categories": [
+      "media",
+      "top_news_hk",
+      "top_news_nz",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "自由時報電子報",
+    "site_title": null,
+    "title": "空拍韓美軍事基地、航空母艦 2名中國留學生被捕",
+    "title_full": "空拍韓美軍事基地、航空母艦 2名中國留學生被捕",
+    "published": "2025-06-26T09:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://img.ltn.com.tw/Upload/news/600/2025/06/26/php8KzYuo.jpg",
+    "performance_score": 0,
+    "domain_rank": 7409,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 4
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7fe483b9b6c6e33cbaf0050144f909a0e75da5de",
+  "url": "https://news.ltn.com.tw/news/world/breakingnews/5087509",
+  "ord_in_thread": 0,
+  "author": "自由時報電子報",
+  "published": "2025-06-26T09:33:00.000+03:00",
+  "title": "空拍韓美軍事基地、航空母艦 2名中國留學生被捕",
+  "text": "空拍韓美軍事基地、航空母艦 2名中國留學生被捕\n去年6月25日，3名中國留學生利用無人機空拍美國海軍航空母艦羅斯福號，被南韓警方當場查獲。（路透資料照）\n郭顏慧／核稿編輯\n〔即時新聞／綜合報導〕南韓釜山警察廳26日證實，2名中國留學生涉嫌使用無人機拍攝軍事基地及停靠在釜山海軍基地的美國航空母艦，已被警方逮捕。\n據《韓聯社》報導，釜山警方以涉嫌一般通敵罪和違反《軍事基地法》為由，逮捕中國留學生A；以涉嫌違反《軍事基地法》為由逮捕B；對C則不予逮捕。\n釜山警察廳稱，3人正就讀釜山某大學，涉嫌自2023年3月至2024年6月空拍釜山海軍作戰基地和美國海軍核動力航空母艦羅斯福號（USS Theodore Roosevelt）。經查，3人分9次拍攝了共172張照片和22部影片，並上傳至社群媒體。\n去年6月22日，羅斯福號航艦為參與韓美日首次多域聯合軍演「自由刀刃」（Freedom Edge），駛入釜山海軍作戰司令部。同月25日，3名中國留學生在南韓海軍作戰司令部附近高地利用無人機空拍時被警方當場抓獲。當時，時任南韓總統尹錫悅正登上羅斯福號視察並勉勵韓美官兵。\n釜山警方表示，上述3人長時間非法拍攝韓美軍事基地及相關設施，並在網上散布相關資料，向外國傳輸軍事情報。警方認為，上述行為是嚴重威脅南韓國家安全的犯罪行為，故與檢方、國家情報院和反間諜司令部積極展開聯合調查，同時將嚴格杜絕類似非法行為。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "War, Conflict and Unrest",
+    "Education"
+  ],
+  "topics": [
+    "Crime, Law and Justice->surveillance",
+    "Crime, Law and Justice->arrest",
+    "War, Conflict and Unrest->armed conflict",
+    "War, Conflict and Unrest->civil unrest",
+    "War, Conflict and Unrest->international military intervention"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://cb.yna.co.kr/gate/big5/cn.yna.co.kr/view/ACK20250626002200881",
+    "https://www.cb.yna.co.kr/gate/big5/cn.yna.co.kr/view/ACK20250626002200881"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": ["top_news_hk", "top_news_nz", "top_news_tw", "top_news"],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-26T09:47:08.878+03:00",
+  "updated": "2025-06-27T07:05:55.000+00:00"
+}

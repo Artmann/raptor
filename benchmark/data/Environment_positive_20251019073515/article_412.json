@@ -1,0 +1,150 @@
+{
+  "thread": {
+    "uuid": "37210d5421df0a70a4f27e3461d11a8f62b0a0d0",
+    "url": "https://indianexpress.com/article/cities/delhi/sc-allows-sale-of-green-crackers-in-ncr-for-three-days-cm-hails-balance-between-tradition-protecting-environment-10309458/",
+    "site_full": "indianexpress.com",
+    "site": "indianexpress.com",
+    "site_section": "https://world.einnews.com/ajax/headlines",
+    "site_categories": [
+      "media",
+      "top_news_in",
+      "top_news_kw",
+      "top_news_nz",
+      "top_news_pk",
+      "top_news_ae",
+      "top_news_au",
+      "top_news_za",
+      "top_news_qa",
+      "top_news_sg",
+      "top_news_sa",
+      "top_news_my",
+      "top_news"
+    ],
+    "section_title": "",
+    "site_title": "Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports | The Indian Express",
+    "title": "SC allows sale of 'green' crackers in NCR for three days: CM hails balance between tradition, protecting environment",
+    "title_full": "SC allows sale of 'green' crackers in NCR for three days: CM hails balance between tradition, protecting environment",
+    "published": "2025-10-16T03:42:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://images.indianexpress.com/2025/10/rekhagupta_2-col.jpg",
+    "performance_score": 0,
+    "domain_rank": 2618,
+    "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "37210d5421df0a70a4f27e3461d11a8f62b0a0d0",
+  "url": "https://indianexpress.com/article/cities/delhi/sc-allows-sale-of-green-crackers-in-ncr-for-three-days-cm-hails-balance-between-tradition-protecting-environment-10309458/",
+  "ord_in_thread": 0,
+  "author": "saurajitmazumdar",
+  "published": "2025-10-16T03:42:00.000+03:00",
+  "title": "SC allows sale of 'green' crackers in NCR for three days: CM hails balance between tradition, protecting environment",
+  "text": "Chief Minister Rekha Gupta, welcoming the Supreme Court’s decision to allow the sale and use of green firecrackers in Delhi-NCR, said on Wednesday that the order “reflects a deep understanding of the nation’s cultural sensitivities and public sentiments”, as well as “a fine balance between tradition and environmental protection”.\nCalling the verdict a “historic step towards harmonising tradition and environmental preservation,” she said that, for the first time in years, residents of Delhi will be able to celebrate Diwali with officially permitted fireworks. Urging residents to “use only certified green crackers”, Gupta said the objective is to ensure that the festive spirit continues while keeping pollution under control.\nThe government said it would strictly enforce the court’s conditions through a series of measures, including designated sale locations and forming patrol teams to monitor compliance.\nSpeaking to mediapersons, Delhi Environment Minister Manjinder Singh Sirsa said, “The Delhi government will ensure that SC’s directions are followed word by word and line by line.”\nHe directed officials and licensed retailers to ensure that only green crackers certified by National Environmental Engineering Research Institute (NEERI), bearing QR codes, are sold. To identify green crackers, a green or yellow logo saying ‘Green Fireworks’ and ‘CSIR-NEERI’ as well as a QR code can be used on the packaging, he added.\nSirsa directed that green crackers need to be sold at designated sites identified by district magistrates and police commissioners, while the Delhi Police will process temporary sale licence applications within two days. At present, he added, no one has a license to sell green firecrackers in Delhi, and the district magistrates will issue them.\nSirsa also said that after Diwali, retailers will get two days to return or safely dispose of unsold stock, reinstating restrictions immediately, according to an official statement by the minister’s office.\n“Retailers must be partners in awareness and tell people why bursting only green crackers in the allowed time frame matters for Delhi’s air. If we all follow the rules, this temporary relief can become a lasting reform,” Sirsa said. He added that protecting the environment is a “collective responsibility” and so, “…this relaxation is temporary, and if Delhi shows discipline and compliance, it can become permanent”.\nThe BJP, meanwhile, accused the previous AAP dispensation of imposing blanket bans on firecrackers earlier, while the Arvind Kejriwal-led party, though welcoming the court’s directions, cautioned the city government against another pollution crisis in the Capital.\nDelhi BJP chief Virendra Sachdeva said, “We have been saying for a long time that former Delhi CM Arvind Kejriwal presented arguments that compelled the Supreme Court to ban firecrackers. The people of Delhi have now chosen the right government. Air pollution has multiple causes and the present government is working to resolve them. This is a victory for Sanatanis.”\nAAP leader and former Delhi environment minister Gopal Rai said he hoped that the BJP government would continue working to improve the air quality. “We tried our best to reduce pollution. With the Supreme Court’s decision on allowing green firecrackers during Diwali, we hope that the Delhi government will follow the rules and continue working towards improving air quality during the festival,” he said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Environment", "Politics"],
+  "topics": [
+    "Environment->environmental pollution",
+    "Environment->air pollution",
+    "Politics->environmental policy",
+    "Politics->government policy",
+    "Politics->national government"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Rekha Gupta",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Manjinder Singh Sirsa",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Diwali",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Supreme Court",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "NCR",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": "NCR",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": ["trusted_news"],
+    "top_news": [
+      "top_news_in",
+      "top_news_kw",
+      "top_news_nz",
+      "top_news_pk",
+      "top_news_ae",
+      "top_news_au",
+      "top_news_za",
+      "top_news_qa",
+      "top_news_sg",
+      "top_news_sa",
+      "top_news_my",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-16T14:42:17.982+03:00",
+  "updated": "2025-10-16T14:53:20.000+03:00"
+}

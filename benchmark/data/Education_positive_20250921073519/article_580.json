@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "8d25f1ad43240d88b338452642eb2a59872d98ca",
+    "url": "https://3g.china.com/act/news/10000169/20250918/48835145.html",
+    "site_full": "3g.china.com",
+    "site": "china.com",
+    "site_section": "https://news.china.com/domestic/",
+    "site_categories": [],
+    "section_title": "国内新闻_新闻频道_中华网",
+    "site_title": null,
+    "title": "瑞典全国将实施校园手机禁令 改善学生学习环境_中华网",
+    "title_full": "瑞典全国将实施校园手机禁令 改善学生学习环境_中华网",
+    "published": "2025-09-18T08:31:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 6910,
+    "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8d25f1ad43240d88b338452642eb2a59872d98ca",
+  "url": "https://3g.china.com/act/news/10000169/20250918/48835145.html",
+  "ord_in_thread": 0,
+  "author": "zhangxiaohua",
+  "published": "2025-09-18T08:31:00.000+03:00",
+  "title": "瑞典全国将实施校园手机禁令 改善学生学习环境_中华网",
+  "text": "瑞典将在全国范围内推行校园手机禁令，该禁令将于2026年秋季学期正式生效。届时所有学校及课后俱乐部需强制收集7至16岁学生的手机，并统一保管至放学时段。瑞典政府表示，实施此项禁令旨在进一步改善学生的校园安全环境与学习条件，为青少年成长营造更专注的校园氛围。\n为保障手机禁令顺利落地，瑞典政府计划在下周提交的预算法案中拨款9500万瑞典克朗用于禁令的启动实施，并在次年追加1亿瑞典克朗的专项经费。校园手机禁令是瑞典政府宣布的一揽子教育改革措施的重要组成部分，此次拟议改革还将全面覆盖课程设置优化、评分制度调整以及教师专业培训等多个关键领域。瑞典自由党主席西莫娜·莫哈姆松高度重视此次改革，将其称为该国“30多年来规模最大的教育改革计划”，她本人也是校园手机禁令的坚定支持者，认为这项禁令应适用于教室中的每一位学生，不是可选项而是必须执行的规定。\n事实上，瑞典多数学校此前已在上课期间采取没收学生手机的措施，但在实际执行过程中，学生常通过上交假手机、谎称手机遗忘在家或已损坏等方式规避监管，导致禁令效果未能完全发挥。此次全国范围内的强制禁令实施后，瑞典将进一步加大监管力度。\n在欧洲，除瑞典外，多国政府也在积极推进青少年手机与社交媒体使用的严格监管。丹麦政府今年2月宣布将修改现有立法，强制要求所有小学和初中禁止学生在校使用手机，同时明确提出13岁以下儿童不应拥有个人智能手机或平板电脑；挪威去年将社交媒体使用的最低年龄设定为15岁；法国于今年9月要求11至15岁学生在上课前，必须将手机放入学校指定的储物柜或专用收纳袋中。\n责任编辑：zhangxiaohua",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": ["Education", "Social Issue", "Politics"],
+  "topics": [
+    "Education->school",
+    "Education->students",
+    "Education->educational grading",
+    "Social Issue->social condition",
+    "Social Issue->children",
+    "Social Issue->social services",
+    "Politics->education policy",
+    "Politics->government policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-18T08:38:49.635+03:00",
+  "updated": "2025-09-18T08:43:43.000+03:00"
+}

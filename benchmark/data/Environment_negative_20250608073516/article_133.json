@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "cb40c9bbb51e7da317e0f9cccacf6b23779c7b02",
+    "url": "https://www.newsbreak.com/news/3996324044422-fremont-digester-shuttered-after-long-dispute-with-state",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://newsbreak.com/muskegon-mi",
+    "site_categories": ["under_construction"],
+    "section_title": "Muskegon, MI Local News and More | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Fremont digester shuttered after long dispute with state - NewsBreak",
+    "title_full": "Fremont digester shuttered after long dispute with state - NewsBreak",
+    "published": "2025-05-08T00:21:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/3ZPJgH_10vnAVwq00",
+    "performance_score": 0,
+    "domain_rank": 3115,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cb40c9bbb51e7da317e0f9cccacf6b23779c7b02",
+  "url": "https://www.newsbreak.com/news/3996324044422-fremont-digester-shuttered-after-long-dispute-with-state",
+  "ord_in_thread": 0,
+  "author": "Interlochen Public Radio",
+  "published": "2025-05-08T00:21:00.000+03:00",
+  "title": "Fremont digester shuttered after long dispute with state - NewsBreak",
+  "text": "Fremont digester shuttered after long dispute with state - NewsBreak",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Environment",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Environment->environmental pollution",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->business restructuring",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T02:17:35.985+03:00",
+  "updated": "2025-05-07T23:23:57.000+00:00"
+}

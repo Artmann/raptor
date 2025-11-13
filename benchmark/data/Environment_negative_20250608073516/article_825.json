@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "3dd83c163e28196efa7c89b5960c05c055677c1f",
+    "url": "https://arigus.tv/news/ecology/159558-v-buryatii-gorit-10-5-tysyach-gektarov-taygi",
+    "site_full": "arigus.tv",
+    "site": "arigus.tv",
+    "site_section": "https://arigus.tv/news/society/153310-94-pogibshikh-i-sotni-postradavshikh-v-ulan-ude-proveli-aktsiyu-v-den-pamyati-zhertv-dtp",
+    "site_categories": ["media"],
+    "section_title": "94 погибших и сотни пострадавших. В Улан-Удэ провели акцию в День памяти жертв ДТП",
+    "site_title": "www.arigus.tv | 526: Invalid SSL certificate",
+    "title": "В Бурятии горит 10,5 тысяч гектаров тайги",
+    "title_full": "В Бурятии горит 10,5 тысяч гектаров тайги",
+    "published": "2025-05-08T05:29:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://arigus.tv/upload/iblock/cdb/av8cn9r2assycbk1nccjy7ewovmkslpa.jpg",
+    "performance_score": 0,
+    "domain_rank": 165062,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3dd83c163e28196efa7c89b5960c05c055677c1f",
+  "url": "https://arigus.tv/news/ecology/159558-v-buryatii-gorit-10-5-tysyach-gektarov-taygi",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-05-08T05:29:00.000+03:00",
+  "title": "В Бурятии горит 10,5 тысяч гектаров тайги",
+  "text": "За сутки в Бурятии по вине человека вспыхнули 12 лесных пожаров в Баргузинском, Баунтовском, Бичурском, Джидинском, Еравнинском, Заиграевском, Кабанском и Кяхтинском районах. Специалисты потушили восемь очагов, передает РАЛХ.\n- По оперативным данным, утром 8 мая действует 21 лесной пожар: в Баунтовском, Джидинском, Еравнинском и Кяхтинском районах на общей площади 10539 га, - говорится в сообщении.\nТри возгорания удалось локализовать на 637 га. Угрозы населенным пунктам нет. На тушении работают 388 человек и 92 единицы техники.\nНаселению напоминают, что в республике действует особый противопожарный режим - доступ в лес ограничен, а использование открытого огня запрещено. При обнаружении возгораний нужно звонить на номер: 20-44-44.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": ["Environment"],
+  "topics": [
+    "Environment->natural resources",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T06:22:47.189+03:00",
+  "updated": "2025-05-08T03:28:02.000+00:00"
+}

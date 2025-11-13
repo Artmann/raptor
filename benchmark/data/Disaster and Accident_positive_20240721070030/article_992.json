@@ -1,0 +1,142 @@
+{
+  "thread": {
+    "uuid": "6792a72e29c0da2cd0016b726a3b0a498ed4266d",
+    "url": "https://localnews8.com/news/national-world/cnn-national/2024/06/24/the-dali-cargo-ship-leaves-baltimore-for-virginia-as-8-crew-members-stuck-on-board-for-months-are-finally-home",
+    "site_full": "localnews8.com",
+    "site": "localnews8.com",
+    "site_section": "https://localnews8.com/category/news/national-world/cnn-national/",
+    "site_categories": ["media"],
+    "section_title": null,
+    "title": "The Dali cargo ship leaves Baltimore for Virginia as 8 crew members stuck on board for months are finally home",
+    "title_full": "The Dali cargo ship leaves Baltimore for Virginia as 8 crew members stuck on board for months are finally home",
+    "published": "2024-06-24T17:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 25593,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6792a72e29c0da2cd0016b726a3b0a498ed4266d",
+  "url": "https://localnews8.com/news/national-world/cnn-national/2024/06/24/the-dali-cargo-ship-leaves-baltimore-for-virginia-as-8-crew-members-stuck-on-board-for-months-are-finally-home",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "CNN Newsource",
+  "published": "2024-06-24T17:00:00.000+03:00",
+  "title": "The Dali cargo ship leaves Baltimore for Virginia as 8 crew members stuck on board for months are finally home",
+  "text": "By Gabe Cohen, Holly Yan and Braden Walker, CNN\n(CNN) — Eight of the 21 crew members from the cargo ship that struck and destroyed a famed Baltimore bridge are back home Monday after myriad complications kept them confined on board for months.\nTwo other crew members have also been cleared to return overseas, a spokesperson for the ship’s manager said.\nThe news came as the Dali cargo vessel started its journey Monday from Baltimore’s Seagirt Marine Terminal to Norfolk, Virginia, to undergo repairs, said Darrell Wilson, spokesperson for ship manager Synergy Marine.\nFour crew members stayed on the ship to assist a relief crew during the Dali’s voyage to Norfolk, Wilson said. After the journey is complete, they will join the seven remaining crew members, who must stay in the US indefinitely.\nThe Dali’s crew members, including 20 from India and one from Sri Lanka, had been stuck on the Dali since March 26. During the frigid predawn hours, the 984-foot ship lost power, veered off course and destroyed the Francis Scott Key Bridge, killing six construction workers .\nWhile none of the crew members have been charged in connection with the disaster, investigations are underway to determine who might be responsible.\nThe ship’s officers are among the 11 crew members who must stay in the US, Wilson said. They have been cooperating with authorities, but it is unclear when they will get to leave.\nThe seamen who will remain in the US are expected to stay in hotels or apartments, said the Rev. Joshua Messick, director of the Baltimore International Seafarers’ Center and chaplain for the Port of Baltimore.\n“They’re anxious, under considerable stress, considering they don’t know what the future holds,” Messick told CNN Thursday. “They don’t know when they’ll see their family again or how they’ll be treated here.”\nAs for the 106,000-ton vessel , “The Dali is scheduled to transit directly to Virginia International Gateway to have roughly 1,500 cargo containers offloaded to reduce draft,” the US Coast Guard said in a statement Monday morning.\n“The vessel is then scheduled to transit further to Norfolk International Terminal, where it is slated to undergo continued salvage and repairs from damage caused during the bridge collapse.”\nThe-CNN-Wire\n™ & © 2024 Cable News Network, Inc., a Warner Bros. Discovery Company. All rights reserved.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Human Interest"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.cnn.com/2024/03/27/us/baltimore-key-bridge-collapse-victims/index.html",
+    "https://www.cnn.com/2024/04/15/us/francis-scott-key-bridge-investigation/index.html",
+    "https://www.cnn.com/2024/05/18/us/baltimore-bridge-dali-ship-crew/index.html",
+    "https://www.cnn.com/2024/05/20/us/baltimore-bridge-collapse-ship-relocation/index.html",
+    "https://cnn.com/2024/05/20/us/baltimore-bridge-collapse-ship-relocation/index.html",
+    "https://cnn.com/2024/03/27/us/baltimore-key-bridge-collapse-victims/index.html",
+    "https://cnn.com/2024/04/15/us/francis-scott-key-bridge-investigation/index.html",
+    "https://cnn.com/2024/05/18/us/baltimore-bridge-dali-ship-crew/index.html"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "braden walker",
+        "sentiment": "negative"
+      },
+      {
+        "name": "dali",
+        "sentiment": "negative"
+      },
+      {
+        "name": "gabe cohen",
+        "sentiment": "negative"
+      },
+      {
+        "name": "holly yan",
+        "sentiment": "negative"
+      },
+      {
+        "name": "darrell wilson",
+        "sentiment": "none"
+      },
+      {
+        "name": "wilson",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cnn",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "baltimore",
+        "sentiment": "none"
+      },
+      {
+        "name": "virginia",
+        "sentiment": "none"
+      },
+      {
+        "name": "sri lanka",
+        "sentiment": "none"
+      },
+      {
+        "name": "dali",
+        "sentiment": "none"
+      },
+      {
+        "name": "us",
+        "sentiment": "none"
+      },
+      {
+        "name": "francis scott key bridge",
+        "sentiment": "none"
+      },
+      {
+        "name": "norfolk",
+        "sentiment": "none"
+      },
+      {
+        "name": "india",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-24T18:17:30.022+03:00",
+  "updated": "2024-06-24T18:17:30.022+03:00"
+}

@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "4cbe26114e6181cefd3f62d432ebb883e5db75fa",
+    "url": "https://m.economictimes.com/news/defence/indian-army-builds-suspension-bridge-in-48-hours-in-rain-hit-north-sikkim/articleshow/111232053.cms",
+    "site_full": "m.economictimes.com",
+    "site": "economictimes.com",
+    "site_section": "https://economictimes.indiatimes.com/news/rssfeeds/1715249553.cms",
+    "site_categories": ["media", "financial_news", "finance"],
+    "section_title": "News-Economic Times",
+    "title": "Indian Army builds suspension bridge in 48 hours in rain-hit north Sikkim",
+    "title_full": "Indian Army builds suspension bridge in 48 hours in rain-hit north Sikkim",
+    "published": "2024-06-24T09:14:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://img.etimg.com/thumb/msid-111232067,width-1200,height-630,imgsize-62308,overlay-etdefence/photo.jpg",
+    "performance_score": 0,
+    "domain_rank": 2438,
+    "domain_rank_updated": "2024-06-18T13:08:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4cbe26114e6181cefd3f62d432ebb883e5db75fa",
+  "url": "https://m.economictimes.com/news/defence/indian-army-builds-suspension-bridge-in-48-hours-in-rain-hit-north-sikkim/articleshow/111232053.cms",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "PTI",
+  "published": "2024-06-24T09:14:00.000+03:00",
+  "title": "Indian Army builds suspension bridge in 48 hours in rain-hit north Sikkim",
+  "text": "Gangtok: The Indian army on Monday said the force has constructed a foot suspension bridge in less than 48 hours to reconnect the border villages in the northern part of Sikkim, which have been affected by heavy rain and landslides leading to the death of six people earlier this month. A suspension bridge has its roadway suspended from cables usually passing over towers and securely anchored at the ends. The Indian Army engineers of Trishakti Corps have constructed a 150-foot suspension bridge in North Sikkim to re-connect the border villages which got cut off due to continued heavy rains to give respite to the locals, the Indian Army said in a statement. The foot suspension bridge built over a stream in less than 48 hours will restore connectivity to the border villages and facilitate movement of the people and relief materials, it said. North Sikkim's Mangan district was lashed by torrential rains on June 13 snapping road links and communication infrastructure. As a result, around 1500 tourists had been stranded for almost a week.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Disaster and Accident", "Human Interest"],
+  "webz_reporter": false,
+  "external_links": [
+    "https://epaper.indiatimes.com/timesepaper/publication-the-economic-times,city-delhi.cms",
+    "https://buy.indiatimes.com/ET/plans",
+    "https://whatsapp.com/channel/0029Va54SU83rZZYg2XcdM0K",
+    "https://www.buy.indiatimes.com/ET/plans",
+    "https://www.whatsapp.com/channel/0029Va54SU83rZZYg2XcdM0K",
+    "https://www.epaper.indiatimes.com/timesepaper/publication-the-economic-times,city-delhi.cms"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "trishakti corps",
+        "sentiment": "negative"
+      },
+      {
+        "name": "indian army",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "sikkim gangtok",
+        "sentiment": "none"
+      },
+      {
+        "name": "mangan",
+        "sentiment": "none"
+      },
+      {
+        "name": "sikkim",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-24T14:24:53.403+03:00",
+  "updated": "2024-06-24T14:35:38.834+03:00"
+}

@@ -1,0 +1,71 @@
+{
+  "thread": {
+    "uuid": "4e1f6fa13e753c5200fc984527e2328debf8b499",
+    "url": "https://www.ledauphine.com/societe/2025/01/23/baptiste",
+    "site_full": "www.ledauphine.com",
+    "site": "ledauphine.com",
+    "site_section": "https://www.ledauphine.com/societe/societe",
+    "site_categories": ["media", "top_news_fr", "top_news"],
+    "section_title": "Société : toutes les infos sur Le Dauphiné Libéré",
+    "title": "Saulce-sur-Rhône | Naissance. Baptiste",
+    "title_full": "Saulce-sur-Rhône | Naissance. Baptiste",
+    "published": "2025-01-23T22:13:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://cdn-s-www.ledauphine.com/images/66966EFD-7FA0-470E-8388-04C89936F0A3/FB1200/photo-1737666858.jpg",
+    "performance_score": 0,
+    "domain_rank": 7701,
+    "domain_rank_updated": "2025-01-20T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4e1f6fa13e753c5200fc984527e2328debf8b499",
+  "url": "https://www.ledauphine.com/societe/2025/01/23/baptiste",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Le Dauphiné Libéré",
+  "published": "2025-01-23T22:13:00.000+02:00",
+  "title": "Saulce-sur-Rhône | Naissance. Baptiste",
+  "text": "Saulce-sur-Rhône | Naissance Baptiste\nGinette, Lucette, Claudine, Roger, Dani et Hubert sont très heureux d’annoncer la naissance de Baptiste. Ce joli petit bout de chou est né le 13 janvier à 12 h 01 et pesait 3,870 kilogrammes.\nSes parents, Clarisse Morfin, enseignante, et Antoine Cerre, artisan charpentier, sont aussi très heureux de cette naissance. Baptiste a la chance d’avoir un cousin.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "positive",
+  "categories": ["Human Interest", "Lifestyle and Leisure", "Social Issue"],
+  "topics": [
+    "Human Interest->birthday",
+    "Social Issue->family",
+    "Social Issue->children"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-24T00:11:10.589+02:00",
+  "updated": "2025-01-24T00:11:10.589+02:00"
+}

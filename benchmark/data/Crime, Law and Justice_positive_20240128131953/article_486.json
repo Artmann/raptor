@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "5d23d5278e2f3b43bcaac92be5f37fe5694089ba",
+    "url": "https://newsday.co.tt/2023/12/29/john-praises-nib-on-cyber-attack-response/",
+    "site_full": "newsday.co.tt",
+    "site": "newsday.co.tt",
+    "site_section": "https://newsday.co.tt/feed",
+    "site_categories": ["media"],
+    "section_title": "Trinidad and Tobago Newsday",
+    "title": "John praises NIB on cyber attack response",
+    "title_full": "John praises NIB on cyber attack response",
+    "published": "2023-12-29T16:09:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TT",
+    "main_image": "https://newsday.co.tt/wp-content/uploads/2023/12/23212564.jpg",
+    "performance_score": 0,
+    "domain_rank": 30291,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5d23d5278e2f3b43bcaac92be5f37fe5694089ba",
+  "url": "https://newsday.co.tt/2023/12/29/john-praises-nib-on-cyber-attack-response/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Clint Chan Tack",
+  "published": "2023-12-29T16:09:00.000+02:00",
+  "title": "John praises NIB on cyber attack response",
+  "text": "News\nJohn praises NIB on cyber attack response\nClint Chan Tack\nUNC deputy political leader Jearlean John praised the National Insurance Board (NIB) for the manner in which it handled that a cyber attack on Wednesday.\nJohn also said the Opposition will keep an open mind with respect to cyber security legislation which Government plans to bring to Parliament.\nShe made these comments during the UNC's final news conference for the year on Thursday.\nIn two separate statements on Wednesday, the NIB announced that it experienced a cyber attack and had engaged local and foreign experts for help.\nThe NIB said that \"all steps are being taken to protect our data integrity and technology hardware.\"\nThe company added, \"We are also continuing to diligently work with our external technology partners expeditiously resolve this matter.\"\nThe NIB said it reported the incident to the National Security Ministry's TT Cyber Security Incident Response Team (TT-CSIRT) and is working with them toward a resolution.\nShe claimed the NIB's approach was better than than taken by the Telecommunications Sservices of TT (TSTT) two months earlier when it experienced a cyber attack.\n\"They (NIB) have been upfront and said they have been hacked.\"\nJohn said to date, no one knows what was the cause of the cyber attack on TSTT.\nSpeaking in the Senate on November 7, Public Utilities Minister Marvin Gonzales said Government had mandated TSTT's board to do a thorough and independent investigation.\nThe board, he continued, has taken steps towards facilitating the start of the probe.\nGonzales said, \" Additionally, TSTT is still in the process of evaluating all aspects of the attack, including the validation of all reported information in the public domain, that is the personal data of all our citizens, inclusive of members of the Cabinet and parliamentarians.\"\nThat exercise is being done on a customer-by-customer basis.\nAs the results of the investigation become available, Gonzales promised \"to provide further clarity on this ongoing situation to the national community.\"\nAsked whether the Opposition would support any proposed cyber security legislation that Government bring.\nto Parliament, John reiterated that the UNC will always support legislation that is in the country's best interest.\nIn the Senate on December 19, Attorney General Reginald Armour, SC, said laws to deal with cyber crime will be coming to Parliament soon.\nHe said his ministry is preparing \"a cyber crime legislative package that will replace the existing Computer Misuse Act.\"\nArmour said, \"The most notable legislative reforms include the advancement of computer-related crimes, seeking to protect against the involvement of our youth in this type of criminal activity and the need to streamline our laws with that of international legal advancements.\"\nHe said the legislative package that will replace the Computer Misuse Act will \"accommodate the robust criminalisation of cyber crimes through new advances of information and communication technologies.\"\nJohn said stronger legislation to thwart cyber criminals was just one part of the solution towards strengthening cyber security.\nShe suggested that public and private sector companies do regular reviews of their cyber security measures to ensure they are operating properly.\nJohn added that cyber criminals often target entities which they feel have vulnerabilities in their cyber systems.\nDuring a meeting of the Parliament's Social Services and Public Administration Committee meeting on December 11, its members were told about 200 cyber attacks on public and private sector entities over the last five years and no legislation to define these incidents as crimes and help the authorities bring the perpetrators to justice.\nThose testimonies came from members of TT-CSIRT and the police cyber and social media unit (CSMU).\nCSMU head Supt Amos Sylvester said while there have been many cyber incidents, there are no specific laws which identify them as crimes.\n\"We depend largely on legislation (to act against criminals).\"\nSylvester was unaware of anyone being charged for computer-related offences in the last three years.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": ["Crime, Law and Justice", "Politics"],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "clint chan tack",
+        "sentiment": "negative"
+      },
+      {
+        "name": "jearlean",
+        "sentiment": "negative"
+      },
+      {
+        "name": "john",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "nib",
+        "sentiment": "negative"
+      },
+      {
+        "name": "unc",
+        "sentiment": "negative"
+      },
+      {
+        "name": "national insurance board",
+        "sentiment": "none"
+      },
+      {
+        "name": "national security ministry",
+        "sentiment": "none"
+      },
+      {
+        "name": "opposition",
+        "sentiment": "none"
+      },
+      {
+        "name": "parliament",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T16:24:46.920+02:00",
+  "updated": "2023-12-29T16:24:46.920+02:00"
+}

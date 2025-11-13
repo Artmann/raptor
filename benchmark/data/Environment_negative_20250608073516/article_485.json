@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "6b91b482bb2afaa1c0eae00e6adc8d62c426bf7d",
+    "url": "https://www.lostiempos.com/actualidad/cochabamba/20250507/pobladores-colcapirhua-masificaran-bloqueo-rechazo-planta-residuos",
+    "site_full": "www.lostiempos.com",
+    "site": "lostiempos.com",
+    "site_section": "http://www.lostiempos.com/rss/ultimas",
+    "site_categories": ["media", "world_soccer", "sports"],
+    "section_title": "TCP admite 3 recursos relacionados con las elecciones y garantiza continuidad del proceso electoral",
+    "site_title": "Noticias de Bolivia y del mundo | Los Tiempos",
+    "title": "Pobladores de Colcapirhua masificarán bloqueo ante rechazo de la planta de residuos sólidos",
+    "title_full": "Pobladores de Colcapirhua masificarán bloqueo ante rechazo de la planta de residuos sólidos",
+    "published": "2025-05-08T01:24:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BO",
+    "main_image": "https://www.lostiempos.com/sites/default/files/media_imagen/2025/5/7/bloqueo_cola_miercoles_ed_va.jpg",
+    "performance_score": 0,
+    "domain_rank": 29939,
+    "domain_rank_updated": "2025-05-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6b91b482bb2afaa1c0eae00e6adc8d62c426bf7d",
+  "url": "https://www.lostiempos.com/actualidad/cochabamba/20250507/pobladores-colcapirhua-masificaran-bloqueo-rechazo-planta-residuos",
+  "ord_in_thread": 0,
+  "author": "kvasquez",
+  "published": "2025-05-08T01:24:00.000+03:00",
+  "title": "Pobladores de Colcapirhua masificarán bloqueo ante rechazo de la planta de residuos sólidos",
+  "text": "Pobladores de Colcapirhua masificarán bloqueo ante rechazo de la planta de residuos sólidos\nEl presidente del distrito D de Colcapirhua, Oscar Leyton, anunció este miércoles que se masificará el bloqueo ante el rechazo a la planta de residuos sólidos en la parte sur de ese municipio, ubicado en Cochabamba.\n“La población colcapirhueña continúa en lucha hasta que se dé solución a este atentado y se respete el derecho a la salud de nuestra población; segundo, los 5 presidentes de los distritos y las 76 OTB’s (Organización Territorial de Base) continuamos movilizados y se masificará el bloqueo”, anunció en conferencia de prensa.\nIndicó que los bloqueos cubrirán el sector de la avenida Blanco Galindo y en la avenida Víctor Ustáriz, de la ciudad de Cochabamba, a fin de que los carros de basura no ingresen al relleno sanitario de Colcapirhua y se respete el derecho a la salud de la población.\nEste miércoles se cumplió el quinto día de bloqueo, donde pobladores cercaron las calles con grandes piedras colocadas sobre la vía, que impedían el paso hacia Quillacollo, generando un caos vehicular en la transitada avenida Blanco Galindo, a la altura del municipio de Colcapirhua.\n“Se público el primer voto resolutivo en el cual se rechazó contundentemente el emplazamiento improvisado de la supuesta planta Industrial de Residuos Sólidos en la parte sur de nuestro municipio y a la fecha la supuesta empresa ‘Tunqui’ no cuenta con licencia ambiental ni solicitud realizada ante esta autoridad”, manifestó Leyton.\nAsimismo, comunicó que las medidas seguirán y exigió la intervención inmediata de la Gobernación y del Instituto Nacional de Reforma Agraria (INRA) para frenar el ingreso de los carros basureros.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": ["Social Issue", "Politics", "Environment"],
+  "topics": [
+    "Social Issue->social problem",
+    "Social Issue->communities",
+    "Politics->political dissent",
+    "Politics->citizens' initiative and recall",
+    "Politics->local government and authority",
+    "Environment->waste materials",
+    "Environment->environmental pollution",
+    "Environment->sustainability"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Víctor Ustáriz",
+        "sentiment": "none"
+      },
+      {
+        "name": "Oscar Leyton",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Quillacollo",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Organización Territorial de Base",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-08T04:15:15.259+03:00",
+  "updated": "2025-05-08T01:19:51.000+00:00"
+}
