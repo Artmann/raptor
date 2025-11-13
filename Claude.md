@@ -356,6 +356,7 @@ raptor store doc1 "text" --storePath ./custom.jsonl
 
 ## Additional Resources
 
+- **CODE_STYLE.md** - Detailed code style guide and conventions
 - **README.md** - User-facing documentation
 - **package.json** - Scripts and dependencies
 - **tsconfig.json** - TypeScript configuration
