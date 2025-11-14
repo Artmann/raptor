@@ -1,6 +1,6 @@
 {
-  "name": "raptor",
-  "version": "0.1.0",
+  "name": "embedded-raptor",
+  "version": "1.0.0",
   "description": "Lightweight semantic search database with text embeddings for Node.js and Bun",
   "author": "Christoffer Artmann <artgaard@gmail.com>",
   "license": "MIT",
