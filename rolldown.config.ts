@@ -24,8 +24,13 @@ export default defineConfig({
     'node:path',
     'node:fs',
     'node:url',
+    'fs/promises',
+    'path',
+    'fs',
+    'url',
     'cleye',
     'fastembed',
-    'tiny-invariant'
+    'tiny-invariant',
+    '@xenova/transformers'
   ]
 })
