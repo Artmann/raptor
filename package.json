@@ -6,11 +6,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/artmann/raptor.git"
+    "url": "https://github.com/artmann/embedded-raptor.git"
   },
-  "homepage": "https://github.com/artmann/raptor#readme",
+  "homepage": "https://github.com/artmann/embedded-raptor#readme",
   "bugs": {
-    "url": "https://github.com/artmann/raptor/issues"
+    "url": "https://github.com/artmann/embedded-raptor/issues"
   },
   "keywords": [
     "embeddings",

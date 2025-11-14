@@ -1,21 +1,21 @@
-# Raptor
+# Embedded Raptor
 
-[![CI](https://img.shields.io/github/actions/workflow/status/artmann/raptor/ci.yml?branch=main&label=CI&logo=github)](https://github.com/artmann/raptor/actions/workflows/ci.yml)
-[![npm version](https://img.shields.io/npm/v/raptor.svg?logo=npm)](https://www.npmjs.com/package/raptor)
-[![npm downloads](https://img.shields.io/npm/dm/raptor.svg)](https://www.npmjs.com/package/raptor)
+[![CI](https://img.shields.io/github/actions/workflow/status/artmann/embedded-raptor/ci.yml?branch=main&label=CI&logo=github)](https://github.com/artmann/embedded-raptor/actions/workflows/ci.yml)
+[![npm version](https://img.shields.io/npm/v/embedded-raptor.svg?logo=npm)](https://www.npmjs.com/package/embedded-raptor)
+[![npm downloads](https://img.shields.io/npm/dm/embedded-raptor.svg)](https://www.npmjs.com/package/embedded-raptor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg?logo=typescript)](https://www.typescriptlang.org/)
 
 > A lightweight semantic search database with text embeddings for Node.js and
 > Bun
 
-Raptor lets you build semantic search into your applications with just a few
+Embedded Raptor lets you build semantic search into your applications with just a few
 lines of code. Store text, search by meaning, and find similar content—perfect
 for RAG systems, chatbots, and recommendation engines.
 
-## What is Raptor?
+## What is Embedded Raptor?
 
-Raptor is an embedding database that automatically converts text into vector
+Embedded Raptor is an embedding database that automatically converts text into vector
 embeddings and stores them in an efficient binary format. Instead of searching
 by exact keywords, you can search by semantic similarity—finding documents that
 mean the same thing, even if they use different words.
@@ -23,7 +23,7 @@ mean the same thing, even if they use different words.
 **Example:** Search for "how to reset password" and find results like "forgot my
 login credentials" or "change account password".
 
-## Why Raptor?
+## Why Embedded Raptor?
 
 - **Simple API** - No complex setup, just store and search
 - **Semantic Search** - Find content by meaning, not just keywords
@@ -44,10 +44,10 @@ login credentials" or "change account password".
 
 ```bash
 # Using npm
-npm install raptor
+npm install embedded-raptor
 
 # Using bun
-bun add raptor
+bun add embedded-raptor
 ```
 
 ## Quick Start
@@ -55,7 +55,7 @@ bun add raptor
 ### Programmatic API
 
 ```typescript
-import { EmbeddingEngine } from 'raptor'
+import { EmbeddingEngine } from 'embedded-raptor'
 
 const engine = new EmbeddingEngine({
   storePath: './my-database.raptor'
@@ -203,11 +203,11 @@ raptor store key1 "Some text" --storePath ./data/custom.raptor
 
 ## How It Works
 
-1. **Text → Embeddings**: Raptor uses the BGE-Base-EN model to convert text into
+1. **Text → Embeddings**: Embedded Raptor uses the BGE-Base-EN model to convert text into
    768-dimensional vector embeddings
 2. **Storage**: Embeddings are stored in an efficient binary format (.raptor
    files)
-3. **Search**: When you search, Raptor compares your query embedding against all
+3. **Search**: When you search, Embedded Raptor compares your query embedding against all
    stored embeddings using cosine similarity
 4. **Results**: Returns the most similar results ranked by similarity score
 

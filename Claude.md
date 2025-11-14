@@ -1,8 +1,8 @@
-# Claude.md - Raptor Project Guide
+# Claude.md - Embedded Raptor Project Guide
 
 ## Project Overview
 
-**Raptor** is a lightweight embedding database built for the Bun runtime that
+**Embedded Raptor** is a lightweight embedding database built for the Bun runtime that
 stores text embeddings in an append-only JSONL file format. It provides semantic
 search capabilities using cosine similarity with the BGE-Base-EN embedding model
 (768 dimensions).
@@ -271,7 +271,7 @@ Each line is a JSON object:
 ### Programmatic Usage
 
 ```typescript
-import { EmbeddingEngine } from 'raptor'
+import { EmbeddingEngine } from 'embedded-raptor'
 
 const engine = new EmbeddingEngine({
   storePath: './my-database.jsonl'

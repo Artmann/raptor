@@ -1,7 +1,7 @@
-# Raptor Examples
+# Embedded Raptor Examples
 
 This directory contains practical examples demonstrating different use cases for
-the Raptor embedding database.
+the Embedded Raptor embedding database.
 
 ## Running Examples
 
